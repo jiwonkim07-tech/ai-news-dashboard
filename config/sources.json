@@ -1,0 +1,7 @@
+{
+  "_comment": "감시할 대상만 여기서 수정하세요. 코드 수정 불필요.",
+  "x_accounts": ["OpenAI", "AnthropicAI", "karpathy", "sama", "GoogleDeepMind"],
+  "telegram_channels": ["andyc14note"],
+  "max_items_per_source": 12,
+  "summarize": true
+}

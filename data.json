@@ -1,0 +1,36 @@
+{
+  "updated_at": "2026-07-01T09:00:00+00:00",
+  "counts": { "total": 3, "new_this_run": 3 },
+  "items": [
+    {
+      "id": "x:OpenAI:sample1",
+      "source": "x",
+      "author": "OpenAI",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI",
+      "text": "(샘플) This is a placeholder item shown before the first automated fetch runs. Once GitHub Actions runs, real posts will replace these samples.",
+      "summary_ko": "(샘플) 첫 자동 수집 전 표시되는 예시 글입니다. GitHub Actions가 실행되면 실제 글로 대체됩니다.",
+      "published_at": "2026-07-01T08:40:00+00:00"
+    },
+    {
+      "id": "x:karpathy:sample2",
+      "source": "x",
+      "author": "karpathy",
+      "author_url": "https://x.com/karpathy",
+      "url": "https://x.com/karpathy",
+      "text": "(샘플) Example tweet body demonstrating the original-text section, the '원문 더보기' expand toggle, and the link to the source post. Replace by running the fetch pipeline.",
+      "summary_ko": "(샘플) 원문 표시·더보기·원글 링크 동작을 보여주는 예시입니다.",
+      "published_at": "2026-07-01T07:10:00+00:00"
+    },
+    {
+      "id": "tg:andyc14note:sample3",
+      "source": "telegram",
+      "author": "andyc14note",
+      "author_url": "https://t.me/andyc14note",
+      "url": "https://t.me/andyc14note",
+      "text": "(샘플) 텔레그램 공개 채널에서 수집된 애널리스트 코멘트 예시입니다. 실제 수집 시 t.me/s 미리보기에서 최근 글을 가져옵니다.",
+      "summary_ko": "(샘플) 텔레그램 애널리스트 코멘트 예시 — 실제로는 최근 공개 글을 수집합니다.",
+      "published_at": "2026-07-01T06:30:00+00:00"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+:root{
+  --bg:#0b0f17; --card:#131a26; --card2:#0f1521; --line:#222c3d;
+  --txt:#e7edf6; --muted:#8b97aa; --accent:#3b82f6;
+  --x:#e7edf6; --xline:#3a4152; --tg:#229ED9; --new:#22c55e;
+}
+*{box-sizing:border-box}
+html,body{margin:0;padding:0}
+body{
+  background:radial-gradient(1200px 600px at 50% -10%, #16203099, transparent), var(--bg);
+  color:var(--txt);
+  font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Pretendard","Noto Sans KR",Roboto,sans-serif;
+  -webkit-font-smoothing:antialiased; line-height:1.5;
+}
+.wrap{max-width:760px;margin:0 auto;padding:0 16px}
+a{color:var(--accent);text-decoration:none}
+
+/* Topbar */
+.topbar{border-bottom:1px solid var(--line);background:#0b0f17cc;backdrop-filter:blur(8px);position:sticky;top:0;z-index:10}
+.topbar .wrap{display:flex;align-items:center;justify-content:space-between;gap:12px;padding-top:11px;padding-bottom:11px}
+.brand{display:flex;align-items:center;gap:11px;min-width:0}
+.brand .logo{font-size:24px;flex:0 0 auto}
+.brand h1{font-size:18px;margin:0;letter-spacing:-.3px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.brand .sub{margin:1px 0 0;font-size:12px;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.refresh-btn{flex:0 0 auto;background:#0f1521;border:1px solid var(--line);color:var(--txt);
+  width:38px;height:38px;border-radius:10px;font-size:17px;cursor:pointer;transition:.15s}
+.refresh-btn:hover{border-color:var(--accent);color:#fff}
+.refresh-btn:active{transform:scale(.95)}
+.refresh-btn.spin{animation:spin .7s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* Status */
+.statusbar{display:flex;align-items:center;justify-content:space-between;gap:10px;
+  font-size:12px;color:var(--muted);margin:14px 2px 4px}
+.statusbar .count b{color:var(--txt)}
+
+/* Filters */
+.filters{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0 6px}
+.chip{background:#0f1521;border:1px solid var(--line);color:var(--muted);
+  font-size:12.5px;font-weight:600;padding:6px 12px;border-radius:999px;cursor:pointer;transition:.12s}
+.chip:hover{border-color:var(--accent);color:var(--txt)}
+.chip.active{background:var(--accent);border-color:var(--accent);color:#fff}
+.chip .n{opacity:.7;margin-left:4px;font-weight:700}
+
+/* Feed */
+.feed{display:flex;flex-direction:column;gap:12px;margin:12px 0}
+.item{background:linear-gradient(180deg,var(--card),var(--card2));border:1px solid var(--line);
+  border-radius:14px;padding:15px 16px;box-shadow:0 6px 24px #00000026;position:relative}
+.item.x{border-left:3px solid var(--xline)}
+.item.telegram{border-left:3px solid var(--tg)}
+.item-head{display:flex;align-items:center;gap:8px;margin-bottom:8px;flex-wrap:wrap}
+.src-badge{font-size:10.5px;font-weight:800;letter-spacing:.3px;padding:2px 7px;border-radius:6px;text-transform:uppercase}
+.src-badge.x{background:#1b2535;color:#e7edf6;border:1px solid var(--xline)}
+.src-badge.telegram{background:#0e3346;color:#5cc8f5;border:1px solid #1b6a8f}
+.author{font-weight:700;font-size:14px;color:var(--txt)}
+.author:hover{color:var(--accent)}
+.time{font-size:11.5px;color:var(--muted);margin-left:auto;white-space:nowrap}
+.new-badge{font-size:10px;font-weight:800;color:#04240f;background:var(--new);
+  padding:1px 6px;border-radius:5px;letter-spacing:.3px}
+
+.summary{font-size:14.5px;font-weight:600;letter-spacing:-.2px;margin:2px 0 8px;color:#f2f6fc}
+.summary.none{font-weight:500;color:var(--muted)}
+.orig{font-size:13px;color:#c4cdda;line-height:1.55;white-space:pre-wrap;word-break:break-word}
+.orig.clamp{display:-webkit-box;-webkit-line-clamp:4;-webkit-box-orient:vertical;overflow:hidden}
+.item-foot{display:flex;align-items:center;gap:12px;margin-top:10px}
+.toggle-orig{background:none;border:none;color:var(--muted);font-size:12px;cursor:pointer;padding:0}
+.toggle-orig:hover{color:var(--accent)}
+.orig-link{font-size:12px;font-weight:600;margin-left:auto}
+
+.empty{text-align:center;color:var(--muted);padding:40px 0;font-size:14px}
+
+/* Disclaimer / footer */
+.disclaimer{font-size:11.5px;color:var(--muted);line-height:1.6;margin:20px 2px 8px;
+  padding:12px;border:1px dashed var(--line);border-radius:12px}
+.foot{padding:16px 16px 40px;text-align:center}
+.muted{color:var(--muted);font-size:12px}
+
+@media (max-width:480px){
+  .brand h1{font-size:16px}
+  .summary{font-size:14px}
+}
