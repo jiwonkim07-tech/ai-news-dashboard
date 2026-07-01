@@ -81,17 +81,31 @@ function render() {
   renderFilters();
 
   var feed = document.getElementById("feed");
+  feed.className = "board";
   feed.innerHTML = "";
   var list = state.items.filter(matchFilter);
 
   if (!list.length) {
-    var empty = el("div", "empty", "표시할 소식이 없습니다.");
-    feed.appendChild(empty);
-  } else {
-    list.forEach(function (it) {
-      feed.appendChild(renderItem(it, lastSeen));
-    });
+    feed.classList.remove("board");
+    feed.appendChild(el("div", "empty", "표시할 소식이 없습니다."));
+    localStorage.setItem(LAST_SEEN_KEY, String(Date.now()));
+    return;
   }
+
+  // 계정별로 그룹핑 → 패널(칸)
+  var groups = {};
+  list.forEach(function (it) {
+    var k = it.source + ":" + it.author;
+    (groups[k] = groups[k] || { author: it.author, source: it.source, items: [] }).items.push(it);
+  });
+  var panels = Object.keys(groups).map(function (k) { return groups[k]; });
+  panels.forEach(function (g) {
+    g.items.sort(function (a, b) { return new Date(b.published_at) - new Date(a.published_at); });
+    g.latest = g.items.length ? new Date(g.items[0].published_at).getTime() : 0;
+  });
+  // 최근 글이 있는 계정 칸을 앞으로
+  panels.sort(function (a, b) { return b.latest - a.latest; });
+  panels.forEach(function (g) { feed.appendChild(renderPanel(g, lastSeen)); });
 
   // 방문 시점 기록 (다음 방문의 NEW 기준)
   localStorage.setItem(LAST_SEEN_KEY, String(Date.now()));
@@ -132,43 +146,57 @@ function renderFilters() {
   });
 }
 
-function renderItem(it, lastSeen) {
-  var card = el("div", "item " + it.source);
+/* 계정별 패널(칸) */
+function renderPanel(g, lastSeen) {
+  var panel = el("div", "panel " + g.source);
+  var newN = g.items.filter(function (it) {
+    return new Date(it.published_at).getTime() > lastSeen;
+  }).length;
+
+  var head = el("div", "panel-head");
+  head.appendChild(el("span", "src-badge " + g.source, g.source === "x" ? "X" : "TG"));
+  var a = el("a", "panel-author", "@" + g.author);
+  a.href = g.items[0].author_url; a.target = "_blank"; a.rel = "noopener";
+  head.appendChild(a);
+  if (newN) head.appendChild(el("span", "new-badge", "NEW " + newN));
+  head.appendChild(el("span", "panel-count", g.items.length));
+  panel.appendChild(head);
+
+  var body = el("div", "panel-body");
+  g.items.forEach(function (it) { body.appendChild(renderPost(it, lastSeen)); });
+  panel.appendChild(body);
+  return panel;
+}
+
+/* 패널 안의 개별 글 (컴팩트) */
+function renderPost(it, lastSeen) {
+  var post = el("div", "post");
   var isNew = new Date(it.published_at).getTime() > lastSeen;
 
-  var head = el("div", "item-head");
-  head.appendChild(el("span", "src-badge " + it.source, it.source === "x" ? "X" : "TG"));
-  var a = el("a", "author", "@" + it.author);
-  a.href = it.author_url; a.target = "_blank"; a.rel = "noopener";
-  head.appendChild(a);
-  if (isNew) head.appendChild(el("span", "new-badge", "NEW"));
-  head.appendChild(el("span", "time", timeAgo(it.published_at)));
-  card.appendChild(head);
+  var meta = el("div", "post-meta");
+  if (isNew) meta.appendChild(el("span", "dot-new", ""));
+  meta.appendChild(el("span", "post-time", timeAgo(it.published_at)));
+  post.appendChild(meta);
 
-  if (it.summary_ko) {
-    card.appendChild(el("div", "summary", it.summary_ko));
-  } else {
-    card.appendChild(el("div", "summary none", "(자동 요약 없음 — 원문 참고)"));
-  }
+  if (it.summary_ko) post.appendChild(el("div", "post-summary", it.summary_ko));
 
-  var orig = el("div", "orig clamp", it.text || "");
-  card.appendChild(orig);
+  var orig = el("div", "post-text clamp", it.text || "");
+  post.appendChild(orig);
 
-  var foot = el("div", "item-foot");
-  if ((it.text || "").length > 140) {
-    var toggle = el("button", "toggle-orig", "원문 더보기");
+  var foot = el("div", "post-foot");
+  if ((it.text || "").length > 110) {
+    var toggle = el("button", "toggle-orig", "더보기");
     toggle.onclick = function () {
-      var clamped = orig.classList.toggle("clamp");
-      toggle.textContent = clamped ? "원문 더보기" : "접기";
+      var c = orig.classList.toggle("clamp");
+      toggle.textContent = c ? "더보기" : "접기";
     };
     foot.appendChild(toggle);
   }
-  var link = el("a", "orig-link", "원글 열기 ↗");
+  var link = el("a", "orig-link", "원글 ↗");
   link.href = it.url; link.target = "_blank"; link.rel = "noopener";
   foot.appendChild(link);
-  card.appendChild(foot);
-
-  return card;
+  post.appendChild(foot);
+  return post;
 }
 
 /* ---------- 텔레그램 헤더 버튼 ---------- */

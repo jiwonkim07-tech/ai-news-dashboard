@@ -305,19 +305,37 @@ def main():
     max_items = int(cfg.get("max_items_per_source", 12))
     do_summarize = bool(cfg.get("summarize", True))
 
-    state = load_json(STATE_PATH, {})           # {source_key: [id, ...]}
+    state = load_json(STATE_PATH, {})           # {source_key: [id, ...], "_meta": {...}}
     prev = load_json(DATA_PATH, {"items": []})
     prev_items = {it["id"]: it for it in prev.get("items", [])}
 
+    # X는 RapidAPI 유료 한도(월 1,000회)를 아끼려고 N시간마다만 수집.
+    # cron은 매시간 돌지만, 마지막 X 수집 후 간격이 안 지났으면 이번 회차 X는 건너뜀.
+    meta = state.get("_meta", {}) if isinstance(state.get("_meta"), dict) else {}
+    x_every_h = float(cfg.get("x_fetch_every_hours", 12))
+    last_x = meta.get("last_x_fetch")
+    do_x = True
+    if last_x:
+        try:
+            elapsed = (dt.datetime.now(dt.timezone.utc)
+                       - dt.datetime.fromisoformat(last_x)).total_seconds()
+            do_x = elapsed >= x_every_h * 3600 * 0.95   # cron 지연 여유 5%
+        except Exception:
+            do_x = True
+
     # 1) 수집
     fetched: list[dict] = []
-    for acc in x_accounts:
-        fetched += fetch_x(acc, max_items)
+    if x_accounts and do_x:
+        log(f"X 수집 진행 (마지막 수집 후 {x_every_h}h 경과)")
+        for acc in x_accounts:
+            fetched += fetch_x(acc, max_items)
+    elif x_accounts:
+        log(f"X 수집 건너뜀 (아직 {x_every_h}h 미경과 — RapidAPI 한도 절약)")
     for ch in tg_channels:
         fetched += fetch_telegram(ch, max_items)
 
-    # 2) 신규 판별
-    seen_ids = {i for ids in state.values() for i in ids}
+    # 2) 신규 판별 (state 의 리스트 값만 대상, _meta 같은 dict 는 제외)
+    seen_ids = {i for ids in state.values() if isinstance(ids, list) for i in ids}
     new_items = [it for it in fetched if it["id"] not in seen_ids
                  and it["id"] not in prev_items]
     log(f"수집 {len(fetched)}건 / 신규 {len(new_items)}건")
@@ -346,6 +364,11 @@ def main():
         keep = lst[:max_items]
         kept += keep
         new_state[key] = [x["id"] for x in lst[:STATE_KEEP]]
+
+    # X 수집 시각 기록 (다음 회차의 12h 간격 판정용)
+    new_state["_meta"] = {
+        "last_x_fetch": now_iso() if (x_accounts and do_x) else (last_x or ""),
+    }
 
     kept.sort(key=lambda x: x["published_at"], reverse=True)
 

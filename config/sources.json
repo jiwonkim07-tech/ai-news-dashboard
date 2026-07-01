@@ -3,5 +3,6 @@
   "x_accounts": ["OpenAI", "AnthropicAI", "karpathy", "sama", "GoogleDeepMind", "GoogleAI", "demishassabis", "ylecun", "AndrewYNg", "_akhaliq"],
   "telegram_channels": ["EMchina", "aetherjapanresearch", "bornlupin", "enc210406", "globaletfi", "HI_GS", "awake_globalwatch"],
   "max_items_per_source": 12,
+  "x_fetch_every_hours": 12,
   "summarize": true
 }
