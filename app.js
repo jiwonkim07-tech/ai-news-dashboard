@@ -103,8 +103,11 @@ function render() {
     g.items.sort(function (a, b) { return new Date(b.published_at) - new Date(a.published_at); });
     g.latest = g.items.length ? new Date(g.items[0].published_at).getTime() : 0;
   });
-  // 최근 글이 있는 계정 칸을 앞으로
-  panels.sort(function (a, b) { return b.latest - a.latest; });
+  // X 계정 칸을 맨 앞으로, 그 안에서는 최신 글 있는 순으로
+  panels.sort(function (a, b) {
+    if (a.source !== b.source) return a.source === "x" ? -1 : 1;
+    return b.latest - a.latest;
+  });
   panels.forEach(function (g) { feed.appendChild(renderPanel(g, lastSeen)); });
 
   // 방문 시점 기록 (다음 방문의 NEW 기준)
@@ -163,14 +166,25 @@ function renderPanel(g, lastSeen) {
   panel.appendChild(head);
 
   var body = el("div", "panel-body");
-  g.items.forEach(function (it) { body.appendChild(renderPost(it, lastSeen)); });
+  // 최신 글(맨 위)은 헤드라인, 나머지는 한 줄 헤드라인 목록
+  g.items.forEach(function (it, idx) {
+    body.appendChild(idx === 0 ? renderHeadline(it, lastSeen) : renderCompact(it, lastSeen));
+  });
   panel.appendChild(body);
   return panel;
 }
 
-/* 패널 안의 개별 글 (컴팩트) */
-function renderPost(it, lastSeen) {
-  var post = el("div", "post");
+/* 글의 헤드라인 문구 (요약 우선, 없으면 원문 첫 줄) */
+function headlineText(it) {
+  if (it.summary_ko) return it.summary_ko;
+  var lines = (it.text || "").split("\n").map(function (s) { return s.trim(); })
+    .filter(function (s) { return s && !/^=+$/.test(s); });
+  return lines[0] || "(내용 없음)";
+}
+
+/* 최신 글 — 큰 뉴스 헤드라인 + 발췌 */
+function renderHeadline(it, lastSeen) {
+  var post = el("div", "post headline");
   var isNew = new Date(it.published_at).getTime() > lastSeen;
 
   var meta = el("div", "post-meta");
@@ -178,13 +192,14 @@ function renderPost(it, lastSeen) {
   meta.appendChild(el("span", "post-time", timeAgo(it.published_at)));
   post.appendChild(meta);
 
-  if (it.summary_ko) post.appendChild(el("div", "post-summary", it.summary_ko));
+  post.appendChild(el("div", "post-headline", headlineText(it)));
 
-  var orig = el("div", "post-text clamp", it.text || "");
+  var body = (it.text || "").trim();
+  var orig = el("div", "post-text clamp", body);
   post.appendChild(orig);
 
   var foot = el("div", "post-foot");
-  if ((it.text || "").length > 110) {
+  if (body.length > 110) {
     var toggle = el("button", "toggle-orig", "더보기");
     toggle.onclick = function () {
       var c = orig.classList.toggle("clamp");
@@ -197,6 +212,22 @@ function renderPost(it, lastSeen) {
   foot.appendChild(link);
   post.appendChild(foot);
   return post;
+}
+
+/* 지난 글 — 한 줄 헤드라인(클릭 시 원글) */
+function renderCompact(it, lastSeen) {
+  var a = document.createElement("a");
+  a.className = "post compact";
+  a.href = it.url; a.target = "_blank"; a.rel = "noopener";
+  var isNew = new Date(it.published_at).getTime() > lastSeen;
+
+  var meta = el("div", "post-meta");
+  if (isNew) meta.appendChild(el("span", "dot-new", ""));
+  meta.appendChild(el("span", "post-time", timeAgo(it.published_at)));
+  a.appendChild(meta);
+
+  a.appendChild(el("div", "post-headline", headlineText(it)));
+  return a;
 }
 
 /* ---------- 텔레그램 헤더 버튼 ---------- */
