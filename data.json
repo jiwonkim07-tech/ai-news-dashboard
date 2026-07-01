@@ -1,8 +1,8 @@
 {
   "updated_at": "2026-07-01T13:14:32+00:00",
   "counts": {
-    "total": 87,
-    "new_this_run": 84
+    "total": 84,
+    "new_this_run": 0
   },
   "items": [
     {
@@ -186,16 +186,6 @@
       "published_at": "2026-07-01T08:55:41+00:00"
     },
     {
-      "id": "x:OpenAI:sample1",
-      "source": "x",
-      "author": "OpenAI",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI",
-      "text": "(샘플) This is a placeholder item shown before the first automated fetch runs. Once GitHub Actions runs, real posts will replace these samples.",
-      "summary_ko": "(샘플) 첫 자동 수집 전 표시되는 예시 글입니다. GitHub Actions가 실행되면 실제 글로 대체됩니다.",
-      "published_at": "2026-07-01T08:40:00+00:00"
-    },
-    {
       "id": "tg:HI_GS/6634",
       "source": "telegram",
       "author": "HI_GS",
@@ -236,16 +226,6 @@
       "published_at": "2026-07-01T07:23:55+00:00"
     },
     {
-      "id": "x:karpathy:sample2",
-      "source": "x",
-      "author": "karpathy",
-      "author_url": "https://x.com/karpathy",
-      "url": "https://x.com/karpathy",
-      "text": "(샘플) Example tweet body demonstrating the original-text section, the '원문 더보기' expand toggle, and the link to the source post. Replace by running the fetch pipeline.",
-      "summary_ko": "(샘플) 원문 표시·더보기·원글 링크 동작을 보여주는 예시입니다.",
-      "published_at": "2026-07-01T07:10:00+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/23176",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -274,16 +254,6 @@
       "text": "월드컵 때문에\n========================\n~ Macau’s gross gaming revenue fell to MOP$18.5 billion (US$2.29 billion) in June, down 12.1% year-on-year according to information from the Gaming Inspection and Coordination Bureau (DICJ)\n~ The figure was also down 18.1% compared to May, with industry commentators putting at least some of the decline down to the impact of the ongoing football World Cup in the USA, Canada and Mexico. The June result was Macau’s lowest since September\n~ Analysts had predicted a softer June for Macau’s operators because of the World Cup swallowing the betting budgets of some players. Citigroup also prophesized that the impact could be greater than usual because the 2026 World Cup features an expanded 48-team format, meaning a total of 104 games will be played compared with 64 games historically\nhttps://asgam.com/2026/07/01/macau-ggr-falls-12-1-year-on-year-to-mop18-5-billion-in-june-as-operators-feel-impact-of-football-world-cup/",
       "summary_ko": "",
       "published_at": "2026-07-01T06:58:33+00:00"
-    },
-    {
-      "id": "tg:andyc14note:sample3",
-      "source": "telegram",
-      "author": "andyc14note",
-      "author_url": "https://t.me/andyc14note",
-      "url": "https://t.me/andyc14note",
-      "text": "(샘플) 텔레그램 공개 채널에서 수집된 애널리스트 코멘트 예시입니다. 실제 수집 시 t.me/s 미리보기에서 최근 글을 가져옵니다.",
-      "summary_ko": "(샘플) 텔레그램 애널리스트 코멘트 예시 — 실제로는 최근 공개 글을 수집합니다.",
-      "published_at": "2026-07-01T06:30:00+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/23175",

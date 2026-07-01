@@ -193,22 +193,32 @@ def _fetch_x_rapidapi(account: str, limit: int) -> list[dict]:
 
 # ============================================================= 한국어 요약
 def summarize_batch(items: list[dict]):
-    """신규 항목들의 한국어 요약을 배치로 채운다(제자리 수정)."""
+    """신규 항목들의 한국어 요약을 배치로 채운다(제자리 수정).
+    무료 한도를 고려해 한 회차 요약 건수를 제한하고, 할당량(429)에 걸리면
+    남은 배치를 중단한다(실패 로그 폭주 방지)."""
     if not items or not GEMINI_API_KEY:
         if items and not GEMINI_API_KEY:
             log("GEMINI_API_KEY 없음 → 요약 생략(원문만 저장)")
         return
+
+    model_name = os.environ.get("GEMINI_MODEL", "gemini-2.0-flash").strip()
+    max_n = int(os.environ.get("MAX_SUMMARIZE", "60"))
     try:
         import google.generativeai as genai
         genai.configure(api_key=GEMINI_API_KEY)
-        model = genai.GenerativeModel("gemini-2.0-flash")
+        model = genai.GenerativeModel(model_name)
     except Exception as e:
         log(f"Gemini 초기화 실패 → 요약 생략: {e}")
         return
 
-    BATCH = 10
-    for start in range(0, len(items), BATCH):
-        chunk = items[start:start + BATCH]
+    # 최신순으로 최대 max_n건만 요약(무료 한도 절약)
+    targets = sorted(items, key=lambda x: x["published_at"], reverse=True)[:max_n]
+    if len(items) > max_n:
+        log(f"요약 대상 {len(items)}건 중 최신 {max_n}건만 처리(무료 한도)")
+
+    BATCH = 15
+    for start in range(0, len(targets), BATCH):
+        chunk = targets[start:start + BATCH]
         numbered = "\n\n".join(
             f"[{i}] (@{it['author']}) {it['text'][:800]}" for i, it in enumerate(chunk)
         )
@@ -230,8 +240,13 @@ def summarize_batch(items: list[dict]):
                     it["summary_ko"] = by_i[i]
             log(f"요약 완료: {start}~{start+len(chunk)-1}")
         except Exception as e:
+            msg = str(e)
+            if "429" in msg or "quota" in msg.lower() or "exhausted" in msg.lower():
+                log("Gemini 할당량 초과(429) → 이번 회차 요약 중단(원문만 저장). "
+                    "무료 한도 회복 후 다음 실행에서 재시도됨.")
+                return
             log(f"요약 배치 실패({start}): {e}")
-        time.sleep(1.2)  # 무료 티어 RPM 여유
+        time.sleep(2.0)  # 무료 티어 RPM 여유
 
 
 # =================================================================== 유틸
