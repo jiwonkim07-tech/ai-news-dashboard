@@ -6,6 +6,6 @@
     { "id": "semianalysis", "name": "SemiAnalysis", "url": "https://newsletter.semianalysis.com/feed", "site": "https://semianalysis.com", "translate": true }
   ],
   "max_items_per_source": 12,
-  "x_fetch_every_hours": 12,
+  "x_fetch_every_hours": 3,
   "summarize": true
 }

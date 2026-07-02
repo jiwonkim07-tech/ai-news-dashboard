@@ -47,11 +47,16 @@ HEADERS = {"User-Agent": UA, "Accept-Language": "en,ko;q=0.9"}
 TIMEOUT = 25.0
 STATE_KEEP = 200  # 소스별로 기억할 최근 id 개수
 
-# RSSHub 공개 인스턴스 후보 (앞에서부터 시도)
+# Nitter 인스턴스 후보 (앞에서부터 시도, 무료). 2026-07 기준 nitter.net 정상.
+DEFAULT_NITTER = [
+    "https://nitter.net",
+    "https://nitter.privacyredirect.com",
+    "https://nitter.poast.org",
+]
+# RSSHub 공개 인스턴스 후보 (니터 실패 시 2차)
 DEFAULT_RSSHUB = [
     "https://rsshub.app",
     "https://rsshub.rssforever.com",
-    "https://rss.shab.fun",
 ]
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
@@ -133,7 +138,10 @@ def fetch_telegram(channel: str, limit: int) -> list[dict]:
 
 # ================================================================= X 수집
 def fetch_x(account: str, limit: int) -> list[dict]:
-    """무료(RSSHub) 우선, 실패 시 RapidAPI 폴백."""
+    """무료 우선: Nitter RSS → RSSHub → (키 있으면) RapidAPI 폴백."""
+    items = _fetch_x_nitter(account, limit)
+    if items:
+        return items
     items = _fetch_x_rsshub(account, limit)
     if items:
         return items
@@ -142,6 +150,58 @@ def fetch_x(account: str, limit: int) -> list[dict]:
         if items:
             return items
     log(f"x '{account}': 수집 실패(무료·폴백 모두)")
+    return []
+
+
+def _fetch_x_nitter(account: str, limit: int) -> list[dict]:
+    """Nitter 인스턴스의 /<account>/rss 를 파싱(무료·키 불필요)."""
+    import urllib.parse
+    bases = [b.strip() for b in os.environ.get("NITTER_BASES", "").split(",") if b.strip()]
+    bases = bases or DEFAULT_NITTER
+    for base in bases:
+        try:
+            r = httpx.get(f"{base}/{account}/rss", headers=HEADERS,
+                          timeout=TIMEOUT, follow_redirects=True)
+            if r.status_code != 200 or "<item>" not in r.text:
+                continue
+            feed = feedparser.parse(r.text)
+            if not feed.entries:
+                continue
+            items = []
+            for e in feed.entries[:limit]:
+                link = e.get("link", "")
+                m = re.search(r"/status/(\d+)", link)
+                native = m.group(1) if m else (e.get("id") or link)
+                text = _clean_html(e.get("title") or "")
+                # 첨부 이미지: description 의 <img> → nitter 프록시를 pbs 원본으로 변환
+                images = []
+                raw = e.get("summary", "") or ""
+                for src in re.findall(r'<img[^>]+src="([^"]+)"', raw)[:2]:
+                    mm = re.search(r"/pic/(?:orig/)?(.+)$", src)
+                    if mm:
+                        images.append("https://pbs.twimg.com/"
+                                      + urllib.parse.unquote(mm.group(1)))
+                    elif src.startswith("http"):
+                        images.append(src)
+                x_url = f"https://x.com/{account}/status/{native}" if str(native).isdigit() \
+                    else f"https://x.com/{account}"
+                items.append({
+                    "id": f"x:{account}:{native}",
+                    "source": "x",
+                    "author": account,
+                    "author_name": f"@{account}",
+                    "author_url": f"https://x.com/{account}",
+                    "url": x_url,
+                    "text": text,
+                    "images": images,
+                    "summary_ko": "",
+                    "published_at": _entry_time(e),
+                })
+            log(f"x '{account}': Nitter({base}) {len(items)}건")
+            return items
+        except Exception as e:
+            log(f"x '{account}': Nitter({base}) 오류 {e}")
+            continue
     return []
 
 
@@ -457,12 +517,18 @@ def main():
                  and it["id"] not in prev_items]
     log(f"수집 {len(fetched)}건 / 신규 {len(new_items)}건")
 
-    # 3-a) RSS(영문) 신규 항목은 구글 번역(무료)으로 한국어 번역 → summary_ko
-    for it in new_items:
-        if it.get("_translate") and it["source"] == "rss":
+    # 3-a) RSS(영문)·X 신규 항목은 구글 번역(무료)으로 한국어 번역 → summary_ko
+    tr_max = int(os.environ.get("TRANSLATE_MAX", "80"))
+    tr_done = 0
+    for it in sorted(new_items, key=lambda x: x["published_at"], reverse=True):
+        if tr_done >= tr_max:
+            break
+        need = (it.get("_translate") and it["source"] == "rss") or it["source"] == "x"
+        if need:
             ko = translate_ko(it["text"][:800])
-            if ko:
+            if ko and ko.strip() != it["text"].strip():
                 it["summary_ko"] = ko
+            tr_done += 1
             time.sleep(0.6)
     for it in fetched:
         it.pop("_translate", None)
