@@ -196,15 +196,19 @@ function renderPanel(g, lastSeen) {
   return panel;
 }
 
-/* 글의 헤드라인 문구 (요약 우선, 없으면 원문 첫 줄) */
+/* 글의 헤드라인 문구 (한국어 요약/번역 우선, 없으면 원문 첫 의미있는 줄) */
 function headlineText(it) {
-  if (it.summary_ko) return it.summary_ko;
+  if (it.summary_ko) return firstLine(it.summary_ko);
   var lines = (it.text || "").split("\n").map(function (s) { return s.trim(); })
-    .filter(function (s) { return s && !/^=+$/.test(s); });
-  return lines[0] || "(내용 없음)";
+    .filter(function (s) { return s && /[0-9A-Za-z가-힣]/.test(s); });
+  return lines[0] || "(이미지/차트)";
+}
+function firstLine(s) {
+  var lines = String(s).split("\n").filter(function (x) { return x.trim(); });
+  return lines[0] || s;
 }
 
-/* 최신 글 — 큰 뉴스 헤드라인 + 발췌 */
+/* 최신 글 — 뉴스 헤드라인 + 첨부이미지 + 발췌 */
 function renderHeadline(it, lastSeen) {
   var post = el("div", "post headline");
   var isNew = new Date(it.published_at).getTime() > lastSeen;
@@ -214,41 +218,67 @@ function renderHeadline(it, lastSeen) {
   meta.appendChild(el("span", "post-time", timeAgo(it.published_at)));
   post.appendChild(meta);
 
-  post.appendChild(el("div", "post-headline", headlineText(it)));
+  // 제목(클릭 시 원글)
+  var hl = document.createElement("a");
+  hl.className = "hl-link"; hl.href = it.url; hl.target = "_blank"; hl.rel = "noopener";
+  hl.appendChild(el("div", "post-headline", headlineText(it)));
+  post.appendChild(hl);
 
-  var body = (it.text || "").trim();
-  var orig = el("div", "post-text clamp", body);
-  post.appendChild(orig);
-
-  var foot = el("div", "post-foot");
-  if (body.length > 110) {
-    var toggle = el("button", "toggle-orig", "더보기");
-    toggle.onclick = function () {
-      var c = orig.classList.toggle("clamp");
-      toggle.textContent = c ? "더보기" : "접기";
-    };
-    foot.appendChild(toggle);
+  // 첨부 이미지 (차트가 잘리지 않게 contain)
+  if (it.images && it.images.length) {
+    var img = document.createElement("img");
+    img.className = "post-image"; img.src = it.images[0];
+    img.loading = "lazy"; img.referrerPolicy = "no-referrer";
+    img.onerror = function () { img.remove(); };
+    post.appendChild(img);
   }
-  var link = el("a", "orig-link", "원글 ↗");
-  link.href = it.url; link.target = "_blank"; link.rel = "noopener";
-  foot.appendChild(link);
-  post.appendChild(foot);
+
+  // 발췌 (요약/번역이 헤드라인과 다르면 요약 전문, 아니면 원문)
+  var excerpt = it.summary_ko && it.summary_ko !== headlineText(it) ? it.summary_ko : (it.text || "");
+  excerpt = excerpt.trim();
+  if (excerpt && excerpt !== headlineText(it)) {
+    var ex = el("div", "post-excerpt", excerpt);
+    post.appendChild(ex);
+    var foot = el("div", "post-foot");
+    if (excerpt.length > 130) {
+      var toggle = el("button", "toggle-orig", "더보기");
+      toggle.onclick = function () {
+        var expanded = ex.style.webkitLineClamp === "unset";
+        ex.style.webkitLineClamp = expanded ? "" : "unset";
+        toggle.textContent = expanded ? "더보기" : "접기";
+      };
+      foot.appendChild(toggle);
+    }
+    var link = el("a", "orig-link", "원글 ↗");
+    link.href = it.url; link.target = "_blank"; link.rel = "noopener";
+    foot.appendChild(link);
+    post.appendChild(foot);
+  }
   return post;
 }
 
-/* 지난 글 — 한 줄 헤드라인(클릭 시 원글) */
+/* 지난 글 — 한 줄 헤드라인 목록 (+작은 썸네일) */
 function renderCompact(it, lastSeen) {
   var a = document.createElement("a");
   a.className = "post compact";
   a.href = it.url; a.target = "_blank"; a.rel = "noopener";
   var isNew = new Date(it.published_at).getTime() > lastSeen;
 
+  var main = el("div", "compact-main");
   var meta = el("div", "post-meta");
   if (isNew) meta.appendChild(el("span", "dot-new", ""));
   meta.appendChild(el("span", "post-time", timeAgo(it.published_at)));
-  a.appendChild(meta);
+  main.appendChild(meta);
+  main.appendChild(el("div", "post-headline", headlineText(it)));
+  a.appendChild(main);
 
-  a.appendChild(el("div", "post-headline", headlineText(it)));
+  if (it.images && it.images.length) {
+    var img = document.createElement("img");
+    img.className = "compact-thumb"; img.src = it.images[0];
+    img.loading = "lazy"; img.referrerPolicy = "no-referrer";
+    img.onerror = function () { img.remove(); };
+    a.appendChild(img);
+  }
   return a;
 }
 

@@ -91,15 +91,27 @@ def fetch_telegram(channel: str, limit: int) -> list[dict]:
         # 본문
         body = msg.select_one(".tgme_widget_message_text")
         text = body.get_text("\n", strip=True) if body else ""
+        # 첨부 이미지 (background-image url 추출)
+        images = []
+        for ph in msg.select(".tgme_widget_message_photo_wrap"):
+            m = re.search(r"background-image:\s*url\('([^']+)'\)", ph.get("style", ""))
+            if m:
+                images.append(m.group(1))
         # 시간
         t = msg.select_one("a.tgme_widget_message_date time")
         published = t.get("datetime") if t and t.get("datetime") else now_iso()
         link_el = msg.select_one("a.tgme_widget_message_date")
         link = link_el.get("href") if link_el else f"https://t.me/{post}"
 
+        # 장식용 글(◆ 같은 기호만) 처리: 이미지도 없으면 스킵, 이미지 있으면 라벨로 대체
+        if _is_decorative(text):
+            if not images:
+                continue
+            text = ""
+        if not text and not images:
+            continue
         if not text:
-            # 미디어만 있는 글은 간단 표기
-            text = "(미디어/첨부 글 — 원문에서 확인)"
+            text = "(이미지/차트 — 원문 참고)"
 
         items.append({
             "id": f"tg:{post}",
@@ -109,6 +121,7 @@ def fetch_telegram(channel: str, limit: int) -> list[dict]:
             "author_url": f"https://t.me/{channel}",
             "url": link,
             "text": text,
+            "images": images,
             "summary_ko": "",
             "published_at": _norm_dt(published),
         })
@@ -224,13 +237,31 @@ def fetch_rss(feed: dict, limit: int) -> list[dict]:
         log(f"rss '{fid}' 실패: {e}")
         return []
 
+    translate = bool(feed.get("translate", True))
     items = []
     for e in parsed.entries[:limit]:
         link = e.get("link", "") or site
-        m = re.search(r"/([^/]+)/?$", link)
-        native = (m.group(1) if m else e.get("id") or link)[:60]
+        m = re.search(r"/([^/?#]+)/?(?:[?#].*)?$", link)
+        native = (m.group(1) if m else e.get("id") or link)[:80]
         title = _clean_html(e.get("title") or "")
         summ = _clean_html(e.get("summary") or e.get("description") or "")
+        # 대표 이미지: enclosure → media:content → 본문 첫 <img> 순
+        images = []
+        for enc in e.get("enclosures", []):
+            if enc.get("href") and "image" in (enc.get("type") or "image"):
+                images.append(enc["href"]); break
+        if not images:
+            for mc in e.get("media_content", []):
+                if mc.get("url"):
+                    images.append(mc["url"]); break
+        if not images:
+            raw = ""
+            if e.get("content"):
+                raw = e["content"][0].get("value", "")
+            raw = raw or e.get("summary", "")
+            mi = re.search(r'<img[^>]+src="([^"]+)"', raw or "")
+            if mi:
+                images.append(mi.group(1))
         text = title + (("\n\n" + summ) if summ else "")
         items.append({
             "id": f"rss:{fid}:{native}",
@@ -240,8 +271,10 @@ def fetch_rss(feed: dict, limit: int) -> list[dict]:
             "author_url": site,
             "url": link,
             "text": text.strip() or title or "(내용 없음)",
+            "images": images,
             "summary_ko": "",
             "published_at": _entry_time(e),
+            "_translate": translate,   # 신규 항목만 나중에 번역 (저장 전 제거)
         })
     log(f"rss '{fid}': {len(items)}건")
     return items[:limit]
@@ -306,6 +339,31 @@ def summarize_batch(items: list[dict]):
 
 
 # =================================================================== 유틸
+def _is_decorative(s: str) -> bool:
+    """글자/숫자가 하나도 없는 기호 전용 텍스트(◆, ▶, ---- 등)인지."""
+    return not re.search(r"[0-9A-Za-z가-힣一-鿿ぁ-ヺ]", s or "")
+
+
+def translate_ko(text: str) -> str:
+    """구글 번역 무료 엔드포인트(gtx — Chrome 번역과 동일 엔진)로 한국어 번역.
+    키 불필요. 실패 시 빈 문자열."""
+    text = (text or "").strip()
+    if not text:
+        return ""
+    try:
+        r = httpx.get(
+            "https://translate.googleapis.com/translate_a/single",
+            params={"client": "gtx", "sl": "auto", "tl": "ko", "dt": "t", "q": text[:1500]},
+            headers=HEADERS, timeout=TIMEOUT,
+        )
+        r.raise_for_status()
+        arr = r.json()
+        return "".join(seg[0] for seg in arr[0] if seg and seg[0]).strip()
+    except Exception as e:
+        log(f"번역 실패: {e}")
+        return ""
+
+
 def _clean_html(s: str) -> str:
     s = html.unescape(s or "")
     s = BeautifulSoup(s, "html.parser").get_text(" ", strip=True)
@@ -399,16 +457,30 @@ def main():
                  and it["id"] not in prev_items]
     log(f"수집 {len(fetched)}건 / 신규 {len(new_items)}건")
 
-    # 3) 신규만 요약
-    if do_summarize and new_items:
-        summarize_batch(new_items)
+    # 3-a) RSS(영문) 신규 항목은 구글 번역(무료)으로 한국어 번역 → summary_ko
+    for it in new_items:
+        if it.get("_translate") and it["source"] == "rss":
+            ko = translate_ko(it["text"][:800])
+            if ko:
+                it["summary_ko"] = ko
+            time.sleep(0.6)
+    for it in fetched:
+        it.pop("_translate", None)
 
-    # 4) 병합 (기존 요약은 유지, 신규는 새로)
+    # 3-b) 나머지 신규만 Gemini 요약 (이미 번역된 항목 제외)
+    if do_summarize:
+        targets = [it for it in new_items if not it.get("summary_ko")]
+        if targets:
+            summarize_batch(targets)
+
+    # 4) 병합 — 기존 항목도 최신 수집분으로 필드 갱신(요약/번역만 보존)
     merged: dict[str, dict] = dict(prev_items)
     for it in fetched:
         if it["id"] in merged:
-            # 기존 항목 유지 (요약 재사용), 최신 url/text 소폭 갱신
-            merged[it["id"]]["url"] = it["url"]
+            old_summary = merged[it["id"]].get("summary_ko", "")
+            merged[it["id"]] = it
+            if old_summary and not it.get("summary_ko"):
+                merged[it["id"]]["summary_ko"] = old_summary
         else:
             merged[it["id"]] = it
 

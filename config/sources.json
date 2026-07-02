@@ -1,9 +1,9 @@
 {
   "_comment": "감시할 대상만 여기서 수정하세요. 코드 수정 불필요.",
   "x_accounts": ["OpenAI", "AnthropicAI", "karpathy", "sama", "GoogleDeepMind", "GoogleAI", "demishassabis", "ylecun", "AndrewYNg", "_akhaliq"],
-  "telegram_channels": ["EMchina", "aetherjapanresearch", "bornlupin", "enc210406", "globaletfi", "HI_GS", "awake_globalwatch"],
+  "telegram_channels": ["EMchina", "aetherjapanresearch", "bornlupin", "enc210406", "globaletfi", "HI_GS"],
   "rss_feeds": [
-    { "id": "semianalysis", "name": "SemiAnalysis", "url": "https://www.semianalysis.com/feed", "site": "https://semianalysis.com" }
+    { "id": "semianalysis", "name": "SemiAnalysis", "url": "https://newsletter.semianalysis.com/feed", "site": "https://semianalysis.com", "translate": true }
   ],
   "max_items_per_source": 12,
   "x_fetch_every_hours": 12,
