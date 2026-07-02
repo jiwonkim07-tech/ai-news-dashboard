@@ -1,11 +1,25 @@
 {
-  "updated_at": "2026-07-02T15:24:42+00:00",
+  "updated_at": "2026-07-02T17:48:22+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 23
+    "new_this_run": 1
   },
   "briefing": null,
   "items": [
+    {
+      "id": "rss:semianalysis:ectc2026",
+      "source": "rss",
+      "author": "semianalysis",
+      "author_name": "SemiAnalysis",
+      "author_url": "https://semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/ectc2026",
+      "text": "EMIB-T Roadmap, Custom HBM, HBM4 Packaging Challenges, Microfluidic Cooling, Photonic Interconnects, and More\n\nECTC 2026 Roundup, Intel, TSMC, SK Hynix, Samsung, Micron, Marvell, Lightmatter, Microsoft",
+      "images": [
+        "https://substack-post-media.s3.amazonaws.com/public/images/44179ccc-ffaf-47c1-8c68-36e5e07743e6_5504x3072.jpeg"
+      ],
+      "summary_ko": "EMIB-T 로드맵, 맞춤형 HBM, HBM4 패키징 과제, 미세 유체 냉각, 광자 상호 연결 등\n\nECTC 2026 Roundup, Intel, TSMC, SK Hynix, Samsung, Micron, Marvell, Lightmatter, Microsoft",
+      "published_at": "2026-07-02T17:25:38+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23235",
       "source": "telegram",
@@ -2393,20 +2407,6 @@
       ],
       "summary_ko": "R에서 @GoogleAI로: 아바타가 스페인어, 영어, 일본어를 말하는 것을 지켜보세요.",
       "published_at": "2026-05-29T00:30:28+00:00"
-    },
-    {
-      "id": "rss:semianalysis:finding-miscompiles-for-fun-not-profit",
-      "source": "rss",
-      "author": "semianalysis",
-      "author_name": "SemiAnalysis",
-      "author_url": "https://semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/finding-miscompiles-for-fun-not-profit",
-      "text": "Finding Miscompiles for Fun, Not Profit\n\nOr: You don’t need access to Claude Mythos to spend $10,000 in an afternoon.",
-      "images": [
-        "https://substackcdn.com/image/fetch/$s_!Jz_b!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7bab807d-7d4b-438e-a5e5-ac1166c7f5f6_1672x941.png"
-      ],
-      "summary_ko": "이익이 아닌 재미를 위해 잘못된 컴파일 찾기\n\n또는: 오후에 $10,000를 지출하기 위해 Claude Mythos에 액세스할 필요가 없습니다.",
-      "published_at": "2026-05-28T00:22:41+00:00"
     },
     {
       "id": "x:AndrewYNg:2059006941012295935",
