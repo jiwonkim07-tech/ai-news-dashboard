@@ -624,6 +624,24 @@ def main():
         else:
             merged[it["id"]] = it
 
+    # 4-b) 설정에서 제거된 소스의 글은 삭제 (좀비 소스 방지)
+    allowed = set()
+    for acc in x_accounts:
+        allowed.add("x:" + (acc.get("id", "") if isinstance(acc, dict) else acc).lower())
+    for ch in tg_channels:
+        allowed.add("telegram:" + ch.lower())
+    for feed in rss_feeds:
+        allowed.add("rss:" + (feed.get("id") or feed.get("name", "")).lower())
+    merged = {k: v for k, v in merged.items()
+              if f"{v['source']}:{v['author']}".lower() in allowed}
+
+    # 4-c) X 표시 이름은 설정 기준으로 항상 최신화 (수집 스킵 회차 포함)
+    name_map = {acc["id"].lower(): acc.get("name", "")
+                for acc in x_accounts if isinstance(acc, dict) and acc.get("id")}
+    for v in merged.values():
+        if v["source"] == "x" and name_map.get(v["author"].lower()):
+            v["author_name"] = name_map[v["author"].lower()]
+
     # 5) 소스별 최신순 컷
     by_source: dict[str, list[dict]] = {}
     for it in merged.values():
