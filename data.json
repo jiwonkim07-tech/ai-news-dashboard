@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-07-02T17:48:22+00:00",
+  "updated_at": "2026-07-02T19:28:44+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 1
+    "new_this_run": 7
   },
   "briefing": null,
   "items": [
@@ -21,6 +21,20 @@
       "published_at": "2026-07-02T17:25:38+00:00"
     },
     {
+      "id": "x:ylecun:2072699094040998064",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2072699094040998064",
+      "text": "RT by @ylecun: Oops, SIGReg did it again! Large scale (CC12M->Datacomp-L) vision-language JEPA pretraining beats CLIP and SigLIP objectives! Thanks to SIGReg, our LeVLJEPA has no collapse, no EMA, no stop-gradient, no negatives, no problem! Checkpoints/demo are live: http://levljepa.github.io",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2072681813609197568/img/tw6uNU7JOrs5ZTAM.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 이런, SIGReg가 또 해냈습니다! Large scale (CC12M->Datacomp-L) vision-language JEPA pretraining beats CLIP and SigLIP objectives! Thanks to SIGReg, our LeVLJEPA has no collapse, no EMA, no stop-gradient, no negatives, no problem! Checkpoints/demo are live: http://levljepa.github.io",
+      "published_at": "2026-07-02T15:09:07+00:00"
+    },
+    {
       "id": "tg:aetherjapanresearch/23235",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -35,6 +49,20 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-02T14:18:15+00:00"
+    },
+    {
+      "id": "x:ylecun:2072685678572269701",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2072685678572269701",
+      "text": "RT by @ylecun: 🔥 We introduce LeVLJEPA: the first fully non-contrastive end-to-end vision-language pretraining method competitive with CLIP & SigLIP 💪🏼 👀 No negatives. No temperature. No momentum encoder. No teacher-student. TL;DR: LeVLJEPA learns image to text structure by prediction: each modality predicts the other's embedding, while SIGReg keeps each embedding isotropic Gaussian. 🧵 📄 https://arxiv.org/abs/2607.00784",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2072681813609197568/img/tw6uNU7JOrs5ZTAM.jpg"
+      ],
+      "summary_ko": "RT by @ylecun: 🔥 We introduce LeVLJEPA: the first fully non-contrastive end-to-end vision-language pretraining method competitive with CLIP & SigLIP 💪🏼 👀 No negatives. 온도가 없습니다. 운동량 인코더가 없습니다. 교사-학생이 없습니다. TL;DR: LeVLJEPA learns image to text structure by prediction: each modality predicts the other's embedding, while SIGReg keeps each embedding isotropic Gaussian. 🧵 📄 https://arxiv.org/abs/2607.00784",
+      "published_at": "2026-07-02T14:15:49+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/23234",
@@ -609,6 +637,20 @@
       "published_at": "2026-07-02T04:10:27+00:00"
     },
     {
+      "id": "x:ylecun:2072519692166602811",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2072519692166602811",
+      "text": "RT by @ylecun: BREAKING: CNN just aired a devastating montage of all the times that Donald Trump accused others of using their public office to make money. Donald Trump's net worth has almost tripled since he took office. Everything he accuses others of is an open admission.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2072519611266863104/img/S-e0cJ9sPMacM-R-.jpg"
+      ],
+      "summary_ko": "RT by @yleun: 속보: CNN은 도널드 트럼프가 다른 사람들이 돈을 벌기 위해 공직을 이용했다고 비난한 모든 시간에 대한 파괴적인 몽타주를 방금 방송했습니다. 도널드 트럼프의 순자산은 취임 이후 거의 3배로 늘어났다. Everything he accuses others of is an open admission.",
+      "published_at": "2026-07-02T03:16:14+00:00"
+    },
+    {
       "id": "tg:EMchina/31270",
       "source": "telegram",
       "author": "EMchina",
@@ -695,6 +737,18 @@
       "images": [],
       "summary_ko": "@yleun의 RT: Shift Key에서 @yayitsrob과 함께 Gigascale 논문, 하드 기술, \"미국은 아무것도 만들 수 없다\"는 견해가 잘못된 이유에 대해 긴 대화를 나눴습니다. 내가 믿는 몇 가지: 🧵",
       "published_at": "2026-07-02T00:09:11+00:00"
+    },
+    {
+      "id": "x:ylecun:2072471917018177886",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2072471917018177886",
+      "text": "RT by @ylecun: Starting in early 2025, Elon Musk and the Trump administration began terminating USAID's programs and firing its staff — with Musk himself boasting about \"feeding it into the woodchipper.\" One year ago today, USAID was officially dissolved, its remaining programs haphazardly folded into the State Department. Amid all the lies and misinformation that have followed, some facts about what has actually been lost: • USAID saved more than 3 million lives a year at a cost of less than $10/month per American. That is what was destroyed. On purpose. • According to Boston University's Global Impact Counter — which tracked deaths attributable to the cuts until it stopped operations in February 2026 — an estimated 781,000 people died preventable deaths in the first year, including 518,000 children. • Global child mortality (the number of children who die before their fifth birthday) rose in 2025 for the first time in 35+ years — by 200,000 additional deaths. • USAID's 50-country disease surveillance network — the system that cut outbreak response times from 2 weeks to 48 hours — is gone. We are now watching an unprecedented Ebola outbreak unfold in real time — with the highest first-month caseload and death rate in modern history. • Programs reaching 93 million women and children were cut 92%. TB programs cut 56%. Water and sanitation cut 86%. Over 2,000 health facilities permanently closed. • 25 million fewer people received humanitarian assistance in 2025. The overall humanitarian budget was slashed 74% — from $14.1 billion to $3.7 billion. • 363 million people face acute hunger in 2026. The famine early-warning system that would have seen it coming went dark for five months. • $1.7 billion in democracy and governance funding (election monitoring, anti-corruption work, support for independent media and civil society) was terminated. • 360+ independent media outlets lost funding. Hundreds of legal clinics closed. • Far from saving money, the Trump administration itself has already said the dismantlement will cost taxpayers at least $19.2 billion in cancellation fees, severance, and penalties. That's more than half of USAID's annual budget — spent on destruction and closeout, not support for vulnerable people. • American farmers, universities, and businesses are among the casualties too. USAID partnered with more than 3,500 U.S. companies and maintained 17 university-based research labs. Its work with U.S.-based contractors and the private sector generated hundreds of thousands of American jobs and multiplied the return on every dollar spent. Those markets and partnerships are gone.",
+      "images": [],
+      "summary_ko": "RT by @ylecun: Starting in early 2025, Elon Musk and the Trump administration began terminating USAID's programs and firing its staff — with Musk himself boasting about \"feeding it into the woodchipper.\" One year ago today, USAID was officially dissolved, its remaining programs haphazardly folded into the State Department. Amid all the lies and misinformation that have followed, some facts about what has actually been lost: • USAID saved more than 3 million lives a year at a cost of less than $10/month per American. That is what was destroyed. 의도적으로. • According to Boston University's Global Impact Counter — which tracked deaths attributable to the cuts until it stopped operations in February 2026 — an estimated 781,000 people died preventable deaths in the first year, including 518,0",
+      "published_at": "2026-07-02T00:06:24+00:00"
     },
     {
       "id": "tg:EMchina/31267",
@@ -896,32 +950,6 @@
       "published_at": "2026-07-01T17:06:19+00:00"
     },
     {
-      "id": "x:ylecun:2072349419937145234",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2072349419937145234",
-      "text": "RT by @ylecun: To everyone celebrating the first flight on Qatar Force One today, understand what you are actually applauding. A foreign government handed the sitting President of the United States a $400 million plane. American taxpayers then paid to retrofit it, with an estimated cost of at least another $400 million (some estimates far higher), for security and communications work in a Texas hangar since last September. When Trump leaves office, the plane does not stay with the government. Ownership transfers to his presidential library foundation. In other words, he keeps it. You are being asked to treat pure corruption as normal, to shrug at a President personally profiting from a foreign gift the taxpayers paid to upgrade. In any other administration this would be the scandal that ends a presidency. With Trump, it’s Wednesday. https://abcnews.com/Politics/trump-takes-1st-flight-new-air-force-gifted/story?id=134373911",
-      "images": [
-        "https://pbs.twimg.com/card_img/2072343884177522688/9bScGHkA?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@yleun의 RT: 오늘 카타르 포스 원의 첫 비행을 축하하는 모든 사람들에게 실제로 박수를 보내는 것이 무엇인지 이해하십시오. 외국 정부는 현직 미국 대통령에게 4억 달러 규모의 비행기를 건네주었습니다. 그런 다음 미국 납세자들은 지난 9월부터 텍사스 격납고의 보안 및 통신 작업을 위해 최소한 4억 달러(일부는 훨씬 더 높은 것으로 추산)의 추가 비용으로 개조 비용을 지불했습니다. 트럼프가 퇴임하면 비행기는 정부에 머물지 않습니다. 소유권은 대통령도서관재단으로 이전된다. 즉, 그는 그것을 유지합니다. 당신은 순수한 부패를 정상적인 것으로 취급하고 납세자들이 업그레이드를 위해 지불한 외국 선물로부터 개인적으로 이익을 얻는 대통령에게 어깨를 으쓱하라는 요청을 받고 있습니다. 다른 어떤 행정부에서도 이것은 스캔들이 될 것입니다.",
-      "published_at": "2026-07-01T15:59:38+00:00"
-    },
-    {
-      "id": "x:ylecun:2072323838587625795",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2072323838587625795",
-      "text": "RT by @ylecun: Donald Trump made more than $2 billion last year while lying that affordability issues are a hoax and prices are going down. Never in American history has a man exploited the White House while in office for such corruption and self-enrichment.",
-      "images": [],
-      "summary_ko": "@yleun의 RT: 도널드 트럼프는 경제성 문제가 사기이고 가격이 하락하고 있다고 거짓말하면서 작년에 20억 달러 이상을 벌었습니다. 미국 역사상 한 남자가 재직 중에 백악관을 그러한 부패와 자기 풍요로움을 위해 착취한 적이 없습니다.",
-      "published_at": "2026-07-01T14:17:59+00:00"
-    },
-    {
       "id": "x:GoogleAI:2072318809277390940",
       "source": "x",
       "author": "GoogleAI",
@@ -934,32 +962,6 @@
       ],
       "summary_ko": "생성적 AI 도구가 계속해서 발전함에 따라 우리는 AI에서 생성된 것과 그렇지 않은 것을 아는 것이 그 어느 때보다 중요하다고 믿습니다. 이것이 바로 @GoogleDeepMind가 AI 콘텐츠에 숨겨진 디지털 워터마크를 추가하는 기술인 SynthID를 2023년에 출시한 이유입니다. 다음은 SynthID의 여정에 대한 요약이며 현재 출처 기술(디지털 콘텐츠의 문서화된 역사 및 출처)은 다음과 같습니다. — SynthID 워터마킹은 원래 이미지용으로 제작되었지만 이제는 비디오, 오디오 및 텍스트를 지원합니다. — 이 기술은 60,000년 분량의 오디오와 함께 1000억 개가 넘는 이미지와 비디오에 워터마크를 추가했습니다. — 이제 Google 검색, Chrome의 Gemini 및 5천만 번 이상 활용된 @GeminiApp에서 직접 SynthID를 사용하여 콘텐츠를 확인할 수 있습니다. — 우리는 또한 성장 전반에 걸쳐 C2PA 콘텐츠 자격 증명을 채택했습니다.",
       "published_at": "2026-07-01T13:58:00+00:00"
-    },
-    {
-      "id": "x:ylecun:2072311011118379064",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2072311011118379064",
-      "text": "RT by @ylecun: President Donald Trump’s administration wants to enlist the public in attacking what it sees as wasteful spending. https://scim.ag/4v5vkie",
-      "images": [
-        "https://pbs.twimg.com/card_img/2072038771189493762/0y-7o2Hv?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@yleun의 RT: 도널드 트럼프 대통령 행정부는 낭비적인 지출로 간주되는 것을 공격하는 데 대중을 참여시키기를 원합니다. https://scim.ag/4v5vkie",
-      "published_at": "2026-07-01T13:27:01+00:00"
-    },
-    {
-      "id": "x:ylecun:2072298779462508701",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2072298779462508701",
-      "text": "RT by @ylecun: In his SOTU speech in 2010, @barackobama warned that with it's Citizens United decision, the SCOTUS had \"opened the floodgates for special interests — including foreign corporations — to spend without limit in our elections.\" Today, his grim prophecy has become the reality.",
-      "images": [],
-      "summary_ko": "@yleun의 RT: 2010년 SOTU 연설에서 @barackobama는 Citizens United의 결정으로 SCOTUS가 \"외국 기업을 포함한 특별한 이익을 위해 우리 선거에 제한 없이 지출할 수 있는 수문을 열었다\"고 경고했습니다. 오늘날, 그의 암울한 예언은 현실이 되었습니다.",
-      "published_at": "2026-07-01T12:38:25+00:00"
     },
     {
       "id": "tg:enc210406/4071",
@@ -1204,9 +1206,7 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2072004836674167294",
       "text": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment calls that real computational research depends on. https://openai.com/index/introducing-genebench-pro/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2072002936817745920/7O_iW5P2?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "우리는 에이전트가 지저분한 생물학적 데이터를 얼마나 잘 탐색하고, 올바른 분석 경로를 선택하고, 실제 계산 연구가 의존하는 판단을 내릴 수 있는지에 대한 보다 어려운 종류의 AI 발전을 위한 연구 수준 벤치마크인 GeneBench-Pro를 소개합니다. https://openai.com/index/introducing-genebench-pro/",
       "published_at": "2026-06-30T17:10:23+00:00"
     },
@@ -1313,7 +1313,7 @@
       "author_name": "Google DeepMind(딥마인드)",
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2071988044878516466",
-      "text": "Pinned: We’re shipping 2 major releases: 🔘 Nano Banana 2 Lite: our fastest and cheapest Gemini Image model 🔘 Gemini Omni Flash: now available via the Gemini API and in @GoogleAIStudio to help developers generate and edit high-quality videos.",
+      "text": "We’re shipping 2 major releases: 🔘 Nano Banana 2 Lite: our fastest and cheapest Gemini Image model 🔘 Gemini Omni Flash: now available via the Gemini API and in @GoogleAIStudio to help developers generate and edit high-quality videos.",
       "images": [
         "https://pbs.twimg.com/amplify_video_thumb/2071986416179896321/img/-6UxxlHXr3t6QJuf.jpg"
       ],
@@ -1802,7 +1802,7 @@
       "url": "https://x.com/OpenAI/status/2069770175709335653",
       "text": "R to @OpenAI: openai.com/index/openai-broa…",
       "images": [
-        "https://pbs.twimg.com/card_img/2069768399669055488/16BdNOPj?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2072714050899763200/vQwpzyrN?format=jpg&name=800x419"
       ],
       "summary_ko": "R에서 @OpenAI로: openai.com/index/openai-broa…",
       "published_at": "2026-06-24T13:10:39+00:00"
