@@ -10,4 +10,7 @@ window.SITE_CONFIG = {
   telegramUrl: "",
   // 최상단 고정 계정(계정/채널 username, 소문자). 여기 있는 계정 칸이 맨 앞에 옵니다.
   pinned: ["semianalysis"],
+  // X 계정 칸 배치 순서 (공식 계정 → 개인은 팔로워순)
+  xOrder: ["AnthropicAI", "OpenAI", "GoogleAI", "GoogleDeepMind",
+           "sama", "karpathy", "AndrewYNg", "ylecun", "demishassabis"],
 };

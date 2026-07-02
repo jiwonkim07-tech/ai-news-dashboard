@@ -7,7 +7,7 @@
 var CFG = window.SITE_CONFIG || {};
 var LAST_SEEN_KEY = "ai-news:lastSeen";
 
-var state = { items: [], filter: "all", updatedAt: null };
+var state = { items: [], filter: "all", updatedAt: null, briefing: null };
 
 /* ---------- 유틸 ---------- */
 function el(tag, cls, text) {
@@ -52,6 +52,7 @@ function load(showSpin) {
     .then(function (data) {
       state.items = (data.items || []).slice();
       state.updatedAt = data.updated_at;
+      state.briefing = data.briefing || null;
       render();
     })
     .catch(function (e) {
@@ -82,6 +83,7 @@ function render() {
     "총 <b>" + state.items.length + "</b>건" +
     (newCount ? " · 새 글 <b>" + newCount + "</b>" : "");
 
+  renderBriefing();
   renderFilters();
 
   var feed = document.getElementById("feed");
@@ -111,19 +113,40 @@ function render() {
     g.items.sort(function (a, b) { return new Date(b.published_at) - new Date(a.published_at); });
     g.latest = g.items.length ? new Date(g.items[0].published_at).getTime() : 0;
   });
-  // 우선순위: 고정 계정(semianalysis 등) > X 공식계정 > 텔레그램, 그 안에서는 최신순
+  // 우선순위: 고정 계정(semianalysis) > X(xOrder 순) > 텔레그램(최신순)
   var pinned = (CFG.pinned || []).map(function (s) { return String(s).toLowerCase(); });
+  var xOrder = (CFG.xOrder || []).map(function (s) { return String(s).toLowerCase(); });
   function pinRank(g) { var i = pinned.indexOf(g.author.toLowerCase()); return i < 0 ? 999 : i; }
+  function xRank(g) { var i = xOrder.indexOf(g.author.toLowerCase()); return i < 0 ? 999 : i; }
   panels.sort(function (a, b) {
     var pa = pinRank(a), pb = pinRank(b);
     if (pa !== pb) return pa - pb;
     if (a.source !== b.source) return a.source === "x" ? -1 : 1;
+    if (a.source === "x") {
+      var xa = xRank(a), xb = xRank(b);
+      if (xa !== xb) return xa - xb;
+    }
     return b.latest - a.latest;
   });
   panels.forEach(function (g) { feed.appendChild(renderPanel(g, lastSeen)); });
 
   // 방문 시점 기록 (다음 방문의 NEW 기준)
   localStorage.setItem(LAST_SEEN_KEY, String(Date.now()));
+}
+
+/* AI 브리핑 배너 */
+function renderBriefing() {
+  var box = document.getElementById("briefing");
+  if (!box) return;
+  var b = state.briefing;
+  if (!b || !b.headline) { box.hidden = true; return; }
+  document.getElementById("briefingHeadline").textContent = b.headline;
+  var ul = document.getElementById("briefingBullets");
+  ul.innerHTML = "";
+  (b.bullets || []).forEach(function (t) { ul.appendChild(el("li", "", t)); });
+  document.getElementById("briefingTime").textContent =
+    b.generated_at ? fmtUpdated(b.generated_at) + " 기준" : "";
+  box.hidden = false;
 }
 
 function matchFilter(it) {

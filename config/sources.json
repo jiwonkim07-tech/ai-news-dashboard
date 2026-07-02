@@ -1,6 +1,16 @@
 {
   "_comment": "감시할 대상만 여기서 수정하세요. 코드 수정 불필요.",
-  "x_accounts": ["OpenAI", "AnthropicAI", "karpathy", "sama", "GoogleDeepMind", "GoogleAI", "demishassabis", "ylecun", "AndrewYNg", "_akhaliq"],
+  "x_accounts": [
+    { "id": "AnthropicAI", "name": "Anthropic(앤스로픽) · Claude 개발사" },
+    { "id": "OpenAI", "name": "OpenAI(오픈AI) · ChatGPT 개발사" },
+    { "id": "GoogleAI", "name": "Google AI(구글 AI)" },
+    { "id": "GoogleDeepMind", "name": "Google DeepMind(딥마인드)" },
+    { "id": "sama", "name": "Sam Altman(샘 알트먼) · OpenAI CEO" },
+    { "id": "karpathy", "name": "Andrej Karpathy(안드레이 카파시) · AI 연구자" },
+    { "id": "AndrewYNg", "name": "Andrew Ng(앤드류 응) · AI 교육자" },
+    { "id": "ylecun", "name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자" },
+    { "id": "demishassabis", "name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO" }
+  ],
   "telegram_channels": ["EMchina", "aetherjapanresearch", "bornlupin", "enc210406", "globaletfi", "HI_GS"],
   "rss_feeds": [
     { "id": "semianalysis", "name": "SemiAnalysis", "url": "https://newsletter.semianalysis.com/feed", "site": "https://semianalysis.com", "translate": true }

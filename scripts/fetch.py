@@ -137,20 +137,20 @@ def fetch_telegram(channel: str, limit: int) -> list[dict]:
 
 
 # ================================================================= X 수집
-def fetch_x(account: str, limit: int) -> list[dict]:
+def fetch_x(account: str, limit: int, display_name: str = "") -> list[dict]:
     """무료 우선: Nitter RSS → RSSHub → (키 있으면) RapidAPI 폴백."""
     items = _fetch_x_nitter(account, limit)
-    if items:
-        return items
-    items = _fetch_x_rsshub(account, limit)
-    if items:
-        return items
-    if RAPIDAPI_KEY:
+    if not items:
+        items = _fetch_x_rsshub(account, limit)
+    if not items and RAPIDAPI_KEY:
         items = _fetch_x_rapidapi(account, limit)
-        if items:
-            return items
-    log(f"x '{account}': 수집 실패(무료·폴백 모두)")
-    return []
+    if not items:
+        log(f"x '{account}': 수집 실패(무료·폴백 모두)")
+        return []
+    if display_name:
+        for it in items:
+            it["author_name"] = display_name
+    return items
 
 
 def _fetch_x_nitter(account: str, limit: int) -> list[dict]:
@@ -398,6 +398,77 @@ def summarize_batch(items: list[dict]):
         time.sleep(2.0)  # 무료 티어 RPM 여유
 
 
+# ============================================================= AI 브리핑
+def make_briefing(items: list[dict], prev: dict | None) -> dict | None:
+    """최근 글들을 종합한 'AI 브리핑'(헤드라인 1문장 + 요점 3~5개) 생성.
+    Gemini 무료 → Groq 무료 순으로 시도, 모두 실패하면 이전 브리핑 유지."""
+    now = dt.datetime.now(dt.timezone.utc)
+    recent = [it for it in items
+              if (now - dt.datetime.fromisoformat(it["published_at"])).total_seconds() < 36 * 3600]
+    recent = recent[:40] or items[:25]
+    if len(recent) < 5:
+        return prev
+
+    def _hl(it):
+        s = (it.get("summary_ko") or it.get("text") or "").strip()
+        for ln in s.split("\n"):
+            if ln.strip() and re.search(r"[0-9A-Za-z가-힣]", ln):
+                return ln.strip()[:90]
+        return s[:90]
+
+    lines = "\n".join(f"- [{it.get('author_name') or it['author']}] {_hl(it)}" for it in recent)
+    prompt = (
+        "다음은 최근 수집된 AI·글로벌 투자 소식 헤드라인 목록이다. 네이버 'AI 브리핑'처럼 "
+        "전체 흐름을 종합하라. 출력은 반드시 아래 JSON 형식만(설명·마크다운 금지):\n"
+        '{"headline": "전체를 관통하는 핵심 한 문장(뉴스 헤드라인체, 60자 이내)", '
+        '"bullets": ["주제별 요점(45자 이내)", "... 3~5개"]}\n\n' + lines
+    )
+
+    text = ""
+    used = ""
+    if GEMINI_API_KEY:
+        try:
+            import google.generativeai as genai
+            genai.configure(api_key=GEMINI_API_KEY)
+            model = genai.GenerativeModel(os.environ.get("GEMINI_MODEL", "gemini-2.0-flash"))
+            text = (model.generate_content(prompt).text or "").strip()
+            used = "gemini"
+        except Exception as e:
+            log(f"브리핑 Gemini 실패: {e}")
+    if not text and os.environ.get("GROQ_API_KEY", "").strip():
+        try:
+            r = httpx.post(
+                "https://api.groq.com/openai/v1/chat/completions",
+                headers={"Authorization": "Bearer " + os.environ["GROQ_API_KEY"].strip()},
+                json={"model": os.environ.get("GROQ_MODEL", "llama-3.3-70b-versatile"),
+                      "messages": [{"role": "user", "content": prompt}],
+                      "response_format": {"type": "json_object"},
+                      "temperature": 0.3},
+                timeout=40)
+            r.raise_for_status()
+            text = r.json()["choices"][0]["message"]["content"].strip()
+            used = "groq"
+        except Exception as e:
+            log(f"브리핑 Groq 실패: {e}")
+    if not text:
+        log("브리핑 생성 불가 → 이전 브리핑 유지")
+        return prev
+
+    try:
+        text = re.sub(r"^```(json)?|```$", "", text, flags=re.MULTILINE).strip()
+        obj = json.loads(text)
+        headline = str(obj.get("headline", "")).strip()
+        bullets = [str(b).strip() for b in obj.get("bullets", []) if str(b).strip()][:5]
+        if not headline:
+            return prev
+        log(f"브리핑 생성 완료 ({used})")
+        return {"headline": headline, "bullets": bullets,
+                "generated_at": now_iso(), "model": used}
+    except Exception as e:
+        log(f"브리핑 파싱 실패: {e}")
+        return prev
+
+
 # =================================================================== 유틸
 def _is_decorative(s: str) -> bool:
     """글자/숫자가 하나도 없는 기호 전용 텍스트(◆, ▶, ---- 등)인지."""
@@ -498,14 +569,17 @@ def main():
         except Exception:
             do_x = True
 
-    # 1) 수집
+    # 1) 수집  (x_accounts 는 "id" 문자열 또는 {"id","name"} 객체 허용)
     fetched: list[dict] = []
     if x_accounts and do_x:
         log(f"X 수집 진행 (마지막 수집 후 {x_every_h}h 경과)")
         for acc in x_accounts:
-            fetched += fetch_x(acc, max_items)
+            if isinstance(acc, dict):
+                fetched += fetch_x(acc.get("id", ""), max_items, acc.get("name", ""))
+            else:
+                fetched += fetch_x(acc, max_items)
     elif x_accounts:
-        log(f"X 수집 건너뜀 (아직 {x_every_h}h 미경과 — RapidAPI 한도 절약)")
+        log(f"X 수집 건너뜀 (아직 {x_every_h}h 미경과 — 무료 인스턴스 부담 완화)")
     for ch in tg_channels:
         fetched += fetch_telegram(ch, max_items)
     for feed in rss_feeds:                     # RSS(무료): SemiAnalysis 등
@@ -569,9 +643,12 @@ def main():
 
     kept.sort(key=lambda x: x["published_at"], reverse=True)
 
+    briefing = make_briefing(kept, prev.get("briefing"))
+
     data = {
         "updated_at": now_iso(),
         "counts": {"total": len(kept), "new_this_run": len(new_items)},
+        "briefing": briefing,
         "items": kept,
     }
     save_json(DATA_PATH, data)
