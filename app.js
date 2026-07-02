@@ -17,6 +17,10 @@ function el(tag, cls, text) {
   return e;
 }
 
+function srcLabel(source) {
+  return source === "x" ? "X" : source === "rss" ? "WEB" : "TG";
+}
+
 function timeAgo(iso) {
   var d = new Date(iso);
   if (isNaN(d)) return "";
@@ -96,15 +100,23 @@ function render() {
   var groups = {};
   list.forEach(function (it) {
     var k = it.source + ":" + it.author;
-    (groups[k] = groups[k] || { author: it.author, source: it.source, items: [] }).items.push(it);
+    (groups[k] = groups[k] || {
+      author: it.author,
+      author_name: it.author_name || it.author,
+      source: it.source, items: []
+    }).items.push(it);
   });
   var panels = Object.keys(groups).map(function (k) { return groups[k]; });
   panels.forEach(function (g) {
     g.items.sort(function (a, b) { return new Date(b.published_at) - new Date(a.published_at); });
     g.latest = g.items.length ? new Date(g.items[0].published_at).getTime() : 0;
   });
-  // X 계정 칸을 맨 앞으로, 그 안에서는 최신 글 있는 순으로
+  // 우선순위: 고정 계정(semianalysis 등) > X 공식계정 > 텔레그램, 그 안에서는 최신순
+  var pinned = (CFG.pinned || []).map(function (s) { return String(s).toLowerCase(); });
+  function pinRank(g) { var i = pinned.indexOf(g.author.toLowerCase()); return i < 0 ? 999 : i; }
   panels.sort(function (a, b) {
+    var pa = pinRank(a), pb = pinRank(b);
+    if (pa !== pb) return pa - pb;
     if (a.source !== b.source) return a.source === "x" ? -1 : 1;
     return b.latest - a.latest;
   });
@@ -116,27 +128,31 @@ function render() {
 
 function matchFilter(it) {
   if (state.filter === "all") return true;
-  if (state.filter === "x" || state.filter === "telegram") return it.source === state.filter;
+  if (state.filter === "x" || state.filter === "telegram" || state.filter === "rss")
+    return it.source === state.filter;
   return (it.source + ":" + it.author) === state.filter;
 }
 
 function renderFilters() {
   var nav = document.getElementById("filters");
   nav.innerHTML = "";
-  var counts = { all: state.items.length, x: 0, telegram: 0 };
+  var counts = { all: state.items.length, x: 0, telegram: 0, rss: 0 };
   var authors = {};
   state.items.forEach(function (it) {
     counts[it.source] = (counts[it.source] || 0) + 1;
     var k = it.source + ":" + it.author;
-    authors[k] = authors[k] || { author: it.author, source: it.source, n: 0 };
+    authors[k] = authors[k] || {
+      author: it.author, author_name: it.author_name || it.author, source: it.source, n: 0
+    };
     authors[k].n++;
   });
 
   var chips = [{ key: "all", label: "전체", n: counts.all }];
+  if (counts.rss) chips.push({ key: "rss", label: "리서치(WEB)", n: counts.rss });
   if (counts.x) chips.push({ key: "x", label: "X", n: counts.x });
   if (counts.telegram) chips.push({ key: "telegram", label: "텔레그램", n: counts.telegram });
   Object.keys(authors).sort().forEach(function (k) {
-    chips.push({ key: k, label: "@" + authors[k].author, n: authors[k].n });
+    chips.push({ key: k, label: authors[k].author_name, n: authors[k].n });
   });
 
   chips.forEach(function (c) {
@@ -156,10 +172,16 @@ function renderPanel(g, lastSeen) {
     return new Date(it.published_at).getTime() > lastSeen;
   }).length;
 
+  var pinned = (CFG.pinned || []).map(function (s) { return String(s).toLowerCase(); });
+  var isPinned = pinned.indexOf(g.author.toLowerCase()) >= 0;
+  if (isPinned) panel.classList.add("pinned");
+
   var head = el("div", "panel-head");
-  head.appendChild(el("span", "src-badge " + g.source, g.source === "x" ? "X" : "TG"));
-  var a = el("a", "panel-author", "@" + g.author);
+  if (isPinned) head.appendChild(el("span", "pin-badge", "★"));
+  head.appendChild(el("span", "src-badge " + g.source, srcLabel(g.source)));
+  var a = el("a", "panel-author", g.author_name || g.author);
   a.href = g.items[0].author_url; a.target = "_blank"; a.rel = "noopener";
+  a.title = g.author_name || g.author;
   head.appendChild(a);
   if (newN) head.appendChild(el("span", "new-badge", "NEW " + newN));
   head.appendChild(el("span", "panel-count", g.items.length));

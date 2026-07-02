@@ -50,11 +50,15 @@ a{color:var(--accent);text-decoration:none}
   max-height:74vh;overflow:hidden}
 .panel.x{border-top:3px solid var(--xline)}
 .panel.telegram{border-top:3px solid var(--tg)}
+.panel.pinned{border-top:3px solid #f5b301;box-shadow:0 6px 24px #00000026,0 0 0 1px #f5b30140}
+.pin-badge{color:#f5b301;font-size:13px;flex:0 0 auto}
 .panel-head{display:flex;align-items:center;gap:8px;padding:12px 14px;border-bottom:1px solid var(--line);
   background:#0f1521cc;backdrop-filter:blur(4px);position:sticky;top:0;z-index:1}
 .src-badge{font-size:10px;font-weight:800;letter-spacing:.3px;padding:2px 6px;border-radius:6px;text-transform:uppercase;flex:0 0 auto}
 .src-badge.x{background:#1b2535;color:#e7edf6;border:1px solid var(--xline)}
 .src-badge.telegram{background:#0e3346;color:#5cc8f5;border:1px solid #1b6a8f}
+.src-badge.rss{background:#3a2a09;color:#f5b301;border:1px solid #6b5210}
+.panel.rss{border-top:3px solid #f5b301}
 .panel-author{font-weight:800;font-size:14px;color:var(--txt);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
 .panel-author:hover{color:var(--accent)}
 .panel-count{margin-left:auto;font-size:11px;font-weight:700;color:var(--muted);

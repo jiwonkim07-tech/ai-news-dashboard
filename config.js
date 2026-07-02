@@ -8,4 +8,6 @@ window.SITE_CONFIG = {
   refreshMinutes: 30,
   gaMeasurementId: "",
   telegramUrl: "",
+  // 최상단 고정 계정(계정/채널 username, 소문자). 여기 있는 계정 칸이 맨 앞에 옵니다.
+  pinned: ["semianalysis"],
 };

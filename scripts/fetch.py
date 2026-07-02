@@ -20,6 +20,7 @@ import os
 import re
 import json
 import html
+import sys
 import time
 import datetime as dt
 from pathlib import Path
@@ -27,6 +28,12 @@ from pathlib import Path
 import httpx
 from bs4 import BeautifulSoup
 import feedparser
+
+# Windows 콘솔(cp949)에서도 한글/특수문자 로그가 깨지거나 죽지 않도록 UTF-8 강제
+try:
+    sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+except Exception:
+    pass
 
 # ---------------------------------------------------------------- 경로/상수
 ROOT = Path(__file__).resolve().parent.parent
@@ -72,6 +79,10 @@ def fetch_telegram(channel: str, limit: int) -> list[dict]:
         return []
 
     soup = BeautifulSoup(r.text, "html.parser")
+    # 채널 표시 이름(og:title). 실패 시 username 사용.
+    og = soup.select_one('meta[property="og:title"]')
+    channel_name = og["content"].strip() if og and og.get("content") else channel
+
     items = []
     for msg in soup.select(".tgme_widget_message"):
         post = msg.get("data-post")  # "channel/123"
@@ -94,6 +105,7 @@ def fetch_telegram(channel: str, limit: int) -> list[dict]:
             "id": f"tg:{post}",
             "source": "telegram",
             "author": channel,
+            "author_name": channel_name,
             "author_url": f"https://t.me/{channel}",
             "url": link,
             "text": text,
@@ -143,6 +155,7 @@ def _fetch_x_rsshub(account: str, limit: int) -> list[dict]:
                     "id": f"x:{account}:{native}",
                     "source": "x",
                     "author": account,
+                    "author_name": f"@{account}",
                     "author_url": f"https://x.com/{account}",
                     "url": link or f"https://x.com/{account}",
                     "text": text,
@@ -177,10 +190,12 @@ def _fetch_x_rapidapi(account: str, limit: int) -> list[dict]:
         native = str(tw.get("tweet_id") or tw.get("id_str") or tw.get("id") or "")
         text = _clean_html(tw.get("text") or tw.get("full_text") or "")
         created = tw.get("created_at") or ""
+        name = (tw.get("user") or {}).get("name") if isinstance(tw.get("user"), dict) else None
         items.append({
             "id": f"x:{account}:{native}",
             "source": "x",
             "author": account,
+            "author_name": name or f"@{account}",
             "author_url": f"https://x.com/{account}",
             "url": f"https://x.com/{account}/status/{native}" if native else f"https://x.com/{account}",
             "text": text,
@@ -189,6 +204,47 @@ def _fetch_x_rapidapi(account: str, limit: int) -> list[dict]:
         })
     log(f"x '{account}': RapidAPI {len(items)}건")
     return items
+
+
+# ============================================================= RSS 수집
+def fetch_rss(feed: dict, limit: int) -> list[dict]:
+    """일반 RSS/Atom 피드 수집(무료). SemiAnalysis 등 뉴스레터·블로그용.
+    feed = {"id","name","url","site"(선택)}"""
+    fid = feed.get("id") or feed.get("name", "rss")
+    name = feed.get("name", fid)
+    url = feed.get("url", "")
+    site = feed.get("site") or url
+    if not url:
+        return []
+    try:
+        r = httpx.get(url, headers=HEADERS, timeout=TIMEOUT, follow_redirects=True)
+        r.raise_for_status()
+        parsed = feedparser.parse(r.text)
+    except Exception as e:
+        log(f"rss '{fid}' 실패: {e}")
+        return []
+
+    items = []
+    for e in parsed.entries[:limit]:
+        link = e.get("link", "") or site
+        m = re.search(r"/([^/]+)/?$", link)
+        native = (m.group(1) if m else e.get("id") or link)[:60]
+        title = _clean_html(e.get("title") or "")
+        summ = _clean_html(e.get("summary") or e.get("description") or "")
+        text = title + (("\n\n" + summ) if summ else "")
+        items.append({
+            "id": f"rss:{fid}:{native}",
+            "source": "rss",
+            "author": fid,
+            "author_name": name,
+            "author_url": site,
+            "url": link,
+            "text": text.strip() or title or "(내용 없음)",
+            "summary_ko": "",
+            "published_at": _entry_time(e),
+        })
+    log(f"rss '{fid}': {len(items)}건")
+    return items[:limit]
 
 
 # ============================================================= 한국어 요약
@@ -302,6 +358,7 @@ def main():
     cfg = load_json(CONFIG_PATH, {})
     x_accounts = cfg.get("x_accounts", [])
     tg_channels = cfg.get("telegram_channels", [])
+    rss_feeds = cfg.get("rss_feeds", [])
     max_items = int(cfg.get("max_items_per_source", 12))
     do_summarize = bool(cfg.get("summarize", True))
 
@@ -333,6 +390,8 @@ def main():
         log(f"X 수집 건너뜀 (아직 {x_every_h}h 미경과 — RapidAPI 한도 절약)")
     for ch in tg_channels:
         fetched += fetch_telegram(ch, max_items)
+    for feed in rss_feeds:                     # RSS(무료): SemiAnalysis 등
+        fetched += fetch_rss(feed, max_items)
 
     # 2) 신규 판별 (state 의 리스트 값만 대상, _meta 같은 dict 는 제외)
     seen_ids = {i for ids in state.values() if isinstance(ids, list) for i in ids}
