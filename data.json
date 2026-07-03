@@ -1,21 +1,81 @@
 {
-  "updated_at": "2026-07-03T12:56:00+00:00",
+  "updated_at": "2026-07-03T15:13:01+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 7
+    "new_this_run": 10
   },
   "briefing": {
     "headline": "삼성전자, 3분기 DRAM 가격 최대 20% 인상 추진",
     "bullets": [
-      "앤스로픽, 삼성전자와 AI 칩 개발 협력 논의",
-      "AMD, GPU-GDDR 키트 가격 10% 인상",
+      "메타 수석 AI 과학자 얀 르쿤, AI 발전 전망",
       "키옥시아, 저전력·대용량 신형 메모리 출하",
-      "유가, 호르무즈 충격 완화로 60달러까지 급락 가능"
+      "AMD, GPU-GDDR 키트 가격 약 10% 인상",
+      "Anthropic, 자체 AI 반도체 개발 착수"
     ],
-    "generated_at": "2026-07-03T12:56:00+00:00",
+    "generated_at": "2026-07-03T15:13:01+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/23259",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23259",
+      "text": "웰스파고) 반도체/IT 헤드라인 정리; NVDA, 클라우드 매출 공유 모델 도입 / SK하이닉스 SCA, 상한가 없나? / 소프트뱅크, 미국 내 10GW 계획 등\n1. NVIDIA, 신규 클라우드 매출 공유(Revenue-Sharing) 비즈니스 모델 발표\nNVIDIA는 신규 매출 비즈니스 모델에 관한 블로그를 게시하였으며(here), 이를 통해 AI 클라우드 업체들이 매출 공유 및 신용 지원(credit support) 모델을 바탕으로 AI 네이티브, 엔터프라이즈, ISV 고객을 대상으로 NVIDIA 인프라를 조달할 수 있도록 하였습니다. NVIDIA는 Sharon AI(약 4만 개 GB300 GPU)와 Firmus(약 360mW / 약 17만 개 GPU)와의 최초 계약을 강조하였습니다. NVDA의 초점은 매출 공유 모델을 통해 컴퓨팅 용량 접근성을 더 빠르게 개방하는 데 있습니다.\nAI 클라우드 업체들은 NVDA 기반 서비스를 판매하게 되며, 이를 통해 NVDA는 표준 제품 매출과 클라우드 매출의 일부를 함께 확보하게 되어, 사용량에 연동된 반복적 매출 흐름을 창출하게 됩니다.\n참고로, NVIDIA의 (6/29) Firmus와의 계약 발표(약 360mW / 약 17만 개 AI 가속기)는 최초 6년 기간 동안 250억~300억 달러 규모의 오프테이크(off-take) 계약이 예상된다고 언급된 바 있습니다.\n참고: Firmus는 또한 Project Southgate를 개발 중이며, 이는 호주 태즈메이니아에서 최대 400mW 용량을 공급하는 것으로 초기 계획되었습니다. Firmus는 2028년까지 Project Southgate를 최대 1.6GW 규모의 가동 AI 팩토리로 확장할 계획을 밝힌 바 있으며, 이전에는 태즈메이니아 및 멜버른 프로젝트를 통해 2026년 중반까지 150mW / 약 5만 4천 개 GB300 규모에 도달할 계획이라고 언급하였고, 이 중 약 1만 8,500개 GB300이 2026년 4월 중 가동될 것으로 언급되었습니다.\n2. SK하이닉스, 메모리 SCA에서 상한가(Ceiling Price)를 배제하는 방향으로 전환?\nTrendForce는(here 참조) Green Economy News의 기사를 인용하여, SK하이닉스가 업계 표준인 가격 상한선을 배제하는 SCA 계약을 채택하고 있다고 보도하였습니다 - 이는 마이크론(MU)이 발표한, 하한가부터 상한가까지 설정된(상한가는 2026년 2분기 평균 가격 기준) 14건의 SCA와는 차이가 있습니다. 하이닉스의 계약 구조는 공급 부족으로 시장 가격이 상승할 경우, 현물 시장 가격 상승분이 계약 가격에 온전히 반영될 수 있도록 하는 것으로 언급되었습니다.\n저희 의견: 저희가 나눈 대화들을 근거로 볼 때, 고객사들이 어느 정도의 가격 확실성을 원한다고 보고 있는 만큼, 지난주 마이크론의 발표를 감안하면 이러한 움직임은 다소 의외라고 판단됩니다.\nTrendForce의 기사는 또한 마이크론의 HBM, DDR6, LPDDR6 차세대 제품용 SCA는 협상된 조건을 통해 별도로 가격이 책정되고 있다는 점을 지적하고 있습니다.\n3. 소프트뱅크, 미국 내 AI 인프라 용량 10GW 임대 계획\nBloomberg는 소프트뱅크와 그 통신 자회사가 미국 내에서 AI 인프라 용량 임대 사업을 시작할 계획이라고 보도하였으며, 해당 보도에서는 CoreWeave와 Nebius가 언급되었습니다. 보도에 따르면 동사는 2030년까지 10GW를 목표로 하고 있으며, 텍사스에서 최초로 사업을 개시할 예정입니다.\n해당 계획은 SB Neo Inc.를 설립하여 하이퍼스케일러를 포함한 대기업들에게 AI 컴퓨팅 용량 및 클라우드 서비스를 제공하는 것입니다.\n4. 애플 생산 관련 헤드라인 - CY26 생산량 2억 2천만 대 크게 상회, 울트라 모델 1천만 대 계획\n전일 오후 CY26 스마트폰 생산 감축에 애플이 포함되었다는 보도에 이어, NikkeiAsia는 애플의 CY26 생산량이 2억 2천만 대를 '크게 상회'할 것이라고 보도하였습니다(Gartner 추정치는 CY25 약 2억 2,600만 대, CY24 약 2억 3,700만 대). 2026년 하반기에는 약 8천만 대 규모의 스마트폰용 부품이 발주된 상태입니다. 해당 보도는 또한 아이폰 울트라 생산 계획이 기존 700만~800만 대에서 약 1천만 대로 증가하였다고 언급하였습니다.\n이는 현재 시장 컨센서스인 CY26 아이폰 생산량 전년 대비 약 4% 증가한 2억 5,800만 대(CY25 추정치 2억 4,800만 대 대비)와 비교되는 수치라는 점을 저희는 짚어드립니다.\n5. Thinking Machines와 Bridgewater AIA Labs 연구, 도메인 특화 사후학습(Post-Trained) 모델의 성능 및 비용 이점 강조\n저희는 Thinking Machines와 Bridgewater AIA Labs의 사후학습 모델(블로그 here)을 주목할 필요가 있다고 보며, 해당 연구는 범용(merchant) 모델 대비 상당한 비용 및 성능상의 이점을 보여주고 있습니다.\n기본 모델로는 Qwen3-235B를 활용하여 파인튜닝을 진행하였으며, 초기 파인튜닝은 group relative policy optimization을 활용하여 테스트에서 정확도를 약 73% 및 약 89%까지 끌어올렸습니다(Qwen 기본 모델의 약 45% 및 약 55%에서 상승). 이후 추가적인 최적화(interleaved batching, 비대칭 클리핑을 적용한 CISPO loss, 강력한 교사 모델을 활용한 on-policy distillation)를 통해 정확도를 약 85% 및 93%까지 추가로 끌어올렸습니다.\n또한 해당 학습 모델은 1천 개 작업당 4.72달러로 구동되며, 이는 GPT-5.2, GPT-5.4, Opus 4.6이 각각 1천 개 작업당 19.96달러, 28.50달러, 61.52달러인 것과 대비됩니다.\n해당 연구는 또한 더 강력한 프롬프트를 사용할 경우에도 정확도가 테스트 항목(다양한 기사의 관련성 판단, 콘텐츠 라벨링, 문서 및 이메일 절단)에서 70%대 중반까지 상승한 반면, 프론티어 모델들은 약 50%의 정확도에 그쳤다는 점을 강조하였으며, 최신 모델들이 해당 영역에서 큰 폭의 점진적 개선을 보이지 못하고 있다는 점도 언급하였습니다.\n저희의 의견: 저희는 이를 Harvey/Applied Compute의 사례 연구(here)에 이어, 도메인 특화 사후학습의 상대적 이점을 입증하는 추가적인 데이터 포인트로 보고 있습니다. 해당 사례 연구에서는 GLM-5.1 사후학습 모델이 Harvey의 법률 에이전트 벤치마크에서 Opus 4.8 Max 및 GPT-5.5 xhigh를 상회하는 성능을 보인 바 있습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-03T14:05:36+00:00"
+    },
+    {
+      "id": "x:ylecun:2073037974153896312",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2073037974153896312",
+      "text": "RT by @ylecun: Exactly. I've been disseminating a similar message for years. The concentration of power in AI and the desire for control is by far the biggest danger of AI. It could lead to a few private companies and/or countries being in control of access to information, access to knowledge, and access to the tools of economic expansion. It's a kind of medieval obscurantism akin to the Ottoman empire banning the use of the printing press for 200 years, in part to keep control of the dogma, but also to protect the corporation of the calligraphers and scribes. Relevant historical bits about the Internet: 1. It took a deliberate decision by Al Gore and Bill Clinton to open up access of what was then ARPAnet to commercial entities and to the public, against the desires of the entrenched telecom industry. During a public roundtable about the \"information superhighway\" in 1993, the CEO of AT&T told Gore and Clinton \"leave it to us\". Gore said no. 2. In the late 1980s, setting up an Internet presence required buying proprietary hardware with proprietary OS and software stack from Sun Microsystems, HP, IBM, or Dell. By the 2000s, all of this was wiped out by commodity hardware, Linux, Apache, and an entirely free/open software stack. This migration to open platforms was the result of market forces. Infrastructure wants to be open. Foundation models are becoming an infrastructure and will inevitably become commoditized. Long term, the money is in the application layer, which is what I, Arthur Mensch, Alex Karp, and others have been saying.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-03T13:35:42+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23258",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23258",
+      "text": "UBS) 2026년 하반기 메모리 가격 상승 여지 업계 점검 결과를 바탕으로, 저희는 기본 DDR 계약가격 상승률 전망치를 2026년 3분기 전분기 대비 +32%로 상향 조정합니다. 기존 전망치는 +17%였습니다. 2026년 4분기 전망치도 전분기 대비 +18%로 상향 조정합니다. 기존 전망치는 +12%였습니다. 이는 2026년 2분기 전분기 대비 +67% 상승 이후의 전망입니다. 다만 장기계약(LTA) 가격, HBM 가격 및 믹스에 따라 메모리 업체별…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-03T13:34:42+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23257",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23257",
+      "text": "UBS) 2026년 하반기 메모리 가격 상승 여지\n업계 점검 결과를 바탕으로, 저희는 기본 DDR 계약가격 상승률 전망치를\n2026년 3분기 전분기 대비 +32%로 상향 조정\n합니다. 기존 전망치는 +17%였습니다.\n2026년 4분기 전망치도 전분기 대비 +18%로 상향 조정\n합니다. 기존 전망치는 +12%였습니다. 이는 2026년 2분기 전분기 대비 +67% 상승 이후의 전망입니다. 다만 장기계약(LTA) 가격, HBM 가격 및 믹스에 따라 메모리 업체별 전분기 대비 ASP 비교는 달라질 수 있습니다. 저희는 DRAM 산업이 적어도 2028년 2분기까지 공급 부족 상태를 이어갈 것으로 계속 전망합니다. 2027년 비트 수요 증가율(+36.2% YoY)과 공급 증가율(+19.3%) 간 격차가 너무 커서 그때까지 해소되기 어렵습니다. 만약 2027년에 다운스트림 재고 소진이 없다고 가정한다면, 즉 2026년 하반기에 고객들의 재고 재축적이 없다고 가정한다면, 공급충족률은 2026년 -8.1%에서 오히려 -13.6%로 악화될 것입니다. 두 수치 모두 지난 30년간 전례 없는 수준입니다. NAND 플래시의 경우, 저희는 이제 2026년 3분기 상승률을 전분기 대비 +30%로 전망합니다. 기존 전망치는 +17%였습니다. 2026년 4분기는 전분기 대비 +12%로 기존 전망을 유지합니다. 이는 2026년 2분기 역시 전분기 대비 +67% 상승한 이후의 전망입니다. 저희는 NAND 상승 사이클이 적어도 2027년 4분기까지 지속될 것으로 전망합니다. 종합하면, 이에 따라 저희는 메모리 산업 매출이 2026년에 9,920억 달러, 2027년에 1조7,630억 달러에 이를 것으로 전망합니다. 이러한 전례 없는 상승 사이클의 주요 리스크는 여전히 고객들의 감당 가능성, 특히 이 설비투자를 조달하기 위해 계속 자본시장에 접근해야 하는 하이퍼스케일러들의 감당 가능성입니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-03T13:32:22+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23256",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23256",
+      "text": "Citi) 미니맥스 (\n0100.HK\n); 락업 종료와 부진한 투자심리가 주가에 부담으로 작용; 목표주가를 HK$533로 하향.(기존 HK$ 1330)\nCITI의 견해\n저희는 최근 미니맥스 주가의 조정과 성과 괴리가 6월 초 M3 모델 출시 당시의 논란이 된 가격 정책과 부진한 피드백을 반영했을 가능성이 있다고 봅니다. 반면 프론티어 랩들과 중국 경쟁사들이 출시한 더 새로운 모델들은 계속해서 시장을 놀라게 하고 있으며, M3의 traction을 넘어서는 성과를 보이고 있습니다. 미니맥스가 사용자 신뢰 회복을 위한 보완책을 시도했지만, 저희는 부정적 투자심리, 사용자 유지율에 대한 불확실성, 수익화 전략에 대한 불확실성이 단기적으로 계속 부담 요인으로 남을 가능성이 크다고 봅니다. 또한 최초 주식 락업 기간이 7월 9일 만료됨에 따라, 창업자들과 알리바바, 미호요와 같은 핵심 전략적 투자자들이 자발적으로 12개월 락업을 약속했음에도 불구하고 추가적인 주가 변동성이 나타날 것으로 예상합니다. 다만 향후 출시될 Hailuo 3가 미니맥스가 양호한 피드백을 되찾는 데 도움이 될 수 있다면, 역풍을 완화하는 데 기여할 수 있습니다. 저희는 목표주가를 기존 HK$1,330에서 HK$533로 하향하고, 30일 하방 단기 전망을 추가합니다.\nM3 출시와 가격 정책 피드백 — 6월 1일 M3 모델 출시 이후, 미니맥스는 6월 12일 해당 모델의 가중치를 오픈소스로 공개했으며, 컴퓨팅 비용 절감을 위해 MiniMax Sparse Attention(MSA) 프레임워크를 발표했습니다. 회사는 모델의 출력 속도를 초당 30토큰에서 80토큰으로 크게 높이는 동시에, 토큰 요금제를 주간 한도가 있는 사용량 기반 모델로 조정했습니다. 이러한 논란이 된 변경에 대한 사용자 피드백에 대응해, 미니맥스는 일부 구독자에 대해 주간 한도를 면제하거나 상향하고, 다른 사용자들에 대해서는 요청 window 한도를 일시적으로 확대하는 등 여러 보완 조치를 시행했습니다.\nHailuo 3 출시가 논쟁을 완화할 수 있음 — 수개월 내 출시될 것으로 예상되는 Hailuo 3는 이전 버전의 1,080p에서 상향된 네이티브 4K 해상도와 60FPS를 포함해 상당한 업그레이드를 제공할 예정입니다. 단일 프롬프트만으로도 시간에 맞춘 음향 효과, 주변 음향, 그리고 네이티브 립싱크가 적용된 대화를 생성할 수 있습니다. 새 버전은 정밀한 모션 제어와 카메라 궤적을 위한 도구도 도입할 예정입니다. Hailuo 3가 성공적인 성과를 입증한다면, 저희는 이것이 주가 압력을 완화하는 데 도움이 될 수 있다고 봅니다.\n다가오는 락업 만료 — 7월 9일 최초 락업 기간 종료가 시장에 미칠 영향을 완화하기 위해, 미니맥스 창업 멤버들은 자발적으로 12개월 락업을 약속했습니다. 알리바바와 미호요를 포함한 핵심 전략적 주주들 역시 장기적 지지를 표명했으며, AGI 개발을 가속화하기 위해 클라우드 컴퓨팅, 엔터프라이즈 서비스, 인프라 등의 분야에서 미니맥스와의 협력을 심화할 계획입니다.\n*최근 앤스로픽과 OpenAI의 상장이 다가옴에 따라, 중국에서 먼저 상장한 즈푸AI와 Minimax도 트래킹할 겸 업로드합니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-03T12:59:02+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23255",
       "source": "telegram",
@@ -647,44 +707,18 @@
       "published_at": "2026-07-03T01:15:32+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23246",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23246",
-      "text": "(이미지/차트 — 원문 참고)",
+      "id": "x:ylecun:2072830533739192560",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2072830533739192560",
+      "text": "RT by @ylecun: Concentration of power in AI is a risk, not a solution",
       "images": [
-        "https://cdn5.telesco.pe/file/ZOJXVyS_SyFiAp9cTrHR8mD03u7ccO9k1-_9BShWRARs3A1_5m5YrcqnoeuYfmchrVF04IpYAhc2Ei8pyva1Z6y3kcL56acRy1egcbzd4sjpI79jLrOGFyh491Z6QpOSbOX97Q3FlFv7QPcVtlVI4GfO5I0ta5jt7neVJwxY4RK2lRMHgfEIt_181L1NuZiG5CHnemA9bF1LJiOg3QmtZNl6QDsFidHo2ENs8HqbIai-6o7--AW2Z7g4tZYBwNVrOaizM2W-yfI1ejsHn31-oX73gPocDoZUMedOQlXyxusJckCpp2jjaROeYizbb5sO5d3KZtMXzOHUXpF55RUCPw.jpg"
+        "https://pbs.twimg.com/media/HMPtz98aQAAVNAR.jpg"
       ],
       "summary_ko": "",
-      "published_at": "2026-07-03T00:57:09+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23245",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23245",
-      "text": "키옥시아, 제10세대 BiCS FLASH 샘플 출하 개시\n키옥시아는 3일, 제10세대 「BiCS FLASH」의 샘플 출하를 시작했다고 발표했습니다. NAND 인터페이스 속도, 비트 밀도, 전력 효율 등이 향상됐다고 합니다.\n주로 엔터프라이즈·데이터센터용 솔리드 스테이트 드라이브(SSD) 제품에 탑재되어, AI용 스토리지 수요에 대응하는 제품입니다.\n이 제품은 이와테현 키타카미 공장 제2제조동에서 생산됩니다.\nhttps://www.bloomberg.com/jp/news/articles/2026-07-02/THKM1KKK3NY800?utm_source=website&utm_medium=share&utm_campaign=copy",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-03T00:48:30+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23244",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23244",
-      "text": "아이폰 18프로 시리즈 낸드 관련 데이터 유출\n아이폰 18 프로 라인업의 경우, 256/512GB 모델은 SK하이닉스/키옥시아/샌디스크의 TLC 낸드를 활용\n1TB 라인업은 SK하이닉스의 QLC 낸드를 주력으로 사용하며, 간혹 삼성 1TB TLC낸드를 사용한 모델이 뽑기로 나옴.\n2TB 라인업은 전량 SK하이닉스의 QLC낸드",
-      "images": [
-        "https://cdn5.telesco.pe/file/pbzKVNIHJw4OXY_tBFaCbuXlnIFnNDVxceit4rOxg2DmTP-BXCvQE1OdkUMzjG-yUvsMbZyStX7bl0VINJvU4woYB6vR-rM0KSJi_6yvWnkmDx3HfYhux7Au_mbWY-M8znclnW0ucTESgPh9YF90MpjynhnOJmRYGTTZx0O1q13FRs4gpunI-u4mJHY2_S7uGVziFnpuh0vAslOCRg_ZBy5DHscZ19eazdxvxDx8ZF_OXtHU4Kp-FUbphg4AloIZMf0r58w4x-K0uCN2iMOaG0m38E84rTxqm5hIBYHxs3Eq9vRpWuCpmveHRcEzLSpd6oqb-s1gGnqdKIAQEjWSBw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-03T00:17:17+00:00"
+      "published_at": "2026-07-02T23:51:25+00:00"
     },
     {
       "id": "tg:HI_GS/6640",
@@ -709,21 +743,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-02T23:50:44+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23242",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23242",
-      "text": "📊\nJP모건 주식 기술적분석 업데이트 (2026.07.01)\n「중기 상승 추세는 유효하나, 두 가지 핵심 리스크를 주시」\nS&P 500 지수는 2009년 3월 글로벌 금융위기(GFC) 저점 이후 이어진 장기 상승장을 규정해 온 장기 추세 채널 상단에서 랠리가 정체된 상태입니다. 현재 이 채널 저항선은 7347~7840 구간에 위치하며, 6월 초 고점인 7617에서 하락한 뒤 7380 부근의 단기 추세추종 신호선을 하향 이탈하면서 단기 상승 모멘텀이 꺾였습니다. 다만 6월 내내 형성된 좁은 박스권 흐름은 전형적인 분산(distribution) 패턴이라기보다는 조정(consolidation)에 가깝다는 것이 JP모건의 판단입니다. S&P 500 동일가중지수, 러셀2000, 유로스톡스50 등은 여전히 긍정적인 추세를 유지하고 있고 미국 대형주 지수와 같은 쏠림(집중) 문제도 없다는 점이 근거입니다.\n이에 따라 JP모건은 7000~7200 지지 구간까지의 초여름 눌림목을 매수 기회로 보고 있으며, 최소한 장기 채널 저항선 상단까지의 반등을 노려 롱 포지션을 신규 진입하거나 추가하기에 매력적인 자리로 평가합니다. 그러나 여름 동안 양방향성이 강한 가격 흐름이 이어질 경우 노동절(9월 초) 무렵에는 분산 패턴으로 발전할 가능성이 있으며, 계절적으로 약세인 9~10월 국면을 앞두고 있다는 점을 경계하고 있습니다.\n첫 번째 리스크는 하이퍼스케일러와 반도체 간의 확대되는 괴리입니다. 이는 1999~2000년 커뮤니케이션 서비스 그룹과 커뮤니케이션 장비 그룹 사이에서 나타났던 현상과 유사한 측면이 있습니다. 당시 인터넷 인프라 구축 과정에서 하드웨어 기업들의 주가와 펀더멘털에 큰 붐-버스트가 발생했는데, 자본 투자를 집행하던 기업 상당수가 커뮤니케이션 서비스 그룹에, 하드웨어 생산 기업 다수가 커뮤니케이션 장비 그룹에 속해 있었습니다. 장비 그룹은 1999년 중후반 사이클 고점을 형성했고, 현재의 확대되는 괴리와 하이퍼스케일러의 부진한 주가 흐름은 이 1999~2000년 국면을 연상시킵니다. 하이퍼스케일러가 이번 여름 지지선을 확보하지 못할 경우, 지금과 같은 쏠림 상황에서 시장 심리에 문제를 일으킬 수 있습니다.\n관련해 필라델피아 반도체 지수(SOX)는 고점과 저점을 모두 높이는 패턴을 유지하고 있으나, 4월 초기 상승 대비 속도가 둔화된 상태입니다. 이 둔화는 랠리 소진의 신호일 수 있지만, JP모건은 11760~12870 단기 추세 지지(4월 38.2% 되돌림, 50일 이동평균선, 5~6월 추세선)를 하향 이탈할 경우에만 리스크를 축소할 것을 권고합니다. 하향 이탈 시 다음 지지 구간은 9975~10455입니다. 랠리가 포물선형(parabolic)이어서 저항선을 특정하기는 사실상 어렵기 때문에, CTA 방식의 추세추종 전략으로 강세 포지션을 관리하는 것이 유리하다고 봅니다.\n두 번째 리스크는 산업금속 차트에서 형성 중인 잠재적 천정(top) 패턴입니다. 구리를 비롯한 비철금속의 성과는 역사적으로 글로벌 제조업 사이클의 선행지표 역할을 잘 해왔으며, 전년 대비 비철금속 성과는 글로벌 제조업 PMI와 가장 높은 상관관계를 유지합니다. JPMCCI 산업금속 가격지수와 LME 3개월 구리는 올해 상반기 강세 목표 구간 상단에 도달한 뒤 해당 저항 구간을 재차 테스트했고, 저항대에서 반락하며 잠재적 천정 패턴을 형성했습니다. 다만 중기 분산 패턴이 아직 고신뢰 약세 전망을 뒷받침할 만큼 성숙하지는 않았습니다. LME 3개월 구리가 12500~13000을 하회한 채 지속되거나 14000~15000 구간 아래에서 박스권 흐름이 이어질 경우 약세 쪽으로 기울게 됩니다.\n현재 금속 가격은 단순 회귀모형 기준 글로벌 제조업 PMI 53에 해당하는 수준으로 반영되어 있어, 4분기까지 횡보만 하더라도 PMI 하락을 시사하게 되고, 이는 2027년으로의 데이터 반전을 가리킵니다. 또한 전년 대비 성과가 선행하는 만큼 하반기로 갈수록 기저효과가 부담이 됩니다. 구리가 2026년 하반기 중 11100~11200 중기 지지 구간까지 완만히 밀릴 경우, 2027년 1분기 PMI가 50 임계선까지 되돌아갈 가능성을 가리킵니다. 글로벌 증시 전반에서 경기순환적 지지가 무너지면 하반기 시장 폭(breadth)이 재차 얇아질 위험이 있으며, 만약 이번 여름 금속에서 천정 패턴이 더욱 뚜렷해진다면 하이퍼스케일러-반도체 간 역학이 이 좁아진 주도주가 우량 성장주로의 순환매로 이어질지, 아니면 저변동성 방어주로만 자금이 몰릴지를 가늠하는 열쇠가 될 것입니다.\n—\n작성: Jason Hunter (J.P. Morgan Global Markets Strategy) / 2026.07.01",
-      "images": [
-        "https://cdn5.telesco.pe/file/MlAe7bA8gqZUNwZ5A1j4fG_4ilu0e_EmZ3-mUyYebbXAY0wHUe117uyTVcQFxjgTMUaytHZ-PN0xTlf9i4EuVzm5MSQG7GxesLpXi8oXnyCCMbnfI9j-GQElI8fsucwiQ36DcR5V0medj00BgXVI31KZADXhJA38gngmuN8C6eCDoHXUGXnBBpA72OwMup794w3CxL9RTer6U31utLkCFqEuVF4_aKZSgifNDL6uF4P3pvrMPgV8pWOkPvg00szz1n9d8MycoXyr9nQpOElMDZqyjMB554NrvkmmEyHvZlkazXR63sszmyR7LNQxQKrJocKOWAP4Z8G7dGia7tEw2g.jpg",
-        "https://cdn5.telesco.pe/file/D_M7_24yh3zWfpAWUqYBztxFZYtP99vvHYePCI3_4CAoIODA3pxtCGjAQYxP8W3YrOuVdkeJjJsmPN-X3zRSso8FV5ZIbaXXMhoJn1zLzeFVB86sS0xfVHjC_1afwHkMM6WcvSaOqMKOwcJ1kMgM8fu5Bme3fvJJbKi_oAu3siupazSawH-fgsfCsIx9mdk9nrjnWxRHCiGA4MaulfCC8GamkgV92p4l7tpeLqOISDPU3A4n4zjKpB8TO300P4wHZ39oFCQ7YUvDssmNn1Hgcb2ZCxvYO8iqcSrKTsv_yC7OkJyGb2cNbmf8v5JhFAlZorWKUVKVl_FmU-IHKztuRw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-02T23:45:57+00:00"
     },
     {
       "id": "tg:enc210406/4079",
@@ -802,6 +821,18 @@
       "published_at": "2026-07-02T19:07:39+00:00"
     },
     {
+      "id": "x:ylecun:2072736205964542002",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2072736205964542002",
+      "text": "RT by @ylecun: The Narrative Strategy of Sam Altman on CNBC today… Some notes from discussing this ‘we will give America 5% of OpenAI’ idea… 1 - Strategically it makes sense for OpenAI to Invite This Matrix-multiplication / inference is a commodity… but OpenAI is actually in a WORSE place than utilities which are regulated / have regulatory capture AND there are geographic realities / limits on shipping energy. The only way for an OpenAI to ‘win’ / generate long-term profit is regulatory capture, so why not invite it… this has never been more apparent with the open-source global models coming online 2 - OpenAI has the least to lose / most to gain…competitively smart PR move They are now behind Anthropic in the ‘pure play’ race… and unlike Google and Meta don’t have actually profitable real business… so a 5% dilution to them is nothing really…. It is worth 5% to hurt their competitors if they can drive the meme. 3 - The deal for America sounds way better than any practical reality. I actually like the ‘trump accounts’ / deal Americans broadly into the market … but 5%… that is like $100 bucks per person, maybe $150 at a 1T valuation… and these ‘dividends’… of what? A non-profitable company — even if you buy ‘massive growth story…. This isn’t needle moving in any practical way, it just sounds good and is something Bernie and Trump can weirdly both like for different reasons…. Upshot — good on Sam Altman as a cynical political strategist - makes total sense…. Drives AI exceptionalism story, ‘so dangerous’, etc.. in a politically advantaged way… But on the eve of America’s 250th Birthday … shame. Deeply anti-American, anti-Freedom, anti-Capitalist… and highly dangerous behavior to anyone who actually believes in American values…. And it is exactly the type of outcome starting with bank bailouts everyone worried about in 2008** don’t give mice cookies**",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-02T17:36:35+00:00"
+    },
+    {
       "id": "rss:semianalysis:ectc2026",
       "source": "rss",
       "author": "semianalysis",
@@ -858,6 +889,21 @@
       "published_at": "2026-07-02T14:15:49+00:00"
     },
     {
+      "id": "x:ylecun:2072680282034155747",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2072680282034155747",
+      "text": "RT by @ylecun: We don’t take stakes in healthy companies. Proposing that as last ditch regulatory capture attempt in commodity market is 😢 … or at best un-American disingenuous WWE politics, not pro-market, not pro-freedom.",
+      "images": [
+        "https://pbs.twimg.com/media/HMOju20bcAAuPw7.jpg",
+        "https://pbs.twimg.com/media/HMOju20bYAAe96X.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-02T13:54:22+00:00"
+    },
+    {
       "id": "tg:enc210406/4077",
       "source": "telegram",
       "author": "enc210406",
@@ -884,6 +930,18 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-02T07:49:11+00:00"
+    },
+    {
+      "id": "x:ylecun:2072563316141232159",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2072563316141232159",
+      "text": "RT by @ylecun: Since Trump took office: * Elon net worth is $980B (+$500B) * Donald Trump's family ~$10B, up about $7B * Top 15 billionaires: up 33% And USAID was cut 6 billion, resulting in hundreds of thousands of or the poorest people needlessly dying and suffering. /1",
+      "images": [],
+      "summary_ko": "@yleun의 RT: Trump 취임 이후: * Elon 순자산은 9,800억 달러(+5,000억 달러) * Donald Trump의 가족은 ~100억 달러, 약 70억 달러 증가 * 상위 15명의 억만장자: 33% 증가 그리고 USAID는 60억 명이 삭감되어 수십만 명 또는 가장 가난한 사람들이 불필요하게 죽고 고통을 겪었습니다. /1",
+      "published_at": "2026-07-02T06:09:35+00:00"
     },
     {
       "id": "tg:HI_GS/6638",
@@ -1026,49 +1084,6 @@
       "published_at": "2026-07-01T22:53:02+00:00"
     },
     {
-      "id": "x:ylecun:2072449538309185679",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2072449538309185679",
-      "text": "RT @davidaxelrod: The sheer scale and audacity of what Trump and his family are doing to monetize the presidency in every possible way for…",
-      "images": [
-        "https://pbs.twimg.com/card_img/2072203796047179776/QUA6h7am?format=jpg&name=800x419"
-      ],
-      "summary_ko": "RT @davidaxelrod: 트럼프와 그의 가족이 가능한 모든 방법으로 대통령직을 수익화하기 위해 하고 있는 일의 규모와 대담함은…",
-      "published_at": "2026-07-01T22:37:28+00:00"
-    },
-    {
-      "id": "x:ylecun:2072427191527432606",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2072427191527432606",
-      "text": "RT by @ylecun: Elon Musk gets mad when people point out that DOGE and its USAID cuts killed thousands, if not hundreds of thousands, of babies, children, mothers, and elders.",
-      "images": [
-        "https://pbs.twimg.com/media/HMK9dUibcAAjNvB.png"
-      ],
-      "summary_ko": "@yleun의 RT: Elon Musk는 DOGE와 USAID의 삭감으로 인해 수십만 명은 아니더라도 수천 명의 아기, 어린이, 어머니, 노인이 사망했다는 사실을 사람들이 지적하자 화를 냈습니다.",
-      "published_at": "2026-07-01T21:08:40+00:00"
-    },
-    {
-      "id": "x:ylecun:2072402889092616309",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2072402889092616309",
-      "text": "RT by @ylecun: 1/ On Training in Imagination - Dwarkesh's episode has a segment on dreaming as one of the next training paradigms. The idea is that a model learns mostly inside its own, by imagining what would happen, instead of trying out for real. We have a recent paper on exactly this 🥳🥳🥳",
-      "images": [
-        "https://pbs.twimg.com/media/HMKna0HW0AAdAxX.png",
-        "https://pbs.twimg.com/media/HLwUS1zX0AAzRd_.jpg"
-      ],
-      "summary_ko": "@ylecu의 RT: 1/ 상상력 훈련 - Dwarkesh의 에피소드에는 다음 훈련 패러다임 중 하나로 꿈을 꾸는 부분이 있습니다. 아이디어는 모델이 실제로 시험해 보는 대신 일어날 일을 상상함으로써 대부분 자체 내부에서 학습한다는 것입니다. 우리는 정확히 이것에 대한 최근 논문을 가지고 있습니다 🥳🥳🥳",
-      "published_at": "2026-07-01T19:32:06+00:00"
-    },
-    {
       "id": "x:AnthropicAI:2072402636813607381",
       "source": "x",
       "author": "AnthropicAI",
@@ -1081,33 +1096,6 @@
       ],
       "summary_ko": "@AnthropicAI의 RT: Fable 5가 돌아왔습니다.",
       "published_at": "2026-07-01T19:31:06+00:00"
-    },
-    {
-      "id": "x:ylecun:2072389853564502183",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2072389853564502183",
-      "text": "RT by @ylecun: DOGE showed they were morons with a series of gotcha moments: - DOGE claimed to have discovered USAID was paying for condoms for Gaza which they joked was for \"gay Hamas.\" It turned out the condoms were HIV/AIDS prevention for Gaza, Mozambique. - DOGE claimed that USAID was paying for BBC. It turned out USAID was donating to BBC Media Action, a charity. BBC is funded by licenses in the UK. - DOGE claimed there were 120+year old \"vampires\" as DOGE called them on Social Security. It turned out that a dummy date like 00/00/1900 was used in COBOL for records to be deleted and no benefits checks were going to the dummy names.",
-      "images": [],
-      "summary_ko": "@ylecun의 RT: DOGE는 일련의 순간을 통해 그들이 바보임을 보여주었습니다. - DOGE는 USAID가 가자 지구를 위해 콘돔 비용을 지불하고 있다는 사실을 발견했다고 주장했으며 농담은 \"게이 하마스\"를 위한 것이라고 말했습니다. 콘돔은 모잠비크 가자 지구의 HIV/AIDS 예방용인 것으로 밝혀졌습니다. - DOGE는 USAID가 BBC에 비용을 지불하고 있다고 주장했습니다. USAID가 자선단체인 BBC Media Action에 기부하고 있는 것으로 밝혀졌습니다. BBC는 영국의 라이선스로 자금을 지원받습니다. - DOGE는 사회보장국에서 DOGE가 호출한 대로 120세 이상의 \"뱀파이어\"가 있다고 주장했습니다. 1900년 00월 00일과 같은 더미 날짜가 COBOL에서 레코드 삭제에 사용되었으며 더미 이름에 대한 혜택 확인이 이루어지지 않은 것으로 나타났습니다.",
-      "published_at": "2026-07-01T18:40:18+00:00"
-    },
-    {
-      "id": "x:ylecun:2072384301870559454",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2072384301870559454",
-      "text": "RT by @ylecun: $2.2 BILLION for the Trump family. Higher costs for the American people.",
-      "images": [
-        "https://pbs.twimg.com/media/HMKWD3qWkAAyDu3.jpg",
-        "https://pbs.twimg.com/card_img/2072096209972453379/mgrG9fdQ?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@yleun의 RT: 트럼프 가족에게 22억 달러. 미국 국민에게는 더 높은 비용이 듭니다.",
-      "published_at": "2026-07-01T18:18:15+00:00"
     },
     {
       "id": "x:GoogleAI:2072318809277390940",
@@ -1658,6 +1646,20 @@
       "published_at": "2026-06-26T15:25:47+00:00"
     },
     {
+      "id": "x:GoogleDeepMind:2070300619257106819",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2070300619257106819",
+      "text": "RT by @GoogleDeepMind: I am excited to share our latest work from the Discovery team at @GoogleDeepMind: COrigami, an end-to-end pipeline for co-designing origami with Gemini! Origami is a unique mix of math, art and design. Creating origami involves turning abstract concepts into real-world objects, using the math of flat foldability. To tackle this, COrigami calls Gemini to generate a semantic stick figure—an abstract JSON code—refined through a visual feedback loop. It then calls custom packing, solving, shaping, and simulation tools. Driven by another self-improving reinforcement learning (RL) loop, the system produces visually recognisable models represented as SVG crease patterns. Despite scarce data availability, this approach demonstrates how combining RL with frontier models like Gemini can assist human creativity and produce physical art. The generated patterns serve as mathematically grounded starting points for origami artists to fold and shape into a final, physical design. The models below were produced by our system and then folded and shaped by @brandon_w0ng. Read the full paper here: https://arxiv.org/abs/2606.26299",
+      "images": [
+        "https://pbs.twimg.com/media/HLsvcD8XUAA-m26.jpg"
+      ],
+      "summary_ko": "@GoogleDeepMind의 RT: @GoogleDeepMind에서 Discovery 팀의 최신 작업을 공유하게 되어 기쁩니다. COrigami는 Gemini와 함께 종이 접기를 공동 디자인하기 위한 엔드 투 엔드 파이프라인입니다! 종이접기는 수학, 예술, 디자인의 독특한 조합입니다. 종이접기를 만드는 것은 평평한 접기의 수학을 사용하여 추상적인 개념을 실제 물체로 바꾸는 것을 포함합니다. 이 문제를 해결하기 위해 COrigami는 Gemini를 호출하여 시각적 피드백 루프를 통해 개선된 의미론적 막대 그림(추상 JSON 코드)을 생성합니다. 그런 다음 사용자 정의 패킹, 해결, 형성 및 시뮬레이션 도구를 호출합니다. 또 다른 자체 개선 강화 학습(RL) 루프에 의해 구동되는 시스템은 SVG 주름 패턴으로 표시되는 시각적으로 인식 가능한 모델을 생성합니다. 데이터 가용성이 부족함에도 불구하고 이 접근 방식은 RL을 다음과 같은 프론티어 모델과 결합하는 방법을 보여줍니다.",
+      "published_at": "2026-06-26T00:18:26+00:00"
+    },
+    {
       "id": "rss:semianalysis:us-grid-constraints-towards-40gw",
       "source": "rss",
       "author": "semianalysis",
@@ -1864,20 +1866,6 @@
         "https://pbs.twimg.com/media/HLh8hXcXYAAxTZO.jpg"
       ],
       "summary_ko": "@demishassabis의 RT: Project Genie 팀이 AI Craft 부문 칸 라이온스 그랑프리를 수상한 것을 크게 축하합니다! 🎉 Genie가 어떻게 기존의 창의적 한계를 뛰어넘어 개척 AI 없이는 달성할 수 없는 결과를 달성하는지 알아주신 @Cannes_Lions에게 감사드립니다… 세계 모델 확장의 또 다른 예상치 못한 결과 :) 여기에서 직접 시도해 보세요: http://labs.google/projectgenie",
-      "published_at": "2026-06-23T21:59:48+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2069540952784699520",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2069540952784699520",
-      "text": "RT by @GoogleDeepMind: Huge congratulations to the Project Genie team on taking home the Cannes Lions Grand Prix for AI Craft! 🎉 Thank you @Cannes_Lions for recognizing how Genie pushes beyond conventional creative limitations to achieve outcomes unattainable without frontier AI… Another unexpected consequence of scaling world models :) Try it yourself here: http://labs.google/projectgenie",
-      "images": [
-        "https://pbs.twimg.com/media/HLh8hXcXYAAxTZO.jpg"
-      ],
-      "summary_ko": "@GoogleDeepMind의 RT: Project Genie 팀이 AI Craft 부문 칸 라이온스 그랑프리를 수상한 것을 진심으로 축하드립니다! 🎉 Genie가 어떻게 기존의 창의적 한계를 뛰어넘어 개척 AI 없이는 달성할 수 없는 결과를 달성하는지 알아주신 @Cannes_Lions에게 감사드립니다… 세계 모델 확장의 또 다른 예상치 못한 결과 :) 여기에서 직접 시도해 보세요: http://labs.google/projectgenie",
       "published_at": "2026-06-23T21:59:48+00:00"
     },
     {
