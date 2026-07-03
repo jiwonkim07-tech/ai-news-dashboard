@@ -1,11 +1,34 @@
 {
-  "updated_at": "2026-07-03T10:35:51+00:00",
+  "updated_at": "2026-07-03T11:10:54+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 9
+    "new_this_run": 1
   },
-  "briefing": null,
+  "briefing": {
+    "headline": "AI·글로벌 투자 소식",
+    "bullets": [
+      "중국, 전기차 세금 면제 폐지",
+      "레버리지 ETF, 음의 복리효과 우려",
+      "삼성전자, 3분기 DRAM 가격 20% 인상 추진",
+      "메타, 차기 AI 모델 개발",
+      "키옥시아, 저전력 메모리 출하"
+    ],
+    "generated_at": "2026-07-03T11:10:54+00:00",
+    "model": "groq"
+  },
   "items": [
+    {
+      "id": "tg:EMchina/31297",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31297",
+      "text": "https://cnevpost.com/2026/07/03/china-scraps-annual-vehicle-tax-exemption-for-some-nevs/",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-03T10:48:56+00:00"
+    },
     {
       "id": "tg:globaletfi/20520",
       "source": "telegram",
@@ -619,21 +642,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-03T00:48:30+00:00"
-    },
-    {
-      "id": "tg:EMchina/31284",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31284",
-      "text": "미증시의 '유동성'과 '레버리지'\n• 종종 대규모 MMF 잔액이 미국 주식시장의 외부 가용 자금을 설명. 그러나 이러한 자금은 은행예금에서 이전된 것. 현재 은행 예금 이자가 높지 않기 때문. ’MMF+은행예금‘과 S&P500 비교하면 2000년 정점 당시의 극단적인 수준으로 복귀\n• 동시에 미국 시장 신용잔액 급격히 증가. 5월말까지 마진부채 전년동기대비 약 53% 증가. 과거 더 높은 증가율은 2000년 3월, 2007년 7월, 2021년 3월에 정점. 이후 시장은 1년 내에 중대한 고점\n美股的“流动性”和“杠杆”\n人们经常听到由于货币基金的大量余额而导致美股场外拥有大量可用资金，但彭博社报道称，人们较少关注的是，这些资金实际上是从银行存款中转移的，因为如今银行存款的利息并不高。将这两个指标结合起来，并以标普500指数市值的百分比表示，你会发现我们几乎回到了2000年峰值时的极端水平。（图1）与此同时，美股保证金余额也在急剧攀升；截至5月底，保证金债务同比增长约53%。此前，保证金增长率曾达到更高水平，分别在2000年3月、2007年7月和2021年3月达到峰值。而这些峰值之后，市场都在一年内出现重大的顶部。（图2）\nhttps://wallstreetcn.com/charts/41959340#from=ios",
-      "images": [
-        "https://cdn5.telesco.pe/file/nBUAVDP1ovUoUf46p9aAmH7SX9pWzV2kBgP9F2ld0vcfsEDqPlTORq-0AfFo1Jvq57pOAbOELEQ5VMdCJWvYrmSb6OoosjUrAWNdd68Qe2te7z4ymnsHgT7M9DNxCA5jzl_rcdyunjxrUiQPQA8jfY6TCx4vA0M98R8mEf-QR8q6uLAgPge9pYhq3Gp3LSWlvUsXgYpooVPc7TDlM5HEP6hh85e4-SNdDHirUGhPd09ICtPWLHW3BUqDelz25slZPNs7Gfh039OZjIZci_Jrzb6MKcf-wEkXQz3irKtdE7VNJ-twyaJLfoTIUIO5nWZC8yXkg0XhQ5yUV2pXSVnsJA.jpg",
-        "https://cdn5.telesco.pe/file/f95aht9QUsvm9ENZ-u2q_uTtbArSOBpJln_uQSMVI9BNJWSN4uoN7HFEiBqUZvkg4PMo1GtHKsFAHMdr9YvBbNIZss9zfiN7LJyw1Sz_yTS4ORCJDSoXdmiBua-D9rPZmS75nGjA0z_FHPRlxKpAswuVEs-4OC08m2Eha26FgkyY868mwPrXQ-j3S4yIbbYdOiCQ29Ck3qn7P1k5lkDharuEc1Xy4xZTnpzQQjchBCjJ05s0QJ-Vnemy8UwswqTWHPmRYywk5I8eR8G25Io7bTNCSMEbca-eiTLpdp9beacFA81xDLEemjJAjf8Be6_tv58sWBry_2y2vrWZsD8YwQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-03T00:37:13+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/23244",
