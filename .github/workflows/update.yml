@@ -29,6 +29,7 @@ jobs:
       - name: Fetch & summarize
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
           RAPIDAPI_KEY: ${{ secrets.RAPIDAPI_KEY }}
           RAPIDAPI_HOST: ${{ secrets.RAPIDAPI_HOST }}
           RSSHUB_BASES: ${{ secrets.RSSHUB_BASES }}
