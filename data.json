@@ -1,20 +1,134 @@
 {
-  "updated_at": "2026-07-03T21:06:40+00:00",
+  "updated_at": "2026-07-03T23:04:39+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 12
   },
   "briefing": {
     "headline": "삼성전자, 3분기 DRAM 가격 최대 20% 인상 추진",
     "bullets": [
-      "AMD, 2026년 7월부터 AIB 파트너 대상 GPU-GDDR 키트 가격 약 10% 인상",
-      "키옥시아, 저전력·대용량 신형 메모리 출하 시작",
-      "Anthropic, 자체 AI 반도체 개발을 위한 초기 작업 착수"
+      "TSMC, CoPoS 1세대에서 유리기판 사용 안함",
+      "칠레 리튬 광산, 70% 증산 계획",
+      "AMD, GPU-GDDR 키트 가격 10% 인상",
+      "키옥시아, 저전력·대용량 신형 메모리 출하",
+      "Anthropic, 자체 AI 반도체 개발 착수"
     ],
-    "generated_at": "2026-07-03T21:06:40+00:00",
+    "generated_at": "2026-07-03T23:04:39+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/18869",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/18869",
+      "text": "TrendForce) HBM4 계약 가격: 대규모 인상 임박\n2027년 HBM4에 대한 논의가 진행 중인 가운데, 트렌드포스는 수급 불균형과 차세대 제조 비용 상승을 반영하여\n가격이 대폭 인상될 것으로 예상합니다. 다이(die) 크기가 커지고 있는 차세대 GPU 플랫폼과 AI ASIC의 수요는 생산 능력 부족(공급 압박)을 더욱 악화시킬 것\n입니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/gTvJunYWnBIa5yRdj9qJUQGGzZxNlhnzU28WNym0X7ofISQnGndMQPMPGtyLDDeUPSIrVPQCJw5DY1UHo_fRz4LpkfjVsIVN-Y1dA81SbroHtrp23YatGLHEvcEfnJ-WVCQQRczRElalFfiRg_8FBh0mvTUH0P1xLhr_OAwFgvD75V1QJ2CfTDJGBU91Mpt1aGLBv1C1SZ75M-esuRVCBv66cn_W_UwX2tXqptIeWrkqtu8HhNm7C1Khz48QjmsnXeKViGtI59hOklSCBJJL2UCa3KJdWt8POl7_bIChOUDU1R_rHSMjYpk2NNXpSsvosZx2PuxELuCm1mv42G3weg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-03T22:40:32+00:00"
+    },
+    {
+      "id": "tg:EMchina/31305",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31305",
+      "text": "BofA는 계속 경고 모드  ========================\n⚠️\nBubble Risk Indicator is flashing RED for US semiconductors and tech:  BofA's proprietary Bubble Risk Indicator rose to 0.91 for the US Semiconductor Sector and to 0.82 for the Technology Sector, the highest since…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-03T22:39:09+00:00"
+    },
+    {
+      "id": "tg:EMchina/31304",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31304",
+      "text": "2030년이면 얼마 안남음  저 전망대로라면  기업이 데이터센터를 끄거나  가계가 냉장고/에어컨을 끄거나  ========================  ~ S&P글로벌은 2030년까지 전 세계 데이터센터 전력 소비량이 다시 두 배로 늘어 1500테라와트시 이상에 달할 것으로 전망했다  ~ 이는 2025년 미국 전체 가정용 전력 소비량과 맞먹는 규모다  https://n.news.naver.com/article/138/0002232995?sid=105",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-03T22:32:59+00:00"
+    },
+    {
+      "id": "tg:EMchina/31303",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31303",
+      "text": "토큰 가격 지수 5월 정점 이후 하락 전환\n========================\n~ The Silicon Data LLM Token Expenditure Index, which tracks what users pay for AI tokens, is down almost 20% from a high in May after nearly doubling since its inception in December. The gauge is the cleanest read anyone has on the $700 billion-plus capex boom that has done the sector's heavy lifting\n~ For stock investors, that could be flashing a\nwarning that AI companies are losing pricing power with increasingly cost-sensitive customers, and that expectations for an eventual AI bonanza could prove misplaced\nfinance.yahoo.com/technology/ai/articles/ai-trade-losing-one-key-061343277.html",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-03T22:03:19+00:00"
+    },
+    {
+      "id": "tg:EMchina/31302",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31302",
+      "text": "[한투증권 중국/신흥국 정정영]   • 7월: ‘K자형 회복’에 균형을 맞출 시도   >>7월 월보를 작성했습니다. 불편한 K자형 경제/주식 흐름이 지속되고 있습니다. 글로벌 AI 투자 사이클과 함께 첨단 제조업 및 대외 수요 중심의 회복세가 나타나고는 있으나 내수를 설명하는 투자와 소비는 상대적으로 부진합니다. 본토 증시 하드웨어 테크 주식이 강세를 보인 반면, 가계 상황을 더 가깝게 반영하고 있는 홍콩 증시는 반등 탄력이 미미합니다. 1분기 대비 둔화될…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-03T21:43:36+00:00"
+    },
+    {
+      "id": "tg:EMchina/31301",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31301",
+      "text": "칠레 리튬 광산 대기업 70% 증산 계획. Novandino 연간 리튬 생산 최대 47만톤 목표\n• 신규 생산능력은 수년 지나야 가동\n• 현재 계획에 따르면, 프로젝트 생산량은 먼저 연간 약 30만톤으로 점진적 증가. 이후 7년짜리 생산체계 전환 가동\n智利锂矿巨头计划扩产70%！Novandino将锂年产目标设定最高47万吨\n新增产能仍需数年时间才能释放。根据目前的规划，项目产量将先逐步提升至约30万吨/年，随后启动为期七年的生产体系转型。\nhttps://wallstreetcn.com/articles/3776182#from=ios",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-03T21:33:28+00:00"
+    },
+    {
+      "id": "tg:EMchina/31300",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31300",
+      "text": "시장 오판? TSMC CoPoS 1세대에서 유리기판 사용하지 않을 것이며 유리 중간층 고려한적 없음\n• 보도에 따르면 1세대 CoPoS 제품에 유리기판 사용하지 않을 가능성 높음\n•  현재 시장에서 널리 퍼진 ‘유리기판이 CoPoS의 핵심’이라는 서사로 나타난 대규모 대규모 투기 행위와 근본적인 차이\n• 동시에 TSMC는 유리 중간층을 고려한 적 없음\n市场误判？报道：台积电CoPoS首代或不采用玻璃基板，且从未考虑使用玻璃中介层\n据报道，首代CoPoS产品很可能不采用玻璃基板。这与当前市场上广泛流传的\"玻璃基板为CoPoS核心\"的叙事，并引发大量炒作行为，存在根本性出入。同时台积电从未考虑过玻璃中介层。\nhttps://wallstreetcn.com/articles/3776175#from=ios",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-03T21:30:37+00:00"
+    },
+    {
+      "id": "x:ylecun:2073152550597984441",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2073152550597984441",
+      "text": "RT by @ylecun: I’ve been asked many times over why I keep posting when so many of the replies I receive are personal attacks. The answer is actually really simple. As scientists, we cannot concede to silence. If we do, we leave space for disinformation to fill the void. and it will. Science doesn’t advance by being the loudest voice. But it does depend on people willing to keep speaking out - even and perhaps especially during the most difficult chapters.",
+      "images": [],
+      "summary_ko": "RT by @yleun: 제가 받는 답글 중 상당수가 인신 공격인데 왜 계속 게시하는지에 대해 여러 번 질문을 받았습니다. 대답은 실제로 매우 간단합니다. 과학자로서 우리는 침묵을 인정할 수 없습니다. 그렇게 한다면 허위 정보가 공백을 메울 공간을 남겨 두는 것입니다. 그리고 그럴 것이다. 과학은 가장 큰 목소리를 내는 것으로 발전하지 않습니다. 하지만 그것은 계속해서 목소리를 내고자 하는 사람들에 달려 있습니다. 특히 가장 어려운 장에서라도 말입니다.",
+      "published_at": "2026-07-03T21:11:00+00:00"
+    },
+    {
+      "id": "x:ylecun:2073073416114995300",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2073073416114995300",
+      "text": "RT by @ylecun: Are you ready for the open-source AI summer™️?",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2073073224544325632/img/2HXR4ZwfWmfunJyV.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 오픈 소스 AI summer™️를 맞이할 준비가 되셨나요?",
+      "published_at": "2026-07-03T15:56:32+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23259",
       "source": "telegram",
@@ -26,6 +140,20 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-03T14:05:36+00:00"
+    },
+    {
+      "id": "x:ylecun:2073045340006068269",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2073045340006068269",
+      "text": "RT by @ylecun: Brazenly self-serving: the Trump family’s earnings during his first year in office \"have moved him into an echelon of enrichment more associated with strongmen in Russia and Turkey.\" https://trib.al/imEzjid",
+      "images": [
+        "https://pbs.twimg.com/card_img/2072986630030536704/bYyG2fUL?format=jpg&name=800x419"
+      ],
+      "summary_ko": "@yleun의 RT: 뻔뻔스럽게 이기적입니다. 트럼프 가족은 취임 첫 해에 벌어들인 수입으로 \"그를 러시아와 터키의 독재자들과 더욱 연관되는 부유층으로 끌어올렸습니다.\" https://trib.al/imEzjid",
+      "published_at": "2026-07-03T14:04:59+00:00"
     },
     {
       "id": "x:ylecun:2073037974153896312",
@@ -418,18 +546,6 @@
       "published_at": "2026-07-03T05:37:11+00:00"
     },
     {
-      "id": "tg:EMchina/31293",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31293",
-      "text": "중국 언론은 ‘삼성전자가 3분기 DRAM 가격 +20% QoQ 인상 목표로 고객들과 논의 중’이라고 보도\n报道：三星电子第三季度DRAM价格将上调至多20%\n据媒体报道，业内人士透露，三星电子目前正在与客户进行谈判，目标是将今年第三季度DRAM的平均售价比上一季度提高20%\nhttps://wallstreetcn.com/articles/3776132#from=ios",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-03T05:34:51+00:00"
-    },
-    {
       "id": "tg:HI_GS/6642",
       "source": "telegram",
       "author": "HI_GS",
@@ -482,32 +598,6 @@
       "published_at": "2026-07-03T04:39:06+00:00"
     },
     {
-      "id": "tg:EMchina/31292",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31292",
-      "text": "중국 탄산리튬 현물가격 162350위안/톤. 전일대비 +1000위안 상승  上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报162350元/吨，较上日16:30价格上涨1000元/吨。",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-03T04:36:18+00:00"
-    },
-    {
-      "id": "tg:EMchina/31291",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31291",
-      "text": "AI가 폭발적인 앱 증가를 이끌었지만, 성공은 매우 드물었음(FT)\n• 에이전틱 AI이 APP 수를 빠르게 증가시켰으나 기대만큼의 성공은 부재\nAI推动APP数量大爆发，但火爆者寥寥\n据《金融时报》报道，代理型AI推动了APP数量迅猛发展，但这些应用似乎并未取得预期的成功。\nhttps://wallstreetcn.com/charts/41959344#from=ios",
-      "images": [
-        "https://cdn5.telesco.pe/file/AF-aXRKZliZiR0ozu4LwfAwsvZTc_mjNLE5Rj_idZpI40HGNb6CuXKwnBfsfyNeJbxzIqQ0H_v0O_j8icHRbzPvUo_6AOFfccKUxHJdyKAQATcSSnrepR81QyMpiD3z5ScoQFaEqeUC9VzDbSw74KNn5Ef0KssAwk4NM94U4zOXULHEdJv6fvGPj-9h-YIEqd2P3P79H4WCZ6hsu8yuIZp6jrQQ6forRxg35OLaQUNdnBgLC-KCXsh99RWZFQTguZGFjvpnd5Ldx8ptJJSux0jDPoLNRcZ0PLguyC9IzsFIlNibSuhHZPTL_r2TxV694mg61oMq62lH87S-oYSxD2w.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-03T04:34:32+00:00"
-    },
-    {
       "id": "tg:enc210406/4082",
       "source": "telegram",
       "author": "enc210406",
@@ -549,18 +639,6 @@
       "published_at": "2026-07-03T04:10:29+00:00"
     },
     {
-      "id": "tg:EMchina/31290",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31290",
-      "text": "진심인가 왜 이러지  https://n.news.naver.com/article/001/0016171749?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-03T03:52:49+00:00"
-    },
-    {
       "id": "tg:HI_GS/6641",
       "source": "telegram",
       "author": "HI_GS",
@@ -575,20 +653,6 @@
       "published_at": "2026-07-03T03:50:44+00:00"
     },
     {
-      "id": "tg:EMchina/31289",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31289",
-      "text": "중국 지역별 완성차 수출 규모: 유럽/남미/아시아 집중",
-      "images": [
-        "https://cdn5.telesco.pe/file/P4If98qn4M0o-zy28LAZ7ZCd4tiTfHuTESPI_KBPfSsEJAO0EIMpgb9pbUDJhgVdPCa3Gy-uN4QwXr8AoLzhjQuzMUPADndI0jSYng_e8NLLHd5iB8bEKtGfErZHqZ7StkdPgIRR9C1xeoTwhDbR2F780Jz3mfqKayhGQNPVkluBTMXMDYcksh2LqN4jwcrG4L7Q3unUMF4pT920qYtPeTAJJm7gaWbXJvqHYiz7wjSf55CT0y6AH5XhLfpWjmJNawoIm4eKKOpV0Au8ix_tI33nQeY6ePxW3hOdVBgkvzlltWF5eply-7LvhxGn2u7oSGZ6C8pmp5tsWufeGGHMGQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-03T03:44:47+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/23251",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -599,18 +663,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-03T03:27:27+00:00"
-    },
-    {
-      "id": "tg:EMchina/31288",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31288",
-      "text": "태양광산업협회 관계자: 강제성 표준이 태양광 산업 악성 저가경쟁 순환 끊을 것\n• 2027년 1월부터 3개 강제성 효율 국가표준 & 6월부터 2개 강제성 안전국가표준 실시 예정\n中国光伏行业协会人士：强制标准实施将打破光伏“内卷式”竞争\n在今日举行的第二届晶硅光伏产业创新峰会上，中国光伏行业协会有关负责人表示，光伏组件强制性安全标准、能效标准有利于规范光伏行业竞争秩序，推动产业升级发展。下一步，协会将根据强制标准的要求，配合相关主管部门，进一步研究节能监察具体实施细则。光伏行业有了“一把尺子”，是很好的开端，央国企集采已经先行采用二级及以上标准（TOPcon2.0/BC1.0）。小财注：工信部近日联合国家发改委、市场监管总局发布的《硅单晶单位产品能源消耗限额》等三项强制性能效国家标准，将于2027年1月1日正式实施；由工信部组织制定的《光伏组件安全要求》等2项强制性安全国家标准5月25日正式发布，将于2027年6月1日正式实施。",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-03T03:24:53+00:00"
     },
     {
       "id": "tg:bornlupin/18861",
@@ -754,18 +806,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-02T23:06:48+00:00"
-    },
-    {
-      "id": "tg:bornlupin/18857",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/18857",
-      "text": "글로벌 메모리 반도체 시장 업데이트 (Bofa)\n1. 메타의 메모리 주문 감산 루머 해소\n• 최근 시장에서는 메타가 과잉 투자된 AI 서버나 클라우드 인프라를 외부 기관에 임대할 것이라는 추측과 함께 메모리 주문을 줄일 것이라는 우려가 제기되었으나,\n이는 사실무근인 것으로 파악\n• 낸드 컨트롤러 IC 공급업체 및 기판 자재 제조업체 등\nAI 공급망 핵심 기업들에 따르면, 메타의 장기 칩 및 부품 주문은 오히려 더욱 강해지고 있어\n• 메타는 자체 AI 데이터 센터의 성능 최적화를 위해 HBM, LPDDR5, 차세대 eSSD 등\n첨단 프리미엄 메모리 칩을 더욱 적극적으로 채택\n• 향후 메타가 데이터 센터 인프라를 외부 고객과 공유하며 CSP로 영역을 넓히더라도, 이는\n설비 과잉이 아니라 첨단 메모리를 활용한 비즈니스 포트폴리오 다각화로 해석하는 것이 타당\n2. 중국 CXMT의 아이폰용 DRAM 채택 가능성 제한\n• 애플이 향후 차세대 아이폰 공급망에\n중국 CXMT의 DRAM을 의미 있는 물량으로 채택할 가능성은 극히 낮아\n• 여기에는 세 가지 명확한 진입 장벽이 존재하는데, 첫째는 미국의 대중국 반도체 기술 수출 규제 리스크이며, 둘째는 10Gbps 이상의 동작 속도, 1.1V 이하의 저전력 소비, 에러 정정 코드(ECC) 기능 등 애플이 요구하는 엄격한 기술 스펙 만족 여부\n• 마지막 셋째 장벽은 한국과 미국의 메모리 대기업들이 보유한 방대한 DRAM IP로, 애플이 특허 침해 소송 리스크를 무릅쓰고 검증되지 않은 칩을 쓸 이유가 없다는 점\n• 설령 CXMT가 저가형 모델인 아이폰 18e 등을 타깃으로 진입하더라도 중국 내 프리미엄 선호 현상으로 인해 저가형의 판매 비중이 낮아 실제 발주량은 미미할 것이며,\n애플이 한국·미국계 DRAM 3사와 가격을 협상할 때 단가를 낮추기 위한 협상용 카드로 활용하는 수준에 그칠 전망\n3. 한국의 신규 메모리 클러스터로 인한 사이클 피크 우려 과도\n• 일각에서는 정부 주도로 대한민국 남서부 지역 등에 총 800조 원 규모의 신규 메모리 팹 클러스터를 구축하겠다는 대규모 지출 계획이 발표되자, 이를 메모리 업황의 고점 신호로 받아들이며 우려\n• 그러나 이 계획은 2026년부터 2035년까지 진행되는 용인 및 평택 클러스터 확장 공사에 우선 집중한 뒤 실행되는\n극히 장기적인 프로젝트\n• 따라서 해당 신설 클러스터에서 시장에 의미 있는 수준의\n반도체 생산 물량이 쏟아지는 시점은 아무리 빨라도 2033년 이후가 될 것\n• 현재 시장은 HBM뿐만 아니라 고용량 서버향 SOCAMM, 기업용 eSSD 등 다변화된 고성능 칩 수요가 강력하게 뒷받침되고 있으므로,\n단기적인 Capex 과잉으로 인한 사이클 다운턴 우려는 시기상조\n4. 일본 반도체 공급망 조사를 통한 긍정적 업황 확인\n• 최근 일본의 투자자들은 현재 메모리 산업의 가파른 성장세 뒤에 올지도 모를 잠재적 다운턴 가능성에 대해 높은 경계감을 보이고 있어\n• 하지만 일본 현지 반도체 기업들의 경영진과 낸드 공급망 업체들을 직접 조사한 결과,\n시장의 우려와 달리 향후 업황에 대해 매우 낙관적이고 강력한 가이던스를 제시하고 있음이 확인\n• 구체적으로는 2분기 ASP가 낸드를 중심으로 크게 상승했으며, 대기 중인 3분기와 4분기의 ASP 역시 2분기 대비 지속적인 우상향 흐름을 이어갈 것으로 예측\n• 아울러 공급 물량 확보 중심의 LTA체결이 늘고 있고, 일본 내 낸드 업체를 중심으로 철저하게 절제된 Capex 및 생산량 통제가 이루어지고 있어\n2027년에는 DRAM과 낸드 전반에 걸쳐 심각한 공급 부족이 발생할 가능성이 높아",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-02T22:26:41+00:00"
     },
     {
       "id": "tg:enc210406/4078",
@@ -995,42 +1035,6 @@
       "published_at": "2026-07-02T00:16:03+00:00"
     },
     {
-      "id": "x:ylecun:2072474205048787153",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2072474205048787153",
-      "text": "RT @davidaxelrod: In his SOTU speech in 2010, @barackobama warned that with it's Citizens United decision, the SCOTUS had \"opened the flood…",
-      "images": [],
-      "summary_ko": "RT @davidaxelrod: 2010년 SOTU 연설에서 @barackobama는 Citizens United의 결정으로 SCOTUS가 \"홍수를 일으켰습니다…",
-      "published_at": "2026-07-02T00:15:29+00:00"
-    },
-    {
-      "id": "x:ylecun:2072472617404297506",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2072472617404297506",
-      "text": "RT by @ylecun: Did a long chat with @yayitsrob on Shift Key about the Gigascale thesis, hard tech, and why the \"US can't build anything\" take is wrong. A few things I believe: 🧵",
-      "images": [],
-      "summary_ko": "@yleun의 RT: Shift Key에서 @yayitsrob과 함께 Gigascale 논문, 하드 기술, \"미국은 아무것도 만들 수 없다\"는 견해가 잘못된 이유에 대해 긴 대화를 나눴습니다. 내가 믿는 몇 가지: 🧵",
-      "published_at": "2026-07-02T00:09:11+00:00"
-    },
-    {
-      "id": "x:ylecun:2072471917018177886",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2072471917018177886",
-      "text": "RT by @ylecun: Starting in early 2025, Elon Musk and the Trump administration began terminating USAID's programs and firing its staff — with Musk himself boasting about \"feeding it into the woodchipper.\" One year ago today, USAID was officially dissolved, its remaining programs haphazardly folded into the State Department. Amid all the lies and misinformation that have followed, some facts about what has actually been lost: • USAID saved more than 3 million lives a year at a cost of less than $10/month per American. That is what was destroyed. On purpose. • According to Boston University's Global Impact Counter — which tracked deaths attributable to the cuts until it stopped operations in February 2026 — an estimated 781,000 people died preventable deaths in the first year, including 518,000 children. • Global child mortality (the number of children who die before their fifth birthday) rose in 2025 for the first time in 35+ years — by 200,000 additional deaths. • USAID's 50-country disease surveillance network — the system that cut outbreak response times from 2 weeks to 48 hours — is gone. We are now watching an unprecedented Ebola outbreak unfold in real time — with the highest first-month caseload and death rate in modern history. • Programs reaching 93 million women and children were cut 92%. TB programs cut 56%. Water and sanitation cut 86%. Over 2,000 health facilities permanently closed. • 25 million fewer people received humanitarian assistance in 2025. The overall humanitarian budget was slashed 74% — from $14.1 billion to $3.7 billion. • 363 million people face acute hunger in 2026. The famine early-warning system that would have seen it coming went dark for five months. • $1.7 billion in democracy and governance funding (election monitoring, anti-corruption work, support for independent media and civil society) was terminated. • 360+ independent media outlets lost funding. Hundreds of legal clinics closed. • Far from saving money, the Trump administration itself has already said the dismantlement will cost taxpayers at least $19.2 billion in cancellation fees, severance, and penalties. That's more than half of USAID's annual budget — spent on destruction and closeout, not support for vulnerable people. • American farmers, universities, and businesses are among the casualties too. USAID partnered with more than 3,500 U.S. companies and maintained 17 university-based research labs. Its work with U.S.-based contractors and the private sector generated hundreds of thousands of American jobs and multiplied the return on every dollar spent. Those markets and partnerships are gone.",
-      "images": [],
-      "summary_ko": "RT by @ylecun: Starting in early 2025, Elon Musk and the Trump administration began terminating USAID's programs and firing its staff — with Musk himself boasting about \"feeding it into the woodchipper.\" One year ago today, USAID was officially dissolved, its remaining programs haphazardly folded into the State Department. Amid all the lies and misinformation that have followed, some facts about what has actually been lost: • USAID saved more than 3 million lives a year at a cost of less than $10/month per American. That is what was destroyed. 의도적으로. • According to Boston University's Global Impact Counter — which tracked deaths attributable to the cuts until it stopped operations in February 2026 — an estimated 781,000 people died preventable deaths in the first year, including 518,0",
-      "published_at": "2026-07-02T00:06:24+00:00"
-    },
-    {
       "id": "tg:enc210406/4075",
       "source": "telegram",
       "author": "enc210406",
@@ -1077,7 +1081,7 @@
       "url": "https://t.me/enc210406/4073",
       "text": "한화오션 함정 관련 공시\n@ 함종: 구축함(KDDX)\n@ 역무: 선도함 상세설계 및 건조\n@ 발주: 방위사업청\n@ 현황: 우선협상대상업체 선정",
       "images": [
-        "https://cdn5.telesco.pe/file/tvKwgy9FpTQg0SznTwMSJZH4s0lb48dgl5da2R5CkGx-laRmVJN5-Fw50rul3iizFNC7ZasrKsbfKsw2Lt-oQhONXmMo0FazFNpLMylR8vU2tXged0jLkV3yClvAEPCu27fDZwDwnZ4TRBIr_hYoSKHKag7bjZvIZ5L1zBzzkE7wNWUsQzkaV5Gs_Xe_HEVxpfmkqM4pjTJ5ZK2xTZerrbkxn0r_pQgGz3JghF1H71qaTJaX5sN4kXQ6O-CigLXs_35F0wJNWpz4PsP-yE8qCpvUfV-IhuEb1Ekdny3J3UH8l3QMBVCThvLEOzv7AdkRW3PPOUpaSWW0SJXAxr_6eA.jpg"
+        "https://cdn5.telesco.pe/file/UR8ITL9klg-mWi4nfynrFPK6d3f1Ew8VvOTkfL4ULJuBy8Kj6Mp7-LjfnwF0L1AYfBC3OstgQPfGo06_TM-cqAybKNl7kVdnXpKuWLv7ntdV5ytVDS0S0Ix5LX5ELtgCeiUDHgR3TlvNfz3H6hWfBmTYB08t8pmGj_5W9ZIEpxign713fSHgNQk1WS9-XQWnozSoYucMxfSdu62jnnZRSsB2yn7AXdA7qfTPK9hBFSEGtzYjCSjGFfjoFEIqvjoOMm1T141AX4WkRZQRGAvqn2g3zIHmxFr04NTo3NeBl_9FmCdG3GjpovXUxm-BVilJmyodHhwSMPo-oeW1Ygjr6Q.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-01T22:53:02+00:00"
@@ -1555,7 +1559,7 @@
       "url": "https://x.com/sama/status/2070533340416164196",
       "text": "RT by @sama: The OpenAI Foundation is joining Intercept as a founding partner through our AI resilience program. As AI accelerates advances in biology and medicine, we also need to prepare for the risks of misuse, including the potential for engineered outbreaks. Intercept Health Fund is working to end respiratory pandemics through a pathogen-agnostic approach, investing in broad-spectrum preventatives and non-pharmaceutical interventions that can protect against a wide range of threats and strengthen a new layer of resilience for humanity. https://blog.interceptfund.com/p/ending-respiratory-infections",
       "images": [
-        "https://pbs.twimg.com/card_img/2072295897900126208/ldT2Wj2J?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2072619205283962882/0WG8BQRj?format=jpg&name=800x419"
       ],
       "summary_ko": "@sama의 RT: OpenAI 재단은 AI 탄력성 프로그램을 통해 Intercept의 창립 파트너로 합류했습니다. AI가 생물학과 의학 분야의 발전을 가속화함에 따라 우리는 공학적 발병 가능성을 포함하여 오용의 위험에도 대비해야 합니다. Intercept Health Fund는 병원균에 구애받지 않는 접근 방식을 통해 호흡기 전염병을 종식시키기 위해 노력하고 있으며 광범위한 위협으로부터 보호하고 인류의 새로운 탄력성을 강화할 수 있는 광범위한 예방 조치 및 비약물적 개입에 투자하고 있습니다. https://blog.interceptfund.com/p/ending-respiratory-infections",
       "published_at": "2026-06-26T15:43:11+00:00"
