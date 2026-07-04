@@ -1,22 +1,90 @@
 {
-  "updated_at": "2026-07-04T06:21:43+00:00",
+  "updated_at": "2026-07-04T09:23:33+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 8
+    "new_this_run": 5
   },
   "briefing": {
-    "headline": "메타 클라우드 진출 충격에 반도체 급락, 삼성 DRAM 20% 인상 추진",
+    "headline": "UBS, 메모리 반도체 가격 전망 상향",
     "bullets": [
-      "UBS, 메모리 반도체 가격 전망 상향",
-      "SK하이닉스, ADR 발행 시 은행에 0.5% 수수료 지급 검토",
-      "난야테크놀로지, 8개월 연속 실적 최고치 경신",
-      "토큰 가격 지수 5월 정점 이후 하락 전환",
-      "Anthropic, 자체 AI 반도체 개발을 위한 초기 작업에 착수"
+      "DRAM/NAND 가격 인상 사이클 2027년까지 지속",
+      "SK하이닉스 ADR 발행 시 은행에 0.5% 수수료 지급 검토",
+      "삼성전자 파운드리 수주잔고 50조원 육박",
+      "테슬라/메타에서 앤트로픽까지 AI 관련 산업 성장",
+      "반도체/IT 헤드라인 정리: NVDA, 클라우드 매출 공유 모델 도입"
     ],
-    "generated_at": "2026-07-04T06:21:43+00:00",
+    "generated_at": "2026-07-04T09:23:33+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31314",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31314",
+      "text": "~ Chinese tourists in Seoul are turning tourist trips into shopping sprees, as a softer won makes luxury and lifestyle services more affordable\nhttps://amp.scmp.com/economy/global-economy/article/3359350/currency-advantages-k-beauty-fuel-chinese-shopping-trips-spending-korea",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-04T09:03:53+00:00"
+    },
+    {
+      "id": "tg:EMchina/31313",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31313",
+      "text": "UBS, 메모리 반도체 가격 전망 상향: DRAM/NAND 가격 인상 사이클 2027년까지 지속  • 2026년 하반기 메모리 반도체 가격 상승 여지가 더욱 확대  • DDR 계약 가격 전망 상향 조정. 2026년 3분기 +32% QoQ(기존 +17%), 4분기 +18% QoQ(기존 +12%). 2분기 +67% 대폭 상승한 가운데 강세 지속  • NAND도 상향 조정. 3분기 +30% QoQ, 4분기 +12% QoQ  • DRAM 수급 불균형 2028년…",
+      "images": [
+        "https://cdn5.telesco.pe/file/VtmSGAgA1duK8I4F9CpmehD1bKpKXe1J2y47k3kDQboCMtpeYMq56aLW1UWNcNspmOFgO2XNkqw3_N6Ix7EB63fAU8jswT9scQ_WKUv9mTNeI7nWsA6eKj0wGEQukZWih6_E1d8bPwKtiZyJ6z8UTAkehhFH89kfue_cfLHa_zTiScG0S-vFj03zeJ5qxgn5SNXUbIZjJ1LgDfacgNynyzqn-WqzbusjCYUnWDGYnh8vKHzxvlnKc24FSk3UeF9N8qy7KaBx49CsMrcGSdRmj1ch_FQuBz3Fq6p6wBWbUF-dTo-_gNE53YQsW506DlTHKEIq_10ar7pVq5Ul6b4k8g.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-04T08:47:17+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23263",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23263",
+      "text": "JP모건) USD/JPY 환율이 저희의 목표치인 164엔에 근접했으나, USD/JPY는 추가적으로 상승할 수 있습니다.  지난 5월 15일 KCV(Key Currency View) 발간 이후 엔화는 달러와 파운드에 대해서는 약세를 보인 반면, 여타 G10 통화에 대해서는 강세를 나타냈습니다. USD/JPY는 달러 강세에 힘입어 2024년 7월에 기록된 사이클 고점인 161.95엔을 상회하였고, 한때 1986년 이후 최고 수준인 162.84엔까지 상승폭을…",
+      "images": [
+        "https://cdn5.telesco.pe/file/kweE3WUFGM6qK8iWfuLyIGlGlNVqms7tCriheNW7DHM-kulCPkwCEQjcR4p8Vil1-UxkbIVR-K-wdGJpvSAU6-8ZpKh73heQlLm9_4wXveXRIDgApaOo3T-qUogKtEGrll-0ixJZb3d82rVGyDWEeB16XdSc4lTxKRnwzoJiid87IXHtd0qhvNNwNz3WrEgdxJDik0tnH9rIf1MglqN2mv6MAgaCNpbkreArdx1RrdJXm02ykkXRH9325qs0mhRIf8ia2Tt-dNcUpHqKCgg8T01bIQyvfpwgJ_UF49dvi8zdH-X0TeI7_s0kEgnoQh9h785fA9kO_EcGFcMValRPkQ.jpg",
+        "https://cdn5.telesco.pe/file/kK9t8XY96bItYX7GuZY-W6FzbJFmMCBmod2z0V_Bnk8gi5PG19VURFjwPY327qxhRa1vEK5oXufye5q3gCiTf6NErLXIwNWMlZQU3RQYhZ0SENEhbAFtuXa9eJmzIu8aU7dd6hnvNYoSA_7obUgsHUKenmrEGvpmJBfp9TQ4s76OSNIfFh4pk4SZpUJ2nEMY_1AryuyPhQTfTLKqACRfZE57ri-d2maMYrd7_mVsRJ77j-Yo4EKjPxYS1lxwD9rK-yxuN_r5N5Gw1KSB321BY-0CaVPvPnuQxwdM_KE9SLBG08gx1HyZz6EwurrjrZfYkwLQtgSUfzguT6US1Mgkdw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-04T08:28:03+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23261",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23261",
+      "text": "JP모건) USD/JPY 환율이 저희의 목표치인 164엔에 근접했으나, USD/JPY는 추가적으로 상승할 수 있습니다.\n지난 5월 15일 KCV(Key Currency View) 발간 이후 엔화는 달러와 파운드에 대해서는 약세를 보인 반면, 여타 G10 통화에 대해서는 강세를 나타냈습니다. USD/JPY는 달러 강세에 힘입어 2024년 7월에 기록된 사이클 고점인 161.95엔을 상회하였고, 한때 1986년 이후 최고 수준인 162.84엔까지 상승폭을 확대하였습니다. 다만 이후 미국의 6월 비농업부문 고용지표 부진과 정부 개입 가능성에 대한 우려가 커지면서 다시 조정을 받은 상황입니다.\n지난해 11월 발간한 2026년 엔화 전망에서 설정한 164엔이라는 목표치를 유지해 왔는데, 이번 주 USD/JPY가 162.84엔까지 오르면서 목표치에 불과 0.7% 차이로 근접하였습니다. 지난해 11월 목표치를 설정할 당시와 비교할 때, 상대적인 통화정책 전망을 감안하면 USD/JPY의 상방 위험이 커진 것으로 판단됩니다. 당시 저희가 USD/JPY 상승을 전망했던 주된 근거는 타카이치 정권이 추진하는 정책 조합, 즉 확장적 재정정책과 일본은행에 대한 압박이 일본의 인플레이션 상방 서프라이즈 위험과 엔화 약세 위험을 상당히 높일 것이라는 판단이었습니다. 다시 말해 당시 전망은 기본적으로 엔화 약세 견해에서 비롯된 것이었으며, 실제로 저희는 달러의 전반적인 흐름에 대해서는 상대적으로 약세를 전망하고 있었습니다. 이와 달리 현재는 엔화에 대한 약세 견해는 그대로 유지하면서도 달러에 대해서는 전반적으로 강세로 전환하였는데, 이에 따라 달러 강세와 엔화 약세가 동시에 나타나면서 USD/JPY를 한층 더 끌어올릴 가능성이 커졌습니다. 경험적으로 보면 연준의 첫 금리 인상을 앞둔 6개월 동안 USD/JPY는 평균 4.5% 상승하는 경향이 있는데, 현재 이러한 패턴이 재현될 확률이 과거보다 뚜렷하게 높아진 것으로 판단됩니다. 현재 수준에서 4.5% 상승할 경우 USD/JPY는 168~169엔 부근에 이르게 됩니다.\n지난해 11월 당시 시장은 2026년 중 연준의 상당폭 금리 인하를 가격에 반영하고 있었으나, 현재는 올해 안에 25bp 금리 인상이 있을 것이라는 전망을 완전히 가격에 반영하고 있습니다. 한편 일본은행의 금리 인상이 완만한 속도로 진행될 것이라는 견해와, 타카이치 정권 하에서 일본은행의 정책 대응이 뒤처질 것이라는 견해에는 변화가 없습니다. 미일 1년물 1년 스와프 금리 스프레드, 즉 양국 간 상대적 통화정책 기대치 격차를 나타내는 지표와 USD/JPY의 움직임을 비교해 보면, 지난해 10월부터 올해 2월까지는 엔화 금리 상승으로 미일 스프레드가 축소되었음에도 USD/JPY 하락으로는 이어지지 않았습니다. 이는 당시 높아지던 일본은행의 금리 인상 기대를, 타카이치 정권의 압박 하에서 일본은행이 결국 정책 대응에 뒤처지게 되어 향후 어느 시점엔가 엔화 약세를 억제하기 위해 대폭적인 금리 인상을 단행할 수밖에 없을 것이라는 신호로 시장이 받아들였기 때문으로 판단됩니다. 반면 올해 3월 이후로는 연준의 금리 인상 기대가 높아지면서 미일 금리차가 확대되는 국면에서 USD/JPY가 함께 상승하는 모습을 보였습니다. 따라서 향후 연준의 금리 인상 기대 상승을 배경으로 미일 스프레드가 추가로 확대될 경우, 이는 USD/JPY의 상승을 뒷받침할 가능성이 높다고 판단됩니다. 다만 최근 연준 워시 의장의 비둘기파적 발언과 6월 고용지표 부진으로 달러 강세가 일단 소강 상태에 접어든 것으로 보이는 만큼, 현재로서는 목표치를 164엔으로 유지합니다. 그러나 위의 논의를 감안하면 164엔이 최종 목표지가 아니라 경유지에 그칠 가능성이 점차 높아지고 있는 것으로 판단됩니다.\n일본 재무성의 외환시장 개입과 관련해서는, 원래 USD/JPY가 사이클 고점인 161.95엔에 도달하기 이전에 개입이 이루어질 것으로 예상하였으나, USD/JPY가 162엔을 넘어선 이후에도 개입의 조짐이 나타나지 않고 있으며, 당국의 태도는 저희가 당초 예상했던 것보다 신중한 모습입니다. 이러한 신중함은 추가 개입 여력이 제한적인 상황에서 당국이 효과를 극대화하기 위한 시기와 전술을 면밀히 검토하고 있음을 반영하는 것으로 판단됩니다. 당국으로서는 외환보유액의 급격한 감소로 개입 여력이 줄었다는 인식이 강화되는 것을 피하고자 할 것으로 보이며, 이에 따라 다음 개입 규모는 지난 4~5월 수준인 약 12조엔을 넘지 않을 가능성이 높다고 판단됩니다. 따라서 향후 USD/JPY의 상승 속도가 빨라질 경우 개입 가능성은 여전히 높다고 보고 있습니다. 당국으로서는 대규모 엔화 숏포지션 청산으로 USD/JPY가 급락했던 2024년 7~8월과 같은 상황의 재현을 반길 것으로 보이나, 그러한 시나리오가 실현될 확률은 낮다고 판단됩니다. 2024년 당시에는 재무성의 개입과 일본은행의 금리 인상이 모두 시장에 서프라이즈로 작용하면서 엔화 숏커버링을 촉발하였습니다. 반면 현재는 개입이 상당 부분 시장 가격에 반영되어 있고, 일본은행의 다음 금리 인상 시점도 아직 다소 먼 것으로 인식되고 있습니다. 만약 저희 예상대로 다음 개입 규모가 이전과 비슷하거나 그보다 작은 수준에 그칠 경우, 당시보다 강한 달러의 기조적 모멘텀과 추가 개입이 어려울 것이라는 시장의 인식 확산 가능성을 감안하면 개입의 효과는 4~5월 당시보다 작을 것으로 판단됩니다.\n재정정책 측면에서는 지난 6월 30일 일본 정부가 경제재정 운영의 기본 방향을 제시하는 2026년도 경제재정운영과 개혁의 기본방침 초안을 공개하였습니다. 이 초안에서는 2040회계연도까지를 포괄하는 총 370조엔 규모의 투자 계획도 함께 제시되었습니다. 아래에서 논의하는 바와 같이 이 계획은 시간이 지남에 따라 재정건전성에 대한 우려를 키울 수 있는 요인입니다. 저희 이코노미스트들은 정부 재원 조달분의 규모가 아직 불확실하기는 하나, 내각부가 연간 실질 정부지출을 GDP의 약 1.5%에 해당하는 10조엔으로 가정하고 있다고 지적하고 있습니다. 이러한 가운데 타카이치 총리는 내년도 예산 요구를 편성함에 있어 각 부처의 요구안에 상한을 두지 않겠다는 뜻을 밝혔습니다. 이러한 일련의 움직임을 종합하면, 내년도 성장전략과 연계된 예산외 자금 조달이 상당폭 확대될 위험이 존재한다고 판단됩니다. 아울러 내년도부터 시행이 예상되는 식료품에 대한 소비세 인하와 관련해서도 재원은 아직 명시되지 않은 상태입니다. 이를 감안할 때 최근의 일련의 움직임은 내년도 국채 발행 규모가 상당폭 확대될 위험이 커지고 있음을 시사합니다. 만약 이러한 위험에 대한 시장의 우려가 더욱 고조될 경우, 지난해 11월과 유사한 패턴, 즉 장기물 및 초장기물 국채 매도와 함께 엔화 약세가 더욱 빠르게 진행되는 상황이 재현될 가능성도 있습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/L3uGjfxnbFUk7MMDml9Wf4z6NDCUKBPZs1cAlTcD0ewsN424mBay8FOiE_4NovudU8_4mjzyZz9z1ZIsru5IzzVa73CqG8Won7raoil9owGHb8LFW5vi3GKd6jMdunzc7fazwnmxMweG2Bw7OuVJHNpSI2-Z7m8DeJrwMbqnliM7EmwlXSfZ-pRKNHRxIY_5opuASmG1Wk125AFQoaCCDSz5RxLQyGi3etRVF2W5Wp1hnrwhRmi0cwUNvca3gn9B3juRIbMD9OdnQAHcgDqrmOVPj06F8YLNRrbeixY9oCa3Zip0Q6NAGifODrg3RtChz0x2Z6CyphpRohbv8lr0SA.jpg",
+        "https://cdn5.telesco.pe/file/p9FdNmh8zBYVxvYN2dE76zv9D5TNiUhPGOv4rMnl6gWdE5G8g6P8sy_xjKztqlAdvqWwV4lvI9dQTTabFI6inKTuQcO71IrjnyjebLAmimiAuwJHoKWnhdnc_5CZqXoG0Hvd-l4wQmUeYWZ0L_2WvsFO7KYkVBesL-he4V7a8sLq7g2D0XeWp8Civ9YLKieNceho2P1ogCJzU1vAK8v-YhlczEfTEDU-3vWPYCCfdWC-jksq8v5FFbNGp5jybDBAI_Tso6JWMLZL0pQ372yA0oQZ5GIdrCE_h3IIF0Rt_MHZ79JtsxNsLhm3WLQXui6GE4rB60avSV6XjaO5JT_VmQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-04T08:25:24+00:00"
+    },
+    {
+      "id": "tg:EMchina/31312",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31312",
+      "text": "바이트댄스도 여기저기서 돈을  ========================  ~ 베이징에 본사를 둔 바이트댄스는 200억달러 신규 자금 조달을 위해 글로벌 은행들과 접촉했다. 대출 만기는 3년이며, 최대 5년까지 연장할 수 있는 옵션이 포함될 수 있다고 전해졌다. 소식통은 자금의 구체적인 사용처는 아직 불분명하며, 논의가 초기 단계인 만큼 세부 사항은 변경될 수 있다고 설명했다  ~ 해당 대출이 성사될 경우 바이트댄스 역사상 최대 규모의 해외 대출이 된다…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-04T07:15:57+00:00"
+    },
     {
       "id": "tg:EMchina/31311",
       "source": "telegram",
@@ -268,42 +336,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-03T22:03:19+00:00"
-    },
-    {
-      "id": "tg:EMchina/31302",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31302",
-      "text": "[한투증권 중국/신흥국 정정영]   • 7월: ‘K자형 회복’에 균형을 맞출 시도   >>7월 월보를 작성했습니다. 불편한 K자형 경제/주식 흐름이 지속되고 있습니다. 글로벌 AI 투자 사이클과 함께 첨단 제조업 및 대외 수요 중심의 회복세가 나타나고는 있으나 내수를 설명하는 투자와 소비는 상대적으로 부진합니다. 본토 증시 하드웨어 테크 주식이 강세를 보인 반면, 가계 상황을 더 가깝게 반영하고 있는 홍콩 증시는 반등 탄력이 미미합니다. 1분기 대비 둔화될…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-03T21:43:36+00:00"
-    },
-    {
-      "id": "tg:EMchina/31301",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31301",
-      "text": "칠레 리튬 광산 대기업 70% 증산 계획. Novandino 연간 리튬 생산 최대 47만톤 목표\n• 신규 생산능력은 수년 지나야 가동\n• 현재 계획에 따르면, 프로젝트 생산량은 먼저 연간 약 30만톤으로 점진적 증가. 이후 7년짜리 생산체계 전환 가동\n智利锂矿巨头计划扩产70%！Novandino将锂年产目标设定最高47万吨\n新增产能仍需数年时间才能释放。根据目前的规划，项目产量将先逐步提升至约30万吨/年，随后启动为期七年的生产体系转型。\nhttps://wallstreetcn.com/articles/3776182#from=ios",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-03T21:33:28+00:00"
-    },
-    {
-      "id": "tg:EMchina/31300",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31300",
-      "text": "시장 오판? TSMC CoPoS 1세대에서 유리기판 사용하지 않을 것이며 유리 중간층 고려한적 없음\n• 보도에 따르면 1세대 CoPoS 제품에 유리기판 사용하지 않을 가능성 높음\n•  현재 시장에서 널리 퍼진 ‘유리기판이 CoPoS의 핵심’이라는 서사로 나타난 대규모 대규모 투기 행위와 근본적인 차이\n• 동시에 TSMC는 유리 중간층을 고려한 적 없음\n市场误判？报道：台积电CoPoS首代或不采用玻璃基板，且从未考虑使用玻璃中介层\n据报道，首代CoPoS产品很可能不采用玻璃基板。这与当前市场上广泛流传的\"玻璃基板为CoPoS核心\"的叙事，并引发大量炒作行为，存在根本性出入。同时台积电从未考虑过玻璃中介层。\nhttps://wallstreetcn.com/articles/3776175#from=ios",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-03T21:30:37+00:00"
     },
     {
       "id": "x:ylecun:2073152550597984441",
@@ -612,7 +644,7 @@
       "url": "https://t.me/globaletfi/20514",
       "text": "» 원달러 환율은 당국 개입 추정 물량이 유입되면서 1,520원대 진입",
       "images": [
-        "https://cdn5.telesco.pe/file/lq4k08cm4QAgbqKE7tV9j3LcBWTii6OtDxH3sFB93Dr3iWvI9CrCZvRtiNYNHfPKeE3fRFyq4XP4zLwx0hIWqKjG8TJ9yTF8EQUNyuXBZwe3UEtwSpRBZ05epe6V2YK34Cbq7_E0b0mjKWomTWjFMVFC0ITQBp8JsTAP2dl-5Ohk58Ve87BUZwCso7NNKIjaieTHZp7fVhrAx6Jcx6xFYwipWsxsvWjKL70ByQzY1LMfRs8DRLE7iMHpVpSV1Zyers3mHF_QcnIAjTMLQ46jEanjhtGCM6PkZYCN2YKhLZCOjQdHNnbsOJ7vLcVi53ZImZO4tcyUt75bnLo-CwUVsg.jpg"
+        "https://cdn5.telesco.pe/file/t3yEhPlPoISbV53WHlB8WQYkoScc1oWOL82A_530Igd2R2pYcf8qFjTpwjtg9YYCe3AltlBoDFp3WGzZUuVPkE1pmC4-oPlMCy6AR64S39F57eO6omHxIpZbEgOKMYpFHKD_cav1Jp3DRqV5-AnTxKNFdN-eTHf0ciftmK0t35j-1scv4l8klgvpa9yqDxKIvjaddxQmjeQJBk7zMPz28r3Sz6rLvhLEypJbkkRYQvHak02ZO4PFoU0w6nE2DuntXrrn255tW_fPMuwSrJjlMqX0oegvZ394MLFtAUgOuq8QqbKeuABe8JzfoT_mkfg6l8qblN8xPzgaCIgzeHQmvA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-03T06:36:03+00:00"
@@ -757,18 +789,6 @@
       "published_at": "2026-07-03T03:27:27+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23250",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23250",
-      "text": "[속보] 법원 “홈플러스, 회생계획안 수행 위한 운영자금 약 2000억 원 조달 안돼”\nhttps://www.sedaily.com/article/20063426",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-03T02:25:10+00:00"
-    },
-    {
       "id": "tg:enc210406/4080",
       "source": "telegram",
       "author": "enc210406",
@@ -781,21 +801,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-03T02:05:16+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23248",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23248",
-      "text": "Citi 한국 경제; 자본 유출 압력 vs. 시장 안정화 조치\nCITI의 견해\n7월 초 현재 외국인 주식 투자자들의 자본 유출 압력은 여전히 강합니다. 6월에는 해당 월 중 잠재적인 스무딩 오퍼레이션이 있었음에도 불구하고 한국은행 외환보유액이 예상외로 증가했습니다. 저희는 국민연금이 6월 시장에서 선물환 계약을 매도함으로써 외환 헤지 비율을 크게 높였고, 이를 통해 원/달러 환율 수준을 효과적으로 안정시켰을 가능성이 있다고 봅니다. 향후 외환시장 안정화 조치, 달러 기준 반도체 수출 호조, 민간 부문의 달러 조달 활동이 원/달러 환율 수준을 안정시킬 수 있습니다. 한편, 외국인 주식 투자자들의 자본 유출 압력은 계속될 수 있으나, 최근 KOSPI 조정은 외국인 주식 투자자들의 NDF 매수를 통한 추가 외환 헤지를 제한할 수 있습니다(노트). 씨티 FX 전략팀은 원/달러 환율이 0~3개월 내 1,500원 수준 부근으로 하락할 것으로 예상합니다(노트).\n[1] 한국은행 외환보유액: 6월 한국은행 외환보유액은 예상외로 4억 달러 증가해 4,274억 달러를 기록했습니다. 한국은행은 월간 증가가 한국은행·국민연금 FX 스왑 등 시장 안정화 조치에도 불구하고 금융기관의 외화예수금 증가(+9억 달러)에 기인한다고 설명했습니다(보도자료). 달러 강세에 따른 외환 평가효과를 감안하면, 저희 추정상 외환 평가효과를 제외한 외환보유액의 월간 증가는 24억 달러였을 것으로 보입니다. 이는 5월 -7억 달러, 4월 +10억 달러와 비교됩니다. 이는 원/달러 환율이 1,550원 부근까지 상승했던 6월에 강한 수준의 스무딩 오퍼레이션이 반복되었다고 국내 언론이 보도했다는 점을 고려하면 놀라운 결과입니다(연합인포맥스, 6월 26일; 연합인포맥스, 6월 29일).\n[2] 한국은행의 선물환 포지션 및 국민연금 FX 헤지: 5월 한국은행의 롱 선물환 포지션은 10억 달러 점진적으로 증가했습니다. 이는 4월 +19억 달러, 3월 +10억 달러, 2월 +12억 달러와 비교됩니다. 이는 한국은행·국민연금 FX 스왑을 통한 국민연금의 FX 헤지 속도가 느렸음을 시사합니다. 국민연금은 6월 중순 선물환 계약 매도를 통한 FX 헤지를 재개한 것으로 보도되었습니다(연합인포맥스, 6월 9일). 저희 견해로는 국민연금의 FX 헤지는 2025년 12월 말 이후 한국은행·국민연금 FX 스왑과 시장을 통해 점진적으로 실행되어 왔을 가능성이 있습니다.\n[3] 외국인 주식 투자자: 7월 초 현재 외국인 주식 투자자들의 자본 유출 압력은 여전히 강하며, 7월 1일부터 7월 2일까지 2거래일 동안 39억 달러 순유출을 기록했습니다. 이는 6월 -305억 달러, 5월 -279억 달러에 이어진 흐름이며, 리밸런싱과 차익 실현이 주도했습니다. 2026년 1~6월 동안 외국인 주식 투자자들의 한국 주식 익스포저는 1.87조 달러로 급증했습니다. 이는 2025년 12월 0.91조 달러와 비교됩니다. 반면 이 기간 동안 외국인 주식 투자자들은 누적으로 한국 주식 948억 달러를 매도했습니다. 한국 주식시장에서 외국인 주식 투자자들의 비중은 2026년 6월 말 38.9%로 상승했습니다. 이는 2025년 12월 32.9%와 비교됩니다.\n[4] 한국 개인투자자: 한국 개인투자자들의 해외 증권 매수는 추가로 감소했습니다. 7월 1일부터 7월 2일까지는 -4억 달러를 기록했으며, 6월 4억 달러, 5월 +9억 달러, 4월 +2억 달러, 3월 +14억 달러와 비교됩니다. 이는 한국 개인투자자들이 대신 한국 주식을 매수하고 있으며, 사실상 외국인 주식 투자자들의 매도세를 흡수하고 있기 때문입니다.\n[5] 한국 수출업체와 환전 비율: 저희는 한국 수출업체들이 반도체 수출 호황에 힘입어 달러를 원화로 환전하는 비율을 높은 수준으로 유지하고 있는 것으로 보입니다. 저희의 환전 대용지표인 ‘한국 내 외화예금 / 최근 12개월 수출 합계’는 수출업체들의 적극적인 달러 환전 추세를 시사합니다. 저희는 향후 몇 분기 동안 반도체 수출의 명목 금액이 추가로 증가할 것으로 추정합니다. 저희는 최근 2026년 예상 경상수지 흑자 전망치를 GDP 대비 16.4%로 상향했습니다. 이는 2025년 GDP 대비 6.6%와 비교됩니다. 씨티 주식 리서치팀은 최근 예상보다 양호한 메모리 시장 가격을 반영해 2026년 글로벌 DRAM/NAND ASP 성장률 전망치를 전년 대비 234%/236%로 상향했습니다. 이는 기존 전망치인 전년 대비 200%/186%와 비교됩니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/SUMaJWmRPhlN9OYkSJE1SZT-t6BFnunEKjdwom4Uv92cP8aXl9sbUR_cZaR1ozDZC_ipvK_MdO_QqLMRM-5lsgQHCRkKKREUDDbWCTroau7-AQbzz3X-_--2_TJDR1DzPwJFxA37YofCwp_FuiAaUrTG6noaiBwHzP0LNs1Vg_j7-LvyOPG01Kjeu8RzfOlZdrSOlV6tKeTOXXjTrR_C1RKqTmjYbvrFh9ZeEYpvAyN__vCz7DfCyeNxqlvYa9xbTkTm8eeXmimjs1XtTQhLpKNARN6VsHGWYaZbtVMjxiEpzcBWDTgV3bn7gN8abgOMBObcSvGBXRhEga77TELjDw.jpg",
-        "https://cdn5.telesco.pe/file/SUMaJWmRPhlN9OYkSJE1SZT-t6BFnunEKjdwom4Uv92cP8aXl9sbUR_cZaR1ozDZC_ipvK_MdO_QqLMRM-5lsgQHCRkKKREUDDbWCTroau7-AQbzz3X-_--2_TJDR1DzPwJFxA37YofCwp_FuiAaUrTG6noaiBwHzP0LNs1Vg_j7-LvyOPG01Kjeu8RzfOlZdrSOlV6tKeTOXXjTrR_C1RKqTmjYbvrFh9ZeEYpvAyN__vCz7DfCyeNxqlvYa9xbTkTm8eeXmimjs1XtTQhLpKNARN6VsHGWYaZbtVMjxiEpzcBWDTgV3bn7gN8abgOMBObcSvGBXRhEga77TELjDw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-03T02:02:46+00:00"
     },
     {
       "id": "x:ylecun:2072830533739192560",
@@ -1007,7 +1012,7 @@
       "url": "https://t.me/HI_GS/6639",
       "text": "2029년 6월 납기. 88.2백만달러",
       "images": [
-        "https://cdn5.telesco.pe/file/blG1He2vm35ISXxpkbp2NY4NGdXmv9NVggzMU67b4QE0UPJGgT6qlCHXteYx934ngDiqJzpRiGD32ICAeE2gtw28PgA5X-XUKLztQcwsrX_fJxdMIrXVDOIXzvorgPK3xpJRcy30B2yNa2DZu5QiIplenojValwaaGUi8dZF0ygwVM8jPk8SfWnzYDrlDdGe61I3wCPJwZW74eywcb2HesF6-Tjuv0AEWXj4OqsZ6hdY-acq5Hw-ixSfo2Gq2Mj0U_L80br3CN_As3lB93EDpKmxKXIn_wXQ_gVezVWorfnB2P8vs10tdTZouCXG9aFdvSG8UqM9kXsZbSapOvpZ6A.jpg"
+        "https://cdn5.telesco.pe/file/vTnYQhKBxZdDtF78FX8LiXnRXd63G364tIqgvMStepbtCLtE9rCPn0i9aqFXVs0mytHCManCjQeKegNc0ifCJHBFx7qw6LONd5veCPzGOEppcp6_fe9GWRRmwTjdBkvl9_hUKI7gdScTEW9K-Jy-s9DzZL4dZqJFP3jJOyYKTtcUpakbqOQpl2uCRVQ1b8KZdbb03BYQKNs6N7LPaAWt2ncwwATv4BGFREs_pNNmAzbEmvTowLqJ2XAzaz_R8rN3WGGB9Q2EZCgKiatH4ysyTn1zObhoJ4qAr_u0qKXW-BXlC-VkyCC3qNudjeHzs_tPfwPPdBBvWTjXwX0QHToa5A.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-02T07:49:11+00:00"
