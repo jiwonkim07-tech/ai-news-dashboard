@@ -1,22 +1,60 @@
 {
-  "updated_at": "2026-07-04T22:04:42+00:00",
+  "updated_at": "2026-07-05T00:01:56+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 5
   },
   "briefing": {
-    "headline": "메모리 반도체 가격 전망 상향",
+    "headline": "메타 수석 AI 과학자, 트럼프 암호화폐 수익 비판",
     "bullets": [
-      "DRAM/NAND 가격 인상 사이클 2027년까지 지속",
-      "SK하이닉스, ADR 발행 시 은행에 0.5% 수수료 지급 검토",
-      "UBS, 키옥시아 목표주가 14만 4,000엔으로 상향",
-      "난야테크놀로지, 8개월 연속 실적 최고치 경신",
-      "TrendForce) HBM4 계약 가격 대규모 인상 임박"
+      "TSMC 위상 약화, 인텔에 힘줘",
+      "반도체 가격 상승 전망",
+      "AI 생산성 기대치 낙관적",
+      "미국주식 4개월만에 최대 자금 유출",
+      "SK하이닉스, ADR 발행 수수료 지급 검토"
     ],
-    "generated_at": "2026-07-04T22:04:42+00:00",
+    "generated_at": "2026-07-05T00:01:56+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31319",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31319",
+      "text": "• 인텔에 힘주기  ========================  ~ 2016년 이후 10년 동안 애플에 시스템온칩(SoC)을 독점 공급해 왔던 TSMC의 위상이 흔들릴 가능성이 제기됐다  ~ 나인투파이브맥 등 외신은 14일(현지시간) 애플 공급망 분석가 궈밍치를 인용해 인텔이 저가형 아이폰·아이패드·맥용 프로세서 생산을 위한 소규모 테스트를 시작했다고 보도했다  https://n.news.naver.com/article/092/0002422844?sid=105",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-04T23:53:02+00:00"
+    },
+    {
+      "id": "tg:enc210406/4087",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4087",
+      "text": "[AI데이터센터용 HiMSEN 엔진 소개]\n영상: HD현대중공업 공식 유튜브 채널\nhttps://youtube.com/watch?v=jbXepSWyWIk&si=a9M6_RIjJRjuAevT",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-04T23:13:13+00:00"
+    },
+    {
+      "id": "x:ylecun:2073524211822272571",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2073524211822272571",
+      "text": "RT by @ylecun: While Trump walked away with a $636 million profit from his crypto venture, nearly 1 million people who bought into it lost a total of $3.81 billion through the end of June. They were probably mostly his MAGA supporters, but to Trump they were suckers. https://trib.al/tQSlpdJ",
+      "images": [
+        "https://pbs.twimg.com/card_img/2073510162837757952/17DasIKa?format=jpg&name=800x419"
+      ],
+      "summary_ko": "@yleun의 RT: 트럼프가 자신의 암호화폐 벤처에서 6억 3,600만 달러의 수익을 안고 떠나는 동안, 이를 매입한 거의 100만 명이 6월 말까지 총 38억 1,000만 달러의 손실을 입었습니다. 그들은 아마도 대부분 그의 MAGA 지지자들이었을 것입니다. 그러나 트럼프에게는 그들은 바보였습니다. https://trib.al/tQSlpdJ",
+      "published_at": "2026-07-04T21:47:50+00:00"
+    },
     {
       "id": "x:ylecun:2073418589496127640",
       "source": "x",
@@ -335,22 +373,10 @@
       "url": "https://t.me/bornlupin/18874",
       "text": "다음주 일정\n6일: 미국 6월 ISM 서비스업 PMI, 한국 외환시장 24시간 개방\n7일:\n삼성전자 2분기 잠정실적\n, $PENG 실적(장후)\n8일:  6월 FOMC 회의록 공개, 리바이스 실적(장후)\n9일: 중국 6월 CPI, PPI, 펩시코 실적(장전)\n10일:\nSK하이닉스 ADR 상장\n, 일본 6월 PPI, 델타 실적(장전)\n11일:\n한국 7월 1~10일 수출입",
       "images": [
-        "https://cdn5.telesco.pe/file/HimfSLttEgRtS69JJCyWsC3Zn0j4-5q9NtXgZWf7tiJ9mkG9c118qlwSCCgLqw6Hpyv-Chco_mmyUUsSBdWydm7HkJc0XJBaf_Fa2gdvwCV-t2oeb4BZ6c6VVBq-yggC9PSPj5VZ08Qro098mkxdyHHGopU-STFszEKaEb-143OLUyu3KQFpCtkm4cpW21GVvzYuFes0VdmktI6V6b4Jed0JwdcX6u_a9Cd5W8Ftz1UTvN6zQ6Zf25RzMYpfHxCJ0axrYX89fkB7KrQP4hPZUaV_Zk0ydHJCq9LGvt-wp7yAyt8Y4lXhud0Azv0J0CigdmkJKR1z_RuG7xtjPcKjAw.jpg"
+        "https://cdn5.telesco.pe/file/ouq04cA31o8vSUzelvl8yXrJYe0iy2q_-jEkreVXefbUMED6ZDJ_HBqyOdnvCEcDWgjqMIL5-Nr0rWHgWgmXBmDMPYefIXe3A1L57p3TbZpmlIdIemR7jbMNXmuqhJ3_c_0wJ7N0Pn61S-rHJMzJzS24uB__31-Iy69BSde7qNYRoFfSzWjL5pvto1GxUaMNsiPgHZKtuJMlXzggjTjkv0GrQEUUK9v_-d3SXq2A_hfXQJTiOzZNyden2yIkKP0o9-p4DMdtchnn8zJVBxLe9GaP3a18OpjKANQoXl3UNxQTtFA6wKqpc031E_OdDQ7Uk-w_qeh3TS5_U3UV3E2DKg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-04T00:11:14+00:00"
-    },
-    {
-      "id": "tg:EMchina/31307",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31307",
-      "text": "딥시크 V4 7월 중순 출시. 피크시간대 API 가격 전략 동시 조정  • 딥시크 V4 정식 버전 발표 이후 API 가격 전략 동시 조정. 피크시간대 가격 메커니즘 도입  • API 피크시간대 가격은 평소 가격의 2배. 피크 시간대는 매일 오전 9시부터 12시까지, 오후 2시부터 6시까지  DeepSeek V4定档7月中旬，峰谷API定价同步落地  DeepSeek V4正式版正式版发布后将同步调整API定价策略，引入峰谷定价机制。API 高峰时段价格将是平时价格的2倍，高峰时间段为每天的上午9…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-03T23:58:30+00:00"
     },
     {
       "id": "tg:bornlupin/18873",
@@ -373,7 +399,7 @@
       "url": "https://t.me/bornlupin/18872",
       "text": "UBS, 키옥시아(Kioxia)의 목표주가를 14만 4,000엔으로 상향\nUBS는\n메모리 사이클의 피크 예상 시기를 계속해서 연장하고 있습니다\n.\n가격 전망치가 10개월 연속 상향 조정되고 장기 공급 계약(LTA)을 통해 실적 가시성이 향상\n됨에 따라, UBS는\nAI 수요의 지속 가능성을 둘러싼 논쟁이 커지고 있음에도 불구하고 낸드 상승 주기(업사이클)가 여전히 견조하게 이어지고 있다\n고 분석",
       "images": [
-        "https://cdn5.telesco.pe/file/UjIXZq9kpJFuNWmuUfavXdm03gS1hJRH44FI2DO87vOQwYSvyfhxkBWJ-U9VBGgTSVsIJUJgP_h7bc7HvOwtzu3QBG3y7K-Jp0zDXXpbRLBEYxmO5U65jlacgxS6WyVj8WDUgh6B5Z3D36aBE8g5AcCCFRm8z6eRNuvvMFBLBX8JyTWgoQKQjPU8BGnNTInI3X9PzkVFmK_kiwoBEj2yQ6q7TtOGBRR0FnR34XWnVWSA2nXzAiouVFXe7qpVNZq1iQF5AgjBCaJY5WSel0UULhP8muHE-084oV4xhC6ejztYzYjLHM17YmLwS7Vwa3f9N-3ykFkUPAw1aUKOFP_saA.jpg"
+        "https://cdn5.telesco.pe/file/WAziS0EFVCXgCSLwephLkgvpeAMdzuPlXx3cikJpJHGGr3eE33rDv8q2fmza20KOURZbKOQdMtFX1x8-u9SWJIbp0E9XelgkIVJioWR_w_TNkOqVSKSI4k-w-ihKH-3dNyh7uJdjEy3HS31gcUdbDpejZbt30DyD5fnMzCLn28PtjSvFBMGK1ti9giri4D9qwdoefQirkssTsbtpWBiQ5SrwpOLu0y8nZGsIXgBydKBtbvKQteMJ_KP8awupH1Qn3wHzCBQKo6L1YBcgDT8IawtwK2bIPZ_QFc9rGn52jtHiL8NaNSsE9FpTs1mNEi4eEbQcBHYTN3DoEpmUAQcoow.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-03T23:50:37+00:00"
@@ -387,7 +413,7 @@
       "url": "https://t.me/bornlupin/18871",
       "text": "UBS,\n2026년 하반기 메모리 가격 상승 여력 (Upside to 2H26 memory pricing)\n당사의 산업 점검(industry checks)에 기반하여,\n2026년 2분기 전분기 대비(QoQ) +67% 상승에 이어, 2026년 3분기 기본(base-line) DDR 계약 가격 예상치를 전분기 대비 +32%(기존 +17%)로, 4분기는 전분기 대비 +18%(기존 +12%)로 상향\n조정합니다.\n장기 공급 계약(LTA)에 따른 가격과 HBM 가격 및 제품 믹스에 따라, 전분기 대비 평균판매단가(ASP) 추이는 메모리 공급업체별로 다르게 나타날 것입니다.\n당사는 D램 산업의 공급 부족 현상이 적어도 2028년 2분기까지 지속될 것으로 계속해서 전망\n합니다.\n2027년 비트 수요 성장률(전년 대비 +36.2%)과 공급 성장률(+19.3%) 사이의 격차가 너무 커서 그때까지 해소되기 어렵습니다.\n2027년에 전방 산업(downstream)의 재고 소진이 없다고 가정할 경우(즉, 2026년 하반기에 고객사의 재고 축적이 없다고 가정),\n자급률(sufficiency ratio)은 실제로 2026년 예상치인 -8.1%에서 -13.6%로 악화될 것\n입니다.\n두 수치 모두 지난 30년간 전례 없는 수준입니다.\n낸드 플래시의 경우, 2분기의 전분기 대비 +67% 상승에 이어 2026년 3분기에는 전분기 대비 +30%(기존 +17%), 4분기에는 +12%(기존 유지) 상승할 것으로 전망\n합니다. 당사는\n낸드 상승 주기(업사이클)가 최소 2027년 4분기까지 지속될 것으로 예상\n합니다.\n결과적으로(Net net), 당사는 메모리 산업 매출이 2026년 9,920억 달러, 2027년 1조 7,630억 달러에 달할 것으로 전망합니다. 이 전례 없는 상승 주기의 주요 리스크는 여전히 고객사의 가격 감당 여력(affordability)이며, 특히 이러한 자본 지출(capex)을 조달하기 위해 계속해서 자본 시장을 활용해야 하는 하이퍼스케일러(hyperscalers)들의 감당 여력이 관건입니다.",
       "images": [
-        "https://cdn5.telesco.pe/file/jLOvML4IhQf0pFCXrRU8CFI9ni8uEua_4N5Km_XLJzHOcATcfuSoEnSbRZQLr77xLmC3SmV_BgsGZYzMb-S9HnuFMmXMb3eW4WMCKNU1L64SCFcblXsaS5ENY80BJfuUSOSG6Ko0Ms_KMstGFSyMHS490qCBacWr7eayIsvvVVvhOWzXHWc5UxQYlhx5SnunmVjBueURKwZrryqxwM1IrdAOJDzZJn4lgn9kOQuxbGbdpo9RML064jKCsscNRHcCllZW-MR9JZVNd_441cD92uPpWJLU41Hl0k4Uih-02izft_5nfwZBEk_4FxzCwFNmQkxhHUv3if7EPDAYYITb2g.jpg"
+        "https://cdn5.telesco.pe/file/SgkpSQsF3yDS_I2t3xNvF9faF1qLVXARjLcV5baxF045brPRFjD7cMOFIP4ZflYHfXwL988rh84F3WTYPvWHZQDrG1AGL44iU1NJVWVtq5j-VBdVWdU3bwVWkVTDDSCZEoLV2wOb8Bojs6jJGUoUJBIAX-UuODvO6MjDLCyz1B4kQe_yzvxUsKhN1itRehv4bYmZopOyHBNV87WIL-LW1jd3pH1Q0b576zxbw0oGJ4afeQu6GEGUGHYUFDS5Yd9JEBR4iXSH2QkK_9X3QmnDbA1qKcazKZxnLMfmjV0jPOACPpioE4Rq8yk0vIZXCbCYaHhBwtcqh-b1wQlZ2Ze7Mw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-03T23:46:32+00:00"
@@ -425,7 +451,7 @@
       "url": "https://t.me/bornlupin/18869",
       "text": "TrendForce) HBM4 계약 가격: 대규모 인상 임박\n2027년 HBM4에 대한 논의가 진행 중인 가운데, 트렌드포스는 수급 불균형과 차세대 제조 비용 상승을 반영하여\n가격이 대폭 인상될 것으로 예상합니다. 다이(die) 크기가 커지고 있는 차세대 GPU 플랫폼과 AI ASIC의 수요는 생산 능력 부족(공급 압박)을 더욱 악화시킬 것\n입니다.",
       "images": [
-        "https://cdn5.telesco.pe/file/gTvJunYWnBIa5yRdj9qJUQGGzZxNlhnzU28WNym0X7ofISQnGndMQPMPGtyLDDeUPSIrVPQCJw5DY1UHo_fRz4LpkfjVsIVN-Y1dA81SbroHtrp23YatGLHEvcEfnJ-WVCQQRczRElalFfiRg_8FBh0mvTUH0P1xLhr_OAwFgvD75V1QJ2CfTDJGBU91Mpt1aGLBv1C1SZ75M-esuRVCBv66cn_W_UwX2tXqptIeWrkqtu8HhNm7C1Khz48QjmsnXeKViGtI59hOklSCBJJL2UCa3KJdWt8POl7_bIChOUDU1R_rHSMjYpk2NNXpSsvosZx2PuxELuCm1mv42G3weg.jpg"
+        "https://cdn5.telesco.pe/file/jdhXAKSNuapey9aUfUFAOicCxzWR75lyzJHus0ONd43C7uw1xW8c2eY07rvMipw_PEp3zruQvZ_GlEYE3MKWm-Mxzar5N2HqdSG3xkXT2-9wEwXjIIsrrBqP_PxUQ43LTUQ_ddyVHtspIrDzgDsLscjTR-ZxHLKC1Xik9URGi_50uICv5NWilw9jgGnYP4t7SRISNQCN_CD_bsvxekea8zG4mI5D46h6ZDIZ3aV134S5Qc1nTBsqE9E3L1Ul7TsHBYS8i_IN383zlthTilr-1Q_8LPAxpX4p5JLUVc6LALOPINFPhtJVOReNP_Co0vkaIlXOiDlQ9tIwMDYpEtCv2g.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-03T22:40:32+00:00"
@@ -640,9 +666,7 @@
       "author_url": "https://x.com/ylecun",
       "url": "https://x.com/ylecun/status/2072981022581444951",
       "text": "RT by @ylecun: Using AI to improve cancer immunotherapy outcomes, via training from transcriptomes of 10,000 tumor samples, 33 cancer types @NatureMedicine https://www.nature.com/articles/s41591-026-04502-7",
-      "images": [
-        "https://pbs.twimg.com/card_img/2072972190320824321/Q4tPHNoU?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "@yecun의 RT: 10,000개의 종양 샘플, 33개 암 유형의 전사체로부터 훈련을 통해 AI를 사용하여 암 면역치료 결과 개선 @NatureMedicine https://www.nature.com/articles/s41591-026-04502-7",
       "published_at": "2026-07-03T09:49:24+00:00"
     },
@@ -978,18 +1002,6 @@
       "published_at": "2026-07-02T19:07:39+00:00"
     },
     {
-      "id": "x:ylecun:2072736205964542002",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2072736205964542002",
-      "text": "RT by @ylecun: The Narrative Strategy of Sam Altman on CNBC today… Some notes from discussing this ‘we will give America 5% of OpenAI’ idea… 1 - Strategically it makes sense for OpenAI to Invite This Matrix-multiplication / inference is a commodity… but OpenAI is actually in a WORSE place than utilities which are regulated / have regulatory capture AND there are geographic realities / limits on shipping energy. The only way for an OpenAI to ‘win’ / generate long-term profit is regulatory capture, so why not invite it… this has never been more apparent with the open-source global models coming online 2 - OpenAI has the least to lose / most to gain…competitively smart PR move They are now behind Anthropic in the ‘pure play’ race… and unlike Google and Meta don’t have actually profitable real business… so a 5% dilution to them is nothing really…. It is worth 5% to hurt their competitors if they can drive the meme. 3 - The deal for America sounds way better than any practical reality. I actually like the ‘trump accounts’ / deal Americans broadly into the market … but 5%… that is like $100 bucks per person, maybe $150 at a 1T valuation… and these ‘dividends’… of what? A non-profitable company — even if you buy ‘massive growth story…. This isn’t needle moving in any practical way, it just sounds good and is something Bernie and Trump can weirdly both like for different reasons…. Upshot — good on Sam Altman as a cynical political strategist - makes total sense…. Drives AI exceptionalism story, ‘so dangerous’, etc.. in a politically advantaged way… But on the eve of America’s 250th Birthday … shame. Deeply anti-American, anti-Freedom, anti-Capitalist… and highly dangerous behavior to anyone who actually believes in American values…. And it is exactly the type of outcome starting with bank bailouts everyone worried about in 2008** don’t give mice cookies**",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-02T17:36:35+00:00"
-    },
-    {
       "id": "rss:semianalysis:ectc2026",
       "source": "rss",
       "author": "semianalysis",
@@ -1080,20 +1092,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-01T23:47:09+00:00"
-    },
-    {
-      "id": "tg:enc210406/4074",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4074",
-      "text": "[한화오션과 TKMS 시가총액 추이]\n티센크루프로부터 스핀오프해서\n티센크루프마린시스템즈(TKMS)로\n상장한 이후 어제까지\n시가총액 추이를\n한화오션과 함께 그린 차트입니다.\nCPSP 숏리스트로 선정된 두 회사의\n시가총액 흐름이 유사한데요.\nTKMS의 경우\n독일 정부로부터\nMEKO-A200 호위함 6척을 수주하면서\n최근 주가가 급등했고,\n한화오션은\n방위사업청으로부터\nKDDX 선도함 상세설계 및 건조를 위한\n우선협상대상자로 선정되면서\n장전에 거래량을 동반한 주가 강세를\n보이고 있습니다.\n아직 시장은\n양사의\nCPSP 우선협상대상자\n선정 가능성에 대해\n어떤 가능성도 점치지 않고\n중립적으로 대하고 있습니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/vpfWihAwQU2jN5OBLTd1WhA94kWf2vUqUnCVzVCN0z6rjqrB22sHO2ROcXINNnJl-fJPqQTZhr72Q2kjE9z2RJFuNwp2KT-u3xqSU7ApB3s0q5JkOrEHdqKc3jmV3Yq-MG_2MNra9cBTAnJ_C9_z_aRF9ttD4SuM_oXP6cx7iLKYBlydJpjr1FaXLswLaZe6nGu-_Vd5H7Pd9b3k_45sRpkOBoMwmH4ynSbO5olsGDhl82WckIyrvQ6vNTv1oK3OvPRNq3XgQfzTP1hDWxKMPEoKpZnK2mToqNVzmecxBt0AtB5zn0_BoyTDZgjful_9B4RygxhJ67lprhy7lzzG7g.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-01T23:46:11+00:00"
     },
     {
       "id": "tg:HI_GS/6636",
