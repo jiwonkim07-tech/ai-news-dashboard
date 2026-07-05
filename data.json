@@ -1,22 +1,34 @@
 {
-  "updated_at": "2026-07-05T17:10:58+00:00",
+  "updated_at": "2026-07-05T19:18:24+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 5
   },
   "briefing": {
-    "headline": "삼성중공업, 바다 위 데이터센터 2028년 띄운다",
+    "headline": "삼성중공업, ‘바다 위 데이터센터’ 2028년 띄운다…AI 신시장 정조준",
     "bullets": [
       "메모리 반도체 '슈퍼 사이클' 진입",
-      "레노버, YMTC제 SSD 탑재 노트북 출하",
-      "ASML, 중국에 EUV 장비 공급 재개하나",
-      "폭스콘, 2분기 매출 52.1% 증가",
-      "미국, 탄산리튬 전략적 비축 개시"
+      "삼성전자, 사내 주거대출 ‘국평 85㎡’ 이하로 제한",
+      "폭스콘, AI 수요 호조로 2분기 매출 급증",
+      "레노버, 처음으로 YMTC제 SSD를 글로벌 노트북에 탑재해서 출하하기 시작",
+      "JP모건의 반도체 담당 데스크의 시황코멘트 해설"
     ],
-    "generated_at": "2026-07-05T17:10:58+00:00",
+    "generated_at": "2026-07-05T19:18:24+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:sama:2073791666553844074",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2073791666553844074",
+      "text": "our older kid put two words together for the first time and i am approximately as amazed by this cognitive feat as i am by GPT-5.6 discovering new math",
+      "images": [],
+      "summary_ko": "우리 큰 아이가 처음으로 두 단어를 조합했고 저는 GPT-5.6이 새로운 수학을 발견한 것만큼 이 인지적 업적에 놀랐습니다.",
+      "published_at": "2026-07-05T15:30:37+00:00"
+    },
     {
       "id": "tg:globaletfi/20532",
       "source": "telegram",
@@ -580,6 +592,20 @@
       "published_at": "2026-07-04T23:13:13+00:00"
     },
     {
+      "id": "x:ylecun:2073527459312460276",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2073527459312460276",
+      "text": "RT by @ylecun: Fifty years later the semiquincentennial is tainted by fears that the country is no longer a democracy. But the Supreme Court has slapped down many of the President's pet projects, and an electoral reckoning is coming this fall. Is the decline of US democracy hyperbole or reality? Quantitative Democracy indexes can calibrate our assessment: https://ourworldindata.org/democracy",
+      "images": [
+        "https://pbs.twimg.com/card_img/2073481144922714112/Tg_bA0xE?format=png&name=800x419"
+      ],
+      "summary_ko": "RT by @yleun: 50년이 지난 500주년은 이 나라가 더 이상 민주주의가 아니라는 두려움으로 얼룩졌습니다. 그러나 대법원은 대통령이 좋아하는 프로젝트 중 다수를 기각시켰고, 이번 가을에 선거 결과가 나올 예정이다. 미국 민주주의의 쇠퇴는 과장인가, 아니면 현실인가? 양적 민주주의 지수는 우리의 평가를 보정할 수 있습니다: https://ourworldindata.org/democracy",
+      "published_at": "2026-07-04T22:00:45+00:00"
+    },
+    {
       "id": "x:ylecun:2073524211822272571",
       "source": "x",
       "author": "ylecun",
@@ -604,6 +630,18 @@
       "images": [],
       "summary_ko": "RT by @yleun: 당신과 당신의 친구들이 민주주의 원칙에 위배된다는 의심이 계속 남아 있다면, 당신은 그것을 제거했습니다.",
       "published_at": "2026-07-04T15:25:25+00:00"
+    },
+    {
+      "id": "x:ylecun:2073425439188484351",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2073425439188484351",
+      "text": "RT by @ylecun: Yet we still don't have level-5 self-driving cars, and certainly not self-serving cars that can learn to drive in a few hours of practice like any teenager. We don't even have domestic robots that can do what 10-year olds can do the first time we ask them. We don't even have robots that are nearly as smart as a house cat. The G in AGI is nonsense.",
+      "images": [],
+      "summary_ko": "RT by @yleun: 하지만 우리는 아직 레벨 5 자율주행차를 갖고 있지 않으며, 여느 십대들처럼 몇 시간의 연습만으로 운전을 배울 수 있는 자율주행차도 확실히 없습니다. 10살짜리 아이들이 처음 요청했을 때 할 수 있는 일을 할 수 있는 가정용 로봇도 없습니다. 집고양이만큼 똑똑한 로봇도 없습니다. AGI의 G는 말도 안됩니다.",
+      "published_at": "2026-07-04T15:15:21+00:00"
     },
     {
       "id": "x:ylecun:2073418589496127640",
@@ -775,32 +813,6 @@
       ],
       "summary_ko": "@karpathy의 RT: 저는 Fable에서 가장 어려운 3D 프롬프트를 통해 많은 시간을 보냈습니다. 45분짜리 동영상이지만 여러분을 위한 60개 이상의 매우 멋진 데모가 있습니다. 다음 포스팅에서도 안내드립니다. https://www.youtube.com/watch?v=rTc2_-1KuRE",
       "published_at": "2026-07-03T14:12:03+00:00"
-    },
-    {
-      "id": "x:ylecun:2073045340006068269",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2073045340006068269",
-      "text": "RT by @ylecun: Brazenly self-serving: the Trump family’s earnings during his first year in office \"have moved him into an echelon of enrichment more associated with strongmen in Russia and Turkey.\" https://trib.al/imEzjid",
-      "images": [
-        "https://pbs.twimg.com/card_img/2072986630030536704/bYyG2fUL?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@yleun의 RT: 뻔뻔스럽게 이기적입니다. 트럼프 가족은 취임 첫 해에 벌어들인 수입으로 \"그를 러시아와 터키의 독재자들과 더욱 연관되는 부유층으로 끌어올렸습니다.\" https://trib.al/imEzjid",
-      "published_at": "2026-07-03T14:04:59+00:00"
-    },
-    {
-      "id": "x:ylecun:2073037974153896312",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2073037974153896312",
-      "text": "RT by @ylecun: Exactly. I've been disseminating a similar message for years. The concentration of power in AI and the desire for control is by far the biggest danger of AI. It could lead to a few private companies and/or countries being in control of access to information, access to knowledge, and access to the tools of economic expansion. It's a kind of medieval obscurantism akin to the Ottoman empire banning the use of the printing press for 200 years, in part to keep control of the dogma, but also to protect the corporation of the calligraphers and scribes. Relevant historical bits about the Internet: 1. It took a deliberate decision by Al Gore and Bill Clinton to open up access of what was then ARPAnet to commercial entities and to the public, against the desires of the entrenched telecom industry. During a public roundtable about the \"information superhighway\" in 1993, the CEO of AT&T told Gore and Clinton \"leave it to us\". Gore said no. 2. In the late 1980s, setting up an Internet presence required buying proprietary hardware with proprietary OS and software stack from Sun Microsystems, HP, IBM, or Dell. By the 2000s, all of this was wiped out by commodity hardware, Linux, Apache, and an entirely free/open software stack. This migration to open platforms was the result of market forces. Infrastructure wants to be open. Foundation models are becoming an infrastructure and will inevitably become commoditized. Long term, the money is in the application layer, which is what I, Arthur Mensch, Alex Karp, and others have been saying.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-03T13:35:42+00:00"
     },
     {
       "id": "tg:HI_GS/6643",
@@ -1199,7 +1211,9 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2072163884430229756",
       "text": "Claude Fable 5 will be available again globally tomorrow. After a series of productive conversations with the US government, we're redeploying the model with a new set of classifiers to target and block more cybersecurity tasks. In the near term, some routine tasks like coding and debugging will fall back to Opus 4.8. We’ll continue to refine these classifiers over the coming weeks to reduce false positives and better distinguish genuine misuse from legitimate requests. We’ve also begun drafting a consensus framework—with Amazon, Microsoft, Google, and other Glasswing partners—for assessing the severity of AI jailbreaks and how AI developers should respond to them. We invite other industry partners and model providers to join us in this effort. Finally, we’re scaling up our collaboration with the US government on model testing and safeguards. This will include pre-release access to models and safeguards for evaluation, information sharing on jailbreaks and misuse, and dedicated resources for joint research. Thank you to our users for your patience, and to our partners across the government, industry, and the research community who worked alongside us to make Fable 5 available again. Read our full blog: https://www.anthropic.com/news/redeploying-fable-5",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2071282107532693504/tkPmQzmy?format=jpg&name=800x419"
+      ],
       "summary_ko": "Claude Fable 5는 내일 전 세계적으로 다시 출시될 예정입니다. 미국 정부와 일련의 생산적인 대화를 나눈 후, 우리는 더 많은 사이버 보안 작업을 표적으로 삼고 차단하기 위해 새로운 분류 기준 세트를 사용하여 모델을 재배포하고 있습니다. 가까운 시일 내에 코딩 및 디버깅과 같은 일부 일상적인 작업은 Opus 4.8로 대체됩니다. 우리는 오탐을 줄이고 실제 오용과 적법한 요청을 더 잘 구별하기 위해 앞으로 몇 주 동안 이러한 분류자를 계속해서 개선할 것입니다. 또한 우리는 AI 탈옥의 심각성과 AI 개발자가 이에 대응해야 하는 방법을 평가하기 위해 Amazon, Microsoft, Google 및 기타 Glasswing 파트너와 함께 합의 프레임워크 초안을 작성하기 시작했습니다. 우리는 이러한 노력에 동참할 다른 업계 파트너와 모델 제공업체를 초대합니다. 마지막으로 우리는 협력을 확대하고 있습니다.",
       "published_at": "2026-07-01T03:42:23+00:00"
     },
@@ -2007,20 +2021,6 @@
       "published_at": "2026-06-18T15:54:24+00:00"
     },
     {
-      "id": "x:sama:2067635005552209969",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2067635005552209969",
-      "text": "RT by @sama: One of the ways scaling test-time compute can benefit people most: have reasoning models think really hard about rare undiagnosed diseases. Today we’re sharing published evidence that this can work, in some of the most difficult pediatric cases!",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2067623013072424960/img/7vtOwmVIVurATbnl.jpg"
-      ],
-      "summary_ko": "@sama의 RT: 테스트 시간 컴퓨팅을 확장하면 사람들에게 가장 큰 이점을 줄 수 있는 방법 중 하나는 추론 모델이 진단되지 않은 희귀 질병에 대해 매우 열심히 생각하도록 하는 것입니다. 오늘 우리는 가장 어려운 소아과 사례에서 이것이 효과가 있을 수 있다는 발표된 증거를 공유하고 있습니다!",
-      "published_at": "2026-06-18T15:46:14+00:00"
-    },
-    {
       "id": "rss:semianalysis:rl-systems-mind-the-gap-matching",
       "source": "rss",
       "author": "semianalysis",
@@ -2341,9 +2341,7 @@
       "author_url": "https://x.com/GoogleAI",
       "url": "https://x.com/GoogleAI/status/2060392194142290294",
       "text": "R to @GoogleAI: Tune in for the full story ↓ https://www.youtube.com/watch?v=8hfpLa5wPGo",
-      "images": [
-        "https://pbs.twimg.com/card_img/2071227868986888192/n2jSMr4d?format=jpg&name=800x320_1"
-      ],
+      "images": [],
       "summary_ko": "R에서 @GoogleAI로: 전체 내용을 확인하세요 ↓ https://www.youtube.com/watch?v=8hfpLa5wPGo",
       "published_at": "2026-05-29T16:05:53+00:00"
     },
