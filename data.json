@@ -1,22 +1,34 @@
 {
-  "updated_at": "2026-07-06T17:44:29+00:00",
+  "updated_at": "2026-07-06T19:57:31+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 27
+    "new_this_run": 1
   },
   "briefing": {
-    "headline": "메타, AI 챗봇 테스트 프로젝트 논란",
+    "headline": "메타, AI 챗봇 테스트에 수백명 동원",
     "bullets": [
-      "앤스로픽, Claude 개발사와 제휴",
-      "SK하이닉스, 미국 주식예탁증서 발행",
-      "마이크론과 포드, 메모리 공급 계약 체결",
-      "애플-브로드컴, 다년 ASIC 칩 공급 계약",
-      "JP모건, 하반기 주식시장 핵심은 '시장 참여 확대'"
+      "Anthropic, Claude 개발사와 제휴",
+      "SK하이닉스, 미국 상장 초과 청약 기록",
+      "마이크론과 포드, 장기 메모리 공급 계약 체결",
+      "애플-브로드컴, 다년 ASIC 칩 공급 계약 체결",
+      "사우디, 7월 OSP 인하 결정"
     ],
-    "generated_at": "2026-07-06T17:44:29+00:00",
+    "generated_at": "2026-07-06T19:57:31+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31361",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31361",
+      "text": "미국 상장 신흥시장 ETF 자금 유입 급감, 한국 ETF 자금 유출 최대\n• 지난주, 미국 상장 신흥시장 주식/채권 ETF에 3주 연속 자금 유입. 7/2주차 유입 총액은 +494만달러로 전주(4.8억달러)대비 약 -99% 급감. 올해 누적 유입 규모는 총 418억달러\n• 중국 본토/홍콩 유입 규모는 1. 461억달러. 2위 차지하며 6주 연속 유출 추세 종료\n• 한국 유출 규모 최대(-3.682억달러). 이 중 iShares MSCI South Korea에서 투자 철수\n在美上市新兴市场ETF吸金骤减，韩国ETF资金外流最大\n上周，投资者连续第三周涌入投资于新兴市场股票和债券的交易所交易基金（ETF）。彭博汇编数据显示，截至7月2日当周，在美国上市、投资于多个发展中国家以及特定国家的新兴市场ETF资金流入总额为494万美元，较前一周流入规模4.8亿美元骤减约99%。今年迄今为止，资金流入总计418亿美元。中国大陆/香港流入规模1.461亿美元，排名第二，终结此前连续六周的流出趋势。韩国流出规模最大，为3.682亿美元，其中iShares MSCI South Korea遭遇撤资。\nhttps://wallstreetcn.com/livenews/3129539?ivk=1#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-06T19:53:09+00:00"
+    },
     {
       "id": "x:AnthropicAI:2074185390060110138",
       "source": "x",
@@ -934,18 +946,6 @@
       "published_at": "2026-07-06T03:35:02+00:00"
     },
     {
-      "id": "tg:EMchina/31349",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31349",
-      "text": "인텔, CPU 가격 일부 인상\n• 일부 소비자용 및 서버용 CPU 권장 소매 가격 인상. 주로 코어 울트라 200S Plus 소비자용 프로세서와 일부 Xeon 6 및 Xeon 8000 시리즈 서버 프로세서 포함\n• 소비자용 제품은 약 30~50달러, 서버 제품은 수백-수천달러 상승\n• 인텔은 가격조정이 밸류체인 및 관련 비용에 대한 정기적인 모니터링이라는 입장\n英特尔上调部分CPU价格\n英特尔已上调部分消费级和服务器级CPU的推荐零售价，主要涉及Core Ultra 200S Plus消费级处理器，以及部分至强6和至强8000系列服务器处理器。其中，消费级产品上涨约30至50美元，服务器产品上涨数百美元至上千美元。对此，英特尔方面回应《科创板日报》称，价格调整是定期对供应链以及与之相关的成本进行监控。 (科创板日报)\nhttps://x.com/technobaboy/status/2073781017622761698",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-06T03:15:51+00:00"
-    },
-    {
       "id": "x:ylecun:2073953877800419652",
       "source": "x",
       "author": "ylecun",
@@ -1500,20 +1500,6 @@
       "published_at": "2026-06-30T16:03:41+00:00"
     },
     {
-      "id": "x:demishassabis:2071988044878516466",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2071988044878516466",
-      "text": "RT by @demishassabis: We’re shipping 2 major releases: 🔘 Nano Banana 2 Lite: our fastest and cheapest Gemini Image model 🔘 Gemini Omni Flash: now available via the Gemini API and in @GoogleAIStudio to help developers generate and edit high-quality videos.",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2071986416179896321/img/-6UxxlHXr3t6QJuf.jpg"
-      ],
-      "summary_ko": "@demishassabis의 RT: 2가지 주요 릴리스를 출시합니다. 🔘 Nano Banana 2 Lite: 가장 빠르고 저렴한 Gemini 이미지 모델 🔘 Gemini Omni Flash: 이제 Gemini API와 @GoogleAIStudio를 통해 개발자가 고품질 비디오를 생성하고 편집하는 데 사용할 수 있습니다.",
-      "published_at": "2026-06-30T16:03:40+00:00"
-    },
-    {
       "id": "x:GoogleDeepMind:2071988047445438475",
       "source": "x",
       "author": "GoogleDeepMind",
@@ -1539,6 +1525,20 @@
         "https://pbs.twimg.com/amplify_video_thumb/2071986416179896321/img/-6UxxlHXr3t6QJuf.jpg"
       ],
       "summary_ko": "고정됨: 2가지 주요 릴리스 출시 예정: 🔘 Nano Banana 2 Lite: 가장 빠르고 저렴한 Gemini 이미지 모델 🔘 Gemini Omni Flash: 이제 Gemini API와 @GoogleAIStudio를 통해 개발자가 고품질 비디오를 생성하고 편집할 수 있도록 지원합니다.",
+      "published_at": "2026-06-30T16:03:40+00:00"
+    },
+    {
+      "id": "x:demishassabis:2071988044878516466",
+      "source": "x",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2071988044878516466",
+      "text": "RT by @demishassabis: We’re shipping 2 major releases: 🔘 Nano Banana 2 Lite: our fastest and cheapest Gemini Image model 🔘 Gemini Omni Flash: now available via the Gemini API and in @GoogleAIStudio to help developers generate and edit high-quality videos.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2071986416179896321/img/-6UxxlHXr3t6QJuf.jpg"
+      ],
+      "summary_ko": "@demishassabis의 RT: 2가지 주요 릴리스를 출시합니다. 🔘 Nano Banana 2 Lite: 가장 빠르고 저렴한 Gemini 이미지 모델 🔘 Gemini Omni Flash: 이제 Gemini API와 @GoogleAIStudio를 통해 개발자가 고품질 비디오를 생성하고 편집하는 데 사용할 수 있습니다.",
       "published_at": "2026-06-30T16:03:40+00:00"
     },
     {
@@ -1823,20 +1823,6 @@
       "published_at": "2026-06-25T16:21:10+00:00"
     },
     {
-      "id": "x:demishassabis:2070180154069176399",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2070180154069176399",
-      "text": "RT by @demishassabis: Gemma 4 just hit 200M downloads in only 2.5 months! For context, total downloads across the entire Gemma family of models were at 100M when we launched Gemma 3. The community's acceleration is incredible. Thank you to everyone building with Gemma. Watch how developers are driving real-world impact:",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2070176383641464832/img/pj0pj4_5zJ532FjM.jpg"
-      ],
-      "summary_ko": "@demishassabis의 RT: Gemma 4가 단 2.5개월 만에 2억 다운로드를 기록했습니다! 상황에 따라 Gemma 3을 출시했을 때 전체 Gemma 모델 제품군의 총 다운로드 수는 1억 건에 달했습니다. 커뮤니티의 가속화는 놀랍습니다. Gemma와 함께 만들어가는 모든 분들께 감사드립니다. 개발자가 어떻게 실제 세계에 영향을 미치고 있는지 살펴보세요.",
-      "published_at": "2026-06-25T16:19:45+00:00"
-    },
-    {
       "id": "x:GoogleDeepMind:2070180154069176399",
       "source": "x",
       "author": "GoogleDeepMind",
@@ -1848,6 +1834,20 @@
         "https://pbs.twimg.com/amplify_video_thumb/2070176383641464832/img/pj0pj4_5zJ532FjM.jpg"
       ],
       "summary_ko": "@GoogleDeepMind의 RT: Gemma 4가 단 2.5개월 만에 2억 다운로드를 기록했습니다! 상황에 따라 Gemma 3을 출시했을 때 전체 Gemma 모델 제품군의 총 다운로드 수는 1억 건에 달했습니다. 커뮤니티의 가속화는 놀랍습니다. Gemma와 함께 만들어가는 모든 분들께 감사드립니다. 개발자가 어떻게 실제 세계에 영향을 미치고 있는지 살펴보세요.",
+      "published_at": "2026-06-25T16:19:45+00:00"
+    },
+    {
+      "id": "x:demishassabis:2070180154069176399",
+      "source": "x",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2070180154069176399",
+      "text": "RT by @demishassabis: Gemma 4 just hit 200M downloads in only 2.5 months! For context, total downloads across the entire Gemma family of models were at 100M when we launched Gemma 3. The community's acceleration is incredible. Thank you to everyone building with Gemma. Watch how developers are driving real-world impact:",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2070176383641464832/img/pj0pj4_5zJ532FjM.jpg"
+      ],
+      "summary_ko": "@demishassabis의 RT: Gemma 4가 단 2.5개월 만에 2억 다운로드를 기록했습니다! 상황에 따라 Gemma 3을 출시했을 때 전체 Gemma 모델 제품군의 총 다운로드 수는 1억 건에 달했습니다. 커뮤니티의 가속화는 놀랍습니다. Gemma와 함께 만들어가는 모든 분들께 감사드립니다. 개발자가 어떻게 실제 세계에 영향을 미치고 있는지 살펴보세요.",
       "published_at": "2026-06-25T16:19:45+00:00"
     },
     {
