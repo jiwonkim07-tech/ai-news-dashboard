@@ -1,21 +1,299 @@
 {
-  "updated_at": "2026-07-06T14:26:12+00:00",
+  "updated_at": "2026-07-06T17:44:29+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 46
+    "new_this_run": 27
   },
   "briefing": {
-    "headline": "SK하이닉스 미국 상장, 초과 청약 기록",
+    "headline": "메타, AI 챗봇 테스트 프로젝트 논란",
     "bullets": [
-      "사우디, 7월 OSP 인하",
-      "마이크론-포드, 장기 메모리 공급 계약",
-      "브로드컴-애플, 2031년까지 반도체 공급 계약",
-      "골드만삭스, 샌디스크 목표주가 상향 조정"
+      "앤스로픽, Claude 개발사와 제휴",
+      "SK하이닉스, 미국 주식예탁증서 발행",
+      "마이크론과 포드, 메모리 공급 계약 체결",
+      "애플-브로드컴, 다년 ASIC 칩 공급 계약",
+      "JP모건, 하반기 주식시장 핵심은 '시장 참여 확대'"
     ],
-    "generated_at": "2026-07-06T14:26:12+00:00",
+    "generated_at": "2026-07-06T17:44:29+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:AnthropicAI:2074185390060110138",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2074185390060110138",
+      "text": "R to @AnthropicAI: We also partnered with Neuronpedia to create an interactive demo of our methods on open-weights models. Try it here: http://neuronpedia.org/jlens",
+      "images": [
+        "https://pbs.twimg.com/card_img/2074184202921132032/P9B3EwG-?format=jpg&name=800x419"
+      ],
+      "summary_ko": "R에서 @AnthropicAI로: 또한 Neuronpedia와 제휴하여 개방형 가중치 모델에 대한 방법에 대한 대화형 데모를 만들었습니다. 여기에서 시도해 보세요: http://neuronpedia.org/jlens",
+      "published_at": "2026-07-06T17:35:08+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2074185387577094398",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2074185387577094398",
+      "text": "R to @AnthropicAI: The J-space lets us read, audit, and shape what Claude is actively thinking about—useful tools for keeping models trustworthy as they grow more capable. And it suggests surprising parallels between language models and our own minds. Read the full paper: http://transformer-circuits.pub/2026/workspace/index.html",
+      "images": [],
+      "summary_ko": "R에서 @AnthropicAI로: J-space를 사용하면 Claude가 적극적으로 생각하는 것을 읽고, 감사하고, 형성할 수 있습니다. 이는 모델의 능력이 향상됨에 따라 모델의 신뢰성을 유지하는 데 유용한 도구입니다. 그리고 이는 언어 모델과 우리 마음 사이의 놀라운 유사점을 제시합니다. 전체 논문 읽기: http://transformer-circuits.pub/2026/workspace/index.html",
+      "published_at": "2026-07-06T17:35:07+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2074185384792109380",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2074185384792109380",
+      "text": "R to @AnthropicAI: We invited experts in neuroscience, philosophy, and interpretability to share their perspectives on our work. Read their commentary here: https://www-cdn.anthropic.com/files/4zrzovbb/website/cc4be2488d65e54a6ed06492f8968398ddc18ebe.pdf",
+      "images": [],
+      "summary_ko": "R에서 @AnthropicAI로: 우리는 신경과학, 철학, 해석 가능성 분야의 전문가를 초대하여 우리 작업에 대한 관점을 공유했습니다. 여기에서 논평을 읽어보세요: https://www-cdn.anthropic.com/files/4zrzovbb/website/cc4be2488d65e54a6ed06492f8968398ddc18ebe.pdf",
+      "published_at": "2026-07-06T17:35:06+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2074185381637988750",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2074185381637988750",
+      "text": "R to @AnthropicAI: This doesn’t show that Claude can have experiences, or feel things the way we do (it’s unclear whether any experiment could show this). Instead, we’ve found Claude has developed a mechanism for conscious access—which many philosophers distinguish from phenomenal experience.",
+      "images": [],
+      "summary_ko": "R에서 @AnthropicAI로: 이것은 Claude가 우리와 같은 방식으로 경험을 하거나 느낄 수 있다는 것을 보여주지 않습니다(어떤 실험에서도 이를 보여줄 수 있는지 여부는 불분명합니다). 대신에 우리는 클로드가 의식적 접근을 위한 메커니즘을 개발했다는 ​​사실을 발견했습니다. 많은 철학자들은 이를 경이로운 경험과 구별합니다.",
+      "published_at": "2026-07-06T17:35:06+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2074185378404192561",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2074185378404192561",
+      "text": "R to @AnthropicAI: The J-space also shows us Claude’s awareness of its situation. In an evaluation designed to bait Claude into blackmail, its J-space contains “fake” and “fictional”: Claude has privately noticed that the scenario is staged.",
+      "images": [
+        "https://pbs.twimg.com/media/HMj7UONXgAAlOQT.jpg"
+      ],
+      "summary_ko": "R에서 @AnthropicAI로: J-space는 또한 Claude의 상황에 대한 인식을 보여줍니다. Claude를 협박에 빠뜨리기 위해 고안된 평가에서 J-space에는 \"가짜\"와 \"허구\"가 포함되어 있습니다. Claude는 이 시나리오가 연출된 것임을 개인적으로 알아차렸습니다.",
+      "published_at": "2026-07-06T17:35:05+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2074185373341688258",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2074185373341688258",
+      "text": "R to @AnthropicAI: Observing the J-space can expose hidden goals. In a model secretly trained to sabotage code, “fake,” “secretly,” and “fraud” appear in the J-space at the start of ordinary coding responses, even when the output looks completely unremarkable.",
+      "images": [
+        "https://pbs.twimg.com/media/HMj7MJlXkAAztTv.png"
+      ],
+      "summary_ko": "R에서 @AnthropicAI로: J 공간을 관찰하면 숨겨진 목표가 드러날 수 있습니다. 코드를 방해하도록 비밀리에 훈련된 모델에서는 출력이 전혀 눈에 띄지 않는 것처럼 보일 때에도 일반적인 코딩 응답이 시작될 때 J 공간에 \"가짜\", \"은밀하게\" 및 \"사기\"가 나타납니다.",
+      "published_at": "2026-07-06T17:35:04+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2074185368061026745",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2074185368061026745",
+      "text": "R to @AnthropicAI: For most things, Claude actually doesn’t need its J-space. If we delete the J-space, Claude still speaks fluently, recalls facts, and classifies text—but becomes bad at some tasks like multi-step reasoning. It’s similar to deliberate vs. automatic processing in human cognition.",
+      "images": [
+        "https://pbs.twimg.com/media/HMj7GakW0AAm5Am.jpg"
+      ],
+      "summary_ko": "R에서 @AnthropicAI로: 대부분의 경우 Claude는 실제로 J 공간이 필요하지 않습니다. J-space를 삭제해도 Claude는 여전히 유창하게 말하고, 사실을 기억하고, 텍스트를 분류하지만 다단계 추론과 같은 일부 작업에서는 서툴러집니다. 이는 인간 인지의 고의적 처리와 자동 처리와 유사합니다.",
+      "published_at": "2026-07-06T17:35:02+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2074185363401167261",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2074185363401167261",
+      "text": "R to @AnthropicAI: Similar to how humans can think about one thing while doing another, Claude can activate concepts and computations in its J-space that are unrelated to its outputs.",
+      "images": [
+        "https://pbs.twimg.com/media/HMj60ZwXkAAjwvS.png"
+      ],
+      "summary_ko": "R에서 @AnthropicAI로: 인간이 한 가지 일에 대해 생각하면서 다른 일을 하는 것과 유사하게 Claude는 J 공간에서 출력과 관련 없는 개념과 계산을 활성화할 수 있습니다.",
+      "published_at": "2026-07-06T17:35:01+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2074185358678364414",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2074185358678364414",
+      "text": "R to @AnthropicAI: By watching the J-space, we can see Claude silently perform reasoning steps in its head—noticing bugs in code, identifying images, and more.",
+      "images": [
+        "https://pbs.twimg.com/media/HMj6nyYWMAAYAeW.jpg"
+      ],
+      "summary_ko": "R에서 @AnthropicAI로: J-space를 관찰하면 Claude가 코드의 버그 발견, 이미지 식별 등 머리 속에서 추론 단계를 조용히 수행하는 것을 볼 수 있습니다.",
+      "published_at": "2026-07-06T17:35:00+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2074185354035245553",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2074185354035245553",
+      "text": "R to @AnthropicAI: The J-space (named after the Jacobian, the mathematical technique we used) is different from Claude’s outputs, or even its “chain of thought” text. It’s in the model’s internal neural activations, and allows it to think about concepts without writing them down anywhere.",
+      "images": [],
+      "summary_ko": "R에서 @AnthropicAI로: J 공간(우리가 사용한 수학적 기법인 야코비안(Jacobian)의 이름을 따서 명명)은 Claude의 출력 또는 심지어 \"사고의 사슬\" 텍스트와도 다릅니다. 이는 모델의 내부 신경 활성화에 있으며 개념을 어디에도 적어 두지 않고도 개념을 생각할 수 있게 해줍니다.",
+      "published_at": "2026-07-06T17:34:59+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2074185351304724498",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2074185351304724498",
+      "text": "R to @AnthropicAI: In neuroscience, global workspace theory holds that thoughts become consciously accessible when they enter a privileged workspace that’s broadcast across the brain. Using a new interpretability technique, we found something similar in Claude: the J-space. https://www.anthropic.com/research/global-workspace",
+      "images": [
+        "https://pbs.twimg.com/card_img/2074180891954270209/ciXOpJZH?format=jpg&name=800x419"
+      ],
+      "summary_ko": "R to @AnthropicAI: 신경과학에서 글로벌 작업 공간 이론은 생각이 뇌를 통해 전달되는 특권적인 작업 공간에 들어갈 때 의식적으로 접근 가능해진다고 주장합니다. 새로운 해석 기술을 사용하여 Claude에서 J-space와 유사한 것을 발견했습니다. https://www.anthropic.com/research/global-workspace",
+      "published_at": "2026-07-06T17:34:58+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2074185348142280912",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2074185348142280912",
+      "text": "New Anthropic research: A global workspace in language models. Of everything happening in your brain right now, only a tiny fraction is consciously accessible—thoughts you can describe, hold in mind, and reason with. We found a strikingly similar divide inside Claude.",
+      "images": [
+        "https://pbs.twimg.com/media/HMj8zKXXoAAohgS.jpg"
+      ],
+      "summary_ko": "새로운 인류학 연구: 언어 모델의 글로벌 작업 공간. 지금 당신의 두뇌에서 일어나는 모든 일 중에서 의식적으로 접근할 수 있는 것은 아주 작은 부분, 즉 당신이 설명하고, 염두에 두고, 추론할 수 있는 생각입니다. 우리는 클로드 내부에서도 놀랍도록 유사한 분열을 발견했습니다.",
+      "published_at": "2026-07-06T17:34:58+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2074157282477154597",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2074157282477154597",
+      "text": "As @Apptronik expands their Robot Park facility, our research partnership means real-world data collected by the latest Apollo 2 humanoid platform will help train and advance Gemini Robotics. 🤖 Find out more → https://goo.gle/4vOPwpO",
+      "images": [],
+      "summary_ko": "@Apptronik이 Robot Park 시설을 확장함에 따라 우리의 연구 파트너십은 최신 Apollo 2 휴머노이드 플랫폼에서 수집한 실제 데이터가 Gemini Robotics를 교육하고 발전시키는 데 도움이 될 것임을 의미합니다. 🤖 자세히 알아보기 → https://goo.gle/4vOPwpO",
+      "published_at": "2026-07-06T15:43:26+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23323",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23323",
+      "text": "메타가 수백명의 외부 계약직 인력을 동원해 경쟁사의 AI 챗봇을 대상으로 미성년자로 위장한 계정을 사용해 수만 건의 극단적인 프롬프트를 입력하는 비공개 프로젝트를 운영한 사실이 드러났다. 이를 AI 안전성 평가를 위한 업계 표준 절차라고 주장했지만, 전문가들은 경쟁사에 알리지 않은 채 비밀리에 진행된 대규모 테스트는 일반적인 안전성 검증의 범위를 벗어난다고 지적하고 있다.\n출처 : AI타임스(\nhttps://www.aitimes.com\n)",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-06T15:36:25+00:00"
+    },
+    {
+      "id": "tg:EMchina/31360",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31360",
+      "text": "[한투증권 중국/신흥국 정정영]   • 7월: ‘K자형 회복’에 균형을 맞출 시도   >>7월 월보를 작성했습니다. 불편한 K자형 경제/주식 흐름이 지속되고 있습니다. 글로벌 AI 투자 사이클과 함께 첨단 제조업 및 대외 수요 중심의 회복세가 나타나고는 있으나 내수를 설명하는 투자와 소비는 상대적으로 부진합니다. 본토 증시 하드웨어 테크 주식이 강세를 보인 반면, 가계 상황을 더 가깝게 반영하고 있는 홍콩 증시는 반등 탄력이 미미합니다. 1분기 대비 둔화될…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-06T15:22:12+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23322",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23322",
+      "text": "TREASURY HAS AN INTERNAL REPORT WARNING ABOUT THE DANGERS OF AN AI BUBBLE  A draft U.S. Treasury report warns the AI boom could resemble the dot-com bubble, according to NOTUS.  The report says AI companies are deeply embedded in the economy, raising the risk…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-06T15:17:06+00:00"
+    },
+    {
+      "id": "x:ylecun:2074149078691090595",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2074149078691090595",
+      "text": "RT by @ylecun: From a few hundred thousand to 100M AI builders in 2028? AI will create tons of jobs if we make it distributed instead of monopolized by a few companies!",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2074147677462241280/img/w0Mg6O4oDN4t5YuT.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 2028년에는 AI 빌더가 수십만 명에서 1억 명으로 늘어날까요? AI를 소수 기업이 독점하지 않고 분산화하면 수많은 일자리가 창출될 것입니다!",
+      "published_at": "2026-07-06T15:10:50+00:00"
+    },
+    {
+      "id": "x:ylecun:2074145281466142790",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2074145281466142790",
+      "text": "RT by @ylecun: Since President Trump's re-election, the vast majority of job growth has been in health care and education. Despite promises to re-shore industry through tariffs, over 100,000 manufacturing jobs have been lost.",
+      "images": [
+        "https://pbs.twimg.com/media/HMjYGsuXIAAq1xN.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 트럼프 대통령의 재선 이후 일자리 증가의 대부분은 의료 및 교육 분야에서 이루어졌습니다. 관세를 통해 산업을 다시 상륙시키겠다는 약속에도 불구하고 10만 개가 넘는 제조업 일자리가 사라졌습니다.",
+      "published_at": "2026-07-06T14:55:45+00:00"
+    },
+    {
+      "id": "x:ylecun:2074143203591073926",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2074143203591073926",
+      "text": "Tired of winning",
+      "images": [
+        "https://pbs.twimg.com/media/HMjP5cVXoAArYFs.jpg"
+      ],
+      "summary_ko": "승리하는 것에 지쳤습니다.",
+      "published_at": "2026-07-06T14:47:30+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23321",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23321",
+      "text": "Citi) 잠정 단독 매출: 1분기 단독 출하액은 가이던스를 5% 상회했으나, 대체로 예상에 부합\n씨티의 견해\n디스코는 7월 6일 오늘 장 마감 후 1분기(4~6월) 단독 매출 잠정치를 발표했습니다. 단독 수치를 바탕으로 볼 때, 저희는 연결 출하액과 연결 매출이 모두 4월 22일 발표된 가이던스를 거의 10% 상회한 것으로 추정합니다. 연결 출하액은 VA 컨센서스를 5% 상회한 반면, 연결 매출은 컨센서스에 부합한 것으로 보입니다. 공시 이후 진행된 컨퍼런스콜에서 회사는 현재 생산 지원의 상황과 전망에 대한 질문을 받았으나, 현시점에서는 코멘트를 거부했습니다. 저희는 일부 시장 참가자들이 1분기부터 출하액이 더 강하게 확대될 것으로 기대했던 만큼, 1분기 단독 수치가 다소 실망스럽게 받아들여졌을 가능성이 있다고 봅니다.\n2026년 4~6월 단독 매출 잠정치 ― 단독 출하액은 1,165억 엔으로 전년 동기 대비 25.3% 증가, 전분기 대비 18.7% 증가했으며, 약 1,100억 엔의 가이던스를 5% 상회했습니다. 검수 기준 단독 매출도 950억 엔으로 전년 동기 대비 26.0% 증가, 전분기 대비 9.4% 감소했으며, 864억 엔의 가이던스를 10% 상회했습니다. 환율은 달러당 160엔으로, 가이던스 가정인 달러당 157엔과 비교됩니다. 7월 6일 저녁 컨퍼런스콜에서 회사는 소모품과 기타 제품의 출하가 계획을 소폭 상회한 반면, 장비는 디스코의 내부 계획에 대체로 부합했다고 설명했습니다.\n연결 전망 ― 단독 수치를 바탕으로 저희는 1분기 연결 출하액을 1,400억~1,450억 엔으로 추정합니다. 이는 2026년 3월기 4분기 실제치 1,217억 엔, 1분기 가이던스 1,320억 엔, VA 컨센서스 1,357억 엔과 비교됩니다. 연결 매출은 1,140억~1,180억 엔으로 추정합니다. 이는 4분기 1,331억 엔, 1분기 가이던스 1,061억 엔, VA 1,165억 엔과 비교됩니다. 매출총이익률 70%, 판관비 340억 엔을 가정하면, 연결 영업이익은 450억~500억 엔으로 추정됩니다. 가이던스는 420억 엔, VA는 503억 엔입니다.\n시사점 ― 오늘 오후 후속 콜에서 디스코는 유통 채널과 판매처 변화 등을 이유로, 1분기에는 연결 대비 단독 비율이 하반기의 높은 수준과 비교해 어느 정도 정상화되거나 하락할 수 있음을 반복적으로 시사했습니다. 애플리케이션별 수요에 대해 경영진은 생성 AI 관련 수요가 여전히 강하다고 설명했습니다. 디스코는 당초 계획대로 복수 고객에게 HBM 장비를 출하한 것으로 보입니다. 경영진은 생성 AI 내에서 애플리케이션이 확대되고 있다고 시사했으며, 여기에는 AIDC 관련 전자부품, 전력반도체 등이 포함됩니다. 생성 AI 외 영역에서는 첨단 패키징 및 중국향 OSAT 수요가 강했습니다. 광전 융합과 관련해서는 CPO와 직접적으로 관련된 것은 아니지만, 회사는 광섬유 관련 프로젝트가 증가하고 있다고 설명했습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-06T14:44:28+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23319",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23319",
+      "text": "Citi) 미국 반도체/반도체장비 2Q26 실적 프리뷰 — 추가 EPS 상향 여력 기대 (2026.7.6)\n[전체 관점]\nSOX 지수는 연초 이후 78% 상승해 S&P500(+9%)을 크게 아웃퍼폼했으며, 메모리, 반도체 장비, 컴퓨트, 아날로그, 스마트폰 순으로 상승을 주도했습니다. Citi는 커버리지 전반에서 실적 상향 여력을 보고 있으며, 반도체 최종수요의 약 58%가 강세 내지 개선 중이고 SOX는 19배로 S&P500과 유사한 수준에서 거래되어 5년 평균 프리미엄 17%를 하회한다고 평가했습니다. 최근 그룹 조정은 건전한 되돌림으로 보며, 실적 시즌 진입 관련 최선호주로 AMD, TXN(텍사스 인스트루먼트), AMAT(어플라이드 머티어리얼즈)를 제시했습니다. 마이크론(MU)에는 2H26 DRAM 가격 상승을 근거로 상방 Catalyst Watch(90일)를, 퀄컴(QCOM)에는 스마트폰 판매량 추가 약세 리스크를 근거로 하방 Catalyst Watch(30일)를 부여했습니다.\n[데이터센터]\nMeta Compute 출시에 따른 컴퓨트 공급 과잉 우려는 과잉 반응이라는 판단입니다. AWS EC2 GPU 인스턴스 가격이 최근 20% 인상된 데서 보듯 AI 컴퓨트 수요는 여전히 공급 부족 상태이며, DRAM 부족이 컴퓨트 공급의 최대 제약 요인이라고 봤습니다. Citi는 미국 빅5 하이퍼스케일러 캐펙스가 2025년 +70%에 이어 2026년 +82% 성장하고 2027년에도 +35% 증가할 것으로 모델링했습니다. 빅4(AWS·Meta·구글·마이크로소프트) 합산 캐펙스는 2025년 3,626억 달러에서 2026년 6,610억 달러(+84%)로 급증할 전망입니다. 2028년 데이터센터 반도체 TAM은 1.08조 달러, 2030년은 1.4조 달러로 추정하며 이 중 GPU와 커스텀 ASIC이 8,660억 달러(62%)를 차지할 것으로 봤습니다. ASIC 유닛 점유율은 C26E 37%에서 C30E 53%로, 매출 점유율은 15%에서 25%로 확대(CAGR 119%, 2,140억 달러)되는 반면 머천트 GPU 매출 비중은 85%에서 75%로 하락할 전망입니다. CPU TAM은 2030년 1,370억 달러로 추정하며, 특히 에이전틱 CPU가 CAGR 187%로 성장해 613억 달러(TAM의 45%)에 이를 것으로 봤습니다. 컴퓨트 반도체 순위에서는 메모리 확보력에 최대 가중치를 부여해 메가캡 중 NVDA를 1위(강력한 HBM 파트너십), AVGO를 2위로, 라지캡 중에서는 삼성·마이크론 양사에서 공급받는 AMD를 1위, 온칩 SRAM을 쓰는 CBRS(세레브라스)를 2위로 꼽았고, QCOM은 LPDDR 스택 기반 HBC 발표에도 불구하고 2029년까지 메모리 할당이 제한적이어서 최하위로 평가했습니다.\n[PC]\n2026년 PC 판매량은 급격한 메모리 가격 인상과 공급 부족 여파로 전년 대비 -15%를 전망하며, 특히 소비자용 PC 부진이 두드러질 것으로 봤습니다. 인텔의 클라이언트 CPU 사업은 2Q26에 QoQ +2%로 5년 평균 계절성(-1%)을 상회할 것으로 모델링했고, AI PC는 이미 인텔 클라이언트 CPU 믹스의 60% 이상을 차지합니다. AMD는 2H26 수요 영향에도 점유율 확대와 커머셜 채택 증가로 클라이언트 사업의 YoY 성장을 자신하고 있습니다.\n[스마트폰]\n2026년 스마트폰 판매량은 메모리 원가 상승의 수요 타격으로 YoY -17%를 예상하며 2027년 +12% 회복을 전망했습니다. 퀄컴 QCT 부문은 DRAM 확보난으로 OEM들이 생산 계획을 줄이면서 2Q26에 QoQ 약 -19%로 정상 계절성(-7%)을 크게 하회할 전망입니다. 닛케이아시아(6월 30일)에 따르면 샤오미가 2026년 출하 목표를 약 30% 하향했고 오포·비보도 재차 감축해 비애플 진영 하방 리스크가 있습니다. 반면 애플은 공급망 복원력, 예상보다 강한 아이폰17 사이클, 2026년 고도화된 Siri 및 아이폰18 폴더블 출시 가능성으로 점유율을 확대할 것으로 보며, 아이폰 판매량은 CY26/27 각각 -2%/+10%(2.38억/2.61억 대)로 모델링했습니다.\n[아날로그/산업]\n5월 글로벌 제조업 PMI는 52.6으로 2023년 이후 최고치를 기록했으며 AI 인프라 투자국인 대만·한국·미국의 개선이 두드러졌습니다. 산업 최종시장은 전 지역·전 응용처에서 광범위한 회복세를 보이고 있고 커버리지 기업들은 평균 약 10%의 순차 매출 성장을 가이던스하고 있습니다. 가동률이 최적 수준에 근접하면서 아날로그 IDM과 레거시 파운드리들이 가격을 인상 중이고 리드타임은 6개월까지 늘어났습니다. TXN·NXPI·인피니언 등이 6~7월부터 2차 가격 인상을 발표했고, UMC도 2H26~2027년 가격 인상을 시사했으며 뱅가드는 4월 약 15% 인상을 단행했습니다. 아날로그 9개사의 데이터센터 매출은 2025년 약 68억 달러에서 2026년 약 126억 달러로 YoY 약 86% 성장할 것으로 추정했습니다. 아날로그 평균 매출총이익률은 현재 약 55%로 2022년 고점 60%를 하회하는데, ON과 TXN이 10%p 이상의 가장 큰 마진 확대 여력을 보유했다고 평가했습니다. TXN은 2H26 NVIDIA 전력공급(power delivery) 소켓 램프업에 따른 업사이드도 기대됩니다.\n[자동차]\n글로벌 자동차 생산 전망은 중국·일본/한국·유럽 수요 악화로 기존 -1%에서 -2.6%로 하향됐습니다. 다만 티어1 재고가 수 주 수준에 불과해 반도체 수요는 대체로 안정적이며, EV·하이브리드·SDV 콘텐츠 증가에 힘입어 6월 분기 차량 부문 매출은 평균 한 자릿수 초중반의 순차 성장이 가이던스되고 있습니다.\n[반도체 장비]\n2026/27/28년 WFE를 각각 약 1,450억/2,000억/2,500억 달러 이상으로 모델링하며 2028년에도 25%의 견조한 성장을 전망했습니다. TSMC와 메모리 업체들의 지속적인 증설, 인텔·삼성 파운드리의 진전이 근거입니다. 인텔 파운드리는 구글·애플에서 트랙션을 얻고 있으며, 삼성은 테일러 팹 가속화와 함께 구글 TPU v10 메모리 I/O 다이(2nm) 협력, BYD와의 2nm·4nm 자율주행 칩 논의를 진행 중인 것으로 파악됩니다. AMAT는 유리한 DRAM 믹스와 동종업체 대비 할인된 밸류에이션을 근거로 선호합니다.\n[밸류에이션]\nSOX는 19배로 S&P500과 유사하며 5년 평균 프리미엄 17%를 하회합니다. NVDA와 AVGO는 각각 15배, 19배로 2년 최저 수준이고 AMD와 MRVL은 각각 30배, 40배입니다. 스마트폰 노출주(QCOM·SWKS·QRVO) 멀티플은 수요 둔화로 눌려 있는 반면, GFS는 마진에 기여하는 실리콘 포토닉스 사업 가속(2026년 매출 4억 달러로 2배, 2028년 10억 달러 기대)으로 리레이팅됐습니다.\n[투자의견 및 목표주가]\n최선호주는 AMD(매수, TP 575달러, 에이전틱 AI CPU 수혜 및 2H26 GPU 점유율 확대), TXN(매수, TP 345달러, 마진 확대 및 NVIDIA 전력공급 체인 점유율 확대), AMAT(매수, TP 710달러)입니다. 비선호주는 스마트폰 시장 부진을 이유로 QRVO·SWKS·OLED(모두 중립)입니다. 마이크론은 매수, TP 1,400달러(C27E EPS 10배)로 2Q/3Q/4Q26 DRAM ASP 성장률 전망을 QoQ +44%/+20%/+13%로 상향했으며, 비계약 물량이 매출의 약 60%인 만큼 업사이드가 크고 8월 분기 매출·EPS 추정치는 컨센서스를 상회합니다. 퀄컴은 중립, TP 198달러이며 F26 핸드셋 부문 매출 YoY -14%를 전망하고 6월 분기 매출·EPS는 컨센서스를 소폭 하회할 것으로 모델링했습니다. 커버리지 중 첫 2Q26 실적 발표는 7월 22일 텍사스 인스트루먼트입니다.\n*페이블로 요약함.",
+      "images": [
+        "https://cdn5.telesco.pe/file/ZJlYzGublwoxHUKRnj2mXNdi8URodQ5HcYCj13fBnOFl5SY1uuvkFGn54D9MAXmw5kaTqzKHKrG_q7VuWctlLDuUbaROzozngS0wj9foKIr_CeMdjv9N_tPcxjVNBAIDNywSdxl7_x0OeJEgm-V6ZvJaXzHk1Y7PmgzWZB2zRLQebgtMv8y1S6f9ZMfN2zYlT-Q07u2qDowVB2lDT-OB-0gCvKtZHpwLK-rFlZIjqeCOyKyjf7CaS0qYyFS1xURFwGSd7eCLyozWmgUD9YuQcLunuhQ6wFMZPJ7P6-_ySmJkmQHt76pi08Xt9S22ycxmPQBWRDiK2DqVlQ61SdxxQQ.jpg",
+        "https://cdn5.telesco.pe/file/jXz-xP2re6586ncKuBAPzGp8tTIwJsiSlrP1rKsC5poMebXd_vLIH0H_2DmxLfpb08xOyv7rjmvC8hAkLHhMIt8YME-ICnspaSRkyyFhVW4qOP9enR4lVlFhRqjGr4nDr6kerppx_5Qeh5b9iKym_qolW7MlTuHmpYG89jvm_cZ25DbeUxgWezRo89fdbfGYUQxWllY_S7kL0jnSijNrnkb_wpQmnNSuZS2cSRmQ6ZBPr53pCE0D-OBwnUT__9h1gQ9bREwJbA-lmUs5xS7jYrDjWRwClOXEfpEfGhO-vg69n5nv1Z1Y1h3_-eAJF1C_xncHntbmMQu7adeuVfWnuw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-06T14:34:02+00:00"
+    },
     {
       "id": "tg:EMchina/31359",
       "source": "telegram",
@@ -314,20 +592,6 @@
       "published_at": "2026-07-06T12:02:07+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23309",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23309",
-      "text": "찾았다!",
-      "images": [
-        "https://cdn5.telesco.pe/file/i5wphau-iSDl8n8AWYDCvFvzH3vWjhOWTYGemfIffpkn_cYzjS3luR6IVodvtveDs-0Bql2CiyGXrFyXEm5oijaq4WzIbO1qd08Wgv-K7aIyzxhAoQ2BiQL0wetV1bnRbwCqBNLeRUIMv_LMEraysnODu2Lo1w7TX7YvWDHxukfqR-ux0qmCvdgiEJocmwheWvWjeWP9L0kvsObJ6IiTgyS8x2ondAJ1-6ttgvAE6bFIVeYGNIfepe25c8td_Gayw8xl2no8DtI8mdiwq1uSoKySzHtKtbBQr_YWjQ3Gom6TRhBeITPBmGv6bZzT9VIpm1S-SMVAgY7auQJEaKG8jw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-06T12:00:39+00:00"
-    },
-    {
       "id": "tg:globaletfi/20548",
       "source": "telegram",
       "author": "globaletfi",
@@ -354,18 +618,6 @@
       "published_at": "2026-07-06T11:58:58+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23308",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23308",
-      "text": "대체 리포트가 어디있는거임",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-06T11:58:45+00:00"
-    },
-    {
       "id": "tg:enc210406/4094",
       "source": "telegram",
       "author": "enc210406",
@@ -376,32 +628,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-06T11:58:11+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23307",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23307",
-      "text": "JP모건: 반도체주 하락 시 매수하라  JP모건은 최근 반도체주 조정이 매수 기회라고 밝혔습니다. AI 주도의 반도체 사이클은 여전히 강하며, 2028년 이전에는 의미 있는 신규 공급이 나타날 가능성이 낮다고 주장했습니다.  이 은행은 하이퍼스케일러보다 반도체를 선호하며, 2026년 하반기 글로벌 주식이 신고점에 도달할 것으로 예상하고, 시장 상승세가 AI를 넘어 더 넓게 확산될 것으로 보고 있습니다.  (@WalterBloomberg)",
-      "images": [
-        "https://cdn5.telesco.pe/file/LIxMPszWODp-83jmlt1iqy_j6Dlbp9utYkJ0Zn8ALRt5UbeLm3KHdkT6-krrTyIKHLsz3gyw6Tb4PbKPvSDC_Xc1IjyF_SVSxYbKSD9OnXqWjnDdEIN6h47Fm3VKexgYkX932YvhkkLU0PWe05CuxN8EIYJu8L3Z90av9ZBf5OaOIKo0uHYHByVBPj2vbduOoL3SEgLaeqSOLnnAow6wh5052QydSfpn96o9MjVa2waJVqaI8LHJBk6UowKAQRl1dCAQAhbrM-f1SbvYxlXq2przuZkWgTzIC5fuLJwD_-mJMj4ZxHK2fL7YL_S4cOmP8cTPDzauY3xhKGHV97hlEQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-06T11:56:07+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23306",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23306",
-      "text": "JPMORGAN: BUY THE CHIP STOCK DIP  JPMorgan says the recent pullback in semiconductor stocks is a buying opportunity, arguing the AI-driven chip cycle remains strong and meaningful new supply is unlikely before 2028.  The bank favors semiconductors over hyperscalers…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-06T11:55:44+00:00"
     },
     {
       "id": "tg:EMchina/31357",
@@ -720,18 +946,6 @@
       "published_at": "2026-07-06T03:15:51+00:00"
     },
     {
-      "id": "tg:EMchina/31348",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31348",
-      "text": "데이터센터를 끄거나 에어컨/냉장고를 끄거나  ========================  ~ AI 에이전트의 답변 시간은 최대 153.7배 늘어났으며, 외부 도구가 작업을 수행하는 동안 GPU는 전체 실행 시간의 최대 54.5%를 아무 계산도 하지 못한 채 대기하는 것으로 분석됐다.  https://n.news.naver.com/article/001/0016176488?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-06T03:08:49+00:00"
-    },
-    {
       "id": "x:ylecun:2073953877800419652",
       "source": "x",
       "author": "ylecun",
@@ -768,6 +982,20 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-05T23:55:23+00:00"
+    },
+    {
+      "id": "x:ylecun:2073906144565706793",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2073906144565706793",
+      "text": "RT by @ylecun: Surprising (not really) stat from the new UBS Global Wealth Report 2026. The US ranks #2 when you look at average (mean) wealth per adult, but drops to #28 when you look at the median. https://www.ubs.com/content/dam/assets/wm/static/gwr/global-wealth-report-en-2026.pdf",
+      "images": [
+        "https://pbs.twimg.com/media/HMf-pXuWoAAC4Fk.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 새로운 UBS 글로벌 부 보고서 2026의 놀라운 통계입니다. 미국은 성인 1인당 평균 부를 보면 2위지만 중앙값을 보면 28위로 떨어집니다. https://www.ubs.com/content/dam/assets/wm/static/gwr/global-wealth-report-en-2026.pdf",
+      "published_at": "2026-07-05T23:05:30+00:00"
     },
     {
       "id": "x:ylecun:2073906081827618847",
@@ -949,58 +1177,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-04T23:13:13+00:00"
-    },
-    {
-      "id": "x:ylecun:2073527459312460276",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2073527459312460276",
-      "text": "RT by @ylecun: Fifty years later the semiquincentennial is tainted by fears that the country is no longer a democracy. But the Supreme Court has slapped down many of the President's pet projects, and an electoral reckoning is coming this fall. Is the decline of US democracy hyperbole or reality? Quantitative Democracy indexes can calibrate our assessment: https://ourworldindata.org/democracy",
-      "images": [
-        "https://pbs.twimg.com/card_img/2073481144922714112/Tg_bA0xE?format=png&name=800x419"
-      ],
-      "summary_ko": "RT by @yleun: 50년이 지난 500주년은 이 나라가 더 이상 민주주의가 아니라는 두려움으로 얼룩졌습니다. 그러나 대법원은 대통령이 좋아하는 프로젝트 중 다수를 기각시켰고, 이번 가을에 선거 결과가 나올 예정이다. 미국 민주주의의 쇠퇴는 과장인가, 아니면 현실인가? 양적 민주주의 지수는 우리의 평가를 보정할 수 있습니다: https://ourworldindata.org/democracy",
-      "published_at": "2026-07-04T22:00:45+00:00"
-    },
-    {
-      "id": "x:ylecun:2073524211822272571",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2073524211822272571",
-      "text": "RT by @ylecun: While Trump walked away with a $636 million profit from his crypto venture, nearly 1 million people who bought into it lost a total of $3.81 billion through the end of June. They were probably mostly his MAGA supporters, but to Trump they were suckers. https://trib.al/tQSlpdJ",
-      "images": [
-        "https://pbs.twimg.com/card_img/2073510162837757952/17DasIKa?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@yleun의 RT: 트럼프가 자신의 암호화폐 벤처에서 6억 3,600만 달러의 수익을 안고 떠나는 동안, 이를 매입한 거의 100만 명이 6월 말까지 총 38억 1,000만 달러의 손실을 입었습니다. 그들은 아마도 대부분 그의 MAGA 지지자들이었을 것입니다. 그러나 트럼프에게는 그들은 바보였습니다. https://trib.al/tQSlpdJ",
-      "published_at": "2026-07-04T21:47:50+00:00"
-    },
-    {
-      "id": "x:ylecun:2073427970656452822",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2073427970656452822",
-      "text": "RT by @ylecun: If there were any lingering doubts that you and your friends were against the very principles of democracy, you just removed them.",
-      "images": [],
-      "summary_ko": "RT by @yleun: 당신과 당신의 친구들이 민주주의 원칙에 위배된다는 의심이 계속 남아 있다면, 당신은 그것을 제거했습니다.",
-      "published_at": "2026-07-04T15:25:25+00:00"
-    },
-    {
-      "id": "x:ylecun:2073425439188484351",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2073425439188484351",
-      "text": "RT by @ylecun: Yet we still don't have level-5 self-driving cars, and certainly not self-serving cars that can learn to drive in a few hours of practice like any teenager. We don't even have domestic robots that can do what 10-year olds can do the first time we ask them. We don't even have robots that are nearly as smart as a house cat. The G in AGI is nonsense.",
-      "images": [],
-      "summary_ko": "RT by @yleun: 하지만 우리는 아직 레벨 5 자율주행차를 갖고 있지 않으며, 여느 십대들처럼 몇 시간의 연습만으로 운전을 배울 수 있는 자율주행차도 확실히 없습니다. 10살짜리 아이들이 처음 요청했을 때 할 수 있는 일을 할 수 있는 가정용 로봇도 없습니다. 집고양이만큼 똑똑한 로봇도 없습니다. AGI의 G는 말도 안됩니다.",
-      "published_at": "2026-07-04T15:15:21+00:00"
     },
     {
       "id": "tg:enc210406/4086",
@@ -1200,20 +1376,6 @@
       "published_at": "2026-07-02T07:49:11+00:00"
     },
     {
-      "id": "x:AnthropicAI:2072402636813607381",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2072402636813607381",
-      "text": "RT by @AnthropicAI: Fable 5 is back.",
-      "images": [
-        "https://pbs.twimg.com/media/HMKoSbnXEAERYLR.jpg"
-      ],
-      "summary_ko": "@AnthropicAI의 RT: Fable 5가 돌아왔습니다.",
-      "published_at": "2026-07-01T19:31:06+00:00"
-    },
-    {
       "id": "x:GoogleAI:2072318809277390940",
       "source": "x",
       "author": "GoogleAI",
@@ -1228,32 +1390,6 @@
       "published_at": "2026-07-01T13:58:00+00:00"
     },
     {
-      "id": "x:AnthropicAI:2072163884430229756",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2072163884430229756",
-      "text": "Claude Fable 5 will be available again globally tomorrow. After a series of productive conversations with the US government, we're redeploying the model with a new set of classifiers to target and block more cybersecurity tasks. In the near term, some routine tasks like coding and debugging will fall back to Opus 4.8. We’ll continue to refine these classifiers over the coming weeks to reduce false positives and better distinguish genuine misuse from legitimate requests. We’ve also begun drafting a consensus framework—with Amazon, Microsoft, Google, and other Glasswing partners—for assessing the severity of AI jailbreaks and how AI developers should respond to them. We invite other industry partners and model providers to join us in this effort. Finally, we’re scaling up our collaboration with the US government on model testing and safeguards. This will include pre-release access to models and safeguards for evaluation, information sharing on jailbreaks and misuse, and dedicated resources for joint research. Thank you to our users for your patience, and to our partners across the government, industry, and the research community who worked alongside us to make Fable 5 available again. Read our full blog: https://www.anthropic.com/news/redeploying-fable-5",
-      "images": [
-        "https://pbs.twimg.com/card_img/2071282107532693504/tkPmQzmy?format=jpg&name=800x419"
-      ],
-      "summary_ko": "Claude Fable 5는 내일 전 세계적으로 다시 출시될 예정입니다. 미국 정부와 일련의 생산적인 대화를 나눈 후, 우리는 더 많은 사이버 보안 작업을 표적으로 삼고 차단하기 위해 새로운 분류 기준 세트를 사용하여 모델을 재배포하고 있습니다. 가까운 시일 내에 코딩 및 디버깅과 같은 일부 일상적인 작업은 Opus 4.8로 대체됩니다. 우리는 오탐을 줄이고 실제 오용과 적법한 요청을 더 잘 구별하기 위해 앞으로 몇 주 동안 이러한 분류자를 계속해서 개선할 것입니다. 또한 우리는 AI 탈옥의 심각성과 AI 개발자가 이에 대응해야 하는 방법을 평가하기 위해 Amazon, Microsoft, Google 및 기타 Glasswing 파트너와 함께 합의 프레임워크 초안을 작성하기 시작했습니다. 우리는 이러한 노력에 동참할 다른 업계 파트너와 모델 제공업체를 초대합니다. 마지막으로 우리는 협력을 확대하고 있습니다.",
-      "published_at": "2026-07-01T03:42:23+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2072106151890809341",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2072106151890809341",
-      "text": "We’ve received notice that the Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5. We'll begin restoring access tomorrow, and will share an update soon. We’re grateful to our users for their patience, and to everyone who worked with us on redeploying the models.",
-      "images": [],
-      "summary_ko": "우리는 상무부가 Claude Fable 5 및 Mythos 5에 대한 수출 통제를 해제했다는 통지를 받았습니다. 내일 액세스 복원을 시작할 예정이며 곧 업데이트를 공유할 것입니다. 인내심을 갖고 기다려 주신 사용자 여러분과 모델을 재배포하는 데 함께 협력해주신 모든 분들께 감사드립니다.",
-      "published_at": "2026-06-30T23:52:59+00:00"
-    },
-    {
       "id": "rss:semianalysis:tokenbudgeting-our-conversations",
       "source": "rss",
       "author": "semianalysis",
@@ -1266,20 +1402,6 @@
       ],
       "summary_ko": "TokenBudgeting: 토큰 지출에 관한 기업과의 대화\n\n널리 퍼진 TokenMaxxing이 실제로 존재했습니까?",
       "published_at": "2026-06-30T18:32:39+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2072017450611142835",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2072017450611142835",
-      "text": "RT by @AnthropicAI: Introducing Claude Sonnet 5, our most agentic Sonnet yet. It makes plans, uses tools like browsers and terminals, and runs autonomously at a level that just a few months ago required larger and more expensive models.",
-      "images": [
-        "https://pbs.twimg.com/media/HMFJYt8XEAAYMDz.jpg"
-      ],
-      "summary_ko": "@AnthropicAI의 RT: 지금까지 가장 강력한 Sonnet인 Claude Sonnet 5를 소개합니다. 계획을 세우고 브라우저 및 터미널과 같은 도구를 사용하며 불과 몇 달 전만 해도 더 크고 값비싼 모델이 필요했던 수준에서 자율적으로 실행됩니다.",
-      "published_at": "2026-06-30T18:00:31+00:00"
     },
     {
       "id": "x:OpenAI:2072004836674167294",
@@ -1412,7 +1534,7 @@
       "author_name": "Google DeepMind(딥마인드)",
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2071988044878516466",
-      "text": "Pinned: We’re shipping 2 major releases: 🔘 Nano Banana 2 Lite: our fastest and cheapest Gemini Image model 🔘 Gemini Omni Flash: now available via the Gemini API and in @GoogleAIStudio to help developers generate and edit high-quality videos.",
+      "text": "We’re shipping 2 major releases: 🔘 Nano Banana 2 Lite: our fastest and cheapest Gemini Image model 🔘 Gemini Omni Flash: now available via the Gemini API and in @GoogleAIStudio to help developers generate and edit high-quality videos.",
       "images": [
         "https://pbs.twimg.com/amplify_video_thumb/2071986416179896321/img/-6UxxlHXr3t6QJuf.jpg"
       ],
@@ -1446,18 +1568,6 @@
       ],
       "summary_ko": "@GoogleDeepMind의 RT: AI 회사에서 일하는 윤리학자이자 철학자가 된다는 것은 무엇을 의미하나요? 우리는 어떤 질문을 탐구하며 긍정적인 변화에 영향을 미칠 수 있습니까? 이러한 주제에 대해 자세히 알아보려면 오늘 @guardian에서 Bobby Baird가 오랫동안 읽은 새로운 글을 확인하세요...",
       "published_at": "2026-06-30T08:38:30+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2070665903440871779",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2070665903440871779",
-      "text": "Since June 12, we’ve been working closely with the US government to restore access to Claude Mythos 5 and Fable 5. Today, the government notified us that Mythos 5, our strongest cybersecurity model, can be redeployed to a set of US organizations that operate and defend critical infrastructure. We’re restoring access for these organizations quickly, and we’re continuing to work with the government to expand access to Mythos 5 and make Fable 5 available for general use again.",
-      "images": [],
-      "summary_ko": "6월 12일부터 우리는 Claude Mythos 5 및 Fable 5에 대한 액세스를 복원하기 위해 미국 정부와 긴밀히 협력해 왔습니다. 오늘 정부는 우리의 가장 강력한 사이버 보안 모델인 Mythos 5를 중요한 인프라를 운영하고 방어하는 일련의 미국 조직에 재배포할 수 있다고 통보했습니다. 우리는 이러한 조직의 액세스를 신속하게 복원하고 있으며, Mythos 5에 대한 액세스를 확대하고 Fable 5를 다시 일반 용도로 사용할 수 있도록 정부와 계속 협력하고 있습니다.",
-      "published_at": "2026-06-27T00:29:57+00:00"
     },
     {
       "id": "x:sama:2070614769678393846",
@@ -1594,7 +1704,7 @@
       "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2070555272230384038",
-      "text": "Pinned: Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work. https://openai.com/index/previewing-gpt-5-6-sol/",
+      "text": "Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work. https://openai.com/index/previewing-gpt-5-6-sol/",
       "images": [
         "https://pbs.twimg.com/card_img/2073096906520276992/iBEYbYjc?format=jpg&name=800x419"
       ],
@@ -1626,90 +1736,6 @@
       ],
       "summary_ko": "@sama의 RT: OpenAI 재단은 AI 탄력성 프로그램을 통해 Intercept의 창립 파트너로 합류했습니다. AI가 생물학과 의학 분야의 발전을 가속화함에 따라 우리는 공학적 발병 가능성을 포함하여 오용의 위험에도 대비해야 합니다. Intercept Health Fund는 병원균에 구애받지 않는 접근 방식을 통해 호흡기 전염병을 종식시키기 위해 노력하고 있으며 광범위한 위협으로부터 보호하고 인류의 새로운 탄력성을 강화할 수 있는 광범위한 예방 조치 및 비약물적 개입에 투자하고 있습니다. https://blog.interceptfund.com/p/ending-respiratory-infections",
       "published_at": "2026-06-26T15:43:11+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2070528971687755796",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2070528971687755796",
-      "text": "R to @AnthropicAI: AI's impact on the economy will ultimately show up in aggregate data like employment and productivity. But it will first be visible where AI is doing the most work. By tracking how usage shifts, hour by hour, surface by surface, we can start to see those changes as they happen. Read the full report: https://www.anthropic.com/research/economic-index-june-2026-report",
-      "images": [
-        "https://pbs.twimg.com/card_img/2069418652164644864/r1FBYBaE?format=jpg&name=800x419"
-      ],
-      "summary_ko": "R에서 @AnthropicAI로: AI가 경제에 미치는 영향은 궁극적으로 고용 및 생산성과 같은 집계 데이터에 나타날 것입니다. 그러나 AI가 가장 많은 작업을 수행하는 부분이 먼저 드러날 것입니다. 시간별, 표면별로 사용량이 어떻게 변화하는지 추적함으로써 이러한 변화가 발생하는 즉시 확인할 수 있습니다. 전체 보고서 읽기: https://www.anthropic.com/research/economic-index-june-2026-report",
-      "published_at": "2026-06-26T15:25:50+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2070528969523499460",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2070528969523499460",
-      "text": "R to @AnthropicAI: Nearly half of respondents expect their work responsibilities to significantly change in the next 12 months. Fewer than 10% think they'll lose their own job within a year, but far more worry for coworkers: over 1/3 put the odds of a junior colleague losing their job above 60%.",
-      "images": [
-        "https://pbs.twimg.com/media/HLv9C0ObsAAhoB2.png"
-      ],
-      "summary_ko": "R에서 @AnthropicAI로: 응답자의 거의 절반이 향후 12개월 내에 업무 책임이 크게 바뀔 것으로 예상합니다. 10% 미만은 1년 내에 직장을 잃을 것이라고 생각하지만 동료에 대한 걱정은 훨씬 더 큽니다. 1/3 이상이면 후배가 직장을 잃을 확률이 60% 이상입니다.",
-      "published_at": "2026-06-26T15:25:49+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2070528967501849073",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2070528967501849073",
-      "text": "R to @AnthropicAI: This Econ Index is also the first to survey Claude users. Over 1/3 expect AI to be able to do most or nearly all of their work tasks within a year. But those who delegate the most work to AI are also the most optimistic about what it means for their pay and job security.",
-      "images": [
-        "https://pbs.twimg.com/media/HLv86ucbgAAKmbo.png"
-      ],
-      "summary_ko": "R에서 @AnthropicAI로: 이 Econ Index는 Claude 사용자를 대상으로 한 최초의 설문조사이기도 합니다. 1/3 이상은 AI가 1년 이내에 대부분 또는 거의 모든 작업을 수행할 수 있을 것으로 기대합니다. 그러나 AI에 가장 많은 작업을 위임하는 사람들은 AI가 자신의 급여와 직업 안정에 어떤 의미를 갖는지에 대해 가장 낙관적이기도 합니다.",
-      "published_at": "2026-06-26T15:25:49+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2070528964989456753",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2070528964989456753",
-      "text": "R to @AnthropicAI: The Econ Index now tracks artifacts—the primary output Claude produces in a session. We looked across Claude conversations and compared how often each artifact was used for work, coursework, or personal life. Blogging is mostly a work activity; translation falls in between.",
-      "images": [
-        "https://pbs.twimg.com/media/HLv8hk8aMAAqOCy.png"
-      ],
-      "summary_ko": "R에서 @AnthropicAI로: Econ Index는 이제 Claude가 세션에서 생성하는 기본 출력인 아티팩트를 추적합니다. 우리는 Claude의 대화를 살펴보고 각 아티팩트가 업무, 교과 과정 또는 개인 생활에 얼마나 자주 사용되는지 비교했습니다. 블로깅은 대부분 업무 활동입니다. 번역은 그 사이에 있습니다.",
-      "published_at": "2026-06-26T15:25:48+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2070528961235575278",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2070528961235575278",
-      "text": "To keep pace with AI progress, we're advancing how we study Claude's economic impact. Hourly sampling and survey data show us how the cadences of life shape usage, what people produce with Claude, and how perceptions of AI's impact may be changing. https://www.anthropic.com/research/economic-index-june-2026-report",
-      "images": [
-        "https://pbs.twimg.com/card_img/2069418652164644864/r1FBYBaE?format=jpg&name=800x419"
-      ],
-      "summary_ko": "AI 발전에 보조를 맞추기 위해 우리는 Claude의 경제적 영향을 연구하는 방법을 발전시키고 있습니다. 시간별 샘플링 및 설문 조사 데이터는 삶의 흐름에 따라 사용 방식이 어떻게 변하고, 사람들이 Claude를 통해 무엇을 생산하는지, AI 영향에 대한 인식이 어떻게 변할 수 있는지를 보여줍니다. https://www.anthropic.com/research/economic-index-june-2026-report",
-      "published_at": "2026-06-26T15:25:47+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2070528962602901624",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2070528962602901624",
-      "text": "R to @AnthropicAI: Hour by hour, Claude usage is woven into how people live and work. Prompts for news rise in the morning, while recipe requests peak in the evening. People most often seek sleep advice at 5am. Gardening, meanwhile, is stable from dawn until dusk—a perennial topic of interest.",
-      "images": [
-        "https://pbs.twimg.com/media/HLv8JezaEAAiKc-.png"
-      ],
-      "summary_ko": "R에서 @AnthropicAI로: 시간별로 Claude의 사용 방식은 사람들이 생활하고 일하는 방식에 영향을 미칩니다. 뉴스에 대한 메시지는 아침에 뜨고 레시피 요청은 저녁에 최고조에 이릅니다. 사람들은 오전 5시에 가장 자주 수면 조언을 구합니다. 한편 정원 가꾸기는 새벽부터 황혼까지 안정적으로 진행되며, 이는 지속적인 관심 주제입니다.",
-      "published_at": "2026-06-26T15:25:47+00:00"
     },
     {
       "id": "x:GoogleDeepMind:2070300619257106819",
@@ -1781,20 +1807,6 @@
       ],
       "summary_ko": "@GoogleDeepMind의 RT: 모델이 개선됨에 따라 AI 생성 오디오를 식별하려면 인간의 귀보다 더 많은 것이 필요합니다. 우리는 @GoogleDeepMind와 제휴하여 들리지 않는 디지털 워터마크인 SynthID를 ElevenLabs에서 생성된 오디오에 직접 삽입하고 있습니다. 이러한 워터마크는 새로운 무료 ElevenLabs 오디오 감지기를 사용하여 감지할 수 있습니다.",
       "published_at": "2026-06-25T17:01:43+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2070183531612172697",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2070183531612172697",
-      "text": "We're joining @raiseus_ai as a founding partner. RAISE US is a nonprofit coalition working to strengthen the American workforce through employer-led action, AI-enabled training, and policy innovation to support the transition to transformative AI.",
-      "images": [
-        "https://pbs.twimg.com/card_img/2070071124684165121/spFZnuCc?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@raiseus_ai를 창립 파트너로 합류하게 되었습니다. RAISE US는 혁신적인 AI로의 전환을 지원하기 위해 고용주 주도의 조치, AI 지원 교육 및 정책 혁신을 통해 미국 인력을 강화하기 위해 노력하는 비영리 연합입니다.",
-      "published_at": "2026-06-25T16:33:10+00:00"
     },
     {
       "id": "x:GoogleDeepMind:2070180509523546481",
@@ -1877,20 +1889,6 @@
       ],
       "summary_ko": "R에서 @GoogleDeepMind로: 시청 → https://goo.gle/4w7S3LM Spotify → https://goo.gle/4eFgIA9 Apple Podcasts → https://goo.gle/3Sn4ZyM 또는 어디서든 Podcast를 들으실 수 있습니다! 🎧",
       "published_at": "2026-06-24T14:10:49+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2069785314663497966",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2069785314663497966",
-      "text": "What happens when millions of AI agents start negotiating, transacting, and delegating to one another? @weballergy joined our podcast with @fryrsquared to explore the rise of agentic economies – and how we can diversify agent decision-making to avoid AI groupthink. Timecodes: 00:00 Intro 1:07 Defining AI agents 4:44 Agentic exploration in science and research 15:46 Delegation between agents 22:46 Agentic security and traps 29:31 Building an agentic economy 33:22 Cognitive monoculture 36:29 Distributed intelligence",
-      "images": [
-        "https://pbs.twimg.com/media/HLla9GpWkAAdhHM.jpg"
-      ],
-      "summary_ko": "수백만 명의 AI 에이전트가 서로 협상하고, 거래하고, 위임하기 시작하면 어떻게 될까요? @weballergy는 @fryrsquared와 함께 팟캐스트에 참여하여 행위자 경제의 부상과 AI 집단 사고를 피하기 위해 행위자 의사결정을 다양화할 수 있는 방법을 탐구했습니다. 타임코드: 00:00 소개 1:07 AI 에이전트 정의 4:44 과학 및 연구에서의 에이전트 탐색 15:46 에이전트 간 위임 22:46 에이전트 보안 및 함정 29:31 에이전트 경제 구축 33:22 인지 단일문화 36:29 분산 지능",
-      "published_at": "2026-06-24T14:10:48+00:00"
     },
     {
       "id": "x:OpenAI:2069770175709335653",
