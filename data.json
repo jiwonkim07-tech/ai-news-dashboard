@@ -1,21 +1,148 @@
 {
-  "updated_at": "2026-07-07T07:38:41+00:00",
+  "updated_at": "2026-07-07T10:56:32+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 20
+    "new_this_run": 15
   },
   "briefing": {
-    "headline": "삼성전자 2분기 영업익 100조원",
+    "headline": "사우디, 8월 원유 가격 11달러 인하",
     "bullets": [
-      "에이데이터 등 메모리 모듈 업체 6월 매출 호조",
-      "삼성전자, 충당금 빼면 2분기 영업익 100조↑",
-      "JP모건) TSMC 2Q26 프리뷰: AI 수요 증가에 부합하는 강화된 매출총이익률",
-      "반도체 주식 열기 식나? MS-아마존 등 AI 하이퍼스케일러로 자금 이동"
+      "애플, 폴더블 아이폰 1000만대 생산계획",
+      "중국 금보유량 7496만온스, 19개월 연속 매입",
+      "삼성전자 2분기 영업이익 89조원",
+      "콴타, 6월 매출 3,851억 대만달러로 사상 최고치",
+      "DRAM+NAND 계약 가격 3분기 지속 상승"
     ],
-    "generated_at": "2026-07-07T07:38:41+00:00",
+    "generated_at": "2026-07-07T10:56:32+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/23337",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23337",
+      "text": "일본 이케부쿠로에서 똥테러 사건 발생중...",
+      "images": [
+        "https://cdn5.telesco.pe/file/QumQjlHHFSKPhJaSKNFs0QkRW_IPol__q8yH642Bnn_Ce_C37QyREug2e6BidI3zEa_Nm7ZryFa1SiSbo_N0x_8VAYzaTBvIDuLeMJyberKTibXz6ruhjhDbiLCa6fbcBhBWD7X9x0fRDxRRAOxZL8m2i3vD5a95aJ4P_EQu-SYPLZfLzubbQEdm6HpzTaQlPJVd1uRe9eeFxegf2qAnoUO9zsNqmWI_9wanFWngGKMxKHbmMsozOTJlegYAyeiwMRA05d3xBKxhPmcu1CHHwNbLOxZb6waNfMcfCIBSqxP0rxvl_bLaxl-vUwZZBTd83mT6RLZpc2gv2EhxSVuZFQ.jpg",
+        "https://cdn5.telesco.pe/file/m6Hz-PwcGVrnZtVtmzE4iiPPxFbl1mX93dd_Sf_3OqsNDMr_IDzHWs-Aj99bEfPUjrgRA1I1w91XKz84F4--EEJ2uS22bXNYlYu5EOFWvCPI8zz_9VuhClLKkTVla1i7Dc-bBUbQpiTRKa2W1XJEPIivmuHy_FJJwOJim05crN40J4f6w_0euyKzM9mtp2dj1HWGKQqfVGIKJdqX88Lcj4c82KkOBho9oTnl6Nw61ONqvRYJtS3pmXHMk9Z9_6fO9NMC6MwsMh_VamQGoBLeHm3kbtgHLeRi7uuuzWg7EQYScayWtD3KAMlbVPE_Q7iHmm3s2sh29jgsRAp7D6KxLg.jpg",
+        "https://cdn5.telesco.pe/file/ROjCHmfBZXuuU_p3FMaxqL8fuxG3JQ_8H46k4qGoifNawRb9knCckzLsVyCr4fG2meyA1_5rGHF2ElWZoUU0To0FWiEn3qraWFM1EY2XlhakGYz5MaF8dTesdj53TynuL4HtuemqFFC-eadxG1iYBkpiq5hc5kBFwJb0wJwnAryoRJpBbAtTEX4r0d0aomf9nOunBj6Ao6VEzuvq-zO7MkZPs1KH2Bp37kcJMkywfarQcEXPjkQlROPY1uO-2pCuwXyCvcMa2To9DIbBSnYn4nBVFnRDMhML-6HryDruFN0wRedfYhNZPVllsRAK2VSgFI7fCj2Zp7BtDI2VlQlmyg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-07T09:06:46+00:00"
+    },
+    {
+      "id": "tg:EMchina/31383",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31383",
+      "text": "UBS: 하이닉스 미국 ADR 사고 본주 매도\n===========================\n블룸버그통신은 UBS의 고객 노트에 “발행 첫날부터 ADR을 매수하고 한국 본주를 매도하는 것은 고민할 필요도 없는(no-brainer) 확실한 거래처럼 보인다”라고 적혀 있다고 보도했다\n~ 블룸버그통신은 미국에 상장된 ADR이 본국에 상장된 주식과 완전히 상호 교환되지 않을 경우 프리미엄이 붙어 거래되는 경우가 많다고 보도했다\n~ 블룸버그가 집계한 자료에 따르면, 대만의 TSMC가 발행한 ADR은 대만 증시에서 거래되는 본주보다 이번 달 평균 16% 높은 프리미엄에 거래됐다\nhttps://n.news.naver.com/article/366/0001177398?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-07T08:40:32+00:00"
+    },
+    {
+      "id": "tg:EMchina/31382",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31382",
+      "text": "사우디, 8월 OSP 인하(-11달러)  • 최소 2000년 이후 최대 인하폭   沙特阿美将8月阿拉伯轻质原油对亚洲的官方售价下调11美元/桶，为至少2000年以来的最大降幅。  https://n.news.naver.com/article/001/0016179082?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-07T08:17:23+00:00"
+    },
+    {
+      "id": "tg:EMchina/31381",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31381",
+      "text": "* 2026년 5월 중국 금보유량 7496만온스. 전월대비 +32만온스. 19개월 연속 매입  • 외환보유고 34422억달러. 전월대비 +317억달러 증가  据央行数据，中国5月末黄金储备报7496万盎司（约2331.52吨），环比增加32万盎司（约9.95吨），4月末为7464万盎司（约2321.56吨），为连续第19个月增持黄金。国家外汇管理局统计数据显示，截至2026年5月末，我国外汇储备规模为34422亿美元，较4月末上升317亿美元，升幅为0.93%。  https://n.n…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-07T08:12:56+00:00"
+    },
+    {
+      "id": "tg:EMchina/31380",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31380",
+      "text": "* 글로벌 광산 대기업의 공통된 전략적 선택은 ‘구리’  • BofA: BHP, 리오틴토, 글렌코어 등 대부분 주요 광산 회사들의 전략적 중점은 구리. 자본지출 크게 증가하며 과거 최고치의 50% 이상으로 회복. 구리가격 톤당 15000달러 돌파 예상. 업계는 3년간의 하락 사이클 마치고 이익 증가 국면 진입. 역사적인 투자 기회  全球矿业巨头的“一致战略选择”：铜！  美银表示，从BHP、力拓到嘉能可，几乎所有主要矿业公司都将铜作为战略重点，资本支出正在大幅攀升，…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-07T08:09:52+00:00"
+    },
+    {
+      "id": "tg:enc210406/4100",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4100",
+      "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 7월 7일 종가 기준",
+      "images": [
+        "https://cdn5.telesco.pe/file/HizA_qyAjavYN-rMgdx4N4jTyR7pk5eayB3DIgVrFLZZmnRIoSEVZAr-h9Qb8O_q6mKeRhtS9t-5QkJAtmiD-rJU_CnBeGcalQGuZFv5NUakYxeR6JEbnMuJX8InaZQ8MonnsOQpsoCkT_KC1x0q9850300da-m3_0gak-WtcY1wvViGpKx-c6oKEWe5H0DwRP7pWdMGoi6AdFwVWOSXcn05IDOXrwatowgLUMPbkvdZEx7DDz_zUjsE7-bfIbishoiqUXw1M_CqidVy82Ka71D56j78_BRCZwLYx8AbyWeMT2cUhXzm3E65nfEuF8wOdRT-bQgA7D80mPvMMGcBRw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-07T08:09:44+00:00"
+    },
+    {
+      "id": "tg:EMchina/31379",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31379",
+      "text": "애플, 공급사에 올해 폴더블 아이폰 1000만대 생산계획 통지  苹果告知供应商计划今年生产1000万部折叠屏iPhone。  https://n.news.naver.com/article/092/0002429068?sid=105",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-07T08:04:24+00:00"
+    },
+    {
+      "id": "tg:bornlupin/18932",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/18932",
+      "text": "콴타, 6월 매출 3,851억 대만달러로 사상 최고치 경신 (전년비 102% 증가)\n1. 경이적인 매출 실적 (사상 최고치 경신)\n6월 단일 매출:\n3,851억 9,000만 대만달러 (전월 대비 23.7% 증가, 전년 동기 대비\n102.9% 증가\n)\n상반기 누적 매출:\n1조 8,500억 대만달러 (전년 동기 대비 86.5% 증가)\n2분기 실적:\n분기 기준 사상 처음으로 매출 1조 대만달러를 돌파하며 시장(법인)의 기대치를 크게 상회했습니다.\n2. 주요 성장 요인 및 수익성 개선\n서버 사업의 호조:\n제품 포트폴리오의 변화와 함께 AI 서버 및 일반 서버의 출하 비중이 지속적으로 증가한 것이 2분기 실적을 견인했습니다.\n영업이익률 개선 기대:\n1분기에는 AI 서버 제품 관련 일회성 비용 인식으로 인해 영업비용률이 급등했으나, 2분기에는 이러한 영향이 사라집니다. 이에 따라 2분기 영업비용률이 2% 미만으로 통제되면서 영업이익률이 크게 개선될 것으로 전망됩니다.\n3. 하반기 및 2026년 연간 전망\n하반기 호재:\nVR 신제품 시리즈가 계획대로 출하될 예정입니다.\nASIC(주문형 반도체) 서버 출하량이 배수 단위로 크게 성장할 것으로 보입니다.\n비엔비디아(non-NVIDIA) GPU 관련 프로젝트 역시 높은 두 자릿수 성장이 예상되어, 회사 전체의 수익 구조 개선에 긍정적인 영향을 미칠 것입니다.\n2026년 연간 전망: 2026년 한 해 동안 AI 서버 매출은 세 자릿수(100% 이상)의 고성장을 유지할 것으로 전망\n됩니다.\nhttps://money.udn.com/money/story/5710/9612546?from=ednappsharing",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-07T07:53:36+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23336",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23336",
+      "text": "단일종목 레버리지 ETF 결국 손본다…구윤철 “변동성 우려 잘 알아”\nhttps://n.news.naver.com/mnews/article/011/0004639043?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-07T07:47:16+00:00"
+    },
+    {
+      "id": "tg:bornlupin/18931",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/18931",
+      "text": "전망 (천리바이 회장 발언): 제조사들로부터 3분기 DRAM 계약 가격이 20~30%, NAND 플래시는 35~40% 인상될 것이라는 통보를 받았습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-07T07:43:32+00:00"
+    },
     {
       "id": "tg:bornlupin/18930",
       "source": "telegram",
@@ -284,30 +411,6 @@
       "published_at": "2026-07-07T03:03:10+00:00"
     },
     {
-      "id": "tg:EMchina/31371",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31371",
-      "text": "중국 탄산리튬 현물가격 164500위안/톤. 전일대비 -250위안 하락\n上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报164500元/吨，较上日16:30价格下跌250元/吨。\nhttps://wallstreetcn.com/livenews/3129700?ivk=1#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-07T02:42:13+00:00"
-    },
-    {
-      "id": "tg:EMchina/31370",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31370",
-      "text": "[한투증권 중국/신흥국 정정영]   • 7월: ‘K자형 회복’에 균형을 맞출 시도   >>7월 월보를 작성했습니다. 불편한 K자형 경제/주식 흐름이 지속되고 있습니다. 글로벌 AI 투자 사이클과 함께 첨단 제조업 및 대외 수요 중심의 회복세가 나타나고는 있으나 내수를 설명하는 투자와 소비는 상대적으로 부진합니다. 본토 증시 하드웨어 테크 주식이 강세를 보인 반면, 가계 상황을 더 가깝게 반영하고 있는 홍콩 증시는 반등 탄력이 미미합니다. 1분기 대비 둔화될…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-07T02:16:45+00:00"
-    },
-    {
       "id": "tg:bornlupin/18923",
       "source": "telegram",
       "author": "bornlupin",
@@ -334,18 +437,6 @@
       "published_at": "2026-07-07T01:49:34+00:00"
     },
     {
-      "id": "tg:EMchina/31369",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31369",
-      "text": "둘이 싸움  https://finance.yahoo.com/technology/ai/articles/jpmorgan-says-buy-ai-chip-233000652.html",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-07T01:24:01+00:00"
-    },
-    {
       "id": "tg:bornlupin/18922",
       "source": "telegram",
       "author": "bornlupin",
@@ -358,28 +449,18 @@
       "published_at": "2026-07-07T01:21:31+00:00"
     },
     {
-      "id": "tg:EMchina/31368",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31368",
-      "text": "반도체 주식 열기 식나? MS-아마존 등 AI 하이퍼스케일러로 자금 이동(모건스탠리)  • 반도체 섹터 동력 약화. 필라델피아반도체지수 고점대비 14% 하락  • 마이크로소프트, 아마존, 메타 등 AI 하이퍼스케일러 빅테크와 소비, 바이오 등 섹터로 자금 이동  • S&P500 연말 목표가 8000pt  유지. 여전히 7%의 상승여력 존재하나 단기적으로 압박  芯片狂欢降温？大摩Wilson：资金正转向微软、亚马逊等AI超算巨头 大摩首席股票策略师Wilson指出…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-07T01:08:09+00:00"
-    },
-    {
-      "id": "tg:EMchina/31367",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31367",
-      "text": "일본 20년물 국채 금리 3.785%. 1996년 이후 최고  日本20年期国债收益率上行3.5个基点至3.785%，创1996年以来最高水平。   https://wallstreetcn.com/livenews/3129148?ivk=1#from=ios",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-07T01:04:09+00:00"
+      "id": "x:ylecun:2074298570228760891",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2074298570228760891",
+      "text": "RT by @ylecun: @__JohnNguyen__ and I are presenting the Beyond Language Modeling paper as an ICML spotlight in 30 minutes at the 10:30 AM poster session! I’ll also be at the AMI Mixer on Thursday and hanging around in Seoul until early next week :)",
+      "images": [
+        "https://pbs.twimg.com/card_img/2071828459626876928/ykkWy-OR?format=jpg&name=420x420_2"
+      ],
+      "summary_ko": "RT by @yecun: @__JohnNguyen__과 저는 오전 10시 30분 포스터 세션에서 30분 동안 ICML 스포트라이트로 Beyond Language Modeling 논문을 발표할 예정입니다! 저도 목요일에 AMI Mixer에 참석하고 다음주 초까지 서울에서 놀 예정입니다 :)",
+      "published_at": "2026-07-07T01:04:52+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/23328",
@@ -489,20 +570,6 @@
       "published_at": "2026-07-06T23:39:28+00:00"
     },
     {
-      "id": "tg:bornlupin/18918",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/18918",
-      "text": "SemiAnalysis\nSKHY(SK 하이닉스)가 하늘로 치솟을까요(Sky-rocket)\n🚀\n? 이름 자체가 말 그대로 스포일러인 걸까요? 7월 10일 나스닥 상장을 향한 카운트다운이 지금 시작됩니다!\"",
-      "images": [
-        "https://cdn5.telesco.pe/file/p_2fixMfs1D_V0apo3R4tObYAU8yJCo2Ls6x6C2-Tnbch6G7Jt1fZMn-hgF1QThIl5UjC6j4KqiLR5zoyStR3SvPalvW3fJwOrozOH1ZSVGlTMKLK3CVnnySSH3BF4HF0p2JF-FxfT46WleAyPyLG_8g4d9fUZI9pf892w6L6JsKpyWCoNqToE-UJr44uJsNuKPZ8JeIS8JBlvlTTF8aSZyEKT1ywlXxvUgndRL2H-h7cJwkFdj7K674KM1L5yJyFE0bCjON8PO7eOkPH4e2KMgkVeV5uMvQ4J322gwExRlB-qwF7ZVTvV_2h6BsAHyP3wsUjPZXqPXRewTeWFOEsQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-06T23:31:56+00:00"
-    },
-    {
       "id": "tg:enc210406/4098",
       "source": "telegram",
       "author": "enc210406",
@@ -513,20 +580,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-06T23:16:27+00:00"
-    },
-    {
-      "id": "tg:bornlupin/18917",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/18917",
-      "text": "주요 테크기업 영업이익 비교- 삼성전자 1위\nhttps://www.mk.co.kr/news/business/12091926",
-      "images": [
-        "https://cdn5.telesco.pe/file/vhbsYRP6Mqp9EC0gPlydmmBOhXcR6wwRthm7K8GNArSNztpyHbVTx5gxx5jEx5HT2AanHBuw-m5-IJH7AGdJaXsse9OVZX_V6cmDunNesfq8BtSVKE9l6MFlR2WuZGB-2zR0mvrYjcosK284K5ZaAAyIfpFlPcMDw8ZOTiwJXPIajpxzbFraI9qQK7jKSeZMpdO0WFH_YxgW_MLNSSY-lQx7X3lVo1LXXNChg-hhi5BrvoQG_BRwQ5LuwvaQ76_ReOR8_J4ulrFyWu7kITIcfai2J-y3nEQeC3PkVMfRaj_79fARUYAVUFSQ_WEq2BTxYVi62bJI3XI-Zc4S0f6pSg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-06T23:08:28+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/23325",
@@ -621,18 +674,6 @@
       "published_at": "2026-07-06T22:43:56+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23324",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23324",
-      "text": "2026.07.07 07:39:44\n기업명: 삼성전자(시가총액: 1,859조 1,166억) A005930\n보고서명: 연결재무제표기준영업(잠정)실적(공정공시)\n매출액 : 1,710,000억(예상치 : 1,729,950억/ -1%)\n영업익 : 894,000억(예상치 : 846,241억/ +6%)\n순이익 : -(예상치 : 731,258억)\n**최근 실적 추이**\n2026.2Q 1,710,000억/ 894,000억/ -\n2026.1Q 1,338,734억/ 572,328억/ 472,253억\n2025.4Q 938,374억/ 200,737억/ 196,417억\n2025.3Q 860,617억/ 121,661억/ 122,257억\n2025.2Q 745,663억/ 46,761억/ 51,164억\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260707800004\n회사정보:\nhttps://finance.naver.com/item/main.nhn?code=005930",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-06T22:40:39+00:00"
-    },
-    {
       "id": "tg:HI_GS/6652",
       "source": "telegram",
       "author": "HI_GS",
@@ -669,6 +710,20 @@
       ],
       "summary_ko": "Nvidia GPU 부채 백스톱으로 AI 프로젝트 삼위일체: 자본, 오프테이크 및 데이터 센터 출시\n\n2029년까지 AI 부채가 7T가 넘습니다. 삼위일체 없이 네오클라우드는 있을 수 없습니다. Nvidia의 백스톱 경제학이 설명되었습니다. AI 부채는 정량화되어야 ​​합니다. Nvidia의 목표는 컴퓨팅 액세스 확대, AI 금융 개발, 네오클라우드 성장입니다.",
       "published_at": "2026-07-06T21:53:44+00:00"
+    },
+    {
+      "id": "x:ylecun:2074235752662159744",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2074235752662159744",
+      "text": "RT by @ylecun: McGovern neuroscientists have discovered that you don't need language to think logically. People with severe language impairments solve complex reasoning puzzles perfectly and brain scans show language areas remain silent during logical reasoning. https://mcgovern.mit.edu/2026/07/06/separating-logic-and-language/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2074235629638930432/_YdUDBPN?format=png&name=800x419"
+      ],
+      "summary_ko": "RT by @yleun: McGovern 신경과학자들은 논리적으로 생각하는 데 언어가 필요하지 않다는 사실을 발견했습니다. 심각한 언어 장애가 있는 사람들은 복잡한 추론 퍼즐을 완벽하게 해결하며 뇌 스캔을 통해 논리적 추론 중에 언어 영역이 침묵을 유지하는 것으로 나타났습니다. https://mcgovern.mit.edu/2026/07/06/separating-logic-and-언어/",
+      "published_at": "2026-07-06T20:55:15+00:00"
     },
     {
       "id": "x:ylecun:2074234747702661224",
@@ -889,7 +944,7 @@
       "author_name": "Google DeepMind(딥마인드)",
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2074157282477154597",
-      "text": "As @Apptronik expands their Robot Park facility, our research partnership means real-world data collected by the latest Apollo 2 humanoid platform will help train and advance Gemini Robotics. 🤖 Find out more → https://goo.gle/4vOPwpO",
+      "text": "Pinned: As @Apptronik expands their Robot Park facility, our research partnership means real-world data collected by the latest Apollo 2 humanoid platform will help train and advance Gemini Robotics. 🤖 Find out more → https://goo.gle/4vOPwpO",
       "images": [],
       "summary_ko": "@Apptronik이 Robot Park 시설을 확장함에 따라 우리의 연구 파트너십은 최신 Apollo 2 휴머노이드 플랫폼에서 수집한 실제 데이터가 Gemini Robotics를 교육하고 발전시키는 데 도움이 될 것임을 의미합니다. 🤖 자세히 알아보기 → https://goo.gle/4vOPwpO",
       "published_at": "2026-07-06T15:43:26+00:00"
@@ -905,18 +960,6 @@
       "images": [],
       "summary_ko": "@demishassabis의 RT: @Apptronik이 Robot Park 시설을 확장함에 따라 우리의 연구 파트너십은 최신 Apollo 2 휴머노이드 플랫폼에서 수집한 실제 데이터가 Gemini Robotics를 교육하고 발전시키는 데 도움이 될 것임을 의미합니다. 🤖 자세히 알아보기 → https://goo.gle/4vOPwpO",
       "published_at": "2026-07-06T15:43:26+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23323",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23323",
-      "text": "메타가 수백명의 외부 계약직 인력을 동원해 경쟁사의 AI 챗봇을 대상으로 미성년자로 위장한 계정을 사용해 수만 건의 극단적인 프롬프트를 입력하는 비공개 프로젝트를 운영한 사실이 드러났다. 이를 AI 안전성 평가를 위한 업계 표준 절차라고 주장했지만, 전문가들은 경쟁사에 알리지 않은 채 비밀리에 진행된 대규모 테스트는 일반적인 안전성 검증의 범위를 벗어난다고 지적하고 있다.\n출처 : AI타임스(\nhttps://www.aitimes.com\n)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-06T15:36:25+00:00"
     },
     {
       "id": "x:ylecun:2074149078691090595",
@@ -1200,20 +1243,6 @@
       "published_at": "2026-07-05T23:05:30+00:00"
     },
     {
-      "id": "x:ylecun:2073906081827618847",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2073906081827618847",
-      "text": "RT by @ylecun: President Trump relaxes gun laws, allowing some people with mental illness who had been barred from possessing firearms to have them. https://www.nytimes.com/2026/07/05/us/politics/trump-gun-rights-laws.html?smid=nytcore-ios-share",
-      "images": [
-        "https://pbs.twimg.com/card_img/2073833596851482625/IOwQ1Nzi?format=jpg&name=800x419"
-      ],
-      "summary_ko": "RT by @yleun: 트럼프 대통령은 총기법을 완화하여 총기 소지가 금지되었던 일부 정신 질환자에게 총기를 소지할 수 있도록 허용했습니다. https://www.nytimes.com/2026/07/05/us/politics/trump-gun-rights-laws.html?smid=nytcore-ios-share",
-      "published_at": "2026-07-05T23:05:15+00:00"
-    },
-    {
       "id": "tg:enc210406/4090",
       "source": "telegram",
       "author": "enc210406",
@@ -1224,21 +1253,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-05T22:59:48+00:00"
-    },
-    {
-      "id": "x:ylecun:2073897636571283896",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2073897636571283896",
-      "text": "RT by @ylecun: Groq Founder @JonathanRoss321 explains why all the West Coast VCs missed on investing in Groq: “Typical West Coast VCs are more like lemmings. Ttypical East Coast VCs all think that they're smarter than each other.” “So when you try and raise from the West Coast, if one VC puts money in, all the others want to put money in.” “In New York, one VC investing means nothing. They're going to run their own analysis. They do not care what other VCs are doing.” “The flip of that is, if you're on the West Coast and one VC passes, they're going to go tell every other VC, and like lemmings, they're all going to pass as well.” “All the VCs on the West Coast didn't want to invest in us. We had very few of the typical VCs invest in us at the end. We had a bunch of crossover funds from the East Coast investing.”",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2073897275898970113/img/mbreOaLvT28Xz3pk.jpg",
-        "https://pbs.twimg.com/amplify_video_thumb/2073631490261610496/img/ccIuBqX3JYGnBgVw.jpg"
-      ],
-      "summary_ko": "@ylecu의 RT: Groq 설립자 @JonathanRoss321은 모든 West Coast VC가 Groq에 대한 투자를 놓친 이유를 다음과 같이 설명합니다. \"전형적인 West Coast VC는 레밍에 더 가깝습니다. 전형적인 East Coast VC는 모두 자신이 서로보다 똑똑하다고 생각합니다.\" \"그래서 서부 해안에서 자금을 조달하려고 할 때 한 VC가 돈을 투자하면 다른 모든 VC가 돈을 투자하고 싶어합니다.\" \"뉴욕에서는 한 VC가 투자하는 것은 아무 의미가 없습니다. 그들은 자체 분석을 실행할 것입니다. 그들은 다른 VC가 무엇을 하는지 신경 쓰지 않습니다.\" \"반대로 말하면 서부 해안에 있고 한 VC가 패스하면 그들은 다른 모든 VC에게 가서 레밍처럼 모두 통과할 것입니다.\" \"서해안의 모든 VC는 우리에게 투자하기를 원하지 않았습니다. 우리는 전형적인 VC 중 최종적으로 우리에게 투자하는 사람이 거의 없었습니다. 우리는 크로스오버 펀드를 많이 갖고 있었습니다.",
-      "published_at": "2026-07-05T22:31:42+00:00"
     },
     {
       "id": "tg:enc210406/4089",
@@ -1273,7 +1287,7 @@
       "url": "https://t.me/HI_GS/6645",
       "text": "🛳\n가스선 강세 계속. HHIP의 탱커 4척 수주, 삼성중공업의 FDC\n☞\nhttp://bit.ly/DOS829\n⚓️\n주시 뉴스\n💲\n선가, 실적, 캐파\n▲ 신조선가지수 2주 연속 소수점 상승해 185.44p. VLGC 상승 견인\n△ HD현대중공업 군산조선소, J Ocean HI에 매각 완료. 벌써 아프라막스 수주설\n🌏\n그린쉽\n▷ 대체 연료 추진선 발주 감소\n🌪\nLNG\n▲ HD현대중공업, TEN으로부터 LNG선 1척 수주\n▲ HD한국조선해양, BW LNG로부터 LNG-FSRU 1척 수주\n△ TotalEnergies의 모잠비크 LNG선 인도 시점 또 연기\n▲ Shell 글로벌 LNG 수요 2050년 700MTPA로 +65% 증가 전망 제시\n▲ QatarEnergy NFW 해상 EPC 입찰 개시\n▲ ANDOC의 호르무즈 우회하는 East Coast LNG. 6개 업체 제안서 제출\n△ ADNOC, 탈 중동으로 Rio Grande LNG 지분 인수\n🔥\n가스선\n▲ HD현대삼호, HMM으로부터 VLGC 2척 수주\n🚢\n컨테이너\n▲ AP Moller-Maersk 가이던스 상향\n🛳\n탱커\n▲ 팬오션 VLCC 2척 추가 발주. 한화오션 수주 시장 추정\n▲ 삼성중공업, Advantage Tankers로부터 수에즈막스 2척 수주\n▽ 호르무즈 해협 개통 앞두고, VLCC 스팟 운임 하락\n🌉\n해양/디펜스/바람\n▲ 삼성중공업, 2Q28에 FDC 인도 계획 발표\n▲ ENI+Adnoc과 아르헨티나 YPF는 FLNG 사업 추진을 위해, Vaca Muerta 가스전 내 지분 인수\n△ Karpowership은 HSG성동조선에 부유식 발전선 시리즈 발주\n------------------------------------------------------\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n✅\n컴플라이언스 승인을 득한 보고서입니다.\n------------------------------------------------------",
       "images": [
-        "https://cdn5.telesco.pe/file/tR6hRKSzvQDKXBPbkFBg5T3VDcb7CXs7YEfgFGEvjecFRWTqikcK2g7MGTuKCW3wtjThPc-JFLz3rJgwaOQXAc1WNVN0uhffdhm-MqMi29xVOfkoQxcCpEmYKE0mFcXUcZ2MfjZ5grThfb7msYJ0BqRvqtLGznvwzpgR3KgngsOescga2cU2BYRKnCAw8Xkyu-Tz4sW99db2Tw5i4mDkzXoPqeHZNMQEN6UJUP-qthL3v-5RM6hiavvfYofMK2L-QHBwbKhH-Ta0f6Xu6HuMHegnYhNmMzb_x6Fcv5syQxTP8SbtNEA4MeBjJ0HFGAnqQDj_GYmEwl0hmDryYauzoA.jpg"
+        "https://cdn5.telesco.pe/file/ZpJVxXTQo7E0NJu1DdEr4j22Hoe-nr8mMIGyIpLByOianigbdSQ9l5dCoWvsi91CeuB3Zkpa-jjh_ntXlWKQHBqyP14WGCSNeSPQASy31_X0BxTDsln46C4hMicuwkHzMFaf1T-eF42DndhnRrVbN5tLSqrHYYZhCJCjEGeu0M-IJOcGlmnZBDxTUjoSWAYWNXTxMY7_gm5Xd_0WsDthxmAKasiz6ULMUaa1Y3mtsUzcSvRwKRTRZRIHFIbOGUk6yVLpjUjUbHMILKm7xg4IRk-Ke8Gn4oq6IduVxwmhxXVgC9p2x10FlSEDwCrQ_AQjiGAhzK0zlKx-w7lu3FjUjQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-05T10:13:42+00:00"
@@ -1325,18 +1339,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-04T23:13:13+00:00"
-    },
-    {
-      "id": "tg:enc210406/4086",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4086",
-      "text": "2026년 7월 3일 기준\n클락슨 신조선가 지수는\n185.44pt로\n전주 대비 0.29pt(0.16%)\n‘상승‘했습니다.\n[최근 4주 간 지수]\n185.15pt (26년 6월 26일)\n184.88pt (26년 6월 19일)\n184.98pt (26년 6월 12일)\n185.01pt (26년 6월 5일)\n[주목할 선종과 선형]\n> 탱커(유조선): 보합\n@ VLCC(315-320K DWT)\n- 26년 6월 26일: 130.50백만달러\n- 26년 7월 3일: 130.50백만달러\n@ Suezmax(156-158K DWT)\n- 26년 6월 26일: 89.50백만달러\n- 26년 7월 3일: 89.50백만달러\n@ Aframax(113-115K DWT)\n- 26년 6월 26일: 75.00백만달러\n- 26년 7월 3일: 75.00백만달러\n> 탱커(원유제품선-P/C): 보합\n@ LR1(73-75K DWT)\n- 26년 6월 26일: 61.50백만달러\n- 26년 7월 3일: 61.50백만달러\n@ MR(47-51K DWT)\n- 26년 6월 26일: 51.50백만달러\n- 26년 7월 3일: 51.50백만달러\n> LNG 운반선: 보합\n@ Conventional(174K cbm)\n- 26년 6월 26일: 248.50백만달러\n- 26년 7월 3일: 248.50백만달러",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-04T00:31:19+00:00"
     },
     {
       "id": "x:karpathy:2073047118801993910",
@@ -2324,9 +2326,7 @@
       "author_url": "https://x.com/GoogleAI",
       "url": "https://x.com/GoogleAI/status/2061544208289132791",
       "text": "R to @GoogleAI: Read more about all the fun ways we used AI to bring I/O to life this year: https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2072420919004536832/eX8LnGAL?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "R에서 @GoogleAI로: 올해 AI를 사용하여 I/O에 생명을 불어넣은 모든 재미있는 방법에 대해 자세히 알아보세요. https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
       "published_at": "2026-06-01T20:23:35+00:00"
     },
