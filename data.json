@@ -1,21 +1,70 @@
 {
-  "updated_at": "2026-07-07T21:24:45+00:00",
+  "updated_at": "2026-07-07T23:01:41+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 16
+    "new_this_run": 4
   },
   "briefing": {
     "headline": "아마존, 250억 달러 자금 조달 추진",
     "bullets": [
       "유가 6%대 급등",
-      "SpaceX, AI 모델 공개 예정",
+      "SpaceX AI 모델 공개 예정",
       "헤지펀드 평균 수익률 +7.2%",
-      "삼성전자, 2Q26 실적 예상 상회"
+      "DRAM 계약 가격 20~30% 인상될 것",
+      "삼성전자 2Q26 실적 예상 상회"
     ],
-    "generated_at": "2026-07-07T21:24:45+00:00",
+    "generated_at": "2026-07-07T23:01:41+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:globaletfi/20564",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20564",
+      "text": "[Bowman, 저위험 AI 활용에는 더 가벼운 은행 규제 접근 필요 강조]\n* 발언 개요\n- 연준 금융감독 담당 부의장 Michelle Bowman은 은행권의 AI 활용에 대해 위험 수준에 비례한 감독 접근이 필요하다고 밝힘.\n- Bowman은 저위험 AI 활용 사례에는 “더 가벼운 감독 및 규제 접근”이 적용돼야 한다고 말함.\n- 해당 발언은 AI 도입을 무조건 억제하기보다, 책임 있는 활용과 혁신을 함께 가능하게 하려는 취지로 제시됨.\n* 저위험 AI 활용\n- Bowman은 모든 AI 사용을 같은 위험으로 취급해서는 안 된다는 입장을 제시함.\n- 고객 서비스, 내부 업무 효율화, 문서 처리, 운영 자동화 등 상대적으로 위험이 낮은 활용에는 과도한 규제를 적용하지 않는 방향을 강조한 것으로 전해짐.\n- 이는 은행들이 낮은 위험의 AI 사용부터 단계적으로 도입할 수 있도록 감독 부담을 낮추자는 의미로 설명됨.\n* 고위험 AI 활용\n- Bowman은 AI 활용에도 거버넌스, 내부통제, 리스크 관리가 필요하다고 강조함.\n- 대출 심사, 신용평가, 제재·자금세탁 모니터링, 사이버보안 등 고위험 영역에서는 기존 감독 기준에 맞춘 관리가 필요하다는 입장으로 해석됨.\n- 미국 은행 감독당국은 최근 은행의 AI 활용과 관련해 데이터 거버넌스, 제3자 리스크, 시스템 통제, 비상대응 계획 등을 점검하고 있다고 보도됨.\n* 규제 방향\n- Bowman의 접근은 AI 전용 신규 규제를 서둘러 도입하기보다, 기존 리스크 관리 및 소비자보호 원칙을 활용해 AI 사용을 감독하는 방향에 가까움.\n- 감독당국은 현재 AI 관련 별도 규칙을 새로 부과하기보다는, 은행 검사 과정에서 AI 사용 현황과 통제 체계를 확인하는 방식으로 대응하고 있다고 전해짐.\n- Bowman은 금융기관의 AI 혁신을 막지 않으면서도, 위험이 큰 사용 사례에는 적절한 통제가 필요하다는 균형적 접근을 강조한 것으로 정리.\n* 유럽 규제와의 차이\n- Reuters는 ECB가 유로존 은행들에 AI 기반 사이버 위협 대응 계획을 2026년 10월 31일까지 제출하도록 요구했다고 전함.\n- ECB는 인터넷 노출 시스템 보호, 취약점 보완, 노후 기술 현대화, 위기관리와 정보공유 강화를 요구하는 등 더 직접적인 감독 접근을 취하고 있음.\n- 반면 Bowman의 발언은 저위험 AI 사용에 대해 더 협력적이고 혁신 친화적인 미국식 접근을 보여주는 사례로 제시\n링크:\nhttps://www.americanbanker.com/news/bowman-low-risk-ai-usage-should-get-lighter-regulatory-touch",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-07T22:50:45+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20563",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20563",
+      "text": "[하나 글로벌 기업분석 데일리 뉴스]\n7/8 하나증권 김재임/송종원\n마이크로소프트, AI 비용 절감 추세에 동참하며 자체 모델 활용 확대\n-마이크로소프트는 AI 관련 지출을 줄이기 위해 오픈AI 등 외부 모델 대신 자체 개발한 AI 모델을 더 많이 사용하기로 결정했으며 이는 최근 실리콘밸리 기업들의 AI 비용 절감 흐름과 일치하는 움직임\n-Azure 클라우드 서비스와 엔터프라이즈 솔루션에 통합될 자체 대규모 언어 모델 개발에 집중하고 있으며 외부 라이선스 비용을 크게 줄일 수 있을 것으로 기대함\n-AI 경쟁에서 기술 주도권을 확보하려는 전략적 선택이자 증가하는 AI 인프라 비용에 대한 대응으로 분석됨\nhttps://buly.kr/7bJHP5U\n아마존, AI 투자 확대 위해 최소 250억$ 규모 채권 발행\n-아마존이 AI 인프라 및 기술 개발 자금 조달을 위해 최소 250억달러 규모의 채권을 발행할 계획이며 이를 통해 2026년 추가 부채 발행 없이 필요 자금을 확보할 수 있게 됨\n-자금은 AWS 데이터센터 확장, AI 서비스 확대, 반도체 자체 개발 프로젝트에 집중 투입될 예정\n-다만 올해 초 발행 당시와 달리 시장 반응은 차가운 편으로, AI 관련 채권이 쏟아지며 시장이 포화 상태에 이른 것으로 분석되고 수익률은 미국 국채 대비 1.15% 프리미엄으로 지난 1월 대비 0.25%포인트 높아 투자자 관심이 줄었음을 보여줌\n-아마존 채권 인수에 앞선 자금 마련을 위해 마이크로소프트와 구글의 기존 채권이 주요 매각 대상으로 떠오르면서 기술 채권 시장이 혼조를 보이고 있음\nhttps://buly.kr/G3FeUDE\nSpaceX 주식, 월가 애널리스트들로부터 강력한 매수 추천 받아\n-SpaceX가 최근 진행한 역대 최대 규모 IPO 이후 주요 투자은행 애널리스트들이 해당 주식에 대해 강력한 매수 추천을 내놓았음\n-Morgan Stanley와 Goldman Sachs를 포함한 주요 은행들은 목표가를 135달러에서 최대 210달러까지 상향 조정하며 스타링크 사업의 성장 가능성을 높이 평가함\n-SpaceX는 스타링크 위성 인터넷 서비스와 스타십 프로젝트를 동시에 추진 중이며 2027년까지 연간 수익을 300억달러로 끌어올릴 계획임\nhttps://buly.kr/CB6yuie\n메타, Superintelligence Labs 개발 첫 AI 이미지 생성 모델 'Muse Image' 출시\n-메타의 Superintelligence Labs 부서가 개발한 첫 번째 상용 모델로, 텍스트 프롬프트 기반으로 다양한 스타일의 이미지를 생성하며 기존 기술보다 향상된 정확도와 창의성을 목표로 함\n-메타 AI 앱, 인스타그램, 왓츠앱 전반의 이미지 생성 도구에 적용되며 다른 인스타그램 사용자를 AI 사진에 포함시키는 독창적 기능 탑재\n-광고 플랫폼과 통합돼 크리에이터와 광고주 유치 및 콘텐츠 제작 간소화에 초점을 맞췄으며 오픈AI의 DALL-E와 MidJourney에 대항하는 AI 포트폴리오 확장 전략의 일환임\nhttps://buly.kr/8enpHuA\n오픈소스 AI 성장에도 앤스로픽 영향력 유지되는 이유\n-오픈소스 AI 모델의 성공이 앤스로픽 같은 선도 연구실의 성장을 저해하지 않는 것으로 나타남\n-두 유형의 모델이 각각 AI 생명주기의 서로 다른 단계(초기 개발/상용화)를 포착하며 공존하는 시장 구조 형성 중\nhttps://buly.kr/DlLnjZW\n앤스로픽, 클로드 Cowork 플랫폼을 모바일과 웹으로 확대 출시\n-앤스로픽은 기업 협업용 AI 플랫폼 클로드 Cowork를 모바일 앱과 웹 버전으로 처음 공개했으며 먼저 Max 구독자에게 제공 후 일반 사용자로 점진적으로 확대할 계획\n-문서 작성, 코드 생성, 프레젠테이션 제작 등 팀 협업용 AI 도구를 제공하며 데스크톱에서 시작한 작업을 휴대폰으로 확인하는 등 노트북이 꺼진 상태에서도 작업 흐름이 끊기지 않도록 설계됨\n-보안 강화된 기업용 AI 솔루션에 중점을 뒀으며 챗GPT Enterprise와의 경쟁을 목표로 연간 계약 기업 고객을 주요 타깃으로 삼고 있음\nhttps://buly.kr/YgyAPY\nRobinhood, 유럽에서 영구 선물 거래 서비스 출시\n-Robinhood가 유럽 시장에서 상품, ETF, 통화에 연계된 영구 선물 거래 서비스를 시작했으며 이는 암호화폐 외 자산으로 영구 선물 영역을 확장한 첫 사례임\n-유럽의 비교적 유연한 규제 환경을 활용해 미국 본사보다 더 공격적인 상품 라인업을 구성했으며 현지 암호화폐 거래소들과의 경쟁 심화가 예상됨\n-글로벌 확장 전략의 일환으로 2025년 이후 유럽 시장 점유율을 15%까지 끌어올리는 것이 목표로 알려짐\nhttps://buly.kr/A47t8Wf\nMichael Saylor 전략 회사, 2억 1600만$ 상당 비트코인 매도\n-Lyn Alden 수석 전략가에 따르면 Michael Saylor가 이끄는 Strategy가 2억 1600만달러 규모의 비트코인을 매도했으며 이는 회사 구조 조정의 일환으로 알려짐\n-이번 매각은 비트코인 가격이 5만 달러 선에서 오르내리는 가운데 이루어졌으며 단기 조정 가능성을 염두에 둔 수익 실현으로 해석됨\n-개별 기관의 포트폴리오 재조정 차원이지만 대형 보유자들의 추가 매도로 이어질 경우 시장에 파장을 줄 수 있다는 경고가 나옴\nhttps://buly.kr/4mf9hyz\nCircle, Open USD 출시 후 주가 급락 압박 받아\n-Circle의 주가가 Open USD 출시 소식 이후 급락했으며 이는 주요 결제·금융 기업들이 참여한 컨소시엄의 경쟁 제품 등장으로 시장 점유율 분산 우려가 반영된 결과임\n-Open USD는 기존 USDC보다 더 개방적인 구조와 낮은 수수료를 강점으로 내세우며 단기간 내 상당량의 시장 유동성을 흡수할 전망\n-분석가들은 Circle이 사용처 확대와 규제 준수 측면의 차별화 전략을 서둘러 마련해야 한다고 조언했으나 당분간 시장 불확실성은 지속될 전망\nhttps://buly.kr/5JPQeQi\nTeraWulf CEO, 앤스로픽과 20년 데이터센터 계약 체결에 자신감 표명\n-TeraWulf의 Paul Prager CEO는 앤스로픽과 체결한 20년 장기 임대 계약이 회사의 AI 인프라 전략에 대한 강력한 신뢰 표명이라고 강조함\n-Prager는 자사 데이터센터의 에너지 효율성과 AI 업계 성장 가능성에 대한 기대감도 밝힘\nhttps://buly.kr/1n6H25X\nFigma, 바이브 코딩 앱 개발팀 인수\n-Figma가 Y Combinator 지원을 받은 vibe-coding 앱 개발팀을 인수했으며 구체적 인수 금액은 공개되지 않았음\n-인수된 팀은 개발자들이 특정 분위기나 감정에 맞춰 코딩할 수 있는 플랫폼을 구축했으며 최근 AI 에이전트 생성 제품으로 사업 영역을 확장한 바 있음\n-이번 인수로 Figma는 개발자 생태계 진출을 가속화하고 AI 기반 협업 도메인에서의 경쟁력 강화를 꾀하는 것으로 분석됨\nhttps://buly.kr/9BY6EMx\n솔스티스 CEO, 145억$ 인수 합병 방어하며 주가 15% 급락에 대응\n-솔스티스 CEO 데이비드 슈월은 엘리먼트 솔루션스 인수가 첨단 소재 분야의 '세계적 리더'를 만들 것이라며 145억달러 규모의 거래를 적극 옹호함\n-인수 발표 후 솔스티스 주가는 시장의 회의적 반응으로 15% 급락했으며 CEO는 장기 성장 잠재력을 강조하며 투자자들에게 인수 타당성을 설명함\n-엘리먼트 솔루션스는 반도체 및 전자제품용 특수 화학물질 공급업체로 솔스티스의 기존 사업 포트폴리오와 시너지 효과를 낼 것으로 기대됨\nhttps://buly.kr/EI64g5T\n엔비디아와 협력 관계인 중국 라이다 기업 Hesai, 미국에서 사이버 위협으로 지목돼\n-중국 군사 연계 기업으로 지정된 Hesai Technology가 엔비디아와의 기술 협력 관계로 인해 미국 내 사이버 보안 위협으로 다시 주목받고 있음\n-Hesai는 자동차용 라이다 센서 분야에서 세계적 시장 점유율을 보유하고 있으나 2024년 미국 국방부로부터 국가 안보 위협 기업으로 블랙리스트에 등재된 바 있음\n-이번 논란으로 엔비디아와의 협력 관계가 재조명되면서 미국 의회에서 기술 유출 가능성에 대한 조사가 진행될 예정\nhttps://buly.kr/D3gloMs",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-07T22:50:37+00:00"
+    },
+    {
+      "id": "tg:EMchina/31396",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31396",
+      "text": "딥시크 자체 칩 개발 추진  https://n.news.naver.com/article/001/0016181347?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-07T22:47:50+00:00"
+    },
+    {
+      "id": "tg:enc210406/4101",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4101",
+      "text": "[한투증권 강경태] 2026년 7월 8일 (수)\n📈\n가격 동향\n• WTI 70.4달러/배럴(+2.8%)\n• 천연가스 3.3달러/MMBtu(+0.6%)\n『커버리지 주가』\n<건설>\n• DL이앤씨 -3.0%\n• 현대건설 -4.8%\n• GS건설 +1.0%\n• 대우건설 -7.0%\n• 삼성E&A -1.6%\n<건자재>\n• 한샘 +2.3%\n<디벨로퍼>\n• SK디앤디 -0.4%\n<리츠>\n• 신한알파리츠 +1.4%\n• 디앤디플랫폼리츠 +2.0%\n• 이리츠코크렙 +1.0%\n• 이지스밸류리츠 +0.6%\n• SK리츠 +0.5%\n• NH올원리츠 +1.2%\n• 이지스레지던스리츠 +0.0%\n• 롯데리츠 +2.1%\n• ESR켄달스퀘어리츠 +3.8%\n• 코람코라이프인프라리츠 +0.6%\n<조선>\n• HD한국조선해양 -1.2%\n• HD현대중공업 -5.3%\n• 한화오션 -22.7%\n• 삼성중공업 -5.3%\n• 한화엔진 -7.7%\n• HD현대마린솔루션 -3.4%\n📢\n뉴스\n<건설>\n▶️\n현대건설, 이자 '0%' 전환사채 발행 완료…5000억 규모\nhttps://n.news.naver.com/article/003/0014051531?sid=101\n▶️\nAI 특수에 귀한 몸…현대건설, 日 상륙 작전\nhttps://n.news.naver.com/article/011/0004639217?sid=101\n▶️\nDL건설, 신용등급 연이어 유지…재무안정성 재확인\nhttps://n.news.naver.com/article/018/0006324343?sid=101\n▶️\n대우건설, 협력사 안전관리 역량 따진다…안전등급제 시행\nhttps://n.news.naver.com/article/001/0016179568?sid=101\n▶️\n롯데건설, AAA등급 ABS 3천억 발행\nhttps://n.news.naver.com/article/009/0005704104?sid=101\n<건자재>\n▶️\n서울 구청장들 취임 일성은 재건축·재개발 '정비사업'\nhttps://n.news.naver.com/article/015/0005307168?sid=101\n<리츠>\n▶️\n리츠협회 \"내년 세제개편안에 리츠 배당소득 분리과세 포함해야\"\nhttps://n.news.naver.com/article/001/0016181033?sid=101\n▶️\n리츠 투자영역 넓힌다…양로시설 운영·데이터센터 투자 열려\nhttps://n.news.naver.com/article/018/0006324827?sid=101\n<조선>\n▶️\n미국 정부, 한국 조선사에 전투함·급유함 타진…첫 정보요청\nhttps://n.news.naver.com/article/001/0016181479?sid=100\n▶️\n이재명 대통령, \"한-나토 방위산업 파트너십 2.0으로 격상 제안\"\nhttps://n.news.naver.com/mnews/article/003/0014052306?sid=100\n▶️\nHD현대중공업 \"캐나다 잠수함 수주 불발 아쉽지만 K방산 도약 디딤돌\"\nhttps://n.news.naver.com/article/003/0014050439?sid=101\n▶️\n한화오션, 잠수함 수주 불발에 \"K방산 도약의 길 찾을 것\"\nhttps://n.news.naver.com/mnews/article/001/0016179063?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-07T22:26:09+00:00"
+    },
     {
       "id": "tg:EMchina/31395",
       "source": "telegram",
@@ -358,18 +407,6 @@
       "published_at": "2026-07-07T11:34:22+00:00"
     },
     {
-      "id": "tg:EMchina/31384",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31384",
-      "text": "딥시크 피크 가격 인상은 무엇을 의미하는가? 중국 AI모델 경쟁의 이성적 복귀(골드만삭스)  • 중국 AI 모델 산업 경쟁은 가격 경쟁에서 효율성 중심으로 전환. 딥시크는 7월 중순부터 피크시간 API 가격을 비피크 시간대의 2배로 인상. 수요 증가 및 컴퓨팅파워 공급 부족 반영하며 합리적인 가격 책정으로의 복귀를 촉진  • 산업 초점은 비용 통제, 컴퓨팅 파워 효율성 및 상업화 능력으로 전환. 간소화된 조직 &  모델 업데이트 빠른 기업이 우위 점할 것.…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-07T11:17:34+00:00"
-    },
-    {
       "id": "tg:bornlupin/18933",
       "source": "telegram",
       "author": "bornlupin",
@@ -689,8 +726,8 @@
       "url": "https://t.me/globaletfi/20558",
       "text": "삼성전자 2분기 영업익 89조…지난해 영업익 2배 넘어 - 매출 171조로 3분기 연속 역대 최대 기록…반도체 외끌이 https://n.news.naver.com/article/001/0016179110?sid=101",
       "images": [
-        "https://cdn5.telesco.pe/file/Hy5TAIIonToKpmr0_BTqrVEZVc8MIyhdQA5PvkCQVEX7dY9OhNfKo__KQ3SGdZNtKxRJnWCH1RZg4gzarE1ZpjGyJ-b8I7X2y-PsHTqLPVXb2jQJFZQBWubfdEf0fCedJcNpxDHyaoo1w1ZdzvYC8SV3F3Inlhm4Qlici3LxIArWBtxd6R2_fF2fIiZcqLUjeT8P_tHnie_0ku1gOsSu1Pm4df0-T5fr6oYOumbIYkwLe7FpEbjqN-jMXd9MYMc2208eGydZJuTfx7azj4QpDTIeOML--Un3ZI_PQhYzFxgM_CIUX3vcyEfTGmtmWNKuYVOgSBNxKZW0HC_V_vUBvQ.jpg",
-        "https://cdn5.telesco.pe/file/PTWtm2hnfbSisV1Iz-NlAEpbMfS23HqPnmg4uiGmWnKJ_yS0kpL7zdC8k7yytRMId97ANoaNFfQi1UrbFGV4ZYdI_WfYa10Ly-SzVq93HnWoeE7Z4AUlFtFH3qhVonUNfncfeX1lwaG1ZZ6cHmx2SYRMVCJyM-wCMF9faeau_W4wKohqNAiW389stqjE4UwXxQCAFHIc02EPLwgmTcj8YM63XuGc7RRK92TFG8YK0IZErLZd6_dYHqR9IT1FypD8mY1IPznOwodvWPsX1hl_DcNF1i7AvhxjkGeoo8_ySheaiRjsWV4JwUlDU482sQsBedWhmtmysxpqbAha2919fA.jpg"
+        "https://cdn5.telesco.pe/file/tsSvN0pFD9LDutFCdsXesV-EKlcqjZtWAtjnCAWsZYlW-a-qNbxGoCZO0JjwgagsVoBQoNsy8y4sM8G5B3hBY8MB6qB6as8BqOD_GL99LYwGDhuv4TEHnrQwA3YLEOfCq99k_U10M-CpoEpN1ZEOeRIzhLGD45n0fss_nPN3GzIwlTG58ImKv9UcVA8Q-OIfsZg7W510Rd7V2polOPoXJHrSgP7YGwNdxQbDqU6cliTe3vIImGlpgOaNhEz6NuPFWprJ-3QmWXHd0f7mWSG-ERSqCnp2hKu7UKko-gzT-7nMN05YAAOCsW3BTsbHt-7K2UGkfCmgkJp45mUafIXXdw.jpg",
+        "https://cdn5.telesco.pe/file/ZNduALFLF7n_lda93KrBYfwJwO9EN3mIvoh3aPsvave97gNvJDk1_YpRJOY20GgavM0khAIP70x38XpSU0EAI7mmJiMSyzk-Mxb0MYkXkKCQKg94R2dngZRBlVJi67c2QKYebWJOZANB846c_o1L9fTkJVKlbOMPGp0RcKA_5PUe05NgVPrB1Nridm1ahBTRzQ_unx6cDu7qqivERrPDDDFSkQ2i1xBrGHKw8Rrb2FPA7w0copSUxdX8TAxnmAwh3DKpY_fSIG-OdqRWi-UO2fQlP1nHHyU0Z0oDvUdKCON_uFwfF0C6SSRoCySZR293kHJQdm5BkSF4Ksy3Wea1TQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-06T22:54:35+00:00"
@@ -728,7 +765,7 @@
       "url": "https://t.me/globaletfi/20555",
       "text": "삼성전자 2012∼2026년 분기별 매출·영업이익\nhttps://n.news.naver.com/article/001/0016179106?sid=102",
       "images": [
-        "https://cdn5.telesco.pe/file/qg1Sxk0PH2zxhTXslu0-I5YkIX6YXHM9o8GTWqnEMmeread2BSX6Wp_0mh3fzhTQEhrB-4oh9EpxNtWogeMCPo2YSS6HQ9qxoPVZOnBXuTtmzyYAytBp-LX34_INSBj1HEp4uOrG-pwsAn6zQnm0iBm2V4GC8h11jmqSrQjIYSVvw43MeVXWy-U3NNdHXfHoh6vWVA_ZJdjS2f9frkck8c9-mCu9hchgdZUdJEGaH6wM6MJVnYsIq03s1Aa1oyYjFK-Fbfzt3C0Y3IaTDY5Q7ueicU3Rdji6-aVc97_Ze_BcbppgZu_6aKNB7e3ZJFMDIpajRj5JNVNIqROXwk2f-w.jpg"
+        "https://cdn5.telesco.pe/file/DBTZuBwgWh-cJagg2DF7652IUNOejZRubHHbPeso-fM72Mg2w8a2UFGYfRPovEeOgiOpCP_6fx0Nrz21UdBBy4XF_qZYPNaBoyk4GeE0PgnAUz3w2sG6J3NriyeW8cYER6TVAllk6QubZqNMWPFOCje05jOvH484L4IvkUPzHhvs34uPtN4RjTd3pzZSXAbUWfDBe1IYPb0m6I_NKCEn_WN0mqVqJn82-ZbajHA6hJrFrPKhJ32zGMkDxp1AjCUatpZ1hAv3EKmfEM4DV2sR_Y0Waamf6jhq-4Ooi9lg5vjqb_8BAIwnRPezm6uNcgWYEQyXhy3ZZkT62m1zcrsFHQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-06T22:45:24+00:00"
@@ -754,8 +791,8 @@
       "url": "https://t.me/globaletfi/20552",
       "text": "[하나 Global ETF Daily (7/7)]\n▶️\n하나 Global ETF 박승진(T.3771-7761)\n▶️\nRA 신민건(T.3771-3269)\n▶️\n텔레그램:\nhttps://t.me/globaletfi\n🔹\n주요 ETF Daily 수익률\n(2026.7.6 종가 기준)\n» 주요 시장 ETF\nSPY 0.87%\nQQQ 1.43%\nDIA 0.42%\nIWM 0.44%\n» 주요 국채 ETF\nIEF 0.06%\nSHY 0.05%\nTLT -0.07%\n» 주요 섹터/테마 ETF\n인터넷(ARKW) 3.32%\n블록체인(BLOK) 3.07%\n기술혁신(ARKK) 2.90%\n🔹\nETF News\n[Bitcoin Foundation] 이더리움 ETF의 패러다임 전환: '스테이킹 ETF'가 ETH 반등의 최대 촉매제가 될 수 있을까?\n-\nhttps://buly.kr/EI64K3K\n- 이더리움 현물 ETF 시장이 유입·유출 자금 규모 중심의 논의에서 벗어나 리워드를 창출하는 생산적 자산으로의 체질 개선을 꾀하는 ‘스테이킹 ETF’ 도입 여부를 두고 새로운 국면을 맞이하고 있음\n- 2026년 7월 6일 기준 이더리움 가격은 1,767달러 선에 머물며 초기 낙관적 기대치를 밑돌고 있으며, 시티그룹이 목표가를 2,240달러로 하향 조정하는 등 기술적 모멘텀 약화를 겪는 상황\n- 이러한 침체 속에서 가격 상승 노출도와 스테이킹 리워드를 동시에 제공하는 스테이킹 ETF는 강력한 반전 카드로 주목받는 중\n- 실제 Grayscale은 861,000개 이상의 ETH를 기반으로 올 1분기 837만 5,000달러의 보수 수익을 올린 스테이킹 미니 ETF 신청서를 SEC에 제출했고, BlackRock 역시 총 보상의 약 18% 수준인 스테이킹 수수료를 제외한 리워드를 배분하는 구조를 마련하며 제도적 변화를 이끌고 있음\n- 이러한 스테이킹 ETF의 등장은 이더리움 시장에 강력한 낙관론과 신중한 비관론을 동시에 발생시키는 중\n- 낙관적 관점에서는 전통 기관 투자자들에게 자체 Yield가 발생하는 디지털 인프라 자산이라는 명확한 내러티브를 제공하여 제도권 자금을 유인할 수 있다는 점이 꼽힘\n- 아울러 현재 전체 공급량의 32%인 약 4,030만 ETH가 스테이킹되어 연 2.6%에서 3% 수준의 APR을 제공하는 상황에서, ETF를 통해 추가 물량이 잠길 경우 유통 물량 감소에 따른 가격 탄력 효과가 기대됨\n- 반면 비관적 관점에서는 현재 이더리움이 겪는 수요 침체의 본질을 단주기적인 스테이킹 툴 하나로 돌리기 어렵다는 지적과 함께, 운용사 및 검증인 수수료 등이 차감되면 투자자의 최종 순수익률이 미미할 수 있다는 수수료 드래그 우려도 상존\n- 결론적으로 스테이킹 ETF는 개인지갑을 활용한 직접 스테이킹 대비 수익률 면에서 기술적 우위는 없으나 슬래싱 리스크 관리와 회계 처리의 편리함 등 제도권에 최적화된 편의성을 제공\n- 따라서 본 상품이 이더리움의 게임 체인저로 정착하기 위해서는 단발성 자금 유입을 넘어 BlackRock과 Grayscale 등 대형 발행사들을 중심으로 한 지속적인 자금 유입 성적표가 증명되어야 할 것\n- 나아가 디파이나 레이어2 정산 등 이더리움 자체의 네트워크 사용량 회복이 병행되어야만 1,700달러 선에서 바닥을 다지고 있는 이더리움 가격이 하반기 본격적인 반등 궤도에 진입할 수 있을 것으로 전망\n[The Motley Fool] 필수소비재 ETF 진검승부: 뱅가드 'VDC' vs 아이셰어즈 'KXI' 전격 비교\n-\nhttps://buly.kr/Ezl6FFR\n- 경기 침체나 불확실성 속에서 포트폴리오의 방어막 역할을 수행하는 필수소비재 섹터의 대표적 ETF인 Vanguard Consumer Staples ETF와 iShares Global Consumer Staples ETF는 배당수익률과 상위 보유 종목 면에서 유사하나 지리적 투자 범위에서 가장 큰 차이가 발생\n- VDC는 연 0.09%의 저렴한 수수료율과 순자산 약 91억 달러에 달하는 대형 규모를 자랑하여 매매 비용을 크게 아낄 수 있는 반면, KXI는 연 0.39%의 운용 수수료를 부과하여 VDC보다 4배 이상 비싸고 순자산 규모도 약 10억 달러 수준으로 상대적으로 작음. 따라서 장기 복리 투자를 지향하고 저비용 위주의 전략을 선호하는 자산 배분가들에게는 비용 측면에서 VDC가 압도적으로 유리한 선택지\n- 지난 5년간의 총수익률과 하방 리스크 제어 능력을 비교해 보면 VDC가 더 우수한 성과를 기록한 것으로 나타남\n- 5년 전 1,000달러 투자 시 VDC는 1,426달러로 불어난 반면 KXI는 1,273달러에 그쳤으며, 최근 5년 내 최대 낙폭도 VDC가 -16.50%로 선방한 반면 KXI는 -17.50%로 다소 큰 조정 폭을 보임. S&P 500 지수 대비 주가 변동성을 나타내는 베타값은 VDC가 0.50, KXI가 0.48로 두 상품 모두 시장 절반 수준에 불과한 뛰어난 방어력을 입증\n- 다만 최근 1년간의 단기 수익률은 KXI가 7.20%를 기록하며 VDC의 6.10%를 일시적으로 앞선 것으로 확인됨\n- 두 펀드 모두 포트폴리오의 97%를 방어 성격이 강한 필수소비재 종목으로 채우고 있으나 세부 비중과 국가별 노출도에서 차이를 보임\n- VDC는 총 103개 종목을 보유하며 순수하게 미국 시장에만 집중 투자하고 Walmart 14.49%, Costco 11.83%, Procter & Gamble 8.69% 순으로 상위 비중이 높으며 2.10%의 분배금 수익률을 기록\n- 반면 KXI는 총 92개 종목을 보유하며 미국 기업 비중 약 60%, 영국 12% 등 글로벌 소비재 기업들로 영토를 확장하여 종목 쏠림이 덜하고 분배금 수익률은 2.40%로 소폭 높음\n- 결론적으로 글로벌 브랜드의 잠재력과 다변화를 원한다면 외환 리스크를 감수하더라도 KXI가 매력적이나, 환위험을 피하고 미국 내수 펀더멘털에 베팅하며 저비용과 풍부한 유동성의 이점을 누리려는 효율적 투자자라면 VDC가 현명한 선택이 될 것",
       "images": [
-        "https://cdn5.telesco.pe/file/VZnVkSCpm7DvBmoUQ8nOrTf6rHXX5Jbwilc7rRCTL6jK9OzL4x6XsjHhFiPnKF3hBUkfK3YSapTyc85D-ILBChUL3MC_91sRCZJ7rDPz4c06O2HbBscfj2FVbqw6xo5Yqkd4aqsR2vp9v-39zNm-cBU2rXIROC7HsBNp9y1di03OSfk7fMpC_c076EkJAJCwmKpoSr9iYfIsJnNpoDzyuw-fgjagdhRLT8kbv86sauQ1j5MowP3G35DBDyXOW0lDkX4bi8OpyD8F0Sw1kmM1ZcUkdmhQt7JBWXy9ZICeOsF6CCXv-jbGjARTthGrrCLRtdLoEcI0WMzYHv6h13rA2g.jpg",
-        "https://cdn5.telesco.pe/file/DDWz0H2ugJ3QwS9YfVfEVNRM9CqwOkLaxUXYswVZCkQx2ciWIeG7DzOYT2wScDOC5RpIoWQNO1wiqiH-b6aEIbF7GPxFAR95ZvJooZkTqF6R-bQLTHwA1blPaXzwokmlA7dh8EFJaHTpnI0YPtqlHDxDCu8DNEvPn3oGLxxVwaUVIU3alKEL7O6ivHECxpUKO6uxdrRu4UpQrqIuYZcTa1C11UEefpSzOcavufbaL2jZdR0lL92rkFsrwWG6zmfu1zScszm6QOmWk6UG0v9WdMvl04tHEvBmvoXJ8sAcYc__V6IANzHgVbeEQoh0lkTBX61xjrVPrgK3j6m00HXrgQ.jpg"
+        "https://cdn5.telesco.pe/file/C-0y9E2QbBMOjnsM7DEt8W9Ycle3AzRYRVG8BTqt8LoGYz4L4yBjUWrZjP5i4aX2Xx3SSELWdfWhEm-TvBM3nKnDN53LXBcGiMais4-6abaSKIw5azzcCrqrRptvEwxq25_41TItdhO4PJa32p2pIiajzStCr6bhxw7V5xnf4gW9MBpGAQuxdO18fvjAsdMzashldCR4S6wxfwr02kNCoJyKnc0SGcQtx0Pt6SVc5XdYbOdwYhQMBftRq3yl-6qpElMljBR37OvxeFlCI7rl9_10Ndcf1iLZevf_9p2Ns3lleyTCr5fmzCK_tI0s22XLOJBWQXLhPVS2BcX9lwyPMw.jpg",
+        "https://cdn5.telesco.pe/file/OcuvIzl0iCHMmx25sSy-2ql3X120vzhcx7Xd2ivNczHQ6-oeiuuZwDAflrGRYl2yJwZm2xO_RAJDbmUmnizsewKavFOpIPhE1H_Oq2Q5C5Nd2lHIsuVRI_WKbpq8h5SMqzwUAuHJH2NDi_DOCKIlj8rOjdhRAdXHvfWVMke5zT8X5qSIKE-s9mAKXtkoFdcZIPdDRPbyekMAf2NqqZly8XXn8DlPAtzJnsCqkOpDD6ph6E8o6LZi9E8w76KLEsK_vlzMAUE8fjHysVu8fg24dfNA6atCaq41nlxuIM88pV1zJZxCqu6H-uLUc2VTLV42KwzZb272cNHdzTyHpiemVQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-06T22:43:56+00:00"
@@ -1119,20 +1156,6 @@
       "published_at": "2026-07-06T14:10:40+00:00"
     },
     {
-      "id": "tg:globaletfi/20549",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20549",
-      "text": "🔹\nBroadcom, Apple과 2031년까지 맞춤형 반도체 공급 계약 연장\n» 이번 계약에 따라 Broadcom은 Apple의 ASIC(주문형 반도체)를 개발하며, 해당 칩은 앞으로 출시될 여러 세대의 애플 제품에 적용될 예정\n» Broadcom은 Apple의 자체 모뎀과 함께 사용되는 일부 셀룰러 네트워크 관련 반도체를 공급 중. 이번 계약은 AI 인프라 구축에 필요한 ASIC 반도체 분야까지 협력 범위를 확대했다는 점에서 의미\n» Apple은 현재 'Baltra'라는 코드명의 자체 AI 서버용 칩을 개발 중이며, 내년부터 도입할 AI 서버에 Broadcom의 기술을 활용할 계획. 해당 서버는 Apple Intelligence의 클라우드 기반 AI 기능을 지원하기 위한 것\n» AI 서버용 ASIC 공급 계약이 장기화되면서 Broadcom의 AI 맞춤형 반도체 사업 성장성과 수익 가시성이 더욱 높아질 가능성\n» Apple 역시 자체 AI 서버 구축 전략을 본격화하고 있음을 재확인. 향후 Apple Intelligence 고도화를 위한 AI 인프라 투자 확대 기대를 높이는 요인으로 해석 가능",
-      "images": [
-        "https://cdn5.telesco.pe/file/vJvsfN3KlZaw4g0EDVSWEFtnESn8nANXs6c6PQVWBl6n6FOyM-4kAa1MGiBL_Rn0vm11rUtl8rdDE1xeLUS_FviIw0Zsf-RwSdZ9yb0u6OmyCQd4sYoWGDaHQXaPmtfOJOuQF0ybMKKH0tDYrWL_GWyfq2eZ36Qo2DvLgKpH05CHVEiyuURu8EsXZRhhiWEfqy204kh4cZuS6PGGQUG9tNpjNQa0MYnEsFCT5RActgGLoYcR42S7mHrE73n5BPgPRkh5D7e_BIeLReV4sYTNdE2lRaBQWFDx4JNMi-t3TuOddA1AXFUYdQ2WrCvKx6_7VXdGqeX66AZdXD9jlmt87w.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-06T13:49:11+00:00"
-    },
-    {
       "id": "tg:HI_GS/6651",
       "source": "telegram",
       "author": "HI_GS",
@@ -1169,20 +1192,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-06T12:05:54+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20548",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20548",
-      "text": "🔹\nMicron과 SK하이닉스의 PER 추이\n» SK하이닉스 ADR의 나스닥 상장을 앞두고 Micron의 밸류에이션 기준을 적용하는 리레이팅 기대가 형성\n» 최근 실적 추정치가 높아지면서 Micron의 PER이 하락하기는 했으나, 지난 2년간의 흐름들을 살펴보면 Micron이 SK하이닉스 대비 평균 1.5배~2.0배 가량 높은 밸류에이션을 부여받아왔다는 점에서 ADR 상장 이후 SK하이닉스의 PER 상향 전망 지속",
-      "images": [
-        "https://cdn5.telesco.pe/file/Xsay49jLb_m8YA-z2FDccMtpL3Y5s8QuEhqzolb4AvSjKSceiPAV2HcuwXdz_N7w_JOwnHJM4ffWDe0R2h4oKa78DtqE9HsufYvN4LbaU2pLgzPdkij5sdV-GmiRwS65DAcJ4H5CuKalRc9syRbgdxJfjERP4jIcbUgB9E0aPldyaUtazNDcAqLJDy1ko4TNDPGs5Co-hjeT795ATQ4iV1XgGMoN2LZl7IkEgf5hy5eU3HhrZrAAlrraVWoyQqGPpIlURo1UqZeHn2z3Ic7iebprY9MuvVs3bsjQBG-QyGX5sulVFg30DHmdMLWtSdHziIQrxsUY0JY01jx4IPaCHA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-06T12:00:02+00:00"
     },
     {
       "id": "tg:enc210406/4094",
@@ -1359,18 +1368,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-05T03:58:15+00:00"
-    },
-    {
-      "id": "tg:enc210406/4087",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4087",
-      "text": "[AI데이터센터용 HiMSEN 엔진 소개]\n영상: HD현대중공업 공식 유튜브 채널\nhttps://youtube.com/watch?v=jbXepSWyWIk&si=a9M6_RIjJRjuAevT",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-04T23:13:13+00:00"
     },
     {
       "id": "x:karpathy:2073047118801993910",
