@@ -1,22 +1,74 @@
 {
-  "updated_at": "2026-07-07T13:22:23+00:00",
+  "updated_at": "2026-07-07T16:32:14+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 14
+    "new_this_run": 17
   },
   "briefing": {
     "headline": "아마존, 250억 달러 자금 조달 추진",
     "bullets": [
-      "골드만삭스, 스페이스X 투자",
-      "JP모건, 애플 가격탄력성 추정치 업데이트",
-      "삼성전자, 2Q26 실적 예상 상회",
-      "사우디, 8월 원유 가격 11달러 인하",
-      "중국, 5월 금보유량 7496만온스"
+      "골드만삭스, 스페이스X에 800억 달러 투자",
+      "JP모건, 애플 매출 회복력 높아질 것",
+      "삼성전자, 2분기 실적 예상 상회",
+      "중국, 금보유량 19개월 연속 증가",
+      "사우디, 8월 원유 가격 11달러 인하"
     ],
-    "generated_at": "2026-07-07T13:22:23+00:00",
+    "generated_at": "2026-07-07T16:32:14+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:GoogleDeepMind:2074513847306572213",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2074513847306572213",
+      "text": "R to @GoogleDeepMind: The Predicting the Past Skill is a collaborative research partner. 🏛️ We teamed up with @TSommerschield on 3️⃣ case studies to prove it. By blending specialized AI with Gemini’s reasoning, we showed how historians can explore ancient data in entirely new ways. Explore the platform → https://goo.gle/4vR5ZtC",
+      "images": [
+        "https://pbs.twimg.com/card_img/2074511876642283520/LCx9Fe0N?format=jpg&name=800x419"
+      ],
+      "summary_ko": "R에서 @GoogleDeepMind로: 과거 예측 기술은 공동 연구 파트너입니다. 🏛️ 우리는 이를 증명하기 위해 @TSommerschield와 협력하여 3️⃣ 사례 연구를 진행했습니다. 전문 AI와 Gemini의 추론을 결합함으로써 역사가들이 완전히 새로운 방식으로 고대 데이터를 탐색할 수 있는 방법을 보여주었습니다. 플랫폼 살펴보기 → https://goo.gle/4vR5ZtC",
+      "published_at": "2026-07-07T15:20:18+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2074513665299034447",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2074513665299034447",
+      "text": "R to @GoogleDeepMind: Using AI for history analysis has 3 core challenges: 🔹 Creating custom analysis and visuals for every inscription. 🔹 Cross-source mapping to find large-scale patterns. 🔹 Utilizing advanced AI tools with no coding skills. Our Antigravity skill shifts all these complex workflows into plain English.",
+      "images": [],
+      "summary_ko": "R에서 @GoogleDeepMind로: 기록 분석에 AI를 사용하는 데에는 세 가지 핵심 과제가 있습니다. 🔹 모든 비문에 대한 맞춤형 분석 및 시각적 개체 만들기. 🔹 대규모 패턴을 찾기 위한 크로스 소스 매핑. 🔹 코딩 기술 없이 고급 AI 도구를 활용합니다. 우리의 Antigravity 기술은 이러한 모든 복잡한 작업 흐름을 일반 영어로 전환합니다.",
+      "published_at": "2026-07-07T15:19:35+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2074513661750546762",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2074513661750546762",
+      "text": "🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets historians study Greek and Latin texts using plain English. 🧵",
+      "images": [],
+      "summary_ko": "🏛️ 우리는 고대 세계와 대화할 수 있는 새로운 방법을 공개합니다. Google @antigravity의 과거 예측 기술을 통해 Gemini를 전문가 모델 Aeneas 및 Ithaca에 직접 기반을 두어 역사가는 일반 영어를 사용하여 그리스어 및 라틴어 텍스트를 연구할 수 있습니다. 🧵",
+      "published_at": "2026-07-07T15:19:34+00:00"
+    },
+    {
+      "id": "x:ylecun:2074483206972166650",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2074483206972166650",
+      "text": "RT by @ylecun: We sat down with @ylecun for a 1h30 discussion on world models @medjawii and JB Kempf of @videolan/@FFmpeg. It's probably the deepest technical discussion on the subject ever recorded. And we added English subtitles. Link in comment 👇",
+      "images": [
+        "https://pbs.twimg.com/media/HMoKTNzXEAAf0NX.jpg"
+      ],
+      "summary_ko": "RT by @yecun: 우리는 @ylecun과 함께 세계 모델 @medjawii와 @videolan/@FFmpeg의 JB Kempf에 대해 1시간 30분 동안 토론했습니다. 이는 아마도 지금까지 기록된 주제에 관한 가장 심오한 기술적 논의일 것입니다. 그리고 영어 자막을 추가했습니다. 댓글에 링크👇",
+      "published_at": "2026-07-07T13:18:33+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23346",
       "source": "telegram",
@@ -1020,7 +1072,7 @@
       "url": "https://t.me/globaletfi/20551",
       "text": "🔹\nMicrosoft, 4800명 추가 감원 발표\n» 전체 직원의 약 2.1%에 해당하는 약 4,800명을 감원한다고 발표. AI 인프라 투자 확대와 AI를 활용한 업무 효율화가 본격화되는 가운데 진행되는 대규모 구조조정의 일환\n» Microsoft는 올해 초에도 미국 직원의 약 7%(약 9,000명)를 대상으로 자발적 퇴직 프로그램을 실시",
       "images": [
-        "https://cdn5.telesco.pe/file/jXDtw1xikyZCOZ0Mzkw8OemhPakmaiBVoQmEmzh5UwjRK19kDIzMWeC4rcZU8cZHgLB_36o-Gbmbw0OoZcc42IAhti_Oqn6sHm1PJnWZkm4j4JN-7nYTILGezuw_8OmYLCb70sPAoD3t9Lq3bs2EtJvLlHiAyYEOaQ1PknDv7pNE2-ZceAtQiD5zz3JZxpBqeFPdnJhnpNEABDhNNAnIESSCaGQDlA13cqca_CsBnR35xagb_uss60ApLtXnjl0l1hSgxr7AGhxr-5wMl4KiZ4JzrGUDe0hWjG_EYfDkJz83omZE0k5cNS9Ri5nVafadTxQTAe42tHZCH3Dq5LmXhw.jpg"
+        "https://cdn5.telesco.pe/file/pnfBVI-mT-Qd4SCaZ9a9TQS8Jdxsruxl_AdfmY_6m37NLK7G1uz-XKDcV5Uc5LB08QE9SldUjAt8y2xKWeKlsKP1sdp7TYhB8eDq_Ty5qjUryqzmRwPDUYdFAlsReACGOrikcJd55PgkFK_0dmztrdhZqITSwq9ArFyzvrrxWoQ5ieeeRyhxoDpVggq9h6daPKEVrdYnlHf0UIXx-kD_BOrEjR_mPI5pjWosUHKhx-pNaiOXJOEzAwz1SAZHfDif0xq6Ow_KzJYUxKDmo_nlFpa7eu7gQm3GaxPe_st8tVH3E5rRieK4GMsDg7M8zGBY_440E1pwVYs-ekKrMsy4lw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-06T14:13:02+00:00"
@@ -1034,7 +1086,7 @@
       "url": "https://t.me/globaletfi/20550",
       "text": "» 미국의 6월 ISM 서비스업지수는 54.0pt를 기록하며 시장 예상치와 전월치 소폭 하회\n» 신규주문과 비즈니스 활동지수가 하락하며 업황 둔화 가능성 시사. 다만 고용지수는 상승했고, 가격지수가 전월대비 크게 낮아진 모습을 확인",
       "images": [
-        "https://cdn5.telesco.pe/file/ZjmL3lU87Za0M9i5_SqWhlitDVC_NFQ69Ho2vtTlxwJz3PIS3HMt6oyxh6VyNDZLRn5mYxzz25WTAFtxx2It_HJ4f-RAZqyESb1oM9MBF1rYrlBEZHRXkY4K3tiolKy_xKAM3w0nIy0CoX-r-EWtVrrmqOUMqICq6aOJsqUeFRt8tplV3sMg1vxkWiQsbrHDsWHKI7Z6NAnf5tvCrhF7vcAK-gkOfYDj20RJiB_kS50FiIjgoJ7xiXA3RAgZwQ4gAcBQ9j6M1bNJjkogm9LCmpZOeAIi0ZLlXstCvYXHZDDHCCAXlk_NLgF-f7_Xa1zo0sOF8M7ETKZSms7PsyEs3A.jpg"
+        "https://cdn5.telesco.pe/file/ArI8ZmO6Qhdi8KdoFFiMsJKEIjrZQWB0baF_fdgAj1Q7fMSW2cWzMDeZT0OCPOjSVJKURoU3Bd5o4U5TkumGRoKuBhFRKu2cXjRGC1PUSfajuvBIzKXNSaE9mZ3ZlPRJuqD5Xc-JQ-nEMYwHdXYIYPHbpDGOqIR1izSRNWM7tcOd80J3b6_pF9NA3NolHcAsHQts73xYQKlUvqUNL2girxoSItftp_Ynorw-m_yU5Ty81Gpbv63rwIuaxJC9dQw9URjyHBDxdAmJzO1-0gG7ZfuqoLsL_Qt0j7TpfCAPA97EfwygLwgOMmgBA1X4WGiBq11p0H55-xWLJKyvyWZCnA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-06T14:10:40+00:00"
@@ -1048,7 +1100,7 @@
       "url": "https://t.me/globaletfi/20549",
       "text": "🔹\nBroadcom, Apple과 2031년까지 맞춤형 반도체 공급 계약 연장\n» 이번 계약에 따라 Broadcom은 Apple의 ASIC(주문형 반도체)를 개발하며, 해당 칩은 앞으로 출시될 여러 세대의 애플 제품에 적용될 예정\n» Broadcom은 Apple의 자체 모뎀과 함께 사용되는 일부 셀룰러 네트워크 관련 반도체를 공급 중. 이번 계약은 AI 인프라 구축에 필요한 ASIC 반도체 분야까지 협력 범위를 확대했다는 점에서 의미\n» Apple은 현재 'Baltra'라는 코드명의 자체 AI 서버용 칩을 개발 중이며, 내년부터 도입할 AI 서버에 Broadcom의 기술을 활용할 계획. 해당 서버는 Apple Intelligence의 클라우드 기반 AI 기능을 지원하기 위한 것\n» AI 서버용 ASIC 공급 계약이 장기화되면서 Broadcom의 AI 맞춤형 반도체 사업 성장성과 수익 가시성이 더욱 높아질 가능성\n» Apple 역시 자체 AI 서버 구축 전략을 본격화하고 있음을 재확인. 향후 Apple Intelligence 고도화를 위한 AI 인프라 투자 확대 기대를 높이는 요인으로 해석 가능",
       "images": [
-        "https://cdn5.telesco.pe/file/mOQW9qykBKGiwH3fb71NhpVnkaDDM7IJ3HQhDyB3yBv4xWS06vJ7vAV2F-p9W49mnzFk4EhR_kk1m7XELM7VOKFF1c7LjBS6lC9ndoe48t6lnJOrUt6tPQu2oLcyVDoQJuJB7odjIs5kfZoxMgraXqqiPBqtK_TNn71YgYeYV-R8WRh1a94KfIeuk1Zkelyzic_nVYnY1ca9TqCxARx7G63xrucfvwka2oNU8M3C2aISfhw0PdVTK8kowFm2vMyZakVGYSDFrlvSUog83_MN6KAaFqZbyKhs8sPme3RuI_l0MUq75VOfiNfKO1wv16w_NTh-5z6xBXEAC73WIegDtw.jpg"
+        "https://cdn5.telesco.pe/file/vJvsfN3KlZaw4g0EDVSWEFtnESn8nANXs6c6PQVWBl6n6FOyM-4kAa1MGiBL_Rn0vm11rUtl8rdDE1xeLUS_FviIw0Zsf-RwSdZ9yb0u6OmyCQd4sYoWGDaHQXaPmtfOJOuQF0ybMKKH0tDYrWL_GWyfq2eZ36Qo2DvLgKpH05CHVEiyuURu8EsXZRhhiWEfqy204kh4cZuS6PGGQUG9tNpjNQa0MYnEsFCT5RActgGLoYcR42S7mHrE73n5BPgPRkh5D7e_BIeLReV4sYTNdE2lRaBQWFDx4JNMi-t3TuOddA1AXFUYdQ2WrCvKx6_7VXdGqeX66AZdXD9jlmt87w.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-06T13:49:11+00:00"
@@ -1223,20 +1275,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-05T23:55:23+00:00"
-    },
-    {
-      "id": "x:ylecun:2073906144565706793",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2073906144565706793",
-      "text": "RT by @ylecun: Surprising (not really) stat from the new UBS Global Wealth Report 2026. The US ranks #2 when you look at average (mean) wealth per adult, but drops to #28 when you look at the median. https://www.ubs.com/content/dam/assets/wm/static/gwr/global-wealth-report-en-2026.pdf",
-      "images": [
-        "https://pbs.twimg.com/media/HMf-pXuWoAAC4Fk.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: 새로운 UBS 글로벌 부 보고서 2026의 놀라운 통계입니다. 미국은 성인 1인당 평균 부를 보면 2위지만 중앙값을 보면 28위로 떨어집니다. https://www.ubs.com/content/dam/assets/wm/static/gwr/global-wealth-report-en-2026.pdf",
-      "published_at": "2026-07-05T23:05:30+00:00"
     },
     {
       "id": "tg:enc210406/4090",
@@ -1733,7 +1771,7 @@
       "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2070555272230384038",
-      "text": "Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work. https://openai.com/index/previewing-gpt-5-6-sol/",
+      "text": "Pinned: Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work. https://openai.com/index/previewing-gpt-5-6-sol/",
       "images": [
         "https://pbs.twimg.com/card_img/2073096906520276992/iBEYbYjc?format=jpg&name=800x419"
       ],
@@ -1838,34 +1876,6 @@
       "published_at": "2026-06-25T17:01:43+00:00"
     },
     {
-      "id": "x:GoogleDeepMind:2070180509523546481",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2070180509523546481",
-      "text": "Gemini 3.5 Flash now supports native computer use. This built-in tool lets developers build custom agents that can see and take action across browser, mobile, and desktop interfaces. Find out more → https://goo.gle/4f4sNQA",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2070179715038445568/img/av3fxt3QGk6UH4ER.jpg"
-      ],
-      "summary_ko": "Gemini 3.5 Flash는 이제 기본 컴퓨터 사용을 지원합니다. 이 기본 제공 도구를 사용하면 개발자는 브라우저, 모바일 및 데스크톱 인터페이스 전반에서 확인하고 조치를 취할 수 있는 사용자 지정 에이전트를 구축할 수 있습니다. 자세히 알아보기 → https://goo.gle/4f4sNQA",
-      "published_at": "2026-06-25T16:21:10+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2070180154069176399",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2070180154069176399",
-      "text": "RT by @GoogleDeepMind: Gemma 4 just hit 200M downloads in only 2.5 months! For context, total downloads across the entire Gemma family of models were at 100M when we launched Gemma 3. The community's acceleration is incredible. Thank you to everyone building with Gemma. Watch how developers are driving real-world impact:",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2070176383641464832/img/pj0pj4_5zJ532FjM.jpg"
-      ],
-      "summary_ko": "@GoogleDeepMind의 RT: Gemma 4가 단 2.5개월 만에 2억 다운로드를 기록했습니다! 상황에 따라 Gemma 3을 출시했을 때 전체 Gemma 모델 제품군의 총 다운로드 수는 1억 건에 달했습니다. 커뮤니티의 가속화는 놀랍습니다. Gemma와 함께 만들어가는 모든 분들께 감사드립니다. 개발자가 어떻게 실제 세계에 영향을 미치고 있는지 살펴보세요.",
-      "published_at": "2026-06-25T16:19:45+00:00"
-    },
-    {
       "id": "x:demishassabis:2070180154069176399",
       "source": "x",
       "author": "demishassabis",
@@ -1904,20 +1914,6 @@
       "images": [],
       "summary_ko": "GPT-5.5 Instant의 새 버전이 출시되어 대화가 훨씬 더 재미있어졌습니다. 우리가 가장 많이 사용하는 모델은 이제 질문 뒤의 의도를 더 잘 이해하고 이에 따라 응답을 조정하는 데 더 능숙합니다. 또한 복잡한 제약 조건을 보다 안정적으로 처리하고 쇼핑 및 지역 추천을 더욱 유용하고 응집력 있게 만듭니다. 오늘은 유료 사용자에게, 내일은 무료 사용자에게 출시됩니다.",
       "published_at": "2026-06-24T18:00:21+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2069785318887174217",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2069785318887174217",
-      "text": "R to @GoogleDeepMind: Watch → https://goo.gle/4w7S3LM Spotify → https://goo.gle/4eFgIA9 Apple Podcasts → https://goo.gle/3Sn4ZyM Or listen wherever you get your podcasts! 🎧",
-      "images": [
-        "https://pbs.twimg.com/card_img/2072324898685353985/DNge-_vN?format=jpg&name=800x320_1"
-      ],
-      "summary_ko": "R에서 @GoogleDeepMind로: 시청 → https://goo.gle/4w7S3LM Spotify → https://goo.gle/4eFgIA9 Apple Podcasts → https://goo.gle/3Sn4ZyM 또는 어디서든 Podcast를 들으실 수 있습니다! 🎧",
-      "published_at": "2026-06-24T14:10:49+00:00"
     },
     {
       "id": "x:OpenAI:2069770175709335653",
@@ -2322,7 +2318,9 @@
       "author_url": "https://x.com/GoogleAI",
       "url": "https://x.com/GoogleAI/status/2061544208289132791",
       "text": "R to @GoogleAI: Read more about all the fun ways we used AI to bring I/O to life this year: https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2072420919004536832/eX8LnGAL?format=jpg&name=800x419"
+      ],
       "summary_ko": "R에서 @GoogleAI로: 올해 AI를 사용하여 I/O에 생명을 불어넣은 모든 재미있는 방법에 대해 자세히 알아보세요. https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
       "published_at": "2026-06-01T20:23:35+00:00"
     },
