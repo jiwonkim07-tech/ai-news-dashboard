@@ -1,4 +1,32 @@
 {
+  "x:sama": [
+    "x:sama:2074909079450050629",
+    "x:sama:2074709023807664454",
+    "x:sama:2073791666553844074",
+    "x:sama:2073636003215249515",
+    "x:sama:2073635910512726444",
+    "x:sama:2072773542576586790",
+    "x:sama:2070614769678393846",
+    "x:sama:2070614666288795703",
+    "x:sama:2070612055225483692",
+    "x:sama:2070609922631537024",
+    "x:sama:2070608004500857256",
+    "x:sama:2070607488274358364"
+  ],
+  "x:OpenAI": [
+    "x:OpenAI:2074907035225981169",
+    "x:OpenAI:2074907033577693636",
+    "x:OpenAI:2074907031862190406",
+    "x:OpenAI:2074907030343839925",
+    "x:OpenAI:2074907028733178359",
+    "x:OpenAI:2074907027378511884",
+    "x:OpenAI:2074907025537224840",
+    "x:OpenAI:2074897675343085993",
+    "x:OpenAI:2074871151302774869",
+    "x:OpenAI:2074704958419792299",
+    "x:OpenAI:2072004836674167294",
+    "x:OpenAI:2070555278576439306"
+  ],
   "telegram:aetherjapanresearch": [
     "tg:aetherjapanresearch/23380",
     "tg:aetherjapanresearch/23379",
@@ -14,6 +42,8 @@
     "tg:aetherjapanresearch/23367"
   ],
   "telegram:EMchina": [
+    "tg:EMchina/31417",
+    "tg:EMchina/31416",
     "tg:EMchina/31415",
     "tg:EMchina/31414",
     "tg:EMchina/31413",
@@ -27,7 +57,23 @@
     "tg:EMchina/31405",
     "tg:EMchina/31404"
   ],
+  "x:demishassabis": [
+    "x:demishassabis:2074847444823674883",
+    "x:demishassabis:2074157282477154597",
+    "x:demishassabis:2072759122366509130",
+    "x:demishassabis:2071988044878516466",
+    "x:demishassabis:2070180154069176399",
+    "x:demishassabis:2069540952784699520",
+    "x:demishassabis:2069066675895337405",
+    "x:demishassabis:2068002732250640603",
+    "x:demishassabis:2065112147093545333",
+    "x:demishassabis:2065097165433983253",
+    "x:demishassabis:2064873362799600042",
+    "x:demishassabis:2064423388928790943"
+  ],
   "telegram:bornlupin": [
+    "tg:bornlupin/18962",
+    "tg:bornlupin/18961",
     "tg:bornlupin/18960",
     "tg:bornlupin/18959",
     "tg:bornlupin/18958",
@@ -95,10 +141,7 @@
     "x:ylecun:2074510533252743613",
     "x:ylecun:2074500550947680368",
     "x:ylecun:2074499817661731084",
-    "x:ylecun:2074498680044823021",
-    "x:ylecun:2074442725814878510",
-    "x:ylecun:2074442439142609237",
-    "x:ylecun:2074440832971641120"
+    "x:ylecun:2074498680044823021"
   ],
   "rss:semianalysis": [
     "rss:semianalysis:anthropic-3q26-profit-over-1b-the",
@@ -114,45 +157,9 @@
     "rss:semianalysis:intel-should-raise-capital",
     "rss:semianalysis:deepseekv4-16t-day-0-to-day-43-performance"
   ],
-  "x:sama": [
-    "x:sama:2074909079450050629",
-    "x:sama:2074709023807664454",
-    "x:sama:2073791666553844074",
-    "x:sama:2073636003215249515",
-    "x:sama:2073635910512726444",
-    "x:sama:2072773542576586790",
-    "x:sama:2070614769678393846",
-    "x:sama:2070614666288795703",
-    "x:sama:2070612055225483692",
-    "x:sama:2070609922631537024",
-    "x:sama:2070608004500857256",
-    "x:sama:2070607488274358364",
-    "x:sama:2070533340416164196"
-  ],
-  "x:OpenAI": [
-    "x:OpenAI:2074907035225981169",
-    "x:OpenAI:2074907033577693636",
-    "x:OpenAI:2074907031862190406",
-    "x:OpenAI:2074907030343839925",
-    "x:OpenAI:2074907028733178359",
-    "x:OpenAI:2074907027378511884",
-    "x:OpenAI:2074907025537224840",
-    "x:OpenAI:2074897675343085993",
-    "x:OpenAI:2074871151302774869",
-    "x:OpenAI:2074704958419792299",
-    "x:OpenAI:2072004836674167294",
-    "x:OpenAI:2070555278576439306",
-    "x:OpenAI:2070555280052826429",
-    "x:OpenAI:2070555276370169969",
-    "x:OpenAI:2070555274835046430",
-    "x:OpenAI:2070555272230384038",
-    "x:OpenAI:2070555273467687257",
-    "x:OpenAI:2070196107699970398",
-    "x:OpenAI:2070196105745518913",
-    "x:OpenAI:2069846329287651765",
-    "x:OpenAI:2069843083701915755"
-  ],
   "telegram:globaletfi": [
+    "tg:globaletfi/20570",
+    "tg:globaletfi/20569",
     "tg:globaletfi/20568",
     "tg:globaletfi/20566",
     "tg:globaletfi/20565",
@@ -179,21 +186,6 @@
     "x:AnthropicAI:2074185354035245553",
     "x:AnthropicAI:2074185351304724498",
     "x:AnthropicAI:2074185348142280912"
-  ],
-  "x:demishassabis": [
-    "x:demishassabis:2074847444823674883",
-    "x:demishassabis:2074157282477154597",
-    "x:demishassabis:2072759122366509130",
-    "x:demishassabis:2071988044878516466",
-    "x:demishassabis:2070180154069176399",
-    "x:demishassabis:2069540952784699520",
-    "x:demishassabis:2069066675895337405",
-    "x:demishassabis:2068002732250640603",
-    "x:demishassabis:2065112147093545333",
-    "x:demishassabis:2065097165433983253",
-    "x:demishassabis:2064873362799600042",
-    "x:demishassabis:2064423388928790943",
-    "x:demishassabis:2064369125447864674"
   ],
   "x:karpathy": [
     "x:karpathy:2073047118801993910",
