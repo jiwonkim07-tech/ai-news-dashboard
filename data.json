@@ -1,22 +1,160 @@
 {
-  "updated_at": "2026-07-08T16:39:01+00:00",
+  "updated_at": "2026-07-08T18:17:51+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 2
+    "new_this_run": 14
   },
   "briefing": {
-    "headline": "애플, 미국 반도체 제조에 300억 달러 투자",
+    "headline": "OpenAI, 차세대 음성 모델 GPT-Live 출시",
     "bullets": [
+      "GPT-Live, 오늘부터 ChatGPT에서 출시",
+      "애플, 미국 반도체 제조에 300억 달러 투자",
       "BofA, IPO 앞둔 OpenAI에 5.2억달러 신용한도 제공",
       "파이슨, AI 저장장치 수요 폭발로 상반기 매출 1,000억 대만달러 돌파",
-      "SK하이닉스 주식 발행과 연관된 달러 매도로 원화 가치 최고치 경신",
-      "중국 성장률 전망 상향조정",
-      "트럼프, 이란에 대해 '합의 없이 진행할 수도 있다' 발언"
+      "한화, KAI 지분 15%로 늘릴듯"
     ],
-    "generated_at": "2026-07-08T16:39:01+00:00",
+    "generated_at": "2026-07-08T18:17:51+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:sama:2074909079450050629",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2074909079450050629",
+      "text": "GPT-live (next-generation voice) launches today in ChatGPT. it feels magical and 'real'. i have always preferred typing to talking to an AI, now i think that's going to shift.",
+      "images": [],
+      "summary_ko": "GPT-live(차세대 음성)가 오늘 ChatGPT에서 출시됩니다. 그것은 마술적이고 '현실'적인 느낌을 줍니다. 저는 항상 AI와 대화하는 것보다 타이핑하는 것을 선호했는데 이제는 그것이 바뀔 것이라고 생각합니다.",
+      "published_at": "2026-07-08T17:30:49+00:00"
+    },
+    {
+      "id": "x:OpenAI:2074907035225981169",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2074907035225981169",
+      "text": "R to @OpenAI: These new models are rolling out to everyone over the next few days, starting today. They’ll be available in ChatGPT across iOS, Android, and web. Coming soon to the API. Just tap the Voice button to talk with ChatGPT, and you’ll feel the magic of GPT-Live.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2074904241559547904/img/XXuY2oC8xbRXcrmY.jpg"
+      ],
+      "summary_ko": "R에서 @OpenAI로: 이 새로운 모델은 오늘부터 며칠에 걸쳐 모든 사람에게 출시됩니다. iOS, Android 및 웹의 ChatGPT에서 사용할 수 있습니다. 곧 API에 제공될 예정입니다. 음성 버튼을 탭하여 ChatGPT와 대화하면 GPT-Live의 마법을 느낄 수 있습니다.",
+      "published_at": "2026-07-08T17:22:41+00:00"
+    },
+    {
+      "id": "x:OpenAI:2074907033577693636",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2074907033577693636",
+      "text": "R to @OpenAI: For questions that require web search, deeper reasoning, or more complex work, GPT-Live can delegate to our latest frontier model behind the scenes, and brings the result back into the conversation when it's ready.",
+      "images": [
+        "https://pbs.twimg.com/media/HMuNuUwaEAAJPOs.jpg"
+      ],
+      "summary_ko": "R에서 @OpenAI로: 웹 검색, 더 깊은 추론 또는 더 복잡한 작업이 필요한 질문의 경우 GPT-Live는 배후에서 최신 개척 모델에 위임하고 준비가 되면 결과를 다시 대화에 가져올 수 있습니다.",
+      "published_at": "2026-07-08T17:22:41+00:00"
+    },
+    {
+      "id": "x:OpenAI:2074907031862190406",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2074907031862190406",
+      "text": "R to @OpenAI: A good voice model should be enjoyable to talk to, and GPT-Live is a great conversationalist with a more natural and defined personality than previous voice models.",
+      "images": [
+        "https://pbs.twimg.com/media/HMuNYU6bQAAV-aa.jpg"
+      ],
+      "summary_ko": "R에서 @OpenAI로: 좋은 음성 모델은 대화가 즐거워야 하며, GPT-Live는 이전 음성 모델보다 더 자연스럽고 정의된 성격을 지닌 훌륭한 대화가입니다.",
+      "published_at": "2026-07-08T17:22:40+00:00"
+    },
+    {
+      "id": "x:OpenAI:2074907030343839925",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2074907030343839925",
+      "text": "R to @OpenAI: Our full-duplex architecture allows the model to engage in more natural back-and-forth, maintain a better sense of time, and even perform live translation.",
+      "images": [
+        "https://pbs.twimg.com/media/HMuNQIFbIAACaMZ.jpg"
+      ],
+      "summary_ko": "R에서 @OpenAI로: 당사의 전이중 아키텍처를 통해 모델은 보다 자연스러운 앞뒤로 참여하고 더 나은 시간 감각을 유지하며 실시간 번역도 수행할 수 있습니다.",
+      "published_at": "2026-07-08T17:22:40+00:00"
+    },
+    {
+      "id": "x:OpenAI:2074907028733178359",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2074907028733178359",
+      "text": "R to @OpenAI: GPT-Live is built on a full-duplex architecture, meaning it can listen and speak at the same time.",
+      "images": [
+        "https://pbs.twimg.com/media/HMuNJVoa8AAQ4ws.jpg"
+      ],
+      "summary_ko": "R에서 @OpenAI로: GPT-Live는 전이중 아키텍처를 기반으로 구축되었습니다. 즉, 동시에 듣고 말할 수 있습니다.",
+      "published_at": "2026-07-08T17:22:40+00:00"
+    },
+    {
+      "id": "x:OpenAI:2074907027378511884",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2074907027378511884",
+      "text": "R to @OpenAI: GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice model yet. https://openai.com/index/introducing-gpt-live/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2074902018817486848/hrnPVINi?format=jpg&name=800x419"
+      ],
+      "summary_ko": "R에서 @OpenAI로: GPT-Live를 사용하면 AI와 대화하는 것이 실제 대화를 하는 것처럼 느껴집니다. 이는 또한 우리의 가장 똑똑한 음성 모델이기도 합니다. https://openai.com/index/introducing-gpt-live/",
+      "published_at": "2026-07-08T17:22:39+00:00"
+    },
+    {
+      "id": "x:OpenAI:2074907025537224840",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2074907025537224840",
+      "text": "Pinned: Introducing GPT-Live, a new generation of voice models for natural human-AI interaction. Rolling out in ChatGPT starting today. You’ll want to turn the sound on for this one.",
+      "images": [
+        "https://pbs.twimg.com/media/HMuNB0WboAE_A7s.jpg"
+      ],
+      "summary_ko": "고정됨: 자연스러운 인간-AI ​​상호 작용을 위한 차세대 음성 모델인 GPT-Live를 소개합니다. 오늘부터 ChatGPT에 출시됩니다. 이 소리에 대해서는 소리를 켜고 싶을 것입니다.",
+      "published_at": "2026-07-08T17:22:39+00:00"
+    },
+    {
+      "id": "x:OpenAI:2074897675343085993",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2074897675343085993",
+      "text": "The next generation of ChatGPT Voice is here. Livestream starts at 10am PT. https://openai.com/live/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2074911082687422464/PTPJzqk3?format=jpg&name=800x419"
+      ],
+      "summary_ko": "차세대 ChatGPT Voice가 출시되었습니다. 실시간 스트리밍은 오전 10시(태평양 표준시)에 시작됩니다. https://openai.com/live/",
+      "published_at": "2026-07-08T16:45:30+00:00"
+    },
+    {
+      "id": "x:OpenAI:2074871151302774869",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2074871151302774869",
+      "text": "Listen up. Livestream at 10am.",
+      "images": [
+        "https://pbs.twimg.com/media/HMttZeeaEAAvJdn.jpg"
+      ],
+      "summary_ko": "잘 들어보세요. 오전 10시 실시간 스트리밍.",
+      "published_at": "2026-07-08T15:00:06+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23380",
       "source": "telegram",
@@ -100,6 +238,18 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-08T13:34:43+00:00"
+    },
+    {
+      "id": "x:demishassabis:2074847444823674883",
+      "source": "x",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2074847444823674883",
+      "text": "RT by @demishassabis: What's something that you're surprised @GeminiApp can't do well, and we should have fixed a long time ago?",
+      "images": [],
+      "summary_ko": "RT by @demishassabis: @GeminiApp이 제대로 작동하지 않아서 우리가 오래 전에 고쳐야 했던 점에 놀랐나요?",
+      "published_at": "2026-07-08T13:25:54+00:00"
     },
     {
       "id": "tg:EMchina/31413",
@@ -660,7 +810,7 @@
       "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2074704958419792299",
-      "text": "Pinned: GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.",
+      "text": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.",
       "images": [
         "https://pbs.twimg.com/media/HMrU7U7bwAEO8yf.jpg"
       ],
@@ -1419,7 +1569,7 @@
       "url": "https://x.com/karpathy/status/2073047118801993910",
       "text": "RT by @karpathy: I spent a LOT of time through the hardest 3D prompts at Fable, it is a 45 min video, but I have 60+ very cool demos for you. Also prompts in the next post. https://www.youtube.com/watch?v=rTc2_-1KuRE",
       "images": [
-        "https://pbs.twimg.com/card_img/2073047029127802882/J8phVX55?format=jpg&name=800x320_1"
+        "https://pbs.twimg.com/card_img/2073697833124044800/Si6m_H4x?format=jpg&name=800x320_1"
       ],
       "summary_ko": "@karpathy의 RT: 저는 Fable에서 가장 어려운 3D 프롬프트를 통해 많은 시간을 보냈습니다. 45분짜리 동영상이지만 여러분을 위한 60개 이상의 매우 멋진 데모가 있습니다. 다음 포스팅에서도 안내드립니다. https://www.youtube.com/watch?v=rTc2_-1KuRE",
       "published_at": "2026-07-03T14:12:03+00:00"
@@ -1761,86 +1911,6 @@
       "published_at": "2026-06-26T17:10:22+00:00"
     },
     {
-      "id": "x:OpenAI:2070555280052826429",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2070555280052826429",
-      "text": "R to @OpenAI: GPT‑5.6 Sol launches with our most robust safety stack yet. We strengthened real-time protections against high-risk cyber activity and repeated misuse, then spent weeks hardening the system with human red teaming and over 700,000 A100-equivalent GPU hours of automated testing.",
-      "images": [],
-      "summary_ko": "R에서 @OpenAI로: GPT‑5.6 Sol은 지금까지 가장 강력한 안전 스택과 함께 출시되었습니다. 우리는 고위험 사이버 활동과 반복적인 오용에 대한 실시간 보호를 강화한 다음 인간 레드 팀 구성과 700,000 A100에 상응하는 GPU 시간의 자동화 테스트를 통해 시스템을 강화하는 데 몇 주를 보냈습니다.",
-      "published_at": "2026-06-26T17:10:22+00:00"
-    },
-    {
-      "id": "x:OpenAI:2070555276370169969",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2070555276370169969",
-      "text": "R to @OpenAI: GPT‑5.6 Sol sets a new state of the art on Terminal‑Bench 2.1, which tests complex command-line workflows requiring planning, iteration, and tool coordination.",
-      "images": [
-        "https://pbs.twimg.com/media/HLwV_VoaMAAYc6s.png"
-      ],
-      "summary_ko": "R에서 @OpenAI로: GPT‑5.6 Sol은 계획, 반복 및 도구 조정이 필요한 복잡한 명령줄 워크플로를 테스트하는 Terminal‑Bench 2.1에서 새로운 최첨단 기술을 설정합니다.",
-      "published_at": "2026-06-26T17:10:21+00:00"
-    },
-    {
-      "id": "x:OpenAI:2070555274835046430",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2070555274835046430",
-      "text": "R to @OpenAI: Sol is our new flagship and a step function better than GPT-5.5. Terra delivers performance competitive to GPT-5.5 at 2x lower cost. Luna is our most cost-efficient model, delivering strong capability at our lowest cost. Together, the GPT-5.6 family gives people and developers more choice in how they balance intelligence, speed, and cost.",
-      "images": [
-        "https://pbs.twimg.com/media/HLwVmzhbAAAeIPi.jpg"
-      ],
-      "summary_ko": "R에서 @OpenAI로: Sol은 우리의 새로운 주력 제품이자 GPT-5.5보다 나은 단계 기능입니다. Terra는 2배 더 저렴한 비용으로 GPT-5.5에 비해 경쟁력 있는 성능을 제공합니다. Luna는 가장 저렴한 비용으로 강력한 기능을 제공하는 가장 비용 효율적인 모델입니다. GPT-5.6 제품군은 사람들과 개발자에게 인텔리전스, 속도 및 비용의 균형을 맞추는 방법에 대해 더 많은 선택권을 제공합니다.",
-      "published_at": "2026-06-26T17:10:21+00:00"
-    },
-    {
-      "id": "x:OpenAI:2070555272230384038",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2070555272230384038",
-      "text": "Introducing a limited preview of GPT-5.6 Sol, our next generation frontier model, as well as GPT-5.6 Terra, a balanced model for efficient, everyday work, and GPT-5.6 Luna, a fast and affordable model for high-volume work. https://openai.com/index/previewing-gpt-5-6-sol/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2073096906520276992/iBEYbYjc?format=jpg&name=800x419"
-      ],
-      "summary_ko": "차세대 프론티어 모델인 GPT-5.6 Sol과 효율적인 일상 업무를 위한 균형 잡힌 모델인 GPT-5.6 Terra, 대용량 작업을 위한 빠르고 저렴한 모델인 GPT-5.6 Luna의 한정판 미리보기를 소개합니다. https://openai.com/index/previewing-gpt-5-6-sol/",
-      "published_at": "2026-06-26T17:10:20+00:00"
-    },
-    {
-      "id": "x:OpenAI:2070555273467687257",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2070555273467687257",
-      "text": "R to @OpenAI: We believe in broad access and plan to make GPT-5.6 Sol, Terra, and Luna generally available in the coming weeks. For now, at the request of the U.S. government, we’re starting with a limited preview among a small group of trusted partners in Codex and the API.",
-      "images": [],
-      "summary_ko": "R에서 @OpenAI로: 우리는 광범위한 액세스를 믿으며 앞으로 몇 주 안에 GPT-5.6 Sol, Terra 및 Luna를 일반적으로 사용할 수 있도록 할 계획입니다. 현재로서는 미국 정부의 요청에 따라 Codex 및 API의 신뢰할 수 있는 소규모 파트너 그룹을 대상으로 제한된 미리보기를 시작하고 있습니다.",
-      "published_at": "2026-06-26T17:10:20+00:00"
-    },
-    {
-      "id": "x:sama:2070533340416164196",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2070533340416164196",
-      "text": "RT by @sama: The OpenAI Foundation is joining Intercept as a founding partner through our AI resilience program. As AI accelerates advances in biology and medicine, we also need to prepare for the risks of misuse, including the potential for engineered outbreaks. Intercept Health Fund is working to end respiratory pandemics through a pathogen-agnostic approach, investing in broad-spectrum preventatives and non-pharmaceutical interventions that can protect against a wide range of threats and strengthen a new layer of resilience for humanity. https://blog.interceptfund.com/p/ending-respiratory-infections",
-      "images": [
-        "https://pbs.twimg.com/card_img/2072619205283962882/0WG8BQRj?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@sama의 RT: OpenAI 재단은 AI 탄력성 프로그램을 통해 Intercept의 창립 파트너로 합류했습니다. AI가 생물학과 의학 분야의 발전을 가속화함에 따라 우리는 공학적 발병 가능성을 포함하여 오용의 위험에도 대비해야 합니다. Intercept Health Fund는 병원균에 구애받지 않는 접근 방식을 통해 호흡기 전염병을 종식시키기 위해 노력하고 있으며 광범위한 위협으로부터 보호하고 인류의 새로운 탄력성을 강화할 수 있는 광범위한 예방 조치 및 비약물적 개입에 투자하고 있습니다. https://blog.interceptfund.com/p/ending-respiratory-infections",
-      "published_at": "2026-06-26T15:43:11+00:00"
-    },
-    {
       "id": "x:GoogleDeepMind:2070300619257106819",
       "source": "x",
       "author": "GoogleDeepMind",
@@ -1869,35 +1939,6 @@
       "published_at": "2026-06-25T19:48:39+00:00"
     },
     {
-      "id": "x:OpenAI:2070196107699970398",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2070196107699970398",
-      "text": "R to @OpenAI: openai.com/index/how-agents-…",
-      "images": [
-        "https://pbs.twimg.com/card_img/2073200867751219200/DpPJc06W?format=jpg&name=800x419"
-      ],
-      "summary_ko": "R에서 @OpenAI로: openai.com/index/how-agents-…",
-      "published_at": "2026-06-25T17:23:09+00:00"
-    },
-    {
-      "id": "x:OpenAI:2070196105745518913",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2070196105745518913",
-      "text": "Work at OpenAI is being transformed by agents, in every department. Across our entire company, people are using Codex to do work that is more complex, longer-running, and increasingly cross-functional. Our internal usage offers an early look at how agentic tools may reshape work as they become more capable and broadly available.",
-      "images": [
-        "https://pbs.twimg.com/media/HLrPzbMbwAAlYZc.jpg",
-        "https://pbs.twimg.com/media/HLrQXd1boAEL03p.jpg"
-      ],
-      "summary_ko": "OpenAI의 업무는 모든 부서의 에이전트에 의해 변화되고 있습니다. 우리 회사 전체에서 사람들은 Codex를 사용하여 더욱 복잡하고 오래 지속되며 점점 더 다양한 기능을 수행하는 작업을 수행하고 있습니다. 우리의 내부 사용법은 에이전트 도구가 더욱 유능하고 광범위하게 사용 가능해짐에 따라 작업을 어떻게 재구성할 수 있는지 조기에 보여줍니다.",
-      "published_at": "2026-06-25T17:23:08+00:00"
-    },
-    {
       "id": "x:demishassabis:2070180154069176399",
       "source": "x",
       "author": "demishassabis",
@@ -1910,32 +1951,6 @@
       ],
       "summary_ko": "@demishassabis의 RT: Gemma 4가 단 2.5개월 만에 2억 다운로드를 기록했습니다! 상황에 따라 Gemma 3을 출시했을 때 전체 Gemma 모델 제품군의 총 다운로드 수는 1억 건에 달했습니다. 커뮤니티의 가속화는 놀랍습니다. Gemma와 함께 만들어가는 모든 분들께 감사드립니다. 개발자가 어떻게 실제 세계에 영향을 미치고 있는지 살펴보세요.",
       "published_at": "2026-06-25T16:19:45+00:00"
-    },
-    {
-      "id": "x:OpenAI:2069846329287651765",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2069846329287651765",
-      "text": "RT by @OpenAI: I’m very excited about this article from @OpenAI on my attempt to use GPT-5 Pro to understand the results of an experiment we did several years ago. Remarkably, GPT-5 Pro figured out the key mechanisms, as explained in the article & infographic below! https://openai.com/index/gpt-5-immunology-mystery/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2074706208942858240/UCuSu7kE?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@OpenAI의 RT: 몇 년 전에 수행한 실험 결과를 이해하기 위해 GPT-5 Pro를 사용하려는 시도에 대한 @OpenAI의 이 기사가 매우 기쁩니다. 놀랍게도 GPT-5 Pro는 아래 기사 및 인포그래픽에 설명된 대로 핵심 메커니즘을 파악했습니다! https://openai.com/index/gpt-5-immunology-mystery/",
-      "published_at": "2026-06-24T18:13:15+00:00"
-    },
-    {
-      "id": "x:OpenAI:2069843083701915755",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2069843083701915755",
-      "text": "We have a new version of GPT-5.5 Instant for you, and it's much more fun to talk to. Our most-used model is now better at understanding the intent behind a question and adapting its response accordingly. It also handles complex constraints more reliably and makes shopping and local recommendations more useful and cohesive. Rolling out today to paid users, tomorrow to free users.",
-      "images": [],
-      "summary_ko": "GPT-5.5 Instant의 새 버전이 출시되어 대화가 훨씬 더 재미있어졌습니다. 우리가 가장 많이 사용하는 모델은 이제 질문 뒤의 의도를 더 잘 이해하고 이에 따라 응답을 조정하는 데 더 능숙합니다. 또한 복잡한 제약 조건을 보다 안정적으로 처리하고 쇼핑 및 지역 추천을 더욱 유용하고 응집력 있게 만듭니다. 오늘은 유료 사용자에게, 내일은 무료 사용자에게 출시됩니다.",
-      "published_at": "2026-06-24T18:00:21+00:00"
     },
     {
       "id": "x:karpathy:2069547676849557725",
@@ -2195,20 +2210,6 @@
       "published_at": "2026-06-09T18:10:00+00:00"
     },
     {
-      "id": "x:demishassabis:2064369125447864674",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2064369125447864674",
-      "text": "RT by @demishassabis: Introducing Gemini 3.5 Flash Live Translate, our real time speech to speech translation model which supports more than 70 languages (both in and out), and is so natural. It is available in the Gemini API, AI Studio, & Google Translate right now + coming soon to Google Meet!!",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2064368829183213569/img/8jtlq3eUHx5d-MbJ.jpg"
-      ],
-      "summary_ko": "@demishassabis의 RT: 70개 이상의 언어(안팎 모두)를 지원하고 매우 자연스러운 실시간 음성 대 음성 번역 모델인 Gemini 3.5 Flash Live Translate를 소개합니다. 현재 Gemini API, AI Studio 및 Google 번역에서 사용할 수 있으며 Google Meet에도 곧 제공될 예정입니다!!",
-      "published_at": "2026-06-09T15:28:48+00:00"
-    },
-    {
       "id": "x:GoogleAI:2064366505630802081",
       "source": "x",
       "author": "GoogleAI",
@@ -2217,7 +2218,7 @@
       "url": "https://x.com/GoogleAI/status/2064366505630802081",
       "text": "R to @GoogleAI: Read the blog to learn more: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
       "images": [
-        "https://pbs.twimg.com/card_img/2071789095446044672/ZN4DrKXN?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2071789095446044672/AzpFIMbg?format=jpg&name=800x419"
       ],
       "summary_ko": "R에서 @GoogleAI로: 자세한 내용은 블로그를 읽어보세요. https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
       "published_at": "2026-06-09T15:18:23+00:00"
