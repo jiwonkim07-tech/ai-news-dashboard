@@ -1,22 +1,177 @@
 {
-  "updated_at": "2026-07-08T20:20:44+00:00",
+  "updated_at": "2026-07-08T22:05:47+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 6
+    "new_this_run": 19
   },
   "briefing": {
-    "headline": "메타, 캐나다에 130억 달러 데이터센터 건설",
+    "headline": "엔비디아에 대한 투자 노트 배포",
     "bullets": [
-      "OpenAI, 차세대 음성 모델 GPT-Live 출시",
+      "SK하이닉스, 뉴욕 나스닥에서 특별 인터뷰",
+      "OpenAI, SWE-Bench Pro 감사 결과 공개",
+      "중국, 엔비디아 H200 칩 구매 허용 계획",
       "애플, 미국 반도체 제조에 300억 달러 투자",
-      "엔비디아 H200 칩, 중국 주요 AI 기업에 제한적 구매 허용",
-      "BofA, OpenAI에 5.2억달러 신용한도 제공",
-      "파이슨, AI 저장장치 수요 폭발로 상반기 매출 1,000억 대만달러 돌파"
+      "파이슨, AI 저장장치 수요 폭발로 매출 증가"
     ],
-    "generated_at": "2026-07-08T20:20:44+00:00",
+    "generated_at": "2026-07-08T22:05:47+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/18966",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/18966",
+      "text": "씨티(Citi)가 방금 엔비디아(Nvidia)에 대한 투자 노트를 배포했습니다.\n씨티가\n엔비디아의 IR(투자자 관계) 팀과 논의하여 파악한 내용은 다음과 같습니다:\n카이버 루빈 울트라(Kyber Rubin Ultra)의 지연 여부:\n관련 질문에 대해 엔비디아는 자사의 로드맵이 \"\n전혀 차질 없이 진행 중(fully intact\n)\"이며, 컴퓨텍스(Computex)에서 공개했던 NVLink 도메인 역시 \"변함이 없다\"고 밝혔습니다.\nCPO 생산 및 채택:\n엔비디아는 스케일아웃(scale-out)용 CPO(Co-Packaged Optics)가 현재 생산 중임을 거듭 강조했습니다. 올해 하반기에 기술 도입과 관련된 구체적인 세부 사항을 추가로 발표할 예정입니다. 스케일아웃용 CPO에 대한 고객 채택률은 \"높은(high)\" 수준입니다.\n파인만(Feynman) 아키텍처 옵션:\n고객들은 2028년(CY2028) 파인만 아키텍처부터 CPO가 적용된 NVLink 또는 구리(copper) 기반 기술 중 하나를 선택할 수 있게 됩니다.\n수요 동향:\n엔비디아는 계속해서 시장의 \"매우 강력한 수요(very strong demand)\"를 확인하고 있습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-08T22:03:31+00:00"
+    },
+    {
+      "id": "tg:bornlupin/18965",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/18965",
+      "text": "미국 뉴욕 나스닥(NASDAQ) 현장에서 진행되는 SK하이닉스 최태원 회장과의 특별 인터뷰\n$SKHY\n​\n방송 시간:\n​미국 현지 시간: 7월 12일 오전 9시 (CT, 미국 중부 시간 기준)\n​\n한국 시간 (KST): 7월 12일 오후 11시",
+      "images": [
+        "https://cdn5.telesco.pe/file/pM1rJ8WBae2U70phXiS6iH9YvQ1m_q0yZse4IIxAsCu31yFOCXRNsQqe4E0cCTxtSRTW2QugRflx2HOmjMzCeoJc32OfcDcGp_1rxzDOK0OSb2mnLAAvwBZLYgHTwpkgSDdu-CKE8BA4Zgwvr5MPM_GlA2rwEALj_ODILb_XEUtvXnzVad_aH7y52uaC6kjPNES0LTCThrqvre6q6XNS5Y5bHUh9gC5hgCMr4hoDBqSK3m7UKyI8GWoyPQSwzlAyrpn_HxKMVauDSXbPuIz7KQpfXAdoQoFaenm2urldSf8Y66BDsYmgGvKkbB7hT0r9F5GczRj_GOX7-RpSrKyo1Q.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-08T21:57:15+00:00"
+    },
+    {
+      "id": "x:OpenAI:2074972185895342084",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2074972185895342084",
+      "text": "R to @OpenAI: As coding models improve, evals need to become harder, fairer, and more trustworthy. Better benchmarks help the field understand real progress and where the frontier is moving.",
+      "images": [],
+      "summary_ko": "R에서 @OpenAI로: 코딩 모델이 향상됨에 따라 평가는 더욱 어렵고 공정하며 신뢰할 수 있어야 합니다. 더 나은 벤치마크는 현장에서 실제 진행 상황과 개척자가 어디로 이동하는지 이해하는 데 도움이 됩니다.",
+      "published_at": "2026-07-08T21:41:34+00:00"
+    },
+    {
+      "id": "x:OpenAI:2074972182640492731",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2074972182640492731",
+      "text": "R to @OpenAI: To audit SWE-Bench Pro, we used model-based investigator agents alongside independent reviews from five independent experienced software engineers. That helped us examine tasks at scale while keeping expert judgment at the center.",
+      "images": [
+        "https://pbs.twimg.com/media/HMvHVlxbQAA67vB.png"
+      ],
+      "summary_ko": "R에서 @OpenAI로: SWE-Bench Pro를 감사하기 위해 우리는 숙련된 5명의 독립적인 소프트웨어 엔지니어의 독립적인 검토와 함께 모델 기반 조사 에이전트를 사용했습니다. 이는 전문가 판단을 중심으로 유지하면서 대규모로 작업을 검토하는 데 도움이 되었습니다.",
+      "published_at": "2026-07-08T21:41:34+00:00"
+    },
+    {
+      "id": "x:OpenAI:2074972180769907186",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2074972180769907186",
+      "text": "R to @OpenAI: Our audit of SWE-Bench Pro found that a meaningful share of public tasks contain issues that can distort results. Some correct solutions fail because of hidden requirements, contradictory instructions, overly strict tests, or incomplete grading criteria.",
+      "images": [
+        "https://pbs.twimg.com/media/HMvHRLsbIAAFJAi.png"
+      ],
+      "summary_ko": "R에서 @OpenAI로: SWE-Bench Pro에 대한 감사에서는 공개 작업의 의미 있는 공유에 결과를 왜곡할 수 있는 문제가 포함되어 있는 것으로 나타났습니다. 일부 올바른 솔루션은 숨겨진 요구 사항, 모순되는 지침, 지나치게 엄격한 테스트 또는 불완전한 채점 기준으로 인해 실패합니다.",
+      "published_at": "2026-07-08T21:41:33+00:00"
+    },
+    {
+      "id": "x:OpenAI:2074972179385720836",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2074972179385720836",
+      "text": "We audited SWE-Bench Pro, one of the most widely used AI coding benchmarks, and found it no longer reliably measures frontier coding capability. We find 30% of SWE-Bench Pro tasks to be broken, and are retracting our previous recommendation that the research community use it as a leading coding eval. https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2074947970945216512/mwA5m1c3?format=jpg&name=800x419"
+      ],
+      "summary_ko": "우리는 가장 널리 사용되는 AI 코딩 벤치마크 중 하나인 SWE-Bench Pro를 감사한 결과 더 이상 프론티어 코딩 기능을 안정적으로 측정하지 못하는 것으로 나타났습니다. 우리는 SWE-Bench Pro 작업의 30%가 손상되었음을 확인했으며 연구 커뮤니티에서 이를 선도적인 코딩 평가로 사용하라는 이전 권장 사항을 철회합니다. https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "published_at": "2026-07-08T21:41:33+00:00"
+    },
+    {
+      "id": "tg:EMchina/31419",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31419",
+      "text": "• 중국증권감독관리위원회: CXMT IPO 승인  >> 이제 로드쇼  证监会：批复同意长鑫科技集团股份有限公司首次公开发行股票注册。",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-08T21:36:22+00:00"
+    },
+    {
+      "id": "tg:EMchina/31418",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31418",
+      "text": "지난주 미국 EIA 원유재고 예상외 300만배럴 급증. 석유재고는 여전히  1984년 이래 최저\n• 미국은 지난주 EIA 원유 재고 300만배럴 증가. 시장예상은 -187만배럴 감소. 미국 상업용 원유 재고가 4월 이후 처음으로 증가한 것. 다만 여전히 약 4년래 최저 수준\n• 동시에 석유 재고(전략적 석유 비축 SPR 포함)는 1984년 이후 최저. '미국의 장기적인 글로벌 최종 공급자 역할 유지' 기대 약화\n美国上周EIA原油库存意外大增300万桶，石油库存创1984年以来新低\n美国上周EIA原油库存增加300万桶，分析师预期减少187万桶。这是美国商业原油库存自4月以来首次增加，不过仍处于约四年来最低水平。同时石油库存（含战略石油储备SPR）创1984年以来新低。市场对于“美国可能难以长期维持全球最后供应者角色”的预期强化。\nhttps://wallstreetcn.com/articles/3776495#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-08T20:56:42+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20572",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20572",
+      "text": "» WTI, Brent 유가는 +6%~+7% 대 상승",
+      "images": [
+        "https://cdn5.telesco.pe/file/uNmgKcxBIhq4exT6fv4eTwgUXWQqasJNmmDdCg5DogO-CzOVneTskHx7LTbmjxG-dAG3Qog3yXU7usY6UpAu91V7NmqAkwxHIB94l2g_4VZwZOlSB5smGA9vgYnTEaT6ucrjFDArktMx86vlFgj2PM5auPE4-fsQm0koOKyh7ShMPqxFrO2z3sC89vKA3N28eetUY32lz-_Oc4UI8srEj6Ou2s4PpuykzCqXIHsiTxsPlUI0fwffbqnjGiL98BbvlJIwE5cdWsKPEH1iHqj-iqy2LOreg-6zj2tlFB1lUu75tNS2OQVqmXSGw6b7eredV_xNpt3r_DUrmrHq9a5Lnw.jpg",
+        "https://cdn5.telesco.pe/file/pwXBSYzCakTooUkuWTaOeyMAq3ya2Y4OSAWN_0KpBIuvRkRZs6cwQWRHtnHPZXd9ajzTm0CJL5gfVZuuJve8qYRQiC2tDTGL28g95Z83YCaGxd8l-ocYAgXCjQmSRRaO1p_Gkyn4EEqWzmOkOCu3zkRIw6X5jJhN9SGhXWoufWH3hm1T2CsgGKg82qx78ibjDOdeHj7NAGaWqJ2FkzXvbP5nPz24oJo0yKqnB95cpkDPehkQrnIibeWngDfzEbryi7eggniqcfsrckGK0uvmE3A8sIex8hIaoJmiHnJz16g9LZZH5ebztdnqraTAq8vXtlzmnXCQtUnvULunz4vRHQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-08T20:48:01+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20571",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20571",
+      "text": "» 군사충돌이 재개되면서 유가와 금리가 반등\n이란 매체 \"이란 남부 반다르아바스·시리크서 연쇄 폭발음\"\n- \"동남부 차바하르·코나락 주민들도 폭발음 들어\"\n- \"미군 추가 공습·방공망 가동 여부는 파악 안돼\"\nhttps://n.news.naver.com/article/001/0016183909?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-08T20:47:05+00:00"
+    },
+    {
+      "id": "tg:bornlupin/18964",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/18964",
+      "text": "블룸 에너지\n$BE\n- 공매도 보고서 검토 중, 사실관계 바로잡을 예정 - 블룸버그 보도\n아래 내용은 블룸에너지 공식 홈페이지 7월 7일자 내용\n1. 산화스칸듐의 역할과 효과 (핵심 첨가제)\n성능 증폭기 (도펀트):\n블룸 연료 전지의 핵심인 초박형 세라믹 기판(주로 산화지르코늄)에 소량 첨가되어 전해질의 성능을 극대화하는 '도펀트' 역할을 합니다.\n효율성 극대화:\n산소가 전해질을 더 쉽고 효율적으로 통과하게 만들어,\n성능 향상, 수명 연장, 연료 소비량 감소\n라는 결과를 가져옵니다.\n설계 최적화:\n전해질 성능이 최적화됨에 따라, 동일한 전력을 생산하는 데 필요한 연료 전지 층의 수를 획기적으로 줄일 수 있습니다.\n2. 사용량: '소금 한 꼬집'의 기적\n단일 연료 전지에 사용되는 산화스칸듐의 총량은\n극히 적습니다\n(마치 음식에 소금을 살짝 뿌리는 정도).\n하지만 이 아주 적은 양으로도 연료 전지의 성능을 불균형적으로 크게 향상시키는 결정적인 역할을 합니다.\n3. 스칸듐 '희소성'에 대한 오해와 진실\n풍부한 매장량:\n스칸듐은 '희토류'로 분류되지만, 실제로는 지구 지각에 납(Lead)보다 더 많이 존재할 정도로 풍부합니다.\n문제는 '농도':\n스칸듐만 단독으로 채굴할 만큼 한 곳에 농축되어 있는 경우가 드뭅니다. 단독 채굴을 위해 막대한 광석을 처리하는 것은 경제적으로 비효율적입니다. 즉, 절대적인 양이 부족한 것이 아니라\n채굴의 경제성 문제\n입니다.\n4. 블룸 에너지의 독창적인 조달 전략 (폐기물 재활용)\n직접 채굴(X) 부산물 회수(O):\n블룸은 스칸듐 전용 광산을 파는 대신, 티타늄, 니켈, 코발트 등을 가공하는 기존 산업의\n폐기물(찌꺼기)에서 산화스칸듐을 회수\n하는 독자적인 공정을 개발했습니다.\n친환경 및 안정성:\n골칫거리인 산업 폐기물을 고부가가치 첨가제로 탈바꿈시켜, 1차 채굴에 대한 의존도를 낮추고 안정적이고 확장 가능한 공급원을 확보했습니다.\n5. 압도적 규모와 공급망 회복력\n세계 최대 소비 기업:\n블룸 에너지는 스스로를 세계 최대의 산화스칸듐 소비 기업으로 칭하며, 이는 연료 전지 기술을 넘어 공급망 자체를 강력한 '경쟁 우위'로 만들었습니다.\n특정 국가 의존도 탈피:\n중국 등 특정 국가나 단일 공급업체에 의존하지 않고, 캐나다, 호주 등 전 세계 다양한 국가의 산업 시설에서 산화스칸듐을 조달하는 다각화된 네트워크를 구축했습니다.\n미래 확장성:\n현재 구축된 글로벌 공급망만으로도\n연간 최대 25GW의 생산 능력을 지원\n할 수 있으며, 향후 지속적으로 조달 규모를 확장할 계획입니다.\nhttps://x.com/i/status/2074939384533762332",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-08T20:33:04+00:00"
+    },
+    {
+      "id": "tg:bornlupin/18963",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/18963",
+      "text": "베어드(BAIRD), 블룸 에너지( $BE)에 대한 옹호(방어) 의견을 내놓았습니다.\n목표주가 310달러\n​베어드는 최근 언급된 공매도 보고서(short report)가 '오래되고 재탕된(recycled)' 내용이라고 지적하며, 해당 보고서는 주요 리스크가 아니라고 평가했습니다.\n​또한 베어드는 \"당사는 제품 수주 잔고(backlog)가 작년 연말 60억 달러($6B)에서 현재 보수적으로 추정해도 140억 달러(>$14B) 이상으로 두 배 넘게 증가했을 것으로 추정합니다.\"라고 덧붙였습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-08T20:31:11+00:00"
+    },
     {
       "id": "tg:globaletfi/20570",
       "source": "telegram",
@@ -214,20 +369,6 @@
       "published_at": "2026-07-08T16:45:30+00:00"
     },
     {
-      "id": "x:OpenAI:2074871151302774869",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2074871151302774869",
-      "text": "Listen up. Livestream at 10am.",
-      "images": [
-        "https://pbs.twimg.com/media/HMttZeeaEAAvJdn.jpg"
-      ],
-      "summary_ko": "잘 들어보세요. 오전 10시 실시간 스트리밍.",
-      "published_at": "2026-07-08T15:00:06+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/23380",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -306,7 +447,7 @@
       "author_name": "한투증권 중국/신흥국 정정영",
       "author_url": "https://t.me/EMchina",
       "url": "https://t.me/EMchina/31414",
-      "text": "BofA, IPO 앞둔 OpenAI에 5.2억달러 규모 신용한도 제공\n美银向OpenAI提供5.2亿美元信贷额度，以争取IPO承销席位。\nhttps://share.google/H1MfPwJVSdhRbIYld",
+      "text": "BofA, IPO 앞둔 OpenAI에 5.2억달러 규모 신용한도 제공\n美银向OpenAI提供5.2亿美元信贷额度，以争取IPO承销席位。\nhttps://kr.investing.com/news/stock-market-news/article-93CH-2009291",
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-08T13:34:43+00:00"
@@ -550,20 +691,6 @@
       "published_at": "2026-07-08T09:12:09+00:00"
     },
     {
-      "id": "tg:bornlupin/18954",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/18954",
-      "text": "Javier Blas - 블룸버그(Bloomberg)의 에너지 및 원자재 칼럼니스트\n이란에 대한 도널드 트럼프 미국 대통령의 발언:\n\"\n내 입장에서는\" 휴전은 끝났습니다.\n그는 \"나는 더 이상 그들과 상대하고 싶지 않다\"\n고 말합니다.\n하지만 그러고 나서\n협상가들이 계속 대화를 이어가도록 두겠다고 말합니다. 그러나 \"내 생각에 그들은 시간을 낭비하고 있는 것 같다\"\n고 덧붙였습니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/r_aKSFQDp94GYPySungBHcUSUz02HGidC6QoXmNiwTdQPkaOsTGCepFrHptV-MEo9HQ-m-HBMs1u4r0iwXwyJuf9hduzwWBYGL2ld3VmiPNX8se6AaqMLLNFYfqLtGCVK34DkmLC4Bd5XirT1sX5lbmn9l08nW_yDqu1ZX20pngne16J1ZDYX5r1UbzniyRYCgRD4xwvYzM4SU54BfY1UKtYc8X0zoL9lsjuAsvD7FjFzEOtnwkCLa59F0yyb5ISEF5Fe2B_kbpWj0FAol1pAbWFhtj5uSPh_ThCB8Q4LPMALWonm61u5-YaJHmzzLOdyGXqYiBkip6PE_fxZKkF6w.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-08T08:36:02+00:00"
-    },
-    {
       "id": "tg:enc210406/4111",
       "source": "telegram",
       "author": "enc210406",
@@ -666,30 +793,6 @@
       "published_at": "2026-07-08T07:50:09+00:00"
     },
     {
-      "id": "tg:EMchina/31407",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31407",
-      "text": "산업 구조조정 중 하나\n==========================\n~ 8일 중국 경제 매체 차이신에 따르면 중국 규제 당국은 최근 최고 신용등급인 AAA를 부여 받은 기업에 대한 광범위한 재무 점검을 진행 중이다. 특히 신용등급 부여 근거가 부족한 기업들을 솎아내는데 집중하는 것으로 알려졌다\nhttps://naver.me/FJOz6QQd",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-08T07:49:38+00:00"
-    },
-    {
-      "id": "tg:bornlupin/18953",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/18953",
-      "text": "SK하이닉스 주식 발행과 연관된 달러 매도로 원화 가치 1개월 만에 최고치 경신\n대규모 달러 조달:\nS\nK하이닉스가 미국 시장에서 주식예탁증서(ADR)를 발행하여 43조 원(약 286억 6천만 달러) 규모의 자금을 조달합니다. 이는 AI 붐에 올라탄 전 세계 최대 규모의 주식 발행 중 하나\n입니다.\n원화 가치 상승(환율 하락):\n조달한 달러를\n원화 자본지출(Capex)에 사용하기 위해 환전(달러 매도/원화 매수)하는 선도 거래가 수요일 외환시장에 나타났습니다.\n이로 인해 원화는 1% 강세를 보이며 심리적 저항선인 1,500원 선을 뚫고, 5월 29일 이후 최고치(환율 최저치)인 달러당 1,498.1원을 기록했습니다.\n시장 전망:\n해당 자금은 7월 15일경 국내로 유입될 예정입니다.\n기획재정부 관계자와 시장 전문가들은 이러한\n대규모 달러 매도 흐름이 하반기 달러-원 외환시장의 수급 판도를 바꿀 중요한 요인이라고 분석\n한국의 달러-원 선도 시장에서\n한국 반도체 기업 SK하이닉스의 미국 주식 발행과 관련된 달러 매도 물량이 출회되며 원화 가치가 1개월 만에 최고치로 치솟았다\n고 소식통이 로이터에 전했다.\n사안의 민감성을 이유로 익명을 요구한 이 소식통은 \"\n오늘 SK하이닉스의 미국 주식예탁증서(ADR)와 관련된 선도 매도가 있었다\n\"고 밝혔다.\n이번 주 초,\nSK하이닉스는 43조 원(286억 6천만 달러)을 조달하기 위해 미국 주식 발행에 착수했으며, 전 세계 최대 규모의 주식 발행 중 하나로서 AI 붐을 타고 주요 투자자들로부터 무려 70억 달러에 달하는 투자 의향\n을 이끌어냈다.\n로이터의 화요일 보도에 따르면\n, SK하이닉스는 7월 15일경 미국 달러를 국내로 들여올 예정\n이며\n, ADR 발행을 통해 조달한 자금의 일부를 원화로 환전할 것으로 예상\n된다.\n원화는 달러 대비 1% 강세를 보이며 1,500원 선을 돌파했고, 달러당 1,498.1원으로 5월 29일 이후 최고치를 기록했다.\n시장 분석 회사 스펙트라 마켓(Spectra Markets)의 브렌트 도넬리 사장은\n\"이는 원화 표기 설비투자(capex) 자금을 조달하기 위한 신규 달러 자본의 유입\"이라며, \"자금의 사용처가 원화(KRW)인 거대한 규모의 달러 수취 채권과 같다\"\n고 설명했다.\n도넬리 사장은 \"외환 트레이더들은 타이밍, 헤징, 스와프, 결제 등을 두고 논쟁하겠지만, 1차적인 신호는 명확하다. 이것은 달러 매도, 원화 매수 이벤트라는 점이다\"라고 말하며, 290억 달러 중 일부만 하더라도 달러-원 시장에서는 상당한 자금 흐름을 의미한다고 덧붙였다.\n수요일 기획재정부 문지성 차관보는 로이터와의 인터뷰에서\n임박한 SK하이닉스의 미국 주식 발행에 따른 원화 수요를 언급하며, 하반기 달러-원 시장의 수급 역학이 전환될 것으로 예상\n된다고 밝혔다.\nhttps://www.reuters.com/world/asia-pacific/dollar-selling-linked-sk-hynix-share-offer-sends-won-over-1-month-high-source-2026-07-08/?taid=6a4dfed6111e630001b7d06e&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-08T07:46:21+00:00"
-    },
-    {
       "id": "x:ylecun:2074757270416523442",
       "source": "x",
       "author": "ylecun",
@@ -704,32 +807,6 @@
       "published_at": "2026-07-08T07:27:35+00:00"
     },
     {
-      "id": "tg:bornlupin/18952",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/18952",
-      "text": "일론 머스크\n베타 테스트 프로그램 고객들의 매우 긍정적인 피드백을 바탕\n으로, @SpaceXAI는\n내일 Grok 4.5를 일반에 공개할 예정입니다.\n이 모델은\n오퍼스(Opus)급 모델이지만 더 빠르고, 토큰 효율성이 더 높으며, 비용은 더 저렴합니다",
-      "images": [
-        "https://cdn5.telesco.pe/file/nS75P9TzkUynAvkU2VP0XT_A--zgEzod3BoHBYij3n4_k479YPCa65_18gywBtpZmXlGZazem0lZErVgUcRYAeV75Qcb_u-rSOdSB9ZTaTrk7FVgeloZ-3XIXHkrlh8W2kPzvwUs3moDM31ymyuQm4kQmafms9FFLJ-uH96tuBzNJsAdojgljC-CLnIPrkgQKX2fxDi9ZEsengzXImvHISE_NFc3UZmyTI-R2m4YJG-c_9g7w1gpIKS90Rf-Ljh0mjeo3ARuUO7cD5g_gabzCzf9VtW3MMj7jtBNyfulh9Jl3vm0ZrfAf59xob0n-BCAs_pMDjRqbNNbAiAvBTegHg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-08T06:41:21+00:00"
-    },
-    {
-      "id": "tg:EMchina/31406",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31406",
-      "text": "미중은 안 친해집니다  ===========================  ~ 7일(현지시간) 로이터 통신에 따르면, 중국 당국은 최근 알리바바, 바이트댄스, Z.ai 등 자국을 대표하는 테크 기업 관계자들을 소집해 오픈소스 및 독자 개발 AI 모델의 해외 접근을 제한하는 방안을 논의한 것으로 확인됐다  https://naver.me/FEgnteFT",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-08T06:10:16+00:00"
-    },
-    {
       "id": "rss:semianalysis:anthropic-3q26-profit-over-1b-the",
       "source": "rss",
       "author": "semianalysis",
@@ -742,18 +819,6 @@
       ],
       "summary_ko": "10억 달러 이상의 인류적 3Q26 이익: 인류적 IPO 금융 정보 엿보기\n\nAnthropic의 기회는 그들이 잃을 수 있는 것입니다",
       "published_at": "2026-07-08T06:04:28+00:00"
-    },
-    {
-      "id": "tg:bornlupin/18951",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/18951",
-      "text": "[단독] SK하닉, ADR 상장 물량의 10배 수탁 등록...\"추가 상장 가능\"  <앵커> SK하이닉스 ADR의 미국 나스닥 상장이 이틀 앞으로 다가왔습니다. 월가의 자금이 어떤 과정을 통해 얼마나 SK하이닉스로 유입될지 증권부 전효성 기자와 짚어보겠습니다.  SK하이닉스가 이번 ADR 상장 물량의 10배에 해당하는 규모를 커스터디 물량으로 잡아뒀다는 점이 중요 포인트로 꼽히는데요. 구체적으로 어떤 의미입니까?  <기자> 이번 SK하이닉스 ADR 상장 물량은…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-08T05:55:37+00:00"
     },
     {
       "id": "tg:HI_GS/6662",
@@ -826,20 +891,6 @@
       "images": [],
       "summary_ko": "GPT-5.6 sol이 목요일에 출시됩니다! 행복한 건물",
       "published_at": "2026-07-08T04:15:52+00:00"
-    },
-    {
-      "id": "x:OpenAI:2074704958419792299",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2074704958419792299",
-      "text": "GPT-5.6 Sol, along with Terra and Luna, will launch publicly this Thursday. We’re expanding preview access globally now.",
-      "images": [
-        "https://pbs.twimg.com/media/HMrU7U7bwAEO8yf.jpg"
-      ],
-      "summary_ko": "GPT-5.6 Sol은 Terra 및 Luna와 함께 이번 주 목요일에 공개적으로 출시됩니다. 현재 미리보기 액세스를 전 세계적으로 확대하고 있습니다.",
-      "published_at": "2026-07-08T03:59:42+00:00"
     },
     {
       "id": "tg:enc210406/4106",
@@ -1301,30 +1352,6 @@
       "published_at": "2026-07-06T22:54:35+00:00"
     },
     {
-      "id": "tg:globaletfi/20557",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20557",
-      "text": "[New K-ETF] 미국 우주TOP2 채권혼합50, K방산 TOP5+\n▶️\n하나 Global ETF 박승진(T.3771-7761)\n▶️\n자료:\nhttps://buly.kr/YgxoBD\n▶️\n텔레그램:\nhttps://t.me/globaletfi\n▣ 신규 상장 ETF(7/7): KIWOOM 미국 우주테크TOP2 채권혼합50, ACE K방산 TOP5+\n◎ KIWOOM 미국 우주테크TOP2 채권혼합50 ETF\n-\n우주산업을 대표하는 2개의 미국 기업들과 국내 채권을 함께 편입하는 채권혼합형 ETF\n. New Space 시대를 이끌어 가는 우주 대표 기업들의\n주식 포지션은 SpaceX와 RocketLab\n으로, 안전자산인\n채권 포지션의 경우 잔존만기가 1년 이하인 국고채와 통안채를 활용\n하여 구성\n-\n‘Space Technology’의 키워드를 활용해 선정된 두 종목들은 각각 25%씩, 총 50%의 비중\n으로 편입. 나머지 50%는 잔존만기 4개월~1년의 국고채와 잔존만기 1개월~1년의 통안채 10개 종목들로 구성. 채권혼합형 ETF로 분류되는 종목이기 때문에\n퇴직연금 계좌에서 100%의 비중까지 편입 가능\n◎ ACE K방산 TOP5+ ETF\n- 국내 주식시장에 상장되어 있는\n10개의 주요 방산기업들로 포트폴리오를 구성\n하는 집중형 패시브 ETF.\n‘AI Defense’의 키워드\n를 활용. 유동시가총액과 키워드 기반의 스코어링 상위 5개 기업들은\nTop5 포지션\n으로 분류하고, 이들 다섯 개 기업들은\n합산 비중 80%\n내에서 포트폴리오에 편입\n- 상장일(7/7) 기준 포트폴리오의 경우\nLIG 디펜스앤에어로스페이스와 현대로템, 한화 에어로스페이스, 한국항공우주, 한화시스템이 TOP5 종목\n의 포지션에 자리\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-06T22:51:50+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20556",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20556",
-      "text": "[하나 글로벌 기업분석 데일리 뉴스]\n7/7 하나증권 김재임/송종원\n엔비디아, 차세대 AI 랙 시스템 Kyber 제조 문제로 출시 지연 전망\n-SemiAnalysis는 엔비디아의 차세대 AI 랙 시스템 Kyber가 제조 문제로 인해 2028년까지 출시가 지연될 것으로 분석함\n-이번 지연은 엔비디아의 연간 출시 일정이 제조 능력 한계와 충돌하면서 발생한 것으로 Rubin 칩 생산에도 영향을 미칠 가능성이 있으며 TSMC를 비롯한 파운드리 업체들의 생산 역량 부족이 주요 원인으로 지목됨\n-지연 소식이 전해지자 대만과 한국의 PCB 제조사를 중심으로 아시아 기술주가 일제히 하락했으며 엔비디아의 공급망 관리 문제와 AI 산업 전반의 성장 속도 둔화 우려가 부각됨\nhttps://buly.kr/GZzv4Az\n구글 사용자 데이터가 AI 훈련에 활용되는 방식과 옵트아웃 방법\n-구글이 최근 개인정보 설정 변경을 통해 이미지, 파일, 오디오 및 비디오 녹음 같은 미디어를 포함해 사용자 데이터를 더 많이 저장할 수 있게 됨\n-이 데이터는 구글의 AI 모델 훈련에 사용되며 사용자는 구글 계정의 데이터 및 개인정보 보호 설정에서 AI 훈련에 사용 옵션을 끄면 옵트아웃할 수 있음\n-변경 사항은 지난달 적용됐으나 공지가 불분명해 많은 사용자가 인지하지 못한 상황이며 프라이버시 보호 단체들이 경고를 발표했음\nhttps://buly.kr/2fg3Zjf\n애플, iOS 27 베타에서 시리의 말투와 표현력 커스터마이징 기능 추가\n-애플이 iOS 27 최신 베타 버전에서 시리의 말하는 속도와 표현력을 사용자가 조정할 수 있는 기능을 추가했으며 이는 생성형 AI 기반으로 재구성된 시리의 개인화 전략 일환임\n-새로운 기능은 사용자가 느림-보통-빠름 속도와 단조로움-표현력 있음 스타일을 조합해 자신의 취향에 맞는 시리 음성을 설정할 수 있도록 지원함\n-이번 업데이트는 애플이 지난 WWDC에서 발표한 시리의 대규모 개선 계획의 첫 단계로 평가되며 향후 더 자연스러운 대화 기능이 추가될 예정임\nhttps://buly.kr/FsKt8td\n애플과 Broadcom, 칩 공급 파트너십을 2031년까지 연장\n-애플과 Broadcom이 ASIC 실리콘 기반의 맞춤형 칩 공급 파트너십을 2031년까지 연장하기로 합의했으며 이 칩들은 애플의 여러 세대 제품에 탑재될 예정임\n-이번 협력 확대는 애플이 자체 칩 개발 역량을 강화하는 동시에 공급망 다각화를 추진하는 전략의 일환으로 분석됨\n-애플은 Broadcom과의 장기 협력을 통해 차세대 제품 라인업에 필요한 핵심 기술을 확보할 계획임\nhttps://buly.kr/ChrFUEB\n애플, 인도에서 4년 만에 애플 Account 카드 결제 재개\n-애플이 인도의 결제 프레임워크에 적응한 후 단계적으로 애플 Account 구매 시 카드 결제를 다시 허용하기 시작함\n-이 서비스는 2022년 인도 중앙은행의 규제 강화로 중단된 바 있으며 현지 법규를 준수하는 새로운 시스템으로 재도입됨\n-현재 일부 사용자에게만 제공되며 향후 몇 주 내에 전체 롤아웃될 예정으로 인도 시장에서의 디지털 결제 경쟁력을 강화하기 위한 조치로 보임\nhttps://buly.kr/5q9hESi\n마이크로소프트, Xbox·상업 부문 4800명 감원과 4개 게임 스튜디오 분사 발표\n-마이크로소프트가 전체 인력의 2.1%에 해당하는 약 4800명을 감원한다고 발표했으며 감원은 Xbox 게임 부문과 상업 영업 부서에 집중됨. Xbox 부문에서만 부문 인력의 20%인 3200명이 감원될 것이라는 집계도 있음\n-Compulsion Games, Double Fine Productions, Ninja Theory, Undead Labs 등 4개 Xbox 게임 스튜디오를 독립 회사로 분사할 예정이며 Double Fine과 Compulsion은 기존에 개발 중이던 게임의 지적재산권을 보유할 수 있게 됨\n-지난 1년간 누적 감원 규모는 1만 명 이상으로 회사는 조직 구조 조정의 일환이라 설명했으나 게임 개발보다 플랫폼·클라우드 게이밍과 Azure 클라우드 사업에 집중하려는 전략이라는 해석이 나옴\nhttps://buly.kr/CWwUVOY\nSpaceX 사장 Gwynne Shotwell, 트럼프 계정에 회사 주식 기부 예정\n-SpaceX의 Gwynne Shotwell 사장이 도널드 트럼프 전 대통령과 관련된 계정에 회사 주식을 기부할 계획이며 이는 일론 머스크 CEO의 정치적 입장과도 연결되는 움직임임\n-트럼프 전 대통령은 지난주 인터뷰에서 머스크가 자신의 프로그램에 회사 주식을 기부할 것이라고 언급한 바 있어 이번 기부가 실제로 이루어질지 관심이 집중됨\n-SpaceX의 정치적 기부는 미국 우주 산업의 정책 변화와 밀접한 관련이 있으며 특히 정부 계약과 규제 완화에 대한 로비로 해석되는 경우가 많음\nhttps://buly.kr/FLacCRs\n메타, 인도 정부로부터 아동 학대 광고 문제로 추가 규제 압박 직면\n-메타 소유의 인스타그램 플랫폼에서 아동 학대와 관련된 불법 광고가 유통된 사실이 드러나며 인도 정부로부터 강력한 규제 압박을 받고 있음. 인도는 Facebook, 인스타그램, 왓츠앱의 최대 사용자 기반을 보유한 시장임\n-인도 중앙아동보호위원회(NCPCR)는 인스타그램이 아동 보호 정책을 충분히 시행하지 않았다고 비판하며 즉각적인 조치를 요구했음\n-이번 사태로 메타는 인도 시장에서의 이미지 실추뿐만 아니라 광고 수익 감소 가능성도 대두되고 있으며 메타 측은 문제를 인지하고 조사 중이라고 밝힘\nhttps://buly.kr/NmCpAB\n알리바바, 앤스로픽의 클로드 AI를 증류 공격 의혹으로 직원 사용 금지\n-알리바바가 직원들에게 앤스로픽의 클로드 Code 사용을 금지하고 고위험 소프트웨어 목록에 추가했으며 이는 소스 코드 유출 가능성이 있는 증류 공격 우려 때문으로 알려짐\n-이번 조치는 중국 기업들이 서구 AI 기술에 대한 경계를 강화하는 추세를 반영하며 특히 생성형 AI 분야에서 자체 기술 개발을 우선시하는 정책과 연결됨\n-클로드 Code는 개발자들이 코드 생성과 최적화를 위해 사용하는 앤스로픽의 AI 도구로 중국 내에서도 일부 개발자들 사이에서 인기를 끌었음\nhttps://buly.kr/DlLnN6d\nReddit, 대규모언어모델로 생성된 스팸을 막기 위해 대규모언어모델 활용\n-Reddit이 AI 언어 모델이 대량 생성한 스팸 콘텐츠를 필터링하기 위해 자체 대규모언어모델 기술을 개발해 적용 중이라고 발표했음\n-이 시스템은 사용자 게시물을 실시간 분석해 자동 생성된 스팸을 89% 정확도로 차단할 수 있는 것으로 알려짐\n-Reddit은 AI가 만든 문제를 AI로 해결하는 것이 현실적인 선택이라 설명하며 다른 소셜 미디어 플랫폼들도 유사한 접근을 고려 중인 것으로 전해짐\nhttps://buly.kr/1n6Gffl\nVercel CEO Guillermo Rauch, 모델과 에이전트 분리 필요성 강조\n-Vercel의 Guillermo Rauch CEO가 생산성 최적화를 위해 AI 모델과 에이전트를 분리하는 것이 필수적이라고 주장함\n-가격 대비 성능을 고려할 때 특정 작업에 최적화된 소형 모델들이 대형 언어 모델보다 더 효율적일 수 있다는 점을 강조하며 이는 클라우드 비용 절감과도 직결되는 문제임\n-Rauch는 개발자들이 AI 애플리케이션 구축 시 모델 선택에 있어 더 유연한 접근이 필요하다고 조언하며 Vercel이 제공하는 도구들이 이런 전환을 지원할 것이라고 밝힘\nhttps://buly.kr/C0CDYxL\nKlarna, 미국 은행 인가 획득 위해 신청서 제출\n-바이 나우 페이 레터 기업 Klarna가 미국에서 은행 인가를 신청했으며 이는 전통적인 금융 시스템 진입을 위한 최근 움직임의 일환임\n-Klarna는 이미 유럽에서 은행 면허를 보유하고 있으며 미국 시장에서 더 넓은 금융 서비스를 제공하기 위해 이번 조치를 취한 것으로 알려짐\n-최근 Stripe, Square 등 핀테크 기업들이 은행 인가를 추진하는 추세에 동참한 것으로 규제 당국의 승인 여부가 주목받고 있음\nhttps://buly.kr/2fg3ZkB",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-06T22:49:50+00:00"
-    },
-    {
       "id": "rss:semianalysis:nvidia-gpu-debt-backstop-unleashes",
       "source": "rss",
       "author": "semianalysis",
@@ -1655,20 +1682,6 @@
       "published_at": "2026-06-30T18:32:39+00:00"
     },
     {
-      "id": "x:OpenAI:2072004836674167294",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2072004836674167294",
-      "text": "We’re introducing GeneBench-Pro, a research-level benchmark for a harder kind of AI progress: how well agents can navigate messy biological data, choose the right analysis path, and make judgment calls that real computational research depends on. https://openai.com/index/introducing-genebench-pro/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2072222808206450688/-g6M-xqV?format=jpg&name=800x419"
-      ],
-      "summary_ko": "우리는 에이전트가 지저분한 생물학적 데이터를 얼마나 잘 탐색하고, 올바른 분석 경로를 선택하고, 실제 계산 연구가 의존하는 판단을 내릴 수 있는지에 대한 보다 어려운 종류의 AI 발전을 위한 연구 수준 벤치마크인 GeneBench-Pro를 소개합니다. https://openai.com/index/introducing-genebench-pro/",
-      "published_at": "2026-06-30T17:10:23+00:00"
-    },
-    {
       "id": "x:GoogleAI:2071989060483113405",
       "source": "x",
       "author": "GoogleAI",
@@ -1893,20 +1906,6 @@
       "images": [],
       "summary_ko": "좋은 새로운 첫 번째: Sol은 똑똑하고 효율적이며 중요한 발전을 이루었습니다. GPT-5.5와 가격은 같습니다. 또한 GPT-5.6 제품군에서 출시되는 Terra는 절반 가격에 5.5 수준 성능을 제공합니다. 나쁜 소식: 미국 정부의 요청에 따라 우리가 계획했던 오픈 액세스 출시 대신 오늘 제한된 미리 보기로 출시됩니다. 우리는 가능한 한 빨리 일반 공급에 도달하기 위해 정부와 협력하고 있습니다. 나는 이러한 방식으로 모델을 출시하는 것이 매우 합리적이라고 생각합니다. 특히 성능이 상당히 새로운 수준에 도달하는 경우 더욱 그렇습니다. 이는 우리가 오랫동안 유지해온 반복 배포 전략에 적합합니다. 그러나 이는 우리가 생각하는 최적의 프로세스가 아닙니다. 이제 우리는 정부와 협력하여 조기 접근을 위한 투명하고 신뢰할 수 있는 프로세스를 마련하고 이를 보장할 것입니다.",
       "published_at": "2026-06-26T20:37:49+00:00"
-    },
-    {
-      "id": "x:OpenAI:2070555278576439306",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2070555278576439306",
-      "text": "R to @OpenAI: GPT-5.6 Sol is our most capable model yet for cybersecurity. It shifts the performance-efficiency frontier for long-horizon security tasks including vulnerability research and exploitation.",
-      "images": [
-        "https://pbs.twimg.com/media/HLwWT8TagAALRWm.jpg"
-      ],
-      "summary_ko": "R에서 @OpenAI로: GPT-5.6 Sol은 사이버 보안을 위한 가장 유능한 모델입니다. 취약점 연구 및 활용을 포함한 장기적인 보안 작업에 대한 성능 효율성의 한계를 바꿉니다.",
-      "published_at": "2026-06-26T17:10:22+00:00"
     },
     {
       "id": "x:GoogleDeepMind:2070300619257106819",
@@ -2298,7 +2297,7 @@
       "url": "https://x.com/GoogleAI/status/2061544208289132791",
       "text": "R to @GoogleAI: Read more about all the fun ways we used AI to bring I/O to life this year: https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
       "images": [
-        "https://pbs.twimg.com/card_img/2072420919004536832/eX8LnGAL?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2072437851174612992/kj_lXSsM?format=jpg&name=800x419"
       ],
       "summary_ko": "R에서 @GoogleAI로: 올해 AI를 사용하여 I/O에 생명을 불어넣은 모든 재미있는 방법에 대해 자세히 알아보세요. https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
       "published_at": "2026-06-01T20:23:35+00:00"
