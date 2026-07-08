@@ -1,22 +1,46 @@
 {
-  "updated_at": "2026-07-08T14:07:36+00:00",
+  "updated_at": "2026-07-08T16:39:01+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 19
+    "new_this_run": 2
   },
   "briefing": {
     "headline": "애플, 미국 반도체 제조에 300억 달러 투자",
     "bullets": [
       "BofA, IPO 앞둔 OpenAI에 5.2억달러 신용한도 제공",
-      "SK하이닉스 주식 발행과 연관된 달러 매도로 원화 가치 최고치",
       "파이슨, AI 저장장치 수요 폭발로 상반기 매출 1,000억 대만달러 돌파",
-      "블루 오리진, 첫 외부 자금 조달로 1,300억 달러 투자 유치",
+      "SK하이닉스 주식 발행과 연관된 달러 매도로 원화 가치 최고치 경신",
+      "중국 성장률 전망 상향조정",
       "트럼프, 이란에 대해 '합의 없이 진행할 수도 있다' 발언"
     ],
-    "generated_at": "2026-07-08T14:07:36+00:00",
+    "generated_at": "2026-07-08T16:39:01+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/23380",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23380",
+      "text": "CHINESE OFFICIALS HAVE TOLD ALIBABA, BYTEDANCE AND DEEPSEEK THAT THEY MAY SOON RECEIVE PERMISSION TO BUY SOME H200 CHIPS- THE INFORMATION (@FirstSquaw)",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-08T14:59:55+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23379",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23379",
+      "text": "퍼플렉시티, 엔비디아 베라 CPU 채택… \"에이전틱 코딩서 1.5배 빨라\"\n인공지능 검색 기업 퍼플렉시티가 엔비디아의 신형 데이터센터 CPU 베라(Vera)를 도입한다고 밝혔습니다. 로이터에 따르면 네이트 쿱 퍼플렉시티 부사장은 인터뷰에서 베라가 에이전틱 AI 코딩 작업에서 기존 CPU보다 1.5배 빠른 성능을 보였다며 \"우리 핵심 워크로드 상당수에 딱 들어맞는 칩\"이라고 평가했습니다. 도입 수량과 계약 규모는 공개되지 않았습니다.\nhttps://wccftech.com/perplexity-bets-on-nvidia-vera-cpu-calling-max-single-threaded-chip-a-dead-on-fit/",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-08T14:11:51+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23378",
       "source": "telegram",
@@ -288,30 +312,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-08T10:57:22+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23366",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23366",
-      "text": "Citi) 알리바바 FY1Q27E 프리뷰: 클라우드 성장은 마진 개선과 함께 견조, CMR은 부진. TP $192\n씨티의 견해\n4~5월 소매판매 지표 부진과 미지근했던 6.18 프로모션 행사를 감안할 때, 당사는 6월 분기 타오바오/티몰 GMV 성장률이 한 자릿수 초반(LSD)으로 둔화될 것으로 추정합니다. 이번 분기에 6.18 행사로 인해 더욱 확대될 수 있는 차감성 매출(contra-revenues) 영향을 반영하면, 당사는 CMR이 전년 동기 대비 8.7% 감소할 것으로 전망하며, 이는 동일 기준(like-for-like) +1% 성장이라는 당사 기존 예상과 대비됩니다. 경쟁이 보다 합리적으로 전개됨에 따라 산고우(Shangou)의 손실은 축소될 것으로 예상하며, 중국 커머스 EBITA는 380억 위안으로 전년과 유사한 수준일 것으로 전망합니다. 강한 수요에 힘입어 클라우드 매출은 전년 대비 45% 성장으로 가속화되고, 클라우드 마진은 11.5%로 개선될 것으로 모델링합니다. CY2H27에는 안정적이지만 특별할 것 없는 매크로 환경 속에서 CMR에 대한 차감성 매출 영향이 몇 개 분기 동안 지속되는 한편, 클라우드 매출은 추가로 가속화되어 10%대 초반 마진과 함께 높은 수준의 성장세를 유지할 것으로 예상합니다. 추정치 수정 후 당사의 목표주가는 US$192/HK$191로 조정되었으며, 이는 AIDC 및 기타 부문에 대한 낮은 멀티플을 반영한 것입니다. 매력적인 밸류에이션과 AI 플레이 관점에서 매수(Buy) 의견을 유지합니다.\n추정치 수정 – FY1Q27에 대해 당사는 매출/비GAAP 순이익을 각각 +0.8%/+8% 조정했으며, 이는 CMR 하향을 클라우드 및 기타 매출 상향이 상쇄한 결과입니다. 퀵커머스 손실 축소와 클라우드 마진 개선이 전년 대비 높은 이익을 뒷받침할 가능성이 높습니다. FY27~29E에 대해서는 매출/비GAAP 이익을 각각 +0.9%/+5%, +0.5%/+6.2%, +0.2%/+6.2% 조정했습니다.\nFY1Q27E 프리뷰 – 당사는 이제 총 연결 매출을 2,698억 위안(전년 대비 +8.9%), 비GAAP 순이익을 271억 위안(마진 10.1%)으로 모델링하며, 이는 블룸버그 컨센서스인 2,692억 위안/249억 위안과 대비됩니다. 중국 이커머스 그룹 매출은 1,369억 위안으로 모델링합니다. 이 중 CMR은 전년 대비 8.7% 감소한 815억 위안으로 모델링하며, 퀵커머스 손실은 약 100억 위안으로 추정합니다. 클라우드 매출은 전년 대비 +45% 증가한 484억 위안, AIDC 매출은 364억 위안(전년 대비 +4.9%)으로 전망합니다. 연결 조정 EBITA는 전년 대비 -35.3% 감소한 251억 위안, 즉 9.3% 마진으로 전망하며, 중국 이커머스 그룹 EBITA는 380억 위안, 즉 27.8% 마진으로 전년과 유사할 것으로 전망합니다. 클라우드 EBITA는 이제 55.7억 위안, 즉 11.5% 마진으로 전망합니다. 조정 EBITDA는 375억 위안, 즉 13.9% 마진으로 모델링하며, 이는 기존 추정치인 339.6억 위안, 12.7% 마진과 대비됩니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-08T10:53:30+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23365",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23365",
-      "text": "디시인사이드·엑스·틱톡, '가짜뉴스처벌법' 대상…사실 확인은 JTBC만(종합) https://n.news.naver.com/article/008/0005383377?type=editn&cds=news_edit",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-08T09:17:28+00:00"
     },
     {
       "id": "x:GoogleDeepMind:2074783586973061351",
