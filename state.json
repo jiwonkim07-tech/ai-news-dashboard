@@ -1,4 +1,18 @@
 {
+  "telegram:aetherjapanresearch": [
+    "tg:aetherjapanresearch/23431",
+    "tg:aetherjapanresearch/23430",
+    "tg:aetherjapanresearch/23429",
+    "tg:aetherjapanresearch/23428",
+    "tg:aetherjapanresearch/23427",
+    "tg:aetherjapanresearch/23426",
+    "tg:aetherjapanresearch/23425",
+    "tg:aetherjapanresearch/23424",
+    "tg:aetherjapanresearch/23423",
+    "tg:aetherjapanresearch/23422",
+    "tg:aetherjapanresearch/23421",
+    "tg:aetherjapanresearch/23418"
+  ],
   "telegram:globaletfi": [
     "tg:globaletfi/20585",
     "tg:globaletfi/20584",
@@ -12,21 +26,6 @@
     "tg:globaletfi/20576",
     "tg:globaletfi/20574",
     "tg:globaletfi/20572"
-  ],
-  "telegram:aetherjapanresearch": [
-    "tg:aetherjapanresearch/23431",
-    "tg:aetherjapanresearch/23430",
-    "tg:aetherjapanresearch/23429",
-    "tg:aetherjapanresearch/23428",
-    "tg:aetherjapanresearch/23427",
-    "tg:aetherjapanresearch/23426",
-    "tg:aetherjapanresearch/23425",
-    "tg:aetherjapanresearch/23424",
-    "tg:aetherjapanresearch/23423",
-    "tg:aetherjapanresearch/23422",
-    "tg:aetherjapanresearch/23421",
-    "tg:aetherjapanresearch/23418",
-    "tg:aetherjapanresearch/23417"
   ],
   "telegram:EMchina": [
     "tg:EMchina/31442",
@@ -86,6 +85,11 @@
     "tg:HI_GS/6663"
   ],
   "x:sama": [
+    "x:sama:2075293792048136572",
+    "x:sama:2075267201058426944",
+    "x:sama:2075266471316615436",
+    "x:sama:2075264378962907597",
+    "x:sama:2075254288956440848",
     "x:sama:2075068286107316317",
     "x:sama:2075063511290662996",
     "x:sama:2075048072837734448",
@@ -100,6 +104,15 @@
     "x:sama:2073635910512726444"
   ],
   "x:OpenAI": [
+    "x:OpenAI:2075274276849226204",
+    "x:OpenAI:2075274275104399670",
+    "x:OpenAI:2075274273607037403",
+    "x:OpenAI:2075274271845404744",
+    "x:OpenAI:2075271435573244008",
+    "x:OpenAI:2075271432041545782",
+    "x:OpenAI:2075271421149020426",
+    "x:OpenAI:2075261330995790037",
+    "x:OpenAI:2075254288956440848",
     "x:OpenAI:2075019750569378007",
     "x:OpenAI:2074972185895342084",
     "x:OpenAI:2074972182640492731",
@@ -125,9 +138,13 @@
     "x:ylecun:2074587481966628885",
     "x:ylecun:2074579990893449427",
     "x:ylecun:2074546702531645786",
-    "x:ylecun:2074537988357308582"
+    "x:ylecun:2074537988357308582",
+    "x:ylecun:2074500550947680368",
+    "x:ylecun:2074498680044823021"
   ],
   "x:AnthropicAI": [
+    "x:AnthropicAI:2075271759289303522",
+    "x:AnthropicAI:2075257492716879967",
     "x:AnthropicAI:2075005777522172146",
     "x:AnthropicAI:2074185390060110138",
     "x:AnthropicAI:2074185387577094398",
@@ -153,9 +170,11 @@
     "x:demishassabis:2065112147093545333",
     "x:demishassabis:2065097165433983253",
     "x:demishassabis:2064873362799600042",
-    "x:demishassabis:2064423388928790943"
+    "x:demishassabis:2064423388928790943",
+    "x:demishassabis:2064369125447864674"
   ],
   "x:GoogleDeepMind": [
+    "x:GoogleDeepMind:2075251885276012668",
     "x:GoogleDeepMind:2074783586973061351",
     "x:GoogleDeepMind:2074513847306572213",
     "x:GoogleDeepMind:2074513665299034447",
@@ -170,6 +189,7 @@
     "x:GoogleDeepMind:2070300619257106819"
   ],
   "rss:semianalysis": [
+    "rss:semianalysis:the-future-of-meta-superintelligence",
     "rss:semianalysis:anthropic-3q26-profit-over-1b-the",
     "rss:semianalysis:nvidia-gpu-debt-backstop-unleashes",
     "rss:semianalysis:meta-compute-everyone-wants-to-be",
@@ -184,6 +204,7 @@
     "rss:semianalysis:deepseekv4-16t-day-0-to-day-43-performance"
   ],
   "x:karpathy": [
+    "x:karpathy:2074973674332123157",
     "x:karpathy:2073047118801993910",
     "x:karpathy:2071972062202343590",
     "x:karpathy:2069547676849557725",
@@ -212,6 +233,7 @@
     "x:GoogleAI:2060156788742205736"
   ],
   "x:AndrewYNg": [
+    "x:AndrewYNg:2075271586400403567",
     "x:AndrewYNg:2071988145667928442",
     "x:AndrewYNg:2068039709126017356",
     "x:AndrewYNg:2067653578945359898",
@@ -226,6 +248,6 @@
     "x:AndrewYNg:2053857910451827061"
   ],
   "_meta": {
-    "last_x_fetch": "2026-07-09T15:28:52+00:00"
+    "last_x_fetch": "2026-07-09T19:51:07+00:00"
   }
 }

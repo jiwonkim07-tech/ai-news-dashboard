@@ -1,21 +1,279 @@
 {
-  "updated_at": "2026-07-09T17:56:27+00:00",
+  "updated_at": "2026-07-09T19:51:08+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 1
+    "new_this_run": 23
   },
   "briefing": {
-    "headline": "SK하이닉스 ADR 공모가 149달러",
+    "headline": "메타, AI 칩 생산 돌입",
     "bullets": [
-      "메타, 커스텀 AI 칩 생산 돌입",
-      "미국 ETF 시장, 상반기 1조 달러 유입",
-      "마이크론, 미국에 2,500억 달러 투자",
-      "메타, 유료 AI 개발자 모델 공개"
+      "OpenAI, GPT-5.6 모델 출시",
+      "SK하이닉스, ADR 공모가 149달러",
+      "애플, 아이폰용 고성능 AI 모델 축소 검토",
+      "테슬라, 3세대 옵티머스 초기 디자인 확정",
+      "Micron, 미국에 2,500억 달러 투자 계획"
     ],
-    "generated_at": "2026-07-09T17:56:27+00:00",
+    "generated_at": "2026-07-09T19:51:08+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "rss:semianalysis:the-future-of-meta-superintelligence",
+      "source": "rss",
+      "author": "semianalysis",
+      "author_name": "SemiAnalysis",
+      "author_url": "https://semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/the-future-of-meta-superintelligence",
+      "text": "The Future of Meta Superintelligence: A 1 Year Progress Update\n\nA top tier RL environment startup spawns out of thin air, the most aggressive compute ramp we've ever seen, 2000km+ scale-across, and some advice for Google DeepMind",
+      "images": [
+        "https://substack-post-media.s3.amazonaws.com/public/images/97f8a7b0-756e-4dd0-bce4-e8fca9e55aa4_1049x701.png"
+      ],
+      "summary_ko": "메타 초지능의 미래: 1년 진행 업데이트\n\n최고 수준의 RL 환경 스타트업은 지금까지 본 것 중 가장 공격적인 컴퓨팅 램프, 2000km 이상의 확장 및 Google DeepMind에 대한 몇 가지 조언에서 탄생했습니다.",
+      "published_at": "2026-07-09T19:16:14+00:00"
+    },
+    {
+      "id": "x:sama:2075293792048136572",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2075293792048136572",
+      "text": "check this out! you can get some amazing things done. codex is the core of our new work product and what makes it so good. codex is not going anywhere.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2075269404997373952/img/ZSPPGkj4T-yG2cld.jpg"
+      ],
+      "summary_ko": "이것을 확인해 보세요! 놀라운 일을 해낼 수 있습니다. 코덱스는 우리의 새로운 작업 제품의 핵심이자 그 장점을 만들어줍니다. 코덱스는 아무데도 가지 않습니다.",
+      "published_at": "2026-07-09T18:59:31+00:00"
+    },
+    {
+      "id": "x:OpenAI:2075274276849226204",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2075274276849226204",
+      "text": "R to @OpenAI: On web and mobile, ChatGPT Work is rolling out today for Pro, Enterprise, and Edu plans. It will roll out to Plus and Business plans over the next few days. In the ChatGPT desktop app, Chat, Work, and Codex are available on every plan, including Free, and is available globally to download on Windows and Mac. Codex app users can update their app as usual—it will become the new ChatGPT desktop app. https://openai.com/chatgpt-work/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2075272694568824832/QRluo5dh?format=jpg&name=800x419"
+      ],
+      "summary_ko": "R에서 @OpenAI로: 웹과 모바일에서 ChatGPT Work가 오늘부터 Pro, Enterprise 및 Edu 요금제에 출시됩니다. 앞으로 며칠에 걸쳐 Plus 및 Business 요금제로 출시될 예정입니다. ChatGPT 데스크톱 앱에서는 무료를 포함한 모든 플랜에서 Chat, Work 및 Codex를 사용할 수 있으며 Windows 및 Mac에서 전 세계적으로 다운로드할 수 있습니다. Codex 앱 사용자는 평소와 같이 앱을 업데이트할 수 있습니다. 이 앱은 새로운 ChatGPT 데스크톱 앱이 됩니다. https://openai.com/chatgpt-work/",
+      "published_at": "2026-07-09T17:41:58+00:00"
+    },
+    {
+      "id": "x:OpenAI:2075274275104399670",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2075274275104399670",
+      "text": "R to @OpenAI: ChatGPT Work is powered by GPT-5.6. GPT-5.6 makes ChatGPT state of the art at reasoning through complex tasks and creating materials that match your templates, reference files, and preferred style. Just describe the outcome you want, without having to spell out every step to get there.",
+      "images": [],
+      "summary_ko": "R에서 @OpenAI로: ChatGPT 작업은 GPT-5.6에 의해 구동됩니다. GPT-5.6은 복잡한 작업을 통해 추론하고 템플릿, 참조 파일 및 선호하는 스타일과 일치하는 자료를 생성하는 분야에서 ChatGPT를 최첨단으로 만듭니다. 원하는 결과를 설명하기만 하면 됩니다. 목표에 도달하기 위한 모든 단계를 자세히 설명할 필요는 없습니다.",
+      "published_at": "2026-07-09T17:41:58+00:00"
+    },
+    {
+      "id": "x:OpenAI:2075274273607037403",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2075274273607037403",
+      "text": "R to @OpenAI: ChatGPT Work reflects a shift in how people are using AI, moving beyond just answering questions to getting real work done across web, mobile, and desktop. You can ask ChatGPT Work to take on entire workflows with a single request. It will understand your goals, use context from selected apps and files, create polished documents, decks, analyses, sites, and reports, and keep work moving while you stay in control. https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2075265049619554304/nQuehYaF?format=jpg&name=800x419"
+      ],
+      "summary_ko": "R에서 @OpenAI로: ChatGPT 작업은 사람들이 AI를 사용하는 방식의 변화를 반영하여 단순히 질문에 대답하는 것 이상으로 웹, 모바일 및 데스크톱에서 실제 작업을 수행하는 것으로 이동합니다. ChatGPT Work에 단일 요청으로 전체 워크플로를 처리하도록 요청할 수 있습니다. 목표를 이해하고, 선택한 앱과 파일의 컨텍스트를 사용하고, 세련된 문서, 데크, 분석, 사이트 및 보고서를 생성하고, 제어권을 유지하면서 작업을 계속 진행합니다. https://openai.com/index/chatgpt-for-your-most-ambitious-work/",
+      "published_at": "2026-07-09T17:41:58+00:00"
+    },
+    {
+      "id": "x:OpenAI:2075274271845404744",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2075274271845404744",
+      "text": "Pinned: Introducing ChatGPT Work, a new agent in ChatGPT powered by Codex and GPT-5.6. It can take action across your apps and files, stay with a project for hours if needed, and turn a goal into finished work. It’s a whole new way to get work done.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2075269404997373952/img/ZSPPGkj4T-yG2cld.jpg"
+      ],
+      "summary_ko": "고정됨: Codex 및 GPT-5.6을 기반으로 하는 ChatGPT의 새로운 에이전트인 ChatGPT Work를 소개합니다. 앱과 파일 전반에 걸쳐 조치를 취하고, 필요한 경우 몇 시간 동안 프로젝트에 머물며, 목표를 완료된 작업으로 전환할 수 있습니다. 이는 작업을 완료하는 완전히 새로운 방법입니다.",
+      "published_at": "2026-07-09T17:41:57+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2075271759289303522",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2075271759289303522",
+      "text": "RT by @AnthropicAI: There’s hope in hard questions.",
+      "images": [
+        "https://pbs.twimg.com/media/HMzYzrcXMAAeKQI.jpg"
+      ],
+      "summary_ko": "@AnthropicAI의 RT: 어려운 질문에는 희망이 있습니다.",
+      "published_at": "2026-07-09T17:31:58+00:00"
+    },
+    {
+      "id": "x:AndrewYNg:2075271586400403567",
+      "source": "x",
+      "author": "AndrewYNg",
+      "author_name": "Andrew Ng(앤드류 응) · AI 교육자",
+      "author_url": "https://x.com/AndrewYNg",
+      "url": "https://x.com/AndrewYNg/status/2075271586400403567",
+      "text": "Adam Thierer had written the landmark book on \"Permissionless Innovation.\" We get the best ideas when we don't have to ask the government in advance for permission to invent. Protecting open source AI is now a critical part of ensuring this.",
+      "images": [],
+      "summary_ko": "Adam Thierer는 \"허가 없는 혁신\"에 관한 획기적인 책을 썼습니다. 우리는 발명에 대한 허가를 정부에 미리 요청할 필요가 없을 때 가장 좋은 아이디어를 얻습니다. 이제 오픈 소스 AI를 보호하는 것이 이를 보장하는 데 중요한 부분입니다.",
+      "published_at": "2026-07-09T17:31:17+00:00"
+    },
+    {
+      "id": "x:OpenAI:2075271435573244008",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2075271435573244008",
+      "text": "R to @OpenAI: GPT‑5.6 is available starting today across ChatGPT, Codex, and the OpenAI API. The rollout is starting globally now and will continue gradually toward full availability over the next 24 hours. In ChatGPT, Plus, Pro, Business, and Enterprise users access GPT-5.6 Sol through medium and higher effort settings. Pro and Enterprise users can also select GPT‑5.6 Pro for the highest-quality results on complex tasks.",
+      "images": [],
+      "summary_ko": "R에서 @OpenAI로: GPT‑5.6은 오늘부터 ChatGPT, Codex 및 OpenAI API에서 사용할 수 있습니다. 롤아웃은 지금 전 세계적으로 시작되고 있으며 앞으로 24시간 동안 전체 가용성을 향해 점진적으로 계속될 것입니다. ChatGPT에서 Plus, Pro, Business 및 Enterprise 사용자는 중간 및 높은 노력 설정을 통해 GPT-5.6 Sol에 액세스합니다. Pro 및 Enterprise 사용자는 복잡한 작업에서 최고 품질의 결과를 얻기 위해 GPT‑5.6 Pro를 선택할 수도 있습니다.",
+      "published_at": "2026-07-09T17:30:41+00:00"
+    },
+    {
+      "id": "x:OpenAI:2075271432041545782",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2075271432041545782",
+      "text": "R to @OpenAI: GPT‑5.6 improves artifact quality across presentations, documents, and spreadsheets, and works better with your templates. These editable artifacts can be exported to the tools professionals already use and refined as part of real enterprise workflows.",
+      "images": [
+        "https://pbs.twimg.com/media/HMzUB9DagAAjyYi.jpg",
+        "https://pbs.twimg.com/media/HMzUB9EaoAAJK-3.jpg"
+      ],
+      "summary_ko": "R에서 @OpenAI로: GPT‑5.6은 프레젠테이션, 문서 및 스프레드시트 전반에서 아티팩트 품질을 향상하고 템플릿과 더 잘 작동합니다. 이러한 편집 가능한 아티팩트는 전문가가 이미 실제 기업 워크플로우의 일부로 사용하고 개선하는 도구로 내보낼 수 있습니다.",
+      "published_at": "2026-07-09T17:30:40+00:00"
+    },
+    {
+      "id": "x:OpenAI:2075271421149020426",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2075271421149020426",
+      "text": "Sol, Terra, and Luna, our GPT‑5.6 family of models, are starting to roll out now in ChatGPT, Codex, and the API.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2075270581357080576/img/_-omesQKtZkt786e.jpg"
+      ],
+      "summary_ko": "GPT‑5.6 모델 제품군인 Sol, Terra 및 Luna가 이제 ChatGPT, Codex 및 API에서 출시되기 시작했습니다.",
+      "published_at": "2026-07-09T17:30:38+00:00"
+    },
+    {
+      "id": "x:sama:2075267201058426944",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2075267201058426944",
+      "text": "we have heard enterprises on their concerns about AI costs, and 5.6 sol is a huge step forward for dollars-per-task, as are terra and luna",
+      "images": [],
+      "summary_ko": "우리는 AI 비용에 대한 기업의 우려를 듣고 있으며 5.6 sol은 Terra 및 Luna와 마찬가지로 작업당 비용 측면에서 큰 진전입니다.",
+      "published_at": "2026-07-09T17:13:51+00:00"
+    },
+    {
+      "id": "x:sama:2075266471316615436",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2075266471316615436",
+      "text": "obviously the best model we have ever produced, but also one of the best blog posts we have ever produced: https://openai.com/index/gpt-5-6/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2075265179932143616/yIALJg-v?format=jpg&name=800x419"
+      ],
+      "summary_ko": "분명히 우리가 제작한 최고의 모델일 뿐만 아니라 우리가 제작한 최고의 블로그 게시물 중 하나이기도 합니다: https://openai.com/index/gpt-5-6/",
+      "published_at": "2026-07-09T17:10:58+00:00"
+    },
+    {
+      "id": "x:sama:2075264378962907597",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2075264378962907597",
+      "text": "5.6 livestream going now. in addition to the model, 3 major product things. 1. ChatGPT Work--really big deal! 2. new ChatGPT desktop app 3. hosted sites",
+      "images": [],
+      "summary_ko": "5.6 실시간 스트리밍이 진행 중입니다. 모델 외에 주요 제품 3가지. 1. ChatGPT 작업 - 정말 큰 일입니다! 2. 새로운 ChatGPT 데스크톱 앱 3. 호스팅된 사이트",
+      "published_at": "2026-07-09T17:02:39+00:00"
+    },
+    {
+      "id": "x:OpenAI:2075261330995790037",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2075261330995790037",
+      "text": "It all comes together in 10 minutes. http://openai.com/live",
+      "images": [
+        "https://pbs.twimg.com/card_img/2074911082687422464/PTPJzqk3?format=jpg&name=800x419"
+      ],
+      "summary_ko": "이 모든 것이 10분 안에 모입니다. http://openai.com/live",
+      "published_at": "2026-07-09T16:50:32+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2075257492716879967",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2075257492716879967",
+      "text": "Our Long-Term Benefit Trust has appointed Dr. Ben Bernanke as its newest member. Read more: https://www.anthropic.com/news/ben-bernanke",
+      "images": [
+        "https://pbs.twimg.com/card_img/2073934232947507200/3h_Ee17R?format=jpg&name=800x419"
+      ],
+      "summary_ko": "우리 장기 혜택 신탁(Long-Term Benefit Trust)은 Ben Bernanke 박사를 최신 회원으로 임명했습니다. 더 읽어보세요: https://www.anthropic.com/news/ben-bernanke",
+      "published_at": "2026-07-09T16:35:17+00:00"
+    },
+    {
+      "id": "x:sama:2075254288956440848",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2075254288956440848",
+      "text": "RT by @sama: Today. 10am PT.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2075253784759156737/img/j7QtkkER0qmkjxAb.jpg"
+      ],
+      "summary_ko": "@sama의 RT: 오늘. 오전 10시(태평양 표준시)",
+      "published_at": "2026-07-09T16:22:33+00:00"
+    },
+    {
+      "id": "x:OpenAI:2075254288956440848",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2075254288956440848",
+      "text": "Today. 10am PT.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2075253784759156737/img/j7QtkkER0qmkjxAb.jpg"
+      ],
+      "summary_ko": "오늘. 오전 10시(태평양 표준시)",
+      "published_at": "2026-07-09T16:22:33+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2075251885276012668",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2075251885276012668",
+      "text": "RT by @GoogleDeepMind: AlphaEvolve is now GA on Google Cloud! Co-developed with @GoogleDeepMind, AlphaEvolve is a Gemini-powered evolutionary agent that autonomously designs and discovers highly optimized code to solve your hardest problems and algorithmic bottlenecks across industries: https://goo.gle/4eStb4P",
+      "images": [
+        "https://pbs.twimg.com/media/HMzGl5sW8AE0AqS.jpg"
+      ],
+      "summary_ko": "@GoogleDeepMind의 RT: AlphaEvolve가 이제 Google Cloud에서 GA됩니다! @GoogleDeepMind와 공동 개발한 AlphaEvolve는 업계 전반에서 가장 어려운 문제와 알고리즘 병목 현상을 해결하기 위해 고도로 최적화된 코드를 자율적으로 설계하고 발견하는 Gemini 기반 진화 에이전트입니다. https://goo.gle/4eStb4P",
+      "published_at": "2026-07-09T16:13:00+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23431",
       "source": "telegram",
@@ -900,6 +1158,20 @@
       "published_at": "2026-07-08T22:19:23+00:00"
     },
     {
+      "id": "x:karpathy:2074973674332123157",
+      "source": "x",
+      "author": "karpathy",
+      "author_name": "Andrej Karpathy(안드레이 카파시) · AI 연구자",
+      "author_url": "https://x.com/karpathy",
+      "url": "https://x.com/karpathy/status/2074973674332123157",
+      "text": "RT by @karpathy: Rewriting Bun in Rust https://bun.com/blog/bun-in-rust",
+      "images": [
+        "https://pbs.twimg.com/card_img/2074973592610361344/qFZWff4P?format=jpg&name=800x419"
+      ],
+      "summary_ko": "@karpathy의 RT: Rust에서 Bun 다시 작성 https://bun.com/blog/bun-in-rust",
+      "published_at": "2026-07-08T21:47:29+00:00"
+    },
+    {
       "id": "x:OpenAI:2074972185895342084",
       "source": "x",
       "author": "OpenAI",
@@ -924,34 +1196,6 @@
       ],
       "summary_ko": "R에서 @OpenAI로: SWE-Bench Pro를 감사하기 위해 우리는 숙련된 5명의 독립적인 소프트웨어 엔지니어의 독립적인 검토와 함께 모델 기반 조사 에이전트를 사용했습니다. 이는 전문가 판단을 중심으로 유지하면서 대규모로 작업을 검토하는 데 도움이 되었습니다.",
       "published_at": "2026-07-08T21:41:34+00:00"
-    },
-    {
-      "id": "x:OpenAI:2074972180769907186",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2074972180769907186",
-      "text": "R to @OpenAI: Our audit of SWE-Bench Pro found that a meaningful share of public tasks contain issues that can distort results. Some correct solutions fail because of hidden requirements, contradictory instructions, overly strict tests, or incomplete grading criteria.",
-      "images": [
-        "https://pbs.twimg.com/media/HMvHRLsbIAAFJAi.png"
-      ],
-      "summary_ko": "R에서 @OpenAI로: SWE-Bench Pro에 대한 감사에서는 공개 작업의 의미 있는 공유에 결과를 왜곡할 수 있는 문제가 포함되어 있는 것으로 나타났습니다. 일부 올바른 솔루션은 숨겨진 요구 사항, 모순되는 지침, 지나치게 엄격한 테스트 또는 불완전한 채점 기준으로 인해 실패합니다.",
-      "published_at": "2026-07-08T21:41:33+00:00"
-    },
-    {
-      "id": "x:OpenAI:2074972179385720836",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2074972179385720836",
-      "text": "We audited SWE-Bench Pro, one of the most widely used AI coding benchmarks, and found it no longer reliably measures frontier coding capability. We find 30% of SWE-Bench Pro tasks to be broken, and are retracting our previous recommendation that the research community use it as a leading coding eval. https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2074947970945216512/mwA5m1c3?format=jpg&name=800x419"
-      ],
-      "summary_ko": "우리는 가장 널리 사용되는 AI 코딩 벤치마크 중 하나인 SWE-Bench Pro를 감사한 결과 더 이상 프론티어 코딩 기능을 안정적으로 측정하지 못하는 것으로 나타났습니다. 우리는 SWE-Bench Pro 작업의 30%가 손상되었음을 확인했으며 연구 커뮤니티에서 이를 선도적인 코딩 평가로 사용하라는 이전 권장 사항을 철회합니다. https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "published_at": "2026-07-08T21:41:33+00:00"
     },
     {
       "id": "tg:globaletfi/20572",
@@ -1033,116 +1277,6 @@
       ],
       "summary_ko": "RT by @yleun: 우리는 오픈 소스 모델에 대해 얼마나 더 좋고, 더 빠르고, 더 저렴하게 추론할 수 있는지 아직 겉핥기 단계에 불과합니다! @steeve의 @zml_ai와 같은 회사가 스토리지 계층으로 @huggingface와 통합된 추론 엔진을 사용하여 비밀에서 벗어나는 것을 보게 되어 매우 기쁩니다. 오픈소스 토큰을 최대한 활용해 보세요!",
       "published_at": "2026-07-08T18:22:02+00:00"
-    },
-    {
-      "id": "x:sama:2074909079450050629",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2074909079450050629",
-      "text": "GPT-live (next-generation voice) launches today in ChatGPT. it feels magical and 'real'. i have always preferred typing to talking to an AI, now i think that's going to shift.",
-      "images": [],
-      "summary_ko": "GPT-live(차세대 음성)가 오늘 ChatGPT에서 출시됩니다. 그것은 마술적이고 '현실'적인 느낌을 줍니다. 저는 항상 AI와 대화하는 것보다 타이핑하는 것을 선호했는데 이제는 그것이 바뀔 것이라고 생각합니다.",
-      "published_at": "2026-07-08T17:30:49+00:00"
-    },
-    {
-      "id": "x:OpenAI:2074907035225981169",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2074907035225981169",
-      "text": "R to @OpenAI: These new models are rolling out to everyone over the next few days, starting today. They’ll be available in ChatGPT across iOS, Android, and web. Coming soon to the API. Just tap the Voice button to talk with ChatGPT, and you’ll feel the magic of GPT-Live.",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2074904241559547904/img/XXuY2oC8xbRXcrmY.jpg"
-      ],
-      "summary_ko": "R에서 @OpenAI로: 이 새로운 모델은 오늘부터 며칠에 걸쳐 모든 사람에게 출시됩니다. iOS, Android 및 웹의 ChatGPT에서 사용할 수 있습니다. 곧 API에 제공될 예정입니다. 음성 버튼을 탭하여 ChatGPT와 대화하면 GPT-Live의 마법을 느낄 수 있습니다.",
-      "published_at": "2026-07-08T17:22:41+00:00"
-    },
-    {
-      "id": "x:OpenAI:2074907033577693636",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2074907033577693636",
-      "text": "R to @OpenAI: For questions that require web search, deeper reasoning, or more complex work, GPT-Live can delegate to our latest frontier model behind the scenes, and brings the result back into the conversation when it's ready.",
-      "images": [
-        "https://pbs.twimg.com/media/HMuNuUwaEAAJPOs.jpg"
-      ],
-      "summary_ko": "R에서 @OpenAI로: 웹 검색, 더 깊은 추론 또는 더 복잡한 작업이 필요한 질문의 경우 GPT-Live는 배후에서 최신 개척 모델에 위임하고 준비가 되면 결과를 다시 대화에 가져올 수 있습니다.",
-      "published_at": "2026-07-08T17:22:41+00:00"
-    },
-    {
-      "id": "x:OpenAI:2074907031862190406",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2074907031862190406",
-      "text": "R to @OpenAI: A good voice model should be enjoyable to talk to, and GPT-Live is a great conversationalist with a more natural and defined personality than previous voice models.",
-      "images": [
-        "https://pbs.twimg.com/media/HMuNYU6bQAAV-aa.jpg"
-      ],
-      "summary_ko": "R에서 @OpenAI로: 좋은 음성 모델은 대화가 즐거워야 하며, GPT-Live는 이전 음성 모델보다 더 자연스럽고 정의된 성격을 지닌 훌륭한 대화가입니다.",
-      "published_at": "2026-07-08T17:22:40+00:00"
-    },
-    {
-      "id": "x:OpenAI:2074907030343839925",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2074907030343839925",
-      "text": "R to @OpenAI: Our full-duplex architecture allows the model to engage in more natural back-and-forth, maintain a better sense of time, and even perform live translation.",
-      "images": [
-        "https://pbs.twimg.com/media/HMuNQIFbIAACaMZ.jpg"
-      ],
-      "summary_ko": "R에서 @OpenAI로: 당사의 전이중 아키텍처를 통해 모델은 보다 자연스러운 앞뒤로 참여하고 더 나은 시간 감각을 유지하며 실시간 번역도 수행할 수 있습니다.",
-      "published_at": "2026-07-08T17:22:40+00:00"
-    },
-    {
-      "id": "x:OpenAI:2074907028733178359",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2074907028733178359",
-      "text": "R to @OpenAI: GPT-Live is built on a full-duplex architecture, meaning it can listen and speak at the same time.",
-      "images": [
-        "https://pbs.twimg.com/media/HMuNJVoa8AAQ4ws.jpg"
-      ],
-      "summary_ko": "R에서 @OpenAI로: GPT-Live는 전이중 아키텍처를 기반으로 구축되었습니다. 즉, 동시에 듣고 말할 수 있습니다.",
-      "published_at": "2026-07-08T17:22:40+00:00"
-    },
-    {
-      "id": "x:OpenAI:2074907027378511884",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2074907027378511884",
-      "text": "R to @OpenAI: GPT-Live makes talking with AI feel like having a real conversation. It’s also our smartest voice model yet. https://openai.com/index/introducing-gpt-live/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2074902018817486848/hrnPVINi?format=jpg&name=800x419"
-      ],
-      "summary_ko": "R에서 @OpenAI로: GPT-Live를 사용하면 AI와 대화하는 것이 실제 대화를 하는 것처럼 느껴집니다. 이는 또한 우리의 가장 똑똑한 음성 모델이기도 합니다. https://openai.com/index/introducing-gpt-live/",
-      "published_at": "2026-07-08T17:22:39+00:00"
-    },
-    {
-      "id": "x:OpenAI:2074907025537224840",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2074907025537224840",
-      "text": "Pinned: Introducing GPT-Live, a new generation of voice models for natural human-AI interaction. Rolling out in ChatGPT starting today. You’ll want to turn the sound on for this one.",
-      "images": [
-        "https://pbs.twimg.com/media/HMuNB0WboAE_A7s.jpg"
-      ],
-      "summary_ko": "고정됨: 자연스러운 인간-AI ​​상호 작용을 위한 차세대 음성 모델인 GPT-Live를 소개합니다. 오늘부터 ChatGPT에 출시됩니다. 이 소리에 대해서는 소리를 켜고 싶을 것입니다.",
-      "published_at": "2026-07-08T17:22:39+00:00"
     },
     {
       "id": "x:demishassabis:2074847444823674883",
@@ -1301,18 +1435,6 @@
       "published_at": "2026-07-08T04:54:55+00:00"
     },
     {
-      "id": "x:sama:2074709023807664454",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2074709023807664454",
-      "text": "GPT-5.6 sol launches thursday! happy building",
-      "images": [],
-      "summary_ko": "GPT-5.6 sol이 목요일에 출시됩니다! 행복한 건물",
-      "published_at": "2026-07-08T04:15:52+00:00"
-    },
-    {
       "id": "tg:enc210406/4106",
       "source": "telegram",
       "author": "enc210406",
@@ -1465,7 +1587,7 @@
       "author_name": "Google DeepMind(딥마인드)",
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2074513661750546762",
-      "text": "🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets historians study Greek and Latin texts using plain English. 🧵",
+      "text": "Pinned: 🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets historians study Greek and Latin texts using plain English. 🧵",
       "images": [],
       "summary_ko": "🏛️ 우리는 고대 세계와 대화할 수 있는 새로운 방법을 공개합니다. Google @antigravity의 과거 예측 기술을 통해 Gemini를 전문가 모델 Aeneas 및 Ithaca에 직접 기반을 두어 역사가는 일반 영어를 사용하여 그리스어 및 라틴어 텍스트를 연구할 수 있습니다. 🧵",
       "published_at": "2026-07-07T15:19:34+00:00"
@@ -1605,32 +1727,6 @@
       "published_at": "2026-07-06T17:35:00+00:00"
     },
     {
-      "id": "x:AnthropicAI:2074185354035245553",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2074185354035245553",
-      "text": "R to @AnthropicAI: The J-space (named after the Jacobian, the mathematical technique we used) is different from Claude’s outputs, or even its “chain of thought” text. It’s in the model’s internal neural activations, and allows it to think about concepts without writing them down anywhere.",
-      "images": [],
-      "summary_ko": "R에서 @AnthropicAI로: J 공간(우리가 사용한 수학적 기법인 야코비안(Jacobian)의 이름을 따서 명명)은 Claude의 출력 또는 심지어 \"사고의 사슬\" 텍스트와도 다릅니다. 이는 모델의 내부 신경 활성화에 있으며 개념을 어디에도 적어 두지 않고도 개념을 생각할 수 있게 해줍니다.",
-      "published_at": "2026-07-06T17:34:59+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2074185351304724498",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2074185351304724498",
-      "text": "R to @AnthropicAI: In neuroscience, global workspace theory holds that thoughts become consciously accessible when they enter a privileged workspace that’s broadcast across the brain. Using a new interpretability technique, we found something similar in Claude: the J-space. https://www.anthropic.com/research/global-workspace",
-      "images": [
-        "https://pbs.twimg.com/card_img/2074180891954270209/ciXOpJZH?format=jpg&name=800x419"
-      ],
-      "summary_ko": "R to @AnthropicAI: 신경과학에서 글로벌 작업 공간 이론은 생각이 뇌를 통해 전달되는 특권적인 작업 공간에 들어갈 때 의식적으로 접근 가능해진다고 주장합니다. 새로운 해석 기술을 사용하여 Claude에서 J-space와 유사한 것을 발견했습니다. https://www.anthropic.com/research/global-workspace",
-      "published_at": "2026-07-06T17:34:58+00:00"
-    },
-    {
       "id": "x:demishassabis:2074157282477154597",
       "source": "x",
       "author": "demishassabis",
@@ -1649,46 +1745,10 @@
       "author_name": "Google DeepMind(딥마인드)",
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2074157282477154597",
-      "text": "Pinned: As @Apptronik expands their Robot Park facility, our research partnership means real-world data collected by the latest Apollo 2 humanoid platform will help train and advance Gemini Robotics. 🤖 Find out more → https://goo.gle/4vOPwpO",
+      "text": "As @Apptronik expands their Robot Park facility, our research partnership means real-world data collected by the latest Apollo 2 humanoid platform will help train and advance Gemini Robotics. 🤖 Find out more → https://goo.gle/4vOPwpO",
       "images": [],
       "summary_ko": "@Apptronik이 Robot Park 시설을 확장함에 따라 우리의 연구 파트너십은 최신 Apollo 2 휴머노이드 플랫폼에서 수집한 실제 데이터가 Gemini Robotics를 교육하고 발전시키는 데 도움이 될 것임을 의미합니다. 🤖 자세히 알아보기 → https://goo.gle/4vOPwpO",
       "published_at": "2026-07-06T15:43:26+00:00"
-    },
-    {
-      "id": "x:sama:2073791666553844074",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2073791666553844074",
-      "text": "our older kid put two words together for the first time and i am approximately as amazed by this cognitive feat as i am by GPT-5.6 discovering new math",
-      "images": [],
-      "summary_ko": "우리 큰 아이가 처음으로 두 단어를 조합했고 저는 GPT-5.6이 새로운 수학을 발견한 것만큼 이 인지적 업적에 놀랐습니다.",
-      "published_at": "2026-07-05T15:30:37+00:00"
-    },
-    {
-      "id": "x:sama:2073636003215249515",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2073636003215249515",
-      "text": "R to @sama: they really nailed it with \"life, liberty, and the pursuit of happiness\"",
-      "images": [],
-      "summary_ko": "R에서 @sama까지: 그들은 정말로 \"생명, 자유, 행복 추구\"로 성공했습니다.",
-      "published_at": "2026-07-05T05:12:04+00:00"
-    },
-    {
-      "id": "x:sama:2073635910512726444",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2073635910512726444",
-      "text": "grateful to the people that created the idea of america, everyone who built it over the past 250 years, and the people who will carry it forward for the next 250. most impressive social experiment in history.",
-      "images": [],
-      "summary_ko": "미국이라는 개념을 창안한 사람들, 지난 250년 동안 미국을 건설한 모든 사람, 그리고 다음 250년 동안 이를 이어갈 사람들에게 감사드립니다. 역사상 가장 인상적인 사회적 실험입니다.",
-      "published_at": "2026-07-05T05:11:42+00:00"
     },
     {
       "id": "x:karpathy:2073047118801993910",
@@ -1925,20 +1985,6 @@
       ],
       "summary_ko": "@GoogleDeepMind의 RT: AI 회사에서 일하는 윤리학자이자 철학자가 된다는 것은 무엇을 의미하나요? 우리는 어떤 질문을 탐구하며 긍정적인 변화에 영향을 미칠 수 있습니까? 이러한 주제에 대해 자세히 알아보려면 오늘 @guardian에서 Bobby Baird가 오랫동안 읽은 새로운 글을 확인하세요...",
       "published_at": "2026-06-30T08:38:30+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2070300619257106819",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2070300619257106819",
-      "text": "RT by @GoogleDeepMind: I am excited to share our latest work from the Discovery team at @GoogleDeepMind: COrigami, an end-to-end pipeline for co-designing origami with Gemini! Origami is a unique mix of math, art and design. Creating origami involves turning abstract concepts into real-world objects, using the math of flat foldability. To tackle this, COrigami calls Gemini to generate a semantic stick figure—an abstract JSON code—refined through a visual feedback loop. It then calls custom packing, solving, shaping, and simulation tools. Driven by another self-improving reinforcement learning (RL) loop, the system produces visually recognisable models represented as SVG crease patterns. Despite scarce data availability, this approach demonstrates how combining RL with frontier models like Gemini can assist human creativity and produce physical art. The generated patterns serve as mathematically grounded starting points for origami artists to fold and shape into a final, physical design. The models below were produced by our system and then folded and shaped by @brandon_w0ng. Read the full paper here: https://arxiv.org/abs/2606.26299",
-      "images": [
-        "https://pbs.twimg.com/media/HLsvcD8XUAA-m26.jpg"
-      ],
-      "summary_ko": "@GoogleDeepMind의 RT: @GoogleDeepMind에서 Discovery 팀의 최신 작업을 공유하게 되어 기쁩니다. COrigami는 Gemini와 함께 종이 접기를 공동 디자인하기 위한 엔드 투 엔드 파이프라인입니다! 종이접기는 수학, 예술, 디자인의 독특한 조합입니다. 종이접기를 만드는 것은 평평한 접기의 수학을 사용하여 추상적인 개념을 실제 물체로 바꾸는 것을 포함합니다. 이 문제를 해결하기 위해 COrigami는 Gemini를 호출하여 시각적 피드백 루프를 통해 개선된 의미론적 막대 그림(추상 JSON 코드)을 생성합니다. 그런 다음 사용자 정의 패킹, 해결, 형성 및 시뮬레이션 도구를 호출합니다. 또 다른 자체 개선 강화 학습(RL) 루프에 의해 구동되는 시스템은 SVG 주름 패턴으로 표시되는 시각적으로 인식 가능한 모델을 생성합니다. 데이터 가용성이 부족함에도 불구하고 이 접근 방식은 RL을 다음과 같은 프론티어 모델과 결합하는 방법을 보여줍니다.",
-      "published_at": "2026-06-26T00:18:26+00:00"
     },
     {
       "id": "rss:semianalysis:us-grid-constraints-towards-40gw",
@@ -2254,20 +2300,6 @@
       "published_at": "2026-06-09T15:18:23+00:00"
     },
     {
-      "id": "rss:semianalysis:deepseekv4-16t-day-0-to-day-43-performance",
-      "source": "rss",
-      "author": "semianalysis",
-      "author_name": "SemiAnalysis",
-      "author_url": "https://semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/deepseekv4-16t-day-0-to-day-43-performance",
-      "text": "DeepSeekV4 1.6T Day 0 to Day 43 Performance Over Time - Huawei, GB300 NVL72, MI355X, B200\n\nDay 0 Inference Performance, InferenceX, 100x performance improvement in 26 Days, Cost per Million Tokens, Huawei 950DT Inference Trace Analysis",
-      "images": [
-        "https://substack-post-media.s3.amazonaws.com/public/images/3c51176d-01fe-4b7c-ac73-1ef55f327bd3_1533x862.png"
-      ],
-      "summary_ko": "DeepSeekV4 1.6T 0일차 ~ 43일차 시간 경과에 따른 성능 - Huawei, GB300 NVL72, MI355X, B200\n\n0일 차 추론 성능, InferenceX, 26일 만에 100배 성능 향상, 백만 토큰당 비용, Huawei 950DT 추론 추적 분석",
-      "published_at": "2026-06-09T12:15:56+00:00"
-    },
-    {
       "id": "x:GoogleAI:2062942864288387430",
       "source": "x",
       "author": "GoogleAI",
@@ -2508,18 +2540,6 @@
       "published_at": "2026-05-11T16:20:21+00:00"
     },
     {
-      "id": "x:AndrewYNg:2053857910451827061",
-      "source": "x",
-      "author": "AndrewYNg",
-      "author_name": "Andrew Ng(앤드류 응) · AI 교육자",
-      "author_url": "https://x.com/AndrewYNg",
-      "url": "https://x.com/AndrewYNg/status/2053857910451827061",
-      "text": "I'm delighted that @coursera and @udemy have come together as one company to serve learners. Both Coursera and Udemy were founded with the belief that access to high-quality education changes lives. Over the years, both companies have advanced this goal, creating opportunities for individuals, organizations, and communities around the world. That role is even more important now, as AI is changing the nature of work and increasing the need for continuous learning. Helping people build job-relevant skills will be critical to how we create a better world. By combining the strengths of both ‌companies, we can better serve this need. We bring together a broader range of learning content, trusted instructors and educators, and engaging learning experiences. This creates new opportunities to make learning more personalized, more applied, and more accessible at scale. I’m excited to serve as Chairman of the combined company, working alongside Greg Hart and the leadership team. There is a strong foundation in both organizations, and I look forward to what the teams will build together to expand access opportunity globally. Learn more: http://blog.coursera.org/coursera-and-udemy-are-now-one-company-creating-the-worlds-most-comprehensive-skills-platform/",
-      "images": [],
-      "summary_ko": "@coursera와 @udemy가 학습자에게 서비스를 제공하기 위해 하나의 회사로 함께 모이게 되어 기쁩니다. Coursera와 Udemy는 모두 고품질 교육에 대한 접근이 삶을 변화시킨다는 믿음으로 설립되었습니다. 수년에 걸쳐 두 회사는 이 목표를 발전시켜 전 세계 개인, 조직 및 지역 사회를 위한 기회를 창출해 왔습니다. AI가 업무의 성격을 변화시키고 지속적인 학습의 필요성이 증가함에 따라 이제 그 역할은 더욱 중요해졌습니다. 사람들이 직업 관련 기술을 습득하도록 돕는 것은 우리가 더 나은 세상을 만드는 데 매우 중요합니다. 두 회사의 강점을 결합함으로써 우리는 이러한 요구를 더 잘 충족할 수 있습니다. 우리는 더욱 광범위한 학습 콘텐츠, 신뢰할 수 있는 강사 및 교육자, 매력적인 학습 경험을 한자리에 모았습니다. 이는 새로운 기회를 창출합니다.",
-      "published_at": "2026-05-11T15:20:59+00:00"
-    },
-    {
       "id": "x:karpathy:2049907410303865030",
       "source": "x",
       "author": "karpathy",
@@ -2530,20 +2550,6 @@
       "images": [],
       "summary_ko": "최근 제가 자주 인용하고 있는 명언입니다.",
       "published_at": "2026-04-30T17:43:06+00:00"
-    },
-    {
-      "id": "x:karpathy:2049903821095354523",
-      "source": "x",
-      "author": "karpathy",
-      "author_name": "Andrej Karpathy(안드레이 카파시) · AI 연구자",
-      "author_url": "https://x.com/karpathy",
-      "url": "https://x.com/karpathy/status/2049903821095354523",
-      "text": "Fireside chat at Sequoia Ascent 2026 from a ~week ago. Some highlights: The first theme I tried to push on is that LLMs are about a lot more than just speeding up what existed before (e.g. coding). Three examples of new horizons: 1. menugen: an app that can be fully engulfed by LLMs, with no classical code needed: input an image, output an image and an LLM can natively do the thing. 2. install .md skills instead of install .sh scripts. Why create a complex Software 1.0 bash script for e.g. installing a piece of software if you can write the installation out in words and say \"just show this to your LLM\". The LLM is an advanced interpreter of English and can intelligently target installation to your setup, debug everything inline, etc. 3. LLM knowledge bases as an example of something that was *impossible* with classical code because it's computation over unstructured data (knowledge) from arbitrary sources and in arbitrary formats, including simply text articles etc. I pushed on these because in every new paradigm change, the obvious things are always in the realm of speeding up or somehow improving what existed, but here we have examples of functionality that either suddenly perhaps shouldn't even exist (1,2), or was fundamentally not possible before (3). The second (ongoing) theme is trying to explain the pattern of jaggedness in LLMs. How it can be true that a single artifact will simultaneously 1) coherently refactor a 100,000-line code base *and* 2) tell you to walk to the car wash to wash your car. I previously wrote about the source of this as having to do with verifiability of a domain, here I expand on this as having to also do with economics because revenue/TAM dictates what the frontier labs choose to package into training data distributions during RL. You're either in the data distribution (on the rails of the RL circuits) and flying or you're off-roading in the jungle with a machete, in relative terms. Still not 100% satisfied with this, but it's an ongoing struggle to build an accurate model of LLM capabilities if you wish to practically take advantage of their power while avoiding their pitfalls, which brings me to... Last theme is the agent-native economy. The decomposition of products and services into sensors, actuators and logic (split up across all of 1.0/2.0/3.0 computing paradigms), how we can make information maximally legible to LLMs, some words on the quickly emerging agentic engineering and its skill set, related hiring practices, etc., possibly even hints/dreams of fully neural computing handling the vast majority of computation with some help from (classical) CPU coprocessors.",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2049267312243638273/img/VIiHQxskxmLlm1Xi.jpg"
-      ],
-      "summary_ko": "일주일 전 Sequoia Ascent 2026에서 노변담화를 나누었습니다. 몇 가지 하이라이트: 제가 강조하려고 했던 첫 번째 주제는 LLM이 이전에 존재했던 것(예: 코딩)의 속도를 높이는 것 이상의 역할을 한다는 것입니다. 새로운 지평의 세 가지 예: 1. menugen: LLM으로 완전히 통합될 수 있는 앱으로 기존 코드가 필요하지 않습니다. 이미지를 입력하고 이미지를 출력하면 LLM이 기본적으로 해당 작업을 수행할 수 있습니다. 2. .sh 스크립트를 설치하는 대신 .md 기술을 설치합니다. 예를 들어 복잡한 Software 1.0 bash 스크립트를 만드는 이유는 무엇입니까? 설치 내용을 말로 작성하고 \"이것을 LLM에 보여주세요\"라고 말할 수 있는 경우 소프트웨어 설치. LLM은 영어의 고급 통역사이며 설정에 맞게 설치 대상을 지능적으로 지정하고 모든 것을 인라인으로 디버깅하는 등의 작업을 수행할 수 있습니다. 3. LLM 지식 기반을 예를 들어 설명합니다.",
-      "published_at": "2026-04-30T17:28:50+00:00"
     }
   ]
 }
