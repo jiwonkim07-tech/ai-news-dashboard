@@ -1,22 +1,83 @@
 {
-  "updated_at": "2026-07-10T10:54:10+00:00",
+  "updated_at": "2026-07-10T13:11:54+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 13
+    "new_this_run": 5
   },
   "briefing": {
     "headline": "중국, 반도체 핵심소재 헬륨 수출 금지",
     "bullets": [
-      "난야테크, 2분기 매출총이익률 80% 육박",
-      "DRAM 가격 상승세 지속",
-      "2027년 HBM 가격 두 배 급등 전망",
-      "마이크론, 미국 투자 가속화",
-      "중국, 2030년까지 풍력·태양 에너지 52% 증가 목표"
+      "미국 주식 펀드에서 1주에 172억 달러 유출",
+      "SK하이닉스 공모 규모는 역대 최대지만 전체 시가총액의 3%",
+      "DRAM으로 대박! 난야테크, 2분기 EPS 14.66 대만달러 달성",
+      "2027년 HBM 가격 '두 배 급등' 전망… 서버용 메모리 수요 증가"
     ],
-    "generated_at": "2026-07-10T10:54:10+00:00",
+    "generated_at": "2026-07-10T13:11:54+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31463",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31463",
+      "text": "미국증시 4개월여만에 주간 최대 자금 유출. ‘매도 시그널‘ 여전(BofA)  • 미국 주식 펀드에서 한주에 172억 달러 유출. 2026년 3월 이후 최고치 기록. 그러나 BofA Bull&Bear  지표 9.5로 상승 & 6주째 \"매도 시그널\" 지속  • 반도체주 변동성으로 필라델피아반도체지수 이틀간 11% 하락  • 자금은 고정수익형/테크펀드/일본주식으로 빠르게 이동. 금/암호화폐 손실은 지속  美股遭遇近四个月最大单周资金流出，美银Hartnett：\"卖出信号\"仍在闪烁…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-10T13:00:14+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20596",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20596",
+      "text": "파이낸셜타임스(FT)는 이번 상장만으로 밸류에이션 격차가 크게 줄어들지는 않을 것으로 내다봤다. 이번 공모 규모는 역대 최대지만 SK하이닉스 전체 시가총액의 3%에도 미치지 못하는 데다, SK하이닉스와 삼성전자가 한국 증시 시가총액의 절반 이상을 차지할 만큼 비중이 커 기관투자가들이 내부 규정상 이들 종목을 원하는 만큼 담기 어려운 구조라는 것이다.\nFT는 대만 TSMC 사례도 제시했다. 이론적으로 미국 ADR은 원주와 같은 가치에 거래돼야 하지만, TSMC의 미국 ADR은 최근 3년간 대만 원주보다 20% 이상 높게 거래되는 경우가 잦았다. 미국 ADR을 대만 주식으로 바꿀 수는 있어도 반대는 어려운 구조인 데다, 미국 시장의 유동성이 훨씬 높고 지수 편입 효과 때문이다.\nFT는 \"SK하이닉스의 새 미국 주식은 AI 투자에 직접 투자하는 수단이라기보다, 현재 AI 투자 열기가 얼마나 뜨거운지 보여주는 척도에 가까울 수 있다\"고 평가했다.\n\"1년 전엔 이름도 몰랐는데\"…외신이 본 SK하이닉스 美 상장의 의미\nhttps://n.news.naver.com/article/003/0014059570",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-10T12:59:04+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23461",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23461",
+      "text": "마이크펜스 트럼프 1기때 부통령도 트럼프의 관세정책을 다시 비판중\n\"대통령이 자신의 관세가 작동하고 있다고 말한 것은 옳습니다—미국의 일자리를 파괴하고 물가를 끌어올리는 데 있어서 말입니다. 미국은 2025년 1월 이후 약 75,000개의 제조업 일자리를 잃었으며, 이 중 25,900개는 자동차 및 부품 생산 부문에서 발생했습니다.\"\n펜스 전 부통령은 25년 초에도 트럼프의 관세정책을 비판하며, 자유무역이 미국인의 삶을 개선했다고 말한적 있습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/nZTp7QwbeF44k_BZefl-iRoU0j2d6jMfjkZ2KJJAdXs3TasKP7USLvXG7YEPw80YGgZeKCk3D0qVvwGExVr6LWdpObDvxbU9iGtFSy0YR5-6stvFrtjXl11_GEmH7X_OYKyPJdmRgFZ7X-5xhsw4SeoyAWMvltg_MXxtZGrkeGs_78NshTbK-ekgJPvTA8FBA85CeSA0DlE-iHh9IT8_XdqwNpSTBo0NJn08YpCSvl5tJc6b1zRhlYSrfIINR8gpo1tkxC5nWq5-frhW2GHRJUdIoxRPDUywrFogbj2_KO2rJqwhkqrIahm1FG7tnX-62REKjYPScHx4Q9wyEAvGBA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-10T12:40:41+00:00"
+    },
+    {
+      "id": "tg:EMchina/31462",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31462",
+      "text": "미 당국자: \"미국-이란 기술 협상 유지\"  • 한 미국 정부 관계자에 따르면 이란 문제에 대해 미국은 여전히 해결책 모색. 관련 기술 협상 계속되는 중(CCTV)  美官员：美伊相关技术谈判仍在继续 总台记者当地时间9日获悉，一名美国官员表示，在伊朗问题上美国仍致力于寻求解决方案，相关技术谈判仍在继续。（央视新闻）",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-10T12:30:49+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23460",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23460",
+      "text": "Citi) AI 「Inference Ahead」 - 모델, 로봇, 캡티브(7월 10일)\n씨티의 견해\n이번 주 프런티어 모델 제공업체들이 세 개의 모델을 출시한 이후, 평균 출력 토큰 가격은 계속 상승했으며 호퍼와 블랙웰 인스턴스 전반에서 GPU 임대 가격도 올랐습니다(그림 1). 두 가지 가격 추세 모두 신규 용량이 가동되기 시작했음에도 여전히 제약을 받고 있는 공급보다 기업의 도입이 더 빠르게 가속화되고 있다는 점을 반영합니다. 일시적으로 공급이 풀려도 나타나는 즉시 빠르게 흡수되고 있습니다. 당사는 이러한 초과 수요가 전력에서 반도체 자본장비, 메모리, 컴퓨팅에 이르기까지 스택 전반의 가격을 계속 끌어올릴 것으로 예상하며, 지속적인 희소성의 수혜 기업들이 계속해서 아웃퍼폼할 것으로 봅니다.\n문제는 ‘여부’가 아니라 ‘시점’입니다. 수요 부족이 아니라 지역사회의 반대, 노동력 부족, 장비 제약에 의해 초래되는 데이터센터 건설 지연은, 당사의 점검 결과를 기준으로 2026년 4분기 프로젝트들이 2027년 2분기와 3분기 프로젝트로 밀리면서 향후 몇 주 동안 경영진 발언의 주요 특징이 될 것으로 예상합니다. 이는 전체 수요 곡선을 낮추는 것이 아니라 곡선의 형태를 오른쪽으로 이동시킬 것으로 봅니다. 추가적인 하이퍼스케일러 용량이 공급되고 갱신 계약이 현재 가격의 수혜를 받게 되면서, 시장의 초점은 점차 자본적지출 전망 상향에서 매출 성장 가속으로 이동할 것으로 예상하며, 이는 최근의 주가 부진을 되돌리는 요인이 될 것입니다.\n작은 호재입니다. 과거에는 내부 전용이었던 SpaceXAI와 메타의 저활용 용량이 개방되면서, 현재 직면한 수요 대비 심각한 컴퓨팅 부족을 겪고 있는 모델 제공업체들에 빠르게 재배분되고 있습니다. 대규모 유휴 컴퓨팅 자원을 보유한 개발업체는 극히 드물며, 데이터센터 건설 지연으로 공급 제약은 계속될 가능성이 큽니다. 이에 따라 토큰 가격과 임대 가격은 높은 수준을 유지하고 있습니다(그림 7, 그림 8). 인허가 역시 정치 및 건설 측면에서 점점 더 중요한 변수가 되고 있습니다. 12월 이후 연방 및 주지사 선거 후보 25명이 데이터센터 반대를 내세우거나, 데이터센터를 지지한 상대 후보를 공격하는 선거 광고를 내보냈습니다(블룸버그, 7월 9일).\n비용 곡선입니다. 프런티어는 계속 전진하고 있습니다. SpaceXAI의 Grok 4.5와 Muse Spark 1.1을 포함한 신규 진입자들은 속도와 비용 측면에서 경쟁군 간 격차를 축소하고 있으며, 최고 수준의 오픈 모델과 최고 수준의 폐쇄형 모델 간 지능 격차는 확대되고 있습니다(그림 2, 그림 1). 기업들이 지출을 최적화하기 위해 라우팅 기술을 활용하면서, 순수한 성능 대신 비용이 점점 더 중요한 관심사가 되고 있습니다. 한편 Ramp의 데이터는 거의 모든 고객 업종에서 AI 도입이 꾸준히 증가하고 있음을 계속 보여주고 있습니다(그림 9). 중간급 모델 시장에서는 효율성과 지능 밀도가 계속 핵심 초점이 되고 있으며, PrismML은 Qwen 3.6의 용량을 54GB에서 4GB로 압축했습니다. 이는 아이폰 17 프로에서 구동할 수 있을 만큼 작은 크기입니다(The Information, 7월 9일).\n로봇입니다. 다음 수요 동력인 피지컬 AI가 모멘텀을 얻고 있습니다. 제4회 연례 씨티 피지컬 AI 서밋에서는 이 신흥 산업이 현재 데이터, 전력, 안전에 의해 제약을 받고 있지만, 단순한 사이클이 아니라 지속적인 성장 논리를 강화하는 장기 수요 기여 요인이라는 점이 재차 강조되었습니다. 이 모든 것의 기반에서는 AI 전반의 자금조달 인프라가 계속 구축되고 있으며, 반도체 제조업체들은 AI 인프라 확충을 위한 전략적 금융 지원을 지속적으로 제공하고 있습니다. 이러한 자금 지원은 지속성과 효율성의 원천이 되지만, 동시에 집중도와 의존성 리스크도 증폭시킵니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-10T11:59:00+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23459",
       "source": "telegram",
@@ -36,7 +97,7 @@
       "author_name": "한투증권 중국/신흥국 정정영",
       "author_url": "https://t.me/EMchina",
       "url": "https://t.me/EMchina/31461",
-      "text": "아..\nhttps://n.news.naver.com/article/001/0016188250?sid=104",
+      "text": "~ 이에 대해 이코노미스트 인텔리전스 유닛의 수석 경제학자 쉬톈천은 \"이란 전쟁의 긴장 완화에도 헬륨 공급이 여전히 매우 부족한 게 이번 수출 금지 조치의 원인이 됐을 수 있다\"고 평가했다\n~ 이어 \"\n중국이 CXMT와 같은 국내 반도체 제조업체의 생산이 차질 없이 진행되도록 보장하려는 신호일 가능성이 높다\n\"고 덧붙였다\n~ 헬륨 생산은 소수 국가에 집중돼 있다. 미국 지질조사국에 따르면 지난해 기준 전 세계 생산량의 약 42.6%를 미국이, 약 33.2% 카타르가 차지했다\n~ 이에 따라 중국의 조치에 대한 대외 영향력은 크지 않을 가능성이 있다. 중국 상품 데이터 제공업체인 SCI99에 따르면 중국은 헬륨 공급량의 80% 이상을 해외에서 수입하고 있다\nhttps://n.news.naver.com/article/421/0009053263?sid=104",
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-10T10:36:42+00:00"
@@ -329,20 +390,6 @@
       "published_at": "2026-07-10T03:54:12+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23448",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23448",
-      "text": "뉴저지주, 새로운 법안 통관시 테슬라 로보택시가 금지될 수 있어\n뉴저지주가 완전자율주행차 상용화를 허용하려 하면서도, 카메라 단독 방식만 쓰는 테슬라를 사실상 배제할 수 있는 법안을 추진하고 있다는 내용입니다. 올해 후반 표결이 예상되는 이 법안은 뉴저지에서 완전자율주행차를 운행하려는 기업에 카메라 외에 라이다·레이더 등 두 가지 감지 기술을 추가로 갖추도록 의무화하는데, 통과되면 하드웨어 사양을 법으로 규정하는 첫 사례가 되며 이웃 뉴욕주의 유사 법안보다 앞서게 됩니다. 카메라만 사용하는 테슬라의 로보택시는 하드웨어를 바꾸지 않는 한 뉴저지에서 운행할 수 없게 됩니다.\n법안의 주 발의자인 민주당 앤드루 즈위커 상원의원은 물리학자로, 이 법안이 반(反)테슬라가 아니라 뉴저지의 안전을 위한 것이라고 강조합니다. 그는 피닉스에서 웨이모 로보택시를 타 본 뒤 자율주행이 교통을 혁신할 수 있다고 확신하게 됐지만, 미국에서 인구밀도가 가장 높은 주인 만큼 신중한 도입이 필요하며 현재로서는 소프트웨어를 결합한 단일 센서가 인간 수준의 대응을 할 수 있다는 증거가 충분치 않다고 봅니다. 법안은 3년간의 시범 프로그램을 마련해, 기업이 다중 감지 기술을 사용하고 특정 사고를 보고하며 주 당국의 승인을 받도록 하고, 안전 운전자를 없애기 전에 뉴저지에서 중대 사고 없이 최소 5만 마일의 감독 주행을 완료하도록 요구합니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/NS7ZbJL6WpXusTYDkBT8ZbSqZnejkwlubb2y0Ve4WDVRQgvhTQ8SygWV-SErkI422E0DB_FPdrM1xUA0vD0HM-RnlUHC3JUN_oUPIjsV-sUn1_lGoqzWvBeLbr3b0OiXwko-r4F2UFqWfOXsGl90JkQ0-sglnQoYU0GklqKliEJcq10mpWqSUr5cm162CjIc2eLNK4p_f91MOwuIcXRCmUx16VlI4FB2zJl1RegqIXFNZEBp2yDlAGd2cdSOglGl2owdrWDuKHec2Ycppe6wwLEXKdRchh3UbwHoG1bf-tlGcnEYm3nErHC-7CY1VKonMCk55FEpPlQ8o9I6dIfdxw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-10T03:51:02+00:00"
-    },
-    {
       "id": "tg:EMchina/31454",
       "source": "telegram",
       "author": "EMchina",
@@ -353,18 +400,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-10T03:46:31+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23447",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23447",
-      "text": "‘레버리지 ETF’ 신규상장 제한 검토… 예탁금도 1000만→최대 5000만원\nhttps://n.news.naver.com/article/021/0002803844?type=editn&cds=news_edit",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-10T03:22:24+00:00"
     },
     {
       "id": "tg:HI_GS/6681",
@@ -629,18 +664,6 @@
       "published_at": "2026-07-09T23:17:31+00:00"
     },
     {
-      "id": "tg:EMchina/31451",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31451",
-      "text": "이란: 호르무즈해협 통행 능력 전쟁 전 50% 회복  • 이란 혁명수비대 해군 성명 발표. 지난 2주동안 이란은 호르무즈해협 점진적으로 개방. 현재 통행 능력은 전쟁 이전 수준의 약 50%로 회복  伊朗说霍尔木兹海峡通行能力已恢复至战前50% 据伊朗伊斯兰共和国广播电视台9日报道，伊朗伊斯兰革命卫队海军发表声明说，过去两周伊方已逐步开放霍尔木兹海峡，目前通行能力已恢复至战前水平的约50%。  https://wallstreetcn.com/livenews/3131394?ivk=1#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-09T23:14:13+00:00"
-    },
-    {
       "id": "x:sama:2075354679031067058",
       "source": "x",
       "author": "sama",
@@ -651,18 +674,6 @@
       "images": [],
       "summary_ko": "나는 이것에 대해 정말 슬프고 fidji가 openai를 위해 해준 모든 것에 대해 매우 감사하고 심지어 그녀의 우정과 그녀가 어떤 사람인지에 대해 감사합니다. 우리 모두는 그녀의 빠른 회복을 기원합니다. 이건 짜증나.",
       "published_at": "2026-07-09T23:01:28+00:00"
-    },
-    {
-      "id": "tg:EMchina/31450",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31450",
-      "text": "BofA, IPO 앞둔 OpenAI에 5.2억달러 규모 신용한도 제공  美银向OpenAI提供5.2亿美元信贷额度，以争取IPO承销席位。  https://kr.investing.com/news/stock-market-news/article-93CH-2009291",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-09T22:58:54+00:00"
     },
     {
       "id": "tg:enc210406/4116",
@@ -1098,18 +1109,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-09T15:00:04+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20583",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20583",
-      "text": "🔹\n기업들의 관세 비용 전가, 추가 반영 전망\n[NY Fed]\n» 최근 12개월 동안 관세를 직접 부담한 기업들 가운데\n서비스업의 47%, 제조업의 44%가 앞으로도 추가 가격 인상을 계획\n. 특히 서비스업의 31%, 제조업의 37%는 향후 6개월 이내 가격 인상을 계획하고 있으며, 서비스업의 16%, 제조업의 7%는 6개월 이후에도 추가 인상을 예고\n» 한편 서비스업의 53%, 제조업의 56%는 이미 관세 부담을 가격에 모두 반영했거나(서비스업 29%, 제조업 18%), 추가 가격 인상이 필요하지 않거나(서비스업 21%, 제조업 30%), 관세 영향이 미미하다고 응답(서비스업 3%, 제조업 8%)해 추가 인상을 계획하지 않고 있다고 응답\n» 기업들이 가격 인상을 장기간에 걸쳐 진행하는 이유는 크게 두 가지\n- 첫째,\n장기 고정가격 계약\n으로 인해 계약이 종료되기 전까지는 판매가격을 올리기 어려워 비용 부담을 일시적으로 흡수\n- 둘째, 소비자들의\n수요 위축을 최소화\n하기 위해 가격을 한 번에 크게 올리기보다 단계적으로 인상하는 전략을 채택하는 기업이 많기 때문. 또한 향후 관세율 변경, 예외 적용, 상대국의 대응 등 정책 불확실성도 기업들이 점진적인 가격 인상 전략을 선택하는 배경으로 작용\n» 뉴욕 연은의 서베이 결과는 관세에 따른 비용 부담이 소비자 가격으로 단번에 전가되는 것이 아니라 약 1년에 걸쳐 점진적으로 반영되는 경향이 있음을 시사\n» 이에 따라\n관세발 물가 상승 압력도 예상보다 장기간 지속될 가능성\n이 있으며, 향후 미국 인플레이션의 상방 압력 요인으로 작용할 수 있다는 점에 주목할 필요\nhttps://libertystreeteconomics.newyorkfed.org/2026/07/more-tariff-pass-through-is-in-the-pipeline/?utm_source=chatgpt.com",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-09T14:45:11+00:00"
     },
     {
       "id": "x:sama:2075128093891801305",
