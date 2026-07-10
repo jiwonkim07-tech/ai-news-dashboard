@@ -1,22 +1,163 @@
 {
-  "updated_at": "2026-07-10T07:35:51+00:00",
+  "updated_at": "2026-07-10T10:54:10+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 19
+    "new_this_run": 13
   },
   "briefing": {
-    "headline": "난야테크, 2분기 EPS 14.66 대만달러 달성",
+    "headline": "중국, 반도체 핵심소재 헬륨 수출 금지",
     "bullets": [
-      "메타, AI 클라우드 사업 진출 검토",
+      "난야테크, 2분기 매출총이익률 80% 육박",
       "DRAM 가격 상승세 지속",
-      "SK하이닉스 ADR, 나스닥 거래 예정",
+      "2027년 HBM 가격 두 배 급등 전망",
       "마이크론, 미국 투자 가속화",
-      "2027년 CoWoS 월 생산능력 20만 장 전망"
+      "중국, 2030년까지 풍력·태양 에너지 52% 증가 목표"
     ],
-    "generated_at": "2026-07-10T07:35:51+00:00",
+    "generated_at": "2026-07-10T10:54:10+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/23459",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23459",
+      "text": "📊\nDeutsche Bank | Meta; 「Buyers of Capacity」 (2026.7.9)\n■ 핵심 요약\n언론 보도에 따르면 메타는 데이터센터 용량을 2027년까지 14GW로 두 배 확대하고, 자체 칩 \"Iris\"의 대량 생산을 9월(약 2개월 후)부터 앞당길 계획입니다. 이날 아침 주가는 즉각적으로 하락 반응을 보였으나, 도이체방크는 이러한 반응이 과도하다고 판단합니다.\n■ 캐펙스(Capex) 관점\n2027년에 7GW를 추가할 경우 GW당 약 $35bn을 가정하면 AI 관련 캐펙스는 약 $245bn에 달합니다. 이 지출의 일부는 2026~2027년에 걸쳐 분산될 가능성이 높지만, 최소한으로 잡아도 2027년 캐펙스는 $200bn을 상회할 수 있습니다. 시장 컨센서스가 약 $160~165bn으로 크게 낮은 반면, 도이체방크의 기존 전망은 약 $185bn 수준이었고, 바이사이드(buyside)는 이보다 훨씬 높은 약 $220bn을 예상했던 것으로 보입니다.\n메타는 또한 합작법인 \"Hyperion\"을 설립했으며, 이는 2027년에 약 1.5GW를 추가할 수 있고 장기적으로는 약 5GW 구축 계획을 포함합니다. 이는 부외(off-balance sheet) 거래로, 메타가 부담하는 몫은 더 적으며 이미 상당 부분 투자가 이뤄졌을 가능성이 높습니다. Hyperion을 제외하면 메타의 순증 용량은 2027년 약 5.5GW에 그칠 수 있으며, GW당 $35bn 기준으로 캐펙스는 약 $190~195bn 수준이 됩니다.\n■ 칩 믹스(Iris/MTIA)와 원가 절감\n위 계산의 단순화 가정은 GW당 캐펙스입니다. $35bn 추정치는 엔비디아 칩만으로 데이터센터를 구축하는 코어위브(Coreweave)의 비용에 기반하며, 여기에는 상당한 매출총이익률이 포함되어 있습니다. 메타가 \"Iris\" 칩을 대량 생산하려는 이유가 바로 여기에 있는데, 이는 값비싼 외부 실리콘 의존도를 낮추기 위해 자체 설계 중인 MTIA(Meta Training and Inference Accelerators) 4세대 프로젝트의 일부입니다. 이러한 칩이 전체 데이터센터 비용의 약 60~65%를 차지하므로, 엔비디아 GPU 대비 50% 가격 인하(엔비디아 매출총이익률이 약 75%임을 감안하면 비현실적이지 않은 수준)는 데이터센터 비용을 약 30~35% 낮출 수 있습니다. 2027년에 Iris 칩과 GPU를 50:50으로 혼합해 5.5GW를 추가하면 평균 GW당 약 $30bn, 총지출 약 $165bn으로, 이는 바이사이드가 이미 가정하고 있는 범위 내에 충분히 들어옵니다.\n■ 초과 용량 임대(3P 클라우드) 기회\n메타는 초과 용량을 활용해 제3자 대상 단기 임대를 제공할 계획입니다. FY27에 보도된 14GW를 반영하면 약 $24bn의 증분 3P 클라우드 매출(시나리오 분석상 base case, $15~36bn 범위) 잠재력, 즉 시장 추정치 대비 약 8% 상향 여지가 있습니다. 이는 이전 분석의 $17bn보다 크게 높은 수치입니다. 더 빠른 구축에 따라 감가상각비(D&A)가 증가하겠으나, 2027년 캐펙스가 바이사이드 예상 대비 크게 높지 않을 가능성을 감안하면 영향은 제한적일 수 있습니다. 증분 매출을 50~75% 증분 마진으로 단순 반영하면 GAAP EPS가 약 $5 추가되어 현재 컨센서스 대비 약 14% 상회(기존 base case 약 10% 대비)하게 됩니다.\n■ 모델 출시 가속\n메타는 에이전틱 코딩을 지원하는 Muse Spark 1.1을 출시했습니다. 이는 이번 주 초 크리에이터와 광고주의 이미지 제작을 간소화하는 Muse Image 모델(코드명 \"Mango\") 출시에 이은 것입니다. 도이체방크는 이러한 빠른 모델 출시 반복이 MSL 팀이 지난 9~10개월간 메타의 AI 스택을 처음부터 구축했다는 견해에 신빙성을 더한다고 봅니다. 인프라가 갖춰진 만큼 향후 더 예측 가능하고 잦은 모델 출시 주기가 예상되며, 이는 주가 촉매로도 작용할 수 있습니다.\n■ 엔비디아 의존도 축소 (Iris 관련 추가 사실)\n로이터에 따르면 메타는 9월부터 Iris 생산을 시작하고 컴퓨팅 인프라를 2026년 7GW에서 2027년 14GW로 두 배 확대하는 것을 목표로 하고 있습니다. Iris는 약 6주간의 테스트를 큰 문제 없이 통과했으며, 메타는 설계에서 브로드컴(Broadcom), 제조에서 TSMC와 협업하고 있고, 2027년까지 기존의 연간 칩 출시 주기보다 빠른 칩 개발 속도를 계획하고 있습니다. 도이체방크는 시장의 즉각적 반응이 세 가지 상쇄 요인을 간과했다고 봅니다. 첫째 증분 용량의 상당 부분이 부외 또는 파트너 자금 조달 구조로 이뤄질 가능성, 둘째 MTIA 진전이 머천트 GPU에 대한 장기 의존도를 낮추고 GW당 혼합 원가를 낮추는 점, 셋째 높아진 용량이 3P 클라우드 매출 기회를 의미 있게 확대해 AI 캐펙스 논쟁을 순수 비용 중심에서 고마진 매출 옵셔널리티로 재구성할 수 있다는 점입니다.\n■ 시나리오 분석 (Figure 1, FY27 기준)\n이전 시나리오는 FY27 증분 매출 $9~30bn(시장 추정치 대비 3~10% 상향), 증분 GAAP EPS $1.40~7.50(4~21% 상향)로, 메타가 약 1.0~1.5GW의 초과·비핵심 용량을 판매하는 것을 가정했습니다. 신규 용량 목표를 반영해 업데이트하면 증분 3P 클라우드 매출 $15~36bn(5~12% 상향) 잠재력을 시사합니다. 이를 50~75% 증분 마진으로 반영하면 GAAP EPS $2.35~9.00 추가, 즉 현재 컨센서스 대비 7~26% 상회하게 됩니다. 세부 시나리오(A/B/C)에서 FY27 총용량은 모두 14,000MW이며, 매출 상향 여지는 4.8%/8.0%/11.9%, GAAP EPS 상향 여지는 6.7%/14.2%/25.8%로 제시되었습니다.\n■ 결론\n도이체방크는 시장의 캐펙스 우려 자체를 일축하지는 않습니다. 7GW 증분은 큰 규모이며 시장 추정치가 추가로 상향될 필요가 있어 보입니다. 다만 이번 매도세는 증분 재무 부담을 과대평가하고 매출 기회를 과소평가하고 있다고 봅니다. 부외 용량을 조정하면 직접 자금을 조달하는 순증 용량은 약 5.5GW에 가깝고, GW당 약 $35bn 기준으로 이 비용은 이미 약 $220bn 수준인 바이사이드 기대치와 크게 동떨어져 있지 않습니다. 따라서 오늘의 약세는 매수 기회이며, 증분 비용은 우려만큼 높지 않을 수 있는 반면 고마진 증분 매출 기회는 도이체방크와 시장이 기존에 반영했던 것보다 클 수 있다는 것이 결론입니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-10T10:46:53+00:00"
+    },
+    {
+      "id": "tg:EMchina/31461",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31461",
+      "text": "아..\nhttps://n.news.naver.com/article/001/0016188250?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-10T10:36:42+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23458",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23458",
+      "text": "[속보] 中, 반도체 생산 핵심소재 ‘헬륨’ 수출 금지…“오늘부터 시행”\nhttps://www.joongang.co.kr/article/25444136",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-10T10:33:47+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23456",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23456",
+      "text": "JP모건 일본 퀀트 전략 (2026년 7월 10일 / Masanari Takada)\n핵심 요지\nAI 반도체·메모리 관련주에서 조정이 나타나고 토큰 비용이 하락하는 가운데, JP모건 QDS팀은 AI 공급자(Supplier)가 아니라 실제로 AI를 활용하는 AI 채택 기업(Adopter)을 다음 수혜 그룹으로 주목하고 있습니다. 공급자 입장에서 토큰 가격 하락은 마진 정점 우려로 이어지지만, AI를 활용하는 기업에게는 투입 비용 감소를 의미하기 때문에 오히려 순풍이 될 수 있다는 논리입니다. JP모건은 현재 AI 국면을 1999년 IT 버블이 아니라 실수요 확대를 동반했던 2002~2008년 신흥국(EM) 붐에 비유하며, 투자 관심이 공급 측에서 채택 측으로 일시적으로 이동할 수 있다고 봅니다.\nAI 채택 기업의 세 가지 유형\n첫째는 생산성 개선형으로, AI로 업무 효율을 높이고 인력·비용을 줄이는 기업입니다. 비용 절감과 마진 개선이 단기 EPS에 빠르게 반영되는 것이 특징입니다. 둘째는 고객 대면 AI 강화형으로, 기존 제품·서비스·접점에 AI를 접목해 고객 경험과 기능적 가치를 높이는 기업입니다. 셋째는 수요 사이클·데이터 사이클형(이른바 AI 플라이휠 사이클)으로, 거래·예약·광고·결제·매칭·유저 기반이 선순환 네트워크로 연결되고 그 데이터가 다시 서비스 개선에 활용되는 기업입니다. 이론적으로는 세 번째 유형이 가장 지속 가능한 기업가치 프리미엄을 가질 수 있지만, GMV·광고 매출·전환율·LTV 등 KPI가 실제로 개선된다는 근거가 확인되지 않으면 시장의 인정을 받기 어렵다고 봅니다.\n일본 종목 검증 결과\nTOPIX 500 구성 종목 493개 중 304개에서 AI 관련 문장이 확인되었고, 166개가 AI 채택 기업으로 분류되었습니다. 이 중 37개가 수요·데이터 사이클형 후보군에 들어갔으나, 외부 수요 루프와 KPI 수익화, 공급자·리스크 맥락 등을 재검증한 결과 고확신 후보(Tier 2) 4개와 핵심 후보(Tier 1) 2개로 압축되었습니다. Tier 2는 리크루트 홀딩스(6098.JT), 라쿠텐 그룹(4755.JT), LINE야후(4689.JT), 메루카리(4385.JT)이며, 이 중 리크루트와 라쿠텐이 Tier 1 핵심 후보로 분류되었습니다. 반면 이데미츠 코산(5019.JT), 세븐뱅크(8410.JT), 소프트뱅크 그룹(9984.JT), 다이도특수강(5471.JT)은 AI가 언급되었으나 외부 수요 루프와의 연결이 약하거나 전략적 투자·공급자 성격이 강해 오탐(false positive)으로 제외되었습니다.\n주가 성과 (2025년 초 이후, TOPIX 대비 초과수익)\n생산성 개선형이 +19.0%, 고객 대면 강화형이 +8.0%로 강세를 보인 반면, 고확신 수요·데이터 사이클형(Tier 2)은 -3.5%, 텍스트 기반 수요 창출 후보는 -11.2%, 핵심 수요·데이터 사이클형(Tier 1)은 -25.3%로 부진했습니다. Tier 2 내에서는 메루카리가 크게 플러스 기여를 했으나 LINE야후, 라쿠텐, 리크루트가 마이너스 기여를 했습니다. 미국 사전 실험에서도 수요·데이터 사이클 그룹의 우위는 확인되지 않았습니다.\n시사점\n현재 시장은 AI 기반 비용 절감이나 기존 제품 강화처럼 단기 EPS 기여가 쉽게 계량화되는 기업을 우선적으로 평가하고 있으며, 생산성 개선형과 고객 대면형의 아웃퍼폼이 이를 뒷받침합니다. 수요·데이터 사이클형은 이론상 가장 강력하지만, 아직 수익화 근거가 충분히 공시되지 않아 시장이 그 잠재력을 온전히 반영하지 못하고 있습니다. 단기적으로는 생산성 개선형과 고객 대면형에 주목하되, 중기 재평가 후보로는 AI가 외부 수요 KPI와 연결되기 시작한 기업을 지속적으로 검증할 필요가 있습니다. JP모건은 \"제2의 리크루트 홀딩스\"를 찾으려면 특정 기업과 유사한 종목을 찾기보다, 공시와 KPI를 근거로 AI를 활용해 수요 루프를 재설계할 수 있는 기업을 정량적으로 식별하는 것이 효과적이라고 강조합니다. 다만 본 분석은 종목 추천이 아니라 잠재적 AI 채택 기업을 정량적으로 스크리닝하기 위한 실험적 프레임워크임을 명시하고 있습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/Ab3v12Xk2fkemX_clfezHWdUapfGOWXVIUT3Aa4EWPJ2B7xZXHz2Ajq7An_HlRKzaU0-HmdwuFv54giuYiVqJLt-j2dLEK26D6LE4SxJgttClCCGKm31YHf85gui0AMVwNydGJJ2yv9XFAnyfSOfikugPDV5PJEe4pEveFEP4Wh3utj1rHD3YsttpbBeOr0dLIAAHXuXsZCDxi3vs6quCdofRMulkgY6DM_dl02Y-ztnlsiKlJMxJI2abyvlmwyPMquqVD5Farr4n1cL6wr3IVMWYfKs5Gup-HsUcfKlWiG2mIZ9FYXwrtDKDHMctTLfdOt3HTbisX6iLqx0iZs_5Q.jpg",
+        "https://cdn5.telesco.pe/file/Xo0_m-fRGR5y9Edn8znkRkcpnvlA33rbLITKxvlRwVlsYPJTaHIrPtSa-PDrx9jv4TMMyIfUpWWhQKyUPCYgOXf-eFUc_IYwL_hzhaMlgaWD-fk6Hk0DR8w0z7f_WbPGtSEgq3N3hrCyrbqRWazk5f24tNu2YP_v5Xts0FxqBo8KSTZYQGUo8Vh-ZEgfHgu3wvW45UbjRmlzDUcrntxA51BtI6lZPObS1yIThJlBnkS2BtPfB_E3giuPv9eUNelYkDnagc1WxKBIGVG3_ccT2lDK5u-wGk0f1oe6DBYsoWOQy9JkcCjVt-uwr0RnMXfJPW5FWWUvGd4zvgZInaOBCA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-10T10:27:27+00:00"
+    },
+    {
+      "id": "tg:enc210406/4123",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4123",
+      "text": "한화엔진 선박엔진 수주 공시\n@ 제품: 선박용 엔진\n@ 고객: 아시아 지역(중국)\n@ 금액: 1,158억원\n@ 납기(마지막 엔진): 2029년 9월\n2026년 7월 누적\n선박엔진 수주 성과는\n2조원에 육박합니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/l8o9zYGXtFOy3asQUJ43H0yGfUTwUWT6Yb9RfgRBQmzxQotXTuSaWGal4kYssYL27HSdZ7qv4YMxb3moYxhvC1gtk-Yrz6iXO4tWg1B6uUMxbTqN1b5tJybx-D5RZhQ_7Owr6eyu1P_XAUcjplnI0ooueHv017qGxU9xoQxIdBm7hthfoc0zM9DU2Le1toArIjBwCdRzkHFL4H1W9SWbXg8-yTfOQFTf58aKeWZ3CidCG0xWY89MODQQu6ZkTU9N6ImYpuksw1KHDkkwayiOcIX2L191_gWlZBcu_OFvY_Pn6GMZxO5ErYI2cv8Tqdnm6JnJQs32rFPRlpGPocXjZQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-10T10:25:53+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23455",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23455",
+      "text": "JP모건) 일본 채권시장 위클리; JGB(일본 국채) 시장의 잠재적 버팀목으로서의 GPIF(공적연금; 일본의 연기금)\n1. 정부의 재정 기조에 대한 우려와 BoJ의 추가 금리 인상을 억제하려는 정부의 노력이 주 중반까지 금리를 끌어올렸습니다. 그러나 BoJ 정책의 독립성과 GPIF와 같은 연기금의 국내 투자를 지지하는 카타야마 재무상의 발언이 10~20년물 구간의 랠리를 촉발하면서, 앞서 나타난 금리 상승분의 상당 부분을 되돌렸습니다.\n2. 카타야마 장관의 발언은 GPIF가 결국 해외 자산 보유분의 일부를 엔화 표시 자산으로 재조정할 가능성을 제기했으며, 이는 JGB 금리 상승과 엔화 약세를 모두 해소할 수 있는 몇 안 되는 조치 중 하나입니다. GPIF의 기본 포트폴리오(Basic Portfolio)는 통상 5년 주기의 재정재계산 사이클에 맞추어 검토되지만, 현행 체계는 연 단위 검토를 허용하고 있어 자산 배분에 대한 조기 검토가 이론적으로 가능합니다.\n3. JGB 시장의 관점에서 보면, GPIF의 국내 채권 배분 확대는 어떤 것이든 우호적일 것입니다. 국내 채권의 목표 비중을 25%에서 30%로 상향하면 약 15조 엔의 재조정 자금 흐름이 발생할 수 있으며, 현행 괴리 허용 범위의 상단으로 이동할 경우 최대 18조 엔이 발생할 수 있습니다. 또 다른 우호적인 전개는 GPIF의 국내 채권 포트폴리오 전체 또는 내부 운용 채권 포트폴리오에 대해 보다 장기 듀레이션의 벤치마크를 채택하는 것으로, 이는 초장기물 구간의 수요를 뒷받침할 가능성이 높습니다.\n4. 이번 정기국회 회기가 7월 17일에 종료될 예정인 가운데, 정부의 연례 경제재정운영·개혁 기본방침(Basic Policy)이 회기 종료 전까지 각의 승인을 받을 예정입니다. 소비세 인하 법안은 이번 국회 회기 중 논의될 가능성이 낮지만, 특히 여당 내에서의 제한적인 지지를 감안할 때 해당 제안이 최종적으로 어떻게 전개되는지 주시할 필요가 있습니다. 앞으로 시장의 관심은 다음 주 20년물 JGB 입찰, BoJ 매입 오퍼레이션, 그리고 유동성 공급 입찰(liquidity-enhancement auction)에 집중될 가능성이 높습니다.\n5. 한편, 6월 말에 개최된 재무성(MoF)과의 국채시장특별참가자(Primary Dealer) 회의 및 JGB 투자자 회의의 의사록은 향후 발행 계획의 방향성에 대해 유용한 지침을 제공했습니다. 발행 규모는 현재로서는 변경되지 않았지만, 논의 내용은 3개월물 T-bill과 2년물 JGB의 발행 확대, 10년물 발행의 상당한 축소, 20년물 발행의 소폭 축소, 그리고 단기 및 초장기 구간에서의 유동성 공급 입찰 확대와 더불어 장기 구간에서의 유동성 공급 입찰 축소에 대한 명확한 여지를 시사했습니다. 앞으로 이러한 방향성은 통상 연말경에 발표되는 FY27 발행 계획(캘린더 기준)에 최종적으로 반영될 수 있습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-10T10:12:03+00:00"
+    },
+    {
+      "id": "tg:EMchina/31460",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31460",
+      "text": "SemiAnalysis 최신 인터뷰: 메모리가격 두 배 상승 여력. CPU는 조연일 뿐이며 CPO는 2029년으로 연기(창립자 Dylan Patel)\n• 앤트로픽은 이미 이익 내고 있으며, ARR 500억달러 초과. ROI 의구심 증명\n• 하드웨어 측면에서 메모리는 이미 4배 상승. 2-3배 추가 상승 여력. 추론 모델이 이끄는 구조적 부족은 수년간 동안 지속될 것\n• CPU 수요는 주로 기존 부족분에 대한 보상. 장기적 전환점이 아닌 단기적 \"미니 사이클\"\n• CPO 양산 2028년말로 연기 & 구리 케이블 수혜 기간 간 연장\n• 전력 병목 현상으로 데이터센터는 자체 구축 BTM으로 전환 중\nSemiAnalysis最新访谈：存储还有翻倍空间，CPU只是配角，CPO落地推迟至2029年\n创始人Dylan Patel表示，Anthropic已盈利，ARR超500亿美元，证伪ROI质疑。硬件层面，内存已涨4倍、还将再涨2-3倍，推理模型驱动的结构性短缺将持续数年；CPU需求多为历史“补账”，是短期“迷你周期”而非长期拐点。CPO量产推迟至2028年末，铜缆红利期意外延长；而电力瓶颈正迫使数据中心转向自建“表后电源”。\nhttps://wallstreetcn.com/articles/3776641#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-10T08:25:57+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19005",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19005",
+      "text": "[다올투자증권 반도체/소부장 고영민]\n#Nanya\nFY2Q26 실적 발표 (현지기준 7/10)\n▶️\n실적 내용\n» 실적 공시 (NT$Bil, NT$)\n- 매출액: 82.5\n- 영업이익(OPM): 60.8 (74%)\n- EPS: 14.66\n→ 매출액, 영업이익 모두 컨센서스 상회\n» 컨센서스 (NT$Bil, NT$)\n- 매출액: 72.9\n- 영업이익: 52.3 (72%)\n- EPS: 13.43\n▶️\nDatapoint\n» B/G(%, QoQ / YoY)\n- flat / 약 20%대 후반 증가\n» ASP(%, QoQ / YoY)\n- 60% 이상 증가 / 500% 이상 증가\n» 운영 업데이트 및 전망\n- AI 인프라 및 서버가 전체 수요의 20% 이상 차지\n- 신규 fab 1단계는\n2028년까지 30K\nWSPM 램프업\n- 총 US$16B CapEx 계획 보유 (45K WSPM 기준, 건설 포함)\n- 1C / 1D / 1E / EUV 개발은 일정대로 진행\n- DDR5, LPDDR5/5X, DDR4, LPDDR4/4X, DDR3, LPDDR3 등 광범위한 제품 포트폴리오 지속 공급\n▶️\nCapEx & Bit 출하량\n» Bit 출하량\n- 26년 전망: YoY +10%→ +10% 후반대 (상향)\n» CapEx(NT$Bil)\n- 26년 전망: 52 → 52 (유지)\n▶️\n3Q26 DRAM 시장 전망\n» 산업 전반\n- AI가 메모리 시장의 구조적 변화를 주도하며 업황 cyclicality를 완화\n- AI 및 범용 서버 수요가 HBM 및 RDIMM 수요를 강하게 견인\n- 향후\n수 개 분기 동안 타이트한 수급 환경 지속\n전망\n- 다년 계약(LTA)을 통해 수급 기대치 정렬 진행 중\n» 공급\n- 공급업체들은 증설을 진행하면서도 고마진 제품 중심으로 제품 믹스를 탄력적으로 조정\n- 신규 greenfield capacity 확장은\n2028년 이후를 겨냥한 다년도 LTA 기반\n으로 진행\n» 전방 주요 수요처별\n① AI 중심 수요\n- GPU, CPU, ASIC 진화가 HBM / LPDDR5 / DDR5 수요를 견인\n- AI 인프라 확대로 eSSD, SmartNIC, BMC 내 고용량·고성능 DRAM 채택이 가속\n② 범용 수요\n- 비AI 응용처는 공급 제약이 지속되며\n고사양 시장 우선 공급 기조\n가 유지\n- 이에 따라 전방 시장 전반에서 가격 조정이 나타나는 환경\n③ 전반적 수요 환경\n- 구조적 변화로 메모리 쇼티지가 심화\n- Agentic AI / Edge AI / Physical AI 등 다양한 AI 혁신 채택이 확대되는 흐름\n📁\nIR자료:\nhttps://buly.kr/5UKCUVG\n📨\nDAOL 반도체:\nhttps://t.me/Semi_Ko\n위 내용은 공시 자료 요약으로 별도의 컴플라이언스 승인절차 없이 제공합니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/A7s7HJFjFYPJY1iVflBdXg2q4_8-e9imllI_xOXdkvx7YYC6n946OZn8crBfPovvDm_EqvrQv3jrSooenpBl9zY8Ne22RP3pQnqFxXE-VipepYjk1jiZGMHiEeOeeZpl61DyEy7b9NI3QxpqMD6wwa17uSjAqjbE_w2oRCIs0Ib0W5VGPZmb9BpAo0pqZLyChhuMY0d6kZWwspmPTuVyy-c-ATh3sLOmyOQU81ynnuDBgPv-1Vq1_BiSvQ1S6L_vSPnE-ciwNu3XB25m_DzdWMxPSI4u_DicdTpx-4vvDx3O6xpzOqMc2eV2d7HsrOdKo7bae6BGwN90h30HZloTWg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-10T08:12:19+00:00"
+    },
+    {
+      "id": "tg:EMchina/31459",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31459",
+      "text": "중국 항공우주 업종 장중 강세\nhttps://n.news.naver.com/article/001/0016188095?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-10T07:55:24+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19004",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19004",
+      "text": "딜런 파텔(SemiAnalysis) 메모리 시장 전망\n:\n강력한 슈퍼사이클 진입\n1. 패러다임의 전환: 메모리, AI 수혜의 중심으로 부상\n초기 시각의 오류:\n2023년 초까지만 해도 고가의 GPU 위주로 AI 서버 비용이 구성되어, 일반 서버 대비 메모리 원가 비중이 낮아 업계에 부정적일 것으로 예상했습니다.\n현재의 변화: 엔비디아가 차세대 GPU의 메모리 탑재량을 대폭 늘리면서 상황이 완전히 반전\n되었습니다.\n현재 AI 시스템은 과거 대비 압도적으로 많은 메모리를 요구하며, 메모리가 AI 인프라 투자의 핵심으로 자리 잡았습니다.\n2. 폭발적 수요의 트리거: 추론형 AI와 KV 캐시 병목\n추론형 모델의 등장:\n오픈AI의 'o1'을 기점으로\n긴 사고 과정과 추론 경로를 생성하는 에이전트형 AI가 확산되며 모델이 처리해야 하는 문맥 길이가 급증\n했습니다.\nKV 캐시(KV Cache)의 폭발:\n새로운 토큰을 생성할 때마다\n기존 문맥 데이터를 읽어야 하는데, 문맥이 길어질수록 'KV 캐시'에 저장하고 읽어야 할 데이터 양이 기하급수적으로 늘어납니다.\n수요 구조의 변화:\n사전학습(Pre-training) 중심에서 추론(Inference) 중심으로 스케일링 법칙이 이동하면서,\n연산량 증가 대비 메모리 사용량과 비용 증가폭이 훨씬 가파르게 나타나고 있습니다.\n3. 구조적 공급 부족과 강력한 슈퍼사이클\n압도적인 수급 불균형: 메모리 수요는 2배 수준으로 폭증하고 있으나, 생산능력은 향후 3년간 연 20~30% 증가에 그칠 전망\n입니다.\n과거를 뛰어넘는 사이클:\n수요 규모 자체가 2배로 커진 상태이므로 가격 상승폭도 과거의 사이클을 상회\n합니다.\n이는\n단기적인 숏티지가 아닌 수년간 지속될 수 있는 구조적 공급 부족 국면\n입니다.\n이익률 극대화:\n메모리 가격이 지속적으로 상승하며, 이번 사이클 내에 메모리 업체들의 매출총이익률이 85~90% 수준까지 도달할 잠재력\n이 있습니다.\n이미\n가격이 4배 가까이 오른 상태에서도 향후 2~3배 추가 상승할 여력\n이 있습니다.\n4. 수요의 연쇄 이동 (Crowding Out Effect)\nB2B(AI) vs B2C(소비자):\n막대한 자본력을 갖춘 AI 데이터센터는 높은 메모리 가격을 기꺼이 수용하지만, 스마트폰이나 PC 등 소비자 전자제품은 가격 저항에 부딪힙니다.\n소비자 기기 시장의 타격:\n이미 중국 중저가 스마트폰 출하량이 약 40% 감소한 사례가 있습니다.\n향후 애플(아이폰, 맥북) 등 고가 기기 역시 메모리 물량을 뺏기지 않기 위해 수백 달러 수준의 극단적인 판가 인상 압력\n을 받을 수 있습니다.\n새로운 시장 균형:\n소비재 가격이 크게 올라 B2C 출하량이 억제되어야만, 제한된 메모리 공급량이 AI 데이터센터 시장으로 충분히 재배분되며 균형을 찾게 됩니다.\n5. 투자 관점: 메모리 산업 특성과 확인 지표\n특유의 높은 변동성:\n파운드리(TSMC 등)가 장기 고객 관계를 바탕으로 5~10% 수준의 안정적 가격 정책을 펴는 반면,\n3사 과점 체제인 메모리는 상품(Commodity) 특성이 강합니다.\n수급에 따라 현물 및 계약 가격이 2~3배 폭등할 수도, 반 토막이 날 수도 있는 극심한 실적 변동성을 내포\n합니다.\n공급 부족의 수혜 강도를 판단하는 4가지 핵심 요소:\n자본 배분율:\nAI 인프라 지출(CapEx) 중 해당 부품으로 향하는 자금의 실질적 비중\n수요 증가율:\n최종 시장의 수요 폭발력 (예: 50% 증가 vs 2~4배 폭증)\n시장 구조:\n과점 형태 등 해당 산업의 가격 전가(Pricing Power) 능력\n가격 결정 방식:\n장기계약 중심인지, 수급 중심의 탄력적 시장인지 여부\n에이전트 확산으로 CPU 수요가 회복되더라도 단가가 상대적으로 낮기 때문에,\nAI 인프라 투자의 가장 큰 금액이 배분되는 핵심 병목 분야는 여전히 AI 가속기(GPU)와 메모리입니다.\nhttps://youtu.be/lHnxU9f-rwc?si=klG_L2iayjFPuHhW\nhttps://x.com/DrNHJ/status/2075488369514299803?s=20",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-10T07:54:05+00:00"
+    },
+    {
+      "id": "tg:enc210406/4122",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4122",
+      "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 7월 10일 종가 기준",
+      "images": [
+        "https://cdn5.telesco.pe/file/nG7X7NeREkTJSbca9jyaNMRbBq7CQQsMuWYNFB9klhEp9ZFThgYrWzjYKT9qsCibqTpOJSU6vyFGUySkGr8t_dCtym9Ih-FuOX0dssb09GvfOxnVwQuFx28bvyqjrFGi8A7WUG6ONSx14mIR6Vsw37R4D2rew60TkIH6Muttf9xemPs7SYWf5DxNSp09_A4PG3Gy_IvOzhKIzw8PBcuP8DUDHVhxsPujeDLJnI-2avAHgHx7cOkUCNKhEx6zHK5hRte7ZPSG9MyI1oGyenMfQa76P41WblTQVTLj98xeIQ1zOJxHWwc_6I1BOMiZ6eJtFVU9zjaMWj0A5ux2SEx24Q.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-10T07:47:33+00:00"
+    },
     {
       "id": "tg:bornlupin/19003",
       "source": "telegram",
@@ -226,18 +367,6 @@
       "published_at": "2026-07-10T03:22:24+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23446",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23446",
-      "text": "250억원 결제 요청 받은 국내 이용자…앤트로픽 빌링 오류 논란 - 지디넷코리아\n250억원 ㄷㄷㄷㄷ\nhttps://zdnet.co.kr/view/?no=20260709165452#_enliple",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-10T03:08:33+00:00"
-    },
-    {
       "id": "tg:HI_GS/6681",
       "source": "telegram",
       "author": "HI_GS",
@@ -274,42 +403,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-10T02:32:20+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23445",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23445",
-      "text": "[속보]김용범 “레버리지ETF, 필요시 보완할 것”\nhttps://www.sedaily.com/article/20066173",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-10T02:00:28+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23444",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23444",
-      "text": "SK하이닉스 ADR은 나스닥에서 티커 SKHY로 거래될 예정이며, 견조한 투자자 수요를 맞이할 것으로 예상됩니다. Cboe Global Markets의 수석 부사장 JJ Kinahan은 화요일 CNBC에 \"미국 브로커들도 고객들로부터 수요를 확인하고 있다\"고 말했습니다. 문제는 개인 투자자들의 이러한 주식 수요가 다른 기업들로부터 자본을 이동시킬 것인지 여부입니다. Mizuho Securities의 기술 애널리스트 Jordan Klein은 이번 주 보고서에서 SK하이닉스 상장이 새로운 매수자를 창출할지, 아니면 이미 메모리 반도체 영역에 참여하고 있는 투자자들을 끌어들이는 데 그칠지에 대해 의문을 제기했습니다. 그는 \"이것이 Micron, SanDisk, Lam Research, 나아가 Seagate Technology와 Western Digital에 대해 추가적인(additive) 것인가, 아니면 이 종목들로부터 자금을 빼내는 것인가?\"라고 썼습니다.\n펀드로부터의 자금 재배분\n애널리스트들은 CNBC에 이번 공모가 미국 메모리 반도체 제조업체들에 타격을 줄 것으로 보지는 않지만, 메모리 및 반도체에 대한 직접 투자의 새로운 채널이 열리면서 ETF와 뮤추얼펀드로부터 일부 자금을 재배분할 수 있다고 말했습니다. 금융 데이터·분석·투자 전략 컨설팅 회사인 OpenInterest.PRO의 수석 전략가 Mike Khouw는 \"이런 회사에 대해 펀드 대신 ADR을 매수한다면, 일부 자금이 그쪽으로 흘러갈 수 있다\"며 \"미국 기업들의 산소를 빨아들이지는 않겠지만, 투자 수단을 조정하고 자기주도적(self-directed) 투자를 위한 접근을 열어줄 수는 있다\"고 말했습니다.\n다른 이들은 덜 낙관적입니다. 여러 월가 트레이딩 데스크는 이번 주 하이닉스 공모가 메모리 섹터에서 추가적인 포지션 청산과 차익 실현의 촉매가 될 수 있다고 경고했습니다. 메모리 주식은 모멘텀 주식 전반의 하락 속에서 떨어진 뒤 수요일에 반등했습니다. Morgan Stanley 트레이딩 데스크는 화요일 메모에서 하이닉스 ADR 공급이 \"추가 하락 가능성에 대한 근거(case for more downside)\"를 제시한다고 밝혔습니다. UBS 트레이딩 데스크는 특히 하이닉스 상장이라는 \"핵심 촉매(key catalyst)\"를 앞두고 전반적인 \"포지셔닝이 추가 청산에 취약한 상태로 남아 있다\"고 말했습니다",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-10T01:12:45+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23443",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23443",
-      "text": "미즈호 曰 SK하이닉스 ADR이 투자자 끌어들일지 의문  - 조던 클라인 미즈호증권 테크 섹터 애널리스트는 - SK하이닉스 ADR이 새로운 투자자를 만들어 낼지  - 또는 기존 메모리 투자자를 끌어들일지 의문이라고 분석 - 단적으로 SK하이닉스가 마이크론 / 샌디스크 / 시게이트 등 - 미국 반도체 종목에 투자된 자금을 빼올 것인지 확실치 않다는 말  (원문) Jordan Klein, a technology analyst at Mizuho Securities…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-10T01:12:33+00:00"
     },
     {
       "id": "tg:globaletfi/20593",
@@ -584,20 +677,6 @@
       "published_at": "2026-07-09T22:56:45+00:00"
     },
     {
-      "id": "tg:EMchina/31449",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31449",
-      "text": "주식시장 자금 순유입 추이(IIF; 6개월 이동평균)\n• 중국 유입 vs. 중국 제외 신흥국 유출",
-      "images": [
-        "https://cdn5.telesco.pe/file/cqhS5zIr5B98aqChpXBW4ExweI0hBupwXAA9x2CkKbFsRejUMBywtgzVxmvTRehxJ8XAPNt2iJLGlSd1Njqti_4VCuHU84F_gwvsXGGXa4DOzW_ZC-ZGBL1Qg82Ek_3T1inggAP3eeNnEC1M1AkqdskB6R8OEaEEaZ4LL03J9oEBLSmqKQx9baS2Cbzxycxu1I9fG2gXBRHi-vvJFlK3_ivK6kLZFFPzjFQ1LBj8smj8GwKXy3Fzwq99YfBrvpn4O74NG0kAIYwOlVFwAF_HT1z_1Svyj97q9oxfxovZgmiHN7Ssavm5lpodMgeu2TKBZRitK36lsnSvk4q75iKRng.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-09T22:54:07+00:00"
-    },
-    {
       "id": "tg:globaletfi/20588",
       "source": "telegram",
       "author": "globaletfi",
@@ -658,32 +737,6 @@
       "published_at": "2026-07-09T22:10:14+00:00"
     },
     {
-      "id": "tg:EMchina/31448",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31448",
-      "text": "조용하다 싶었다\n===========================\n~ Israel shared new intelligence with the U.S. that\nit said indicated a fresh Iranian plan to kill President Trump\n, people familiar with the matter said, a finding that would mark an escalation in the war between Washington and Iran\nhttps://www.wsj.com/world/middle-east/iran-hatched-fresh-plot-to-kill-trump-israel-told-u-s-1511d9d2",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-09T21:49:16+00:00"
-    },
-    {
-      "id": "tg:EMchina/31447",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31447",
-      "text": "하이닉스 ADR 청약 7배  https://naver.me/GzdshN82",
-      "images": [
-        "https://cdn5.telesco.pe/file/UTeb_J7xshg-ajh5l3i71ggGKSelK_pQVq0Qtr2GIYiy3nEF3PMCi5saLqTKGdAWFz8zGGMfU8JQh9hyXQhv1i0pLsDSreWd_UBsgNs1KNPD6jw2iIkJzgZVYPo52Ctexnk4VSJ5yHiitWfQmXmG3xqQOpdkxPAcwbz2WvIt3SoQW-RjWIdZO6II8QUXf57UspwgimCdphCOPpJJ7QTTkGELnnZNJsNjP9k11qcNvEGokXrq31ysH_sN6qBrCuXSTTKUWQm7rsUs5Cn4OwY8TpabkcpcEwLssTMmuzy3ip2E63KaWe38luMKOAbFs0KIdC8hEnDAtTjaBw2bkZXxDQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-09T21:35:21+00:00"
-    },
-    {
       "id": "tg:HI_GS/6676",
       "source": "telegram",
       "author": "HI_GS",
@@ -694,18 +747,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-09T21:23:58+00:00"
-    },
-    {
-      "id": "tg:bornlupin/18993",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/18993",
-      "text": "SK하이닉스\n미국 ADR 공모는 약 2,000억 달러의 수요를 모으며 500곳 이상의 투자자를 유치.\n전체 배정 물량 중 상위 25개 계좌가 약 67%를 배정받았으며, 상위 10개 계좌가 거의 절반을 차지",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-09T21:15:58+00:00"
     },
     {
       "id": "x:OpenAI:2075310022121472399",
@@ -1071,18 +1112,6 @@
       "published_at": "2026-07-09T14:45:11+00:00"
     },
     {
-      "id": "tg:bornlupin/18992",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/18992",
-      "text": "SK하이닉스\n미국 주식예탁증서(ADR) 공모 가격을 한국 증시 종가보다 3.1% 높은 수준인 ADR당 149달러로 안내하고 있는 것으로 알려짐",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-09T13:14:36+00:00"
-    },
-    {
       "id": "x:sama:2075128093891801305",
       "source": "x",
       "author": "sama",
@@ -1173,6 +1202,20 @@
       ],
       "summary_ko": "정말 좋은 영상이네요",
       "published_at": "2026-07-09T04:03:26+00:00"
+    },
+    {
+      "id": "x:ylecun:2075064915606347835",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2075064915606347835",
+      "text": "RT by @ylecun: Trump’s cuts in funding for higher education is reducing the number of PhD candidates and “raising fears that the nation’s capacity to produce new science could be diminished.” https://trib.al/TzuHUm6",
+      "images": [
+        "https://pbs.twimg.com/card_img/2074078198967533568/d_BHlXTT?format=jpg&name=800x419"
+      ],
+      "summary_ko": "@yleun의 RT: 트럼프의 고등 교육 자금 삭감으로 박사 후보자 수가 줄어들고 있으며 “새로운 과학을 생산할 국가의 역량이 줄어들 수 있다는 우려가 커지고 있습니다.” https://trib.al/TzuHUm6",
+      "published_at": "2026-07-09T03:50:03+00:00"
     },
     {
       "id": "x:sama:2075063511290662996",
@@ -1460,7 +1503,7 @@
       "url": "https://t.me/enc210406/4110",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 7월 8일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/uaOgntKM94RuUVTrPv5SGzTPk79h48ehXVVGseIO8HQi9q2AtfOAt4QQ0bRpagNxhHnKmcwv3t07Uaw49VEsV0ubBRyeQkUpdXuq28SXwmOPavvDMVUxhWC_vDzN_EsyKj3MHca9Qi8AX3-LACi5I3Vd9nIxMfqLHn0RDwp2Lwi3wZy0PCntLKWNXoVzbkAW6CHj4wgyG8iwzSg_gB0SI_DhDn8GL-rfd8s6clMLphOZO0lW4xrvC_-lZdd7ArYJn6VYEsoCJNxidoJczSxdmJtryuelbhedNuuV26h7d1yinuR9aB6I40KfX1lZ5A4LY0np4ovnq_I3C1whyEJd3w.jpg"
+        "https://cdn5.telesco.pe/file/HHE4RT0fw_SwU_tofN7G4_FS8fbXna6P5qpPNoC9vQ0Pe0M66-ijkWchPY4_j_2gW84EJsCSWjP_rBV_rkFKeidsDoBWUvIjX36ffeSK6HagNl37vkOLSe6FCCc2jyEINJd6-13oHrovLSrRO5MID7-oMRy5-VXnTebjNdluEcq8Vr00BZe15A70b_xumh6Le9e9HEsisEDuX2dlxZ_XPibZ0sb4E-lXtsopMf_GPX4ozci3UMaeOcJqPl7CTXggMX0KHK9TO22VrDAqpPWvcVQLN37eXCefcupzJQHTiWdpgVFbHserr84spJH1JcJTJzhGrfKAVUU7uLR7-V3-lQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-08T08:04:39+00:00"
@@ -1494,30 +1537,6 @@
       "published_at": "2026-07-08T06:04:28+00:00"
     },
     {
-      "id": "tg:enc210406/4109",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4109",
-      "text": "한국카본 P/E는\n2026년 기준 10.7배\n2027년 기준 8.3배이며,\n한화엔진의 P/E는\n2027년 기준 12.5배이지만,\n2027년 순이익 컨센서스\n상향 여지가 크다 보기 때문에,\n실제 P/E는 10~11배일 것입니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-08T05:04:49+00:00"
-    },
-    {
-      "id": "tg:enc210406/4108",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4108",
-      "text": "[장 중 조선 기자재 2사 밸류에이션 점검]\n2026년 7월 8일\n오후 1시 59분 기준\n@ 한화엔진\n- 시가총액: 3.73조원\n- 2027년 순이익 컨센: 2,982억원\n- 밸류에이션(2027년 기준): P/E 12.5배\n@ 한국카본\n- 시가총액: 1.23조원\n- 2027년 순이익 컨센: 1,480억원\n- 밸류에이션(2027년 기준): P/E 8.3배",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-08T05:01:00+00:00"
-    },
-    {
       "id": "x:ylecun:2074603042872394043",
       "source": "x",
       "author": "ylecun",
@@ -1530,21 +1549,6 @@
       ],
       "summary_ko": "@yleun의 RT: 그린란드는 중국과 러시아 선박으로 둘러싸여 있지 않습니다. 트럼프 대통령 하에서 미국에 19조 2천억 달러를 투자한 적이 없습니다. 트럼프는 여덟 번의 전쟁을 해결하지 못했습니다. 우크라이나에 대한 바이든의 군사 지원은 수천억 달러의 가치가 없었습니다. 2020년 선거는 조작되지 않았습니다. 오늘 에르도안과의 단일 회담에서 트럼프 발언의 사실 확인: https://www.cnn.com/2026/07/07/politics/fact-check-trump-meeting-erdogan",
       "published_at": "2026-07-07T21:14:44+00:00"
-    },
-    {
-      "id": "x:ylecun:2074587481966628885",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2074587481966628885",
-      "text": "RT by @ylecun: DOGE shut down USAID, established by JFK in 1961. Before being shut down, the US Agency for International Development (USAID) was the largest funding agency for humanitarian and development aid worldwide. Elon Musk said \"USAID is a ball of worms. There is no apple. And when there is no apple you just need to get rid of the whole thing. That’s why it’s got to go. It’s beyond repair,” He later posted, “We spent the weekend feeding USAID into the wood chipper. Could gone to some great parties. Did that instead.” Marco Rubio shut down 83% of USAID programs/ A peer reviewed study* the Lancet provided a thorough counterfactual study of the impact of USAID over the preceding 21 years and a \"what if\" study examining the impact of shutdown to 2030. The study demonstrates that Elon Musk's saying of USAID \"there is no apple\" was just \"trash talk.\" Many of Musk's derogatory claims about USAID have been disproven. Musk reposted that it was funding condoms for \"gay Hamas\" in Gaza. It turned out to be HIV/AIDS prevention for a place by the same name in Mozambique. Musk posted that USAID was funding BBC. It turned out to be it was funding BBC Media Action, a charity, not the broadcaster. BBC is funded by licenses. This finding indicates that 91,839,663 all-age deaths, including 30,391,980 in children younger than 5 years, were prevented by USAID funding over the 21-year study period. USAID funding was associated with a 65% reduction in mortality from HIV/AIDS (representing 25·5 million deaths), 51% from malaria (8·0 million deaths), and 50% from neglected tropical diseases (8·9 million deaths). Significant decreases were also observed in mortality from tuberculosis, nutritional deficiencies, diarrhoeal diseases, lower respiratory infections, and maternal and perinatal conditions. Forecasting models predicted that the current steep funding cuts could result in more than 14,051,750 additional all-age deaths, including 4,537,157 in children younger than age 5 years, by 2030. The 14,051,750 additional deaths expected to result from shutdown of USAID by 2030 represents 2.34 times the 6,000,000 deaths in the Holocaust. * Evaluating the impact of two decades of USAIDinterventions and projecting the effects of defunding on mortality up to 2030: a retrospective impact evaluation and forecasting analysis Daniella Medeiros Cavalcanti, Lucas de Oliveira Ferreira de Sales, Andrea Ferreira da Silva, Elisa Landin Basterra, Daiana Pena, Caterina Monti, Gonzalo Barreix, Natanael J Silva, Paula Vaz, Francisco Saute, Gonzalo Fanjul, Quique Bassat, Denise Naniche, James Macinko, Davide Rasella. Lancet, June 30, 2025",
-      "images": [
-        "https://pbs.twimg.com/media/HMfQ9OSXUAAR-IR.jpg",
-        "https://pbs.twimg.com/media/HMfQ9ORWcAIRt-0.jpg"
-      ],
-      "summary_ko": "RT by @yleun: DOGE는 JFK가 1961년에 설립한 USAID를 폐쇄했습니다. 폐쇄되기 전에 미국 국제개발처(USAID)는 전 세계적으로 인도주의 및 개발 지원을 위한 최대 규모의 자금 조달 기관이었습니다. Elon Musk는 \"USAID는 벌레 덩어리입니다. 사과가 없습니다. 그리고 사과가 없으면 모든 것을 제거하면 됩니다. 그렇기 때문에 제거해야 합니다. 수리할 수 없습니다. \"라고 그는 나중에 게시했습니다. \"우리는 USAID를 장작 분쇄기에 먹이면서 주말을 보냈습니다. 멋진 파티에 갈 수 있었습니다. 대신 그렇게 했습니다.\" Marco Rubio는 USAID 프로그램의 83%를 폐쇄했습니다. 동료 검토 연구* Lancet은 지난 21년 동안 USAID가 미친 영향에 대한 철저한 반사실적 연구와 2030년까지 폐쇄가 미치는 영향을 조사한 \"가정\" 연구를 제공했습니다. 이 연구는 Elon Mu가",
-      "published_at": "2026-07-07T20:12:54+00:00"
     },
     {
       "id": "x:GoogleDeepMind:2074513847306572213",
@@ -1579,7 +1583,7 @@
       "author_name": "Google DeepMind(딥마인드)",
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2074513661750546762",
-      "text": "Pinned: 🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets historians study Greek and Latin texts using plain English. 🧵",
+      "text": "🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets historians study Greek and Latin texts using plain English. 🧵",
       "images": [],
       "summary_ko": "🏛️ 우리는 고대 세계와 대화할 수 있는 새로운 방법을 공개합니다. Google @antigravity의 과거 예측 기술을 통해 Gemini를 전문가 모델 Aeneas 및 Ithaca에 직접 기반을 두어 역사가는 일반 영어를 사용하여 그리스어 및 라틴어 텍스트를 연구할 수 있습니다. 🧵",
       "published_at": "2026-07-07T15:19:34+00:00"
