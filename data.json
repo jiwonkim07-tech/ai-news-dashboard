@@ -1,22 +1,100 @@
 {
-  "updated_at": "2026-07-10T18:23:18+00:00",
+  "updated_at": "2026-07-10T20:23:32+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 10
   },
   "briefing": {
-    "headline": "SK하이닉스 ADR, 180달러에 개장 예상",
+    "headline": "SK하이닉스, 180달러에 개장 예상",
     "bullets": [
-      "최태원 회장, CNBC 인터뷰에서 HBM 수요 위축 조짐 없다고 밝혀",
-      "미국 내 반도체 생산 포함해 추가 투자 가능성 열어둠",
-      "GPT-5.6, Microsoft 365 Copilot에 적용",
-      "메타 수석 AI 과학자 얀 르쿤, 미국 혁신 생태계의 종말론적 파괴에 대한 NYT의 절제된 표현에 대해 트윗",
-      "DRAM으로 대박! 난야테크, 2분기 EPS 14.66 대만달러 달성"
+      "OpenAI, GPT-5.6 Sol Ultra 공개",
+      "최태원, CNBC 인터뷰에서 HBM 수요 위축 조짐 없다고 밝혀",
+      "에테르의 일본&미국 리서치, SK HYNIX ADRS 개장가 180달러 예상",
+      "Meta 수석 AI 과학자 얀 르쿤, 새로운 Audio-to-MIDI 모델 소개",
+      "미국-이란 기술 협상 유지 중"
     ],
-    "generated_at": "2026-07-10T18:23:18+00:00",
+    "generated_at": "2026-07-10T20:23:32+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:OpenAI:2075647722766614733",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2075647722766614733",
+      "text": "As part of our ongoing efforts to strengthen our safeguards for advanced AI capabilities in biology, we’re evolving our Bio Bug Bounty into an ongoing private program, known as the OpenAI Bio Bug Bounty program and doubling rewards to $50K. We’re inviting researchers with experience in AI red teaming, security, or biosecurity to try to find a universal jailbreak that can defeat our predefined biosafety challenge against OpenAI’s frontier models. https://openai.com/index/bio-bug-bounty",
+      "images": [
+        "https://pbs.twimg.com/card_img/2075273080541495296/L2VGc83H?format=jpg&name=800x419"
+      ],
+      "summary_ko": "생물학 분야의 고급 AI 기능에 대한 보호 장치를 강화하기 위한 지속적인 노력의 일환으로 당사는 Bio Bug Bounty를 OpenAI Bio Bug Bounty 프로그램으로 알려진 지속적인 비공개 프로그램으로 발전시키고 보상을 $50,000로 두 배로 늘렸습니다. 우리는 OpenAI의 프론티어 모델에 대해 사전 정의된 생물 안전 문제를 해결할 수 있는 보편적인 탈옥을 찾기 위해 AI 레드 팀 구성, 보안 또는 생물학적 보안 경험이 있는 연구원을 초대하고 있습니다. https://openai.com/index/bio-bug-bounty",
+      "published_at": "2026-07-10T18:25:55+00:00"
+    },
+    {
+      "id": "x:OpenAI:2075643450196971805",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2075643450196971805",
+      "text": "RT by @OpenAI: Yesterday, we made GPT-5.6 Sol Ultra generally available. Today, we're sharing that it produced a proof of the 50-year-old Cycle Double Cover Conjecture using 64 subagents in just under one hour. We're sharing the prompt and proof below. We're excited to see what you all do with Ultra!",
+      "images": [],
+      "summary_ko": "@OpenAI의 RT: 어제 우리는 GPT-5.6 Sol Ultra를 일반적으로 사용할 수 있게 만들었습니다. 오늘은 64개의 서브에이전트를 사용하여 1시간도 안되는 시간에 50년 된 사이클 이중표지 추측의 증거를 만들어냈다는 소식을 공유드립니다. 우리는 아래 프롬프트와 증거를 공유하고 있습니다. 여러분 모두가 Ultra로 어떤 활동을 펼칠지 기대됩니다!",
+      "published_at": "2026-07-10T18:08:56+00:00"
+    },
+    {
+      "id": "x:sama:2075641131002700120",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2075641131002700120",
+      "text": "RT by @sama: Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice. Now that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday. We’ve spent the last 24 hours reading feedback, looking at usage patterns, and talking with many of you. The short version is that there is a *lot* of excitement for GPT 5.6 Sol, ChatGPT Work on mobile & web, but also that we didn't get everything quite right. - We made it too easy to use the highest-compute settings without making the impact on usage limits sufficiently clear. - We reorganized the desktop app in one bold move, making familiar things like chats and projects harder to find. - Our launch framing was focused on ChatGPT Work and to some of our Codex fans it made it feel like Codex was going away over time. Absolutely not our intention, we love Codex and it is here to stay. - And we introduced regressions for some existing multi-agent workflows, alongside a collection of rough edges in plugins and other parts of the experience. We’re landing a first set of improvements today. We’re resetting usage twice so people can keep experimenting, changing defaults and the model picker so they don’t push people toward unnecessarily expensive settings, fixing several plugin submission issues, improving how we represent Codex in the product, and cleaning up some of the most immediate desktop problems. A larger set of improvements will land next week. We’re bringing chats and projects back into the sidebar in a more familiar and customizable way, making usage and reset timing much more visible, clarifying when to use ChatGPT Work and when to use Codex, and addressing the many other smaller pieces of great feedback we've had. The ambition behind this launch hasn’t changed. We think bringing ChatGPT and Codex together into a workspace where people and agents can collaborate is a very important step forward. But an ambitious direction doesn’t excuse avoidable confusion or regressions in the first version. Please keep the feedback coming. We’re moving quickly, and you should see the experience already get better with a few updates today; and substantially better again next week.",
+      "images": [],
+      "summary_ko": "@sama님의 RT: 안녕하세요 아름다운 여러분! Codex 및 ChatGPT Work 전반에 걸쳐 사용 제한이 재설정되었습니다. 그리고 또 다른 하나는 그날 나중에 올 것입니다. 가지고 있다. 이제 여러분의 관심을 끌었으니 ChatGPT Work, Codex 및 어제 공유한 모든 업데이트에 대한 빠른 업데이트를 알려드리겠습니다. 우리는 지난 24시간 동안 피드백을 읽고, 사용 패턴을 살펴보고, 많은 여러분과 대화를 나누었습니다. 짧은 버전은 모바일 및 웹에서 GPT 5.6 Sol, ChatGPT Work에 대한 *많은* 기대가 있지만 모든 것이 제대로 이루어지지 않았다는 것입니다. - 사용 제한에 미치는 영향을 충분히 명확하게 하지 않으면서 최고 컴퓨팅 설정을 사용하기가 너무 쉬워졌습니다. - 데스크톱 앱을 과감하게 개편하여 채팅, 프로젝트 등 익숙한 항목을 찾기 어렵게 만들었습니다. - 출시 프레임은 ChatGPT Wo에 중점을 두었습니다.",
+      "published_at": "2026-07-10T17:59:43+00:00"
+    },
+    {
+      "id": "x:OpenAI:2075641131002700120",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2075641131002700120",
+      "text": "RT by @OpenAI: Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice. Now that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday. We’ve spent the last 24 hours reading feedback, looking at usage patterns, and talking with many of you. The short version is that there is a *lot* of excitement for GPT 5.6 Sol, ChatGPT Work on mobile & web, but also that we didn't get everything quite right. - We made it too easy to use the highest-compute settings without making the impact on usage limits sufficiently clear. - We reorganized the desktop app in one bold move, making familiar things like chats and projects harder to find. - Our launch framing was focused on ChatGPT Work and to some of our Codex fans it made it feel like Codex was going away over time. Absolutely not our intention, we love Codex and it is here to stay. - And we introduced regressions for some existing multi-agent workflows, alongside a collection of rough edges in plugins and other parts of the experience. We’re landing a first set of improvements today. We’re resetting usage twice so people can keep experimenting, changing defaults and the model picker so they don’t push people toward unnecessarily expensive settings, fixing several plugin submission issues, improving how we represent Codex in the product, and cleaning up some of the most immediate desktop problems. A larger set of improvements will land next week. We’re bringing chats and projects back into the sidebar in a more familiar and customizable way, making usage and reset timing much more visible, clarifying when to use ChatGPT Work and when to use Codex, and addressing the many other smaller pieces of great feedback we've had. The ambition behind this launch hasn’t changed. We think bringing ChatGPT and Codex together into a workspace where people and agents can collaborate is a very important step forward. But an ambitious direction doesn’t excuse avoidable confusion or regressions in the first version. Please keep the feedback coming. We’re moving quickly, and you should see the experience already get better with a few updates today; and substantially better again next week.",
+      "images": [],
+      "summary_ko": "@OpenAI의 RT: 안녕하세요 아름다운 여러분! Codex 및 ChatGPT Work 전반에 걸쳐 사용 제한이 재설정되었습니다. 그리고 또 다른 하나는 그날 나중에 올 것입니다. 가지고 있다. 이제 여러분의 관심을 끌었으니 ChatGPT Work, Codex 및 어제 공유한 모든 업데이트에 대한 빠른 업데이트를 알려드리겠습니다. 우리는 지난 24시간 동안 피드백을 읽고, 사용 패턴을 살펴보고, 많은 여러분과 대화를 나누었습니다. 짧은 버전은 모바일 및 웹에서 GPT 5.6 Sol, ChatGPT Work에 대한 *많은* 기대가 있지만 모든 것이 제대로 이루어지지 않았다는 것입니다. - 사용 제한에 미치는 영향을 충분히 명확하게 하지 않으면서 최고 컴퓨팅 설정을 사용하기가 너무 쉬워졌습니다. - 데스크톱 앱을 과감하게 개편하여 채팅, 프로젝트 등 익숙한 항목을 찾기 어렵게 만들었습니다. - 출시 프레임은 ChatGPT에 중점을 두었습니다.",
+      "published_at": "2026-07-10T17:59:43+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2075620285923905602",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2075620285923905602",
+      "text": "R to @GoogleDeepMind: Watch → https://goo.gle/4pxlGEh Spotify → https://goo.gle/4f89R2a Apple Podcasts → https://goo.gle/4fpWThL Or listen wherever you get your podcasts! 🎧",
+      "images": [
+        "https://pbs.twimg.com/card_img/2075645081076527104/30Fug_BT?format=jpg&name=800x320_1"
+      ],
+      "summary_ko": "R에서 @GoogleDeepMind로: 시청 → https://goo.gle/4pxlGEh Spotify → https://goo.gle/4f89R2a Apple Podcasts → https://goo.gle/4fpWThL 또는 어디서든 Podcast를 들으실 수 있습니다! 🎧",
+      "published_at": "2026-07-10T16:36:53+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2075620281515929716",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2075620281515929716",
+      "text": "A model’s chain of thought acts like a scratch pad, offering a window into its reasoning. 📝 On the latest episode of our podcast, host @fryrsquared sits down with @NeelNanda5 to explore interpretability – the science of reverse engineering how neural networks learn and think. Timecodes: 00:00 Introduction 02:41 Motivation for interpretability research 04:01 Mechanistic interpretability 08:14 Chain of thought monitoring 18:14 Interpretability techniques 35:00 Auditing models for safety 48:53 What comes next for interpretability",
+      "images": [
+        "https://pbs.twimg.com/media/HM4V8NqWkAAxznf.jpg"
+      ],
+      "summary_ko": "모델의 일련의 사고는 스크래치 패드처럼 작동하여 추론에 대한 창을 제공합니다. 📝 팟캐스트의 최신 에피소드에서 진행자 @fryrsquared는 @NeelNanda5와 함께 신경망이 학습하고 생각하는 방법을 리버스 엔지니어링하는 과학인 해석 가능성을 탐구합니다. 타임코드: 00:00 소개 02:41 해석 가능성 연구에 대한 동기 04:01 기계적 해석 가능성 08:14 일련의 사고 모니터링 18:14 해석 가능성 기술 35:00 안전을 위한 감사 모델 48:53 해석 가능성을 위한 다음 단계",
+      "published_at": "2026-07-10T16:36:52+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23472",
       "source": "telegram",
@@ -58,6 +136,18 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-10T15:36:03+00:00"
+    },
+    {
+      "id": "x:ylecun:2075604270552932762",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2075604270552932762",
+      "text": "RT by @ylecun: 🎯 If Trump were actively trying to destroy American advantages, to create chaos and strife that he and his ilk could exploit, what would he do differently?",
+      "images": [],
+      "summary_ko": "RT by @yleun: 🎯 트럼프가 적극적으로 미국의 이점을 파괴하고 그와 그의 동류가 이용할 수 있는 혼란과 분쟁을 일으키려고 한다면 그는 무엇을 다르게 할 것입니까?",
+      "published_at": "2026-07-10T15:33:15+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/23469",
@@ -370,6 +460,20 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-10T12:30:49+00:00"
+    },
+    {
+      "id": "x:ylecun:2075536492177354771",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2075536492177354771",
+      "text": "RT by @ylecun: Today, together with @kyutai_labs, we’re introducing our new Audio-to-MIDI model. It takes a finished recording, identifies the instruments playing, and returns separate MIDI tracks for each — voice, drums, bass, keys, and more. Unlike most existing solutions, our model works directly from the full mix rather than requiring separate stems. It also detects chords, key, and tempo, giving producers broader musical context. We’ve written more about the model, the problem, and how it works here: http://mirelo.ai/blog/turning-audio-to-midi",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2075532449589714944/img/Lz2K-Zzebwh53t1v.jpg"
+      ],
+      "summary_ko": "RT by @yleun: 오늘 @kyotai_labs와 함께 새로운 Audio-to-MIDI 모델을 소개합니다. 녹음이 완료된 후 연주되는 악기를 식별하고 음성, 드럼, 베이스, 키 등 각각에 대해 별도의 MIDI 트랙을 반환합니다. 대부분의 기존 솔루션과 달리 우리 모델은 별도의 줄기가 필요하지 않고 전체 혼합에서 직접 작동합니다. 또한 코드, 키, 템포를 감지하여 제작자에게 더 넓은 음악적 맥락을 제공합니다. 모델, 문제 및 작동 방식에 대한 자세한 내용은 http://mirelo.ai/blog/turning-audio-to-midi에 나와 있습니다.",
+      "published_at": "2026-07-10T11:03:55+00:00"
     },
     {
       "id": "tg:EMchina/31461",
@@ -928,6 +1032,20 @@
       "published_at": "2026-07-09T19:16:14+00:00"
     },
     {
+      "id": "x:sama:2075294038648148385",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2075294038648148385",
+      "text": "RT by @sama: OpenAI Build Week is here. The challenge starts July 13. Across the week, join live sessions and community events with builders around the world. Registration is open. Bring the idea sitting in your backlog. Build it with Codex.",
+      "images": [
+        "https://pbs.twimg.com/media/HMztYlTaUAAHw3A.jpg"
+      ],
+      "summary_ko": "@sama의 RT: OpenAI Build Week가 시작되었습니다. 챌린지는 7월 13일에 시작됩니다. 일주일 내내 전 세계 빌더들과 함께 라이브 세션과 커뮤니티 이벤트에 참여하세요. 등록이 열려 있습니다. 백로그에 있는 아이디어를 가져오세요. Codex로 빌드해보세요.",
+      "published_at": "2026-07-09T19:00:30+00:00"
+    },
+    {
       "id": "x:sama:2075293792048136572",
       "source": "x",
       "author": "sama",
@@ -1061,48 +1179,6 @@
       "published_at": "2026-07-09T17:30:40+00:00"
     },
     {
-      "id": "x:OpenAI:2075271429336273153",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2075271429336273153",
-      "text": "R to @OpenAI: GPT‑5.6 delivers a step change in design judgment. Its stronger computer-use capabilities let it inspect and refine the rendered result—not just generate the underlying code or content—so it can catch visual and functional issues and apply finishing touches before handing the work back.",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2075266533774016512/img/wle0f-FsumvPLSDI.jpg"
-      ],
-      "summary_ko": "R에서 @OpenAI로: GPT‑5.6은 설계 판단에 있어서 한 단계 변화를 가져옵니다. 강력한 컴퓨터 사용 기능을 통해 기본 코드나 콘텐츠를 생성하는 것뿐만 아니라 렌더링된 결과를 검사하고 다듬을 수 있으므로 시각적, 기능적 문제를 파악하고 작업을 다시 전달하기 전에 마무리 작업을 적용할 수 있습니다.",
-      "published_at": "2026-07-09T17:30:40+00:00"
-    },
-    {
-      "id": "x:OpenAI:2075271427079774451",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2075271427079774451",
-      "text": "R to @OpenAI: GPT-5.6 launches with ultra mode, our highest-performance setting to accelerate your most ambitious work by coordinating multiple agents to work in parallel. It trades higher token use for stronger and faster results on demanding tasks.",
-      "images": [
-        "https://pbs.twimg.com/media/HMzT0ThbEAAVAd_.png"
-      ],
-      "summary_ko": "R에서 @OpenAI로: GPT-5.6은 여러 에이전트를 동시에 작업하도록 조정하여 가장 야심찬 작업을 가속화하는 최고 성능 설정인 울트라 모드로 출시됩니다. 까다로운 작업에 대한 더 강력하고 빠른 결과를 얻기 위해 더 많은 토큰 사용을 교환합니다.",
-      "published_at": "2026-07-09T17:30:39+00:00"
-    },
-    {
-      "id": "x:OpenAI:2075271425548795909",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2075271425548795909",
-      "text": "R to @OpenAI: On the Artificial Analysis Coding Agent Index, GPT‑5.6 Sol sets a new state of the art at 80.0—2.8 points above Claude Fable 5—while using less than half the output tokens, taking less than half the time, and costing about one-third less.",
-      "images": [
-        "https://pbs.twimg.com/media/HMzTwccaMAELEzz.jpg"
-      ],
-      "summary_ko": "R에서 @OpenAI로: 인공 분석 코딩 에이전트 지수에서 GPT‑5.6 Sol은 80.0(Claude Fable 5보다 2.8포인트 높은)으로 새로운 최첨단 기술을 설정하면서 출력 토큰을 절반 미만으로 사용하고, 시간도 절반도 안 걸리고, 비용도 약 1/3 더 저렴합니다.",
-      "published_at": "2026-07-09T17:30:39+00:00"
-    },
-    {
       "id": "x:sama:2075270869992264003",
       "source": "x",
       "author": "sama",
@@ -1137,7 +1213,7 @@
       "url": "https://x.com/sama/status/2075266471316615436",
       "text": "obviously the best model we have ever produced, but also one of the best blog posts we have ever produced: https://openai.com/index/gpt-5-6/",
       "images": [
-        "https://pbs.twimg.com/card_img/2075270841944911872/b-HxD4gn?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2075265179932143616/yIALJg-v?format=jpg&name=800x419"
       ],
       "summary_ko": "분명히 우리가 제작한 최고의 모델일 뿐만 아니라 우리가 제작한 최고의 블로그 게시물 중 하나이기도 합니다: https://openai.com/index/gpt-5-6/",
       "published_at": "2026-07-09T17:10:58+00:00"
@@ -1167,20 +1243,6 @@
       ],
       "summary_ko": "우리 장기 혜택 신탁(Long-Term Benefit Trust)은 Ben Bernanke 박사를 최신 회원으로 임명했습니다. 더 읽어보세요: https://www.anthropic.com/news/ben-bernanke",
       "published_at": "2026-07-09T16:35:17+00:00"
-    },
-    {
-      "id": "x:sama:2075254288956440848",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2075254288956440848",
-      "text": "RT by @sama: Today. 10am PT.",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2075253784759156737/img/j7QtkkER0qmkjxAb.jpg"
-      ],
-      "summary_ko": "@sama의 RT: 오늘. 오전 10시(태평양 표준시)",
-      "published_at": "2026-07-09T16:22:33+00:00"
     },
     {
       "id": "x:ylecun:2075253735563886595",
@@ -1233,20 +1295,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-09T15:00:04+00:00"
-    },
-    {
-      "id": "x:sama:2075128093891801305",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2075128093891801305",
-      "text": "RT by @sama: All problems have been solved by OpenAI!",
-      "images": [
-        "https://pbs.twimg.com/media/HMxV43daIAAW5oS.png"
-      ],
-      "summary_ko": "@sama님의 RT: OpenAI가 모든 문제를 해결했습니다!",
-      "published_at": "2026-07-09T08:01:06+00:00"
     },
     {
       "id": "tg:enc210406/4114",
@@ -1462,34 +1510,6 @@
       "published_at": "2026-07-08T20:00:40+00:00"
     },
     {
-      "id": "x:ylecun:2074931434662277272",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2074931434662277272",
-      "text": "RT by @ylecun: The emoluments clause is supposed to prevent the President from receiving foreign bribes. That hasn’t stopped Trump’s family from receiving about $13 billion in “investments” from foreign governments, especially in the Middle East. My @Morning_Joe Chart",
-      "images": [
-        "https://pbs.twimg.com/media/HMujIZhXEAAnOmr.jpg"
-      ],
-      "summary_ko": "RT by @yleun: 보수 조항은 대통령이 외국 뇌물을 받는 것을 방지하기 위한 것입니다. 그럼에도 불구하고 트럼프 가족은 외국 정부, 특히 중동 지역으로부터 약 130억 달러의 “투자”를 받는 것을 막지 못했습니다. 내 @Morning_Joe 차트",
-      "published_at": "2026-07-08T18:59:39+00:00"
-    },
-    {
-      "id": "x:ylecun:2074921971456803065",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2074921971456803065",
-      "text": "RT by @ylecun: We're still just scratching the surface of how much better, faster, cheaper we can make inference for open-source models! So super excited to see companies like @zml_ai by @steeve come out of stealth with their inference engine integrated with @huggingface as the storage layer. Let's push open-source tokens to the max!",
-      "images": [
-        "https://pbs.twimg.com/media/HMuaEWbW4AAzlj3.jpg"
-      ],
-      "summary_ko": "RT by @yleun: 우리는 오픈 소스 모델에 대해 얼마나 더 좋고, 더 빠르고, 더 저렴하게 추론할 수 있는지 아직 겉핥기 단계에 불과합니다! @steeve의 @zml_ai와 같은 회사가 스토리지 계층으로 @huggingface와 통합된 추론 엔진을 사용하여 비밀에서 벗어나는 것을 보게 되어 매우 기쁩니다. 오픈소스 토큰을 최대한 활용해 보세요!",
-      "published_at": "2026-07-08T18:22:02+00:00"
-    },
-    {
       "id": "x:demishassabis:2074878171392909774",
       "source": "x",
       "author": "demishassabis",
@@ -1600,7 +1620,7 @@
       "author_name": "Google DeepMind(딥마인드)",
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2074513661750546762",
-      "text": "🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets historians study Greek and Latin texts using plain English. 🧵",
+      "text": "Pinned: 🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets historians study Greek and Latin texts using plain English. 🧵",
       "images": [],
       "summary_ko": "🏛️ 우리는 고대 세계와 대화할 수 있는 새로운 방법을 공개합니다. Google @antigravity의 과거 예측 기술을 통해 Gemini를 전문가 모델 Aeneas 및 Ithaca에 직접 기반을 두어 역사가는 일반 영어를 사용하여 그리스어 및 라틴어 텍스트를 연구할 수 있습니다. 🧵",
       "published_at": "2026-07-07T15:19:34+00:00"
@@ -1944,20 +1964,6 @@
       "published_at": "2026-06-30T16:03:40+00:00"
     },
     {
-      "id": "x:GoogleDeepMind:2071988044878516466",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2071988044878516466",
-      "text": "We’re shipping 2 major releases: 🔘 Nano Banana 2 Lite: our fastest and cheapest Gemini Image model 🔘 Gemini Omni Flash: now available via the Gemini API and in @GoogleAIStudio to help developers generate and edit high-quality videos.",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2071986416179896321/img/-6UxxlHXr3t6QJuf.jpg"
-      ],
-      "summary_ko": "고정됨: 2가지 주요 릴리스 출시 예정: 🔘 Nano Banana 2 Lite: 가장 빠르고 저렴한 Gemini 이미지 모델 🔘 Gemini Omni Flash: 이제 Gemini API와 @GoogleAIStudio를 통해 개발자가 고품질 비디오를 생성하고 편집할 수 있도록 지원합니다.",
-      "published_at": "2026-06-30T16:03:40+00:00"
-    },
-    {
       "id": "x:demishassabis:2071988044878516466",
       "source": "x",
       "author": "demishassabis",
@@ -1984,20 +1990,6 @@
       ],
       "summary_ko": "@karpathy의 RT: 우리는 스텔스에서 벗어나고 있습니다. 성공적인 A0 테이프아웃, 10억 달러 이상의 고객 계약, 8억 달러의 자금 조달 이후 첫 번째 랙을 구축했습니다. 초기 고객 테스트에서는 추론 워크로드에서 SOTA 처리량, 대기 시간 및 전력 효율성을 달성한 것으로 나타났습니다. 올 여름 첫 번째 랙이 출시됩니다.",
       "published_at": "2026-06-30T15:00:09+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2071876014293045681",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2071876014293045681",
-      "text": "RT by @GoogleDeepMind: What does it mean to be an ethicist and a philosopher working in an AI company? What questions do we explore – and can we affect positive change? For a deep exploration of these themes, check out a new long-read by Bobby Baird in the @guardian today...",
-      "images": [
-        "https://pbs.twimg.com/media/HMDGtGCWwAERnTH.jpg"
-      ],
-      "summary_ko": "@GoogleDeepMind의 RT: AI 회사에서 일하는 윤리학자이자 철학자가 된다는 것은 무엇을 의미하나요? 우리는 어떤 질문을 탐구하며 긍정적인 변화에 영향을 미칠 수 있습니까? 이러한 주제에 대해 자세히 알아보려면 오늘 @guardian에서 Bobby Baird가 오랫동안 읽은 새로운 글을 확인하세요...",
-      "published_at": "2026-06-30T08:38:30+00:00"
     },
     {
       "id": "rss:semianalysis:us-grid-constraints-towards-40gw",
@@ -2281,7 +2273,7 @@
       "url": "https://x.com/GoogleAI/status/2064366505630802081",
       "text": "R to @GoogleAI: Read the blog to learn more: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
       "images": [
-        "https://pbs.twimg.com/card_img/2071789095446044672/AzpFIMbg?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2075638152551616512/fqYIXcDW?format=jpg&name=800x419"
       ],
       "summary_ko": "R에서 @GoogleAI로: 자세한 내용은 블로그를 읽어보세요. https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
       "published_at": "2026-06-09T15:18:23+00:00"
