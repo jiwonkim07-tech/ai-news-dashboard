@@ -1,5 +1,37 @@
 {
+  "telegram:HI_GS": [
+    "tg:HI_GS/6683",
+    "tg:HI_GS/6682",
+    "tg:HI_GS/6681",
+    "tg:HI_GS/6680",
+    "tg:HI_GS/6679",
+    "tg:HI_GS/6678",
+    "tg:HI_GS/6677",
+    "tg:HI_GS/6676",
+    "tg:HI_GS/6675",
+    "tg:HI_GS/6674",
+    "tg:HI_GS/6673",
+    "tg:HI_GS/6672",
+    "tg:HI_GS/6671"
+  ],
+  "telegram:enc210406": [
+    "tg:enc210406/4125",
+    "tg:enc210406/4124",
+    "tg:enc210406/4123",
+    "tg:enc210406/4122",
+    "tg:enc210406/4121",
+    "tg:enc210406/4120",
+    "tg:enc210406/4117",
+    "tg:enc210406/4116",
+    "tg:enc210406/4115",
+    "tg:enc210406/4114",
+    "tg:enc210406/4113",
+    "tg:enc210406/4112"
+  ],
   "telegram:EMchina": [
+    "tg:EMchina/31484",
+    "tg:EMchina/31483",
+    "tg:EMchina/31482",
     "tg:EMchina/31481",
     "tg:EMchina/31480",
     "tg:EMchina/31479",
@@ -11,9 +43,24 @@
     "tg:EMchina/31473",
     "tg:EMchina/31472",
     "tg:EMchina/31471",
-    "tg:EMchina/31470",
-    "tg:EMchina/31469",
-    "tg:EMchina/31468"
+    "tg:EMchina/31470"
+  ],
+  "telegram:aetherjapanresearch": [
+    "tg:aetherjapanresearch/23476",
+    "tg:aetherjapanresearch/23475",
+    "tg:aetherjapanresearch/23474",
+    "tg:aetherjapanresearch/23473",
+    "tg:aetherjapanresearch/23472",
+    "tg:aetherjapanresearch/23471",
+    "tg:aetherjapanresearch/23469",
+    "tg:aetherjapanresearch/23470",
+    "tg:aetherjapanresearch/23468",
+    "tg:aetherjapanresearch/23467",
+    "tg:aetherjapanresearch/23466",
+    "tg:aetherjapanresearch/23465",
+    "tg:aetherjapanresearch/23464",
+    "tg:aetherjapanresearch/23463",
+    "tg:aetherjapanresearch/23462"
   ],
   "x:OpenAI": [
     "x:OpenAI:2075768216866205786",
@@ -43,36 +90,6 @@
     "tg:bornlupin/19011",
     "tg:bornlupin/19010"
   ],
-  "telegram:enc210406": [
-    "tg:enc210406/4125",
-    "tg:enc210406/4124",
-    "tg:enc210406/4123",
-    "tg:enc210406/4122",
-    "tg:enc210406/4121",
-    "tg:enc210406/4120",
-    "tg:enc210406/4117",
-    "tg:enc210406/4116",
-    "tg:enc210406/4115",
-    "tg:enc210406/4114",
-    "tg:enc210406/4113",
-    "tg:enc210406/4112",
-    "tg:enc210406/4111"
-  ],
-  "telegram:HI_GS": [
-    "tg:HI_GS/6683",
-    "tg:HI_GS/6682",
-    "tg:HI_GS/6681",
-    "tg:HI_GS/6680",
-    "tg:HI_GS/6679",
-    "tg:HI_GS/6678",
-    "tg:HI_GS/6677",
-    "tg:HI_GS/6676",
-    "tg:HI_GS/6675",
-    "tg:HI_GS/6674",
-    "tg:HI_GS/6673",
-    "tg:HI_GS/6672",
-    "tg:HI_GS/6671"
-  ],
   "x:sama": [
     "x:sama:2075641131002700120",
     "x:sama:2075585386441789605",
@@ -85,7 +102,8 @@
     "x:sama:2075270869992264003",
     "x:sama:2075267201058426944",
     "x:sama:2075266471316615436",
-    "x:sama:2075264378962907597"
+    "x:sama:2075264378962907597",
+    "x:sama:2075128093891801305"
   ],
   "x:GoogleDeepMind": [
     "x:GoogleDeepMind:2075620285923905602",
@@ -99,22 +117,10 @@
     "x:GoogleDeepMind:2071988054814773713",
     "x:GoogleDeepMind:2071988052478615902",
     "x:GoogleDeepMind:2071988050012303710",
-    "x:GoogleDeepMind:2071988047445438475"
-  ],
-  "telegram:aetherjapanresearch": [
-    "tg:aetherjapanresearch/23473",
-    "tg:aetherjapanresearch/23472",
-    "tg:aetherjapanresearch/23471",
-    "tg:aetherjapanresearch/23469",
-    "tg:aetherjapanresearch/23470",
-    "tg:aetherjapanresearch/23468",
-    "tg:aetherjapanresearch/23467",
-    "tg:aetherjapanresearch/23466",
-    "tg:aetherjapanresearch/23465",
-    "tg:aetherjapanresearch/23464",
-    "tg:aetherjapanresearch/23463",
-    "tg:aetherjapanresearch/23462",
-    "tg:aetherjapanresearch/23461"
+    "x:GoogleDeepMind:2071988047445438475",
+    "x:GoogleDeepMind:2071988044878516466",
+    "x:GoogleDeepMind:2071876014293045681",
+    "x:GoogleDeepMind:2070300619257106819"
   ],
   "x:GoogleAI": [
     "x:GoogleAI:2075609303029776872",
@@ -142,7 +148,8 @@
     "x:ylecun:2075102766221996136",
     "x:ylecun:2075064915606347835",
     "x:ylecun:2075061612017508729",
-    "x:ylecun:2075012691241157038"
+    "x:ylecun:2075012691241157038",
+    "x:ylecun:2074946793830305828"
   ],
   "telegram:globaletfi": [
     "tg:globaletfi/20596",
@@ -229,6 +236,6 @@
     "x:demishassabis:2064873362799600042"
   ],
   "_meta": {
-    "last_x_fetch": "2026-07-11T03:24:35+00:00"
+    "last_x_fetch": "2026-07-11T08:47:11+00:00"
   }
 }
