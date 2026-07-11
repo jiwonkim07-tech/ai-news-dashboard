@@ -1,22 +1,125 @@
 {
-  "updated_at": "2026-07-10T23:58:02+00:00",
+  "updated_at": "2026-07-11T03:24:36+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 21
+    "new_this_run": 15
   },
   "briefing": {
-    "headline": "SK하이닉스, 미국 반도체 생산 투자 검토",
+    "headline": "아마존 250억달러 추가 발행",
     "bullets": [
-      "최태원 SK하이닉스 회장, 미국 반도체 생산 투자 가능성 열어",
-      "엔비디아, 미국·아랍에미리트에 AI 칩 수출 규제 완화",
-      "OpenAI, GPT-5.6 모델 출시 및 Bio Bug Bounty 프로그램 강화",
-      "메타, 자체 AI 칩 개발 본격 생산 단계 진입",
-      "트럼프, 이란 대화 요청 동의했으나 휴전종료 단호히 통보"
+      "미국-이란 협상 다음주 스위스 개최 가능",
+      "마이크론 미국 투자 가속화",
+      "엔비디아 AI 칩 수출 규제 완화",
+      "SK하이닉스 액면분할 검토",
+      "GPT-5.6 의료 정보 분야 진전"
     ],
-    "generated_at": "2026-07-10T23:58:02+00:00",
+    "generated_at": "2026-07-11T03:24:36+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31479",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31479",
+      "text": "미국-이란 다음 협상은 다음주 스위스에서 개최 가능성  消息人士：美伊新一轮谈判或于下周举行 据美国媒体10日援引消息人士的话报道称，美国和伊朗新一轮谈判或于下周在瑞士举行。（新华社）  https://wallstreetcn.com/livenews/3132170?ivk=1#from=ios",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-11T03:10:06+00:00"
+    },
+    {
+      "id": "tg:EMchina/31478",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31478",
+      "text": "AI '밑 빠진 독에 물 붓기'. 아마존 250억달러 추가발행. AI 관련 채권 전량 매각  • 아마존 250억달러 규모 신규 채권 발행. 전세계 AI 관련 채권 발행 규모 3350억달러로 사상 최고치  • 이후 AI 관련 채권 대규모 매도. 메타, 아마존 등 관련 채권  스프레드 하루만에 급격히 확대  • 초대형 클라우드 기업 레버리지 비율은 두분기 만에 0.9배에서 1.8배로 급등  • 시장의 핵심 우려는 AI 자본지출의 '밑 빠진 독에 물 붓기'가…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-11T03:04:35+00:00"
+    },
+    {
+      "id": "x:OpenAI:2075768216866205786",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2075768216866205786",
+      "text": "RT by @OpenAI: GPT-Live is now fully rolled out to all ChatGPT users globally. We're also doubling everyone's voice usage limit for the whole weekend so you can try more of it. Have fun! 🎉",
+      "images": [],
+      "summary_ko": "@OpenAI의 RT: GPT-Live가 이제 전 세계 모든 ChatGPT 사용자에게 완전히 출시되었습니다. 또한 주말 내내 모든 사람의 음성 사용 제한을 두 배로 늘려 더 많은 기능을 사용해 볼 수 있습니다. 재미있게 보내세요! 🎉",
+      "published_at": "2026-07-11T02:24:43+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19022",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19022",
+      "text": "🕳\n반도체 수출 | 2026년 7월 10일\n(매월 1-10일까지 기준)\n[수출금액]\n- 디램(모듈제외): 수출액 $4,461mn, Y/Y +510%, M/M +29%\n- 디램(모듈포함): 수출액 $5,887mn, Y/Y +455%, M/M +20%\n- 플래시메모리(낸드): 수출액 $507mn, Y/Y +203%, M/M -12%\n[수출단가]\n- DRAM(모듈 제외)수출단가는 $96,520/kg로 전년 대비 +540%, 전월 대비 +16%\n- DRAM(모듈 포함)수출단가는 $68,263/kg로 전년 대비 +530%, 전월 대비 +15%\n- 플래시메모리 수출단가는 $52,091/kg로 전년 대비 +332%, 전월 대비 -16%",
+      "images": [
+        "https://cdn5.telesco.pe/file/FK9tAJ9WjayseR6ADdFrjo3OGVjEN5Tvumypu_t06v7-JB3VISpTRB4G4u8LjqZZynfpj7xbeIyECPrn40UQ1boCIhCwaV9uW1PA9iadUsIpTARZ6wP7y15vgce_NVqC5i7U-NZKW7-bhsNdVEAT1rcb3dTdEhrGlONppdxagYqeHs2mvYI1f52dppFqF1shFVj6d_rsPGlu6Uvr4omUYhdJxaR2eKr4PnpQlO6T9iYy2zXsqbcOB5fFZotR9RVVXmu1HPwCs1H5HAmRRgEi1waa3fL9lfyWjxFOB04u-5c9Wkm0kWiednYxRmq1YKhvSyp8dPrRnbZDMOf_P2I1Mw.jpg",
+        "https://cdn5.telesco.pe/file/WOprY3rdnmFkwpCYG5cQnqwOlNh2VgVIgwzRrk4vJBVaZmpRBXQthnVx5S6w9c7ltD8aZZ1Lf0Yhlsss6TCTvYZbFWw9N0B8qX9kgbCrbl13tbiGrFSFgQFNspxFLZjt2MHMAr9CeXZLRlFzfsOw5G-ud-ZGzIHR3arxR1SmECgb9yrw2bOY9EjvNrAG1vKYrbU-Kw3GRsPPu-ujzl4gVfPRTZbYmRHitdRq19-51qsISHU73CWYU9xZNpHScCtGV7UfgERpW2TzN4ZktdJ5GGDkU7IzwN3uHP5aYrdXWFnPkk3Yf7pw6PtDF2eYFRgwSsZiP-TTZu9F9dIAmJR0Fw.jpg",
+        "https://cdn5.telesco.pe/file/LCxgPidtbEa6NGyLe_cdfLOVUaftOf3R-CDnIilZqKGe1DJlsmV_q97H7spG-fYeGh-LEJjbNpgAIbbc6Jv0H-nuM19vfymx3W7z90TEqwBZirwgR23M0YBf1nthOpMNcAP5lyv_XgqwaqdyjViPsUNMBz9MJckqSpKvETaF-6k-2jDdBR5em-g1LtFo8cqHxdYjS2NovJQtBPwDP2SXt827ae0AZcjIMxNv3K1SARtDHX0BqdkIifzN2EYMEF6_G4iYUnED3FsjBQx-uqjJMSJPk01P3jwUg0uQZt_ivNf_ELyWZTXRCOI2B8PWG2avIPIiyQb01F4Rv-knXTo2nA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-11T01:19:08+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19020",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19020",
+      "text": "📊\n잠정 수출 | 2026년 7월 10일\n7월 10일 잠정 수출액 주요 품목별 ATH\n※ 매월 1-10일까지의 수치 기준\n디램(모듈포함): +455% Y/Y, +20% M/M\n휴대전화 완성품: +385% Y/Y, +147% M/M\n- 7월 디램(DRAM) 수출액 레벨업",
+      "images": [
+        "https://cdn5.telesco.pe/file/bSAPytKlUawjbD7dBW9xMkeI6blziUCbZq5SNcF4F2grxL053yRRK-AxZtz7pjcUiwF8brsfhwySwM1myYButxSqOslxGdOwl1H7-FYQg9yBKkAYsCN1ONU7cSUIJVcgIA9kOJ0lxgtvsmyu33Fg8G1Z8n_5KU_nKbd1A_6tyDz8ilo-J1UnxGQ29-hGJHx0cxHZf_rzjnFEr2Lhb1FQdiQuviuws6DaOLpJl97icHWFuStbBz1HGc7rSoL9yxNv7dDI0s5n5bqKOknCvXrs128o7cAqDF2tymjxSSP4hHcatgwX75o4BWkjjD9bxXYs0F2Yu29SRJqeNpAFlipGog.jpg",
+        "https://cdn5.telesco.pe/file/ursQtFdN4biGs7VenwaR6MTYn7n_D5WAK5jhfJ8Fh-XEYCwiYzPO8rUQQ3XR56aJRkIsp1QHnLj0df35BWxuUaa19hlFyythi7aI-cjzeqLmrm6h7QTKAg1FEN1xqGhaXrOMYXlQAnu59nPx_ZatfaQD697Ktnevif_9S8zv_Gi0WW8rY0XLW3oks7zNzJ77dV-Ly5SKx4JOxnCIH0hHZTZQUtnzkC8kq4Wb6Mcbt6jpoSgAX7j8-gTK_4BaxqRgYzz1uTu5WrN-NUshuDUnWBGIq3orrhojg9FozJ8nEydPVbRivzvkfqIhkM2v8qmKpH-1h7rLL98ZJWve6yxzQQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-11T01:19:01+00:00"
+    },
+    {
+      "id": "tg:EMchina/31477",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31477",
+      "text": "마이크론 미국 투자 가속화. 프리마켓 +6%대  미국 디램 생산 비중 40% 목표  ==========================  ~Micron anticipates that the increase in investments will support its long-term goal of producing 40% of its DRAM in the U.S. while creating additional good-paying direct and indirect…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-11T01:04:42+00:00"
+    },
+    {
+      "id": "tg:enc210406/4124",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4124",
+      "text": "2026년 7월 10일 기준\n클락슨 신조선가 지수는\n185.39pt로\n전주 대비 0.02pt(0.01%)\n‘상승‘했습니다.\n[최근 4주 간 지수]\n185.37pt (26년 7월 3일)\n185.15pt (26년 6월 26일)\n184.88pt (26년 6월 19일)\n184.98pt (26년 6월 12일)\n[주목할 선종과 선형]\n> 탱커(유조선): 보합\n@ VLCC(315-320K DWT)\n- 26년 7월 3일: 130.50백만달러\n- 26년 7월 10일: 130.50백만달러\n@ Suezmax(156-158K DWT)\n- 26년 7월 3일: 89.50백만달러\n- 26년 7월 10일: 89.50백만달러\n@ Aframax(113-115K DWT)\n- 26년 7월 3일: 75.00백만달러\n- 26년 7월 10일: 75.00백만달러\n> 탱커(원유제품선-P/C): 보합\n@ LR1(73-75K DWT)\n- 26년 7월 3일: 61.50백만달러\n- 26년 7월 10일: 61.50백만달러\n@ MR(47-51K DWT)\n- 26년 7월 3일: 51.50백만달러\n- 26년 7월 10일: 51.50백만달러\n> 컨테이너선: 보합\n@ Neo-panamax(13-14K TEU)\n- 26년 7월 3일: 173.00백만달러\n- 26년 7월 10일: 173.00백만달러\n@ Feeder(1,800-2,100 TEU)\n- 26년 7월 3일: 33.00백만달러\n- 26년 7월 10일: 33.00백만달러\n> LNG 운반선: 보합\n@ Conventional(174K cbm)\n- 26년 7월 3일: 248.50백만달러\n- 26년 7월 10일: 248.50백만달러",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-11T00:19:02+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19019",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19019",
+      "text": "Morgan Stanley , 엔비디아(Nvidia) NDR 보고서\n$NVDA\n투자의견 Overweight, 목표주가는 288달러 , 반도체 업종 Top Pick\n강세 시나리오: 목표주가 330달러\nNVIDIA 경영진과 진행한 NDR에서는\n성장 속도가 다시 빨라지고 있으며, 동시에 성장원이 더욱 다변화되고 있다는 점에 대한 높은 자신감\n이 강조됐다.\n1. 앞으로도 성장 가속이 가장 중요한 초점\nNVIDIA 경영진은\n현재의 성장세를 유지하는 수준이 아니라, 앞으로 성장률이 더 빨라지는 것을 핵심 목표로 제시\n했다.\n이미 회사의 매출 규모가 매우 커졌음에도 성장률 둔화를 전제로 하지 않고 있다는 점이 중요하다.\n2. 성장원이 폭넓게 다변화되고 있음\nNVIDIA가 제시한 성장 동력은 다음과 같다.\n1)\nAI 연구소에서의 점유율 상승: 현재 NVIDIA 전체 수요의 약 20%를 차지하는 것으로 설명\n경영진은 주요 frontier model 중 하나가 과거에는 대부분 ASIC을 사용해 개발됐기 때문에 NVIDIA의 노출도가 매우 낮았지만\n해당 모델과 관련한 NVIDIA의 비중이 최근 거의 50% 수준까지 상승했다.\n2) 기존 hyperscaler의 지속적인 AI 투자\n3) neocloud 사업자 확대\n4) 일반 기업 고객의 AI 도입\n5) 국가 주도형·sovereign AI 투자 확대\n즉, Microsoft·Meta·Amazon·Google과 같은 기존 대형 고객에 대한 의존도가 낮아지는 방향으로\n고객 기반이 넓어지고 있다.\n3. Hyperscaler는 여전히 강한 성장축\n기존 hyperscaler 수요는 여전히 매우 강하다.\n여기에\nGPU뿐 아니라 다음 제품들이 추가되면서 NVIDIA가 공략할 수 있는 시장인 SAM이 확대\n되고 있다.\n-Spectrum-X와 InfiniBand를 포함한 네트워킹\n-NVLink 및 스위칭\n-Vera CPU\n-독립형 CPU 랙\n-AI에 최적화된 서버 시스템\nNVIDIA가 단순한 GPU 공급업체에서 AI 데이터센터 전체 컴퓨팅 플랫폼 공급업체로 확장\n4. 부지·전력·지정학이 고객 의사결정의 핵심이 됨\n현재 AI 인프라 투자에서 가장 중요한 제약은 단순한 GPU 가격이 아니다.\n데이터센터를 지을 수 있는 부지\n공급 가능한 전력\n냉각 및 관련 인프라\n국가별 수출 규제와 지정학\n데이터 주권 및 보안\n이러한 요인들이 고객의 구매 결정을 좌우하고 있다.\n이에 따라 장기적으로는\n기존 hyperscaler보다 국가 주도 AI 프로젝트와 neocloud 사업자들의 성장률이 더 높아질 수 있다.\n5. 가치주 투자자 유입이 valuation gap 축소에 중요\nNVIDIA는 지금까지 대표적인 고성장주로 평가됐지만, 앞으로는 가치 중심 투자자들에게도 다음 요소를 강조하려는 것으로 보인다.\n막대한 현금흐름\n높은 수익성과 시장점유율\n빠르게 낮아지는 미래 P/E\nGPU를 넘어선 사업 다각화\n장기간 지속될 AI 인프라 수요\nMorgan Stanley는\n가치주 투자자들의 참여가 늘어나면 NVIDIA가 동종 업체 대비 받고 있는 valuation gap이 축소될 수 있다고 평가\n했다.\n6. 자체 ASIC과 NVIDIA의 성장은 동시에 가능\nMorgan Stanley는 다음 두 가지가 동시에 사실일 수 있다고 판단한다.\n첫째, hyperscaler들은 자체 ASIC을 계속 개발하고 배치할 것이다.\n둘째, 그럼에도 NVIDIA는 AI 컴퓨팅 사업에서 매우 큰 비중을 계속 유지할 것이다.\n즉, 자체 ASIC 확대를 반드시 NVIDIA 점유율의 급격한 하락으로 볼 필요는 없다는 판단이다.\nMorgan Stanley가 접촉한 업계 관계자들도 NVIDIA 경영진의 주장을 뒷받침했다.\n많은 워크로드에서 실제 토큰당 비용이 가장 낮은 솔루션은 여전히 NVIDIA라는 것이다.\n7. Overweight의 핵심 근거\nBlackwell은 생성형 AI 워크로드의 최상위 솔루션\nMorgan Stanley는 Blackwell이 생성형 AI 워크로드에서 여전히 가장 우수한 솔루션이라고 평가했다.\nAI 컴퓨팅 수요가 공급을 계속 웃돌고 있어 제품 판매를 위한 수요 확보보다\n얼마나 빠르게 공급을 늘릴 수 있는지가 더 중요한 상황\n이다.\n실적 추정치에는 계속 상향 압력이 존재\nAI 수요가 지속적으로 증가하면서 매출과 EPS 전망치가 추가로 상향될 가능성이 있다.\nBlackwell 이후에는 Rubin이 NVIDIA의 성능 우위를 유지할 것으로 전망했다.\n즉,\nBlackwell 수요가 끝난 뒤 성장 공백이 생기는 것이 아니라, Vera Rubin으로 이어지는 연간 제품 출시 주기가 성장의 연속성을 제공\n한다는 판단이다.\n8. 강세 시나리오: 목표주가 330달러\n데이터센터 매출이 예상보다 계속 빠르게 성장한다.\n특히 성장의 중심이 GPU에만 머무르지 않고 다음 영역으로 확대된다.\n-네트워킹\n-Vera Rubin 기반 시스템\n-CPU\n-AI 소프트웨어\n-AI 서비스\n이 경우 NVIDIA는 단순한 반도체 회사가 아니라\n완전한 full-stack AI 컴퓨팅 회사\n로 평가\nhttps://x.com/DrNHJ/status/2075735281047912565?s=20",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-11T00:14:22+00:00"
+    },
     {
       "id": "tg:bornlupin/19018",
       "source": "telegram",
@@ -88,7 +191,7 @@
       "author_name": "한투증권 중국/신흥국 정정영",
       "author_url": "https://t.me/EMchina",
       "url": "https://t.me/EMchina/31475",
-      "text": "유니트리 G1  ========================  “In 1997, the first robotic laparoscopic cholecystectomy took six hours. Now, with the G1 robot, it only takes 30 minutes,” Dr Liu Shanglei, assistant professor of surgery at UC San Diego School of Medicine, who operated…",
+      "text": "유니트리 G1  https://n.news.naver.com/article/001/0016188628?sid=104",
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-10T23:05:05+00:00"
@@ -188,42 +291,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-10T22:08:08+00:00"
-    },
-    {
-      "id": "tg:EMchina/31467",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31467",
-      "text": "메타 프리마켓 -3%대  ===========================  ~ 이는 5년 넘게 난항을 겪어온 메타의 자체 AI칩 개발이 본격적인 생산 단계에 진입했다는 의미로 해석된다  ~ 메타는 아이리스 설계를 위해 브로드컴과 협력하고 있으며 제조는 대만 TSMC가 맡는다  http://www.4th.kr/news/articleView.html?idxno=2114530",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-10T22:06:35+00:00"
-    },
-    {
-      "id": "tg:EMchina/31466",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31466",
-      "text": "~ 애플은 소장에서\n오픈AI가 자사 소비가전 개발을 위해 지적재산권(IP)을 탈취했다며 영업비밀을 훔쳤다고 주장\n했다\n~ CNBC에 따르면 애플은 \"이것만큼은 분명하다\"면서 \"기술 직원부터 최고하드웨어책임자(CHO)까지 모든 직급에서 사업 파트너들과 공조를 통해 오픈AI가 애플의 영업 비밀과 기밀 정보를 훔쳐왔다\"고 주장했다\nhttps://n.news.naver.com/article/014/0005546716?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-10T21:56:33+00:00"
-    },
-    {
-      "id": "tg:EMchina/31465",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31465",
-      "text": "카타르 협상대표, 이란 도착해 긴장 완화 도모(로이터)  • 정통한 소식통은 카타르 협상 대표단이 이란 도착 & 관계자들과 만나 긴장 완화 및 협상 지속 조건 마련. 이번 회담은 미국과 조율하여 진행  • 이번 회담은 미국-이란 MOU 이행 상황과 호르무즈 해협 항해 논란 포함한 최근 정세 악화 문제 논의 목표  • 현재까지 미국/이란/카타르 측 공식입장 부재  知情人士：卡塔尔谈判代表已抵达伊朗 以缓和局势 据路透社10日消息，有知情人士透露，卡塔尔谈判代表已抵…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-10T21:55:17+00:00"
     },
     {
       "id": "x:OpenAI:2075686461693898868",
@@ -496,18 +563,6 @@
       "published_at": "2026-07-10T14:16:37+00:00"
     },
     {
-      "id": "tg:bornlupin/19009",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19009",
-      "text": "모건스탠리(Morgan Stanley) 엔비디아 투자자 회의\n$NVDA\n이번 주 엔비디아(Nvidia) CEO 젠슨 황(Jensen Huang), CFO 콜레트 크레스(Colette Kress), IR 책임자 토시야 하리(Toshiya Hari)와 진행\n* 매출 성장세:\n분기당 1,000억 달러의 매출 규모에도 불구하고 \"가속화되는 성장률(accelerating growth rates)\"을 보임.\n* 루빈(Rubin) 사이클: \"\n강력한 베라 루빈(Vera Rubin) 사이클이 향후 12개월을 견인할 것\n으로 전망함.\"\n*\n루빈 울트라(Rubin Ultra) 출시 일정: \"루빈 울트라 출시가 2028년으로 지연될 수 있다는 최근 보도와 관련해, 사측은 이는 사실이 아니며 루빈 울트라는 내년에 출하될 것\n이라고 밝힘.\"\n* 폼팩터 변화: \"그러나\n카이버(kyber) 랙이 '더 나은 솔루션'으로 교체되면서 폼팩터 변화가 있을 것\n이며, 이는 잠재적으로\n더 큰 단일 랙 스케일업(scale-up) 도메인을 지원할 수 있음을 인정함\n.\"\n* 유연한 로드맵 전략: \"사측은 이러한 변화를 긍정적인 요소로 제시함; 제품 로드맵에 있어 계속해서 위험을 감수하겠지만, 생산 확대(ramps)에 대한 리스크를 줄이기 위해 신속하게 궤도를 수정할 것(quickly course correct)임.\"\n* 주요 기술 진행 상황: \"800볼트(volt) 및 랙 간 광학 스케일업(optical scale-up)을 포함한 주요 기술들은 예정대로 진행 중임.\"\n*\n메모리 공급: \"메모리 부족 현상은 향후 수년 동안 지속될 것으로 보임.\"",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-10T14:00:00+00:00"
-    },
-    {
       "id": "x:sama:2075579646373216282",
       "source": "x",
       "author": "sama",
@@ -532,18 +587,6 @@
       "published_at": "2026-07-10T13:54:05+00:00"
     },
     {
-      "id": "tg:bornlupin/19008",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19008",
-      "text": "SK하이닉스 ADR, 180달러에 개장 예상\n공모가는 149달러로 책정",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-10T13:53:06+00:00"
-    },
-    {
       "id": "x:sama:2075579012223787402",
       "source": "x",
       "author": "sama",
@@ -554,18 +597,6 @@
       "images": [],
       "summary_ko": "오늘은 해가 떴다",
       "published_at": "2026-07-10T13:52:53+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19007",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19007",
-      "text": "TD 코웬, 마이크론\n$MU\n,  투자의견 '매수' 재확인 및 목표주가 1,600달러 유지\n당사는 마이크론의 CEO 산자이 메로트라와 CFO 마크 머피와 함께 투자자 미팅을 주최했습니다.\n수요가 여전히 강력한 가운데, 물리적 제약이 계속해서 공급을 제한하고 있습니다. SCA(전략적 고객 계약)의 목표는 비트 점유율(bit share)을 유지하고 시간이 지남에 따라 수익성 있는 고부가가치 솔루션으로 전환하는 것\n입니다.\n메시지/투자 심리는 OEM들이 공급 규율을 강조하고 주식 소유 비중이 낮았던 HDD 재평가 초기(2025년 중반)를 떠올리게 합니다.\n​\n수요: 마이크론은 타이트한 수급 상황이 2027년 이후까지 지속될 것으로 예상한다고 재확인\n했습니다.\n중요한 점은,\n수요가 너무 강력해서 고객의 SCA조차도 전체 물량 요구 사항을 충족하지 못한다는 것\n입니다.\n총 매출의 거의 50%가 장기적(LT)으로 SCA에 의해 충당될 것으로 예상\n됩니다.\n당사의 견해로는,\nSCA는 4대 빅 하이퍼스케일러부터 기업(아마도 델), 대형 자동차 제조업체에 이르기까지 다양한 고객을 포괄\n합니다. 더 넓게 보면, 마이크론의 전략은 고객에게 일관되고 공정하게 대하며 SCA와 가격 상한선을 통해 예측 가능성과 확보된 물량을 제공하는 동시에,\n비(非)SCA 측면에서는 더 높은 가격 책정을 통해 상승 여력을 보존하는 것\n이라고 믿습니다.\n비SCA 부문은 여전히 비즈니스의 상당 부분을 차지할 것\n입니다.\n여기서 최근 현장 조사에 따르면\nDDR ASP(평균판매단가)는 CQ3에 15% 이상 성장한 후 CQ4:26/CQ1:27/CQ2:27에는 한 자릿수 중반의 성장을 보일 가능성이 높습니다\n(당사는 1H:27 상반기에 전분기 대비 가격이 평탄할 것으로 모델링했으므로 이는 점진적으로 긍정적입니다).\n이는 CY27(2027년)에 대한 월가의 $160 EPS 추정치에 대한 상승 여력을 시사합니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-10T13:42:13+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/23465",
@@ -834,7 +865,7 @@
       "url": "https://t.me/globaletfi/20592",
       "text": "» 미국에서 Elon Musk 관련 기업만 지수에서 제외한 신규 ETF 2종이 SEC에 승인 신청(SEC filing)\n» Subversive에서 출시 예정인 Nasdaq-100 Ex-Elon Enterprises ETF(QQNE)와 S&P 500 Ex-Elon Enterprises ETF(SPNE)로, 각각 NASDAQ100 지수와 S&P500 지수를 추종하되 Elon Musk가 설립·지배하거나 경영하는 기업은 모두 제외하는 구조\n» 현재 등록된 서류의 기준으로 제외 대상 기업은 Tesla(TSLA)와 SpaceX(SPCX)이며, 향후 Elon Musk가 설립하거나 경영하는 기업이 추가될 경우 제외 대상도 변경될 예정",
       "images": [
-        "https://cdn5.telesco.pe/file/IKobvC5z6z-NftrJcJSXor9zTMwUB0cfw0-WQXhW_1p-I2Huh36uKPmgRLHRSYW4bMRdO3HejjkguYZgnVyeYJJs21R39ZEPi3Hub61WQbPjZ4NWbW6QpDgf_Q4_mvRz5VgeqylbasuVjaO1rKBlYwAs9j-IwYgF1fNdOYs5SRhAmvbl2LY9sFG6PmwfyZlKWByIHKbPm78pIPvRU-ArmpMjN1aVB9iRKCPCledC25-4Xkv7wMwmd2wNUvr24wSyWi7sX-YZCUhh7oK6hKlLQKswfAALQlaV8Jzw-e2YdqPiZ9yFN6zN1L7LwH9Ih0VEER3wnYqMygsyBt2MraRq8Q.jpg"
+        "https://cdn5.telesco.pe/file/hZKJn_hL_JEeUsuEXi3g7tP2-w2kO80hj7UUeXx7JzvSXlUtgou1ddh3iX0pcNr3xGBKvSYogrnGd6065Evj4rmv6cnFcv7oBi559SeK7Sw9HUvReDZtTBI_djvL0sF0HeLkJUxz6OR3ccwSBySvFNvttboHjLD8C5pKiTjLZTNFam76yN4rXdvwgm78O8ifeiCaqCW-JSm2D32cxDjpcd2ZC-ybLqDei0tgdC4ngtvb1uAmivAJ6WDVAJboCpMxFongOgpsrs1De333176RJh2vnHld3GZPqG-MQwH3V6LJj1bORCyo1e6_nDGeAjI8PUi_LFZHyVn1WVUoqg4jLA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-10T00:45:32+00:00"
@@ -1178,18 +1209,6 @@
       "published_at": "2026-07-09T17:31:17+00:00"
     },
     {
-      "id": "x:OpenAI:2075271435573244008",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2075271435573244008",
-      "text": "R to @OpenAI: GPT‑5.6 is available starting today across ChatGPT, Codex, and the OpenAI API. The rollout is starting globally now and will continue gradually toward full availability over the next 24 hours. In ChatGPT, Plus, Pro, Business, and Enterprise users access GPT-5.6 Sol through medium and higher effort settings. Pro and Enterprise users can also select GPT‑5.6 Pro for the highest-quality results on complex tasks.",
-      "images": [],
-      "summary_ko": "R에서 @OpenAI로: GPT‑5.6은 오늘부터 ChatGPT, Codex 및 OpenAI API에서 사용할 수 있습니다. 롤아웃은 지금 전 세계적으로 시작되고 있으며 앞으로 24시간 동안 전체 가용성을 향해 점진적으로 계속될 것입니다. ChatGPT에서 Plus, Pro, Business 및 Enterprise 사용자는 중간 및 높은 노력 설정을 통해 GPT-5.6 Sol에 액세스합니다. Pro 및 Enterprise 사용자는 복잡한 작업에서 최고 품질의 결과를 얻기 위해 GPT‑5.6 Pro를 선택할 수도 있습니다.",
-      "published_at": "2026-07-09T17:30:41+00:00"
-    },
-    {
       "id": "x:sama:2075270869992264003",
       "source": "x",
       "author": "sama",
@@ -1294,6 +1313,18 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-09T15:16:25+00:00"
+    },
+    {
+      "id": "x:ylecun:2075237102099251371",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2075237102099251371",
+      "text": "RT by @ylecun: We stand at a critical crossroads in the debate over AI governance in the United States, and it feels like we are inching closer to a very serious battle over whether or not open source models will even be allowed in an environment where a new de facto licensing regime has been taking shape. Lacking formal congressional statutory frameworks or clear administration rules (like the diffusion rule revision), we appear to be left with a sporadic, arbitrary, non-transparent process for model review. The fiction of “voluntary” agreements hangs over this debate, and some large model developers are already showing an incredible willingness to bend over backwards to accommodate national security-related officials / orders that the rest of us are not privy to. It's a very opaque process. And those model developers are expected to play ball with those officials, or else their models get pulled from the market or held up for long periods. Or they will lose any government procurement contracts they have. There is nothing “voluntary” about it when that Sword of Damocles hangs in the room. As this mess worsens, at some point the question of how to handle open source models will come into sharper focus because it will have to. I've even heard some rumors lately that something may be coming from the admin on this front to address this. Needless to say, if this informal new AI model review regime expands and takes on more pre-vetting characteristics / requirements, it is hard to see how open source players could comply with such quasi-licensing of AI models. Specifically, if this ambiguous new regime is accompanied by a general presumption of ‘restrict-until-permitted,’ then that would spell doom for open source. That is a very dark path for our country. Worse yet, of course, would be a move by national security officials to more directly restrict open source models and capabilities. If that happens, then we would be right back in the thick of a Clipper Chip-like battle along the lines of what we saw in the late 1990s. That is a much darker path for America. Meanwhile, open source developers have no “golden shares” or other goodies to offer the government to make their problems go away. Let’s be clear: If our government takes the dark path, it will become the single most important battle over computational freedom of modern times. It is time for people to make a stand in defense of open source before it is too late.",
+      "images": [],
+      "summary_ko": "RT by @yleun: 우리는 미국의 AI 거버넌스에 대한 논쟁에서 중요한 갈림길에 서 있으며, 새로운 사실상의 라이선스 체제가 형성되고 있는 환경에서 오픈 소스 모델이 허용될지 여부에 대한 매우 심각한 싸움에 조금씩 가까워지고 있는 것처럼 느껴집니다. 공식적인 의회의 법적 틀이나 명확한 행정 규칙(예: 확산 규칙 개정)이 부족하여 모델 검토를 위한 산발적이고 임의적이며 불투명한 프로세스가 남아 있는 것으로 보입니다. 이 논쟁에는 \"자발적\" 합의라는 허구가 걸려 있으며, 일부 대규모 모델 개발자는 이미 우리 모두가 관심을 갖지 않는 국가 안보 관련 공무원/명령을 수용하기 위해 뒤로 물러서려는 놀라운 의지를 보여주고 있습니다. 매우 불투명한 과정입니다",
+      "published_at": "2026-07-09T15:14:15+00:00"
     },
     {
       "id": "tg:globaletfi/20584",
@@ -1420,7 +1451,7 @@
       "url": "https://t.me/HI_GS/6671",
       "text": "「HD현대중공업, P/C선 6척 수주」\n💲\n2029년 6월 납기, 신조선가 51.3백만달러\n☞\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709800137\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS",
       "images": [
-        "https://cdn5.telesco.pe/file/lE2855DcWUT2w_YiBi12hS4QOlTRzIVrCq5uCh58tVw9E5UOlkELVcyItcXc3NHle38c77ISY81U7wU78_sOFAg3PnKSEma0eDHGyCjZrFK3JcKG6K1nEgIssuD1czqH6tKNiDR_LsD3b1TGdxN022vWHwx4WFBHcWlrYMCXPgbS-Nn5T-ujAouz-8e4h9PFEZaEvUiyLhSEZVG55TcUMZowFdTSGfqbe8AFbRXGut-eWT2syo2c6w5Hi1i3q67SVsAgIOpZQeO8GzJmGxHNDT1wRujveLMx5BZpxd-rgGYuEUj5DV1GZ-qYfoAaCbPBRQs6DMVL2V-a00R0uDklHg.jpg"
+        "https://cdn5.telesco.pe/file/RVlYwIli6mMG97mSVKWP1xyjDgwJwFve8PLmk2dt40nEpoCuHP6NaEFxAnkPF47l9vsqc4SctY9VoRUAuTboyTFCIU8jvMAc-cKsLKnop_CEXmmGmXXJwiQq_jdMVh3-rASvfOKcmTSZUqSeBAFGlWPVW2a9BUYBE6Ic7M8xb2JFaYqIy2fQ46TyxcPxjAGqz2XPhk6-aKKWXFHas83muGdE775kjLfOidv6f8gbGguEnLTpBg9y7gz57vJBZbPBI93yt5VpeywGca5lLxm-ZTxow02GPJljMTmLJ48BMIPz4EfOJmuNAslQNOcL0ceFSXsr0hBspX3xnQ72-nVhHg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-09T02:37:43+00:00"
@@ -1434,7 +1465,7 @@
       "url": "https://t.me/enc210406/4113",
       "text": "HD현대중공업 상선 수주 공시\n@ 선종: 탱커(P/C선, MR)\n@ 수량: 6척\n@ 선가: 51.3백만달러/척",
       "images": [
-        "https://cdn5.telesco.pe/file/Je59ukUvG9MFmrWfph8eFOxT7Wamdl-otrxOkcA9R3-2s33bQzlXuf_ZHtJKhgHZ4ilHiEp4agoJocO3MbUCS95SdseZ5n6GWSiCp2mTKqFbqcruFNCp0klcFr7IxL62QgZpnAt4WNGqtXrqEnuV5KheSm4XQ2tVS4it_LfdInjDk70ujpdTpCQXTY3oEginNzL6DuYGk-LmeIDiBVHyZwu0JKpfb7yMANm81ukJNJz0cYLoFyYefznPpTrqoWf0_iz7HKE-t8gCe05Z_hfzXnXuI3aBHeNV5I5h3YqFGQKPbjPOXaA6TZn4ECHtGMlS3MFb5YciP_UO2Nl_SiwAew.jpg"
+        "https://cdn5.telesco.pe/file/QnSQ7bbaYeAPxCqIEtYcqJqVFyi5l3OF92yw73cYNuM7QZQPJuFQWv_4RMWhoq1jYFwlNGPPiu7oE27hAk5aL6_NQ4EwjsyNp4010cckxnTSdYWRn-A0EcBN2hd_6ZdTIQxGk9shb5RXMiDC8m8fsaOyRYeNfl5PsN24QjzmeVF_O2R1yCyV9l74GibvW2pb4RgCpeH9l51sSL7aZCIL8Cvwvfhr2ICQIf7h_3hJ6fVTqNu-hf5iJ2ppaMnwVAdQfRglkpuCkmMyXBFLsds0ovXpmxz8FBkoVOzwqe4Go2Zi63C-ipuaKoB2VQmBUARxRxTc-Wt4bu4J996-pBjL2Q.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-09T01:51:27+00:00"
@@ -1495,20 +1526,6 @@
       "published_at": "2026-07-08T21:47:29+00:00"
     },
     {
-      "id": "x:ylecun:2074946793830305828",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2074946793830305828",
-      "text": "RT by @ylecun: Under Trump, pardons have a price, and criminals know it. Trump has erased a growing number of criminal convictions – and $1.5 billion in penalties and restitution owed to taxpayers and victims – for his donors and friends. My @Morning_Joe Chart",
-      "images": [
-        "https://pbs.twimg.com/media/HMuxFH7WQAAjMyH.jpg"
-      ],
-      "summary_ko": "RT by @yleun: 트럼프 체제에서는 사면에는 대가가 따르며 범죄자들은 ​​이를 알고 있습니다. 트럼프는 기증자와 친구들을 위해 점점 더 많은 범죄 유죄 판결을 삭제했으며 납세자와 피해자에게 부과된 벌금 및 배상금 15억 달러를 삭제했습니다. 내 @Morning_Joe 차트",
-      "published_at": "2026-07-08T20:00:40+00:00"
-    },
-    {
       "id": "x:demishassabis:2074878171392909774",
       "source": "x",
       "author": "demishassabis",
@@ -1557,20 +1574,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-08T08:26:41+00:00"
-    },
-    {
-      "id": "tg:enc210406/4110",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4110",
-      "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 7월 8일 종가 기준",
-      "images": [
-        "https://cdn5.telesco.pe/file/HHE4RT0fw_SwU_tofN7G4_FS8fbXna6P5qpPNoC9vQ0Pe0M66-ijkWchPY4_j_2gW84EJsCSWjP_rBV_rkFKeidsDoBWUvIjX36ffeSK6HagNl37vkOLSe6FCCc2jyEINJd6-13oHrovLSrRO5MID7-oMRy5-VXnTebjNdluEcq8Vr00BZe15A70b_xumh6Le9e9HEsisEDuX2dlxZ_XPibZ0sb4E-lXtsopMf_GPX4ozci3UMaeOcJqPl7CTXggMX0KHK9TO22VrDAqpPWvcVQLN37eXCefcupzJQHTiWdpgVFbHserr84spJH1JcJTJzhGrfKAVUU7uLR7-V3-lQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-08T08:04:39+00:00"
     },
     {
       "id": "rss:semianalysis:anthropic-3q26-profit-over-1b-the",

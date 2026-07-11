@@ -1,29 +1,8 @@
 {
-  "telegram:EMchina": [
-    "tg:EMchina/31476",
-    "tg:EMchina/31475",
-    "tg:EMchina/31474",
-    "tg:EMchina/31473",
-    "tg:EMchina/31472",
-    "tg:EMchina/31471",
-    "tg:EMchina/31470",
-    "tg:EMchina/31469",
-    "tg:EMchina/31468",
-    "tg:EMchina/31467",
-    "tg:EMchina/31466",
-    "tg:EMchina/31465",
-    "tg:EMchina/31464",
-    "tg:EMchina/31463",
-    "tg:EMchina/31462",
-    "tg:EMchina/31461",
-    "tg:EMchina/31460",
-    "tg:EMchina/31459",
-    "tg:EMchina/31458",
-    "tg:EMchina/31457",
-    "tg:EMchina/31456",
-    "tg:EMchina/31455"
-  ],
   "telegram:bornlupin": [
+    "tg:bornlupin/19022",
+    "tg:bornlupin/19020",
+    "tg:bornlupin/19019",
     "tg:bornlupin/19018",
     "tg:bornlupin/19017",
     "tg:bornlupin/19016",
@@ -35,13 +14,42 @@
     "tg:bornlupin/19010",
     "tg:bornlupin/19009",
     "tg:bornlupin/19008",
-    "tg:bornlupin/19007",
-    "tg:bornlupin/19006",
-    "tg:bornlupin/19005",
-    "tg:bornlupin/19004",
-    "tg:bornlupin/19003"
+    "tg:bornlupin/19007"
+  ],
+  "telegram:EMchina": [
+    "tg:EMchina/31479",
+    "tg:EMchina/31478",
+    "tg:EMchina/31477",
+    "tg:EMchina/31476",
+    "tg:EMchina/31475",
+    "tg:EMchina/31474",
+    "tg:EMchina/31473",
+    "tg:EMchina/31472",
+    "tg:EMchina/31471",
+    "tg:EMchina/31470",
+    "tg:EMchina/31469",
+    "tg:EMchina/31468",
+    "tg:EMchina/31467",
+    "tg:EMchina/31466",
+    "tg:EMchina/31465"
+  ],
+  "telegram:HI_GS": [
+    "tg:HI_GS/6682",
+    "tg:HI_GS/6681",
+    "tg:HI_GS/6680",
+    "tg:HI_GS/6679",
+    "tg:HI_GS/6678",
+    "tg:HI_GS/6677",
+    "tg:HI_GS/6676",
+    "tg:HI_GS/6675",
+    "tg:HI_GS/6674",
+    "tg:HI_GS/6673",
+    "tg:HI_GS/6672",
+    "tg:HI_GS/6671",
+    "tg:HI_GS/6670"
   ],
   "x:OpenAI": [
+    "x:OpenAI:2075768216866205786",
     "x:OpenAI:2075686461693898868",
     "x:OpenAI:2075647722766614733",
     "x:OpenAI:2075643450196971805",
@@ -53,9 +61,7 @@
     "x:OpenAI:2075274275104399670",
     "x:OpenAI:2075274273607037403",
     "x:OpenAI:2075274271845404744",
-    "x:OpenAI:2075271435573244008",
-    "x:OpenAI:2075271432041545782",
-    "x:OpenAI:2075271421149020426"
+    "x:OpenAI:2075271435573244008"
   ],
   "x:sama": [
     "x:sama:2075641131002700120",
@@ -124,12 +130,12 @@
     "x:ylecun:2075496863327817910",
     "x:ylecun:2075424377907052734",
     "x:ylecun:2075253735563886595",
+    "x:ylecun:2075237102099251371",
     "x:ylecun:2075102766221996136",
     "x:ylecun:2075064915606347835",
     "x:ylecun:2075061612017508729",
     "x:ylecun:2075012691241157038",
-    "x:ylecun:2074946793830305828",
-    "x:ylecun:2074931434662277272"
+    "x:ylecun:2074946793830305828"
   ],
   "telegram:globaletfi": [
     "tg:globaletfi/20596",
@@ -146,6 +152,7 @@
     "tg:globaletfi/20584"
   ],
   "telegram:enc210406": [
+    "tg:enc210406/4124",
     "tg:enc210406/4123",
     "tg:enc210406/4122",
     "tg:enc210406/4121",
@@ -158,21 +165,6 @@
     "tg:enc210406/4112",
     "tg:enc210406/4111",
     "tg:enc210406/4110"
-  ],
-  "telegram:HI_GS": [
-    "tg:HI_GS/6682",
-    "tg:HI_GS/6681",
-    "tg:HI_GS/6680",
-    "tg:HI_GS/6679",
-    "tg:HI_GS/6678",
-    "tg:HI_GS/6677",
-    "tg:HI_GS/6676",
-    "tg:HI_GS/6675",
-    "tg:HI_GS/6674",
-    "tg:HI_GS/6673",
-    "tg:HI_GS/6672",
-    "tg:HI_GS/6671",
-    "tg:HI_GS/6670"
   ],
   "rss:semianalysis": [
     "rss:semianalysis:the-future-of-meta-superintelligence",
@@ -200,7 +192,13 @@
     "x:AnthropicAI:2074185373341688258",
     "x:AnthropicAI:2074185368061026745",
     "x:AnthropicAI:2074185363401167261",
-    "x:AnthropicAI:2074185358678364414"
+    "x:AnthropicAI:2074185358678364414",
+    "x:AnthropicAI:2074185348142280912",
+    "x:AnthropicAI:2072402636813607381",
+    "x:AnthropicAI:2072163884430229756",
+    "x:AnthropicAI:2072106151890809341",
+    "x:AnthropicAI:2072017450611142835",
+    "x:AnthropicAI:2070665903440871779"
   ],
   "x:AndrewYNg": [
     "x:AndrewYNg:2075271586400403567",
@@ -245,6 +243,6 @@
     "x:demishassabis:2064873362799600042"
   ],
   "_meta": {
-    "last_x_fetch": "2026-07-10T23:58:01+00:00"
+    "last_x_fetch": "2026-07-11T03:24:35+00:00"
   }
 }
