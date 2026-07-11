@@ -1,22 +1,37 @@
 {
-  "updated_at": "2026-07-11T10:14:45+00:00",
+  "updated_at": "2026-07-11T11:52:20+00:00",
   "counts": {
     "total": 192,
     "new_this_run": 6
   },
   "briefing": {
-    "headline": "한화엔진, 선박용 엔진 1,158억원 수주",
+    "headline": "한화엔진, 1,158억원 수주",
     "bullets": [
       "CXMT IPO 통해 295억위안 자금 조달",
-      "마이크론, GlobalWafers에 5억 달러 전략적 파이낸싱",
-      "아마존, 250억달러 규모 신규 채권 발행",
-      "애플, 오픈AI에 소송…“영업비밀 탈취”",
-      "미국-이란 협상, 다음주 스위스에서 개최 가능성"
+      "애플, 오픈AI에 소송",
+      "마이크론 미국 투자 가속화",
+      "아마존 250억달러 추가 발행",
+      "GPT-Live 전 세계 모든 ChatGPT 사용자에게 출시"
     ],
-    "generated_at": "2026-07-11T10:14:45+00:00",
+    "generated_at": "2026-07-11T11:52:20+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/23480",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23480",
+      "text": "골드만삭스 리포트 요약: 중국 AI 모델 산업 분석 (2026.7.10)\n1. 핵심 논지\n골드만삭스는 작년 딥시크 모먼트(비용 효율)에 이어 올해 즈푸 GLM 모먼트(모델 지능)를 거치며 중국 오픈소스·오픈웨이트 모델이 글로벌 독점 모델 대비 지능 성능에서 임계점에 도달했다고 평가합니다. 에이전틱 작업과 특정 코딩 시나리오에서 '충분히 좋은(good enough)' 단계에 진입했으며, 국내 기업 채택과 글로벌 소비자·중소기업 수요가 급증하고 있다고 봅니다. 중국 AI 모델 산업의 합산 ARR은 2026년 말 100억 달러에서 2030년 1,250억 달러로 성장하고, EBIT 마진은 2026년 마이너스에서 2030년 18%(이익 풀 230억 달러)로 전환될 것으로 추정합니다.\n2. 이중 가격 구조와 유닛 이코노믹스\n중국 AI 모델 시장은 두 개 층위로 분화되고 있습니다. 하단의 가성비 에이전틱 모델(딥시크 V4, 샤오미 MiMo, 미니맥스 M3, 텐센트 훈위안)은 혼합 기준 100만 토큰당 0.06~0.2달러 수준으로 가격 전쟁이 진행 중이며, 상단의 최고 성능 코딩 모델(즈푸 GLM5.2, 알리바바 Qwen3.7 Max, Kimi K2.6)은 약 1달러로 미국 SOTA 모델(4~8달러)의 10~25% 가격에 10~20%의 매출총이익률을 확보하고 있습니다. ARR 극대화 관점에서 딥시크·미니맥스(저가·대량 토큰)와 GLM(고가·상대적 소량)이라는 두 개의 유리한 사분면을 제시합니다.\n3. 저비용 고성능의 비결\n중국 모델은 총 파라미터 2,000억~1.6조 규모로 글로벌 SOTA의 2~10%에 불과하지만, MoE 구조와 희소 어텐션 등으로 활성화 파라미터 비중을 3~5%로 낮춰 추론 비용을 크게 절감했습니다. 딥시크는 6월 말 추측 디코딩 프레임워크 DSpark를 도입해 V4 Flash 생성 속도를 60~85% 개선했습니다. 또한 일부 중국 메가캡 기업에서 AI 생성 코드 비중이 2025년 하반기 20~30%에서 최근 90%까지 상승하면서, 증류 의존을 벗어나 실사용 데이터 기반 강화학습의 선순환 플라이휠이 작동하기 시작했다고 분석합니다.\n4. 오픈소스 전략과 수익화\n오픈소스는 훈련·배포 장소의 유연성과 최대 채택을 가능하게 하지만, 공개된 ARR이 실제 배포 규모를 과소평가하고 있다고 지적합니다. 향후 즈푸의 MIT 라이선스 같은 완전 개방형에서 미니맥스처럼 상업적 이용 시 수익 배분을 요구하는 커뮤니티 라이선스(오픈웨이트) 방식으로의 전환이 확산될 것으로 전망하며, AWS Bedrock이나 알리바바 바이롄 같은 제3자 플랫폼에서의 수익 배분 계약은 추론 비용 부담 없이 고마진 매출원이 될 수 있다고 봅니다.\n5. 시장 규모 전망\n중국 AI 모델의 토큰 생성량은 2030년까지 현재의 25배로 성장하고, 해외 토큰이 2030년 글로벌의 55%에 달할 것으로 추정합니다. 중국 API+구독 매출 풀은 2026년 350억 위안에서 2030년 8,790억 위안으로 확대될 전망입니다. 기업들이 토큰 소비량 자체를 생산성으로 간주하던 '토큰 맥싱'에서 벗어나, 일일 활성 에이전트(DAA)·에이전틱 작업 단위(AWU) 등 ROI 중심 지표와 작업당 비용으로 전환하는 패러다임 변화도 강조됩니다.\n6. 경쟁 구도 평가\n가격 결정력, 비용 우위, 재무 체력의 세 축으로 구성된 경쟁 포지셔닝 프레임워크를 도입해, 텍스트 파운데이션 모델에서는 즈푸(Knowledge Atlas,\n2513.HK\n신규커버 Neutral, 기업가치 1,100억 달러)와 딥시크(비상장)를, 멀티모달에서는 바이트댄스(비상장)를 최강자로 지목했습니다. 미니맥스(\n0100.HK\n)는 비용 효율 우위와 2026년 말 ARR 대비 13배라는 할인된 밸류에이션을 근거로 매수 의견을 유지하며, H3 영상 생성 모델 출시와 M3 업데이트가 핵심 변수라고 봅니다. 영상 생성 부문은 텍스트와 달리 가격과 마진이 견조하며, 바이트댄스 Seedance는 ARR 20억 달러 이상 런레이트에서 매출총이익률 70%를 기록 중인 것으로 전해집니다.\n7. 하반기 관전 포인트\n2026년 하반기에는 총 파라미터 2~5조 규모의 대형 코딩 모델 출시가 이어지고, 최첨단 중국 모델의 해외 접근이 제한될 가능성이 거론됩니다. 딥시크는 7월 중순 V4 정식판과 함께 피크·비피크 이원화 API 요금제(피크 시간 2배)를 도입할 예정입니다. 메이투안의 LongCat 2.0은 화웨이 Atlas-950 기반 5만 장 국산 칩 클러스터에서 완전 훈련·배포된 첫 1.6조 파라미터 오픈소스 MoE 모델로, 중국 AI 인프라 자립의 이정표로 평가됩니다.\n8. 리스크\n상방 요인으로는 자생적 플라이휠에 따른 지능 도약, 오픈웨이트 전환 가속에 따른 조기 흑자화, 비추론 수익원 확보가 있으며, 하방 요인으로는 미중 기술 경쟁 심화에 따른 시장 접근·고성능 칩 제한, 높은 R&D 비용에 따른 수익성 지연, IP·콘텐츠 생성 관련 소송, 현금 소진 리스크가 꼽힙니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/XlGaDm0DyARX_ZUT-nTsqM31A7BsFj3m91LUmBqgV-QbXPv20CJ1xb9xwFFBnR8ebrp-1scDOcqOWLYrgp_z95cNNpvj97t8ywJzPYS7-tF6_IaeGzkqZnzsF5RhAFE0AFJIsP3NU_BN_OAV8icAdFc1LDdEMyx0z1ZPHjxf4gQA3V67c3OYhcdAbxjwRlIbtQHU3lRexb7X9ndcOqa-nstizqbt4EJobA6PYqGO2ENGJaiH4TY2o0Y4J-nbocPX1Ff4i-v8NxHVGvlbHzg8IApZK67A6fDb8_Dsb8fX_zERvzU4OE2BhSeP2yJ5_57L0tC3t9uFD6ATWg1yszQdow.jpg",
+        "https://cdn5.telesco.pe/file/RIbFSQSs-ZCMXDs7DHZCUL1xCNNDJ9woNVg7osR4sshl1_y3NcZuYNPlMI_JD8oiBYuZFb3JfD3TT8aq2L1ctxsdhwVNaJIULVAv4efVcCU6RmaXA8jEP8tdI1l-kzipYny6Oki5JDe-ABFOKUQHMFVVNl8TXt1GANLAfKrsvNAdDHu-fd38V6NtVkKZbO8Wdz-BUfLKplXlWmDplh0BmSn0Hj7cBzu4NtkSt-tFpucNN-OmqsSDaVW7dpR8UegJR4hFQHj-KtEeLdb_TJPVATbTHmFmN2fEKM-1O2ByU703LD_Vi_wJufWFb4s7lFtVmzY48V-V_SDv17xFWXBSvg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-11T11:17:15+00:00"
+    },
     {
       "id": "tg:HI_GS/6684",
       "source": "telegram",
@@ -614,18 +629,6 @@
       "published_at": "2026-07-10T14:36:26+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23467",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23467",
-      "text": "SK hynix 최태원 회장 - CNBC 인터뷰\n​1.\n미국 ADR 상장의 기대 효과\n​미국 ADR 상장을 통해 자금 조달, 인재 영입, 주주 기반 확대 등 활용 가능한 선택지가 늘어났다고 평가했습니다.\n​2.\n메모리 반도체 시장 수요 전망\n​AI 에이전트, 피지컬 AI, 로봇의 확산으로 과거와 수요 구조가 완전히 달라졌습니다.\n​\n메모리 수요가 기하급수적으로 늘어날 것으로 전망했습니다.\n​향후 5년간 생산능력을 두 배로 확대하더라도, 고객들은 여전히 물량이 부족하다고 인식하고 있습니다.\n​3.\n미국 내 추가 투자 계획\n​인디애나주 첨단 패키징 시설 외에도 추가 투자를 검토 중입니다.\n​전력, 용수, 인력, 공급망 등의 조건이 부합한다면 메모리 생산공장 건설 가능성도 열어두었습니다.\n​AI 데이터센터 및 관련 기술, 합작법인 등에 수백억 달러 규모의 투자가 이루어질 수 있다고 밝혔습니다.\n​4. HBM 및 장기 공급계약 현황\n​\nHBM과 장기 공급계약은 고객별 요구에 따라 가격 구조를 다르게 설계하고 있습니다.\n​\n일각의 HBM 사용량 축소 움직임에도 불구하고, 전체 수요가 워낙 커서 감소 조짐은 보이지 않는다고 강조했습니다\nhttps://x.com/i/status/2075587452916654563",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-10T14:35:43+00:00"
-    },
-    {
       "id": "tg:bornlupin/19012",
       "source": "telegram",
       "author": "bornlupin",
@@ -724,6 +727,20 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-10T12:59:04+00:00"
+    },
+    {
+      "id": "x:ylecun:2075540047613276197",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2075540047613276197",
+      "text": "RT by @ylecun: We're releasing MuScriptor, the best open model for multi-instrument transcription to date, created in collaboration with @MireloAI. Give it a recording in any genre: pop, classical, metal, jazz, whatever, and it transcribes the individual instruments into MIDI. Link in 🧵",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2075537438823362560/img/SchA4x7w7Pd17MLc.jpg"
+      ],
+      "summary_ko": "RT by @yleun: 우리는 @MireloAI와 공동으로 제작한 다중 악기 전사를 위한 최고의 개방형 모델인 MuScriptor를 출시합니다. 팝, 클래식, 메탈, 재즈 등 모든 장르를 녹음하면 개별 악기를 MIDI로 변환합니다. 링크를 🧵",
+      "published_at": "2026-07-10T11:18:03+00:00"
     },
     {
       "id": "x:ylecun:2075536492177354771",
@@ -1480,20 +1497,6 @@
       "published_at": "2026-07-09T01:51:27+00:00"
     },
     {
-      "id": "x:ylecun:2075012691241157038",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2075012691241157038",
-      "text": "RT by @ylecun: Come and learn about «Anatomy of Massive Activations and Attention Sinks», 📆 today (Thu) at 🕥 10:30, 📍 HALL A #3002. #ICML2026",
-      "images": [
-        "https://pbs.twimg.com/media/HMvsvnGagAAOhCA.jpg"
-      ],
-      "summary_ko": "RT by @yleun: 📆오늘(목) 🕥 10시 30분, 📍 HALL A #3002에 오셔서 «대규모 활성화 및 주의력 저하의 해부학»에 대해 알아보세요. #ICML2026",
-      "published_at": "2026-07-09T00:22:32+00:00"
-    },
-    {
       "id": "x:AnthropicAI:2075005777522172146",
       "source": "x",
       "author": "AnthropicAI",
@@ -1619,7 +1622,7 @@
       "author_name": "Google DeepMind(딥마인드)",
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2074513661750546762",
-      "text": "🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets historians study Greek and Latin texts using plain English. 🧵",
+      "text": "Pinned: 🏛️ We’re unveiling a new way to converse with the ancient world. By grounding Gemini directly in our expert models Aeneas and Ithaca, our Predicting the Past Skill in Google @antigravity lets historians study Greek and Latin texts using plain English. 🧵",
       "images": [],
       "summary_ko": "🏛️ 우리는 고대 세계와 대화할 수 있는 새로운 방법을 공개합니다. Google @antigravity의 과거 예측 기술을 통해 Gemini를 전문가 모델 Aeneas 및 Ithaca에 직접 기반을 두어 역사가는 일반 영어를 사용하여 그리스어 및 라틴어 텍스트를 연구할 수 있습니다. 🧵",
       "published_at": "2026-07-07T15:19:34+00:00"
