@@ -1,22 +1,93 @@
 {
-  "updated_at": "2026-07-12T02:46:28+00:00",
+  "updated_at": "2026-07-12T05:59:58+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 22
+    "new_this_run": 6
   },
   "briefing": {
-    "headline": "미군, 이란에 공격 시작",
+    "headline": "미국, 아랍에미리트와 AI 반도체 수출 규제 협력",
     "bullets": [
-      "미국 시장 취약성 지표 0.9로 역사적 최고",
-      "중국 빅테크, 메모리반도 준비 중",
-      "샘 알트먼, 5.6 sol이 세계 최고의 모델",
-      "이란 외교부, 미국과의 협상 요청 거부",
-      "BOE, 코닝과 MOU 체결"
+      "중국 정부, 빠른 보급과 응용 가격 문제로 고민",
+      "일본 은행주, 글로벌 위험 회피 심리 선행지표",
+      "이란, 미국과의 협상 요청 거부",
+      "두산밥캣, 5년 내 매출 2배 성장 가능"
     ],
-    "generated_at": "2026-07-12T02:46:28+00:00",
+    "generated_at": "2026-07-12T05:59:58+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31505",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31505",
+      "text": "중국 정부가 원하는 빠른 보급과 응용  가격이 문제  ================================  ~ 단순 언어모델 개발 경쟁에 치중하던 중국 빅테크들이 실생활 결제와 쇼핑을 대행하는 에이전트 서비스로 전장을 옮기면서, 침체했던 중국 스마트폰 시장의 교체 수요를 자극할 가능성이 커지고 있다  ~ 이제 AI 에이전트 경쟁은 스마트폰 성능 경쟁을 다시 촉발하는 구조다. 모바일 기기 내부에서 직접 고성능 AI를 구동하는 온디바이스 AI 스펙 경쟁이…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-12T05:34:36+00:00"
+    },
+    {
+      "id": "tg:EMchina/31504",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31504",
+      "text": "BofA Hartnett: 일본 은행주는 \"글로벌 위험 회피 심리 선행지표\". 하반기에는 4가지 역발상 투자 기회\n• 현재 시장에는 '4가지 불가능' 컨센서스 형성\n1) 미국 경제 둔화되지 '않음'\n2) 연준 금리 인상하지 '않음'\n3) AI capex 축소하지 '않음'\n4) 민주당이 중간선거 휩쓸지 '않음'\n• 이러한 드문 전면적인 낙관주의 자체가 가장 큰 위험. 어떤 컨센서스라도 무너지게 되면 급격한 가격 재조정 초래\n• 4가지 역발상 매매 전략을 제안. 일본 은행주를 글로벌 위험 선호도 경고 지표로 참고\n美银Hartnett：日本银行股是“全球避险情绪领先指标”，下半年有“四大逆向交易机会”\n美银策略师Hartnett警告，当前市场存在\"四个不\"共识：美国经济不着陆、美联储不加息、AI资本开支不削减、美国民主党不横扫中期选举。这种罕见的全面乐观本身即为最大风险，任一共识落空将引发剧烈重定价。他提出四类逆向交易策略，并将日本银行股视为全球风险偏好的预警指标。\nhttps://wallstreetcn.com/articles/3776713#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-12T05:19:20+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23484",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23484",
+      "text": "파이낸셜타임즈에 따르면 미국 정부가 아랍에미리트를 미국 국토안보 및 안보 협력의 핵심 동맹국으로 인정하고, 인공지능(AI) 반도체를 포함한 첨단 기술 수출 규제를 대폭 완화.\n미국 상무부는 파이낸셜타임스에 인용된 성명을 통해 아랍에미리트가 지난 2월 이란 공격을 개시한 '에픽 퓨리(Epic Fury)' 작전을 비롯해 미국의 국가 이익 증진에 기여한 점에 감사를 표명.\n이번 조치에 따라 미국 정부가 승인한 아랍에미리트 정부 기관과 기업은 개별 수출 허가 없이 미국산 부품을 구매할 수 있게 됨. 드론, 위성, 에너지 분야 이중용도 장비와 AI 가속기, 이를 탑재한 서버 등의 수출 절차도 크게 간소화될 전망.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-12T05:11:38+00:00"
+    },
+    {
+      "id": "tg:EMchina/31503",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31503",
+      "text": "전환점 도달. CXMT IPO는 중국 반도체 Capex 새로운 사이클 촉발(국련민생증권)  • CXMT는 IPO 통해 295억위안 자금 조달. 생산능력 확장 및 업그레이드 계획. 중국 밸류체인 신규 주문의 촉매제  • 생산능력 확장 추세는 '장비, 부품, 소재' 3단계 번갈아 나타날 전망  • 식각/박막증착 장비 우선 수혜. 핵심 부품 공급되며, 후반기 소재/소모품은 생산라인 투입과 함께 지속적인 수요  拐点已至！长鑫IPO或引爆国产半导体Capex新周期 …",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-12T04:11:44+00:00"
+    },
+    {
+      "id": "tg:EMchina/31502",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31502",
+      "text": "일본 해외여행 -9% 감소. 엔 약세 & 비용 부담\n================================\n~ Overseas trips from Japan are expected to decrease by 8.8 percent to a cumulative 2.17 million for this year's summer holiday period, the first year-on-year decline since the post-pandemic recovery in 2023, as consumers\nfeel the impact of the weak yen and rising costs,\naccording to major travel agency JTB Corp\nhttps://mainichi.jp/english/articles/20260712/p2g/00m/0bu/005000c",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-12T03:43:13+00:00"
+    },
+    {
+      "id": "tg:EMchina/31501",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31501",
+      "text": "이러면 사이즈가 커지는데  https://naver.me/5Yo63e5R",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-12T03:15:08+00:00"
+    },
     {
       "id": "tg:EMchina/31500",
       "source": "telegram",
@@ -166,44 +237,6 @@
       "published_at": "2026-07-11T22:30:08+00:00"
     },
     {
-      "id": "tg:EMchina/31493",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31493",
-      "text": "* 돼지 생산 능력 조절 목표 신규 확정  • 전국적으로 3750만마리 번식 가능 돼지 목표 설정. 지역 상황에 따라 단계적으로 배분  • 5/18 전국 돼지 산업 조정 특별 업무 회의 개최. 주관 부서는 다수 강력한 관리 조치와 평가/감독 메커니즘 확정. 생산 능력 확장 행위 엄격히 조사 예고  新一轮生猪产能调控目标确定 从相关知情人士处获悉，全国划定3750万头能繁母猪总调控目标，按区域实际情况逐级分解下达至各省市。在5月18日召开的全国生猪产业调控专项工作会议上，…",
-      "images": [
-        "https://cdn5.telesco.pe/file/mhcfm_q8TVJTqC1C4OImX8b1lSJxC9A0seRsug1k5xq-Y7F4aSd23TET9g0LBtiLOjCbtc0CAuvztUzHVcNr10XdsXIcaQT1Ya0NTHn8-iqGVNyIzAWXPGQYG8r6KcmJHl5Eydv6hdK46RFRYVNF04GWjKMUID-p96gi8bYU2fPSGmCCP_t_lyTGE8T_u0d30P4fwz9n5f95kXVYJrmD8TZipolxAwI07YJUKj0j7l16LQTrRCTzMEoXDMCc5rykrBuCbQ98twm1KGW1XjmIHlWaa7BLXjPlUcGTV_YESU3WmnZN6iHHYt_8jaCHR3yDQeStdeb0SKn-NUFGkFT0lQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-11T22:28:52+00:00"
-    },
-    {
-      "id": "tg:EMchina/31492",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31492",
-      "text": "* 돌고돌아 홍콩  =========================  ~ 현지시간 7일 파이낸셜타임스에 따르면 쉬인은 지난주 홍콩거래소에 투자설명서 초안을 비공개로 제출하고 중국증권감독관리위원회에 승인을 요청한 것으로 전해졌습니다  https://n.news.naver.com/article/374/0000450421?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-11T21:24:13+00:00"
-    },
-    {
-      "id": "tg:EMchina/31491",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31491",
-      "text": "* BOE, 코닝과 MOU 체결. 유리기판 및 광 상호연결 관련 분야 협력  • BOE & 코닝 협력 MOU 체결. 유리기판, 플렉시블 유리, 페로브스카이트 유리기판, 광 상호연결 등 주요 분야 중심으로 협력  • MOU 유효기간은 3년. 각 분야 협력 내용은 별도로 협의하여 정식 협약 서명 필요  京东方A：与康宁公司签署合作备忘录 聚焦玻璃基封装载板、光互连相关应用等领域合作 京东方A(000725.SZ)公告称，公司与康宁公司签署合作备忘录，双方将围绕玻璃基封装载板…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-11T21:18:55+00:00"
-    },
-    {
       "id": "x:ylecun:2076044328003084437",
       "source": "x",
       "author": "ylecun",
@@ -216,18 +249,6 @@
       ],
       "summary_ko": "@yleun의 RT: 제가 1년 전에 썼듯이, 민주주의가 독재 체제로 바뀌는 것을 지켜본 사람의 눈을 통해 트럼프 행정부의 행동을 지켜보세요. 선거권을 중앙집권화하고, 연방군을 확대해 거리에 투입하고, 언론을 탄압합니다. 원본이 아닙니다.",
       "published_at": "2026-07-11T20:41:53+00:00"
-    },
-    {
-      "id": "tg:EMchina/31490",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31490",
-      "text": "* 중국 로봇주 강한 이유인가  ~ A look at what seems to be  Tesla's Optimus humanoid robot pilot production line  https://x.com/SawyerMerritt/status/2057281934691062120?s=20",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-11T20:34:41+00:00"
     },
     {
       "id": "x:sama:2076036901824532530",
@@ -330,22 +351,10 @@
       "url": "https://x.com/ylecun/status/2075946088368902307",
       "text": "RT by @ylecun: An embarrassed Trump falsely claims that his shocking $2.2 billion in revenue in 2025 came from the stock market when it mostly came from his sleazy cryptocurrency dealings. https://trib.al/TNSg9lb",
       "images": [
-        "https://pbs.twimg.com/card_img/2076030697077391361/TWILtzDp?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2075889165208559616/3NEEXuWs?format=jpg&name=800x419"
       ],
       "summary_ko": "RT by @yleun: 당황한 트럼프는 2025년에 발생한 충격적인 22억 달러의 수익이 대부분 천박한 암호화폐 거래에서 나왔음에도 불구하고 주식 시장에서 나왔다고 거짓 주장을 했습니다. https://trib.al/TNSg9lb",
       "published_at": "2026-07-11T14:11:31+00:00"
-    },
-    {
-      "id": "tg:EMchina/31489",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31489",
-      "text": "* 올해 판다본드 발행규모 1022억위안 상회  • 판다본드는 중국 채권시장 대외 개방 추진의 중요한 수단ㅋ 올해 판다본드 발행 활발. 다수 증권사들은 관련 사업에 적극적  • 4/14 기준 총 52개 판다본드 발행. 발행 규모는 1022.35억위안으로 전년동기대비 +91.81% 급증  • 판다본드 잔액은 4997.29억위안. 전년동기대비 +37.64% 증가  境外机构今年已发行熊猫债超1022亿元 熊猫债是我国推进债券市场对外开放的重要载体。今年以来，熊猫债发行…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-11T13:03:05+00:00"
     },
     {
       "id": "x:ylecun:2075926011233833199",
@@ -733,7 +742,7 @@
       "url": "https://x.com/OpenAI/status/2075647722766614733",
       "text": "As part of our ongoing efforts to strengthen our safeguards for advanced AI capabilities in biology, we’re evolving our Bio Bug Bounty into an ongoing private program, known as the OpenAI Bio Bug Bounty program and doubling rewards to $50K. We’re inviting researchers with experience in AI red teaming, security, or biosecurity to try to find a universal jailbreak that can defeat our predefined biosafety challenge against OpenAI’s frontier models. https://openai.com/index/bio-bug-bounty",
       "images": [
-        "https://pbs.twimg.com/card_img/2075273080541495296/L2VGc83H?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2075434643285819392/BHiTLDWJ?format=jpg&name=800x419"
       ],
       "summary_ko": "생물학 분야의 고급 AI 기능에 대한 보호 장치를 강화하기 위한 지속적인 노력의 일환으로 당사는 Bio Bug Bounty를 OpenAI Bio Bug Bounty 프로그램으로 알려진 지속적인 비공개 프로그램으로 발전시키고 보상을 $50,000로 두 배로 늘렸습니다. 우리는 OpenAI의 프론티어 모델에 대해 사전 정의된 생물 안전 문제를 해결할 수 있는 보편적인 탈옥을 찾기 위해 AI 레드 팀 구성, 보안 또는 생물학적 보안 경험이 있는 연구원을 초대하고 있습니다. https://openai.com/index/bio-bug-bounty",
       "published_at": "2026-07-10T18:25:55+00:00"
@@ -879,20 +888,6 @@
       "images": [],
       "summary_ko": "RT by @yleun: 🎯 트럼프가 적극적으로 미국의 이점을 파괴하고 그와 그의 동류가 이용할 수 있는 혼란과 분쟁을 일으키려고 한다면 그는 무엇을 다르게 할 것입니까?",
       "published_at": "2026-07-10T15:33:15+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23469",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23469",
-      "text": "[정리] 최태원 CNBC 인터뷰\n$SKHY\n> 인디애나주 첨단패키징 40억 달러 넘어 미국과 미국 외 전 세계 대상으로 팹 부지를 실사하고 있고, 만약 미국에서 적합한 장소를 발견한다면 그곳에 투자할 것\n> 미국에서 최소 수백억 달러($ million) 투자 예정. AI 데이터센터 분야 기업이나 스타트업, 또는 파트너사와 합작투자(JV)까지 진행할 것\n> 장기계약의 가격 조건은 고객마다 다르다. 어떤 고객은 가격을 고정해두길 원하고, 또 다른 고객은 가격 상하한선을 자유롭게 책정하길 원한다. 우리는 LTA에 대해 일률적인 규칙을 적용하지 않으려고 한다.\n> (삼성전자 HBM 추격과 빅테크의 메모리 효율화 기술 개발에 대해) HBM 시장 위축 조짐은 없다. 모든 파트너사들이 더 많은 물량을 원하고 있다. HBM과 레거시 D램도 주문량을 2배 늘려달라고 요청한다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/W-UFbLkyeAorKFk1aHndW2ck_eniJjCRfmYg28W0J1guOe5kvd6aijOvt_UKyUduqpD7CCfuIXeVsVkZ8eW24oNHH_x2XOdhBUD6W0P7DRHGftoZZJEnSehYguQUAvdfr5VQPpzbrHbIDLFmOD6czvvxCKiZN4KIJCRdjM-kbo5FO3EeiVzaeH0CGDEh6e5E7Uup-DguZ-JJtISJrLdcgDR7sbg5K581k8kQurp4jl4gdewZ9kisrM9TMuvKcBzQC1_O-Ay2mvUVK87gu6m6z1-Fbia038c2gCbol5ZBpeAsxNPpNeWg1C4CrjwO40-i2yF2LG7jJIIjJEDFHbY5HQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-10T14:56:59+00:00"
     },
     {
       "id": "tg:bornlupin/19012",
