@@ -1,22 +1,108 @@
 {
-  "updated_at": "2026-07-11T23:55:01+00:00",
+  "updated_at": "2026-07-12T02:46:28+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 3
+    "new_this_run": 22
   },
   "briefing": {
-    "headline": "두산밥캣, 5년 내 매출 2배 성장 가능",
+    "headline": "미군, 이란에 공격 시작",
     "bullets": [
-      "스캇 박 두산밥캣 부회장, 120억 달러 매출 목표",
-      "BOE, 코닝과 MOU 체결",
-      "판다본드 발행규모 1022억위안 상회",
-      "한화엔진, 선박용 엔진 1,158억원 수주",
-      "애플, 오픈AI에 소송…영업비밀 탈취"
+      "미국 시장 취약성 지표 0.9로 역사적 최고",
+      "중국 빅테크, 메모리반도 준비 중",
+      "샘 알트먼, 5.6 sol이 세계 최고의 모델",
+      "이란 외교부, 미국과의 협상 요청 거부",
+      "BOE, 코닝과 MOU 체결"
     ],
-    "generated_at": "2026-07-11T23:55:01+00:00",
+    "generated_at": "2026-07-12T02:46:28+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31500",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31500",
+      "text": "미군, 이란에 일주일 내 세 번째 공격 시작  • 미군 중앙사령부, sns 통해 군사 공격 발표: 미 동부 시간 7월 11일 19시 15분(이란 시간 7월 12일 새벽 2시 45분), 트럼프 대통령 지시에 따라 이번 주 세 번째 공격 시작  美军称开始对伊朗发动一周内第三轮打击 财联社7月12日电，据美军中央司令部在社交媒体平台最新发布消息，美东时间7月11日19时15分（伊朗当地时间7月12日凌晨2点45分，北京时间早上7点15分），美军中央司令部部队依据美国总统特朗普指令，开始对伊朗发动本周第三轮袭击。…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-12T02:31:46+00:00"
+    },
+    {
+      "id": "tg:EMchina/31499",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31499",
+      "text": "극도로 취약한 미국 시장, 실적 시즌 시작  • 미국 지수는 표면적으로 평온하지만 UBS 시장 취약성 지표는 0.9의 역사적 최고 수준으로 급등  • 2분기 이익 24% 급등 예상되는 '기대감 높은 실적 발표 시즌' 시작.   • 시장 내부 압력 가속화. 단일 종목 변동성은 지수의 세배를 넘었고, 채권 금리는 4.6%에 근접. 유가 상승(브렌트유 가격 80달러 근접)은 인플레이션과 유럽 증시 위협  美股处于“极度脆弱”的时候，财报季开启了 美股指数表面平静（…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-12T01:57:09+00:00"
+    },
+    {
+      "id": "tg:EMchina/31498",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31498",
+      "text": "다른 중국 빅테크들도 준비하려나  ========================  ~ 로이터통신은 29일(현지시간) 복수의 익명 소식통을 인용해 중국 최대 메모리반도체 업체인 CXMT가 중국 테크업체 텐센트 홀딩스에 수년간 서버용 D램을 공급하기로 했다고 보도했다  ~ 세계적인 인공지능(AI) 붐 속에 D램 수요가 급증하자 고객사들은 물량 확보를 위해 장기 계약에 나서고 있는데, 2명의 소식통은 계약 기간이 최대 3년이라고 밝혔지만 다른 1명은 최대 5년이라고…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-12T01:48:06+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23483",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23483",
+      "text": "샘 알트먼: 5.6 sol이 지금 세계 최고의 모델임을 시사하는 벤치마크가 많이 있지만, 그걸 판단할 수 있는 가장 확실한 방법은 일론이 또다시 나한테 집착하고 있다는 것입니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/lMFgPCb5baUYTzTd_mj_y4DjKHA1n28e3k1xzk1p9es4s4BaOLTSeShYxBUAQkwoa8ZoezqwaBsCrCjBHo706Kwv2MPuUlWCGFl8BDO-62z_7j5GnLGUR9Kgf3q5_ke-D2FfJj40DtZVlvIwQf8QVpuP0e8CIejT_UYGFy-vns31fI1TNyG9WBibZbyDmEGgAumsMPF-kwSzajSnN-GEZZ-rusvDekw0woOBv9rbDevLlf0zMfZgs2tZuHzsR2ts06z9G3p6QRfLsYKp4btwuLeJuzUorGmXAPA5OMsfTVTYXp4-i9NtY5YdndXE4KJMW7F4jjj-NcEyRfxQU5xztQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-12T01:37:25+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23482",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23482",
+      "text": "호르무즈 해협 무기한 폐쇄\nIRAN CLOSES STRAIT OF HORMUZ INDEFINITELY\nIRAN’S IRGC NAVY SAYS THE STRAIT OF HORMUZ IS CLOSED UNTIL FURTHER NOTICE.\nhttps://x.com/DeItaone/status/2076081633854124491",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-12T01:33:05+00:00"
+    },
+    {
+      "id": "tg:HI_GS/6689",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/6689",
+      "text": "http://m.g-enews.com/article/Global-Biz/2026/07/202607120550527090e8b8a793f7_1\n당초 제작사인 현대로템과 페루 국영 방산업체인 파메(FAME S.A.C.)는 2026년 6월에서 7월 사이에 본계약 조인을 마무리 지을 예정이었다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-12T00:38:01+00:00"
+    },
+    {
+      "id": "tg:EMchina/31497",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31497",
+      "text": "미국은 '열어라' 압박 이란은 '닫겠다' 선포  https://www.yna.co.kr/view/AKR20260712005700009",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-12T00:07:32+00:00"
+    },
     {
       "id": "tg:HI_GS/6686",
       "source": "telegram",
@@ -118,6 +204,20 @@
       "published_at": "2026-07-11T21:18:55+00:00"
     },
     {
+      "id": "x:ylecun:2076044328003084437",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2076044328003084437",
+      "text": "RT by @ylecun: As I wrote a year ago, watch the actions of the Trump admin through the eyes of someone who has watched democracy turn into autocracy. Centralizing election authority, expanding federalized troops and putting them in the streets, cracking down on the press. It's not original.",
+      "images": [
+        "https://pbs.twimg.com/card_img/2075953729442856960/t7wsXxN2?format=jpg&name=800x419"
+      ],
+      "summary_ko": "@yleun의 RT: 제가 1년 전에 썼듯이, 민주주의가 독재 체제로 바뀌는 것을 지켜본 사람의 눈을 통해 트럼프 행정부의 행동을 지켜보세요. 선거권을 중앙집권화하고, 연방군을 확대해 거리에 투입하고, 언론을 탄압합니다. 원본이 아닙니다.",
+      "published_at": "2026-07-11T20:41:53+00:00"
+    },
+    {
       "id": "tg:EMchina/31490",
       "source": "telegram",
       "author": "EMchina",
@@ -208,6 +308,34 @@
       "published_at": "2026-07-11T16:36:40+00:00"
     },
     {
+      "id": "x:ylecun:2075954690211148171",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2075954690211148171",
+      "text": "RT by @ylecun: So military troops under the direct control of Trump and Hegseth will be on the streets of our nation’s capital for the rest of Trump’s term. The rationale—they’re here to help with a crime emergency—is laughable. But of course the real reason is ominous. https://cbs4local.com/news/nation-world/national-guard-washington-dc-pentagon-donald-trump-dc-safe-and-beautiful-mission-metropolitan-police-department-mpd-anti-crime-freedom-250-crime-federal-law-enforcement-emergency-executive-order-7news-district-of-columbia",
+      "images": [
+        "https://pbs.twimg.com/card_img/2075953729442856960/t7wsXxN2?format=jpg&name=800x419"
+      ],
+      "summary_ko": "RT by @yleun: 따라서 Trump와 Hegseth의 직접 통제 하에 있는 군대는 Trump의 남은 임기 동안 우리나라 수도의 거리에 있을 것입니다. 범죄 긴급 상황을 돕기 위해 여기에 있다는 근거는 우스꽝스럽습니다. 그러나 물론 진짜 이유는 불길하다. https://cbs4local.com/news/nation-world/national-guard-washington-dc-pentagon-donald-trump-dc-safe-and-beautiful-mission-metropolitan-police-department-mpd-anti-crime-freedom-250-crime-federal-law-enforcement-emergency-executive-order-7news-district-of-columbia",
+      "published_at": "2026-07-11T14:45:42+00:00"
+    },
+    {
+      "id": "x:ylecun:2075946088368902307",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2075946088368902307",
+      "text": "RT by @ylecun: An embarrassed Trump falsely claims that his shocking $2.2 billion in revenue in 2025 came from the stock market when it mostly came from his sleazy cryptocurrency dealings. https://trib.al/TNSg9lb",
+      "images": [
+        "https://pbs.twimg.com/card_img/2076030697077391361/TWILtzDp?format=jpg&name=800x419"
+      ],
+      "summary_ko": "RT by @yleun: 당황한 트럼프는 2025년에 발생한 충격적인 22억 달러의 수익이 대부분 천박한 암호화폐 거래에서 나왔음에도 불구하고 주식 시장에서 나왔다고 거짓 주장을 했습니다. https://trib.al/TNSg9lb",
+      "published_at": "2026-07-11T14:11:31+00:00"
+    },
+    {
       "id": "tg:EMchina/31489",
       "source": "telegram",
       "author": "EMchina",
@@ -220,16 +348,18 @@
       "published_at": "2026-07-11T13:03:05+00:00"
     },
     {
-      "id": "tg:EMchina/31488",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31488",
-      "text": "상장 앞두고  https://share.google/GATD0hz2nkMlGV2bJ",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-11T12:56:43+00:00"
+      "id": "x:ylecun:2075926011233833199",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2075926011233833199",
+      "text": "RT by @ylecun: Donald Trump is mentally deranged. He’s a danger to the U.S. He’s a danger to the globe. He does not belong in this position of power—in control of the massive U.S. military—and he should be removed from office. This is not a joke. And his GOP enablers are responsible for abdicating their duty.",
+      "images": [
+        "https://pbs.twimg.com/media/HM8rtKNW0AATmrk.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 도널드 트럼프는 정신적으로 제정신이 아닙니다. 그는 미국에 위험합니다. 그는 전 세계에 위험합니다. 그는 대규모 미군을 통제하는 권력의 위치에 속하지 않으며 퇴임되어야 ​​합니다. 이것은 농담이 아닙니다. 그리고 그의 공화당 조력자들은 그들의 의무를 포기할 책임이 있습니다.",
+      "published_at": "2026-07-11T12:51:44+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/23480",
@@ -247,6 +377,32 @@
       "published_at": "2026-07-11T11:17:15+00:00"
     },
     {
+      "id": "x:ylecun:2075901143171948894",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2075901143171948894",
+      "text": "RT by @ylecun: AI 2040 and other similar policy proposals for dystopian AI control are evil. If I had the time machine in Terminator, I would send every one of these people back in time to live in Stalin's Russia, or Mao's China, or Berlin with the Wall and then bring them back after a year cured of their stupidity. Let's just make it clear. As Ramez says, the proposal warns against centralization of AI by proposing radically dangerous authoritarian surveillance powers that are infinitely more dangerous than the fake danger they propose to defend against. We've reached a point where people who spent too much time huffing glue and reading Dune or watching Terminator and thinking it was a documentary are now proposing some of the most dangerous and horrific policies imaginable. They must be stopped from infecting politicians with this kind of logic disease. Their policies cannot be taken seriously unless you have no sense of history, no sense of the actual dangers of history, no sense of what handing draconian powers to governments will do to a society, and frankly, no critical thinking ability or self awareness whatsoever. I don't care that the \"authors mean well.\" Dunning Kruger policies get no pass from me because someone means well.",
+      "images": [],
+      "summary_ko": "@yleun의 RT: AI 2040 및 디스토피아적인 AI 제어에 대한 기타 유사한 정책 제안은 사악합니다. 만약 나에게 터미네이터에서 타임머신이 있다면, 나는 이들 모두를 스탈린의 러시아, 마오쩌둥의 중국, 장벽이 있는 베를린으로 살도록 시간을 거슬러 보낸 다음, 그들의 어리석음이 치료된 후 1년 후에 다시 데려올 것입니다. 확실히 해두자. Ramez가 말했듯이, 이 제안은 그들이 방어하려고 제안하는 가짜 위험보다 훨씬 더 위험한 근본적으로 위험한 권위주의적 감시 권한을 제안함으로써 AI의 중앙화에 대해 경고합니다. 우리는 접착제를 흡입하고 Dune을 읽거나 터미네이터를 보고 그것이 다큐멘터리라고 생각하면서 너무 많은 시간을 소비한 사람들이 이제 상상할 수 있는 가장 위험하고 끔찍한 정책을 제안하는 지점에 도달했습니다. 그들은 있어야합니다",
+      "published_at": "2026-07-11T11:12:55+00:00"
+    },
+    {
+      "id": "x:ylecun:2075894629728154054",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2075894629728154054",
+      "text": "RT by @ylecun: If you wished @suno offered finer controls for music production, you can now pipe its songs through MuScriptor and import them in your favorite DAW 🎹",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2075736329959469056/img/x1lPFNxhiBNRQRQT.jpg"
+      ],
+      "summary_ko": "@ylecu의 RT: @suno가 음악 제작을 위한 더 정밀한 제어 기능을 제공하길 원했다면 이제 MuScriptor를 통해 노래를 파이프하고 즐겨 사용하는 DAW로 가져올 수 있습니다 🎹",
+      "published_at": "2026-07-11T10:47:02+00:00"
+    },
+    {
       "id": "tg:HI_GS/6684",
       "source": "telegram",
       "author": "HI_GS",
@@ -259,30 +415,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-11T10:09:03+00:00"
-    },
-    {
-      "id": "tg:EMchina/31487",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31487",
-      "text": "전환점 도달. CXMT IPO는 중국 반도체 Capex 새로운 사이클 촉발(국련민생증권)  • CXMT는 IPO 통해 295억위안 자금 조달. 생산능력 확장 및 업그레이드 계획. 중국 밸류체인 신규 주문의 촉매제  • 생산능력 확장 추세는 '장비, 부품, 소재' 3단계 번갈아 나타날 전망  • 식각/박막증착 장비 우선 수혜. 핵심 부품 공급되며, 후반기 소재/소모품은 생산라인 투입과 함께 지속적인 수요  拐点已至！长鑫IPO或引爆国产半导体Capex新周期 …",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-11T10:04:28+00:00"
-    },
-    {
-      "id": "tg:EMchina/31486",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31486",
-      "text": "미국은 이란에 토요일 최후통첩  또 최후통첩   https://naver.me/GcA5sZLL",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-11T09:52:02+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/23479",
@@ -312,18 +444,6 @@
       "published_at": "2026-07-11T08:56:03+00:00"
     },
     {
-      "id": "tg:EMchina/31485",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31485",
-      "text": "AI 대중화 위해서는 향후 12개월 내 토큰 가격 최대 -20%, 그 다음해까지 -90% 낮아져야 함  ==============================  Arora said token efficiency needs to drop to as much as 20% over the next 12 months, and 90% by the following year  https://www.cnbc.com/2026/07/09/palo-alto-ceo-arora…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-11T08:51:22+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/23476",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -346,6 +466,20 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-11T08:23:42+00:00"
+    },
+    {
+      "id": "x:ylecun:2075831487400644766",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2075831487400644766",
+      "text": "RT by @ylecun: This is total insanity. Words fail to explain how anyone let alone a plurality of voters thought giving an obviously demented person control of the most powerful government in the world was a good idea. We will be lucky to come out the other side of this alive.",
+      "images": [
+        "https://pbs.twimg.com/media/HM7VvJGXcAAdMb5.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 완전 정신 나간 짓이군요. 다수의 유권자는 물론이고 누가 명백히 정신이 나간 사람에게 세계에서 가장 강력한 정부에 대한 통제권을 부여하는 것이 좋은 생각이라고 생각했는지 말로 설명할 수 없습니다. 우리는 이 반대편에서 살아서 나올 수 있는 행운을 누릴 것입니다.",
+      "published_at": "2026-07-11T06:36:08+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/23474",
@@ -416,9 +550,9 @@
       "url": "https://t.me/bornlupin/19022",
       "text": "🕳\n반도체 수출 | 2026년 7월 10일\n(매월 1-10일까지 기준)\n[수출금액]\n- 디램(모듈제외): 수출액 $4,461mn, Y/Y +510%, M/M +29%\n- 디램(모듈포함): 수출액 $5,887mn, Y/Y +455%, M/M +20%\n- 플래시메모리(낸드): 수출액 $507mn, Y/Y +203%, M/M -12%\n[수출단가]\n- DRAM(모듈 제외)수출단가는 $96,520/kg로 전년 대비 +540%, 전월 대비 +16%\n- DRAM(모듈 포함)수출단가는 $68,263/kg로 전년 대비 +530%, 전월 대비 +15%\n- 플래시메모리 수출단가는 $52,091/kg로 전년 대비 +332%, 전월 대비 -16%",
       "images": [
-        "https://cdn5.telesco.pe/file/FK9tAJ9WjayseR6ADdFrjo3OGVjEN5Tvumypu_t06v7-JB3VISpTRB4G4u8LjqZZynfpj7xbeIyECPrn40UQ1boCIhCwaV9uW1PA9iadUsIpTARZ6wP7y15vgce_NVqC5i7U-NZKW7-bhsNdVEAT1rcb3dTdEhrGlONppdxagYqeHs2mvYI1f52dppFqF1shFVj6d_rsPGlu6Uvr4omUYhdJxaR2eKr4PnpQlO6T9iYy2zXsqbcOB5fFZotR9RVVXmu1HPwCs1H5HAmRRgEi1waa3fL9lfyWjxFOB04u-5c9Wkm0kWiednYxRmq1YKhvSyp8dPrRnbZDMOf_P2I1Mw.jpg",
-        "https://cdn5.telesco.pe/file/WOprY3rdnmFkwpCYG5cQnqwOlNh2VgVIgwzRrk4vJBVaZmpRBXQthnVx5S6w9c7ltD8aZZ1Lf0Yhlsss6TCTvYZbFWw9N0B8qX9kgbCrbl13tbiGrFSFgQFNspxFLZjt2MHMAr9CeXZLRlFzfsOw5G-ud-ZGzIHR3arxR1SmECgb9yrw2bOY9EjvNrAG1vKYrbU-Kw3GRsPPu-ujzl4gVfPRTZbYmRHitdRq19-51qsISHU73CWYU9xZNpHScCtGV7UfgERpW2TzN4ZktdJ5GGDkU7IzwN3uHP5aYrdXWFnPkk3Yf7pw6PtDF2eYFRgwSsZiP-TTZu9F9dIAmJR0Fw.jpg",
-        "https://cdn5.telesco.pe/file/LCxgPidtbEa6NGyLe_cdfLOVUaftOf3R-CDnIilZqKGe1DJlsmV_q97H7spG-fYeGh-LEJjbNpgAIbbc6Jv0H-nuM19vfymx3W7z90TEqwBZirwgR23M0YBf1nthOpMNcAP5lyv_XgqwaqdyjViPsUNMBz9MJckqSpKvETaF-6k-2jDdBR5em-g1LtFo8cqHxdYjS2NovJQtBPwDP2SXt827ae0AZcjIMxNv3K1SARtDHX0BqdkIifzN2EYMEF6_G4iYUnED3FsjBQx-uqjJMSJPk01P3jwUg0uQZt_ivNf_ELyWZTXRCOI2B8PWG2avIPIiyQb01F4Rv-knXTo2nA.jpg"
+        "https://cdn5.telesco.pe/file/AkBSbNZDv5smrDFmxqV_qFRnPPsj5LKaV63FTkBfyU_NpbMJMehJ5jML5p53MVvMiFu9MC4MelYXWP-TMrTMjDDgemfoeQ1dpPKb1vmII4i4lYpjh1OvJ9_VN_XWo4QWhRXZOpVnfP4-j1gd0EI-f5MmA0DaHa_RxRXC_2JriTwImSFVpsx4SDU_wMzLmVrUk07TnqHsg1Xxe_WnKqEgKSUXoq0jlxU6sHPEpYGO94eVdJMLqOR9IuK9LuPnzx0nu-XoxCeUICSh6rDDNiorg0WEdGGuNHdyq4WTd_Jhrs-6o7Td8Xe1xC8zZNhrIqfOFsP5mui3rE53aLn-D3b7xQ.jpg",
+        "https://cdn5.telesco.pe/file/tWj13PgVf7LJktp3zVEsQob1MLGsxmxPcaHMClsaUXl5Djq8VtIuJydn9nu1SGfX1R1ocyjFesqvvAPjGiBbiBAoUwQIvWBapNG0WX8HUzsQMHluphBWSwHZeT8YZuk3Fs1U3uve0MKecZQAJxKIqGuV0MDJidEfmdayfVSEHfcyuKW9U45AfnLU-B8qh01unN74uU6uMrnT6LoVcfBERS3EALb9nxP6x4vP29DNSbQY7cIfnGziRleRS8_U5NSMa7PJa2705AUDmZ_xU58cmgchUXwbSj7RNzzSlNxqw0ln9WawQR7TLpftI6njQojSoYao3jmeWvYYetU5CF58Dw.jpg",
+        "https://cdn5.telesco.pe/file/tZr2Il0B3A_uG8rnCykMRfmM-qrPLk1v0SBhboHCagZBNdfcLJ9hyYAz6FrYhNZcO2lIZr62uGtMlzG7FEJPW812vJv1HNBiByEVmd3WZnh1VDAQUblnEpPS9tDS_DRuG3BPeW4Y1WaI8t623CJ8Y519lSHsAIhbuOVFnHJHV6ZFmMJGToFsqA-UTx6_1BFgrKqw88U_kFGUXIyM7OQfA0bNSqbx7oCDOm5swtxlrK8TbDqIMgb4x7hB0Mwu66MuxLyvvXmh-jT3NQJUzP3K7LZ6A4lOBa9J-F_x11F8EiVA-3o-3t9R1K6Wu_v7jxn7E2sU745E2bRPcZHOiHVfsw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-11T01:19:08+00:00"
@@ -432,11 +566,25 @@
       "url": "https://t.me/bornlupin/19020",
       "text": "📊\n잠정 수출 | 2026년 7월 10일\n7월 10일 잠정 수출액 주요 품목별 ATH\n※ 매월 1-10일까지의 수치 기준\n디램(모듈포함): +455% Y/Y, +20% M/M\n휴대전화 완성품: +385% Y/Y, +147% M/M\n- 7월 디램(DRAM) 수출액 레벨업",
       "images": [
-        "https://cdn5.telesco.pe/file/bSAPytKlUawjbD7dBW9xMkeI6blziUCbZq5SNcF4F2grxL053yRRK-AxZtz7pjcUiwF8brsfhwySwM1myYButxSqOslxGdOwl1H7-FYQg9yBKkAYsCN1ONU7cSUIJVcgIA9kOJ0lxgtvsmyu33Fg8G1Z8n_5KU_nKbd1A_6tyDz8ilo-J1UnxGQ29-hGJHx0cxHZf_rzjnFEr2Lhb1FQdiQuviuws6DaOLpJl97icHWFuStbBz1HGc7rSoL9yxNv7dDI0s5n5bqKOknCvXrs128o7cAqDF2tymjxSSP4hHcatgwX75o4BWkjjD9bxXYs0F2Yu29SRJqeNpAFlipGog.jpg",
+        "https://cdn5.telesco.pe/file/oXYNHZd2Q67CzaYZDie63i1ygkJRyIf88PYuqBSQ5uqwY39pFEIrdmSlfjY9ApVbS2t0m0JnY59riKNFCzYxuYeYLkaqUbQaRafbz2caO7N3ua9QU4oqydzJJzeKgfrrYgT4c3HkDWQWHq5TTBYX0CkEj-sgHYy_LncS204ShVt4GS1D7wUntjNB1v1p7oqsVqljp3qtGiDQgGDdu4Lze4whEgrSpMExOCWVAjyQwe-1SBvSw255wov65f4g7h3B_cNjiyBrarOegQEK3Ek2LPr3cHeptNc1QUCl5UdL-JIAXR-ubHjft_xFksq1f0BR9yNoLc4jjbx91pgwlntZEQ.jpg",
         "https://cdn5.telesco.pe/file/N-I2DflwYKM1OGUrVix_jW3y0pZ9cOXv4N7osqirRQz0_5D7wZ-olUoKS_H8RMFI-KbU6GNHQ0cmHHYxk4JShrKScG3mqzf5glKLOCX1lQptoSB0agP1a1MAo6MVeQmQ9T2tpoHckwUHTqm8cFWf98i4ZqOfWcOW4ATcWb8p7ccRoaXo6wYupGaPbAy7HrPkrpquiIKyucRH4ixcE8Z2YQotS51X-1_V84M3yz5NDvKg2el1j_uFETIg-indRAY18a5hxoBF3e75u_BQVcU9YjWuGmxTPvpXapBTrT6ITv--bZUAsz53sFw0mMKJ-E0-bq1a2HiJj2xS9_EHeppmUA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-11T01:19:01+00:00"
+    },
+    {
+      "id": "x:ylecun:2075744163933380741",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2075744163933380741",
+      "text": "RT by @ylecun: outstanding essay from Seb: \"A cadre of elites decides which research directions are permissible, caps global compute and robotics, and creates state-administered scarcity rents. I shouldn’t need to explain why this is bad and dangerous, anyone can study History and Economics in their free time. [...] Building an entire apparatus tasked with maximally empowering the government and its grip on research, knowledge, and technology is dangerous.\" Read every word of it 👉",
+      "images": [
+        "https://pbs.twimg.com/media/HM5-twkXAAA_jte.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: Seb의 뛰어난 에세이: \"엘리트 간부가 어떤 연구 방향이 허용되는지 결정하고, 글로벌 컴퓨팅과 로봇 공학을 제한하고, 국가가 관리하는 희소 임대료를 창출합니다. 이것이 왜 나쁘고 위험한지 설명할 필요는 없습니다. 누구나 자유 시간에 역사와 경제를 공부할 수 있습니다. [...] 정부와 연구, 지식 및 기술에 대한 통제권을 최대한 부여하는 임무를 맡은 전체 장치를 구축하는 것은 위험합니다.\" 모든 단어를 읽어보세요 👉",
+      "published_at": "2026-07-11T00:49:08+00:00"
     },
     {
       "id": "tg:enc210406/4124",
@@ -461,6 +609,18 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-11T00:14:22+00:00"
+    },
+    {
+      "id": "x:ylecun:2075732481173844347",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2075732481173844347",
+      "text": "RT by @ylecun: History has seen this movie before. 1880s Late Imperial Russia: Fear of dissent led to tighter control over universities. That alienated students and scholars, weakened trust in the state, and produced more dissent. 1930s Nazi Germany: Fear of disloyalty led to purges, banned ideas, and loyalty tests. That drove out talent, weakened universities, and made the regime even more dependent on loyalty over truth. 1960s China’s Cultural Revolution: Fear of independent thought led to attacks on teachers, schools, and universities. The result was an entire Lost Generation. The spiral: Fear brings control. Control drives out talent. Lost talent weakens education. Weaker education weakens the state. A weaker state becomes more fearful—and tightens control again.",
+      "images": [],
+      "summary_ko": "@yleun의 RT: 역사상 이 영화를 본 적이 있습니다. 1880년대 러시아 제국 말기: 반대 의견에 대한 두려움으로 인해 대학에 대한 통제가 더욱 엄격해졌습니다. 이는 학생과 학자들을 소외시켰고, 국가에 대한 신뢰를 약화시켰으며, 더 많은 반대를 불러일으켰습니다. 1930년대 나치 독일: 불충성에 대한 두려움으로 숙청, 금지된 사상, 충성심 테스트가 발생했습니다. 이는 인재를 몰아내고 대학을 약화시켰으며 정권이 진실보다 충성심에 더욱 의존하게 만들었습니다. 1960년대 중국의 문화대혁명: 독립적인 사고에 대한 두려움이 교사, 학교, 대학에 대한 공격으로 이어졌습니다. 그 결과는 잃어버린 세대(Lost Generation) 전체였습니다. 나선: 두려움은 통제력을 가져옵니다. 통제는 재능을 몰아낸다. 잃어버린 재능은 교육을 약화시킵니다. 약한 교육은 국가를 약화시킨다. 약한 상태는 더욱 두려운 상태가 되며 통제력을 다시 강화합니다.",
+      "published_at": "2026-07-11T00:02:43+00:00"
     },
     {
       "id": "tg:bornlupin/19018",
@@ -589,6 +749,18 @@
       "images": [],
       "summary_ko": "@sama님의 RT: GPT-5.6 Sol Ultra가 50년 된 수학 추측의 증거를 만들어냈습니다. Erdös 단위 거리 문제와 달리 이 문제는 *현재* 공개적으로 사용 가능한 모델을 사용하여 수행되었습니다. 과학자와 연구자들이 이 모델로 무엇을 할 수 있을지 기대됩니다!",
       "published_at": "2026-07-10T18:19:16+00:00"
+    },
+    {
+      "id": "x:ylecun:2075644501222367375",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2075644501222367375",
+      "text": "RT by @ylecun: All foundation models are in fact models of knowledge, mainly based on open knowledge already developed by mainkind. Obviously knowledge (models) of mankind should be open sourced! (Again, please do not confuse knowledge with intelligence.)",
+      "images": [],
+      "summary_ko": "@yleun의 RT: 모든 기반 모델은 실제로 메인카인드가 이미 개발한 공개 지식을 기반으로 하는 지식 모델입니다. 당연히 인류의 지식(모델)은 오픈소스로 공개되어야 합니다! (다시 한번 말씀드리지만, 지식과 지능을 혼동하지 마십시오.)",
+      "published_at": "2026-07-10T18:13:07+00:00"
     },
     {
       "id": "x:OpenAI:2075643450196971805",
@@ -723,30 +895,6 @@
       "published_at": "2026-07-10T14:56:59+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23470",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23470",
-      "text": "[정리] 최태원 CNBC 인터뷰 $SKHY  > 인디애나주 첨단패키징 40억 달러 넘어 미국과 미국 외 전 세계 대상으로 팹 부지를 실사하고 있고, 만약 미국에서 적합한 장소를 발견한다면 그곳에 투자할 것  > 미국에서 최소 수백억 달러($ million) 투자 예정. AI 데이터센터 분야 기업이나 스타트업, 또는 파트너사와 합작투자(JV)까지 진행할 것  > 장기계약의 가격 조건은 고객마다 다르다. 어떤 고객은 가격을 고정해두길 원하고, 또 다른 고객은…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-10T14:56:59+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23468",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23468",
-      "text": "웰스파고) Meta. AI 관련 동향—핵심 요약(7월 9일), TP $767.\n당사 견해\nAI 투자 이니셔티브와 관련된 다수의 언론 보도는 다음과 같은 견해를 강화합니다: 공격적인 AI 투자 기조 유지, Muse Spark 1.1 모델 출시가 개발 노력의 성과를 보여줌, 그리고 컴퓨팅 용량 재판매(capacity resale)가 검토되고 있다는 확인.\n초기 견해\n로이터는 META가 2027년 말까지 컴퓨팅 용량을 14GW로 두 배 확대할 계획이라고 보도했으며, 이는 Meta가 컴퓨팅 용량에 있어 공격적인 투자자로 남을 것이라는 견해를 강화합니다. META 내부 메모를 인용한 것으로 보도된 용량 수치는, 공개된 전력구매계약(PPA)에 기반한 당사의 용량 전망과 대체로 부합하는 것으로 해석합니다. Meta가 '25년을 자체 보유 컴퓨팅 용량 7.5GW로 마감하고, 2027년 말까지 16GW로 확대할 것으로 추정합니다. 2025년 말 추정치에 대해서는 여전히 편안하게 보고 있으나, 2027년 말 전망은 공개 세부 내용에 따라 높아 보입니다.\n7GW 용량 공개에 대한 해석은 2026년 말이 아니라 \"현재(current)\"로 보고 있으며, 이는 '26년 및 '27년 연간 3~4GW의 순신규 용량을 시사합니다. '26년 용량 증설의 대부분은 26년 하반기에 이루어질 것으로 보며, 이번 공개에는 반영되지 않았을 가능성이 높다고 판단합니다. 당사의 해석은 18~24개월에 걸쳐 약 7GW의 순용량 증설이 이루어짐을 시사합니다. 7GW 용량 증설이 '27년 한 해에만 이루어진다는 대안적 해석은 공격적이지만 불가능하지는 않은 가정으로 봅니다. '27년에 7GW를 초과하는 용량을 공급할 수 있는 곳은 TPU 용량에 힘입은 Google뿐일 것으로 봅니다.\nFY27 CapEx에 대한 시장 기대치, 약 2,000억 달러는 이번 공개로 크게 움직이지는 않을 것으로 판단합니다. 용량 믹스와 공급망 인플레이션을 모두 반영한 Meta의 GW당 CapEx를 약 400억 달러/GW로 추정하며, 이는 1,600억 달러 이상의 용량 CapEx를 의미하고, 이는 당사의 현재 추정치인 1,800억 달러를 소폭 하회합니다. '27년 7GW 순용량 증설이라는 상방 해석은 CapEx 수치를 최대 2,800억 달러까지 끌어올릴 수 있으며, 이는 모든 기대치를 크게 상회하는 수준입니다. 2026년 CapEx 가이던스인 1,250억~1,400억 달러는 GW당 350억~400억 달러의 CapEx를 시사한다는 점에 주목합니다.\nCEO 마크 저커버그는 매력적인 제안이 제공하는 잠재적으로 우월한 수익 프로파일을 감안해 Meta가 외부에 컴퓨팅 용량을 임대하는 것을 검토하고 있음을 확인했으나, 어떠한 \"잉여(excess)\" 컴퓨팅도 없다고 부인했다고 블룸버그가 보도했습니다. 앞서 서술한 바와 같이, 1GW의 컴퓨팅 임대는 FY27 EPS에 16%의 증분(accretion)을 가져올 수 있다고 봅니다. 당사가 전망하는 용량 구축을 감안할 때, Meta는 모델 및 애플리케이션 야망을 저해하지 않으면서 '27년 초에 1GW 이상을, 그리고 향후 더 많은 용량을 임대할 수 있는 위치에 있을 것으로 예상합니다.\n유료 개발자 등급과 \"탁월한(standout)\" 에이전트 성능 개선을 갖춘 META Muse Spark 1.1은, META가 프론티어 모델 전략에 여전히 전념하고 있으며 잠재적인 외부 용량 판매가 내부 노력을 잠식(cannibalistic)하지 않는다는 당사의 견해를 뒷받침하는 것으로 봅니다. META는 선도적인 Anthropic 및 OpenAI 제공가의 25% 수준으로 책정된 모델 API 시스템을 출시할 예정입니다. 저커버그는 이 모델을 \"우리가 예상했던 것보다 낫다(better than we expected)\"고 평가했으며, 선도적인 Gemini 모델을 능가한다는 보도가 있습니다. 프론티어 모델 \"Watermelon\"은 여전히 출시가 예상됩니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-10T14:36:26+00:00"
-    },
-    {
       "id": "tg:bornlupin/19012",
       "source": "telegram",
       "author": "bornlupin",
@@ -847,34 +995,6 @@
       "published_at": "2026-07-10T12:59:04+00:00"
     },
     {
-      "id": "x:ylecun:2075540047613276197",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2075540047613276197",
-      "text": "RT by @ylecun: We're releasing MuScriptor, the best open model for multi-instrument transcription to date, created in collaboration with @MireloAI. Give it a recording in any genre: pop, classical, metal, jazz, whatever, and it transcribes the individual instruments into MIDI. Link in 🧵",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2075537438823362560/img/SchA4x7w7Pd17MLc.jpg"
-      ],
-      "summary_ko": "RT by @yleun: 우리는 @MireloAI와 공동으로 제작한 다중 악기 전사를 위한 최고의 개방형 모델인 MuScriptor를 출시합니다. 팝, 클래식, 메탈, 재즈 등 모든 장르를 녹음하면 개별 악기를 MIDI로 변환합니다. 링크를 🧵",
-      "published_at": "2026-07-10T11:18:03+00:00"
-    },
-    {
-      "id": "x:ylecun:2075536492177354771",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2075536492177354771",
-      "text": "RT by @ylecun: Today, together with @kyutai_labs, we’re introducing our new Audio-to-MIDI model. It takes a finished recording, identifies the instruments playing, and returns separate MIDI tracks for each — voice, drums, bass, keys, and more. Unlike most existing solutions, our model works directly from the full mix rather than requiring separate stems. It also detects chords, key, and tempo, giving producers broader musical context. We’ve written more about the model, the problem, and how it works here: http://mirelo.ai/blog/turning-audio-to-midi",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2075532449589714944/img/Lz2K-Zzebwh53t1v.jpg"
-      ],
-      "summary_ko": "RT by @yleun: 오늘 @kyotai_labs와 함께 새로운 Audio-to-MIDI 모델을 소개합니다. 녹음이 완료된 후 연주되는 악기를 식별하고 음성, 드럼, 베이스, 키 등 각각에 대해 별도의 MIDI 트랙을 반환합니다. 대부분의 기존 솔루션과 달리 우리 모델은 별도의 줄기가 필요하지 않고 전체 혼합에서 직접 작동합니다. 또한 코드, 키, 템포를 감지하여 제작자에게 더 넓은 음악적 맥락을 제공합니다. 모델, 문제 및 작동 방식에 대한 자세한 내용은 http://mirelo.ai/blog/turning-audio-to-midi에 나와 있습니다.",
-      "published_at": "2026-07-10T11:03:55+00:00"
-    },
-    {
       "id": "tg:enc210406/4123",
       "source": "telegram",
       "author": "enc210406",
@@ -887,32 +1007,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-10T10:25:53+00:00"
-    },
-    {
-      "id": "x:ylecun:2075502895257022508",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2075502895257022508",
-      "text": "RT by @ylecun: It's incredible to me that 9 months ago we didnt have an office, and now we have a fully functional humanoid and an efficient AI! So proud of the team 🤠",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2074442529722744832/img/aIAbobQcvhaj26le.jpg"
-      ],
-      "summary_ko": "RT by @yleun: 9개월 전에는 사무실도 없었는데 이제는 완전한 기능을 갖춘 휴머노이드와 효율적인 AI를 갖게 되었다는 사실이 정말 놀랍습니다! 팀이 정말 자랑스럽습니다 🤠",
-      "published_at": "2026-07-10T08:50:25+00:00"
-    },
-    {
-      "id": "x:ylecun:2075496863327817910",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2075496863327817910",
-      "text": "RT by @ylecun: Typical NYT understatement for what is an apocalyptic destruction of the American innovation ecosystem. I can't understand how the Trump administration is doing this while boasting about American technology leadership. Don't they realize that a nation can't get technological innovations without scientists, and that scientists are former PhD students?",
-      "images": [],
-      "summary_ko": "RT @yleun: 미국 혁신 생태계의 종말론적 파괴에 대한 전형적인 NYT의 절제된 표현입니다. 트럼프 행정부가 미국의 기술 리더십을 자랑하면서 어떻게 이런 짓을 하는지 이해할 수 없다. 과학자 없이는 국가가 기술 혁신을 이룰 수 없다는 것과 과학자가 박사 과정 학생이었다는 사실을 그들은 깨닫지 못합니까?",
-      "published_at": "2026-07-10T08:26:27+00:00"
     },
     {
       "id": "tg:enc210406/4122",
@@ -951,20 +1045,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-10T05:06:01+00:00"
-    },
-    {
-      "id": "x:ylecun:2075424377907052734",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2075424377907052734",
-      "text": "RT by @ylecun: NEW: Donald Trump has terminated the remaining members of the independent, federal commission that assists election administration officials nationwide just a few months before the midterm elections “It is ⁠irresponsible and dangerous that this Administration remains dead set on causing chaos for our election officials across this country,” Arizona secretary of state Adrian Fontes said in a Thursday statement. “This ‌move undermines the integrity of nonpartisan election administration.” https://www.theguardian.com/us-news/2026/jul/09/trump-fires-election-commissioners",
-      "images": [
-        "https://pbs.twimg.com/card_img/2075400498710999042/9AahOKTW?format=jpg&name=800x419"
-      ],
-      "summary_ko": "RT by @yleun: NEW: 도널드 트럼프는 중간선거를 불과 몇 달 앞두고 전국의 선거 관리 관리들을 지원하는 독립적인 연방 위원회의 나머지 위원들을 해고했습니다. “이 행정부가 이 나라 전역의 선거 관리들에게 혼란을 야기하려는 데 전념하고 있는 것은 무책임하고 위험합니다.” 애리조나 주 국무장관 애드리안 폰테스(Adrian Fontes)가 목요일 성명에서 말했습니다. “이번 조치는 초당적 선거 관리의 무결성을 훼손합니다.” https://www.theguardian.com/us-news/2026/jul/09/trump-fires-election-commissioners",
-      "published_at": "2026-07-10T03:38:25+00:00"
     },
     {
       "id": "tg:HI_GS/6681",
@@ -1035,7 +1115,7 @@
       "url": "https://t.me/globaletfi/20592",
       "text": "» 미국에서 Elon Musk 관련 기업만 지수에서 제외한 신규 ETF 2종이 SEC에 승인 신청(SEC filing)\n» Subversive에서 출시 예정인 Nasdaq-100 Ex-Elon Enterprises ETF(QQNE)와 S&P 500 Ex-Elon Enterprises ETF(SPNE)로, 각각 NASDAQ100 지수와 S&P500 지수를 추종하되 Elon Musk가 설립·지배하거나 경영하는 기업은 모두 제외하는 구조\n» 현재 등록된 서류의 기준으로 제외 대상 기업은 Tesla(TSLA)와 SpaceX(SPCX)이며, 향후 Elon Musk가 설립하거나 경영하는 기업이 추가될 경우 제외 대상도 변경될 예정",
       "images": [
-        "https://cdn5.telesco.pe/file/hZKJn_hL_JEeUsuEXi3g7tP2-w2kO80hj7UUeXx7JzvSXlUtgou1ddh3iX0pcNr3xGBKvSYogrnGd6065Evj4rmv6cnFcv7oBi559SeK7Sw9HUvReDZtTBI_djvL0sF0HeLkJUxz6OR3ccwSBySvFNvttboHjLD8C5pKiTjLZTNFam76yN4rXdvwgm78O8ifeiCaqCW-JSm2D32cxDjpcd2ZC-ybLqDei0tgdC4ngtvb1uAmivAJ6WDVAJboCpMxFongOgpsrs1De333176RJh2vnHld3GZPqG-MQwH3V6LJj1bORCyo1e6_nDGeAjI8PUi_LFZHyVn1WVUoqg4jLA.jpg"
+        "https://cdn5.telesco.pe/file/QUEBMOwWG7FKtIzFMTvbvoO5Mf8C0MlBwuRxRxhXJktHQhS5qJDqeLq7_NhVi00luI4VGRY3i53vZMrKux96lPbnEjXGFpVbbEEn9NkdVTTngk00vZrHTTiwt-urGupP7e15YRKm2rlat5vjRJANOP7Dv-0KWsVe6fQ5-RGwnwuuPAY0qjVAaBtSDcV6RxTLL6j7r6p3_WKar655KYBViYfzmYRVGjgcBVfsb1xNSB_I_pnSrsPS3RjGxooL7Gw1IaFlo6vkOsyexu6CysIehLsAHOlqlYH2pkTuGu0NnI79wJZvV7CAI5rqF1DSOQvwcTMpw88fNOKOvZQLqBl38Q.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-10T00:45:32+00:00"
@@ -1353,18 +1433,6 @@
       "published_at": "2026-07-09T16:35:17+00:00"
     },
     {
-      "id": "x:ylecun:2075253735563886595",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2075253735563886595",
-      "text": "RT by @ylecun: Open source powers everything in America. We must fight any and all attempts to restrict it in the age of AI. We must never surrender to the short-sighted safetyists and hawks. Open source is the entire reason American tech dominates across the globe. If you can't see this it is largely because it is invisible but your blindness to it is no excuse. You are protected by a smoothly running invisible shield the powers everything and that shield is open source. It powers every major cloud. The router in your house. Your phone. The servers at your work. The NASDAQ and NY Stock Exchange. Radar systems. Just about every website you know and love. The SaaS you're reading this on right now, called X. Restricting it in the AI era is idiotic, short-sighted and foolish at an almost mind boggling level. It is civilizational suicide. Take Microsoft. In the early days of Linux they pushed hard against it and called open source \"communism\" and \"cancer.\" Imagine if their short-sighted stupidity had won the day? Their Azure cloud now predominately runs Linux. They would have destroyed *their own* future revenue with their foolishness and greed. In this fight we must never surrender. We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills. We shall never surrender!",
-      "images": [],
-      "summary_ko": "@yleun의 RT: 오픈 소스는 미국의 모든 것을 강화합니다. 우리는 AI 시대에 이를 제한하려는 모든 시도에 맞서 싸워야 합니다. 우리는 근시안적인 안전주의자와 매파에게 결코 굴복해서는 안 됩니다. 오픈 소스는 미국 기술이 전 세계를 지배하는 이유입니다. 당신이 이것을 볼 수 없다면 그것은 주로 그것이 보이지 않기 때문이지만 그것에 대한 당신의 맹목은 변명의 여지가 없습니다. 당신은 모든 것에 힘을 실어주는 원활하게 작동하는 보이지 않는 방패로 보호받고 있으며, 그 방패는 오픈 소스입니다. 이는 모든 주요 클라우드를 지원합니다. 집에 있는 라우터. 당신의 전화. 귀하의 직장에 있는 서버. 나스닥과 뉴욕 증권거래소. 레이더 시스템. 당신이 알고 사랑하는 거의 모든 웹사이트. 지금 이 글을 읽고 있는 SaaS는 X라고 불립니다. AI 시대에 이를 제한하는 것은 어리 석고 근시안적이며 거의 어리석은 일입니다.",
-      "published_at": "2026-07-09T16:20:21+00:00"
-    },
-    {
       "id": "x:GoogleDeepMind:2075251885276012668",
       "source": "x",
       "author": "GoogleDeepMind",
@@ -1393,18 +1461,6 @@
       "published_at": "2026-07-09T15:16:25+00:00"
     },
     {
-      "id": "x:ylecun:2075237102099251371",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2075237102099251371",
-      "text": "RT by @ylecun: We stand at a critical crossroads in the debate over AI governance in the United States, and it feels like we are inching closer to a very serious battle over whether or not open source models will even be allowed in an environment where a new de facto licensing regime has been taking shape. Lacking formal congressional statutory frameworks or clear administration rules (like the diffusion rule revision), we appear to be left with a sporadic, arbitrary, non-transparent process for model review. The fiction of “voluntary” agreements hangs over this debate, and some large model developers are already showing an incredible willingness to bend over backwards to accommodate national security-related officials / orders that the rest of us are not privy to. It's a very opaque process. And those model developers are expected to play ball with those officials, or else their models get pulled from the market or held up for long periods. Or they will lose any government procurement contracts they have. There is nothing “voluntary” about it when that Sword of Damocles hangs in the room. As this mess worsens, at some point the question of how to handle open source models will come into sharper focus because it will have to. I've even heard some rumors lately that something may be coming from the admin on this front to address this. Needless to say, if this informal new AI model review regime expands and takes on more pre-vetting characteristics / requirements, it is hard to see how open source players could comply with such quasi-licensing of AI models. Specifically, if this ambiguous new regime is accompanied by a general presumption of ‘restrict-until-permitted,’ then that would spell doom for open source. That is a very dark path for our country. Worse yet, of course, would be a move by national security officials to more directly restrict open source models and capabilities. If that happens, then we would be right back in the thick of a Clipper Chip-like battle along the lines of what we saw in the late 1990s. That is a much darker path for America. Meanwhile, open source developers have no “golden shares” or other goodies to offer the government to make their problems go away. Let’s be clear: If our government takes the dark path, it will become the single most important battle over computational freedom of modern times. It is time for people to make a stand in defense of open source before it is too late.",
-      "images": [],
-      "summary_ko": "RT by @yleun: 우리는 미국의 AI 거버넌스에 대한 논쟁에서 중요한 갈림길에 서 있으며, 새로운 사실상의 라이선스 체제가 형성되고 있는 환경에서 오픈 소스 모델이 허용될지 여부에 대한 매우 심각한 싸움에 조금씩 가까워지고 있는 것처럼 느껴집니다. 공식적인 의회의 법적 틀이나 명확한 행정 규칙(예: 확산 규칙 개정)이 부족하여 모델 검토를 위한 산발적이고 임의적이며 불투명한 프로세스가 남아 있는 것으로 보입니다. 이 논쟁에는 \"자발적\" 합의라는 허구가 걸려 있으며, 일부 대규모 모델 개발자는 이미 우리 모두가 관심을 갖지 않는 국가 안보 관련 공무원/명령을 수용하기 위해 뒤로 물러서려는 놀라운 의지를 보여주고 있습니다. 매우 불투명한 과정입니다",
-      "published_at": "2026-07-09T15:14:15+00:00"
-    },
-    {
       "id": "tg:globaletfi/20584",
       "source": "telegram",
       "author": "globaletfi",
@@ -1431,60 +1487,6 @@
       "published_at": "2026-07-09T07:42:42+00:00"
     },
     {
-      "id": "tg:HI_GS/6675",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/6675",
-      "text": "「HD현대중공업, P/C선 6척 수주」\n💲\n2029년 6월 납기, 신조선가 51.3백만달러 ☞ https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260709800137\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널 https://t.me/HI_GS",
-      "images": [
-        "https://cdn5.telesco.pe/file/tWaYiIrgscUJpa-hy-zMyWq0Nsp3glVHdhJizAPOmU0POlqFsOg-oLW4Id-RLzNZNfxEuxkMZ1nvyjZX5q_v8bJH2ndZnoZkIlXoyIf32IZCRpTBmI9Um7twBatA50CbTu6tuKJGLu-2o-8nlz5DrlNlkru0t5yOB4mSbyJu6y1wDgnwc3t39_f-lFXHAzDZ3J8PAWCaNtPTkgp3g7BUcMG0pGhKbcCmTh9CT4yRZKkSWdoNINknrk9UnEjFu8lL9hiGkcdWOwUrDn0KPnhWWa6uN--Z6iIIRP_03fZvkN8JxGi_thq8DewF0IbQ_rSzGh5_nRpB--uhsoYpUL5hMA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-09T07:01:41+00:00"
-    },
-    {
-      "id": "x:ylecun:2075102766221996136",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2075102766221996136",
-      "text": "RT by @ylecun: The biggest risk of AI is the concentration of power in a few dominant providers of proprietary AI assistants. The only solution to AI sovereignty is open source foundation models.",
-      "images": [],
-      "summary_ko": "@yleun의 RT: AI의 가장 큰 위험은 독점 AI 보조원을 제공하는 소수의 지배적인 공급자에게 권력이 집중된다는 것입니다. AI 주권에 대한 유일한 솔루션은 오픈 소스 기반 모델입니다.",
-      "published_at": "2026-07-09T06:20:27+00:00"
-    },
-    {
-      "id": "x:ylecun:2075064915606347835",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2075064915606347835",
-      "text": "RT by @ylecun: Trump’s cuts in funding for higher education is reducing the number of PhD candidates and “raising fears that the nation’s capacity to produce new science could be diminished.” https://trib.al/TzuHUm6",
-      "images": [
-        "https://pbs.twimg.com/card_img/2074078198967533568/d_BHlXTT?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@yleun의 RT: 트럼프의 고등 교육 자금 삭감으로 박사 후보자 수가 줄어들고 있으며 “새로운 과학을 생산할 국가의 역량이 줄어들 수 있다는 우려가 커지고 있습니다.” https://trib.al/TzuHUm6",
-      "published_at": "2026-07-09T03:50:03+00:00"
-    },
-    {
-      "id": "x:ylecun:2075061612017508729",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2075061612017508729",
-      "text": "RT by @ylecun: I will present tomorrow our recent work on Crys-JEPA, where we use Joint Embedding Predictive Architectures to learn crystal distributions for materials discovery. https://www.linkedin.com/posts/zhongpc_ai-energymaterials-batteries-share-7464854007417581570-drdn",
-      "images": [
-        "https://pbs.twimg.com/media/HMwZhFgaIAAX9Cf.jpg"
-      ],
-      "summary_ko": "RT @yleun: 저는 내일 Crys-JEPA에 대한 최근 작업을 발표할 예정입니다. 여기서는 공동 임베딩 예측 아키텍처를 사용하여 재료 발견을 위한 결정 분포를 학습합니다. https://www.linkedin.com/posts/zhongpc_ai-energymaterials-batteries-share-7464854007417581570-drdn",
-      "published_at": "2026-07-09T03:36:55+00:00"
-    },
-    {
       "id": "tg:enc210406/4113",
       "source": "telegram",
       "author": "enc210406",
@@ -1493,7 +1495,7 @@
       "url": "https://t.me/enc210406/4113",
       "text": "HD현대중공업 상선 수주 공시\n@ 선종: 탱커(P/C선, MR)\n@ 수량: 6척\n@ 선가: 51.3백만달러/척",
       "images": [
-        "https://cdn5.telesco.pe/file/QnSQ7bbaYeAPxCqIEtYcqJqVFyi5l3OF92yw73cYNuM7QZQPJuFQWv_4RMWhoq1jYFwlNGPPiu7oE27hAk5aL6_NQ4EwjsyNp4010cckxnTSdYWRn-A0EcBN2hd_6ZdTIQxGk9shb5RXMiDC8m8fsaOyRYeNfl5PsN24QjzmeVF_O2R1yCyV9l74GibvW2pb4RgCpeH9l51sSL7aZCIL8Cvwvfhr2ICQIf7h_3hJ6fVTqNu-hf5iJ2ppaMnwVAdQfRglkpuCkmMyXBFLsds0ovXpmxz8FBkoVOzwqe4Go2Zi63C-ipuaKoB2VQmBUARxRxTc-Wt4bu4J996-pBjL2Q.jpg"
+        "https://cdn5.telesco.pe/file/uL7rICMnJX5I63UaiX2Jsdz5S1jVn5a_00YrHbfX3pcj9mhh__DMDWK1HdXn4RARGPg538lL_7IbKK5Bj6KpAIN0UARHFLQRFBxkeBQ4MiGS4GI8PD2RqcAvxxwCEU2ZsDzX0jPQ0W-GOclBOcBTSlcbRQouiK1dhCfjuWlxDM4etYXBsh1GrJOxgBnPLzcx3EDYi9XHMJS6cRKLa3HOpsMvK9mvZUjfGyM18TX4QeKs8dWZg4PZToq3fcdLObMsOenJMcnbAQIBXhaDmVKVOoAynFv3GyHA8LisypK2kUtYPyO7wEwJX3xxB4sP3BaurzCNAoZZd1VYVV1vyfERaw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-09T01:51:27+00:00"
