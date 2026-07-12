@@ -1,22 +1,46 @@
 {
-  "updated_at": "2026-07-12T20:48:50+00:00",
+  "updated_at": "2026-07-12T21:51:05+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 1
+    "new_this_run": 7
   },
   "briefing": {
-    "headline": "트럼프, '호르무즈 해협 개방'",
+    "headline": "이란, 호르무즈 해협 재봉쇄 선언",
     "bullets": [
-      "이란, 호르무즈 해협 재봉쇄 선언",
+      "트럼프: 호르무즈 해협, 상업용 통행에 개방",
       "중국 해저케이블 기술 수출 가속화",
-      "알리바바, CXMT 지분 5% 육박",
-      "LG전자, 엔비디아 'AI 서버 랙' 개발",
-      "일본 해외여행 -9% 감소"
+      "난야테크, 2Q26 실적 소폭 상회",
+      "LG전자, 엔비디아와 AI 서버 랙 개발",
+      "CXMT IPO, 중국 반도체 Capex 새로운 사이클 촉발"
     ],
-    "generated_at": "2026-07-12T20:48:50+00:00",
+    "generated_at": "2026-07-12T21:51:05+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31514",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31514",
+      "text": "[한투증권 중국/신흥국 정정영]  • 'K자형 회복'의 균형 맞출 시도   >> 중국 경제/주식시장의 'K자형' 회복이 지속되고 있습니다. 7월 2분기 GDP 발표 및 정치국회의 전후로 불편한 회복세에 균형을 맞추기 위한 정부 조치를 예상합니다. 가장 부진한 분야는 '가계의 레버리지 심리'입니다. 주식시장 상승과 경제 회복으로 벌어들인 수입이 기존 대출 상환으로 집중되고 있습니다. 정책도구로 삼고 있는 주식시장 측면에서는 홍콩 증시를 자극할 가능성을 주목합니다.…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-12T21:06:36+00:00"
+    },
+    {
+      "id": "x:sama:2076398253332140410",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2076398253332140410",
+      "text": "i'd love to see interesting things people have built with 5.6 sol. i will send the person who made the coolest thing a special gift from the openai archives.",
+      "images": [],
+      "summary_ko": "사람들이 5.6 sol로 만든 흥미로운 것들을 보고 싶습니다. 가장 멋진 것을 만든 사람에게 openai 아카이브의 특별한 선물을 보내드리겠습니다.",
+      "published_at": "2026-07-12T20:08:15+00:00"
+    },
     {
       "id": "tg:EMchina/31512",
       "source": "telegram",
@@ -492,18 +516,6 @@
       "published_at": "2026-07-12T03:43:13+00:00"
     },
     {
-      "id": "tg:EMchina/31501",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31501",
-      "text": "이러면 사이즈가 커지는데  https://naver.me/5Yo63e5R",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-12T03:15:08+00:00"
-    },
-    {
       "id": "tg:HI_GS/6689",
       "source": "telegram",
       "author": "HI_GS",
@@ -762,6 +774,20 @@
       "images": [],
       "summary_ko": "@OpenAI의 RT: GPT-Live가 이제 전 세계 모든 ChatGPT 사용자에게 완전히 출시되었습니다. 또한 주말 내내 모든 사람의 음성 사용 제한을 두 배로 늘려 더 많은 기능을 사용해 볼 수 있습니다. 재미있게 보내세요! 🎉",
       "published_at": "2026-07-11T02:24:43+00:00"
+    },
+    {
+      "id": "x:ylecun:2075755107619344721",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2075755107619344721",
+      "text": "RT by @ylecun: The Well Just Dropped: 15 Terabytes of Pure Physics Gold Is Now Open Source The scientific AI world just got a massive upgrade.Polymathic AI, in collaboration with the Flatiron Institute and researchers from Princeton, Cambridge, NYU, Berkeley, Los Alamos, and more, has released The Well: a staggering 15TB collection of high-fidelity physics simulations. This isn’t toy data. These are real, expensive-to-run simulations across 16 different physical domains, including turbulent fluid dynamics, supernova explosions, magneto-hydrodynamic cosmic flows, acoustic scattering, and active biological matter. Until now, reproducing this level of data required weeks on national supercomputers and grant money most teams will never see. The Well changes everything. It’s purpose-built for training PDE surrogate models the AI systems that can replace slow, costly physics solvers with a single fast neural network forward pass. Everything is fully open source, easy to load with PyTorch, and ready to drop straight into your training pipeline. Researchers and builders can now train on world-class physics data without the insane compute barriers that used to stand in the way. This is more than just another dataset drop. It’s a serious accelerator for scientific machine learning.The future of physics-informed AI just got a whole lot more accessible.Get it here: https://polymathic-ai.org/the_well/",
+      "images": [
+        "https://pbs.twimg.com/media/HM6OTg2bkAA0orC.jpg"
+      ],
+      "summary_ko": "RT by @ylecun: 방금 떨어진 우물: 15테라바이트의 순수 물리학 금이 이제 오픈 소스입니다 과학 AI 세계가 대대적으로 업그레이드되었습니다. Polymathic AI는 Flatiron Institute 및 Princeton, Cambridge, NYU, Berkeley, Los Alamos 등의 연구원과 협력하여 엄청난 15TB의 고충실도 물리 시뮬레이션 컬렉션인 The Well을 출시했습니다. 이것은 장난감 데이터가 아닙니다. 이는 난류 유체 역학, 초신성 폭발, 자기 유체 역학 우주 흐름, 음향 산란 및 활성 생물학적 물질을 포함하여 16개의 다양한 물리적 영역에 걸쳐 실제 실행 비용이 많이 드는 시뮬레이션입니다. 지금까지 이 수준의 데이터를 재현하려면 국가 슈퍼컴퓨터에서 몇 주가 걸렸으며 대부분의 팀에서는 결코 볼 수 없는 자금을 지원받았습니다. 우물은 모든 것을 변화시킵니다. t를 위해 특별히 제작되었습니다.",
+      "published_at": "2026-07-11T01:32:37+00:00"
     },
     {
       "id": "tg:bornlupin/19022",
@@ -1075,20 +1101,6 @@
       "published_at": "2026-07-10T13:52:53+00:00"
     },
     {
-      "id": "x:ylecun:2075574336656994736",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2075574336656994736",
-      "text": "Tired of winning",
-      "images": [
-        "https://pbs.twimg.com/media/HM0k8TFXMAEaTTI.jpg"
-      ],
-      "summary_ko": "승리하는 것에 지쳤습니다.",
-      "published_at": "2026-07-10T13:34:18+00:00"
-    },
-    {
       "id": "tg:globaletfi/20596",
       "source": "telegram",
       "author": "globaletfi",
@@ -1252,18 +1264,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-09T23:51:48+00:00"
-    },
-    {
-      "id": "x:sama:2075354679031067058",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2075354679031067058",
-      "text": "i am really sad about this and very grateful for all fidji has done for openai, and even grateful for her friendship and who she is as a person. we all wish her the best for a speedy recovery. this sucks.",
-      "images": [],
-      "summary_ko": "나는 이것에 대해 정말 슬프고 fidji가 openai를 위해 해준 모든 것에 대해 매우 감사하고 심지어 그녀의 우정과 그녀가 어떤 사람인지에 대해 감사합니다. 우리 모두는 그녀의 빠른 회복을 기원합니다. 이건 짜증나.",
-      "published_at": "2026-07-09T23:01:28+00:00"
     },
     {
       "id": "tg:enc210406/4116",

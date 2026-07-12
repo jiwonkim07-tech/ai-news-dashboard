@@ -1,4 +1,19 @@
 {
+  "telegram:EMchina": [
+    "tg:EMchina/31514",
+    "tg:EMchina/31512",
+    "tg:EMchina/31511",
+    "tg:EMchina/31510",
+    "tg:EMchina/31509",
+    "tg:EMchina/31508",
+    "tg:EMchina/31507",
+    "tg:EMchina/31506",
+    "tg:EMchina/31505",
+    "tg:EMchina/31504",
+    "tg:EMchina/31503",
+    "tg:EMchina/31502",
+    "tg:EMchina/31501"
+  ],
   "telegram:aetherjapanresearch": [
     "tg:aetherjapanresearch/23496",
     "tg:aetherjapanresearch/23495",
@@ -26,21 +41,6 @@
     "tg:bornlupin/19018",
     "tg:bornlupin/19017",
     "tg:bornlupin/19016"
-  ],
-  "telegram:EMchina": [
-    "tg:EMchina/31512",
-    "tg:EMchina/31511",
-    "tg:EMchina/31510",
-    "tg:EMchina/31509",
-    "tg:EMchina/31508",
-    "tg:EMchina/31507",
-    "tg:EMchina/31506",
-    "tg:EMchina/31505",
-    "tg:EMchina/31504",
-    "tg:EMchina/31503",
-    "tg:EMchina/31502",
-    "tg:EMchina/31501",
-    "tg:EMchina/31500"
   ],
   "telegram:globaletfi": [
     "tg:globaletfi/20603",
@@ -78,13 +78,16 @@
     "x:ylecun:2075901143171948894",
     "x:ylecun:2075894629728154054",
     "x:ylecun:2075831487400644766",
+    "x:ylecun:2075755107619344721",
     "x:ylecun:2075744163933380741",
     "x:ylecun:2075732481173844347",
     "x:ylecun:2075644501222367375",
     "x:ylecun:2075604270552932762",
-    "x:ylecun:2075574336656994736"
+    "x:ylecun:2075574336656994736",
+    "x:ylecun:2075192626408575317"
   ],
   "x:sama": [
+    "x:sama:2076398253332140410",
     "x:sama:2076036901824532530",
     "x:sama:2076034163418014199",
     "x:sama:2075985056846451123",
@@ -96,7 +99,8 @@
     "x:sama:2075585386441789605",
     "x:sama:2075579646373216282",
     "x:sama:2075579012223787402",
-    "x:sama:2075354679031067058"
+    "x:sama:2075354679031067058",
+    "x:sama:2075294038648148385"
   ],
   "telegram:enc210406": [
     "tg:enc210406/4125",
@@ -138,7 +142,9 @@
     "x:GoogleDeepMind:2071988054814773713",
     "x:GoogleDeepMind:2071988052478615902",
     "x:GoogleDeepMind:2071988050012303710",
-    "x:GoogleDeepMind:2071988047445438475"
+    "x:GoogleDeepMind:2071988047445438475",
+    "x:GoogleDeepMind:2071876014293045681",
+    "x:GoogleDeepMind:2070300619257106819"
   ],
   "x:GoogleAI": [
     "x:GoogleAI:2075609303029776872",
@@ -225,6 +231,6 @@
     "x:demishassabis:2064873362799600042"
   ],
   "_meta": {
-    "last_x_fetch": "2026-07-12T17:58:10+00:00"
+    "last_x_fetch": "2026-07-12T21:51:04+00:00"
   }
 }
