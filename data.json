@@ -1,22 +1,47 @@
 {
-  "updated_at": "2026-07-12T13:48:14+00:00",
+  "updated_at": "2026-07-12T14:56:48+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 16
+    "new_this_run": 2
   },
   "briefing": {
     "headline": "이란, 호르무즈 해협 재봉쇄 선언",
     "bullets": [
-      "트럼프: 호르무즈 해협, 상업용 통행에 개방",
+      "트럼프: 호르무즈 해협, 상업용 통행에 개방되어 있다",
       "미 중앙사령부: 호르무즈 해협은 국제 수로를 합법적으로 통과하려는 모든 선박에게 개방",
-      "난야테크놀로지 2분기 실적, JP모건 예상 상회",
-      "차세대 HBM4 가격, 2026년 하반기 4~5달러 예상",
-      "알리바바, CXMT 지분 5% 육박"
+      "난야테크놀로지의 2분기 실적은 JPMe 및 컨센서스 상회",
+      "차세대 HBM4 가격은 2026년 하반기 1,000비트당 4~5달러 수준 예상"
     ],
-    "generated_at": "2026-07-12T13:48:14+00:00",
+    "generated_at": "2026-07-12T14:56:48+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19030",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19030",
+      "text": "블룸버그 Mark Gurman\nM7 울트라(Ultra)는 최대 1.5테라바이트의 메모리를 지원하도록 설계되었습니다. 이는 M5 울트라에 계획된 용량의 두 배에 달합니다.\n하지만 애플(Apple)이 최종적으로 해당 구성을 제공할지 여부는 업계 상황에 따라 달라질 것입니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/ANj1OSyyfEZ9NaG9DgdtE5fp7mGOhKn_deKGlH-02hinU3IzcL7KdwXiUrLD0CHfwyHiX0RyVcKLY2zPw2Bcqt3Gmm9Nug0iOEAXyqlDHVSTBSrLaWOwUxw4mb2Zzt0wK4htO5GuCPgVC-6Q63Qy5QCkXyFCviRL6gl4FHddlyPKSG9WO_9ngj0diB3ua3rcJuw2UPgCO4u3JN2YwzYSchTnD7h-Aw9rV2UDEMWxekd-lGPgsHMBHteQXsRa2M0BIW2kqmbmB0buiRSpgDXcezO4FtxFFtpmOiQUZRbydpzfSv2tVQU0pbL_qXTA3vvG1Bnl6bY0VcdZb4L2m6pI2g.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-12T14:11:05+00:00"
+    },
+    {
+      "id": "tg:EMchina/31511",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31511",
+      "text": "누가 CoWoS를 차지하는가\n• AI 대형모델 매개변수 규모 급격하게 확장되면서 전통 2D 패키징은 고대역폭과 높은 연산능력 요구 충족시키기 어려워짐\n• TSMC CoWoS 첨단 패키징 기술은 AI 칩 제조사의 핵심 경쟁 자원. TSMC의 생산확장 가속화 동시에 인텔 EMIB, 삼성 I-Cube 및 ASE 등이 경쟁적으로 대체 방안 마련. 중국 JCET Group 등 기업들도 추격. 첨단 패키징이 미래 AI칩 구조 결정하는 중요한 전장\n谁在抢CoWoS？\n随着AI大模型参数规模急剧膨胀，传统2D封装已难以满足高带宽、高算力需求，台积电CoWoS先进封装技术成为AI芯片厂商的核心竞争资源。台积电加速扩产的同时，英特尔EMIB、三星I-Cube及日月光等竞相布局替代方案。国内长电科技等企业也在奋力追赶，先进封装已成为决定未来AI芯片格局的关键战场。\nhttps://wallstreetcn.com/articles/3776731#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-12T13:53:04+00:00"
+    },
     {
       "id": "tg:EMchina/31510",
       "source": "telegram",
@@ -478,18 +503,6 @@
       "published_at": "2026-07-12T02:31:46+00:00"
     },
     {
-      "id": "tg:EMchina/31499",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31499",
-      "text": "극도로 취약한 미국 시장, 실적 시즌 시작  • 미국 지수는 표면적으로 평온하지만 UBS 시장 취약성 지표는 0.9의 역사적 최고 수준으로 급등  • 2분기 이익 24% 급등 예상되는 '기대감 높은 실적 발표 시즌' 시작.   • 시장 내부 압력 가속화. 단일 종목 변동성은 지수의 세배를 넘었고, 채권 금리는 4.6%에 근접. 유가 상승(브렌트유 가격 80달러 근접)은 인플레이션과 유럽 증시 위협  美股处于“极度脆弱”的时候，财报季开启了 美股指数表面平静（…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-12T01:57:09+00:00"
-    },
-    {
       "id": "tg:HI_GS/6689",
       "source": "telegram",
       "author": "HI_GS",
@@ -867,20 +880,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-10T23:23:55+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19015",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19015",
-      "text": "다음주 일정\n13일:\nTSMC 6월 매출\n, OPEC 원유시장 보고서\n14일:\n미국 6월 CPI,\n연준 반기 의회 보고-케빈워시(~15일),\n중국 6월 무역수지, CITI, 골드만삭스, JP모건, BofA, 웰스파고 실적(장전), AEHR 실적(장후)\n15일:\n미국 6월 PPI,\n연준 베이지북, 중국 2분기 GDP,\nASML,\n블랙락, 모건스탠리, JNJ 실적(장전)\n16일: 한국은행 금리결정 (0.25% 인상 예상), 미국 6월 소매 판매,\nTSMC\n, GE 실적(장전),  넷플릭스, ISRG 실적(장후)\n17일: 미국 7월 소비자심리지수, 기대인플레이션, 한국 휴장",
-      "images": [
-        "https://cdn5.telesco.pe/file/V58ubdbqywMZgep6V713QNJYtCIpr7Kl3zNlbkajbL5ncEUwI8Z55EnnfgTRvOleO2ChxhYSd-_RayFR_JlIWSSGLw11GKFdJ5ifsybnts5cMdai0uGqy-DljcsSIZ_0Fcz8GKZf8p4DJd5zlgIUEFKBG_cMDudyWIIt2Blm44qmFcvDoJZp73V2fmFjW_nQTElDGUDT8tLCJ5lyYmhgQ0j5qopn_FbrSx8ltrASy1PPIQbT5W0MEEHlprhAntxr5OSQXARXgGrcgTyHgj-R4oMyP8ITERayZ5RBrXIxsVjnVJbUq9gfxJtegEXFWAHbvTiFGEaz0O_Haff5GUaPuA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-10T23:05:34+00:00"
     },
     {
       "id": "tg:HI_GS/6682",
