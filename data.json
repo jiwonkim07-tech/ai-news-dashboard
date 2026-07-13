@@ -1,22 +1,46 @@
 {
-  "updated_at": "2026-07-13T22:58:19+00:00",
+  "updated_at": "2026-07-13T23:59:45+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 4
   },
   "briefing": {
-    "headline": "트럼프, 호르무즈 통행료 20% 징수 발표",
+    "headline": "트럼프, 호르무즈 통행료 20% 징수",
     "bullets": [
-      "WTI 유가 +5% 상승",
+      "WTI 유가 5% 상승",
+      "골드만삭스, 메가캡 테크 주의",
+      "JP모건, 노키아 2Q26 프리뷰 강세 전망",
       "인도 인플레이션 17개월만에 목표 초과",
-      "골드만삭스, 코스피 폭락 원인 분석",
-      "JP모건, 메타 2Q26 실적 프리뷰",
-      "노키아, AI 및 클라우드 부문 수주 강세"
+      "삼성, DRAM 20% 인상 추진"
     ],
-    "generated_at": "2026-07-13T22:58:19+00:00",
+    "generated_at": "2026-07-13T23:59:45+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:sama:2076780425280954658",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2076780425280954658",
+      "text": "come for the best model, stay because we don’t treat you with contempt",
+      "images": [],
+      "summary_ko": "최고의 모델을 위해 와라, 우리는 당신을 경멸하지 않으니 머물러라",
+      "published_at": "2026-07-13T21:26:52+00:00"
+    },
+    {
+      "id": "x:sama:2076759971967230419",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2076759971967230419",
+      "text": "that goes hard",
+      "images": [],
+      "summary_ko": "그거 힘들어",
+      "published_at": "2026-07-13T20:05:36+00:00"
+    },
     {
       "id": "x:sama:2076736417498267652",
       "source": "x",
@@ -1335,18 +1359,6 @@
       "published_at": "2026-07-10T18:08:56+00:00"
     },
     {
-      "id": "x:sama:2075641131002700120",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2075641131002700120",
-      "text": "RT by @sama: Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice. Now that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday. We’ve spent the last 24 hours reading feedback, looking at usage patterns, and talking with many of you. The short version is that there is a *lot* of excitement for GPT 5.6 Sol, ChatGPT Work on mobile & web, but also that we didn't get everything quite right. - We made it too easy to use the highest-compute settings without making the impact on usage limits sufficiently clear. - We reorganized the desktop app in one bold move, making familiar things like chats and projects harder to find. - Our launch framing was focused on ChatGPT Work and to some of our Codex fans it made it feel like Codex was going away over time. Absolutely not our intention, we love Codex and it is here to stay. - And we introduced regressions for some existing multi-agent workflows, alongside a collection of rough edges in plugins and other parts of the experience. We’re landing a first set of improvements today. We’re resetting usage twice so people can keep experimenting, changing defaults and the model picker so they don’t push people toward unnecessarily expensive settings, fixing several plugin submission issues, improving how we represent Codex in the product, and cleaning up some of the most immediate desktop problems. A larger set of improvements will land next week. We’re bringing chats and projects back into the sidebar in a more familiar and customizable way, making usage and reset timing much more visible, clarifying when to use ChatGPT Work and when to use Codex, and addressing the many other smaller pieces of great feedback we've had. The ambition behind this launch hasn’t changed. We think bringing ChatGPT and Codex together into a workspace where people and agents can collaborate is a very important step forward. But an ambitious direction doesn’t excuse avoidable confusion or regressions in the first version. Please keep the feedback coming. We’re moving quickly, and you should see the experience already get better with a few updates today; and substantially better again next week.",
-      "images": [],
-      "summary_ko": "@sama님의 RT: 안녕하세요 아름다운 여러분! Codex 및 ChatGPT Work 전반에 걸쳐 사용 제한이 재설정되었습니다. 그리고 또 다른 하나는 그날 나중에 올 것입니다. 가지고 있다. 이제 여러분의 관심을 끌었으니 ChatGPT Work, Codex 및 어제 공유한 모든 업데이트에 대한 빠른 업데이트를 알려드리겠습니다. 우리는 지난 24시간 동안 피드백을 읽고, 사용 패턴을 살펴보고, 많은 여러분과 대화를 나누었습니다. 짧은 버전은 모바일 및 웹에서 GPT 5.6 Sol, ChatGPT Work에 대한 *많은* 기대가 있지만 모든 것이 제대로 이루어지지 않았다는 것입니다. - 사용 제한에 미치는 영향을 충분히 명확하게 하지 않으면서 최고 컴퓨팅 설정을 사용하기가 너무 쉬워졌습니다. - 데스크톱 앱을 과감하게 개편하여 채팅, 프로젝트 등 익숙한 항목을 찾기 어렵게 만들었습니다. - 출시 프레임은 ChatGPT Wo에 중점을 두었습니다.",
-      "published_at": "2026-07-10T17:59:43+00:00"
-    },
-    {
       "id": "x:OpenAI:2075641131002700120",
       "source": "x",
       "author": "OpenAI",
@@ -1399,20 +1411,6 @@
       ],
       "summary_ko": "@GoogleDeepmind 및 @GoogleLabs의 Project Genie에서 스트리트 뷰 접지 기능을 사용하여 지도를 살펴보세요. I/O에서 발표된 이 연구 프로토타입은 @GoogleMaps 스트리트 뷰의 위치를 ​​기반으로 사용하여 텍스트 프롬프트나 실제 시작 장소에서 대화형 360도 가상 환경을 생성하고 탐색할 수 있게 해줍니다. 멋지죠? 하지만… 실제로 어떻게 작동하나요? 🤔 실험 도구로서 Project Genie는 스트리트 뷰 데이터를 활용하여 생성할 세계의 시작점으로 선택한 위치의 360도 뷰를 현실적으로 생성함으로써 \"빈 공간\" 문제(카메라 앞과 뒤의 내용 모두 표시)를 해결합니다. Genie가 생성한 세계는 세계를 기반으로 프레임별로 생성되기 때문에 훨씬 더 역동적이고 풍부합니다.",
       "published_at": "2026-07-10T15:53:15+00:00"
-    },
-    {
-      "id": "x:sama:2075585386441789605",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2075585386441789605",
-      "text": "GPT-5.6 is now the preferred model in Microsoft 365 Copilot https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2075365035069571073/VBf3fQYl?format=jpg&name=800x419"
-      ],
-      "summary_ko": "GPT-5.6은 이제 Microsoft 365 Copilot https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot/에서 기본 모델입니다.",
-      "published_at": "2026-07-10T14:18:13+00:00"
     },
     {
       "id": "tg:enc210406/4123",
@@ -1652,7 +1650,6 @@
       "url": "https://x.com/AnthropicAI/status/2075005777522172146",
       "text": "We’re pleased to have collaborated with AE Studio on this research. Read more here: https://www.anthropic.com/research/off-switch-dual-use",
       "images": [
-        "https://pbs.twimg.com/card_img/2074992264187879424/L3Vw6RM1?format=jpg&name=800x419",
         "https://pbs.twimg.com/media/HMvfPLVa4AAMzDs.jpg"
       ],
       "summary_ko": "우리는 이 연구에 대해 AE Studio와 협력하게 된 것을 기쁘게 생각합니다. 자세한 내용은 여기를 참조하세요: https://www.anthropic.com/research/off-switch-dual-use",
