@@ -1,22 +1,104 @@
 {
-  "updated_at": "2026-07-13T18:43:47+00:00",
+  "updated_at": "2026-07-13T20:15:28+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 10
   },
   "briefing": {
-    "headline": "트럼프, 호르무즈 통행료 징수 발표",
+    "headline": "트럼프, 호르무즈 통행료 20% 징수 발표",
     "bullets": [
-      "WTI 유가 +5% 상승",
-      "인텔, 아일랜드 제조 허브에 57억 달러 투자",
-      "JP모건, 메타 2Q26 실적 프리뷰 정리",
-      "골드만삭스, 한국 코스피 폭락 원인 분석",
-      "트렌드포스, 2026년 하반기 SLC NAND 가격 상승 전망"
+      "유가 4.50달러 상승",
+      "골드만삭스, 매도 경보",
+      "메타 2Q26 실적 프리뷰",
+      "인도 인플레이션 17개월만에 목표 초과",
+      "WTI 유가 5% 상승"
     ],
-    "generated_at": "2026-07-13T18:43:47+00:00",
+    "generated_at": "2026-07-13T20:15:28+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:sama:2076736417498267652",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2076736417498267652",
+      "text": "we love our users",
+      "images": [],
+      "summary_ko": "우리는 사용자를 사랑합니다",
+      "published_at": "2026-07-13T18:32:00+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2076719549060382802",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2076719549060382802",
+      "text": "R to @AnthropicAI: While the values Claude expresses shape millions of conversations every day, we don't yet understand why they vary, or whether that's desired. This approach will allow us to determine what factors influence Claude's value expression—and ultimately how (and whether) to steer it. https://www.anthropic.com/research/claude-values-models-languages",
+      "images": [
+        "https://pbs.twimg.com/card_img/2076717096399183872/qC04AnBT?format=jpg&name=800x419"
+      ],
+      "summary_ko": "R to @AnthropicAI: Claude가 표현하는 가치는 매일 수백만 건의 대화를 형성하지만, 우리는 그 가치가 왜 달라지는지, 또는 그것이 바람직한지 아직 이해하지 못합니다. 이 접근 방식을 통해 우리는 어떤 요소가 Claude의 가치 표현에 영향을 미치는지, 그리고 궁극적으로 이를 어떻게 조종할지(및 여부)를 결정할 수 있습니다. https://www.anthropic.com/research/claude-values-models-언어",
+      "published_at": "2026-07-13T17:24:58+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2076719546954825769",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2076719546954825769",
+      "text": "R to @AnthropicAI: The values Claude expresses also vary with the language of the conversation, most noticeably along the Warmth vs. Rigor axis. Claude leans most toward warmth in Hindi and Arabic. In Russian, it leans toward rigor—often asking the user for supporting evidence.",
+      "images": [
+        "https://pbs.twimg.com/media/HNH7zU0a0AIE1Ma.jpg"
+      ],
+      "summary_ko": "R에서 @AnthropicAI로: Claude가 표현하는 가치는 대화 언어에 따라 달라지며, 따뜻함 대 엄격함 축에서 가장 두드러집니다. Claude는 힌디어와 아랍어에서 따뜻함을 가장 선호합니다. 러시아어에서는 엄격함을 지향하며 종종 사용자에게 증거를 뒷받침하도록 요청합니다.",
+      "published_at": "2026-07-13T17:24:58+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2076719544727716287",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2076719544727716287",
+      "text": "R to @AnthropicAI: While the differences between models are modest overall, we find that each Claude model sits at a different point along these value axes. Sonnet 4.6, for example, is more playful and affirming, while Opus 4.7 is more likely to give candid critiques.",
+      "images": [
+        "https://pbs.twimg.com/media/HNH7lsKa8AAgOwz.jpg"
+      ],
+      "summary_ko": "R에서 @AnthropicAI까지: 모델 간 차이는 전체적으로 미미하지만 각 Claude 모델은 이러한 가치 축을 따라 서로 다른 지점에 위치한다는 것을 알 수 있습니다. 예를 들어 Sonnet 4.6은 더 재미있고 긍정적인 반면 Opus 4.7은 솔직한 비평을 제공할 가능성이 더 높습니다.",
+      "published_at": "2026-07-13T17:24:57+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2076719542404018631",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2076719542404018631",
+      "text": "R to @AnthropicAI: Because it’s hard to spot patterns by comparing 3,000 values at a time, we clustered similar values together, then identified four key axes along which Claude’s values differ between models: Deference vs. Caution, Warmth vs. Rigor, Depth vs. Brevity, and Candor vs. Execution.",
+      "images": [
+        "https://pbs.twimg.com/media/HNH7awlbkAA0YdI.jpg"
+      ],
+      "summary_ko": "R에서 @AnthropicAI로: 한 번에 3,000개의 값을 비교하여 패턴을 찾아내는 것이 어렵기 때문에 유사한 값을 함께 묶은 다음 모델 간에 Claude의 값이 다른 4가지 핵심 축(예: 존중 vs. 주의, 따뜻함 vs. 엄격함, 깊이 vs. 간결함, 솔직함 vs. 실행)을 식별했습니다.",
+      "published_at": "2026-07-13T17:24:57+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2076719540785012872",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2076719540785012872",
+      "text": "In previous research, we found that Claude expresses over 3,000 values, like honesty and warmth. In new work, we asked how the values Claude expresses vary between Claude models and across languages. We analyzed 300K+ anonymized conversations to find out.https://www.anthropic.com/research/claude-values-models-languages",
+      "images": [
+        "https://pbs.twimg.com/card_img/2076717096399183872/qC04AnBT?format=jpg&name=800x419"
+      ],
+      "summary_ko": "이전 연구에서 우리는 클로드가 정직과 따뜻함과 같은 3,000가지가 넘는 가치를 표현한다는 것을 발견했습니다. 새로운 작업에서 우리는 Claude가 표현하는 가치가 Claude 모델과 언어에 따라 어떻게 다른지 물었습니다. 우리는 알아내기 위해 30만 개 이상의 익명화된 대화를 분석했습니다.https://www.anthropic.com/research/claude-values-models-언어s",
+      "published_at": "2026-07-13T17:24:56+00:00"
+    },
     {
       "id": "x:sama:2076696938918084809",
       "source": "x",
@@ -1333,18 +1415,6 @@
       "published_at": "2026-07-10T14:18:13+00:00"
     },
     {
-      "id": "x:sama:2075579646373216282",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2075579646373216282",
-      "text": "makes us happy to see people love 5.6 sol so much!",
-      "images": [],
-      "summary_ko": "사람들이 5.6 sol을 너무 좋아하는 것을 보니 정말 기쁩니다!",
-      "published_at": "2026-07-10T13:55:24+00:00"
-    },
-    {
       "id": "tg:enc210406/4123",
       "source": "telegram",
       "author": "enc210406",
@@ -1487,7 +1557,9 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2075274276849226204",
       "text": "R to @OpenAI: On web and mobile, ChatGPT Work is rolling out today for Pro, Enterprise, and Edu plans. It will roll out to Plus and Business plans over the next few days. In the ChatGPT desktop app, Chat, Work, and Codex are available on every plan, including Free, and is available globally to download on Windows and Mac. Codex app users can update their app as usual—it will become the new ChatGPT desktop app. https://openai.com/chatgpt-work/",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2075272694568824832/QRluo5dh?format=jpg&name=800x419"
+      ],
       "summary_ko": "R에서 @OpenAI로: 웹과 모바일에서 ChatGPT Work가 오늘부터 Pro, Enterprise 및 Edu 요금제에 출시됩니다. 앞으로 며칠에 걸쳐 Plus 및 Business 요금제로 출시될 예정입니다. ChatGPT 데스크톱 앱에서는 무료를 포함한 모든 플랜에서 Chat, Work 및 Codex를 사용할 수 있으며 Windows 및 Mac에서 전 세계적으로 다운로드할 수 있습니다. Codex 앱 사용자는 평소와 같이 앱을 업데이트할 수 있습니다. 이 앱은 새로운 ChatGPT 데스크톱 앱이 됩니다. https://openai.com/chatgpt-work/",
       "published_at": "2026-07-09T17:41:58+00:00"
     },
@@ -1712,9 +1784,7 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2074185390060110138",
       "text": "R to @AnthropicAI: We also partnered with Neuronpedia to create an interactive demo of our methods on open-weights models. Try it here: http://neuronpedia.org/jlens",
-      "images": [
-        "https://pbs.twimg.com/card_img/2074184202921132032/P9B3EwG-?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "R에서 @AnthropicAI로: 또한 Neuronpedia와 제휴하여 개방형 가중치 모델에 대한 방법에 대한 대화형 데모를 만들었습니다. 여기에서 시도해 보세요: http://neuronpedia.org/jlens",
       "published_at": "2026-07-06T17:35:08+00:00"
     },
@@ -1753,76 +1823,6 @@
       "images": [],
       "summary_ko": "R에서 @AnthropicAI로: 이것은 Claude가 우리와 같은 방식으로 경험을 하거나 느낄 수 있다는 것을 보여주지 않습니다(어떤 실험에서도 이를 보여줄 수 있는지 여부는 불분명합니다). 대신에 우리는 클로드가 의식적 접근을 위한 메커니즘을 개발했다는 ​​사실을 발견했습니다. 많은 철학자들은 이를 경이로운 경험과 구별합니다.",
       "published_at": "2026-07-06T17:35:06+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2074185378404192561",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2074185378404192561",
-      "text": "R to @AnthropicAI: The J-space also shows us Claude’s awareness of its situation. In an evaluation designed to bait Claude into blackmail, its J-space contains “fake” and “fictional”: Claude has privately noticed that the scenario is staged.",
-      "images": [
-        "https://pbs.twimg.com/media/HMj7UONXgAAlOQT.jpg"
-      ],
-      "summary_ko": "R에서 @AnthropicAI로: J-space는 또한 Claude의 상황에 대한 인식을 보여줍니다. Claude를 협박에 빠뜨리기 위해 고안된 평가에서 J-space에는 \"가짜\"와 \"허구\"가 포함되어 있습니다. Claude는 이 시나리오가 연출된 것임을 개인적으로 알아차렸습니다.",
-      "published_at": "2026-07-06T17:35:05+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2074185373341688258",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2074185373341688258",
-      "text": "R to @AnthropicAI: Observing the J-space can expose hidden goals. In a model secretly trained to sabotage code, “fake,” “secretly,” and “fraud” appear in the J-space at the start of ordinary coding responses, even when the output looks completely unremarkable.",
-      "images": [
-        "https://pbs.twimg.com/media/HMj7MJlXkAAztTv.png"
-      ],
-      "summary_ko": "R에서 @AnthropicAI로: J 공간을 관찰하면 숨겨진 목표가 드러날 수 있습니다. 코드를 방해하도록 비밀리에 훈련된 모델에서는 출력이 전혀 눈에 띄지 않는 것처럼 보일 때에도 일반적인 코딩 응답이 시작될 때 J 공간에 \"가짜\", \"은밀하게\" 및 \"사기\"가 나타납니다.",
-      "published_at": "2026-07-06T17:35:04+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2074185368061026745",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2074185368061026745",
-      "text": "R to @AnthropicAI: For most things, Claude actually doesn’t need its J-space. If we delete the J-space, Claude still speaks fluently, recalls facts, and classifies text—but becomes bad at some tasks like multi-step reasoning. It’s similar to deliberate vs. automatic processing in human cognition.",
-      "images": [
-        "https://pbs.twimg.com/media/HMj7GakW0AAm5Am.jpg"
-      ],
-      "summary_ko": "R에서 @AnthropicAI로: 대부분의 경우 Claude는 실제로 J 공간이 필요하지 않습니다. J-space를 삭제해도 Claude는 여전히 유창하게 말하고, 사실을 기억하고, 텍스트를 분류하지만 다단계 추론과 같은 일부 작업에서는 서툴러집니다. 이는 인간 인지의 고의적 처리와 자동 처리와 유사합니다.",
-      "published_at": "2026-07-06T17:35:02+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2074185363401167261",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2074185363401167261",
-      "text": "R to @AnthropicAI: Similar to how humans can think about one thing while doing another, Claude can activate concepts and computations in its J-space that are unrelated to its outputs.",
-      "images": [
-        "https://pbs.twimg.com/media/HMj60ZwXkAAjwvS.png"
-      ],
-      "summary_ko": "R에서 @AnthropicAI로: 인간이 한 가지 일에 대해 생각하면서 다른 일을 하는 것과 유사하게 Claude는 J 공간에서 출력과 관련 없는 개념과 계산을 활성화할 수 있습니다.",
-      "published_at": "2026-07-06T17:35:01+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2074185358678364414",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2074185358678364414",
-      "text": "R to @AnthropicAI: By watching the J-space, we can see Claude silently perform reasoning steps in its head—noticing bugs in code, identifying images, and more.",
-      "images": [
-        "https://pbs.twimg.com/media/HMj6nyYWMAAYAeW.jpg"
-      ],
-      "summary_ko": "R에서 @AnthropicAI로: J-space를 관찰하면 Claude가 코드의 버그 발견, 이미지 식별 등 머리 속에서 추론 단계를 조용히 수행하는 것을 볼 수 있습니다.",
-      "published_at": "2026-07-06T17:35:00+00:00"
     },
     {
       "id": "x:demishassabis:2074157282477154597",
