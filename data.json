@@ -1,22 +1,72 @@
 {
-  "updated_at": "2026-07-13T23:59:45+00:00",
+  "updated_at": "2026-07-14T03:21:40+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 4
+    "new_this_run": 5
   },
   "briefing": {
-    "headline": "트럼프, 호르무즈 통행료 20% 징수",
+    "headline": "트럼프, 호르무즈 통행료 징수 발표",
     "bullets": [
-      "WTI 유가 5% 상승",
-      "골드만삭스, 메가캡 테크 주의",
-      "JP모건, 노키아 2Q26 프리뷰 강세 전망",
-      "인도 인플레이션 17개월만에 목표 초과",
-      "삼성, DRAM 20% 인상 추진"
+      "골드만삭스, 기술주 매도 경보",
+      "JP모건, 메타 2Q26 실적 프리뷰",
+      "인텔, 투자 발표",
+      "코스피200 커버드콜 액티브",
+      "유가 상승 전망"
     ],
-    "generated_at": "2026-07-13T23:59:45+00:00",
+    "generated_at": "2026-07-14T03:21:40+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:sama:2076824870072238299",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2076824870072238299",
+      "text": "R to @sama: \"hard questions are great but only if we deem you worthy enough to not silently downgrade you, or even get access at all\"",
+      "images": [],
+      "summary_ko": "R에서 @sama에게: \"어려운 질문도 훌륭하지만, 조용히 당신을 다운그레이드하거나 아예 액세스 권한을 얻지 못할 만큼 가치가 있다고 판단하는 경우에만 가능합니다.\"",
+      "published_at": "2026-07-14T00:23:29+00:00"
+    },
+    {
+      "id": "x:sama:2076824686307271125",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2076824686307271125",
+      "text": "i thought this was satire, kept looking for the handle to be spelled c1audeai or something",
+      "images": [
+        "https://pbs.twimg.com/media/HMzYzrcXMAAeKQI.jpg"
+      ],
+      "summary_ko": "난 이게 풍자인 줄 알았는데, c1audeai 같은 철자가 적힌 손잡이를 계속 찾았어요",
+      "published_at": "2026-07-14T00:22:45+00:00"
+    },
+    {
+      "id": "x:sama:2076823209589313910",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2076823209589313910",
+      "text": "still sorta breaks my brain to see our models be good at design finally",
+      "images": [],
+      "summary_ko": "마침내 우리 모델이 디자인을 잘하는 걸 보니 아직도 머리가 아프네요",
+      "published_at": "2026-07-14T00:16:53+00:00"
+    },
+    {
+      "id": "x:ylecun:2076787500677321146",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2076787500677321146",
+      "text": "RT by @ylecun: Keep in mind that Trump‘s persistent delusion and propaganda that 2020 was stolen is essential pretext to his attempting to interfere in the midterms and 2028. He’s been laying that ground since the day he was reelected. Wake up.",
+      "images": [],
+      "summary_ko": "RT by @yleun: 2020년을 빼앗겼다는 트럼프의 끈질긴 망상과 선전은 그가 중간선거와 2028년에 개입하려는 시도에 대한 필수적인 구실이라는 점을 명심하세요. 그는 재선된 날부터 그 근거를 마련해 왔습니다. 깨우다.",
+      "published_at": "2026-07-13T21:54:59+00:00"
+    },
     {
       "id": "x:sama:2076780425280954658",
       "source": "x",
@@ -42,6 +92,18 @@
       "published_at": "2026-07-13T20:05:36+00:00"
     },
     {
+      "id": "x:demishassabis:2076747075036045645",
+      "source": "x",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2076747075036045645",
+      "text": "RT by @demishassabis: Google's Gemini Omni Flash debuts at #1 on the Artificial Analysis Text to Video and Image to Video Leaderboards, edging out ByteDance's Seedance 2.0 on both Gemini Omni Flash is the first model in Google's Gemini Omni family, unveiled at Google I/O in May and opened to developers in public preview on June 30. Google positions Omni as a natively multimodal model that can \"create anything from any input\", starting with video: it accepts text, images, and video as input, generates clips with native audio, and supports conversational editing, where prompts change a video while preserving the rest of the scene. Gemini Omni Flash generates 3 to 10 second clips at 720p and 24 FPS, in 16:9 or 9:16, with longer durations coming soon. In the Artificial Analysis Video Arena, Gemini Omni Flash debuts at #1 on both the Text to Video and Image to Video Leaderboards, narrowly ahead of ByteDance's Seedance 2.0 on each. Gemini Omni Flash is priced at $0.10 per second of generated video ($6.00 per minute), matching Veo 3.1 Fast. The rate is the same for Text to Video and Image to Video. It is available now in the Gemini API, Google AI Studio, and the Gemini Enterprise Agent Platform, in the Gemini app and Google Flow for consumers, and at no cost in YouTube Shorts and the YouTube Create app. Congratulations to @GoogleDeepMind on the release! See below for comparisons between Gemini Omni Flash and other leading models in the Artificial Analysis Video Arena 🧵",
+      "images": [],
+      "summary_ko": "@demishassabis의 RT: Google의 Gemini Omni Flash는 인공 분석 텍스트-비디오 및 이미지-비디오 순위표에서 1위로 데뷔하여 두 Gemini Omni Flash 모두에서 ByteDance의 Seedance 2.0을 제치고 Google Gemini Omni 제품군의 첫 번째 모델로 5월 Google I/O에서 공개되었으며 6월 30일 공개 미리보기에서 개발자에게 공개되었습니다. Google은 Omni를 \"무엇이든 만들 수 있는 기본 다중 모드 모델\"로 지정합니다. 모든 입력에서\", 비디오로 시작: 텍스트, 이미지 및 비디오를 입력으로 받아들이고, 기본 오디오가 포함된 클립을 생성하고, 나머지 장면을 유지하면서 비디오를 변경하라는 메시지가 표시되는 대화식 편집을 지원합니다. Gemini Omni Flash는 720p 및 24FPS에서 16:9 또는 9:16의 3~10초 클립을 생성하며 더 긴 지속 시간은 곧 제공될 예정입니다. 인공분석영상경기장에서는 Ge",
+      "published_at": "2026-07-13T19:14:21+00:00"
+    },
+    {
       "id": "x:sama:2076736417498267652",
       "source": "x",
       "author": "sama",
@@ -62,7 +124,7 @@
       "url": "https://x.com/AnthropicAI/status/2076719549060382802",
       "text": "R to @AnthropicAI: While the values Claude expresses shape millions of conversations every day, we don't yet understand why they vary, or whether that's desired. This approach will allow us to determine what factors influence Claude's value expression—and ultimately how (and whether) to steer it. https://www.anthropic.com/research/claude-values-models-languages",
       "images": [
-        "https://pbs.twimg.com/card_img/2076717096399183872/qC04AnBT?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2076859811325493248/aK_PKCrt?format=jpg&name=800x419"
       ],
       "summary_ko": "R to @AnthropicAI: Claude가 표현하는 가치는 매일 수백만 건의 대화를 형성하지만, 우리는 그 가치가 왜 달라지는지, 또는 그것이 바람직한지 아직 이해하지 못합니다. 이 접근 방식을 통해 우리는 어떤 요소가 Claude의 가치 표현에 영향을 미치는지, 그리고 궁극적으로 이를 어떻게 조종할지(및 여부)를 결정할 수 있습니다. https://www.anthropic.com/research/claude-values-models-언어",
       "published_at": "2026-07-13T17:24:58+00:00"
@@ -118,7 +180,7 @@
       "url": "https://x.com/AnthropicAI/status/2076719540785012872",
       "text": "In previous research, we found that Claude expresses over 3,000 values, like honesty and warmth. In new work, we asked how the values Claude expresses vary between Claude models and across languages. We analyzed 300K+ anonymized conversations to find out.https://www.anthropic.com/research/claude-values-models-languages",
       "images": [
-        "https://pbs.twimg.com/card_img/2076717096399183872/qC04AnBT?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2076859811325493248/aK_PKCrt?format=jpg&name=800x419"
       ],
       "summary_ko": "이전 연구에서 우리는 클로드가 정직과 따뜻함과 같은 3,000가지가 넘는 가치를 표현한다는 것을 발견했습니다. 새로운 작업에서 우리는 Claude가 표현하는 가치가 Claude 모델과 언어에 따라 어떻게 다른지 물었습니다. 우리는 알아내기 위해 30만 개 이상의 익명화된 대화를 분석했습니다.https://www.anthropic.com/research/claude-values-models-언어s",
       "published_at": "2026-07-13T17:24:56+00:00"
@@ -1085,32 +1147,6 @@
       "published_at": "2026-07-11T16:39:53+00:00"
     },
     {
-      "id": "x:sama:2075982820322025788",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2075982820322025788",
-      "text": "30% of the cost was on fable at these levels of usage?",
-      "images": [
-        "https://pbs.twimg.com/media/HM9NwXhXgAAOjLt.jpg"
-      ],
-      "summary_ko": "이러한 사용량 수준에서 비용의 30%가 우화에 사용되었습니까?",
-      "published_at": "2026-07-11T16:37:28+00:00"
-    },
-    {
-      "id": "x:sama:2075982617976230043",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2075982617976230043",
-      "text": "homeboy you're the one sellling public market investors on short-term space datacenters",
-      "images": [],
-      "summary_ko": "친구야, 단기 우주 데이터센터에서 공개 시장 투자자를 파는 사람이 바로 너야",
-      "published_at": "2026-07-11T16:36:40+00:00"
-    },
-    {
       "id": "x:ylecun:2075954690211148171",
       "source": "x",
       "author": "ylecun",
@@ -1283,18 +1319,6 @@
       "published_at": "2026-07-11T00:19:02+00:00"
     },
     {
-      "id": "x:ylecun:2075732481173844347",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2075732481173844347",
-      "text": "RT by @ylecun: History has seen this movie before. 1880s Late Imperial Russia: Fear of dissent led to tighter control over universities. That alienated students and scholars, weakened trust in the state, and produced more dissent. 1930s Nazi Germany: Fear of disloyalty led to purges, banned ideas, and loyalty tests. That drove out talent, weakened universities, and made the regime even more dependent on loyalty over truth. 1960s China’s Cultural Revolution: Fear of independent thought led to attacks on teachers, schools, and universities. The result was an entire Lost Generation. The spiral: Fear brings control. Control drives out talent. Lost talent weakens education. Weaker education weakens the state. A weaker state becomes more fearful—and tightens control again.",
-      "images": [],
-      "summary_ko": "@yleun의 RT: 역사상 이 영화를 본 적이 있습니다. 1880년대 러시아 제국 말기: 반대 의견에 대한 두려움으로 인해 대학에 대한 통제가 더욱 엄격해졌습니다. 이는 학생과 학자들을 소외시켰고, 국가에 대한 신뢰를 약화시켰으며, 더 많은 반대를 불러일으켰습니다. 1930년대 나치 독일: 불충성에 대한 두려움으로 숙청, 금지된 사상, 충성심 테스트가 발생했습니다. 이는 인재를 몰아내고 대학을 약화시켰으며 정권이 진실보다 충성심에 더욱 의존하게 만들었습니다. 1960년대 중국의 문화대혁명: 독립적인 사고에 대한 두려움이 교사, 학교, 대학에 대한 공격으로 이어졌습니다. 그 결과는 잃어버린 세대(Lost Generation) 전체였습니다. 나선: 두려움은 통제력을 가져옵니다. 통제는 재능을 몰아낸다. 잃어버린 재능은 교육을 약화시킵니다. 약한 교육은 국가를 약화시킨다. 약한 상태는 더욱 두려운 상태가 되며 통제력을 다시 강화합니다.",
-      "published_at": "2026-07-11T00:02:43+00:00"
-    },
-    {
       "id": "tg:HI_GS/6682",
       "source": "telegram",
       "author": "HI_GS",
@@ -1333,18 +1357,6 @@
       ],
       "summary_ko": "생물학 분야의 고급 AI 기능에 대한 보호 장치를 강화하기 위한 지속적인 노력의 일환으로 당사는 Bio Bug Bounty를 OpenAI Bio Bug Bounty 프로그램으로 알려진 지속적인 비공개 프로그램으로 발전시키고 보상을 $50,000로 두 배로 늘렸습니다. 우리는 OpenAI의 프론티어 모델에 대해 사전 정의된 생물 안전 문제를 해결할 수 있는 보편적인 탈옥을 찾기 위해 AI 레드 팀 구성, 보안 또는 생물학적 보안 경험이 있는 연구원을 초대하고 있습니다. https://openai.com/index/bio-bug-bounty",
       "published_at": "2026-07-10T18:25:55+00:00"
-    },
-    {
-      "id": "x:sama:2075646048425431469",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2075646048425431469",
-      "text": "RT by @sama: GPT-5.6 Sol Ultra produced a proof of a 50 year old math conjecture. Unlike the Erdős Unit Distance Problem, this was done with a model publicly available *today*. I look forward to seeing what scientists and researchers are able to do with this model!",
-      "images": [],
-      "summary_ko": "@sama님의 RT: GPT-5.6 Sol Ultra가 50년 된 수학 추측의 증거를 만들어냈습니다. Erdös 단위 거리 문제와 달리 이 문제는 *현재* 공개적으로 사용 가능한 모델을 사용하여 수행되었습니다. 과학자와 연구자들이 이 모델로 무엇을 할 수 있을지 기대됩니다!",
-      "published_at": "2026-07-10T18:19:16+00:00"
     },
     {
       "id": "x:OpenAI:2075643450196971805",
@@ -1650,6 +1662,7 @@
       "url": "https://x.com/AnthropicAI/status/2075005777522172146",
       "text": "We’re pleased to have collaborated with AE Studio on this research. Read more here: https://www.anthropic.com/research/off-switch-dual-use",
       "images": [
+        "https://pbs.twimg.com/card_img/2074992264187879424/L3Vw6RM1?format=jpg&name=800x419",
         "https://pbs.twimg.com/media/HMvfPLVa4AAMzDs.jpg"
       ],
       "summary_ko": "우리는 이 연구에 대해 AE Studio와 협력하게 된 것을 기쁘게 생각합니다. 자세한 내용은 여기를 참조하세요: https://www.anthropic.com/research/off-switch-dual-use",
@@ -1842,7 +1855,7 @@
       "url": "https://x.com/karpathy/status/2073047118801993910",
       "text": "RT by @karpathy: I spent a LOT of time through the hardest 3D prompts at Fable, it is a 45 min video, but I have 60+ very cool demos for you. Also prompts in the next post. https://www.youtube.com/watch?v=rTc2_-1KuRE",
       "images": [
-        "https://pbs.twimg.com/card_img/2073697833124044800/opV-WmNM?format=jpg&name=800x320_1"
+        "https://pbs.twimg.com/cards/player-placeholder.png"
       ],
       "summary_ko": "@karpathy의 RT: 저는 Fable에서 가장 어려운 3D 프롬프트를 통해 많은 시간을 보냈습니다. 45분짜리 동영상이지만 여러분을 위한 60개 이상의 매우 멋진 데모가 있습니다. 다음 포스팅에서도 안내드립니다. https://www.youtube.com/watch?v=rTc2_-1KuRE",
       "published_at": "2026-07-03T14:12:03+00:00"
@@ -2231,20 +2244,6 @@
       ],
       "summary_ko": "인텔은 자본을 늘려야 한다\n\n인텔의 불행은 그 뒤에 있습니다. 막대한 지출이 그들 앞에 놓여 있습니다. 왜 뜨거운 주식 시장에서 주식을 발행하면 인텔이 훨씬 더 빨리 더 나아질 수 있습니까?",
       "published_at": "2026-06-11T14:50:55+00:00"
-    },
-    {
-      "id": "x:demishassabis:2064873362799600042",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2064873362799600042",
-      "text": "Awesome to see this innovation in text diffusion. DiffusionGemma is lightning fast, 4x faster than other Gemma 4 models! Congrats to @bodonoghue85 and the team who worked so hard on this - excited to see what people build with it!",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2064740896940113920/img/J6VbwR74qp0Rt43a.jpg"
-      ],
-      "summary_ko": "텍스트 확산에서 이러한 혁신을 보는 것은 정말 놀랍습니다. DiffusionGemma는 다른 Gemma 4 모델보다 4배 더 빠른 번개처럼 빠릅니다! @bodonoghue85와 이를 위해 열심히 노력한 팀에 축하를 전합니다. 사람들이 이를 사용하여 무엇을 만들 수 있을지 기대됩니다!",
-      "published_at": "2026-06-11T00:52:27+00:00"
     },
     {
       "id": "x:karpathy:2064409694761054332",
