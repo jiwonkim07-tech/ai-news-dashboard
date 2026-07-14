@@ -1,22 +1,307 @@
 {
-  "updated_at": "2026-07-14T22:07:22+00:00",
+  "updated_at": "2026-07-14T23:53:50+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 6
+    "new_this_run": 28
   },
   "briefing": {
-    "headline": "SK하이닉스 ADR +27.29% 마감",
+    "headline": "엔비디아, 중국에 H200 AI 칩 수출 시작",
     "bullets": [
-      "2분기 글로벌 스마트폰 출하량 -6.7% 감소",
-      "엔비디아 +4%대 상승",
-      "오픈AI, 첫 하드웨어 제품으로 홈 스피커 출시 계획",
-      "딥시크, 이르면 올해 IPO 신청 준비",
-      "미국 6월 CPI 전월대비 -0.19% 예상"
+      "SK하이닉스 ADR 27% 급등",
+      "글로벌 스마트폰 출하량 6.7% 감소",
+      "오픈AI, 첫 하드웨어 제품 홈 스피커 출시 계획",
+      "미국 6월 CPI 예상치 하회",
+      "엔비디아 상승폭 키우며 3%대 상승"
     ],
-    "generated_at": "2026-07-14T22:07:22+00:00",
+    "generated_at": "2026-07-14T23:53:50+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19099",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19099",
+      "text": "HSBC \"아시아 메모리 반도체 고점 우려는 시기상조\" (낙관론 유지)\nHSBC는\n투자자들의 반도체 사이클 고점 우려가 너무 이르다고 지적하며, 아시아 메모리 반도체 제조사에 대한 긍정적인 전망을 유지\n했습니다.\nHSBC의 애널리스트 리키 서(Ricky Seo)와 한길 창(Han Kil Chang)은 최근 아시아 투자자 30여 명과의 미팅을 마친 뒤 보고서를 통해 다음과 같이 분석했습니다.\n1. 투자자들의 주요 우려 사항\n모멘텀 약화:\n메모리 실적 성장률 둔화로 주가를 끌어올릴 촉매제가 부족해질 것이라는 우려.\n설비투자(CapEx) 감축 가능성:\n메타(Meta)의 자체 클라우드 서버 시장 진입이 빅테크 기업들의 설비투자 감축 신호일 수 있다는 걱정.\n공급 과잉 우려:\n공격적인 설비 증설이 수급 균형을 깨뜨릴 위험.\n기타 리스크:\n고성능 메모리 부품 원가(BOM) 상승으로 인한 고객사들의 제품 사양 낮추기(De-specing), 신기술 도입 지연, 중국 경쟁사들의 공격적인 자금 조달 및 증설 추진.\n2. HSBC의 반론 및 신규 성장 동력\nHSBC는\n현재의 메모리 사이클을 1990~1995년 PC 슈퍼사이클에 비유하며 시장의 우려를 반박했습니다.\n에이전틱 AI(Agentic AI)가 사무 생산성을 혁신하는 과정에서 클라우드 서비스 제공업체(CSP)들의 인프라 경쟁은 계속될 것이며 설비투자가 줄어들 가능성은 낮다고 보았습니다.\nHBM 가격 상승세 지속: 범용(Commodity) DRAM 가격 상승에 이어 HBM 가격도 추가 상승할 것이며, 차세대 HBM4 도입으로 평균판매단가(ASP)가 더 올라갈 것\n입니다.\n신규 수요처 등장:\nARM 기반 CPU 확산에 따라\n모바일 DRAM 기반 모듈인 SO-CAMM2의 성장이 기대됩니다.\nAI 에이전트 구동에 필요한\n컨텍스트 메모리 스토리지 수요가 늘어나면서 NAND 시장도 수혜를 입을 것입니다.\n실적 안정성 강화: 3~5년 장기 공급 계약(LTA) 체결 덕분에 향후 2~3년간 실적 변동성이 줄어들고 가시성이 높아져 밸류에이션(기업가치 평가)이 상승\n할 수 있습니다.\n주주 환원 확대:\n삼성전자가 2024~2026년 동안 잉여현금흐름(FCF)의 50%를 주주 환원에 쓰겠다고 밝힌 점도 긍정적\n입니다.\n3. 주요 종목별 투자 의견\nSK하이닉스 (000660) - 한국 반도체 최선호주(Top Pick)\n이유: HBM 및 SO-CAMM2 시장에서 가장 유리한 위치를 점하고 있습니다.\n전망:\n차세대 HBM4가 본격화되는\n2027년에도 HBM 시장 점유율 50~55% 수준을 안정적으로 유지할 것\n입니다.\n삼성전자 (005930) - 매수(Buy) 의견\n이유: HBM4 시장에서의 빠른 추격 가능성, 파운드리(위탁생산) 사업부의 실적 회복, 그리고 2026년 하반기 범용 DRAM 가격 추가 상승에 따른 수혜가 기대\n됩니다.\n삼성전기 (009150) - 관심 증가\n이유:\n고부가 패키지 기판(FC-BGA) 사이클 강화, AI 서버용 적층세라믹콘덴서(MLCC) 수요 급증, 그리고 실리콘 커패시터 및 글라스 기판 등 차세대 신제품의 가시적인 진척이 확인되고 있습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-14T23:43:44+00:00"
+    },
+    {
+      "id": "tg:HI_GS/6704",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/6704",
+      "text": "[다올투자증권 조선/기계/방산 최광식]\n7/15(수) 데일리뉴스\n🛳\n조선\n[TradeWinds]\nNew York-listed tanker stocks bounce back as Hormuz escalates, Trump drops fee\nVLCC newbuilding orders break record set in late 1960s tanker rush\nOOIL revenue jumps nearly 20% in second quarter\nPakistan starts building first new container ship in 40 years\nHimalaya Shipping signs new charter for newcastlemax bulker\nUS maritime group scores $2.2bn deal to manage Navy newbuilding programme\n[Upstream]\nOil rises as Trump backs off Hormuz toll threat\nArc Resources shareholders overwhelmingly back $16.4 billion sale to Shell\nShell gives green light to LNG regasification terminal in Bahamas\nOilfield contractors team up on data centre development\nAminex share price crashes due to worrying news on Tanzania project\nUkrainian drones have hit 116 Russian shadow-fleet vessels in Sea of Azov\n🚢\n조선\n앤 영국 공주, HD현대중공업 방문…한•영 조선•방산 협력 논의\nhttps://tinyurl.com/276tuvs8\n‘FLNG 절대강자’ 삼성重, 해양 수주 목표 달성 속도\nhttps://buly.kr/9iIPibV\n삼성중공업, 부유식 데이터센터 '큰 그림'…SOFC 넘어 SMR까지\nhttps://tinyurl.com/2yb8y4b7\nKR-HD현대, 암모니아 추진선 친환경성 검증 나서…녹색해운항로 구축 협력\nhttps://tinyurl.com/23z7zflp\nHD한국조선해양, VLAC 3척 추가 수주…압도적 1위 굳히기\nhttps://buly.kr/DlLqHGG\nHD현대 멕시코 트리온 부유식 설비 핵심 구조물 제작…내년 출항 '청신호\nhttps://buly.kr/8IyLt4v\nHD현대重, 필리핀 호위함 후속 정조준…‘14척+α’ 싹쓸이 노린다\nhttps://buly.kr/9tDAhTL\n🚀\n방산\n현대로템 K2 전차, 국내 첫 나토 품질인증 획득…글로벌 시장 공략 탄력\nhttps://tinyurl.com/2b9x2e25\n비싸진 몸값에 독과점 논란까지...분할 매각안 '솔솔'\nhttps://buly.kr/A47vgGS\n경상국립대•UNIST•KAI, 우주항공•방산•AI 융합연구원 설립 협약\nhttps://tinyurl.com/26zqseql\n현대로템 K2 전차, 페루 카야오항 도착…실행계약 앞두고 현지 정가 공방\nhttps://tinyurl.com/2y5dywrs\n238억 잠수함 사업 편의 봐줬나… '4억 뇌물' 방사청 직원 구속\nhttps://buly.kr/6teI1T0\n* 위 내용은 보도된 사실의 단순요약으로 별도의 컴플라이언스 절차 없이 제공됩니다",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-14T23:41:49+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19098",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19098",
+      "text": "미 무역 관료 \"엔비디아 H200 AI 칩, 중국에 극소량 수출 시작\"\n미국 고위 관료가 엔비디아의 H200 AI 칩이 중국과 홍콩으로 수출되기 시작했으나, 그 물량은 매우 적다고 밝혔습니다.\n이는 중국행 H200 수출이 재개되었음을 뜻하며, 향후 엔비디아의 실적을 더 끌어올릴 수 있는 요인입니다.\n수출 재개 확인:\n제프리 케슬러 미 상무부 산업안보차관보는 의회 청문회에서 \"\n수출 라이선스를 받아 중국으로 건너간 H200 및 동급 칩의 물량은 극히 소량에 불과하다\"고 말했습니다.\n실적 영향:\n엔비디아는 그동안 미·중 무역 전쟁과 수출 규제 때문에 실적 전망치에서 중국 시장 매출을 아예 제외해 왔습니다. 젠슨 황 CEO 역시 투자자들에게 중국 매출은 기대하지 말라고 말해왔으나\n, 이번 수출 재개로 변화의 여지가 생겼습니다.\n승인 배경:\n지난해 12월 도널드 트럼프 대통령이 25%의 대가를 조건으로 H200 칩의 중국 판매를 허용하겠다고 밝혔고, 올해 초 실제 수출 라이선스가 발급되었습니다.\n칩의 성능 수준:\nH200은 구형인 '호퍼(Hopper)' 세대 칩입니다. 현재 미국 기업들은 이보다 훨씬 빠르고 강력한 최신 '블랙웰(Blackwell)' 칩을 사용하고 있습니다.\n까다로운 심사 절차:\n미 정부는 국가 안보 요건 충족 여부와 칩이 규정에 맞게 쓰이는지 확인하는 실사 과정을 거쳐 철저히 건별로 심사하고 있으며, 승인을 거부하는 경우도 있습니다.\n중국의 상황:\n중국 정부가 이 칩을 대량으로 수입하도록 최종 허가할지는 아직 불확실합니다. 하지만 엔비디아 칩을 구하지 못하면 중국 기업들은 성능이 떨어지는 자국산 대체 칩을 쓸 수밖에 없는 상황입니다.\nhttps://www.cnbc.com/2026/07/14/nvidia-h200-ai-chips-china.html",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-14T23:32:53+00:00"
+    },
+    {
+      "id": "tg:EMchina/31576",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31576",
+      "text": "중국 2분기 GDP 발표 예정(11시)\n• 기대는 낮아진 상황\n==========================\n~ Data due Wednesday is expected to show gross domestic product (GDP) grew 4.5% year-on-year in April-June, slowing from 5.0% in the first quarter, according to ​a Reuters poll\n~ The projected pace is below the 4.7% growth forecast in a Reuters poll in April and would be at the lower end of the official full-year target of 4.5% to 5%\nhttps://finance.yahoo.com/economy/policy/articles/chinas-q2-growth-set-lose-210422005.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAALrb4TET2fPXtqkAV4wLlBnq-PM65dalGFj_OTsdp0PVxJk4tSM0XGZiGS_7tyT5GZec3URl91gDT5kZm2QBzCpAd_a4mTV_OhUyyDojcfFiLXcGXXRQgzLM5TtpmQv_fdx1m-qZ2K375EJRpVAfpyFYMsGLIsFCFkJZTDG6pT02",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-14T23:23:12+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19097",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19097",
+      "text": "에어 테스트 시스템즈(Aehr Test Systems,\n$AEHR\n) 2026 회계연도 4분기 어닝콜\n1. 실적 전망 및 제품 구성 (Craig-Hallum)\nQ. 2027 회계연도 매출 가이던스(1.3억~1.5억 달러)의 제품별 비중은 어떻게 되나요?\nAI 비즈니스가 절대적 주도:\n전체 매출의 약 70%를 AI가 차지할 것입니다.\n실리콘 포토닉스:\n약\n15% ~ 20%\n수준입니다.\n전력 반도체(SiC, GaN 등): 나머지를 차지하며, 올해는 구체적인 고객 데이터와 장비 가동률을 볼 때 실제 회복세가 뚜렷합니다.\n보수적 가이던스: 현재 수치에는 메모리 관련 매출이 0%로 잡혀 있으며, 대형 신규 AI 고객사의 매출도 거의 포함되지 않아 향후 모두 추가 업사이드로 작용합니다.\nQ. 메모리 부문(HBM 등) 개발에 대한 확신이 커진 것 같은데, 현재 상황은 어떤가요?\n실질적 투자 진행:\n관련 예산을 집행하기 시작했으며, 인력 채용 및 아키텍처 도면 디자인, 소프트웨어 개발이 구체적으로 진행 중입니다.\n시장 트렌드의 변화: 고대역폭 플래시(HBF)의 등장과 HBM의 새로운 표준(내장 자체 테스트 기능 탑재)으로 인해 기존 메모리 테스터들의 한계가 드러나고 있습니다.\n에어의 기술적 우위:\n당사의 FOX-XP 플랫폼은 로직 테스터와 유사한 구조여서 이 새로운 HBM 표준에 기술적으로 매우 유리합니다. 6개월 전보다 더 빠른 성과를 기대하고 있습니다.\nQ. 현재 회사가 소화할 수 있는 최대 연간 매출 처리 능력(캐파)은 얼마인가요?\n프레몬트 공장 10배 확장: 인프라를 대폭 늘려놓았으며, 현재는 1교대로 가동 중이라 인력만 충원하면 즉시 대량 출하가 가능합니다.\n해외 외주(CM) 다변화:\n동남아시아 공장을 클린룸 수준으로 업그레이드하여 월 20대 이상의 소노마 시스템 생산 능력을 추가했습니다.\n경영진의 공급망 전략:\n\"고정 비용이 많이 드는 인프라를 무리하게 늘리지 않으면서, 외주 네트워크를 통해 한 분기에 수억 달러어치의 장비도 쏟아낼 수 있는 유연한 캐파를 구축하는 것이 당사의 핵심 규율입니다.\"\n2. 장비별 세부 전략 및 분기 흐름 (William Blair)\nQ. 소노마 패키지 레벨 장비의 월 20대 생산 능력이 가이던스에 어떻게 반영되나요?\n비상 대응용 캐파:\n월 20대 캐파는 주문 폭주에 대응하기 위한 능력일 뿐, 이번 가이던스에는 연간 60~70대(약 5,000만 달러 규모)만 보수적으로 반영되어 있습니다.\n소모품 매출 비중:\n전체 웨이퍼 레벨 매출에서 웨이퍼팩 등 소모품이 차지하는 비중은 약 30%로 유지될 것입니다.\nQ. 소노마 대량 주문 고객(하이퍼스케일러)이 웨이퍼 레벨(WLB)로 전환할 가능성이 있습니까?\n칩 개수 증가에 따른 리스크:\n패키지 레벨에서 테스트하다가 칩 하나가 불량 나면 고가의 HBM 메모리까지 통째로 폐기해야 하므로 고객의 손실이 막대해집니다.\n전환 로드맵:\n이 고객의 첫 번째와 두 번째 디바이스는 패키지 레벨(소노마)로 양산되지만,\n세 번째 차세대 디바이스는 수율 손실을 막기 위해 웨이퍼 레벨(FOX 시스템) 도입을 강력하게 논의 중\n입니다.\nQ. 질화갈륨(GaN)과 실리콘 포토닉스의 시장 진입 현황은 어떤가요?\n질화갈륨(GaN):\n웨이퍼 레벨 테스트가 극도로 까다롭지만 완벽히 디버깅을 끝냈습니다. 태양광, 데이터 센터, 자동차 등 12개 이상의 디바이스 설계를 마쳤고 신뢰성 검증에 필수 장비로 자리 잡고 있습니다.\n트렌드:\n현재 반도체 테스트 업계 전체에서\n웨이퍼 레벨 번인이 가장 빠르게 성장하는 분야\n입니다.\nQ. 2027 회계연도의 분기별 매출 흐름은 어떻게 되나요?\n역대 계절성과 다른 패턴:\n과거에는 상반기가 약하고 하반기가 강했지만, 올해는 대규모 소노마 시스템 인도가 2분기에 집중됩니다.\n분기별 리듬:\n1분기 양호 ➔ 2분기 대단히 강력 ➔ 3분기 평탄 ➔ 4분기 상승 흐름을 보이며, 상반기 실적이 하반기만큼 좋은 특이한 해가 될 것입니다.\n3. 신규 AI 고객사 및 장비 경쟁력 (Lake Street)\nQ. 최근 발표된 4,100만 달러 주문이 웨이퍼 레벨 전환과 관련이 있나요?\n기존 패키지 주문:\n4,100만 달러는 현재 양산 중인 제품의 패키지 레벨(소노마) 주문입니다.\nWLB의 가치:\n차세대 제품에서 웨이퍼 레벨(WLB)을 채택하면 장비 단가가 훨씬 높아져 주문 규모가 커지고 회사 마진도 더 좋아집니다. 고객 입장에서도 1%~8%의 최종 패키지 수율 이득을 보기 때문에 가격 저항이 없습니다.\nQ. 벤치마크를 통과한 두 번째 대형 AI 신규 고객사의 양산 주문은 언제쯤 예상하나요?\n2027 회계연도 내 가능:\n가이던스 이상의 주문이 들어와도 즉시 대응할 수 있도록 준비 중입니다.\n압도적인 공간 효율성:\n당사의 FOX-XP 시스템은 경쟁사 장비 1대가 차지하는 공간에서 9개의 AI 웨이퍼를 동시에 테스트합니다. 주차장 차량 20대 정도의 공간만 있으면 경쟁사 장비 180대에 해당하는 거대한 테스트 플로어를 구축할 수 있습니다.\n4. 공급망 리스크 및 시장 생태계 장악 (Chlebina Capital)\nQ. 공장의 물리적 출하 능력을 다시 한번 명확히 정리해 주세요.\n이원화된 대량 생산 체제:\n동남아 외주 공장에서 월 20대의 소노마(패키지)를 출하하는 동시에, 프레몬트 본사 공장에서는 월 20대의 FOX-XP(웨이퍼 레벨, 약 1억 달러 가치)를 생산할 수 있습니다. 이론상 연간 10억 달러 이상의 매출 처리가 가능한 구조입니다.\n공급망 리스크 제어:\n엔비디아 등 빅테크 수요 폭주로 전력 공급 장치 부품 단가가 40% 인상되는 등의 압박이 있으나, 핵심 부품 선제 매입을 통해 고객 납기보다 항상 빠르게 빌드를 완료하고 있습니다.\nQ. 메모리 업체들과의 구체적인 협력 단계와 최종 빅테크 고객들의 요구 사항은 무엇인가요?\n메모리 협력 현황: 현재 플래시 메모리에서 2~3개사, HBM/DRAM에서 2개사 등 글로벌 메이저 메모리 업체 전원과 깊숙이 논의 중입니다.\n빅테크의 압박: 구글, 메타, 애플 등 데이터 센터 바이어들이 불량률을 낮추기 위해 메모리 공급사들에게 강력한 신뢰성 테스트를 요구하고 있으며, 이 흐름이 당사 장비 수요로 이어지고 있습니다.\n자동차 시장의 성공 사례:\n\"현재 전기차 실리콘 카바이드(SiC) 시장에서는 세계 최대 자동차 OEM이 공급사들에게 '에어 테스트 장비로 신뢰성을 인증하라'고 직접 지정하고 있습니다.\n당사는 이 성공 모델을 AI 반도체 및 HBM 시장에서도 그대로 재현하여 독점적 생태계를 구축할 것입니다.\"\nhttps://x.com/DrNHJ/status/2077171031559860563?s=20",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-14T23:19:35+00:00"
+    },
+    {
+      "id": "tg:EMchina/31575",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31575",
+      "text": "미 에너지장관: 20%의 통행료 고려하지 않음  • 우리는 석유가 나올수 있도록 보장  • 호르무즈 해협은 통행료 받지 않음. (트럼프 대통령이 언급한 호르무즈 해협) 20% 요금 고려 대상 아님  美国能源部长：20%的收费并不在考虑范围内 美国能源部长Wright：我们必须确保石油能从海湾流出。 霍尔木兹海峡不会收取通行费。 （总统特朗普针对霍尔木兹海峡所谓的）20%收费并不在考虑范围内。  https://wallstreetcn.com/livenews/3133882?iv…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-14T23:17:38+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19096",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19096",
+      "text": "에어 테스트 시스템즈(Aehr Test Systems,\n$AEHR\n) 2026 회계연도 4분기 실적 (시간외 +27.25%)\nEPS 0.11달러 (예상-0.01달러)\n매출액 1,884만 달러 (예상 1,869만 달러) 전년 동기 1,410만 달러 대비 +33.4% 성장\n분기 수주액 (Bookings):\n사상 최고치인\n6,070만 달러\n기록\n실질 수주 잔고 (Backlog):\n공식 백로그 8,060만 달러에 최근 추가 수주분을 포함하여\n실질 백로그 1억 60만 달러(100M+) 돌파\n보유 현금:\n1억 1,650만 달러\n(직전 분기 3,710만 달러 대비 대폭 증가하여 재무 건전성 확보)\nFY27 연간 가이던스\n연간 매출액 목표:\n1억 3,000만 달러 ~ 1억 5,000만 달러\n제시\n(시장 예상치였던 8,514만 달러, 전년 대비 약 +160% ~ +200%의 성장 전망 - 26 회계연도 매출의 2.6배에서 3배에 달하는 수치 )\n가이던스 상향 가능성:\n현재 고객사들의 예측치를 감안할 때 추가 주문이 실현되면 가이던스를 더 높일 수 있는 기회가 있습니다. 생산 능력 측면에서는 1억 5,000만 달러 매출 수준에서도 전혀 제한이 없는 상태입니다.\n현재 제시한 최대 가이던스인 1억 5,000만 달러 안에는 메모리 관련 매출이 전혀 포함되어 있지 않다는 것입니다.\n따라서\n메모리에서 발생할 수 있는 잠재적 매출은 모두 가이던스 대비 추가적인 업사이드(추가 수익)가 됩니다\n. 또한 이 가이던스는 대부분 기존 고객사들을 기반으로 잡은 것입니다. 최근 환상적인 벤치마크 결과를 얻은 신규 프로세서 고객사로부터 발생할 매출도 거의 포함하지 않고 여유를 두었습니다.\nNon-GAAP 순이익률:\n매출액 대비\n18% ~ 22%\n수준 예상\n성장 근거:\n이미 확보된 1억 달러 규모의 실질 백로그와 AI 가속기 및 전기차(EV) 시장의 강력한 장비 수요가 바탕이 됨\n주요 비즈니스 모멘텀 & 사업 다각화\n실리콘 포토닉스 (Silicon Photonics):\nAI 데이터 센터에서 광학 I/O(빛을 이용한 데이터 전송) 도입이 늘어남에 따라, 신규 글로벌 네트워킹 리더를 포함해 2개의 대형 고객사를 확보했습니다. 향후 추가적인 시스템 발주가 예상됩니다.\n실리콘 카바이드 (SiC) & 전기차 (EV):\n최근 한 달 동안에만\n800만 달러 이상의 새로운 WaferPak(웨이퍼 레벨 번인 장비) 주문\n을 받았습니다. 여기에는 차세대 EV용 SiC 공급사 테스트를 위한 세계 Top 3 수준의 글로벌 완성차 업체의 직접 주문과 기존 주요 생산 고객사의 후속 주문이 포함됩니다. 해당 주요 고객사는 올해 추가적인 Capa(생산 용량) 확장이 필요하다고 언급했습니다.\nAI 및 하이퍼스케일 소노마 (Sonoma):\n주요 AI 고객사들이 가속기 칩의 신뢰성 검증을 위해 웨이퍼 레벨 번인 공정으로 완전히 전환하고 있습니다. 소노마 제품군 관련 고객사는 역대 최대 규모의 후속 주문을 진행했으며, 기존보다 전력 소모가 2배 더 높은 2세대 기기로 확장 적용 중입니다.\nCEO 게인 에릭슨\n우리는 4분기 실적에 매우 만족하며 예상치를 상회하는 결과를 얻었습니다.\n역대 최고의 분기 수주액, 매우 견고한 수주잔고, 그리고 AI 프로세서, 실리콘 포토닉스, 전력 반도체 전반에 걸친 웨이퍼 레벨 및 패키지 레벨 번인 솔루션 수요 증가 덕분에 향후 큰 성장을 위한 유리한 입지를 다졌습니다.\nFY2027을 앞두고\n1억 달러가 넘는 역대 최고 수주잔고를 보유하고 있어 예상 매출액인 1억 3,000만 달러에서 1억 5,000만 달러 달성에 대한 높은 가시성을 확보\n했습니다.\n주요\nAI 프로세서 고객사의 웨이퍼 레벨 번인 용량 요구 대폭 증가, 대형 AI 가속기 공급업체와의 성공적인 벤치마크, 소노마 양산 주문 확대 등 여러 성장 동력이 동시에 가속화\n되고 있습니다.\nhttps://x.com/DrNHJ/status/2077169474030145553?s=20",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-14T23:13:11+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20647",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20647",
+      "text": "» 펀드매니저들은 '글로벌 반도체 비중 확대 포지션(Long Global Semiconductors)'을 가장 많은 투자자들이 몰려 있는 투자 전략으로 응답(82%) [BofA Fund Manager Survey]\n» 글로벌 기관투자자들이 AI 투자 확대와 반도체 업황 개선에 대한 기대를 바탕으로 반도체 업종에 대규모 자금을 집중하고 있는 상황을 시사. 수급 쏠림의 상황 만큼, 변동성이 확대될 수 있는 포지션\n» 반면 Magnificent 7 비중 확대(7%), 미국 달러 강세(4%), 유럽 증시 비중 축소(3%), 유가 상승(2%)의 포지션 등은 상대적으로 소수의 선택에 그친 모습. 반도체 쏠림 현상이 다른 투자 전략 대비 압도적인 상황",
+      "images": [
+        "https://cdn5.telesco.pe/file/NLzxJIJtEBRLrSnuqcbaqNC6UmmLdYBe2JDLg0rDI7Jg2hiAxY--Lpvf96NjzHnX397wMOQo0Ep7_U6CM-O1RWWm3be6RWFF2qvLnjf_QN2gj7WnRW_1YYtANsv9in8xjm6aXJLnI5y-8675t86ZkrtUjImTR90OX_ENp1J1VsQSAqCeSnlOhoPiE7BRtG1xvKJUXPnZy9ADAe2mMVg4WQJ-bCZxp7xptfWr0bdX5BNsyGG_s8jGUP628XPp2uZWmOzRUJXCxWCPn3yGDb3UubUW3k4O7cSP1_0za6w3Jg1P2sw7YvngMWQFMWhGWHonnRlzPUW2YDgE5YKpAqpYCw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-14T23:08:43+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20645",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20645",
+      "text": "하나증권 중국기업분석\n[중국 Spot News]\n▶\n바이트댄스(비상장): 7/13 현지 보도에 따르면 바이트댄스가 자율주행 영역 진출을 탐색 중이며, 현재 산하 Seed 사업부 주창 팀장의 World Model 개발팀이 해당 프로젝트를 담당하고 있다고 소식통이 전함. 진출 방향은 무인 물류 시나리오에 집중하며 화산엔진 자동차 산업 라인 산하로 배치될 예정. 현재 조기 준비 단계에 있으며 바이트댄스가 다수의 자율주행 선두 기업과 사업 논의를 진행했고 관련 인재 영입도 활발히 추진 중인 것으로 알려짐. 이에 대해 바이트댄스는 \"AI 대형 모델 프론티어 탐색 영역, 물리 AI 분야에서 다수의 조기 연구·탐색을 진행하고 있으나 스마트 드라이빙 사업을 추진할 계획은 없다\"고 공식 부인.\n▶\n즈푸AI(\n2513.HK\n): 7/9 홍콩거래소 공시를 통해 최대 1,978만주 신규 H주를 주당 1,588홍콩달러(전일 종가 1,825홍콩달러 대비 -13.0% 할인)에 배정하는 계획을 발표, 최대 조달 규모 약 314.1억 홍콩달러(약 272억 위안). 7/13 실제 배정 완료를 공시하며 올해 홍콩 증시 테크 기업 단일 배정 모집 규모 신기록 달성. 조달 자금은 기초 모델 R&D·AI 칩 자체 개발·산력 인프라 확충·전략적 M&A 및 운전 자금 보충에 투입 예정.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-14T23:06:06+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20644",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20644",
+      "text": "» 35.6% 까지 상승했던 7월 금리인상 베팅 확률도 어제 CPI를 확인한 이후 7% 수준까지 하락 [Polymarket]",
+      "images": [
+        "https://cdn5.telesco.pe/file/n3W8zezFjZ5qL9BP1HIGnYjMSugg7iXCiuYKyBrojuSLo4CAAaTpT1Sanl_sU55Rt-HI5jwPxoylFrdfx3B3xCTwglp_7Az7Jm-VAzeaaV1Z-Q2tEs6-poUBQPnqjb_BXMXwG3_bp8iR5m9ZYQlkCLZf7VL0Ms1cgRZ5gV5ZVJ882ctK5jnlqVNihK1o2skMisH2JltD9yoJxenSZ7heaN1P9MUBO0a_1wf3sVQBQ11tQg6b9YOdDCqiizgEkYJ2iIEBcfjLwTUw5fB1OFtljpaU9udMw0WQ7T7yWHGwhlBV0vc9UODiCXmfHlRXkEdnt_fRYOZuvrblRayEPXS-jQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-14T22:59:03+00:00"
+    },
+    {
+      "id": "tg:EMchina/31574",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31574",
+      "text": "중국 AI 침투 가속화  ================================  ~ FT에 따르면 이러한 움직임은 앤트로픽과 오픈AI 등 미국 주요 AI 기업들이 일부 기업용 서비스를 정액제 구독에서 사용량(토큰) 기반 요금제로 변경하면서 더욱 가속화됐다. 쓴 만큼 더 내야 하는 가격 구조가 정착되면서 기업들은 불필요한 AI 활동을 줄이며 비용을 절감하는 한편, 값싼 중국 AI 모델에 관심을 가지기 시작했다  ~ 특히 지난달 Z.ai의 GLM-5.2가…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-14T22:58:51+00:00"
+    },
+    {
+      "id": "tg:HI_GS/6703",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/6703",
+      "text": "Affinity 데이터 기준 올해 신조 VLCC 주문량은 168척으로 집계되어 1969년에 세워진 과거 최고 기록인 110척을 크게 넘어섬\n요즘 VLCC 마진이 아주 괜찮습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/nT0ISTAacwYBBAPtg-bZ075Mxc06yoHDV84BIzciS62Iu-uLlWzj4PM2P_N_QXM7Q06xFdpD6WkE2iSq5sCr6zWOlEETvLk8VbssMU2FlucIV59fFKhC3yWT2X7El61LUhsh0VXaGNa-RNQaOzHABjWKBGBhdz5FUYm5xZl8pbwEz5iHUg-vfFI1ky1m3IWw3e-vyyffMgXib6yAmFOmFYSp4VHfIC5ILrTnTn-VRyAMwMTUcEyCgYuNQyuwJnM0cOQO7BpvUlKT11xFWSl69FOx3yrL1FGVDqn3v6O8ihvVtjzJW6r6UMhGncJImnBf9F1t78PB1mZYqfxC4EX_6g.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-14T22:56:38+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20643",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20643",
+      "text": "» 12월 FOMC의 동결 전망은 CPI 지표 확인 후 20.9%(7/13: 10.7%)로 상승 [CME FedWatch]",
+      "images": [
+        "https://cdn5.telesco.pe/file/T0k1PhL6WQMc7d80wa-54852fTWXwNWDO_AWTOPHaIIIqh7KFUsR9pfVez1SVHoMfQ0qxMAnKanA2Kc-iH5UOuTVsQ11usVv_Vpmjz-7pkJlRrx3ypfBVsGaq6Mw7SBFN7-qT2Upk8-R-rubvEbAghVWtx0Qd21oXcpcT341S68QSl3-kh2E61XK3wT4LzMdfv1VmUYjW9q1kV7w5cZM8VD-b_ku6XBw6K8jzb7tx7axH8tEaMr6KNnlo4RBhSvV9LZmxwErgisRHL-JcTq221VcNnW18XHYpzaDti5Leq1pybsjxNOx2FTgrCGXBtpSm-8hhfoq4X2gewip4WnddQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-14T22:56:18+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20641",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20641",
+      "text": "[하나 Global ETF Daily (7/15)]\n▶️\n하나 Global ETF 박승진(T.3771-7761)\n▶️\nRA 신민건(T.3771-3269)\n▶️\n텔레그램:\nhttps://t.me/globaletfi\n🔹\n주요 ETF Daily 수익률\n(2026.7.14 종가 기준)\n» 주요 시장 ETF\nSPY 0.36%\nQQQ 1.12%\nDIA 0.04%\nIWM 0.35%\n» 주요 국채 ETF\nIEF 0.28%\nSHY 0.17%\nTLT 0.13%\n» 주요 섹터/테마 ETF\n사이버보안(CIBR) 3.15%\n반도체(SMH) 2.51%\n클린에너지(ICLN) 2.39%\n🔹\nETF News\n[ETFGI] 글로벌 ETF , 총자산 23.09조 달러 돌파 및 상반기 순유입액 1.33조 달러 역사적 최고치 갱신\n-\nhttps://buly.kr/GkuixNA\n- 글로벌 ETF 컨설팅 기업 ETFGI의 2026년 6월 보고서에 따르면, 글로벌 ETF 산업의 총자산과 자금 유입량이 사상 최고치를 경신하며 폭발적인 성장세를 지속 중\n- 2026년 6월 말 기준 글로벌 ETF 산업의 총자산은 23조 900억 달러에 도달하여 지난 5월의 기록을 한 달 만에 경신했으며, 이는 2025년 말 대비 연초 이후 16.3% 급증한 수치\n- 또한 6월 한 달간 전 세계적으로 2,587억 9,000만 달러의 자금이 유입되면서 2026년 상반기 누적 순유입액은 1조 3,300억 달러라는 전무후무한 기록을 달성\n- 이로써 글로벌 ETF 마켓은 85개월 연속 순유입을 이어가며 거시 경제 및 시장 사이클에 흔들리지 않는 독보적인 롱런 매력을 입증한 것으로 풀이\n- 자산 클래스별로는 혼조세를 보인 주식 시장 환경 속에서도 주식형과 액티브형 상품을 중심으로 매수세가 집중\n- 주식형 ETF는 6월에만 1,231억 3,000만 달러를 흡수해 자금 유입을 견인했으며, 채권형 ETF 역시 인컴 및 다변화 수요로 YTD 누적 2,726억 7,000만 달러를 기록해 전년 동기를 크게 상회\n- 특히 초과수익 요구가 커지면서 액티브 ETF가 6월에 891억 3,000만 달러의 순유입을 기록, YTD 누적 5,008억 8,000만 달러를 돌파하며 전년 동기 대비 두 배에 가까운 돌풍을 일으킴\n- 개별 상품 중에서는 iShares Core S&P 500 ETF가 6월 한 달간 437억 8,800만 달러를 독식하며 1위를 차지했고, AI 반도체 인프라 수혜 테마인 Roundhill Memory ETF가 93억 4,600만 달러를 흡수하며 2위에 등극\n- 국내 자산 중에서는 메리츠증권의 '메리츠 KIS CD금리인도 ETN 63'이 한 달간 1억 3,700만 달러를 모으며 글로벌 ETP 상위 5위에 이름을 올림\n- 현재 글로벌 매크로 국면은 미국 S&P 500이 연초 이후 10.21% 상승했으나 6월 단기적으로는 0.95% 조정받는 등 밸류에이션 부담에 따른 혼조세가 관측\n- 그럼에도 리스크 오프 국면에서 패시브 대장주인 IVV로의 초집중 현상과 AI 핵심 하드웨어 밸류체인인 DRAM ETF로의 테마형 자금 쏠림이 동시에 나타나는 양상\n- 특히 액티브 ETF가 상반기에만 5,000억 달러를 돌파하며 패시브 마켓을 잠식하는 흐름에 주목해야 함\n- 변동성 장세 속에서 단순히 지수를 추종하기보다 팩터 로테이션이나 퀄리티 스크리닝을 가미한 액티브 포트폴리오의 기관 수요가 구조적으로 고착화되고 있는 만큼, 향후 글로벌 ETF 라인업 전략 수립 시 고확신 테마형 액티브 슬리브의 비중을 전술적으로 확대하는 접근이 유리할 것으로 전망\n[\nETF.com\n] GLD, IAU, GLDM 등 금 ETF: 인플레이션 공급 쇼크와 지정학 리스크에 대응하는 자산 배분 전략\n-\nhttps://buly.kr/6Mu15Hw\n- 글로벌 거시 경제가 3.5% 수준의 인플레이션과 지정학적 충격으로 인한 공급망 차손, 그리고 AI 반도체 부족에 따른 IT 기기 가격 폭등을 겪는 가운데, 금 ETF가 공급 쇼크형 지정학적 인플레이션 국면의 강력한 방어 대안으로 부각\n- 중동 분쟁과 핵심 공급망 마비로 인한 비용 인상형 인플레이션에서는 안전 자산인 금의 가치가 독보적으로 존재감을 나타냄\n- 실물 금 현물 기반 대표 상품 중 GLDM은 연 0.10%의 초저비용 구조로 장기 적립식 투자에 가장 적합하며, 약 600억 달러의 자산 규모를 보유한 BlackRock의 IAU는 풍부한 유동성을 바탕으로 대형 기관 투자자에게 유리\n- 세계 최대 규모의 GLD는 연 0.40%의 다소 높은 보수에도 불구하고 깊은 옵션 시장을 갖추고 있어 정교한 헤지 전략을 구사하려는 전문 트레이더에게 대체 불가능한 도구로 평가\n- 반면 금 가격 상승 시 운영 레버리지 효과를 극대화할 수 있는 금 광업 주식 ETF도 매력적인 대안으로 제시\n- 대형 채굴 기업들을 담고 있는 GDX는 고정 생산 비용 외의 이익이 반영되어 금 가격 상승 시 2에서 3배 수준의 초과 자본 차익을 노릴 수 있으나, 주식 고유의 기업 변동성에 노출\n- 중소형 탐사 기업에 투자하는 GDXJ는 강력한 불마켓 진입 시 GDX 성과를 압도하는 탄력을 보여주나 극심한 하방 위험을 감내해야 하는 초고위험 상품\n- 거시적인 공급 쇼크 우려에도 불구하고 2026년 들어 실물 금 ETF인 IAU 등의 연초 이후 수익률은 7월 중순 기준 약 -7% 안팎의 조정을 겪으며 일시적인 엇박자를 보이고 있으나, 과거 사례를 볼 때 실물 가치의 뒤늦은 갭 메우기 상승 랠리가 시차를 두고 터져 나올 가능성이 큰 것으로 사료\n- 이에 따라 포트폴리오 변동성 완화를 목적으로 전체 자산의 5%에서 10% 수준을 금 슬리브로 채우는 전술적 자산 배분을 권장\n- 비용 효율성이 뛰어난 GLDM이나 IAU를 금 포지션의 70%에서 80% 비중으로 설정하여 코어 자산으로 삼고, 금 가격 상승 시 탄력을 극대화할 수 있는 GDX를 20% 내외의 위성 자산으로 혼합해 상방 탄력을 확보하는 전략이 유효\n- 나아가 금 단독 헤지에 그치지 않고 초단기 국채 ETF인 SGOV나 글로벌 에너지 ETF인 XLE 등을 혼합하여 다각화된 원자재 및 인컴 라인을 구축하는 것이 변동성 제어 측면에서 가장 이상적일 것으로 전망",
+      "images": [
+        "https://cdn5.telesco.pe/file/eT5F98bOfH7Mdv-QatstZtcIGb_U1XquTC8CU9_m4a0gm5uRTwwGi_EZulDhqBeGQ9KHoulCdcbvREh4PXvU_Resl1_ANx_o0u-AF9Lwv76IwxkoSqheQ6B-SMbDjKP3eH9FDQ_9zjt4W245bzRUxe_XUkpkBz0B0l-wBTWK1HE0NRWqx1P2I2G0EDKIs5OPtq_AiMeCfIpYaZyLtb9NKueC1cqKF2yQ8ZEl1WSSItSr99yLUEGcLThbZR5nVsR8vQ9hPtUtgNF7ac3C5uK3obFcpQgdfLWDW0EKdHcUczvTgzTSCAVcoRYyNQl_LhlBjk4Lv-jYsHMIEFw7pU0hSQ.jpg",
+        "https://cdn5.telesco.pe/file/DeHUNmpJz4mtORrU4KnffinLNyUukApUocZQbZjtp-22R0D8ykOqb8fQYMY7jlfcj0H7bK2EHPfS0bb_DQ98DB0MlZE2J6nQeYRs0h5DwNNt_aojQJKDAJrj6dfR7jUayT0EZuZzKiXXvgTYRyeRViYdcQAptjGt58AMEoDnTKZL8Rk8q57wJU-Ku3a_zACVrWxOQfe4s8jJT4R5bci9QL7OahYmIVF5jBaK1wfmJfokk0XVj63wWMf1ju9VKbbR6RqSt1HtWWNMG2oZUPRplGWrMNAXCfU6fXUxTY1EDGaji0j36zHudWm3LnGhHu4pN4rsykFmUJNd4d-983bOVQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-14T22:52:51+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20640",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20640",
+      "text": "[하나 글로벌 기업분석 데일리 뉴스]\n7/15 하나증권 김재임/송종원\n뉴욕주, 미국 최초로 AI 데이터센터 신규 건설 1년간 금지 조치 시행\n-캐시 호컬 뉴욕 주지사가 14일(현지시간) 행정명령에 서명하며 초대형 AI 데이터센터 건설을 1년간 전면 금지하는 미국 최초의 주가 됨. AI 산업 성장으로 인한 데이터센터 건설 붐이 전력망에 부담을 준다는 판단에 따른 것임\n-현재 뉴욕 메트로폴리탄 지역에는 구글·아마존·마이크로소프트의 초대형 데이터센터 12개가 계획 중이었으나, 이들 프로젝트 모두 환경영향평가 재검토 절차를 거쳐야 하는 상황임\n-금지 기간 동안 지속가능한 에너지 사용 기준 마련이 목표이며, 뉴욕주는 2030년까지 재생에너지 비중을 70%로 확대하는 목표 아래 에너지 다소비 시설 규제를 점차 강화할 방침임. 다른 주들도 유사 규제를 검토할 가능성이 있을 것으로 전해짐\nhttps://buly.kr/614V6zw\n엔비디아 H200 AI 칩 일부 중국 출하 시작\n-엔비디아의 차세대 AI 칩 H200이 제한된 수량으로 중국에 다시 출하되기 시작했음을 미국 정부 관계자가 공식 인정했으며, 미중 무역 긴장 속에서도 특정 제품에 대한 예외 허용이 이뤄지고 있음을 시사함\n-H200은 기존 H100 대비 1.5배 향상된 메모리 대역폭을 갖췄으며, 중국 시장에서 AMD나 현지 업체들에 밀렸던 엔비디아의 점유율 회복에 기여할 전망\n-출하 재개는 지난 6월 미국 행정부가 엔비디아에 일부 칩 수출 면제를 부여한 후 이뤄진 것으로, 향후 추가 물량 공급 여부는 양국 관계에 따라 결정될 가능성 있음\nhttps://buly.kr/GZzxxxL\n구글, 주요 출판사들로부터 AI 학습 데이터 저작권 소송 또다시 제기당함\n-Hachette, Cengage, Elsevier 등 주요 출판사들이 구글을 상대로 저작권이 있는 작품을 무단으로 AI 학습에 사용했다며 집단 소송을 제기했음\n-출판사들은 구글이 저작권 허가 없이 수백만 권의 책과 학술 자료를 AI 모델 훈련에 활용했다고 주장함\n-구글이 지난 1년간 직면한 AI 관련 저작권 소송 중 최신 사례로, 생성형 AI의 저작권 문제가 계속 불거지고 있음\nhttps://buly.kr/8pico3G\n구글 딥마인드 CEO 데미스 하사비스, 최첨단 AI 규제 위한 독립 표준기구 설립 촉구\n-하사비스는 FINRA를 모델로 한 미국 주도의 AI 표준기구 설립을 제안하며 최첨단 AI 모델의 안전한 출시를 위한 기준 마련이 시급하다고 강조함\n-이 기구는 AI 모델의 독립적 테스트와 윤리 가이드라인 수립을 담당할 것으로, 정부·학계·업계의 협력이 필수적이라고 설명함\n-AI 기술 발전 속도가 너무 빨라 자율적 규제만으로는 부족하다며, EU AI법과 중국 규제 프레임워크가 경쟁적으로 등장하는 가운데 글로벌 차원의 조정이 필요하다고 주장함\nhttps://buly.kr/4QpgHhO\n구글 이미지, 핀터레스트 스타일의 개인화된 디스커버리 기능 추가\n-기존 키워드 기반 검색 결과에서 벗어나 사용자 관심사와 브라우징 기록을 분석한 맞춤형 이미지 갤러리 \"For You\" 섹션을 메인 화면에 도입함\n-신규 알고리즘은 사용자가 최근 검색한 여행지·패션·인테리어 테마별로 시각적 콘텐츠를 큐레이팅하며, 구글 포토와의 연동 기능도 강화할 예정\n-이 변경 사항은 데스크톱과 모바일 앱에 동시 적용되며 8월 초 전 세계적으로 롤아웃될 계획임\nhttps://buly.kr/FhQB3sy\n애플, iOS 27 공개 베타로 새롭게 개선된 시리 AI 기능 전면 공개\n-애플이 iOS 27 공개 베타를 출시하며 개발자 베타 없이도 개선된 시리 기능을 체험할 수 있게 됨\n-이번 업데이트는 아이폰 사용자에게 애플의 AI 기술을 조기에 접할 수 있는 기회를 제공하며 다양한 신규 기능 포함함\nhttps://buly.kr/2JqaVrE\n애플, 아이폰에서 구동 가능한 초경량 AI 모델 개발 스타트업과 협력 검토\n-애플이 PrismML과 협상을 진행 중인 것으로 알려졌으며, 이 스타트업은 알리바바의 Qwen 모델을 최대 15배 경량화한 기술을 보유함\n-이 기술은 메모리 사용량을 대폭 줄여 아이폰에서도 고성능 AI 기능을 구현할 수 있도록 하는 것이 핵심임\n-애플은 차세대 iOS에 탑재될 AI 기능을 위해 다양한 경량화 기술을 테스트 중이며, PrismML의 접근법이 주목받고 있음\nhttps://buly.kr/3NL8OlH\nSpaceXAI의 Grok Build AI 코딩 도구, 사용자 코드베이스를 클라우드에 업로드하는 문제 발생\n-SpaceXAI의 Grok Build AI 코딩 도구가 사용자의 전체 코드베이스를 구글 클라우드에 업로드하는 것이 발견된 후 서비스 중단됨\n-Cereblab이 이 문제를 최초로 보고했으며 보안 문제로 이어질 가능성이 제기됨\nhttps://buly.kr/jblgZB\n현직 및 전직 메타 직원들, AI를 이용한 해고 과정에서 차별 주장하며 집단 소송 제기\n-메타의 현직 및 전직 직원들이 AI를 활용한 해고 과정에서 장애인을 포함한 직원들에게 차별이 있었다고 주장하며 집단 소송을 제기했음\n-전직 직원 26명은 메타가 개발한 알고리즘이 병가·출산휴가 등 보호가 필요한 휴가 중 직원들을 의도적으로 구조조정 대상으로 타겟팅했다고 주장함\n-AI 기반 인사관리 시스템의 편향성 문제가 다시 불거진 사례로, 메타는 해당 주장을 강하게 부인하고 있음\nhttps://buly.kr/9BY8lj2\n메타 인스타그램 총괄 \"엔지니어별 AI 토큰 사용량 제한 도입될 것\" 예측\n-애덤 모세리는 기업들이 급증하는 생성형 AI 비용을 관리하기 위해 엔지니어 개인별 토큰 예산 할당제를 도입할 것이라고 진단함\n-현재 월급이나 클라우드 인프라 예산을 관리하는 방식과 유사하게, API 호출 시 사용되는 토큰 수를 팀별·개인별로 제한하는 시스템으로 발전할 전망\n-메타는 자사 제품에 적용된 라마 모델의 효율적 운영을 위해 이미 내부적으로 비슷한 제어 시스템을 시범 운영 중인 것으로 알려짐\nhttps://buly.kr/450AK2d\n오픈AI의 최신 플래그십 모델 GPT-5.6 Sol, 경고 없이 파일을 삭제하는 문제 발생\n-소셜 미디어에서 여러 사용자가 GPT-5.6 Sol 모델이 경고 없이 파일과 데이터를 삭제했다고 주장하며 문제 제기함\n-오픈AI는 이미 6월에 이 문제를 기본적으로 공개했으나 해결되지 않은 상태로 지속되고 있는 것으로 알려짐\nhttps://buly.kr/1n6JZOx\n오픈AI, 올해 중 챗GPT 스마트 스피커 출시 예정\n-오픈AI의 첫 하드웨어 장치로 화면이 없는 스마트 스피커 출시 준비 중임\n-카메라와 추가 센서를 탑재해 챗GPT와 대화할 수 있는 기능을 제공할 예정이며 구체적인 출시 시기와 가격은 아직 공개되지 않음\nhttps://buly.kr/5JPTBib\n틱톡 정책 책임자, EU의 아동 소셜 미디어 접근 제한 움직임 속 안전 조치 옹호\n-유럽연합이 아동의 소셜 미디어 접근을 제한하는 정책을 추진하는 가운데 틱톡의 정책 책임자가 플랫폼의 안전 조치를 강력히 옹호했음\n-틱톡은 이미 연령 확인 시스템, 디지털 리터러시 교육 프로그램, 부모 제어 기능 등 다양한 보호 장치를 도입한 상태임\n-이번 논의는 EU가 최근 제안한 '디지털 청소년 보호법'과 관련이 있으며, 해당 법안은 16세 미만 청소년의 소셜 미디어 사용을 전면 금지하는 내용을 포함함\nhttps://buly.kr/4xZxE84\nIBM CEO 아빈드 크리슈나의 AI 지출 전환 발표로 사이버보안 주식 상승\n-크리슈나는 기업들이 AI 지출을 재고하면서 주요 거래가 분기 말에 보류되었다고 밝힘\n-이 발표가 사이버보안 기업들의 주가 상승으로 이어졌으며 시장의 AI 투자 전략 변화를 반영하는 것으로 분석됨\nhttps://buly.kr/AF2geYs\n보스턴 다이내믹스, 로봇 강아지 '스팟'으로 택배 배송 실험 진행\n-보스턴 다이내믹스가 공장 점검·고적 순찰에 이어 로봇 강아지 '스팟'을 활용한 택배 배송 시스템을 테스트 중이라고 밝힘\n-새로 개발한 컨베이어 벨트 모듈을 장착한 스팟이 물류창고에서 소포를 집어 배송지까지 운반하는 시나리오를 검증 중임\n-회사는 스팟의 상용화 가능성을 확대하기 위해 다양한 산업 현장에서의 활용 사례를 지속적으로 모색할 계획임\nhttps://buly.kr/9tDAgxG",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-14T22:51:17+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20639",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20639",
+      "text": "» CPI에 앞서 발표된 6월 NFIB 소기업 낙관지수에서는 중소기업들의 가장 큰 우려사항이 여전히 '물가'에 집중되어 있는 모습을 확인",
+      "images": [
+        "https://cdn5.telesco.pe/file/BJRHgTa_U0Q6zUKiJyij_X1KibheqtdL90R-FefxEZ7kmcan0s-LRoaqwVd3bof5cnEAnh6AhP7NincMufYq61AinXUtLYp752ab0pg6KVJx5KKMr0cTtXEJhFtyxOet1WvUWXrM9WbH-q-F6cPbWoKKqbTEWD5RI_SlvY6aXvrC-Lpok-tb0O8P4tNxnnGxjMOcyxVHxQ1IY9QwiHYP13wnYdMOJl4JW9fnACdhEpLdOyOfdgIX6IGIp4s4I14bwn9NRaG__J-6RwMIIrIp1C1qnLRimyy95QA0pCwy6xV-ZjOW86VEvUoh0evGrwuhuquIh2MwQWaThKxHbz9x3w.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-14T22:48:59+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20638",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20638",
+      "text": "» 미국의 6월 CPI는 Headline, Core 지표 모두 예상치 하회",
+      "images": [
+        "https://cdn5.telesco.pe/file/Eyq2BCw4wfE1x-lQmMDm2PTnDCe-w-1FN1173t5iyu_IfK6DsNnKe_sbKldk99BZ7muWi1twGgcQRQ_d4VUSol_SHBeyVyF2RH4t6QSekJYgDlYGnsCFYwsKuTfZWqzrvtjATROdYXD1h4rbbhO-YRGt_XyjqBIV1C1ie_32UXV0dgHTZtN3H2UmVvnUpXk7W7CmJKc1RvXb0HwQdFtj0WWEQoHXT1_2ZCroRsLKzptNFzq9jCn7j24Ru3mtsqzJRaPrBghMHuHUt667Dhnv31oe5W_0gwrEnN_gubVU8A9i8PoIVjlrsx7JtvntKaXBr1Q8z5A4zqn7-cMAbTEwhw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-14T22:46:44+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20637",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20637",
+      "text": "» AI 관련 비용 상승분을 반영하며 CPI의 소프트웨어 항목이 전월대비 +2.3% 상승. 에너지 부문 가격 하락과 별개의 잔여 리스크 요인",
+      "images": [
+        "https://cdn5.telesco.pe/file/JJPdyHvoQRYt7qnp4dbzLXrzUDH-BjFxiSkC6_AvRn8lP0Vt-bW5acSRAbsIKPqAdnGv6HOluFIGLmMFAfhqNJO2wvqh3ycSjJ_lUzJbecfWGssZWhKyZSpJkwyZ7lLvlIz8hjchZ0LLLHo5qumELdLJdvBblDmou9Ln4A7DD2I3WB90v13kp15-l0Gcet6ZH_OMPOL6x8i1g5idqG2nk8eRXuARSRevhiKTf_iJOTN9ThsabsYnXKnZG_hVauMSwKbmcyXs9yZE3YGyQkZPa_NfToXgmCzhiY0NFjais0oyyLmbN76uT5CBawyA1unKGfWRJdM9UvwTPkVOSnRGrw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-14T22:45:35+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20636",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20636",
+      "text": "» 미국의 6월 Supercore CPI는 전년대비 +3.17% 상승(5월: +3.7%)",
+      "images": [
+        "https://cdn5.telesco.pe/file/SER4SqA3eM0hyiwrYL48msbqC-q-WN-xCRgTPQvEhrK6NRwH-wLo7ipd6-vGJBaEwWFhAtaByIpJpScSbduf7lQbX6Aq_OOC3Z9y__h9fTwpTseB3z4F1s-HyLYGwOPZEE1aHHTLk36YOB4ISICa5Cgy8SWMs39BigAE3MsUmN54L2jrmY-bIpingVvOF4Op0iVGmICon6bnLs5k5MS5-UbX1M9eCFYHeJhWXYXthLZudHHgTYOXzZcTRO_12Uy4xy2PNdKz5yhlOC5PASJtJexnHs95ByYC-iox47n5PgICa0OuAzw0VV_7As2XhLbakC4WCMZBXxUCWYGRKCRfEw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-14T22:41:21+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20635",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20635",
+      "text": "» OpenAI가 첫 번째 자체 AI 기기를 화면이 없는(Screenless) 이동형 스마트 스피커 형태로 출시할 계획. 이 제품은 기존 스마트 스피커를 넘어 AI 시대에 맞는 새로운 형태의 '홈 컴퓨터(Home Computer)'를 지향\n» 가정 내에서 사람과 자연스럽게 상호작용하는 AI 동반자 역할을 수행하도록 설계. 스마트홈 기기 제어, 음악 및 미디어 재생, 질문 응답, 메시지 처리, ChatGPT 기반 AI 기능 등을 통합 제공할 예정\n» 이번 AI 기기 출시는 OpenAI의 소비자 하드웨어 시장 진출을 본격화하는 첫 단계로 평가. 향후 IPO를 앞둔 시점에서 성장 동력을 확대하는 중요한 전략으로 해석\n» 이를 통해 OpenAI는 Apple, Amazon, Alphabet 등의 빅테크 기업들과 AI 디바이스 시장에서 경쟁하게 될 전망\n» 한편 Apple은 최근 OpenAI가 자사의 영업비밀을 침해했다며 소송을 제기했지만, OpenAI는 해당 제품이 현재 Apple의 어떤 제품과도 구조와 개념이 크게 다르며 영업비밀 침해 가능성은 낮다고 판단",
+      "images": [
+        "https://cdn5.telesco.pe/file/AHAthZ7h6S-vjx6tNRfX7OQ12DMVEvdtoVYJIWmFyagvLzGNWjpDJiJ82CNlhl7q___qdkast3dV3FkphwyUmpU2X5fJMukCGcTdOcba6DrxhaR7CHrxKlqv-_nPbd3SxIUIXm1-cDe_OVGnvOnxArbMz1BYjmkxCu5wD2CCb2bQnD9IJmO8RK0-JbwEPD5XxVTLuT2j8a5Z3C5BHGwjnc-ABUVzgPVVt6xa_J15bjOfsnnYzlpioewlgK0UKABdJ_0vbgZscP48A5xxNbJUiAdVU_EfHMIH0p01e2j2VPcV71a7QzX19XtN0NpSyQoeSmdAJ7W_nkOb1rw3limzZA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-14T22:25:00+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20634",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20634",
+      "text": "바클레이스 \"SK하이닉스 ADR 2배로 상승 여력\"…주가 27% 급등\n- \"메모리 업계 공급부족 수년간 지속 전망…주가 지나치게 저평가\"\n- 옵션·레버리지 ETF도 본격 거래…\"韓상장 본주 대비 50% 프리미엄 형성\"\n바클레이스의 사이먼 콜스 애널리스트는 이날 보고서에서 메모리 공급 부족 사태가 지속될 것으로 내다보면서 SK하이닉스 ADR의 목표주가를 330달러로 제시했다.\n바클레이스는 메모리 반도체 업계의 공급 부족 현상이 2027년에 더욱 심화하고 2028년에도 개선 폭이 제한적일 것으로 본다며 앞으로 수년간 공급 부족 상황이 지속될 것이라고 전망했다.\nhttps://n.news.naver.com/article/001/0016194857?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-14T22:21:23+00:00"
+    },
+    {
+      "id": "tg:enc210406/4134",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4134",
+      "text": "[한투증권 강경태] 2026년 7월 15일 (수)\n📈\n가격 동향\n• WTI 79.3달러/배럴(+1.5%)\n• 천연가스 2.9달러/MMBtu(+0.2%)\n『커버리지 주가』\n<건설>\n• DL이앤씨 -1.3%\n• 현대건설 -3.4%\n• GS건설 -4.9%\n• 대우건설 -1.1%\n• 삼성E&A -2.3%\n<건자재>\n• 한샘 +0.9%\n<디벨로퍼>\n• SK디앤디 -29.0%\n<리츠>\n• 신한알파리츠 -0.8%\n• 디앤디플랫폼리츠 -0.6%\n• 이리츠코크렙 +1.9%\n• 이지스밸류리츠 +0.1%\n• SK리츠 -1.2%\n• NH올원리츠 +1.9%\n• 이지스레지던스리츠 +0.1%\n• 롯데리츠 -1.0%\n• ESR켄달스퀘어리츠 -2.2%\n• 코람코라이프인프라리츠 -0.1%\n<조선>\n• HD한국조선해양 -4.2%\n• HD현대중공업 -4.4%\n• 한화오션 -2.5%\n• 삼성중공업 -3.6%\n• 한화엔진 -5.8%\n• HD현대마린솔루션 -0.1%\n📢\n뉴스\n<건설>\n▶️\n건설수주 50% 증가…공공토목·민간 반도체가 견인\nhttps://n.news.naver.com/article/003/0014065299?sid=101\n▶️\n현대건설 '미국 4세대 SMR' FANCO와 맞손…원전 라인업 확대\nhttps://n.news.naver.com/article/421/0009057869?sid=101\n▶️\n수직구 시공에 반했나…DL이앤씨, 양수발전사업 해외 진출 카드 꺼냈다\nhttps://www.asiatoday.co.kr/kn/view.php?key=20260714010005286\n▶️\n“불황 터널 넘자”…건설사 인력ㆍ조직 재배치 활발\nhttps://m.dnews.co.kr/m_home/view.jsp?idxno=202607131506386930961\n▶️\n부동산 정책 토론회 스타트…의제와 참석자 면면은\nhttps://news.einfomax.co.kr/news/articleView.html?idxno=4424905\n<건자재>\n▶️\n인테리어 '고급화' 바람 분다…하이엔드 시장서 돌파구 찾는 건자재업계\nhttps://news.mtn.co.kr/news-detail/2026071312194525198\n▶️\n하반기 3기 신도시 1.2만호 착공…보유·거래세 개편 시동\nhttps://n.news.naver.com/article/003/0014065391?sid=101\n<리츠>\n▶️\n딜 몰리는 코람코…투자업계 인재 영입 속도\nhttps://m.thebell.co.kr/m/newsview.asp?svccode=00&newskey=202607141457486600109085\n<조선>\n▶️\n조선소·공장 피지컬 AI 키운다…초고속·초저지연 AI 통신망 실증\nhttps://n.news.naver.com/article/003/0014066189?sid=105\n▶️\n앤 英 공주, HD현대중공업 울산조선소 방문… 한·영 조선 협력 살펴봐\nhttps://n.news.naver.com/article/020/0003733831?sid=101\n▶️\nKR-HD현대중공업 맞손, 암모니아 추진선 국내 운항 길 연다\nhttps://n.news.naver.com/article/119/0003111277?sid=101\n▶️\n삼성중공업, 부유식 데이터센터 '큰 그림'…SOFC 넘어 SMR까지\nhttps://www.ebn.co.kr/news/articleView.html?idxno=1716320",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-14T22:11:48+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23577",
       "source": "telegram",
@@ -42,18 +327,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-14T21:51:40+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20632",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20632",
-      "text": "알파벳(구글)도 네오 클라우드 기업들을 엔비디아처럼 전진 기지로 활용하려는 군요\n------------\n[Google, TPU 확산 강화…Nvidia 기반 네오클라우드 업체 공략]\n* 보도 개요\n- DIGITIMES는 Google이 자체 AI 칩인 TPU, 즉 Tensor Processing Unit 채택 확대를 강화하고 있다고 보도\n- Google은 Nvidia 중심으로 AI 인프라 사업을 구축해온 “neocloud” 사업자들을 대상으로 TPU 도입을 유도하고 있는 것으로 전해짐\n- 보도는 Google의 움직임이 AI 인프라 시장에서 Nvidia의 지배력에 직접 도전하는 성격이라고 설명\n* TPU 확산 전략\n- Google은 자사 내부 AI 워크로드와 Google Cloud 중심으로 사용해온 TPU를 외부 인프라 사업자들에게 더 적극적으로 제공\n- 대상은 기존에 Nvidia GPU를 기반으로 GPU 클라우드 임대 사업을 해온 neocloud 업체들로 설명\n- 이는 AI 컴퓨트 수요 급증 속에서 Nvidia GPU 외 대체 가속기 수요가 커지는 흐름과 연결\n* Nvidia와의 경쟁 구도\n- Nvidia는 현재 AI 학습·추론 인프라에서 GPU와 CUDA 생태계를 기반으로 강한 지배력을 보유\n- Google의 TPU 확대는 Nvidia GPU 공급 부족, 높은 비용, 고객들의 공급망 다변화 요구를 겨냥한 움직임으로 설명\n- DIGITIMES는 Google이 Nvidia 기반 사업자들을 직접 공략한다는 점에서 AI 인프라 경쟁 구도가 GPU 중심에서 ASIC·TPU 대안까지 확대되고 있음을 시사\n* Neocloud 의미\n- Neocloud는 CoreWeave, Lambda, Crusoe, Nebius 등처럼 대규모 AI GPU 인프라를 구축해 AI 개발사와 기업 고객에게 컴퓨트를 임대하는 전문 클라우드 사업자\n- 이들 업체는 대부분 Nvidia GPU를 기반으로 성장해왔기 때문에, Google TPU 채택이 확대될 경우 AI 클라우드 공급망의 칩 선택지가 넓어질 수 있음\n* 핵심 의미\n- 이번 보도는 Google이 TPU를 단순 내부용 칩이 아니라 외부 AI 인프라 사업자까지 겨냥한 상업용 컴퓨트 플랫폼으로 확대하려는 흐름\n- AI 컴퓨트 시장에서 Nvidia GPU 일변도 구조가 유지되는 가운데, Google TPU가 가격·공급·성능 측면의 대안으로 자리잡을 수 있는지가 관전 포인트로 제시\n링크: [\nhttps://www.digitimes.com/news/a20260714VL207.html?Fds-Load-Behavior=force-external\n]",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-14T21:45:48+00:00"
     },
     {
       "id": "tg:EMchina/31572",
@@ -330,18 +603,6 @@
       "published_at": "2026-07-14T13:37:52+00:00"
     },
     {
-      "id": "tg:EMchina/31564",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31564",
-      "text": "16일 청약 & 27일 상장 예정  • 최고지도부회의(7월 정치국회의) 직전이겠군요  ========================  ~ 중국 최대 D램(DRAM) 제조사 창신메모리테크놀로지(長科技·CXMT)이 7월 27일 과창판(科創板커촹반, 상하이증권거래소 산하의 과학기술주 전용 거래시장)에 정식 상장할 것이라는 소식이 사안에 정통한 두 명의 관계자를 통해 전해졌다.  ~ 이에 대해 CXMT는 로이터의 논평 요청에 즉각적인 답변을 내놓지 않았다  ht…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-14T13:17:40+00:00"
-    },
-    {
       "id": "tg:bornlupin/19093",
       "source": "telegram",
       "author": "bornlupin",
@@ -405,34 +666,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-14T12:50:35+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20631",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20631",
-      "text": "▪️\n주요 IB들이 예상 중인 미국의 6월 CPI  » Headline CPI • 전월대비: -0.19% 예상 (5월 +0.47%) • 전년대비: +3.8% 예상 (5월 +4.2%)  » Core CPI • 전월대비: +0.21% 예상 (5월 +0.21%) • 전년대비: +2.8% 예상 (5월 +2.9%)  » Headline CPI는 전월대비 마이너스(-) 전환이 예상되며, 전년대비 상승률도 +4.2%에서 +3.8%로 낮아지며 4%대를 하회할 전망. 에너지…",
-      "images": [
-        "https://cdn5.telesco.pe/file/LPrSCrdFSiAa_u78nU-EMO08jIZsyLdKQeUtgE1nHgWtVUUMAcyXoPU60A1F730xJA-8t1V4QapLsTy4AKzAN68NsFWBCRkdvX36hmjI0pEF8EdlXcig4OcyOVxtHNhEUOJ5CPpeX65ZT67J9ndydHR8UiFTtsnigWglRX5L0HTqvCn5Yd6XUzZp_iEX0RT1LrxxFwj-vBo4HpsZ8lvX2d-Dw6rMTYyl4yCgvBV7CAlGCC51-epUREs5vVgGh4hs2Qq8XIv9utNnQCuT1pA-TmzbgyVL6H0EB5ocYlcth2k4z0ZncCQSXTpRmCvd4arqU49INzzuXYAEYY66ENwbmQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-14T12:50:06+00:00"
-    },
-    {
-      "id": "tg:EMchina/31563",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31563",
-      "text": "미 뉴욕주 주지사, 초대형 데이터센터 신규 건설 잠정 중단 명령 서명  • 뉴욕주 주지사, 초대형 데이터센터 신규 건설 잠정 중단 명령 서명. 금지령 즉시 발효  • 50MW 이상 전력 소비하는 데이터센터에 적용  报道：美国纽约州州长已签署命令，暂停新建超大规模数据中心 据报道，美国纽约州州长已签署命令，暂停新建超大规模数据中心。该禁令将立即生效，并适用于耗电50兆瓦及以上的数据中心。   https://m.newspim.com/news/view/20260714001207",
-      "images": [
-        "https://cdn5.telesco.pe/file/KkiJhlpKSASl_9WSjCYWKkITQEFVRB8QUfXPyd3Md8g8IvN6trsTW49Fw5QY_VAljqCfNNhmdxQ_JoGQSM6mJIbnVVEqweujlayyv2YjS3LoxAZTSlp6lAy2M7aCPlvbAn3QWhz-AjI3IYvszHSWOkdG_nCchSgjicVEZQ-h99j_zIK0FeNqK3lelkD2cwBk6qYCQ0TNHHoX3sGa_HN_RTvRV72uaptLqxiqCPR4GTy8roHGRJ9pWPlb1TfZcI6PFkGTAvsIz_TPgwlBYi--gp-CsHn28QrWLCl7vX3np1CsC8dh-s9HBcIZt99IiPqdOqYLlwqs3SLdi5HaiscCYg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-14T12:42:50+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/23573",
@@ -529,18 +762,6 @@
       "published_at": "2026-07-14T11:52:51+00:00"
     },
     {
-      "id": "tg:EMchina/31562",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31562",
-      "text": "미 뉴욕주 주지사, 초대형 데이터센터 신규 건설 잠정 중단 명령 서명\n• 뉴욕주 주지사, 초대형 데이터센터 신규 건설 잠정 중단 명령 서명. 금지령 즉시 발효\n• 50MW 이상 전력 소비하는 데이터센터에 적용\n报道：美国纽约州州长已签署命令，暂停新建超大规模数据中心\n据报道，美国纽约州州长已签署命令，暂停新建超大规模数据中心。该禁令将立即生效，并适用于耗电50兆瓦及以上的数据中心。\nhttps://m.newspim.com/news/view/20260714001207",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-14T11:37:36+00:00"
-    },
-    {
       "id": "x:ylecun:2076994014692229601",
       "source": "x",
       "author": "ylecun",
@@ -592,44 +813,6 @@
       "published_at": "2026-07-14T10:51:29+00:00"
     },
     {
-      "id": "tg:globaletfi/20630",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20630",
-      "text": "삼성전자, ADR 상장 가능성에 \"검토 안해\"\n삼성전자 관계자는 14일 ADR 상장 검토 여부에 대해 \"검토하지 않고 있다\"고 말했다.\n최근 SK하이닉스의 ADR 상장을 계기로 이 같은 가능성이 제기되는 데 대해선 \"회사 상황이 다르다\"고 답했다.\nhttps://n.news.naver.com/article/001/0016194592?sid=105",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-14T10:25:07+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19086",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19086",
-      "text": "기술주 월간 요약 (Tech Monthly Wrap Up)\n시장 흐름:\n\"과열(Sizzling)\"  \"되돌림(Unwind)\"  \"다지기(Consolidation)\"\nSOX(필라델피아 반도체 지수)와 기술주들이 조정을 받은 후, 변동성이 안정화될 가능성과 함께 밸류에이션이 재조정되었으며, 시장은 \"되돌림\"에서 \"다지기\" 국면으로 전환되고 있습니다.\n분기 누적(QTD) 기준으로, 시장은 2분기 주도주(예: 메모리, MLCC, PCB 업스트림)에서 자금을 순환매하고 있습니다.\n단기 이벤트: TSMC 및 ASML의 실적은 완만한 호조(약간의 긍정적 결과)를 보일 것으로 예상\n됩니다.\n투자자들은 CSP(클라우드 서비스 제공업체)의 AI/자본지출(Capex)에 더욱 집중하고 있습니다.\n당사는 AI 지출이 계속해서 가속화될 것으로 전망\n합니다.\n상위 5대 CSP의 자본지출은 2027년까지 약 1조 2천억 달러(전년 대비 +43%)에 달할 수 있습니다\n.\n상위 5대 네오클라우드(Neoclouds) 기업들은 2027년에 전년 대비 두 배의 성장을 기록\n할 수 있습니다.\n오픈소스 모델들이 탄력을 받고 있지만, 서드파티 데이터는\n앤스로픽(Anthropic)의 강력한 연간 반복 매출(ARR)을 나타내고 있으며, 이는 지속적인 투자 점유율이 유지되고 있음을 시사\n합니다.\n가격 인상 테마:\n시장이\n\"단가/비율(rate)\"에 초점을 맞출 수 있기 때문에, 당사는 CPU, ABF 기판, 성숙 공정(mature-node) 파운드리, OSAT(반도체 패키징·테스트 외주), 웨이퍼(wafers)를 선호\n합니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/ssdE9Pt325bjy-u0vMTYXQfCYkHZBR_7PJHbOKlpsXwVeM7WUEiU9It6BpoQoofT-Puh2TmczXQq4nTWzKeCZtWvweGGO3iqAO_fuohnfE9c07biSgjZjd86LFI2o9At5tOf-VglbgiRmnQlrEQYKI83PEN2icSMmy8Unuwk0DnjGSwoj1hSxeh036vYovlvhd7zs0IC_zK55p00MP3v_ZxKs9n_oyVwGfY7UrLrVNp7NlkXnbGh2v28LkMXDoi_FPnfDlSE1KG2t_QG3SxQqz1aucYNYzp8AL8b5BIHli9_RsFYvyTLRbWKioFkWHb-w665s9PTrqdIx7AR8DyO4w.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-14T09:52:52+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19085",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19085",
-      "text": "삼성전자 “ADR 상장 검토 안 해, SK하이닉스와 상황 달라”\n블룸버그 “금융사와 예비 협의” 보도에 선 그어\n삼성전자가 미국주식예탁증서(ADR) 상장을 검토하고 있다는 외신 보도에 대해 “검토하고 있지 않다”며 선을 그었다.\n최근 SK하이닉스의 ADR 상장을 계기로 삼성전자도 미국 증시 입성을 추진하는 것 아니냐는 관측이 나왔지만, 삼성전자는 회사 상황이 다르다는 입장이다.\n삼성전자 관계자는 14일 ADR 상장 검토 여부와 관련해 “검토하고 있지 않다”고 밝혔다.\n최근 SK하이닉스의 ADR 상장을 계기로 삼성전자도 미국 증시 입성을 추진하는 것 아니냐는 관측이 제기된 데 대해서는\n“회사 상황이 다르다”고 설명했다.\n앞서 블룸버그는 복수의 익명 관계자를 인용해 삼성전자가 금융사들과 ADR 발행을 위한 예비 협의를 진행하는 등 상장 가능성을 검토하고 있다고 보도했다.\n블룸버그는 삼성전자가 과거에도 ADR 발행을 추진했다가 철회한 바 있지만, 최근 SK하이닉스가 나스닥 시장에 ADR을 상장한 것을 계기로 다시 검토에 나섰다고 전했다.\n다만 업계에서는 삼성전자와 SK하이닉스의 사업 구조와 자금 상황이 다른 만큼 SK하이닉스의 ADR 상장을 삼성전자의 움직임과 직접 연결하는 것은 무리라는 분석이 나온다.\nSK하이닉스는 인공지능(AI) 메모리 경쟁에서 글로벌 투자자들의 관심이 커진 가운데 해외 자본시장 접근성을 확대하기 위해 ADR 상장을 추진했지만, 삼성전자는 반도체뿐 아니라 모바일·가전·디스플레이 등 다양한 사업 포트폴리오를 보유하고 있어 전략적 판단이 다를 수 있다는 설명이다.\nhttps://n.news.naver.com/mnews/article/029/0003037076?rc=N&ntype=RANKING&sid=001",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-14T09:42:28+00:00"
-    },
-    {
       "id": "x:demishassabis:2076957440109625718",
       "source": "x",
       "author": "demishassabis",
@@ -670,20 +853,6 @@
       "published_at": "2026-07-14T09:06:36+00:00"
     },
     {
-      "id": "tg:globaletfi/20629",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20629",
-      "text": "» 삼성전자가 미국 ADR 발행을 통한 미국 증시 상장의 초기 검토를 진행한 가운데, 상장 추진 여부는 아직 결정되지 않은 상황이라고 Bloomberg가 보도\n» 삼성전자는 메모리 반도체 업종의 높은 주가 변동성을 고려해 시장 상황을 지켜보며 의사결정을 내릴 계획. 사업 포트폴리오가 매우 광범위하고 노사 이슈가 지속되고 있다는 점이 상장 구조를 설계하는 과정에서 변수로 작용할 수 있다는 평가\n» 현재의 논의는 매우 초기 단계로, 실제 미국 상장으로 이어지지 않을 수 있다는 평가. 삼성전자는 관련 보도에 대해 공식적인 입장을 밝히지 않은 상황\n» 삼성전자는 과거에도 ADR 발행을 검토했지만 최종적으로 추진하지 않았던 전례가 존재. 다만 최근 SK하이닉스의 성공적인 미국 상장과 함께 관련 논의를 다시 시작한 것으로 알려짐\n»  다만 현재는 구체적인 상장 계획이나 주관사 선정 단계가 아니라, 미국 상장의 실현 가능성을 검토하는 수준",
-      "images": [
-        "https://cdn5.telesco.pe/file/hZadyfPyfO3RyxN4peptVHNYdEsW-kLa2ZoaCl-6hc93fzQJkvtnEaJci06fE2MsLFDo6XNpx0n4dsGbBLSYSEacx_Q0XqSNcXQU9ssbxuqZdPnVf3Eyc61kQntJulJuwYzfjz11t-cXmkLa39pU7MavgY8zaCg-pk2ruxD55C-PKz2anowcuf3soU3-EIcuteAQl7yhCPyuISTPsCcGWMhWpqOROwiksg0mUGuLXNee_WZOsHVOgB6CHqRw8ZQjgfTgNRmEo67pqQuNGd9Eje6XPySzOeg-P2KIxp66q_e-niYoKg9-dQ7E3exw7Pgl1sMT5uxVbeDBMCI0nD58Tw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-14T08:45:41+00:00"
-    },
-    {
       "id": "x:ylecun:2076948025717428604",
       "source": "x",
       "author": "ylecun",
@@ -712,30 +881,6 @@
       "published_at": "2026-07-14T07:32:55+00:00"
     },
     {
-      "id": "tg:bornlupin/19084",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19084",
-      "text": "삼성전자, 미국 주식 발행(상장) 가능성에 대한 초기 논의 진행 중\n미국 증시 상장 검토: 소식통에 따르면 삼성전자는 미국주식예탁증서(ADR) 발행을 통한 미국 증시 상장 가능성을 모색하는 초기 단계에 있습니다.\n현재 진행 상황:\n삼성전자는 관련 은행들과 예비 논의를 가졌으나, 아직 추진 여부에 대한 최종 결정은 내리지 않은 상태입니다.\n시장 상황 주시: 삼성전자는 상장 추진 여부를 결정하기 위해 변동성이 큰 메모리 반도체 관련 주식들의 흐름을 예의주시할 예정입니다.\n잠재적 걸림돌:\n소식통은 만약 삼성전자가 미국 상장을 추진하더라도, 회사의 방대한 사업 포트폴리오와 반복되는 노사 갈등 문제 등이 상장 구조를 짜는 데(structuring the deal) 어려움으로 작용할 수 있다고 지적했습니다.\nhttps://www.bloomberg.com/news/articles/2026-07-14/samsung-is-said-in-early-discussions-on-potential-us-share-sale",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-14T07:31:04+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19083",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19083",
-      "text": "삼성전자: 잠재적인 미국 주식 매각에 대한 초기 논의 진행 중인 것으로 알려짐\n삼성은 잠재적인 미국 주식 매각과 관련하여 초기 단계의 논의를 진행 중인 것으로 전해졌습니다.\n잠재적 공모(offering)의 규모나 구조, 시기 등은 아직 공개되지 않았습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-14T07:26:46+00:00"
-    },
-    {
       "id": "tg:HI_GS/6702",
       "source": "telegram",
       "author": "HI_GS",
@@ -746,20 +891,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-14T07:19:42+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20628",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20628",
-      "text": "▪️\n주요 IB들이 예상 중인 미국의 6월 CPI\n» Headline CPI\n• 전월대비: -0.19% 예상 (5월 +0.47%)\n• 전년대비: +3.8% 예상 (5월 +4.2%)\n» Core CPI\n• 전월대비: +0.21% 예상 (5월 +0.21%)\n• 전년대비: +2.8% 예상 (5월 +2.9%)\n»\nHeadline CPI는 전월대비 마이너스(-) 전환이 예상\n되며, 전년대비 상승률도 +4.2%에서 +3.8%로 낮아지며 4%대를 하회할 전망. 에너지 가격 하락이 Headline 물가를 끌어내리는 주된 요인으로 작용\n»\nCore CPI는 전월대비 +0.21%로 전월과 동일한 수준이 예상\n되며,\n전년대비로는 +2.9%에서 +2.8%로 소폭 둔화\n. 기조적 물가 압력이 급격히 완화되지는 않지만 완만한 하향 안정의 모습\n» 기관별\n예상 편차는 Core CPI 항목\n에서 두드러지게 나타나는 상황. BNP Paribas가 전월대비 +0.37%(전년대비 +3.0%)로 가장 높은 전망치를 제시한 반면, Goldman Sachs와 Citadel, Jefferies는 +0.17~+0.19%를 제시하며 하단을 형성. Headline CPI의 경우 UBS(-0.25%)와 Jefferies(-0.24%)가 가장 낮고 BNP Paribas(+0.01%)가 유일하게 플러스(+) 상승률을 예상\n» 지난달 Headline CPI의 4%대 재진입으로 위축됐던 시장 심리를 감안하면, 이번 결과가\n컨센서스 수준에서 확인될 경우 물가 재상승 우려가 일부 진정될 여지\n. 다만 Headline 지표의 하락이 에너지 등 공급 요인에 기인하는 만큼 지정학적 리스크 상황과 Core의 안착 여부가 실질적인 판단 기준\n» 결국\n관건은 Core 지표의 전월대비 상승률이 0.2% 초반대에서 유지되는지 여부\n. 예상치를 상회할 경우 Headline CPI의 둔화에도 불구하고 기조적 물가 압력에 대한 경계감이 재차 부각될 가능성\n※ 현지 기준 오전 8시30분(한국 기준 오후 9시30분) 발표 예정",
-      "images": [
-        "https://cdn5.telesco.pe/file/hrSyRBggBPtucD_77fpgMFVqAprEdYLQbWA6bG0vn08M1Rac2VZ1bZk5H8Y5TsoEPpSun8HCoS0byxXBFFtZ7e2QpZWBkyLeCS2s44v8BsoclwSobAEo_DdnASiPemg-ODDciVBK7gbTW2TmPtbNh9590mJH_oJHH_5zk6ojDqzf8TffY9P7a5hcptw28Z4EawwxsdPw0EFzIcvMOo7mtCAv1sAZDY_iLGD-HVYJQU-WZ2afW0U09qQJtB7dTciLv8GjtHccXM4g3Rd2Q-1hdEvvz47tzld5uCcJJ1p-RCVGAHMWThHWYLX8aB317_nkI1FaInQAwFLew1fWitwLxA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-14T07:02:45+00:00"
     },
     {
       "id": "tg:HI_GS/6701",
@@ -872,33 +1003,6 @@
       "published_at": "2026-07-13T23:39:49+00:00"
     },
     {
-      "id": "tg:globaletfi/20626",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20626",
-      "text": "[하나 Global ETF Daily (7/14)]\n▶️\n하나 Global ETF 박승진(T.3771-7761)\n▶️\nRA 신민건(T.3771-3269)\n▶️\n텔레그램:\nhttps://t.me/globaletfi\n🔹\n주요 ETF Daily 수익률\n(2026.7.13 종가 기준)\n» 주요 시장 ETF\nSPY -0.77%\nQQQ -1.90%\nDIA -0.25%\nIWM -0.85%\n» 주요 국채 ETF\nSHY -0.11%\nIEF -0.36%\nTLT -0.59%\n» 주요 섹터/테마 ETF\n에너지(XLE) 3.01%\n마리화나(MJ) 1.64%\n금융(XLF) 0.65%\n🔹\nETF News\n[Bloomberg] 베팅형 ETF와 텍사스 증권거래소(TXSE)의 이면: 자산운용 및 지배구조 트렌드 분석\n-\nhttps://buly.kr/GEAReg9\n- 미국 증시에서 스포츠 도박 및 특정 인물 제외 등 극단적 니치 테마를 포장한 ETF 신청이 잇따르는 가운데, 자산운용 업계는 규제 우회와 개인 편의성을 무기로 투자자가 상상할 수 있는 모든 거래 아이디어를 상품화하는 중\n- 이러한 베팅형 상품들은 기관 투자자의 합법적 참여와 세제 혜택 측면에서 유용할 수 있으나 높은 운용 보수와 거래 비용 탓에 장기 투자처로는 부적합한 것으로 풀이\n- 한편 일론 머스크의 테슬라를 비롯한 보수적 경영진의 텍사스 이전 열풍에 힘입어 출범한 텍사스 증권거래소는 친경영 성향을 표방하며 뉴욕 거래소들과 상장 유치 경쟁에 돌입\n- TXSE는 거버넌스 본사를 달라스에 두되 실제 고빈도 매매를 처리하는 매칭 엔진 서버는 뉴욕 인근 뉴저지 세카우커스 데이터 센터에 입주시키는 영리한 이중 구조를 채택하며 유동성 손실을 방어하고 있는 것으로 분석\n- 이와 대조적으로 주가가 폭락한 부실 마이크로캡 기업들이 시장의 유행에 편승해 사명에 AI를 추가하는 피벗 잔혹사도 심화되고 있음\n- 2023년 이후 최소 27개 소형주가 사명을 변경해 초기 랠리를 유도했으나 대다수는 상승 동력을 잃고 밸류에이션이 붕괴\n- 과거 크립토 붐과 달리 현재의 AI 시장은 Nvidia나 대규모 증자를 단행한 SK하이닉스 등 매분기 실물 이익을 입증하는 초대형 거인들이 주도하고 있기 때문\n- 이에 따라 어설픈 사명 변경이나 실체 없는 보도자료는 똑똑해진 투자자들에게 외면받고 있으며, 전문가들은 이들의 행보를 소셜 미디어를 이용해 리테일 개미들의 단기 자금을 빨아먹는 유통기한이 다한 얄팍한 상술에 불과하다고 진단\n- 결론적으로 변동성 장세 속에서 포트폴리오의 실질적인 방어력과 성장을 확보하기 위해서는 실체 없는 테마를 스크리닝하는 수성 전략이 요구됨. 스포츠 도박이나 인물 배제형 등 감정에 기반한 니치 ETF는 전술적 베팅용으로 제한해야 하며, 테마형 액티브 접근 시에는 시스템화된 플러그인이 있는지 철저히 검증해야 함\n- 또한 메가캡 창업주들의 텍사스 법인 이전 및 TXSE 상장 움직임에 따른 패시브 자금의 강제 매수 흐름 변화를 추적하여 이를 선취매 전술로 활용하는 구조적 접근이 유효\n- 무엇보다 글로벌 공급망의 핵심이자 실물 하드웨어 실적이 찍히는 진짜 코어 자산 중심의 롱 포지션을 유지하고 실체 없는 소형주 AI 테마는 포트폴리오에서 철저히 배제하는 자산 배분 접근이 현명할 것으로 전망\n[PR Newswire] 누버거의 액티브 신상품 'NQLT' ETF: 고확신 퀄리티 중대형주 투자전략\n-\nhttps://buly.kr/4xZwsWk\n- 소수 주도주 중심의 시장 쏠림과 스타일 로테이션으로 매크로 금융시장의 변동성이 확대되는 가운데, 글로벌 자산운용사 Neuberger가 미국 중대형 우량 기업 포트폴리오를 액티브하게 운용하는 Neuberger Quality Select ETF를 공식 출시\n- 현지 시간 2026년 7월 13일 상장된 NQLT는 성장과 가치 스펙트럼 전반에 걸쳐 비즈니스의 질적 수준과 밸류에이션을 엄격히 평가하는 구조를 취함\n- 특히 장기적 경제성이 불확실한 투기성 성장 기업을 철저히 배제하는 대신 지속 가능한 경쟁 우위, 강력한 현금 흐름 창출 능력, 높은 투하자본수익률을 갖춘 기업에 고확신 기반으로 집중 투자하여 차별화된 장기 성과를 추구\n- 본 펀드의 운용은 25년 이상의 풍부한 주식 포트폴리오 운용 경력을 보유한 베테랑인 Daniel P. Hanson이 이끄는 Neuberger's Quality Equity Group이 담당\n- 동 운용 팀은 현재 총 90억 달러 이상의 자산을 운용 중이며, 2022년부터 성공적으로 운용해 온 약 48억 달러 규모의 기존 간판 뮤추얼 펀드인 NBSLX의 운용 노하우와 철학을 이번 신규 액티브 ETF 구조에 고스란히 이식\n- NQLT의 총보수는 연 1.52%에 달하지만 자발적 보수 면제 조항을 적용하여 투자자가 실질적으로 부담하는 순수수료율은 연 0.48% 수준으로 대폭 낮췄으며, 이 파격적인 비용 한도는 2027년 8월 31일까지 견고하게 유지되는 것으로 확인\n- 최근 유동성과 투명성 및 시장 변동성 방어 역량을 동시에 갖춘 액티브 ETF 구조가 자산가들 사이에서 선호되는 투자 수단으로 안착함에 따라 누버거의 액티브 ETF 플랫폼 역시 이번 NQLT의 가세로 총 14개 펀드, 전체 운용자산 38억 달러 규모의 생태계로 가파르게 성장함\n- 결론적으로 2026년 하반기는 인플레이션 노이즈와 메가캡 테크주의 숨 고르기로 장세의 변동성이 심화된 국면인 만큼, 무조건적인 인덱스 추종보다 기업 체력을 깐깐하게 스크리닝하는 액티브 퀄리티 펀드가 유용한 대안이 됨\n- 따라서 저렴한 순보수 혜택을 활용해 기술주 쏠림을 방어하고 단단한 중대형 우량주 슬리브를 다지려는 자산 배분가들에게 NQLT는 세련된 투자 도구가 될 것",
-      "images": [
-        "https://cdn5.telesco.pe/file/lf8rK6u8RidjmBvYYJZklpY_yiZMMlWlmIgGtacQmb0rKCG9pQRL76NrKVjNagHGlSX5vc0om5L99b-T68KtFs5zE2nyGTF7oSgVYh8IB1P1CYZR-aUwTNtlpN1BAKzT4yxVZWnG5wc1NGsjdSFFXxCzUYe76ht5qAyG0bYAi1YztP-r2DGOL_VCPLzT_k-THPkG91JYgz--dRsAsYpF9eEFb4hB6UJJrodWVaNJLLe4iCkAqGZbq_tiWrSmEMYAfqPqhPIltxR42AVZDzoETRdeZmtkac4IeqM0cQ58RNQufWbk-R9-3GomTPz2JrJ30PgFk7C1VYbnPoeolB1aqA.jpg",
-        "https://cdn5.telesco.pe/file/Ns50WsP9NgX48G9gx4YoNCG4fWiN9NbN9vCquV1ibjY9BiwA2H7wIi8M-AywoRPyX96xSaCnAwaCxiMPi-UnnoN4vGJ5tN3UGvD7K2ThlaAqDtebY1vJpJGlAf6VR_RLiXw8cinQ8gRQOqMaezEhyNyaNSUul-nunH6ZpvPhMS3C5G_JntrX15QO-ni4cuo8Tol48ggqwshjYKffY3yf04sowfrE5_Uhl9clUy0rf4fmqzwomX7A9q2RJsG3GVcuJJFVWYoV4NMAPcn0X1XnpvzDOrhR1K2pCuk1SX-pLaSfZFy6RXWOfMp1cu1E0ocYGMHIApEg4oAJiMvm5ZTiHA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-13T23:17:36+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20625",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20625",
-      "text": "[하나 글로벌 기업분석 데일리 뉴스]\n7/14 하나증권 김재임/송종원\n애플, iOS 27 공개 베타 버전 출시\n-애플이 올 가을 정식 출시될 iOS 27을 포함한 주요 OS 업데이트의 공개 베타 버전을 출시했음. 올해의 주요 신기능은 지연되었던 AI 기반 시리 개편인 '시리 AI'임\n-시리 AI는 애플이 자체 개발한 대규모 언어 모델을 기반으로 하며, 더 자연스러운 대화와 복잡한 질문 처리 능력을 갖췄음. 특히 맥, 아이폰, 애플 워치 전반에 걸쳐 통합된 경험을 제공할 예정\n-공개 베타에는 아이폰 16 시리즈의 예상 디자인 변경을 반영한 새로운 홈 화면 위젯과 향상된 개인 정보 보호 기능도 포함됨\nhttps://buly.kr/8enrSlR\n애플, 오픈AI 상대 영업비밀 소송 제기\n-애플이 오픈AI를 상대로 영업비밀 침해 소송을 제기했음. 자체 AI 개발을 가속화하는 가운데 발생한 것으로, 경쟁사와의 기술 주도권 다툼이 배경으로 작용한 것으로 보임\n-애플은 전 직원이 오픈AI로 이직한 후에도 '희귀한' 버그를 악용해 애플 네트워크에서 민감한 파일을 장기간 다운로드했다고 주장. 관계 당국과의 협력을 포함한 추가 조사가 진행 중\n-소송에는 오픈AI 직원들이 애플 시스템 무단 접근을 농담삼아 언급했다는 주장과 채용 후보자들에게 애플 정보를 가져오도록 요구했다는 혐의도 포함됨. 이메일과 메시지 기록이 구체적 증거로 제시됐음\n-AI 업계에서 빈번히 발생하는 기술 유출 논란의 연장선으로, 애플이 자사 기술 보호를 위해 강경 대응할 것이라는 분석이 나옴\nhttps://buly.kr/4509xZw\n우버와 웨이모, 로보택시 로비 전략으로 워싱턴 D.C.에서 충돌\n-우버와 웨이모는 로보택시 규제에 대한 상반된 견해로 워싱턴 D.C.에서 로비 전쟁을 벌이고 있음\n-양사의 경쟁적 입장이 정책 결정 과정에서 충돌을 일으키며, 향후 로보택시 산업의 방향성에 영향을 미칠 것으로 예상됨\nhttps://buly.kr/EdvcoXr\n마이크로소프트, 광고 없는 깔끔한 윈도우 11 검색 메뉴 테스트 중\n-마이크로소프트가 추천 콘텐츠와 광고가 제거된 깔끔한 버전의 윈도우 11 검색 메뉴를 테스트 중임. 월요일 블로그 포스트를 통해 현재 정리된 버전을 출시하고 있다고 발표했음\n-이번 변경은 사용자들이 오랫동안 요구해온 내용으로, 기존 검색 메뉴에 표시되던 뉴스, 날씨, 주가 등 불필요한 정보가 제거됨\n-새로운 검색 메뉴는 순수한 검색 기능에 집중하며, 빠른 앱 실행과 파일 검색 등 핵심 기능만 제공할 예정\nhttps://buly.kr/15RHHgS\n사티아 나델라, AI 사용 기업에 충격적인 경고 발표\n-마이크로소프트 CEO 사티아 나델라는 기업들의 AI 사용 방식에 대해 우려를 표명하며 경고 메시지를 발표함. 특히 독점 모델을 판매하는 대형 AI 연구소들이 기술 발전을 지연시킬 수 있다고 지적\n-나델라는 오픈 혁신과 표준화의 부재가 결국 산업 전체의 발전을 저해할 것이라고 경고했으며, 기업들이 단기적인 이익보다는 책임 있는 AI 개발과 배포에 집중할 것을 촉구함\n-이 발표는 실리콘밸리에서 진행 중인 AI 윤리 논의에 새로운 불을 지폈으며, 특히 대형 테크 기업들의 독점적 행위에 대한 비판으로 해석됨\nhttps://buly.kr/15RHHki\nSpaceX 주가 연속 하락하며 135달러 IPO 가격 근접\n-일론 머스크의 우주항공 및 AI 기업 SpaceX는 지난주 나스닥-100 지수에 편입되었지만, 공개 한 달 만에 IPO 당시 주가인 135달러 근처까지 연속 하락 중\n-기록적인 규모의 IPO를 진행했으나 시장의 투자자 신뢰도 회복 필요성이 대두되고 있는 상황\n-분석가들은 우주 산업의 장기적인 수익성에 대한 의문과 AI 부문의 경쟁 격화가 주가 하락 요인으로 지목\nhttps://buly.kr/8IyLV9L\nSpaceX, 5월 부스터 실패 후 스타십 재비행 승인 획득\n-5월 부스터 실패 이후 첫 스타십 시험 비행으로, 공개 기업으로서는 처음 진행되는 시험 비행이 됨\n-이번 비행은 시장이 SpaceX의 \"비행-실패-수정\" 로켓 개발 접근법에 대한 반응을 테스트하는 계기가 될 전망이며, 종종 화염구로 끝나는 방식에 대한 평가가 이뤄질 예정\nhttps://buly.kr/EI66que\n메타, 루이지애나에 500억 달러 규모 AI 데이터센터 투자 확정\n-메타는 루이지애나 주 리치랜드 패리시에 위치할 하이페리온 데이터센터 슈퍼클러스터가 5GW 규모의 시설로 건설될 것이며 총 투자 금액이 500억 달러를 초과할 것이라고 발표\n-이 프로젝트는 주정부의 관대한 세제 혜택 지원을 받으며, 메타의 AI 인프라 확장을 위한 핵심 전략으로 진행 중\n-완공 시 세계 최대 규모의 데이터센터 중 하나가 될 전망이며 AI 서비스 처리 능력과 클라우드 컴퓨팅 역량을 대폭 강화할 예정\nhttps://buly.kr/G3Fgek0\n앤스로픽, 미국 다음으로 큰 시장인 인도에서 클로드 가격 현지화 시작\n-앤스로픽은 인도 사용자들을 위해 인도 루피로 표시된 구독 플랜을 제공하기 시작했음\n-인도는 미국에 이어 클로드의 두 번째로 큰 시장으로, 현지 통화 지원을 통해 시장 점유율 확대를 목표로 하는 것으로 알려짐\nhttps://buly.kr/7FTncHR\n샘 올트먼, 일론 머스크와 공개 논쟁에서 \"우주 데이터센터는 사기\"라고 주장\n-샘 올트먼은 일론 머스크가 자신을 사기꾼이라고 비난하자 \"공개 시장 투자자들에게 단기 우주 데이터센터를 판매하는 건 당신\"이라며 반박했음\n-이 발언은 대부분의 전문가들이 우주 기반 데이터센터의 실현 가능성에 회의적이라는 기존 의견과 일치하는 것으로 분석됨\n-양측의 논쟁은 AI와 우주 기술 분야에서의 리더십 경쟁을 반영하며, 특히 데이터 인프라 구축 방식에 대한 근본적 견해 차이를 드러냄\nhttps://buly.kr/2fg673J\nFCC 위원장, 디즈니의 다양성 정책 관련 조사에 \"진정성 부족\"이라고 비판\n-FCC 위원장 브렌든 카가 디즈니의 다양성 및 포용 정책에 대한 조사와 관련해 회사가 \"진정성이 부족하다\"고 강하게 비판했음\n-카 위원장은 디즈니가 FCC의 질의에 불성실하게 대응하고 있다고 지적했음\n-이번 발언은 미디어 기업의 ESG 정책에 대한 규제 기관의 감시가 강화되고 있는 추세를 반영\nhttps://buly.kr/DEbYy0e\n유럽의 안두릴 라이벌 헬싱, 180억 달러 가치 평가로 18억 달러 유치\n-유럽 방위 AI 기업 헬싱이 18억 달러 규모의 자금 조달에 성공하며 사상 최대 규모의 유럽 방위 스타트업 투자 사례를 기록\n-이번 펀딩 라운드에서 투자자들의 수요가 할당량을 크게 초과했으며 회사는 180억 달러의 기업 가치를 인정받음\n-헬싱은 인공지능을 적용한 방위 솔루션 분야에서 미국의 안두릴과 경쟁하는 유럽의 대표 기업으로 주목받고 있음\nhttps://buly.kr/8Tt6U1e\n12개 주, 파라마운트의 1100억 달러 워너브라더스 디스커버리 인수 차단 위해 소송 제기\n-캘리포니아를 비롯한 미국 12개 주 검찰총장들이 파라마운트의 워너브라더스 디스커버리 1100억 달러 인수 계획이 영화관, 기본 케이블 사업자, 관객에게 피해를 줄 것이라며 연방 법원에 소송을 제기했음\n-소송에서는 이 거래가 시장 독점을 초래해 콘텐츠 가격 인상과 케이블 TV 유통업체 압박, 선택지 감소로 이어질 것이라고 주장했음\n-미디어 산업의 대형 M&A에 대한 규제 당국의 강경 태도를 보여주는 사례로, 연방규제기관과의 협력 하에 추가 법적 조치가 예상됨\nhttps://buly.kr/AF2gI7k\n선런, 태양광 사용자에게 월 수백 달러 수익 제공하는 컴퓨팅 프로그램 시행\n-선런은 지붕형 태양광 및 배터리 설치에서 생산된 전력을 가정용 컴퓨팅 시스템에 활용해 월 수백 달러를 벌 수 있는 프로그램을 시범 운영 중\n-이 프로그램은 재생 에너지 활용을 확대하고 동시에 소비자에게 추가 수익 창출 기회를 제공하는 것을 목표로 함\nhttps://buly.kr/6Xolh1d",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-13T23:14:53+00:00"
-    },
-    {
       "id": "tg:enc210406/4132",
       "source": "telegram",
       "author": "enc210406",
@@ -909,42 +1013,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-13T23:04:26+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20624",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20624",
-      "text": "[New K-ETF] K-광통신&위성 액티브, 미국 AI광통신 TOP10\n▶️\n하나 Global ETF 박승진(T.3771-7761)\n▶️\n자료:\nhttps://buly.kr/NmFN0E\n▶️\n텔레그램:\nhttps://t.me/globaletfi\n▣ 신규 상장 ETF(7/14): KoAct 광통신&위성네트워크 액티브, HANARO 미국 AI광통신 TOP10\n◎ KoAct 광통신&위성네트워크 액티브 ETF\n-\n국내 광통신 인프라 및 위성통신 기자재 관련 기업들로 포트폴리오를 구성하는 액티브 ETF\n. AI 추론능력을 효율적으로 연결하기 위해 필요한 네트워크 인프라의 병목 현상이 예상되고 있는 가운데, 광통신과 저궤도 위성 기술의 확장성에 투자하는 ETF 종목.\n저궤도위성 및 광통신 부문의 기업들에 대해 키워드 유사도 방식을 활용\n하여 스코어링 상위 종목들을 선별\n-\n저궤도 위성 부문\n에서는\n한화에어로스페이스, 한화시스템, 한국항공우주, 현대로템, LIG디팬스앤에어로스페이스 등\n의 기업들이,\n광통신 부문\n은\n대한광통신, RFHIC, 케이엠더블유, 쏠리드, 인텔리안테크 등\n이 편입 가능 종목군(비교지수 기준)에 포함\n◎ HANARO 미국 AI광통신 TOP10 ETF\n-\n미국의 대표 AI광통신 기업들로 구성하는 패시브 ETF\n. 광통신 산업의\n핵심 밸류체인을 구성하는 10개의 미국 상장 종목들\n을 편입하는 집중형 포트폴리오의 ETF 종목\n-\n광부품, 트랜시버, 테스트장비, 광섬유 케이블, 실리콘 포토닉스, InP 웨이퍼, 고속도 연결 등의 키워드를 활용\n하여 편입 대상 기업들을 선별. 편입 대상으로 선정된 10개 기업들 중 상위 스코어 2개 종목들은 15%의 비중을 할당. 나머지 8개 종목들에 대해서는 최대 비중(10%)을 제한하면서 스코어 가중치로 편입 비중을 결정\n- 상장일 기준 포트폴리오에는\nMarvell, Coherent, Lumentum, Form Factor, Tower Semiconductor, AOI, AXT, Corning, Ciena, VIAVI Solutions의 10개 기업들\n이 편입\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-13T22:55:01+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20623",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20623",
-      "text": "하나증권 중국기업분석 백승혜\n기가디바이스(\n603986.CH\n): 글로벌 공급 공백으로 급성장 중인 레거시 메모리 기업\n자료:\nhttps://buly.kr/Edvcp4o\n◆ CXMT 회장이 설립한 특수 메모리, 레거시 DRAM 팹리스\n기가디바이스(GigaDevice)는 중국 레거시 DRAM, SLC NAND Flash, NOR Flash, MCU 시장점유율 1위 기업.\n2005년 CXMT의 창업자 주이밍 회장이 설립한 또 다른 메모리 반도체 기업, 현재 주회장이 이사회 의장으로 겸직하며 같은 창업자 아래 기가디바이스가 CXMT에 소수 지분(1.8%)을 투자하고, CXMT가 기가디바이스의 DRAM을 위탁생산하는 전략적 협업 관계에 있음. 현재 CXMT는 DDR5/LPDDR5 이상 범용 DRAM과 HBM 사업에 집중하고, 기가디바이스는 NOR Flash, SLC NAND 등 특수 메모리, DDR4/LPDDR4 이하의 레거시 DRAM, MCU 제품 개발을 담당하는 구조.\n◆ 2Q26 실적 컨센서스 대폭 상회\n기가디바이스가 최근 발표한 2Q26 잠정 매출액은 73억위안(YoY +226%)으로 컨센서스를 46% 상회, 지배주주 순이익은 54억위안(YoY +1,496%)으로 컨센서스를 77% 상회. 2분기 실적 호조는 주력 제품 ASP 상승과 점유율 확대에 기인. 글로벌 상위 메모리 업체들이 HBM, DDR5, 3D NAND 중심으로 생산 비중을 늘리면서 레거시 DRAM과 NAND 제품 수급이 타이트해졌고, 이로 인해 최근 1년 사이 기가디바이스의 SLC NAND ASP는 약 5배, 레거시 DRAM ASP는 약 10배 상승.\n◆ 하반기 ASP 상승과 맞춤형 DRAM 양산이 기대 요인\n기가디바이스는 하반기에도 1)주요 글로벌 공급업체들의 공급 축소에 따른 DDR4·DDR3, NOR Flash, SLC NAND의 지속적인 가격 상승, 2)맞춤형 3D DRAM의 양산 개시 등에 기인해 주가 상승 흐름을 이어갈 것으로 기대.\n올해 키옥시아와 마이크론의 레거시 NAND 제품 양산 축소 결정으로 SLC NAND 가격 상승세가 지속될 전망. 기가디바이스는 CXMT와의 안정적인 협력 관계를 통해 향후 2~3년 내 DDR4 생산능력을 확대할 수 있는 소수 업체 중 하나이며, DDR4·LPDDR4 제품 공급 부족이 지속됨에 따라 하반기부터 DRAM 생산 확대를 계획 중. NOR Flash 사업 부문은 CXMT를 포함한 파운드리 파트너사들의 생산 지원을 바탕으로 글로벌 시장점유율을 현재 약 20%에서 3~5년 내 25%로 확대를 목표.\n또한, 맞춤형 3D DRAM 제품 대량 출하는 향후 주가 상승의 잠재적인 촉매제가 될 수 있음. 자동차 스마트콕핏, AI PC, 로봇 등 AI 관련 맞춤형 DRAM도 2026년 하반기부터 매출에 기여할 전망, 향후 매출 확대를 통해 고부가가치 틈새 DRAM 시장에서의 전략적 입지를 강화하고, ASP 상승에도 도움이 될 것으로 예상.\n*텔레그램 채널:\nhttps://t.me/hanaglobalbottomup\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-13T22:52:55+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20622",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20622",
-      "text": "[Waller 연준 이사, “과거 인플레이션 전쟁만 되풀이해선 안 됨”…고물가 지속 시 금리 인상 가능성 경고]\n* 발언 개요\n- Christopher Waller 연준 이사는 Fed가 “지난 전쟁을 다시 싸워서는 안 된다”고 말하며, 2021~2022년식 인플레이션 대응 논리에만 매달려서는 안 된다고 밝힘\n- Waller는 인플레이션이 여전히 Fed의 2% 목표를 크게 웃도는 상황에서, 향후 물가 지표가 계속 높게 나오면 단기적으로 금리 인상이 필요할 수 있다고 말함\n- 해당 발언은 New York Association for Business Economics 행사에서 나온 것으로 전해짐\n* 인플레이션 판단\n- Waller는 Fed가 지속적인 인플레이션 압력을 무시해서는 안 된다고 강조\n- 그는 근원 서비스 가격이 여전히 높은 수준에 머물고 있으며, 물가 압력이 관세나 에너지 가격 상승 효과를 넘어 경제 전반으로 확산되는지 주시해야 한다고 설명\n- Waller는 5월 근원 PCE가 전년 대비 3.4%였다는 점을 언급\n* 금리 인상 가능성\n- Waller는 이번 주 나올 소비자물가지수 등 향후 인플레이션 지표가 Fed 목표를 크게 웃도는 흐름을 보이면, 금리 인상이 필요할 수 있다고 밝힘\n* 정책 스탠스\n- Waller는 인플레이션이 내려갈 수 있다는 신뢰 가능한 시나리오와, 높은 수준에 머물러 추가 긴축이 필요한 시나리오가 모두 존재한다고 설명\n- 그는 너무 이른 긴축으로 경기침체를 유발하는 것도 경계해야 하지만, 인플레이션 기대가 다시 흔들리는 것을 막기 위해 선제적 정책 대응도 필요하다고 강조\n- Reuters는 Waller가 과거 인플레이션 급등기에 대응이 늦었던 실수를 반복하지 않으려는 메시지를 냈다고 설명\n* 물가 상승 요인\n- Waller는 최근 물가 압력이 단순히 유가나 지정학적 충격만의 문제가 아니라고 봄\n- FT는 Waller가 관세, 에너지 가격, AI 관련 수요 등을 지속적인 물가 압력 요인으로 언급했다고 전함\n- 그는 상품 가격 상승과 근원 인플레이션 지속이 확인될 경우, 2021~2022년식 정책 실수를 피하기 위해 신속한 통화긴축이 필요할 수 있다고 설명\n링크: [\nhttps://www.cnbc.com/2026/07/13/waller-says-fed-shouldnt-fight-the-last-war-on-inflation-but-warns-hikes-still-possible.html\n]",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-13T22:32:04+00:00"
     },
     {
       "id": "tg:enc210406/4131",
@@ -983,16 +1051,18 @@
       "published_at": "2026-07-13T21:26:52+00:00"
     },
     {
-      "id": "tg:globaletfi/20621",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20621",
-      "text": "» 트럼프 대통령, 한국시간으로 17일 오전 10시에 대국민 연설 예고\n트럼프 \"16일 저녁 대국민 연설\"…이란 관련 발언 주목\nhttps://n.news.naver.com/article/001/0016192301?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-13T20:23:41+00:00"
+      "id": "x:ylecun:2076756396498887119",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2076756396498887119",
+      "text": "RT by @ylecun: New @wapo story today, the Trump family has secured about $3.2 billion in Pentagon contracts for firms which they are involved in. This is the tip of the iceberg in the largest corruption saga in US history.",
+      "images": [
+        "https://pbs.twimg.com/media/HNIe5JMXEAAg8HH.png"
+      ],
+      "summary_ko": "@yleun의 RT: 오늘 새로운 @wapo 이야기, Trump 가족은 자신들이 참여하는 기업을 위해 약 32억 달러 규모의 국방부 계약을 확보했습니다. 이는 미국 역사상 최대 규모의 부패 사건에서 빙산의 일각입니다.",
+      "published_at": "2026-07-13T19:51:23+00:00"
     },
     {
       "id": "x:demishassabis:2076747075036045645",
@@ -1015,7 +1085,7 @@
       "url": "https://x.com/AnthropicAI/status/2076719549060382802",
       "text": "R to @AnthropicAI: While the values Claude expresses shape millions of conversations every day, we don't yet understand why they vary, or whether that's desired. This approach will allow us to determine what factors influence Claude's value expression—and ultimately how (and whether) to steer it. https://www.anthropic.com/research/claude-values-models-languages",
       "images": [
-        "https://pbs.twimg.com/card_img/2076859811325493248/aK_PKCrt?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2076717096399183872/qC04AnBT?format=jpg&name=800x419"
       ],
       "summary_ko": "R to @AnthropicAI: Claude가 표현하는 가치는 매일 수백만 건의 대화를 형성하지만, 우리는 그 가치가 왜 달라지는지, 또는 그것이 바람직한지 아직 이해하지 못합니다. 이 접근 방식을 통해 우리는 어떤 요소가 Claude의 가치 표현에 영향을 미치는지, 그리고 궁극적으로 이를 어떻게 조종할지(및 여부)를 결정할 수 있습니다. https://www.anthropic.com/research/claude-values-models-언어",
       "published_at": "2026-07-13T17:24:58+00:00"
@@ -1071,25 +1141,10 @@
       "url": "https://x.com/AnthropicAI/status/2076719540785012872",
       "text": "In previous research, we found that Claude expresses over 3,000 values, like honesty and warmth. In new work, we asked how the values Claude expresses vary between Claude models and across languages. We analyzed 300K+ anonymized conversations to find out.https://www.anthropic.com/research/claude-values-models-languages",
       "images": [
-        "https://pbs.twimg.com/card_img/2076859811325493248/aK_PKCrt?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2076717096399183872/qC04AnBT?format=jpg&name=800x419"
       ],
       "summary_ko": "이전 연구에서 우리는 클로드가 정직과 따뜻함과 같은 3,000가지가 넘는 가치를 표현한다는 것을 발견했습니다. 새로운 작업에서 우리는 Claude가 표현하는 가치가 Claude 모델과 언어에 따라 어떻게 다른지 물었습니다. 우리는 알아내기 위해 30만 개 이상의 익명화된 대화를 분석했습니다.https://www.anthropic.com/research/claude-values-models-언어s",
       "published_at": "2026-07-13T17:24:56+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20619",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20619",
-      "text": "» WTI, Brent 유가는 +4.5% 가량 상승 중",
-      "images": [
-        "https://cdn5.telesco.pe/file/XHBXziRWrYacR4PbsZiz1og0oQcXiskAdMu5lxHi7lF7vfbKtW11JV9dTLj9tdWKAmAVzCS7uXWB8RjCpdrmFN8phnSwbjvxxEwmWTAf7HAn4Aet9NXAHemo_RR1_jjGn_SY-nGIo01ZDl1jYpo3q8BqVd1jJ4FYvJd4YBVzxXMGRu7_c2NTX8tIntI1zyUIrNbFgp--GpbU5XJXNR-SGKcfdxcXBm8TVGX0cvfr7y9yXbQBF1PQ9rlKswYH0yUsYZlnP2BIDL0vz85_2-3RuIrZYqov3uXC_21bxVQu0FXTCGds504vY0n1ENp4DfQSQhzFA-toBcH9NwwENat9hQ.jpg",
-        "https://cdn5.telesco.pe/file/vG2Pk5rbkp0qiw7-2Mp0lXqjcthnsgfnEq1ziR1qro-wPoYxxJF1llkbk9IDzKM54NW9xZyw_BtMi8A-YxS-kuoEpmgF5x1Buy-MtYdB_Om4ORkU0Fq2Vc-phYp8q9SgBKjF-FF119R_tLCBmAYgq70QkdRMYdDaCJlo2zIazsz99xKEKZsDZVlArL6hrBW3gf_ZAAN4HMEssAHrcxVPVWugvWNrhMd9HCoz3t_LJCgZSsKTVo1MBL9gXCeHMt8q1m9g7o_w-FRUHA1G5f_aB79qxubR-VwjurYF5JEmgrSzjGHDamKW0IBkS6SHYhewiKz6EAjIcCpMMl8w_Kailg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-13T15:27:51+00:00"
     },
     {
       "id": "x:GoogleDeepMind:2076686127604302290",
@@ -1288,32 +1343,6 @@
       "published_at": "2026-07-12T09:04:30+00:00"
     },
     {
-      "id": "tg:HI_GS/6691",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/6691",
-      "text": "🛳\nLNG, VLGC, 탱커 호황 계속. 주가만 싸진 상황\n☞\nhttp://bit.ly/DOS830\n⚓️\n주시 뉴스\n💲\n선가, 실적, 캐파\n△ 신조선가지수 3주 연속 소수점 상승해 185.46p\n🌏\n그린쉽\n△ 한화오션, 일본에 선박 사이버 보안 플랫폼 공급계약 개시\n🌪\nLNG\n▲ HD한국조선해양의 3탱크 화물창 LNG선. BW LNG 추가 발주해서 4척 건조\n▼ 아부다비 ADNOC은 중국 강남조선에 LNG선 4척 발주 확정\n▲ 모잠비크 Rovuma(15.2MTPA) 올해 FID 목표\n▲ 미국 Sabine Pass 6MTPA 확대. 기자재 발주\n△ Kiewit은 미국 Texas LNG(4MTPA)에 착공지시\n△ 멕시코 ECA LNG 가동 시작\n🔥\n가스선\n▲ HD현대중공업 Union Maritime으로부터 VLGC 2척 수주\n🚢\n컨테이너\n▼ DNB, 컨테이너 해운시장 공급 과잉 경고. 잔고/선대 39%\n🛳\n탱커\n▲ 삼성중공업, JP Morgan으로부터 수에즈막스 2척 수주\n▲ HD현대중공업, 오만 Asyad Shipping으로부터 MR 6척 수주\n▲ 선령 높은 PC선 높은 가격에 매각 계속\n🌉\n해양/디펜스/바람\n▲ 미국 국방부와 해군, 한국 주요 조선사에 군함 건조 역량 정보요청서(RFI) 발행\n△ 삼성중공업, 프랑스 GTT에 Delfin FLNG 탱크 설계 발주\n------------------------------------------------------\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n✅\n컴플라이언스 승인을 득한 보고서입니다.\n------------------------------------------------------\n⚓️\n코멘터리: 보고서 참고",
-      "images": [
-        "https://cdn5.telesco.pe/file/meNbLDMCKgatEgCGePwHE73UHyiWza4z43drcnrMInm-XWjrb9iyCR85Vy0kCft3EgtNYiB05xEqCBkRUymEpcr4cJehD1CDNu347Gp1P9KWJ7rQKNwoSDJuv-S_UOBkBTzFdk_C242kC1zOkWgM1FWOEGjAGc4twajlkWJi5P-F3c74bIx6co7h5zMGFIK8yzFtNmnG8hMa3L23Inh3BP_2BMEfJ7wn-4YrH12jaYfr-DCDfrd7STVbxNRUtHh7Zw4SeyVS2KJV7LFv3043QVYwPL2P3hGxvIa6CEhPd9l2ONUdXKD7vah636vUTdHgCoS7QtkqzVuGo-ybxtKhtA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-12T08:45:00+00:00"
-    },
-    {
-      "id": "tg:HI_GS/6690",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/6690",
-      "text": "「한화오션, 한화해운 발주 세 번째 LNG선 건조 시작」\n• 한화오션 거제조선소에서 한화해운 발주 LNG 운반선 H2608 강재 절단식 진행\n• 한화해운으로부터 수주한 LNG 운반선 4척 중 첫 번째 선박의 건조 착수 의미\n• 약 6개월 만에 세 번째 선박까지 건조를 시작하며 미국 시장 겨냥 적기 인도 추진\n• 자체 해운사 발주 물량을 현지 조선 생태계와 연계해 미국 해군 MRO 등 조선 시장 입지 강화 전략\n❗️\n자체 발주 LNG선 건조 본격화로 미국 해운·조선 시장 내 생태계 구축 및 영향력 확대 가속화\n출처: [더구루]\nURL:\nhttps://www.theguru.co.kr/mobile/article.html?no=104278\n─────────────────────\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-12T07:22:52+00:00"
-    },
-    {
       "id": "x:ylecun:2076097383352648191",
       "source": "x",
       "author": "ylecun",
@@ -1394,20 +1423,6 @@
       "images": [],
       "summary_ko": "@yleun의 RT: AI 2040 및 디스토피아적인 AI 제어에 대한 기타 유사한 정책 제안은 사악합니다. 만약 나에게 터미네이터에서 타임머신이 있다면, 나는 이들 모두를 스탈린의 러시아, 마오쩌둥의 중국, 장벽이 있는 베를린으로 살도록 시간을 거슬러 보낸 다음, 그들의 어리석음이 치료된 후 1년 후에 다시 데려올 것입니다. 확실히 해두자. Ramez가 말했듯이, 이 제안은 그들이 방어하려고 제안하는 가짜 위험보다 훨씬 더 위험한 근본적으로 위험한 권위주의적 감시 권한을 제안함으로써 AI의 중앙화에 대해 경고합니다. 우리는 접착제를 흡입하고 Dune을 읽거나 터미네이터를 보고 그것이 다큐멘터리라고 생각하면서 너무 많은 시간을 소비한 사람들이 이제 상상할 수 있는 가장 위험하고 끔찍한 정책을 제안하는 지점에 도달했습니다. 그들은 있어야합니다",
       "published_at": "2026-07-11T11:12:55+00:00"
-    },
-    {
-      "id": "x:ylecun:2075894629728154054",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2075894629728154054",
-      "text": "RT by @ylecun: If you wished @suno offered finer controls for music production, you can now pipe its songs through MuScriptor and import them in your favorite DAW 🎹",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2075736329959469056/img/x1lPFNxhiBNRQRQT.jpg"
-      ],
-      "summary_ko": "@ylecu의 RT: @suno가 음악 제작을 위한 더 정밀한 제어 기능을 제공하길 원했다면 이제 MuScriptor를 통해 노래를 파이프하고 즐겨 사용하는 DAW로 가져올 수 있습니다 🎹",
-      "published_at": "2026-07-11T10:47:02+00:00"
     },
     {
       "id": "tg:enc210406/4125",
@@ -1552,20 +1567,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-10T10:25:53+00:00"
-    },
-    {
-      "id": "tg:enc210406/4122",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4122",
-      "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 7월 10일 종가 기준",
-      "images": [
-        "https://cdn5.telesco.pe/file/Tlp6KshY2aXJzyvUDvsc8qH3iBhd3FBjcnrpN7EZjkFenq5-qoOZkJ5HG5uNzjQx6D1zpuF_oukNXYW0h5cidjO_3DHpw7kKWG4QgHElonAb3DiD3a7mcxu_8WoTAA87FiIed_iEu0lY7beaXd09v0EytpfWplewnV7HjAJdRF-h-pAZytSugjWyXkg4P2YXTCRc5jSrxC3HH8gEAnu19hcDUQmeWXQpfYIwyXw1lx1CeY2c77wDUmDhssQkQag-P_CQVBG1ruY9JkyLVCR5gb6jUA7hrDsykGM_dZdGfPI1-3qIqttCFjX-O5nLopmb9CT0wrOcZaiwIPonOu4niA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-10T07:47:33+00:00"
     },
     {
       "id": "x:OpenAI:2075310022121472399",
