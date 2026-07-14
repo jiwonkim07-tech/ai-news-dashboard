@@ -1,22 +1,73 @@
 {
-  "updated_at": "2026-07-14T15:23:19+00:00",
+  "updated_at": "2026-07-14T17:14:46+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 4
+    "new_this_run": 13
   },
   "briefing": {
     "headline": "딥시크, 이르면 올해 IPO 신청 준비",
     "bullets": [
-      "키뱅크, 마이크론 목표주가 1,750달러로 상향",
-      "뉴욕주, 초대형 데이터센터 건설 잠정 중단",
-      "삼성전자, 미국 ADR 상장 가능성에 대한 초기 논의",
-      "SK하이닉스 ADR 149달러",
-      "중국 6월 원유 수입량 41.3% 감소"
+      "삼성전자, ADR 상장 가능성에 '검토 안해'",
+      "키뱅크, 마이크론에 대한 투자의견 '비중확대'로 유지",
+      "뉴욕주 주지사, 초대형 데이터센터 신규 건설 잠정 중단 명령",
+      "JP모건, 한국 변동성 높지만 점차 억제되는 국면"
     ],
-    "generated_at": "2026-07-14T15:23:19+00:00",
+    "generated_at": "2026-07-14T17:14:46+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:sama:2077053226080436235",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2077053226080436235",
+      "text": "R to @sama: also, a reason to favor open-source harnesses.",
+      "images": [],
+      "summary_ko": "R에서 @sama까지: 오픈 소스 하네스를 선호하는 이유이기도 합니다.",
+      "published_at": "2026-07-14T15:30:53+00:00"
+    },
+    {
+      "id": "x:sama:2077053140508266710",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2077053140508266710",
+      "text": "Concerning.",
+      "images": [],
+      "summary_ko": "에 관하여.",
+      "published_at": "2026-07-14T15:30:33+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2077047278078931243",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2077047278078931243",
+      "text": "RT by @AnthropicAI: We're introducing Claude for Teachers: free access to premium Claude capabilities for verified K-12 educators in the US, with a library of teaching skills and a direct connection to evidence-based curricula, mapped to academic standards in all 50 states. https://claude.com/solutions/teachers",
+      "images": [
+        "https://pbs.twimg.com/media/HNMmWvKW4AAju32.jpg"
+      ],
+      "summary_ko": "@AnthropicAI의 RT: Claude for Teachers를 소개합니다. 미국의 검증된 K-12 교육자를 위한 프리미엄 Claude 기능에 무료로 액세스할 수 있으며, 교육 기술 라이브러리와 증거 기반 커리큘럼에 직접 연결되어 50개 주 전체의 학업 표준에 매핑됩니다. https://claude.com/solutions/teachers",
+      "published_at": "2026-07-14T15:07:15+00:00"
+    },
+    {
+      "id": "x:sama:2077042528906527225",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2077042528906527225",
+      "text": "this is a thoughtful proposal from demis:",
+      "images": [
+        "https://pbs.twimg.com/media/HNLLt2GXMAAAPF0.jpg"
+      ],
+      "summary_ko": "이것은 demis의 사려 깊은 제안입니다.",
+      "published_at": "2026-07-14T14:48:23+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23576",
       "source": "telegram",
@@ -30,6 +81,32 @@
       "published_at": "2026-07-14T14:40:47+00:00"
     },
     {
+      "id": "x:sama:2077037818824843719",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2077037818824843719",
+      "text": "this would have been a whole startup not too long ago",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2076811852571693056/img/7uvb9kfhD02NxOer.jpg"
+      ],
+      "summary_ko": "얼마 전만 해도 이 스타트업은 완전체였을 겁니다.",
+      "published_at": "2026-07-14T14:29:40+00:00"
+    },
+    {
+      "id": "x:sama:2077036999303999910",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2077036999303999910",
+      "text": "GPT-5.6 sol is half the price and ~twice as token efficient as fable in many cases for accomplishing the same task. happy to deliver at one-quarter of the price.",
+      "images": [],
+      "summary_ko": "GPT-5.6 sol은 가격이 절반이고 동일한 작업을 수행하는 데 많은 경우 우화만큼 토큰 효율적입니다. 4분의 1 가격으로 배송해드리게 되어 기쁩니다.",
+      "published_at": "2026-07-14T14:26:24+00:00"
+    },
+    {
       "id": "tg:EMchina/31567",
       "source": "telegram",
       "author": "EMchina",
@@ -40,6 +117,18 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-14T14:21:56+00:00"
+    },
+    {
+      "id": "x:sama:2077033807736459713",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2077033807736459713",
+      "text": "2.5x increase in usage of our agentic products (codex and chatgpt work) in the last week! welcome.",
+      "images": [],
+      "summary_ko": "지난 주 에이전트 제품(코덱스 및 chatgpt 작업) 사용량이 2.5배 증가했습니다! 환영.",
+      "published_at": "2026-07-14T14:13:43+00:00"
     },
     {
       "id": "tg:EMchina/31566",
@@ -64,6 +153,20 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-14T14:11:38+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2077026346375540870",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2077026346375540870",
+      "text": "We’re committing $10 million CAD and partnering with leading AI institutions in Canada to help fund new AI research. https://www.anthropic.com/news/canadian-ai-research",
+      "images": [
+        "https://pbs.twimg.com/card_img/2077020110561116160/sadPback?format=jpg&name=800x419"
+      ],
+      "summary_ko": "우리는 1,000만 달러의 CAD를 투자하고 캐나다의 주요 AI 기관과 협력하여 새로운 AI 연구 자금을 지원하고 있습니다. https://www.anthropic.com/news/canadian-ai-research",
+      "published_at": "2026-07-14T13:44:04+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/23575",
@@ -944,18 +1047,6 @@
       "published_at": "2026-07-13T17:24:56+00:00"
     },
     {
-      "id": "x:sama:2076696938918084809",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2076696938918084809",
-      "text": "clarity is nice",
-      "images": [],
-      "summary_ko": "선명도가 좋다",
-      "published_at": "2026-07-13T15:55:08+00:00"
-    },
-    {
       "id": "tg:globaletfi/20619",
       "source": "telegram",
       "author": "globaletfi",
@@ -993,7 +1084,7 @@
       "url": "https://x.com/GoogleDeepMind/status/2076686127604302290",
       "text": "R to @GoogleDeepMind: These examples showcase how the Predicting the Past Skill can push forward historical research using advanced AI models and complex workflows - with no coding required. Find out more → https://goo.gle/4vR5ZtC",
       "images": [
-        "https://pbs.twimg.com/card_img/2074511876642283520/LCx9Fe0N?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2077048598492020736/Yu1wGrjs?format=jpg&name=800x419"
       ],
       "summary_ko": "R에서 @GoogleDeepMind로: 이 예는 과거 예측 기술이 코딩 없이 고급 AI 모델과 복잡한 워크플로를 사용하여 역사적 연구를 어떻게 추진할 수 있는지 보여줍니다. 자세히 알아보기 → https://goo.gle/4vR5ZtC",
       "published_at": "2026-07-13T15:12:10+00:00"
@@ -1169,18 +1260,6 @@
       "published_at": "2026-07-12T22:11:59+00:00"
     },
     {
-      "id": "x:sama:2076398253332140410",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2076398253332140410",
-      "text": "i'd love to see interesting things people have built with 5.6 sol. i will send the person who made the coolest thing a special gift from the openai archives.",
-      "images": [],
-      "summary_ko": "사람들이 5.6 sol로 만든 흥미로운 것들을 보고 싶습니다. 가장 멋진 것을 만든 사람에게 openai 아카이브의 특별한 선물을 보내드리겠습니다.",
-      "published_at": "2026-07-12T20:08:15+00:00"
-    },
-    {
       "id": "tg:HI_GS/6693",
       "source": "telegram",
       "author": "HI_GS",
@@ -1245,58 +1324,6 @@
       ],
       "summary_ko": "@yleun의 RT: 제가 1년 전에 썼듯이, 민주주의가 독재 체제로 바뀌는 것을 지켜본 사람의 눈을 통해 트럼프 행정부의 행동을 지켜보세요. 선거권을 중앙집권화하고, 연방군을 확대해 거리에 투입하고, 언론을 탄압합니다. 원본이 아닙니다.",
       "published_at": "2026-07-11T20:41:53+00:00"
-    },
-    {
-      "id": "x:sama:2076036901824532530",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2076036901824532530",
-      "text": "so far at least, i'm pretty sure AI has been net job-creating. this was not what i expected--although i was much less pessimistic than others, i thought by this level of capability we'd have seen some impact. it is possible this direction keeps going!",
-      "images": [],
-      "summary_ko": "적어도 지금까지는 AI가 순 일자리 창출에 기여했다고 확신합니다. 이것은 내가 기대했던 것이 아니었습니다. 비록 제가 다른 사람들보다 훨씬 덜 비관적이었지만, 이 수준의 능력으로 우리가 어느 정도 영향을 볼 수 있었을 것이라고 생각했습니다. 이 방향이 계속 진행되는 것이 가능합니다!",
-      "published_at": "2026-07-11T20:12:22+00:00"
-    },
-    {
-      "id": "x:sama:2076034163418014199",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2076034163418014199",
-      "text": "whoa",
-      "images": [
-        "https://pbs.twimg.com/media/HM-B3PMaAAAcvca.jpg"
-      ],
-      "summary_ko": "와아",
-      "published_at": "2026-07-11T20:01:30+00:00"
-    },
-    {
-      "id": "x:sama:2075985056846451123",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2075985056846451123",
-      "text": "\"physicians found fewer flaws in GPT-5.6 responses than physician-written responses.\"",
-      "images": [
-        "https://pbs.twimg.com/media/HM5Usa9agAAkKQm.jpg"
-      ],
-      "summary_ko": "\"의사는 의사가 작성한 답변보다 GPT-5.6 응답에서 결함을 더 적게 발견했습니다.\"",
-      "published_at": "2026-07-11T16:46:22+00:00"
-    },
-    {
-      "id": "x:sama:2075983427019612242",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2075983427019612242",
-      "text": "there are a lot of benchmarks that suggest 5.6 sol is the best model in the world right now, but the most reliable way to tell is that elon is obsessed with me again",
-      "images": [],
-      "summary_ko": "5.6 sol이 현재 세계 최고의 모델이라는 벤치마크가 많이 있지만, 가장 신뢰할 수 있는 방법은 Elon이 다시 나에게 집착한다는 것입니다.",
-      "published_at": "2026-07-11T16:39:53+00:00"
     },
     {
       "id": "x:ylecun:2075954690211148171",
@@ -1602,9 +1629,7 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2075274276849226204",
       "text": "R to @OpenAI: On web and mobile, ChatGPT Work is rolling out today for Pro, Enterprise, and Edu plans. It will roll out to Plus and Business plans over the next few days. In the ChatGPT desktop app, Chat, Work, and Codex are available on every plan, including Free, and is available globally to download on Windows and Mac. Codex app users can update their app as usual—it will become the new ChatGPT desktop app. https://openai.com/chatgpt-work/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2075272694568824832/QRluo5dh?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "R에서 @OpenAI로: 웹과 모바일에서 ChatGPT Work가 오늘부터 Pro, Enterprise 및 Edu 요금제에 출시됩니다. 앞으로 며칠에 걸쳐 Plus 및 Business 요금제로 출시될 예정입니다. ChatGPT 데스크톱 앱에서는 무료를 포함한 모든 플랜에서 Chat, Work 및 Codex를 사용할 수 있으며 Windows 및 Mac에서 전 세계적으로 다운로드할 수 있습니다. Codex 앱 사용자는 평소와 같이 앱을 업데이트할 수 있습니다. 이 앱은 새로운 ChatGPT 데스크톱 앱이 됩니다. https://openai.com/chatgpt-work/",
       "published_at": "2026-07-09T17:41:58+00:00"
     },
@@ -1778,7 +1803,7 @@
       "url": "https://x.com/GoogleDeepMind/status/2074513847306572213",
       "text": "R to @GoogleDeepMind: The Predicting the Past Skill is a collaborative research partner. 🏛️ We teamed up with @TSommerschield on 3️⃣ case studies to prove it. By blending specialized AI with Gemini’s reasoning, we showed how historians can explore ancient data in entirely new ways. Explore the platform → https://goo.gle/4vR5ZtC",
       "images": [
-        "https://pbs.twimg.com/card_img/2074511876642283520/LCx9Fe0N?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2077048598492020736/Yu1wGrjs?format=jpg&name=800x419"
       ],
       "summary_ko": "R에서 @GoogleDeepMind로: 과거 예측 기술은 공동 연구 파트너입니다. 🏛️ 우리는 이를 증명하기 위해 @TSommerschield와 협력하여 3️⃣ 사례 연구를 진행했습니다. 전문 AI와 Gemini의 추론을 결합함으로써 역사가들이 완전히 새로운 방식으로 고대 데이터를 탐색할 수 있는 방법을 보여주었습니다. 플랫폼 살펴보기 → https://goo.gle/4vR5ZtC",
       "published_at": "2026-07-07T15:20:18+00:00"
@@ -1832,30 +1857,6 @@
       "images": [],
       "summary_ko": "R에서 @AnthropicAI로: J-space를 사용하면 Claude가 적극적으로 생각하는 것을 읽고, 감사하고, 형성할 수 있습니다. 이는 모델의 능력이 향상됨에 따라 모델의 신뢰성을 유지하는 데 유용한 도구입니다. 그리고 이는 언어 모델과 우리 마음 사이의 놀라운 유사점을 제시합니다. 전체 논문 읽기: http://transformer-circuits.pub/2026/workspace/index.html",
       "published_at": "2026-07-06T17:35:07+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2074185384792109380",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2074185384792109380",
-      "text": "R to @AnthropicAI: We invited experts in neuroscience, philosophy, and interpretability to share their perspectives on our work. Read their commentary here: https://www-cdn.anthropic.com/files/4zrzovbb/website/cc4be2488d65e54a6ed06492f8968398ddc18ebe.pdf",
-      "images": [],
-      "summary_ko": "R에서 @AnthropicAI로: 우리는 신경과학, 철학, 해석 가능성 분야의 전문가를 초대하여 우리 작업에 대한 관점을 공유했습니다. 여기에서 논평을 읽어보세요: https://www-cdn.anthropic.com/files/4zrzovbb/website/cc4be2488d65e54a6ed06492f8968398ddc18ebe.pdf",
-      "published_at": "2026-07-06T17:35:06+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2074185381637988750",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2074185381637988750",
-      "text": "R to @AnthropicAI: This doesn’t show that Claude can have experiences, or feel things the way we do (it’s unclear whether any experiment could show this). Instead, we’ve found Claude has developed a mechanism for conscious access—which many philosophers distinguish from phenomenal experience.",
-      "images": [],
-      "summary_ko": "R에서 @AnthropicAI로: 이것은 Claude가 우리와 같은 방식으로 경험을 하거나 느낄 수 있다는 것을 보여주지 않습니다(어떤 실험에서도 이를 보여줄 수 있는지 여부는 불분명합니다). 대신에 우리는 클로드가 의식적 접근을 위한 메커니즘을 개발했다는 ​​사실을 발견했습니다. 많은 철학자들은 이를 경이로운 경험과 구별합니다.",
-      "published_at": "2026-07-06T17:35:06+00:00"
     },
     {
       "id": "x:demishassabis:2074157282477154597",
