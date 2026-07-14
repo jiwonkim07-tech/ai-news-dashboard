@@ -1,22 +1,96 @@
 {
-  "updated_at": "2026-07-14T19:20:07+00:00",
+  "updated_at": "2026-07-14T21:00:24+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 12
   },
   "briefing": {
-    "headline": "딥시크, 이르면 올해 IPO 신청 준비",
+    "headline": "SK하이닉스 주가 27.3% 폭등",
     "bullets": [
-      "삼성전자, ADR 상장 가능성에 '검토 안해'",
-      "키뱅크, 마이크론에 대한 투자의견 '비중확대'로 유지",
-      "뉴욕주 주지사, 초대형 데이터센터 신규 건설 잠정 중단 명령",
-      "JP모건, 한국 변동성 높지만 점차 억제되는 국면",
-      "IBM, 2분기 실적 예상치 하회 경고"
+      "엔비디아, 미국에 고성능 칩 출하",
+      "오픈AI, 첫 하드웨어 제품 출시 계획",
+      "딥시크, 자체 칩 개발 및 IPO 준비",
+      "미국 6월 CPI 전월대비 -0.19% 예상",
+      "메모리 펀더멘털 견조, 시장 우려에도 회복력"
     ],
-    "generated_at": "2026-07-14T19:20:07+00:00",
+    "generated_at": "2026-07-14T21:00:24+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19095",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19095",
+      "text": "오픈AI, 첫 하드웨어 제품으로 홈 스피커 출시 계획",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-14T20:42:07+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19094",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19094",
+      "text": "* SKHY, 전일대비 +27.3% 폭등한 193.9달러 기록 (SK하이닉스 본주 환산 주가 2,887,566원/주)\n- 당사가 전일 발간 자료 '반도체: 하나만 알고 둘은 모른다'를 통해 주장한 바와 같이, 현 주가는 여전히 1) 시장의 LTA 몰이해와 2) 반도체 사이클 고점 착각으로 인해 극심한 저평가 영역에 존재\n- 제한된 공급 여력으로 인해 메모리 사이클은 2027년말까지 견조한 개선세 기록할 전망. 그 과정에서 삼성전자, SK하이닉스 적정가치의 급격한 팽창 예상",
+      "images": [
+        "https://cdn5.telesco.pe/file/sS4Tm5cu6JTPCdVj8r8ouqLra7y3vqSPNxpIqjF0cXNyk6IR3POFYmnAWp9zofAeLKW3HDxeIxY40K2kvfqoP6SzCfqkEaADIYg6sg29G5qez_q_GiZg80FsBzbgKt71ko11qr2_JWwFxvgWXQHkSeEQj8keUa0sgdUODAn-7jtbeQqJeRryz27UWmDjRDFexB5ESDZDho6RriZt8ccmPxa6TYY5cvwMJXq7BuYvAnEXYvnhFyWD6YgIic9dCPLgZ0NFBXwSmIqwRruiwAAryW2wmk09TADfao6a43CxsNZDTGtyFJqt_k_GBzB8wM9htyF7Yj7FSWFQKRDs5oOFeg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-14T20:34:58+00:00"
+    },
+    {
+      "id": "tg:EMchina/31569",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31569",
+      "text": "엔비디아 +4%대  ========================  ~ US official says Nvidia, has begun shipping powerful H200 AI chips to China, per Reuters  https://x.com/unusual_whales/status/2077110128956879212",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-14T20:08:59+00:00"
+    },
+    {
+      "id": "tg:EMchina/31568",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31568",
+      "text": "엔비디아 상승폭 키우며 +3%대  ========================  ~ 다만 구매를 승인할 엔비디아 칩의 총량은 20만 개 미만으로 추정되는데, 이는 기업들이 올해 요청한 수량의 절반에도 못 미치는 수준이라고 소식통은 전했다.  ~ 중국 당국은 H200 칩은 AI 모델을 훈련(학습)하는 용도로 사용돼야 하며, 완성된 AI 모델을 구동하는 추론용으로 써서는 안 된다고도 제한했다  ~ 또 H200 칩은 공개된 공공 데이터 처리용으로만 사용해야 하며…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-14T19:59:23+00:00"
+    },
+    {
+      "id": "x:sama:2077118672150388816",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2077118672150388816",
+      "text": "hello!",
+      "images": [],
+      "summary_ko": "안녕하세요!",
+      "published_at": "2026-07-14T19:50:57+00:00"
+    },
+    {
+      "id": "x:sama:2077106587307798989",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2077106587307798989",
+      "text": "5.6 sol growth is insane. the inference team has done heroic work to be able to support demand. we are going to move mountains to continue to scale, but it is possible there are some hiccups soon.",
+      "images": [],
+      "summary_ko": "5.6솔 성장이 미친짓이네요. 추론팀은 수요를 지원할 수 있도록 영웅적인 작업을 수행했습니다. 계속해서 확장하기 위해 산을 이동할 예정이지만 곧 약간의 문제가 발생할 수 있습니다.",
+      "published_at": "2026-07-14T19:02:55+00:00"
+    },
     {
       "id": "x:sama:2077053226080436235",
       "source": "x",
@@ -393,6 +467,21 @@
       "published_at": "2026-07-14T11:37:36+00:00"
     },
     {
+      "id": "x:ylecun:2076994014692229601",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2076994014692229601",
+      "text": "RT by @ylecun: 1) If you haven't read AI as Normal Technology, these annotated slides are probably the easiest way to get a high-level overview. https://www.cs.princeton.edu/~arvindn/talks/icml-2026-annotated-slides/ 2) If you're already familiar with the core ideas, Part 1 of the talk is largely a summary of what I and @sayashk have already written, while Parts 2 and 3 have new ideas. There are a lot of unexamined assumptions in the discourse about Recursive Self-Improvement and I hope you find my pushback interesting. 3) I'm really grateful to the team (@steverab @sayashk @PKirgis & Felix Chen) for feedback on the talk. In my first version, Part 2 was about 3x too long and I was super frustrated with myself. They encouraged me to cut it down ruthlessly and turn the full version into essays on the newsletter, so that's what I plan to do! (https://www.normaltech.ai/) 4) I've received a few requests for the video. There's a video on the ICML website, but it is login-walled https://icml.cc/virtual/2026/invited-talk/67274 (I assume it's for ICML registrants only). Last year's videos are public, so presumably @icmlconf will make it public at some point.",
+      "images": [
+        "https://pbs.twimg.com/media/HNL2BArXgAAVIPe.jpg",
+        "https://pbs.twimg.com/media/HNIW7WVWQAAkt8P.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 1) AI를 일반 기술로 읽지 않았다면 주석이 달린 이 슬라이드가 아마도 높은 수준의 개요를 얻는 가장 쉬운 방법일 것입니다. https://www.cs.princeton.edu/~arvindn/talks/icml-2026-annotated-slides/ 2) 핵심 아이디어에 이미 익숙하신 분들을 위해 강연의 1부는 주로 저와 @sayashk가 이미 작성한 내용을 요약한 반면, 2부와 3부는 새로운 아이디어를 담고 있습니다. 재귀적 자기 개선에 관한 담론에는 검토되지 않은 가정이 많이 있으며, 제 반발이 흥미로웠기를 바랍니다. 3) 강연에 대한 피드백을 주신 팀(@steverab @sayashk @PKirgis & Felix Chen)에게 정말 감사드립니다. 첫 번째 버전에서는 파트 2가 3배 정도 너무 길어서 나 자신에 대해 매우 좌절감을 느꼈습니다. 가차없이 잘라서 풀버전을 에사로 바꾸라고 권유하셨어요",
+      "published_at": "2026-07-14T11:35:36+00:00"
+    },
+    {
       "id": "tg:aetherjapanresearch/23568",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -633,18 +722,6 @@
       "published_at": "2026-07-14T07:19:42+00:00"
     },
     {
-      "id": "tg:bornlupin/19082",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19082",
-      "text": "소프트뱅크 손정의 회장, \"AI 붐으로 인해 매년 5조 달러 투자 필요할 것\"\n막대한 AI 인프라 투자 전망:\n손정의 소프트뱅크 그룹 창업자 겸 회장은\n2040년까지 전 세계 인공지능(AI) 인프라 구축에 매년 5조 달러(약 6,900조 원)의 투자가 필요할 것\n이라고 밝혔습니다.\n노동 시장의 변화:\n그는\n데이터 센터, 전력 인프라, 그리고 휴머노이드 로봇 등이 확대됨에 따라 기존의 '인간 중심의 노동'에서 벗어나는 대대적인 변화가 일어날 것\n이라고 설명했습니다.\n경제적 파급력:\n또한\n2040년이 되면 AI가 전 세계 GDP의 20%를 차지할 것이며, AI 에이전트와 휴머노이드가 미래의 노동 형태를 주도할 것으로 전망\n했습니다.\nhttps://asia.nikkei.com/business/softbank/softbank-s-son-says-ai-boom-will-require-5tn-in-annual-investment?utm_source=telegram&utm_medium=referral&utm_campaign=IC_telegram_channel&utm_content=telegram_channel_posts",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-14T07:10:46+00:00"
-    },
-    {
       "id": "tg:globaletfi/20628",
       "source": "telegram",
       "author": "globaletfi",
@@ -669,44 +746,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-14T06:34:36+00:00"
-    },
-    {
-      "id": "tg:EMchina/31557",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31557",
-      "text": "홍콩 비철금속 관련 강세: 중국알루미늄 +10%대, 강서동업 +7%대\n港股有色股午后反弹，中国铝业涨近10%，中国宏桥、江西铜业股份涨超7%。",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-14T06:23:36+00:00"
-    },
-    {
-      "id": "tg:EMchina/31556",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31556",
-      "text": "2분기 글로벌 스마트폰 출하량 -6.7% 감소. 메모리 위기로 시장 양극화(IDC)\n• 2026년 2분기 전세계 스마트폰 출하량 2.775억대로 전년동기대비 -6.7% 감소. 2분기 연속 전년동기대비 감소한 것\n• 메모리 위기가 지속적으로 시장 강타. 큰폭의 비용 증가뿐만 아니라 공급 긴장도 야기. 2분기 고가 vs. 저가 시장 양극화 더욱 심화\n机构：2026Q2全球智能手机出货量下滑6.7%，内存危机导致市场两极分化\n根据国际数据公司（IDC）《全球季度手机追踪报告》的初步数据，2026年第二季度全球智能手机出货量为2.775亿部，同比下降6.7%。这已是连续第二个季度出现同比下滑。内存危机持续冲击市场，不仅大幅推高成本，也造成供应紧张。IDC全球客户端设备副总裁Francisco Jeronimo指出，2026年第二季度，高端市场与低端市场之间的分化进一步加剧。\nhttps://n.news.naver.com/article/015/0005310019?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-14T06:00:48+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19081",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19081",
-      "text": "✅\nSK하이닉스(+3.52%)\n❗️\n52주 최대 거래량  돌파\n거래대금 : 169,211억\n시가총액 : 13,149,359억\n- 현재가 : 1,910,000원\n(2026-07-14 14:47기준)",
-      "images": [
-        "https://cdn5.telesco.pe/file/QHbKaOS1MQ9peb9IHxADScHnPzjFNXz2yoyBGYXvvaK5za8FLtvQubXMV_6DOBb_ZFhHoHFm9KJY863VH8eq1qan1NY43phwgGmU1Rm260RhxOLHx_qeYDw5DxkYd4aH3uA9N_m37UyqdKgYD6x68erDkmSbcXz1UhDfM_ZWwY19kh3s8OPAqz3d2xLc8btTANMnPNq_jSLycW5XXmEzOgswCbLZGeaTbDlsiZGt8BWfm23u9JKiEy43RetyWxd0eTS2jFdz-hcV2oCc8SwxTs229ztgmnkhXWB_VhmFGVSs4IVLQfG4QaDluInjo2aqpDaqHKKchDH92Po_ckIDtw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-14T05:55:54+00:00"
     },
     {
       "id": "tg:HI_GS/6701",
@@ -942,18 +981,6 @@
       "published_at": "2026-07-13T20:23:41+00:00"
     },
     {
-      "id": "x:sama:2076759971967230419",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2076759971967230419",
-      "text": "that goes hard",
-      "images": [],
-      "summary_ko": "그거 힘들어",
-      "published_at": "2026-07-13T20:05:36+00:00"
-    },
-    {
       "id": "x:demishassabis:2076747075036045645",
       "source": "x",
       "author": "demishassabis",
@@ -964,18 +991,6 @@
       "images": [],
       "summary_ko": "@demishassabis의 RT: Google의 Gemini Omni Flash는 인공 분석 텍스트-비디오 및 이미지-비디오 순위표에서 1위로 데뷔하여 두 Gemini Omni Flash 모두에서 ByteDance의 Seedance 2.0을 제치고 Google Gemini Omni 제품군의 첫 번째 모델로 5월 Google I/O에서 공개되었으며 6월 30일 공개 미리보기에서 개발자에게 공개되었습니다. Google은 Omni를 \"무엇이든 만들 수 있는 기본 다중 모드 모델\"로 지정합니다. 모든 입력에서\", 비디오로 시작: 텍스트, 이미지 및 비디오를 입력으로 받아들이고, 기본 오디오가 포함된 클립을 생성하고, 나머지 장면을 유지하면서 비디오를 변경하라는 메시지가 표시되는 대화식 편집을 지원합니다. Gemini Omni Flash는 720p 및 24FPS에서 16:9 또는 9:16의 3~10초 클립을 생성하며 더 긴 지속 시간은 곧 제공될 예정입니다. 인공분석영상경기장에서는 Ge",
       "published_at": "2026-07-13T19:14:21+00:00"
-    },
-    {
-      "id": "x:sama:2076736417498267652",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2076736417498267652",
-      "text": "we love our users",
-      "images": [],
-      "summary_ko": "우리는 사용자를 사랑합니다",
-      "published_at": "2026-07-13T18:32:00+00:00"
     },
     {
       "id": "x:AnthropicAI:2076719549060382802",
@@ -1395,20 +1410,6 @@
       "published_at": "2026-07-11T10:47:02+00:00"
     },
     {
-      "id": "x:ylecun:2075831487400644766",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2075831487400644766",
-      "text": "RT by @ylecun: This is total insanity. Words fail to explain how anyone let alone a plurality of voters thought giving an obviously demented person control of the most powerful government in the world was a good idea. We will be lucky to come out the other side of this alive.",
-      "images": [
-        "https://pbs.twimg.com/media/HM7VvJGXcAAdMb5.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: 완전 정신 나간 짓이군요. 다수의 유권자는 물론이고 누가 명백히 정신이 나간 사람에게 세계에서 가장 강력한 정부에 대한 통제권을 부여하는 것이 좋은 생각이라고 생각했는지 말로 설명할 수 없습니다. 우리는 이 반대편에서 살아서 나올 수 있는 행운을 누릴 것입니다.",
-      "published_at": "2026-07-11T06:36:08+00:00"
-    },
-    {
       "id": "tg:enc210406/4125",
       "source": "telegram",
       "author": "enc210406",
@@ -1630,7 +1631,9 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2075274276849226204",
       "text": "R to @OpenAI: On web and mobile, ChatGPT Work is rolling out today for Pro, Enterprise, and Edu plans. It will roll out to Plus and Business plans over the next few days. In the ChatGPT desktop app, Chat, Work, and Codex are available on every plan, including Free, and is available globally to download on Windows and Mac. Codex app users can update their app as usual—it will become the new ChatGPT desktop app. https://openai.com/chatgpt-work/",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2075272694568824832/QRluo5dh?format=jpg&name=800x419"
+      ],
       "summary_ko": "R에서 @OpenAI로: 웹과 모바일에서 ChatGPT Work가 오늘부터 Pro, Enterprise 및 Edu 요금제에 출시됩니다. 앞으로 며칠에 걸쳐 Plus 및 Business 요금제로 출시될 예정입니다. ChatGPT 데스크톱 앱에서는 무료를 포함한 모든 플랜에서 Chat, Work 및 Codex를 사용할 수 있으며 Windows 및 Mac에서 전 세계적으로 다운로드할 수 있습니다. Codex 앱 사용자는 평소와 같이 앱을 업데이트할 수 있습니다. 이 앱은 새로운 ChatGPT 데스크톱 앱이 됩니다. https://openai.com/chatgpt-work/",
       "published_at": "2026-07-09T17:41:58+00:00"
     },
@@ -1843,7 +1846,9 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2074185390060110138",
       "text": "R to @AnthropicAI: We also partnered with Neuronpedia to create an interactive demo of our methods on open-weights models. Try it here: http://neuronpedia.org/jlens",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2076728407635775488/pO3K5MWL?format=jpg&name=800x419"
+      ],
       "summary_ko": "R에서 @AnthropicAI로: 또한 Neuronpedia와 제휴하여 개방형 가중치 모델에 대한 방법에 대한 대화형 데모를 만들었습니다. 여기에서 시도해 보세요: http://neuronpedia.org/jlens",
       "published_at": "2026-07-06T17:35:08+00:00"
     },
