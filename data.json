@@ -1,21 +1,109 @@
 {
-  "updated_at": "2026-07-15T20:08:53+00:00",
+  "updated_at": "2026-07-15T22:01:16+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 1
+    "new_this_run": 12
   },
   "briefing": {
-    "headline": "TSMC, 고객에 2027년부터 성숙공정 가격 인상",
+    "headline": "트럼프, 해군 재건 필요성 강조",
     "bullets": [
-      "엔비디아 젠슨황, 베라 루빈 계획대로 진행",
-      "ASML, 수요 강화로 2026년 강세 전망",
-      "OpenAI, GPT-Red 모델의 탄력성 향상",
-      "반도체 장비 매출, 5년 연속 성장 전망"
+      "애플, AI 반도체칩 기업 인수 추진",
+      "뉴욕주, 초대형 데이터센터 건설 중단",
+      "엔비디아, 젠슨황 CEO '베라 루빈' 계획대로 진행",
+      "TSMC, 2027년부터 성숙공정 가격 인상"
     ],
-    "generated_at": "2026-07-15T20:08:53+00:00",
+    "generated_at": "2026-07-15T22:01:16+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:enc210406/4140",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4140",
+      "text": "- 트럼프 대통령은\n- 미 해군력 증강의 필요성을 강조하면서\n- \"우리는 아마 한국과 다른 지역에서 오는 기업들 몇몇을 살펴보게 될 것\"\n- “그들은 우리와 선박(건조)에 있어 협력하고 있다\"\n- “지역 밖에서 만들어진 일부 선박도 구매할 것\"이라고 설명\n- ”우리는 해군을 위해 함정이 많이 필요하다\"\n- “우리 함정들은 노후화하고 있고 우리는 손을 뗀 상태였다\"고 부연\nhttps://n.news.naver.com/article/015/0005310554?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-15T21:48:34+00:00"
+    },
+    {
+      "id": "tg:EMchina/31604",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31604",
+      "text": "~ 트럼프 대통령은 이날 미국 펜실베이니아주 칼라일의 미 육군 전쟁대학에서 열린 국방 및 혁신 회의에서 \"우리는 해군을 재건해야한다\"며 \"따라서\n우리는 한국과 여러나라의 기업들 중 일부를 살펴볼 것\n\"이라고 말했다\n~ 이어 \"그들은 선박 분야에서 우리와 협력하고 있고, 우리 또한 직접 건조할 것이다\"고 부연했다\n~ 해외에서 건조된 군함을 구매하는 방안 역시 추진할 방침이라고 확인했다\n~ 트럼프 대통령은 \"\n우리는 또한 해외에서 제작된 일부 함선도 구매할 예정\n이다\"면서 \"함선을 많이 확보하게 될 것이다\"고 했다\nhttps://n.news.naver.com/article/003/0014069799?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-15T21:24:32+00:00"
+    },
+    {
+      "id": "tg:EMchina/31603",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31603",
+      "text": "미 뉴욕주 주지사, 초대형 데이터센터 신규 건설 잠정 중단 명령 서명  • 뉴욕주 주지사, 초대형 데이터센터 신규 건설 잠정 중단 명령 서명. 금지령 즉시 발효  • 50MW 이상 전력 소비하는 데이터센터에 적용  报道：美国纽约州州长已签署命令，暂停新建超大规模数据中心 据报道，美国纽约州州长已签署命令，暂停新建超大规模数据中心。该禁令将立即生效，并适用于耗电50兆瓦及以上的数据中心。   https://m.newspim.com/news/view/20260714001207",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-15T21:18:33+00:00"
+    },
+    {
+      "id": "x:OpenAI:2077501603050033634",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2077501603050033634",
+      "text": "A closer look at improved intelligence in GPT-Live: the model can keep a conversation going while helping with multiple tasks at once, like checking flights, pulling up local weather, and shaping an itinerary in real time.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2077499668737781760/img/U1xKVUJKyKHhOniL.jpg"
+      ],
+      "summary_ko": "GPT-Live의 향상된 인텔리전스를 자세히 살펴보세요. 이 모델은 항공편 확인, 현지 날씨 확인, 실시간 여행 일정 수립 등 여러 작업을 동시에 지원하면서 대화를 계속할 수 있습니다.",
+      "published_at": "2026-07-15T21:12:34+00:00"
+    },
+    {
+      "id": "tg:EMchina/31602",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31602",
+      "text": "20년만에 처음 있는 일\n==========================\n~ AP통신은 로라 실버 퓨 리서치센터 부소장이 \"센터가 전세계 여론을 추적해온 20여년 만에 중국에 대한 긍정인식이 미국보다 높은 것은 이번 조사가 처음\"이라며 \"이란 전쟁으로 미국이 평화와 안정에 기여하지 않는다는 인식 등이 영향을 미친 것으로 보인다\"고 분석했다고 보도했다\nhttps://n.news.naver.com/article/448/0000627149?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-15T21:06:24+00:00"
+    },
+    {
+      "id": "tg:EMchina/31601",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31601",
+      "text": "애플 AI 반도체칩 기업 인수 추진\n==========================\n~ 애플은 당초 '발트라'라는 코드명으로 개발 중인 차세대 서버 칩을 올해 출시할 계획이었으나 일정이 지연됐다고 소식통은 전했다\n~ 이 때문에 현재는 높은 성능을 요구하는 작업은 구글 클라우드를 통해 엔비디아 칩을 활용하고 있다\n~ 이에 따라 애플은 새 기업 인수를 통해 자체 칩의 연산 성능을 대폭 끌어올려 엔비디아 칩을 대체할 수 있는 수준으로 만들고자 하는 것으로 풀이된다\nhttps://n.news.naver.com/article/001/0016197379?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-15T20:35:32+00:00"
+    },
+    {
+      "id": "x:sama:2077489177374208000",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2077489177374208000",
+      "text": "amazing to me that some people want the silent version https://openai.com/supply/co-lab/work-louder/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2077512020816252928/s2coE-84?format=jpg&name=800x419"
+      ],
+      "summary_ko": "일부 사람들이 자동 버전을 원한다는 사실이 놀랍습니다 https://openai.com/supply/co-lab/work-louder/",
+      "published_at": "2026-07-15T20:23:12+00:00"
+    },
     {
       "id": "tg:EMchina/31600",
       "source": "telegram",
@@ -114,6 +202,20 @@
         "https://pbs.twimg.com/card_img/2077445333765001216/MQV9mB7F?format=jpg&name=800x419"
       ],
       "summary_ko": "고정됨: GPT-Red 소개 모델의 신속한 주입 취약점을 대규모로 찾는 임무를 수행하는 내부 자동화 레드 팀을 통해 더 폭넓게 배포하기 전에 더 강력한 방어 수단을 구축할 수 있습니다. https://openai.com/index/unlocking-self-improvement-gpt-red/",
+      "published_at": "2026-07-15T17:34:29+00:00"
+    },
+    {
+      "id": "x:sama:2077446718728425686",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2077446718728425686",
+      "text": "RT by @sama: Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2077445333765001216/MQV9mB7F?format=jpg&name=800x419"
+      ],
+      "summary_ko": "@sama의 RT: GPT-Red 소개 모델의 신속한 주입 취약점을 규모에 맞게 찾아내는 임무를 수행하는 내부 자동 레드 팀을 통해 더 폭넓게 배포하기 전에 더 강력한 방어 체계를 구축할 수 있도록 돕습니다. https://openai.com/index/unlocking-self-improvement-gpt-red/",
       "published_at": "2026-07-15T17:34:29+00:00"
     },
     {
@@ -548,20 +650,6 @@
       "published_at": "2026-07-15T08:13:39+00:00"
     },
     {
-      "id": "tg:EMchina/31592",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31592",
-      "text": "* 이전에 파트너로 알리바바 & 바이두 언급된바 있죠  ========================  ~ 아직 애플은 중국 내 AI 서비스 운영을 위한 공식 파트너십이나 규제 승인 확보 여부를 발표하지 않은 상태다. 이 때문에 이번 기능 노출은 내부 테스트나 제한적 배포 과정에서 발생한 실수일 가능성이 제기된다  ~ 업계에서는 애플이 앞으로 중국 기업과의 협력을 통해 서비스를 정식 출시할 가능성이 높다고 보고 있다. 다만 규제 승인과 기술 협력 구조가 확정되기…",
-      "images": [
-        "https://cdn5.telesco.pe/file/o-qi8D5ZfFOl6wYgJD0t9_5U9GOlY2zL10yof0RxwJQWmnNP8XhmWDGnAL4673rndzAG7bRrHYkU8Jpkgb6DGQrbjP8hX6I55J0kAi-p4O6aKRvxecOO2ABisoDe62VYntrbdjbCmAtAfjTpMCvVqR0HWJ9gYE3GOM7Yg25UjGHFLcH5OJ03zLhIlg0_ma-Owb5xee1Dk4ZhAnosWEP6TQXGbKRq_zIFgwtJ3AZWHHnAdIhwCsf0rj40BSrMzr8CktrObBl7fFSCSwlKdW7DdZdTsR52j18MTZamBbyyjw5shskyyHCEoGOQC8blrSPqyS9j6pWxGDVkP7gbevnfRA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-15T08:11:10+00:00"
-    },
-    {
       "id": "tg:enc210406/4139",
       "source": "telegram",
       "author": "enc210406",
@@ -576,18 +664,6 @@
       "published_at": "2026-07-15T07:56:09+00:00"
     },
     {
-      "id": "tg:EMchina/31591",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31591",
-      "text": "5월 미국채 보유량: 일본 급감  • 일본 1.143조달러(5월 1.210조달러) • 영국 9490억달러(5월 9380억달러) • 중국 6590억달러(5월 6510억달러)  日本5月所持美国国债1.143万亿美元，前值1.210万亿美元。 英国5月所持美债9490亿美元，前值9380亿美元。 中国5月所持美债6590亿美元，前值6510亿美元。   https://wallstreetcn.com/articles/3776943#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-15T07:54:43+00:00"
-    },
-    {
       "id": "tg:globaletfi/20650",
       "source": "telegram",
       "author": "globaletfi",
@@ -598,32 +674,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-15T07:45:32+00:00"
-    },
-    {
-      "id": "tg:EMchina/31590",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31590",
-      "text": "~ 검토 대상에는\n사전에 정한 가격에 자산을 매도할 권리를 부여하는 풋옵션 등 파생상품이 포함\n된 것으로 알려졌다\n~ 다만 논의는 초기 단계이며, 코어위브는 아직 어떤 헤지도 실행하지 않은 것으로 전해졌다\nhttps://n.news.naver.com/article/001/0016195903?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-15T07:15:36+00:00"
-    },
-    {
-      "id": "tg:EMchina/31589",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31589",
-      "text": "데이터 확인하고 홍콩 상승폭 확대  • 2Q GDP 컨센서스는 4.5%",
-      "images": [
-        "https://cdn5.telesco.pe/file/cS5jLTnnN9sOrrwALtsHj3dGwXzSD8F1wjDw0IKGcwE5uE5TipdAZ7ctyu6qSsWgn3lI0DN42ED-uY6I3RTDxG-7INdc9LwEySNyii5kOo9ygxO8flrdIVKSgNNWlzPPsJXvP456ElERG7c1fM9LiE-ukF0Dyy7i8x248GUePwK18AGiQOadKAeykpeGgn8TgynXx_OiSF9TbkGkBlOKtgCO76HuDJ08VcAg2Lvn5h0370atHmQAcm7tIoPVL2N5ukd7ArfeOVANexOBw7JUH7W6JeoCvxIP0ZDgj-2KBte9ICr0YRU5_x1XUReYyaCB6ps5lTA159_E-iVzMrMUKg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-15T07:11:52+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/23590",
@@ -1178,7 +1228,7 @@
       "url": "https://x.com/AnthropicAI/status/2077026346375540870",
       "text": "We’re committing $10 million CAD and partnering with leading AI institutions in Canada to help fund new AI research. https://www.anthropic.com/news/canadian-ai-research",
       "images": [
-        "https://pbs.twimg.com/card_img/2077020110561116160/sadPback?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2077468538475069440/ceJLJsL_?format=jpg&name=800x419"
       ],
       "summary_ko": "우리는 1,000만 달러의 CAD를 투자하고 캐나다의 주요 AI 기관과 협력하여 새로운 AI 연구 자금을 지원하고 있습니다. https://www.anthropic.com/news/canadian-ai-research",
       "published_at": "2026-07-14T13:44:04+00:00"
@@ -1339,18 +1389,6 @@
       "published_at": "2026-07-14T00:22:45+00:00"
     },
     {
-      "id": "x:sama:2076823209589313910",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2076823209589313910",
-      "text": "still sorta breaks my brain to see our models be good at design finally",
-      "images": [],
-      "summary_ko": "마침내 우리 모델이 디자인을 잘하는 걸 보니 아직도 머리가 아프네요",
-      "published_at": "2026-07-14T00:16:53+00:00"
-    },
-    {
       "id": "tg:enc210406/4132",
       "source": "telegram",
       "author": "enc210406",
@@ -1373,18 +1411,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-13T22:13:58+00:00"
-    },
-    {
-      "id": "x:sama:2076780425280954658",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2076780425280954658",
-      "text": "come for the best model, stay because we don’t treat you with contempt",
-      "images": [],
-      "summary_ko": "최고의 모델을 위해 와라, 우리는 당신을 경멸하지 않으니 머물러라",
-      "published_at": "2026-07-13T21:26:52+00:00"
     },
     {
       "id": "x:demishassabis:2076747075036045645",
@@ -1575,20 +1601,6 @@
       "published_at": "2026-07-13T02:34:16+00:00"
     },
     {
-      "id": "tg:enc210406/4128",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4128",
-      "text": "HD현대삼호 상선 수주 공시\n@ 선종: 암모니아 운반선(VLAC)\n@ 수량: 3척\n@ 선가: 120.9백만달러/척",
-      "images": [
-        "https://cdn5.telesco.pe/file/u_Y86tPY93ySXkVFZhlw4cnTBRJ84S_F43kobF0xAxdVcqi5M8Wmq4bTbaH2zc8HbhS8VUlItEXUmdUeHIMbTKfhtofn-R4TuMtA2PFsLHW7pCoTZDT9rIGHEg2v35fyMBh1ymSsmnRkGjhDY_9Vk_9-WSUcm19XQovKNhkI3ZwxC-a25mj-VZo8PUE0szZMhQ8vue5j9JhUO_RCEayMfKjP3Kit-molnZxNLfCLXI6XD7muPvjhTRbSBKqYXKHy8E7Lb88BJLlTc6IADQ-C5tzyHExgfIw7SKYvVv331eKWWsF9U62EvXIEVE4LIvhgXmWhY-MJKoAjglw1OEf2yA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-13T02:10:20+00:00"
-    },
-    {
       "id": "x:OpenAI:2075768216866205786",
       "source": "x",
       "author": "OpenAI",
@@ -1627,18 +1639,6 @@
       ],
       "summary_ko": "생물학 분야의 고급 AI 기능에 대한 보호 장치를 강화하기 위한 지속적인 노력의 일환으로 당사는 Bio Bug Bounty를 OpenAI Bio Bug Bounty 프로그램으로 알려진 지속적인 비공개 프로그램으로 발전시키고 보상을 $50,000로 두 배로 늘렸습니다. 우리는 OpenAI의 프론티어 모델에 대해 사전 정의된 생물 안전 문제를 해결할 수 있는 보편적인 탈옥을 찾기 위해 AI 레드 팀 구성, 보안 또는 생물학적 보안 경험이 있는 연구원을 초대하고 있습니다. https://openai.com/index/bio-bug-bounty",
       "published_at": "2026-07-10T18:25:55+00:00"
-    },
-    {
-      "id": "x:OpenAI:2075643450196971805",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2075643450196971805",
-      "text": "RT by @OpenAI: Yesterday, we made GPT-5.6 Sol Ultra generally available. Today, we're sharing that it produced a proof of the 50-year-old Cycle Double Cover Conjecture using 64 subagents in just under one hour. We're sharing the prompt and proof below. We're excited to see what you all do with Ultra!",
-      "images": [],
-      "summary_ko": "@OpenAI의 RT: 어제 우리는 GPT-5.6 Sol Ultra를 일반적으로 사용할 수 있게 만들었습니다. 오늘은 64개의 서브에이전트를 사용하여 1시간도 안되는 시간에 50년 된 사이클 이중표지 추측의 증거를 만들어냈다는 소식을 공유드립니다. 우리는 아래 프롬프트와 증거를 공유하고 있습니다. 여러분 모두가 Ultra로 어떤 활동을 펼칠지 기대됩니다!",
-      "published_at": "2026-07-10T18:08:56+00:00"
     },
     {
       "id": "x:GoogleDeepMind:2075620285923905602",
@@ -1879,9 +1879,7 @@
       "author_url": "https://x.com/karpathy",
       "url": "https://x.com/karpathy/status/2073047118801993910",
       "text": "RT by @karpathy: I spent a LOT of time through the hardest 3D prompts at Fable, it is a 45 min video, but I have 60+ very cool demos for you. Also prompts in the next post. https://www.youtube.com/watch?v=rTc2_-1KuRE",
-      "images": [
-        "https://pbs.twimg.com/cards/player-placeholder.png"
-      ],
+      "images": [],
       "summary_ko": "@karpathy의 RT: 저는 Fable에서 가장 어려운 3D 프롬프트를 통해 많은 시간을 보냈습니다. 45분짜리 동영상이지만 여러분을 위한 60개 이상의 매우 멋진 데모가 있습니다. 다음 포스팅에서도 안내드립니다. https://www.youtube.com/watch?v=rTc2_-1KuRE",
       "published_at": "2026-07-03T14:12:03+00:00"
     },
@@ -2347,7 +2345,7 @@
       "url": "https://x.com/GoogleAI/status/2061544208289132791",
       "text": "R to @GoogleAI: Read more about all the fun ways we used AI to bring I/O to life this year: https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
       "images": [
-        "https://pbs.twimg.com/card_img/2072437851174612992/C8V88XT-?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2075033002732564480/GQBqfYwP?format=jpg&name=800x419"
       ],
       "summary_ko": "R에서 @GoogleAI로: 올해 AI를 사용하여 I/O에 생명을 불어넣은 모든 재미있는 방법에 대해 자세히 알아보세요. https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
       "published_at": "2026-06-01T20:23:35+00:00"

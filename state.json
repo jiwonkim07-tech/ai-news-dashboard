@@ -1,4 +1,22 @@
 {
+  "telegram:EMchina": [
+    "tg:EMchina/31604",
+    "tg:EMchina/31603",
+    "tg:EMchina/31602",
+    "tg:EMchina/31601",
+    "tg:EMchina/31600",
+    "tg:EMchina/31599",
+    "tg:EMchina/31598",
+    "tg:EMchina/31597",
+    "tg:EMchina/31596",
+    "tg:EMchina/31595",
+    "tg:EMchina/31594",
+    "tg:EMchina/31593",
+    "tg:EMchina/31592",
+    "tg:EMchina/31591",
+    "tg:EMchina/31590",
+    "tg:EMchina/31589"
+  ],
   "x:AnthropicAI": [
     "x:AnthropicAI:2077452649000042614",
     "x:AnthropicAI:2077452646303006927",
@@ -14,6 +32,7 @@
     "x:AnthropicAI:2075005777522172146"
   ],
   "x:OpenAI": [
+    "x:OpenAI:2077501603050033634",
     "x:OpenAI:2077446723992228167",
     "x:OpenAI:2077446722683650525",
     "x:OpenAI:2077446721161093124",
@@ -25,7 +44,8 @@
     "x:OpenAI:2075768216866205786",
     "x:OpenAI:2075686461693898868",
     "x:OpenAI:2075647722766614733",
-    "x:OpenAI:2075643450196971805"
+    "x:OpenAI:2075643450196971805",
+    "x:OpenAI:2075641131002700120"
   ],
   "telegram:aetherjapanresearch": [
     "tg:aetherjapanresearch/23602",
@@ -54,21 +74,6 @@
     "tg:globaletfi/20645",
     "tg:globaletfi/20644",
     "tg:globaletfi/20643"
-  ],
-  "telegram:EMchina": [
-    "tg:EMchina/31600",
-    "tg:EMchina/31599",
-    "tg:EMchina/31598",
-    "tg:EMchina/31597",
-    "tg:EMchina/31596",
-    "tg:EMchina/31595",
-    "tg:EMchina/31594",
-    "tg:EMchina/31593",
-    "tg:EMchina/31592",
-    "tg:EMchina/31591",
-    "tg:EMchina/31590",
-    "tg:EMchina/31589",
-    "tg:EMchina/31588"
   ],
   "telegram:bornlupin": [
     "tg:bornlupin/19119",
@@ -99,6 +104,7 @@
     "x:GoogleDeepMind:2074513847306572213"
   ],
   "telegram:enc210406": [
+    "tg:enc210406/4140",
     "tg:enc210406/4139",
     "tg:enc210406/4138",
     "tg:enc210406/4137",
@@ -138,9 +144,13 @@
     "x:ylecun:2077049444525277340",
     "x:ylecun:2077034061126603120",
     "x:ylecun:2076994014692229601",
-    "x:ylecun:2076956518088323115"
+    "x:ylecun:2076956518088323115",
+    "x:ylecun:2076947246881341554",
+    "x:ylecun:2076914075636826385"
   ],
   "x:sama": [
+    "x:sama:2077489177374208000",
+    "x:sama:2077446718728425686",
     "x:sama:2077118672150388816",
     "x:sama:2077106587307798989",
     "x:sama:2077053226080436235",
@@ -180,7 +190,8 @@
     "x:GoogleAI:2061544208289132791",
     "x:GoogleAI:2060392194142290294",
     "x:GoogleAI:2060392191508488493",
-    "x:GoogleAI:2060156790642299029"
+    "x:GoogleAI:2060156790642299029",
+    "x:GoogleAI:2060043029835116826"
   ],
   "rss:semianalysis": [
     "rss:semianalysis:the-future-of-meta-superintelligence",
@@ -225,6 +236,6 @@
     "x:karpathy:2049907410303865030"
   ],
   "_meta": {
-    "last_x_fetch": "2026-07-15T18:07:49+00:00"
+    "last_x_fetch": "2026-07-15T22:01:14+00:00"
   }
 }
