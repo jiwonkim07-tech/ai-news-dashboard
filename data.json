@@ -1,21 +1,124 @@
 {
-  "updated_at": "2026-07-15T16:21:49+00:00",
+  "updated_at": "2026-07-15T18:07:50+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 2
+    "new_this_run": 10
   },
   "briefing": {
-    "headline": "TSMC, 고객에 2027년부터 성숙공정 가격 인상",
+    "headline": "엔비디아, 베라 루빈 양산 단계 진입",
     "bullets": [
-      "엔비디아 젠슨황, 베라 루빈 양산 진입",
-      "ASML, 가격 인상 계획",
+      "TSMC, 2027년부터 성숙공정 가격 인상",
+      "ASML, 강력한 실적과 견조한 가이던스",
+      "NVIDIA, 젠슨 황 \"베라 루빈 계획대로 진행 중",
       "반도체 장비 매출, 5년 연속 성장 전망",
-      "버핏, 버크셔의 알파벳 주식 매수"
+      "SK하이닉스, 나스닥 안착에 젠슨 황 호평"
     ],
-    "generated_at": "2026-07-15T16:21:49+00:00",
+    "generated_at": "2026-07-15T18:07:50+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:AnthropicAI:2077452649000042614",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2077452649000042614",
+      "text": "R to @AnthropicAI: We tested many AI models, including Claude, in the four scenarios. Even though these weren’t real incidents, they demonstrate clear misaligned behavior that should be studied further and mitigated. Find all the transcripts from the scenarios here: https://www.aenguslynch.com/portfolio-transcript-viewer/",
+      "images": [],
+      "summary_ko": "R에서 @AnthropicAI로: 우리는 네 가지 시나리오에서 Claude를 포함한 많은 AI 모델을 테스트했습니다. 실제 사건은 아니었지만, 더 자세히 연구하고 완화해야 할 명백히 잘못된 행동을 보여줍니다. 여기에서 시나리오의 모든 기록을 찾아보세요: https://www.aenguslynch.com/portfolio-transcript-viewer/",
+      "published_at": "2026-07-15T17:58:03+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2077452646303006927",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2077452646303006927",
+      "text": "New Anthropic research: Agentic misalignment in Summer 2026. A year after our blackmail experiments, we found four more ways that today’s autonomous AI agents misbehave in simulations. Read more: https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
+      "images": [
+        "https://pbs.twimg.com/media/HNSXXXaW8AAAwzp.png"
+      ],
+      "summary_ko": "새로운 인류학 연구: 2026년 여름의 에이전트 오정렬. 협박 실험 1년 후, 우리는 오늘날의 자율 AI 에이전트가 시뮬레이션에서 오작동하는 네 가지 방법을 더 발견했습니다. 더 읽어보세요: https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
+      "published_at": "2026-07-15T17:58:02+00:00"
+    },
+    {
+      "id": "x:OpenAI:2077446723992228167",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2077446723992228167",
+      "text": "R to @OpenAI: AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.",
+      "images": [],
+      "summary_ko": "R에서 @OpenAI로: AI 에이전트는 이미 차세대 모델의 기능을 개선하는 데 사용되고 있습니다. 우리는 GPT-Red를 통해 오늘날의 모델을 사용하여 내일의 모델을 더욱 강력하고 정렬되며 신뢰할 수 있는 안전을 위한 유사한 플라이휠의 잠금을 해제하기 시작했다고 믿습니다.",
+      "published_at": "2026-07-15T17:34:30+00:00"
+    },
+    {
+      "id": "x:OpenAI:2077446722683650525",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2077446722683650525",
+      "text": "R to @OpenAI: Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.",
+      "images": [],
+      "summary_ko": "R에서 @OpenAI로: GPT‑Red에 대한 교육을 통해 GPT‑5.6의 탄력성이 훨씬 향상됩니다. 이를 측정하기 위해 우리는 GPT-Red의 가장 강력한 공격 중 일부를 재생했습니다. 우리 모델은 훈련 중에 본 적이 없는 공격이었습니다. GPT‑5.6 Sol은 단 4개월 전의 최고 생산 모델보다 실패율이 6배 더 적으며 현재까지 즉각적인 주입에 대해 가장 강력한 모델임이 입증되었습니다.",
+      "published_at": "2026-07-15T17:34:30+00:00"
+    },
+    {
+      "id": "x:OpenAI:2077446721161093124",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2077446721161093124",
+      "text": "R to @OpenAI: GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models. Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT‑Red to continuously find broader and more complex failures.",
+      "images": [],
+      "summary_ko": "R에서 @OpenAI로: GPT‑Red는 다양한 도전적인 수비수 모델을 주입하는 것이 목표인 적대적인 셀프 플레이를 통해 학습합니다. GPT-Red가 발견한 모든 성공적인 공격은 이러한 방어자를 개선하는 데 사용되며, GPT-Red가 지속적으로 더 광범위하고 복잡한 실패를 찾도록 유도합니다.",
+      "published_at": "2026-07-15T17:34:30+00:00"
+    },
+    {
+      "id": "x:OpenAI:2077446719990796505",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2077446719990796505",
+      "text": "R to @OpenAI: As model capabilities grow, safety and alignment must scale with them. Red-teaming is essential, but today’s approaches are difficult to scale, creating a critical bottleneck. GPT‑Red is one way we’re addressing it.",
+      "images": [],
+      "summary_ko": "R에서 @OpenAI로: 모델 기능이 성장함에 따라 안전과 정렬도 함께 확장되어야 합니다. 레드팀 구성은 필수적이지만 오늘날의 접근 방식은 확장이 어려워 심각한 병목 현상이 발생합니다. GPT‑Red는 우리가 이 문제를 해결하는 한 가지 방법입니다.",
+      "published_at": "2026-07-15T17:34:29+00:00"
+    },
+    {
+      "id": "x:OpenAI:2077446718728425686",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2077446718728425686",
+      "text": "Pinned: Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2077445333765001216/MQV9mB7F?format=jpg&name=800x419"
+      ],
+      "summary_ko": "고정됨: GPT-Red 소개 모델의 신속한 주입 취약점을 대규모로 찾는 임무를 수행하는 내부 자동화 레드 팀을 통해 더 폭넓게 배포하기 전에 더 강력한 방어 수단을 구축할 수 있습니다. https://openai.com/index/unlocking-self-improvement-gpt-red/",
+      "published_at": "2026-07-15T17:34:29+00:00"
+    },
+    {
+      "id": "x:OpenAI:2077430470510526635",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2077430470510526635",
+      "text": "You don’t have to wait. Merch inspired by research & deployment. Available until sold out. https://openai.com/supply/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2077424279868817409/wJcEmz2H?format=jpg&name=800x419"
+      ],
+      "summary_ko": "기다릴 필요가 없습니다. 연구 및 배포에서 영감을 받은 상품입니다. 품절시까지 이용 가능합니다. https://openai.com/supply/",
+      "published_at": "2026-07-15T16:29:55+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23602",
       "source": "telegram",
@@ -1539,18 +1642,6 @@
       "published_at": "2026-07-10T18:08:56+00:00"
     },
     {
-      "id": "x:OpenAI:2075641131002700120",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2075641131002700120",
-      "text": "RT by @OpenAI: Hello beautiful people! We have reset usage limits across Codex and ChatGPT Work. And another one will come later in the day. Rejoice. Now that I have your attention, a quick update on ChatGPT Work, Codex and all the updates we shared yesterday. We’ve spent the last 24 hours reading feedback, looking at usage patterns, and talking with many of you. The short version is that there is a *lot* of excitement for GPT 5.6 Sol, ChatGPT Work on mobile & web, but also that we didn't get everything quite right. - We made it too easy to use the highest-compute settings without making the impact on usage limits sufficiently clear. - We reorganized the desktop app in one bold move, making familiar things like chats and projects harder to find. - Our launch framing was focused on ChatGPT Work and to some of our Codex fans it made it feel like Codex was going away over time. Absolutely not our intention, we love Codex and it is here to stay. - And we introduced regressions for some existing multi-agent workflows, alongside a collection of rough edges in plugins and other parts of the experience. We’re landing a first set of improvements today. We’re resetting usage twice so people can keep experimenting, changing defaults and the model picker so they don’t push people toward unnecessarily expensive settings, fixing several plugin submission issues, improving how we represent Codex in the product, and cleaning up some of the most immediate desktop problems. A larger set of improvements will land next week. We’re bringing chats and projects back into the sidebar in a more familiar and customizable way, making usage and reset timing much more visible, clarifying when to use ChatGPT Work and when to use Codex, and addressing the many other smaller pieces of great feedback we've had. The ambition behind this launch hasn’t changed. We think bringing ChatGPT and Codex together into a workspace where people and agents can collaborate is a very important step forward. But an ambitious direction doesn’t excuse avoidable confusion or regressions in the first version. Please keep the feedback coming. We’re moving quickly, and you should see the experience already get better with a few updates today; and substantially better again next week.",
-      "images": [],
-      "summary_ko": "@OpenAI의 RT: 안녕하세요 아름다운 여러분! Codex 및 ChatGPT Work 전반에 걸쳐 사용 제한이 재설정되었습니다. 그리고 또 다른 하나는 그날 나중에 올 것입니다. 가지고 있다. 이제 여러분의 관심을 끌었으니 ChatGPT Work, Codex 및 어제 공유한 모든 업데이트에 대한 빠른 업데이트를 알려드리겠습니다. 우리는 지난 24시간 동안 피드백을 읽고, 사용 패턴을 살펴보고, 많은 여러분과 대화를 나누었습니다. 짧은 버전은 모바일 및 웹에서 GPT 5.6 Sol, ChatGPT Work에 대한 *많은* 기대가 있지만 모든 것이 제대로 이루어지지 않았다는 것입니다. - 사용 제한에 미치는 영향을 충분히 명확하게 하지 않으면서 최고 컴퓨팅 설정을 사용하기가 너무 쉬워졌습니다. - 데스크톱 앱을 과감하게 개편하여 채팅, 프로젝트 등 익숙한 항목을 찾기 어렵게 만들었습니다. - 출시 프레임은 ChatGPT에 중점을 두었습니다.",
-      "published_at": "2026-07-10T17:59:43+00:00"
-    },
-    {
       "id": "x:GoogleDeepMind:2075620285923905602",
       "source": "x",
       "author": "GoogleDeepMind",
@@ -1571,7 +1662,7 @@
       "author_name": "Google DeepMind(딥마인드)",
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2075620281515929716",
-      "text": "A model’s chain of thought acts like a scratch pad, offering a window into its reasoning. 📝 On the latest episode of our podcast, host @fryrsquared sits down with @NeelNanda5 to explore interpretability – the science of reverse engineering how neural networks learn and think. Timecodes: 00:00 Introduction 02:41 Motivation for interpretability research 04:01 Mechanistic interpretability 08:14 Chain of thought monitoring 18:14 Interpretability techniques 35:00 Auditing models for safety 48:53 What comes next for interpretability",
+      "text": "Pinned: A model’s chain of thought acts like a scratch pad, offering a window into its reasoning. 📝 On the latest episode of our podcast, host @fryrsquared sits down with @NeelNanda5 to explore interpretability – the science of reverse engineering how neural networks learn and think. Timecodes: 00:00 Introduction 02:41 Motivation for interpretability research 04:01 Mechanistic interpretability 08:14 Chain of thought monitoring 18:14 Interpretability techniques 35:00 Auditing models for safety 48:53 What comes next for interpretability",
       "images": [
         "https://pbs.twimg.com/media/HM4V8NqWkAAxznf.jpg"
       ],
@@ -1593,48 +1684,6 @@
       "published_at": "2026-07-10T15:53:15+00:00"
     },
     {
-      "id": "x:OpenAI:2075310022121472399",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2075310022121472399",
-      "text": "R to @OpenAI: Meet the Wishingrads. A family running a cereal business from their dining room with GPT-5.6.",
-      "images": [
-        "https://pbs.twimg.com/media/HMz8FFnaMAEenKO.jpg"
-      ],
-      "summary_ko": "R에서 @OpenAI로: Wishingrads를 만나보세요. GPT-5.6을 사용하여 식당에서 시리얼 사업을 운영하는 가족.",
-      "published_at": "2026-07-09T20:04:01+00:00"
-    },
-    {
-      "id": "x:OpenAI:2075310020653351324",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2075310020653351324",
-      "text": "R to @OpenAI: Meet Bartosz (@nasqret). A mathematician solving previously unsolvable math problems with GPT-5.6",
-      "images": [
-        "https://pbs.twimg.com/media/HMz8QRGbIAEQ4oQ.jpg"
-      ],
-      "summary_ko": "R에서 @OpenAI로: Bartosz(@nasqret)를 만나보세요. 이전에는 풀 수 없었던 수학 문제를 GPT-5.6으로 해결하는 수학자",
-      "published_at": "2026-07-09T20:04:00+00:00"
-    },
-    {
-      "id": "x:OpenAI:2075310019185389913",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2075310019185389913",
-      "text": "Meet Hiroki (@tomiyasu16). A broccoli farmer running his farm with GPT-5.6.",
-      "images": [
-        "https://pbs.twimg.com/media/HMz8bnqbcAAEg_w.jpg"
-      ],
-      "summary_ko": "히로키(@tomiyasu16)를 만나보세요. GPT-5.6으로 농장을 운영하는 브로콜리 농부.",
-      "published_at": "2026-07-09T20:04:00+00:00"
-    },
-    {
       "id": "rss:semianalysis:the-future-of-meta-superintelligence",
       "source": "rss",
       "author": "semianalysis",
@@ -1647,32 +1696,6 @@
       ],
       "summary_ko": "메타 초지능의 미래: 1년 진행 업데이트\n\n최고 수준의 RL 환경 스타트업은 지금까지 본 것 중 가장 공격적인 컴퓨팅 램프, 2000km 이상의 확장 및 Google DeepMind에 대한 몇 가지 조언에서 탄생했습니다.",
       "published_at": "2026-07-09T19:16:14+00:00"
-    },
-    {
-      "id": "x:OpenAI:2075274276849226204",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2075274276849226204",
-      "text": "R to @OpenAI: On web and mobile, ChatGPT Work is rolling out today for Pro, Enterprise, and Edu plans. It will roll out to Plus and Business plans over the next few days. In the ChatGPT desktop app, Chat, Work, and Codex are available on every plan, including Free, and is available globally to download on Windows and Mac. Codex app users can update their app as usual—it will become the new ChatGPT desktop app. https://openai.com/chatgpt-work/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2075272694568824832/QRluo5dh?format=jpg&name=800x419"
-      ],
-      "summary_ko": "R에서 @OpenAI로: 웹과 모바일에서 ChatGPT Work가 오늘부터 Pro, Enterprise 및 Edu 요금제에 출시됩니다. 앞으로 며칠에 걸쳐 Plus 및 Business 요금제로 출시될 예정입니다. ChatGPT 데스크톱 앱에서는 무료를 포함한 모든 플랜에서 Chat, Work 및 Codex를 사용할 수 있으며 Windows 및 Mac에서 전 세계적으로 다운로드할 수 있습니다. Codex 앱 사용자는 평소와 같이 앱을 업데이트할 수 있습니다. 이 앱은 새로운 ChatGPT 데스크톱 앱이 됩니다. https://openai.com/chatgpt-work/",
-      "published_at": "2026-07-09T17:41:58+00:00"
-    },
-    {
-      "id": "x:OpenAI:2075274275104399670",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2075274275104399670",
-      "text": "R to @OpenAI: ChatGPT Work is powered by GPT-5.6. GPT-5.6 makes ChatGPT state of the art at reasoning through complex tasks and creating materials that match your templates, reference files, and preferred style. Just describe the outcome you want, without having to spell out every step to get there.",
-      "images": [],
-      "summary_ko": "R에서 @OpenAI로: ChatGPT 작업은 GPT-5.6에 의해 구동됩니다. GPT-5.6은 복잡한 작업을 통해 추론하고 템플릿, 참조 파일 및 선호하는 스타일과 일치하는 자료를 생성하는 분야에서 ChatGPT를 최첨단으로 만듭니다. 원하는 결과를 설명하기만 하면 됩니다. 목표에 도달하기 위한 모든 단계를 자세히 설명할 필요는 없습니다.",
-      "published_at": "2026-07-09T17:41:58+00:00"
     },
     {
       "id": "x:AnthropicAI:2075271759289303522",
@@ -1838,32 +1861,6 @@
       "published_at": "2026-07-06T21:53:44+00:00"
     },
     {
-      "id": "x:AnthropicAI:2074185390060110138",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2074185390060110138",
-      "text": "R to @AnthropicAI: We also partnered with Neuronpedia to create an interactive demo of our methods on open-weights models. Try it here: http://neuronpedia.org/jlens",
-      "images": [
-        "https://pbs.twimg.com/card_img/2076728407635775488/pO3K5MWL?format=jpg&name=800x419"
-      ],
-      "summary_ko": "R에서 @AnthropicAI로: 또한 Neuronpedia와 제휴하여 개방형 가중치 모델에 대한 방법에 대한 대화형 데모를 만들었습니다. 여기에서 시도해 보세요: http://neuronpedia.org/jlens",
-      "published_at": "2026-07-06T17:35:08+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2074185387577094398",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2074185387577094398",
-      "text": "R to @AnthropicAI: The J-space lets us read, audit, and shape what Claude is actively thinking about—useful tools for keeping models trustworthy as they grow more capable. And it suggests surprising parallels between language models and our own minds. Read the full paper: http://transformer-circuits.pub/2026/workspace/index.html",
-      "images": [],
-      "summary_ko": "R에서 @AnthropicAI로: J-space를 사용하면 Claude가 적극적으로 생각하는 것을 읽고, 감사하고, 형성할 수 있습니다. 이는 모델의 능력이 향상됨에 따라 모델의 신뢰성을 유지하는 데 유용한 도구입니다. 그리고 이는 언어 모델과 우리 마음 사이의 놀라운 유사점을 제시합니다. 전체 논문 읽기: http://transformer-circuits.pub/2026/workspace/index.html",
-      "published_at": "2026-07-06T17:35:07+00:00"
-    },
-    {
       "id": "x:demishassabis:2074157282477154597",
       "source": "x",
       "author": "demishassabis",
@@ -1884,7 +1881,7 @@
       "url": "https://x.com/karpathy/status/2073047118801993910",
       "text": "RT by @karpathy: I spent a LOT of time through the hardest 3D prompts at Fable, it is a 45 min video, but I have 60+ very cool demos for you. Also prompts in the next post. https://www.youtube.com/watch?v=rTc2_-1KuRE",
       "images": [
-        "https://pbs.twimg.com/card_img/2073697833124044800/opV-WmNM?format=jpg&name=800x320_1"
+        "https://pbs.twimg.com/cards/player-placeholder.png"
       ],
       "summary_ko": "@karpathy의 RT: 저는 Fable에서 가장 어려운 3D 프롬프트를 통해 많은 시간을 보냈습니다. 45분짜리 동영상이지만 여러분을 위한 60개 이상의 매우 멋진 데모가 있습니다. 다음 포스팅에서도 안내드립니다. https://www.youtube.com/watch?v=rTc2_-1KuRE",
       "published_at": "2026-07-03T14:12:03+00:00"
@@ -2284,9 +2281,7 @@
       "author_url": "https://x.com/GoogleAI",
       "url": "https://x.com/GoogleAI/status/2064366505630802081",
       "text": "R to @GoogleAI: Read the blog to learn more: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2074882605326254080/foAKpFS3?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "R에서 @GoogleAI로: 자세한 내용은 블로그를 읽어보세요. https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
       "published_at": "2026-06-09T15:18:23+00:00"
     },
