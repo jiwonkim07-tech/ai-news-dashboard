@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-07-16T15:38:40+00:00",
+  "updated_at": "2026-07-16T17:16:02+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 3
+    "new_this_run": 5
   },
   "briefing": {
-    "headline": "TSMC 2분기 실적: 고성능 칩 호황으로 어닝 서프라이즈",
+    "headline": "TSMC 2분기 실적 호조, 7,066억 대만달러 순이익",
     "bullets": [
       "마이크론, 자동차 부품 공급업체들과 장기 공급 계약 체결",
-      "ASML, 2026년 2분기 실적 전망 상향",
-      "CXMT, 공모가 8.66위안 확정",
-      "트럼프, 중국산 메모리 칩 금지 촉구",
-      "Citi, 구글·메타·아마존 2027년 자본지출 8,000억 달러 넘어설 것으로 전망"
+      "ASML, 2026년 2분기 실적 전망 상향 조정",
+      "중국, '뇌-컴퓨터 인터페이스' 의료기기 출시 승인",
+      "엔비디아, 일본 정부와 세계 최초 '국가 피지컬 AI 인프라' 구축",
+      "TSMC, 2026년 2분기 매출 가이던스 상향"
     ],
-    "generated_at": "2026-07-16T15:38:40+00:00",
+    "generated_at": "2026-07-16T17:16:02+00:00",
     "model": "groq"
   },
   "items": [
@@ -373,6 +373,20 @@
       "published_at": "2026-07-16T07:51:36+00:00"
     },
     {
+      "id": "x:ylecun:2077661998972604876",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2077661998972604876",
+      "text": "RT by @ylecun: Today i noticed my walnuts come from California. My immediate reaction was to tokenburn this important question:",
+      "images": [
+        "https://pbs.twimg.com/media/HNVWk3TWMAA7jB9.jpg"
+      ],
+      "summary_ko": "RT by @yleun: 오늘 제 호두가 캘리포니아에서 생산된 걸 알았습니다. 나의 즉각적인 반응은 다음과 같은 중요한 질문을 토큰버닝하는 것이었습니다.",
+      "published_at": "2026-07-16T07:49:56+00:00"
+    },
+    {
       "id": "tg:globaletfi/20671",
       "source": "telegram",
       "author": "globaletfi",
@@ -409,6 +423,18 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-16T06:35:25+00:00"
+    },
+    {
+      "id": "x:ylecun:2077641797363237328",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2077641797363237328",
+      "text": "RT by @ylecun: This is such a splitting hairs issue. Like what would you want? All the data? Not possible. Massive IP violation. Training harness? Okay great, you can't run it at scale. It's useful to have open models you can inspect and fine tune. Period. Yeah they are not \"fully open\" but it's just not realistic or helpful for people to keep driving this issue and it doesn't make much sense in practical reality.",
+      "images": [],
+      "summary_ko": "@yleun의 RT: 이것은 머리카락이 갈라지는 문제입니다. 당신은 무엇을 원하십니까? 모든 데이터? 불가능합니다. 대규모 IP 위반. 트레이닝 하네스? 좋습니다. 대규모로 실행할 수는 없습니다. 검사하고 미세 조정할 수 있는 개방형 모델을 갖는 것이 유용합니다. 기간. 예, \"완전히 개방적\"이지는 않지만 사람들이 이 문제를 계속 추진하는 것은 현실적이지 않거나 도움이 되지 않으며 실제 현실에서는 별 의미가 없습니다.",
+      "published_at": "2026-07-16T06:29:39+00:00"
     },
     {
       "id": "tg:bornlupin/19132",
@@ -1299,34 +1325,6 @@
       "published_at": "2026-07-14T15:30:33+00:00"
     },
     {
-      "id": "x:ylecun:2077049508882489794",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2077049508882489794",
-      "text": "RT by @ylecun: Aligned with @matanSF's intuition that in the next 12 months, 90% of tokens could be going to open models. We're seeing more and more companies using frontier APIs for experimenting and open-source or private models for production and larger workloads!",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2077048846052433921/img/f85ecV63ViFkQBop.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: 향후 12개월 내에 토큰의 90%가 공개 모델에 사용될 수 있다는 @matanSF의 직관에 맞춰 조정되었습니다. 실험을 위해 프론티어 API를 사용하고 프로덕션 및 대규모 워크로드를 위해 오픈 소스 또는 프라이빗 모델을 사용하는 회사가 점점 더 많아지고 있습니다.",
-      "published_at": "2026-07-14T15:16:07+00:00"
-    },
-    {
-      "id": "x:ylecun:2077049444525277340",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2077049444525277340",
-      "text": "RT by @ylecun: Today's leading SSL methods rely heavily on training heuristics—EMA, teacher-student training, layer freezing, and more—to remain stable. Regularization-based methods are much simpler, but have long failed to match the generalization performance of leading SSL approaches. VISReg breaks this trade-off. We introduce VISReg, the first regularization-based SSL method to achieve state-of-the-art out-of-domain generalization, outperforming MoCov3, DINO, data2vec, iBOT, I-JEPA, MAE, and DINOv2. arXiv: https://arxiv.org/pdf/2606.02572 Github: https://github.com/HaiyuWu/visreg",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2077049392163688448/img/cweOxnZlzuvcgVwy.jpg"
-      ],
-      "summary_ko": "RT(@yleun): 오늘날 최고의 SSL 방법은 안정성을 유지하기 위해 EMA, 교사-학생 교육, 계층 동결 등과 같은 교육 경험적 방법에 크게 의존합니다. 정규화 기반 방법은 훨씬 간단하지만 오랫동안 주요 SSL 접근 방식의 일반화 성능을 맞추지 못했습니다. VISReg는 이러한 절충안을 깨뜨립니다. MoCov3, DINO, data2vec, iBOT, I-JEPA, MAE 및 DINOv2를 능가하는 최첨단 도메인 외부 일반화를 달성하는 최초의 정규화 기반 SSL 방법인 VISReg를 소개합니다. arXiv: https://arxiv.org/pdf/2606.02572 Github: https://github.com/HaiyuWu/visreg",
-      "published_at": "2026-07-14T15:15:51+00:00"
-    },
-    {
       "id": "x:AnthropicAI:2077047278078931243",
       "source": "x",
       "author": "AnthropicAI",
@@ -1753,7 +1751,7 @@
       "url": "https://x.com/AnthropicAI/status/2075257492716879967",
       "text": "Our Long-Term Benefit Trust has appointed Dr. Ben Bernanke as its newest member. Read more: https://www.anthropic.com/news/ben-bernanke",
       "images": [
-        "https://pbs.twimg.com/card_img/2073934232947507200/EKEttPNx?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2076471740683964416/T5Q69_JR?format=jpg&name=800x419"
       ],
       "summary_ko": "우리 장기 혜택 신탁(Long-Term Benefit Trust)은 Ben Bernanke 박사를 최신 회원으로 임명했습니다. 더 읽어보세요: https://www.anthropic.com/news/ben-bernanke",
       "published_at": "2026-07-09T16:35:17+00:00"
@@ -2395,7 +2393,7 @@
       "author_name": "Google AI(구글 AI)",
       "author_url": "https://x.com/GoogleAI",
       "url": "https://x.com/GoogleAI/status/2060392194142290294",
-      "text": "Tune in for the full story ↓ https://www.youtube.com/watch?v=8hfpLa5wPGo",
+      "text": "R to @GoogleAI: Tune in for the full story ↓ https://www.youtube.com/watch?v=8hfpLa5wPGo",
       "images": [
         "https://pbs.twimg.com/card_img/2074956687392260096/IJGqXgkN?format=jpg&name=800x320_1"
       ],
