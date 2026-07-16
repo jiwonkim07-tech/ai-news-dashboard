@@ -1,22 +1,103 @@
 {
-  "updated_at": "2026-07-16T19:10:44+00:00",
+  "updated_at": "2026-07-16T20:58:23+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 10
   },
   "briefing": {
-    "headline": "TSMC 2분기 실적 호황",
+    "headline": "OpenAI CEO 샘 알트먼, 음성 모델 한계점 넘었다 발언",
     "bullets": [
+      "TSMC 2026년 2분기 실적 가이던스 상승 전망",
       "마이크론, 자동차 부품 공급업체들과 장기 공급 계약 체결",
-      "ASML, 2026년 2분기 실적 전망 상승",
-      "TSMC, 2026년 2분기 매출 가이던스 상승",
-      "엔비디아, 일본 정부와 세계 최초 '국가 피지컬 AI 인프라' 구축",
-      "CXMT, 공모가 8.66위안 확정"
+      "아마존닷컴 2Q26 실적 프리뷰 발표",
+      "구글, 메타, 아마존의 2027년 자본지출 규모 8,000억 달러 넘어설 것으로 전망",
+      "중국, '뇌-컴퓨터 인터페이스'(BCI) 의료기기 출시 승인"
     ],
-    "generated_at": "2026-07-16T19:10:44+00:00",
+    "generated_at": "2026-07-16T20:58:23+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:sama:2077842579232895286",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2077842579232895286",
+      "text": "i talk to chatgpt more than i type to it at this point new voice model really crossed a threshold",
+      "images": [],
+      "summary_ko": "나는 이 시점에서 새로운 음성 모델이 실제로 한계점을 넘었습니다.",
+      "published_at": "2026-07-16T19:47:29+00:00"
+    },
+    {
+      "id": "x:sama:2077817060068057493",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2077817060068057493",
+      "text": "we did not have our best last 12 months ever, which is mostly my fault, but we are about to have our best 12 months to date. the team is doing amazing work and i think you’ll be very happy with what they’ve got cooking for you. i am happy about this for many reasons, but mostly because i care about our users winning. AI has to be about giving lots of people more freedom, agency, and wealth. we want to do the right thing, but we do not want to scare people into doing our thing.",
+      "images": [],
+      "summary_ko": "지난 12개월 동안 최고의 성적을 내지 못한 것은 대부분 내 잘못이지만, 이제 곧 최고의 12개월을 맞이하게 될 것입니다. 팀은 놀라운 일을 하고 있고 그들이 당신을 위해 요리한 음식에 당신도 매우 만족할 것이라고 생각합니다. 나는 여러 가지 이유로 이에 대해 만족하지만 가장 큰 이유는 사용자가 승리하는 것에 관심이 있기 때문입니다. AI는 많은 사람들에게 더 많은 자유, 선택 의지, 부를 제공하는 것이어야 합니다. 우리는 옳은 일을 하고 싶지만, 사람들이 우리 일을 하도록 겁을 주고 싶지는 않습니다.",
+      "published_at": "2026-07-16T18:06:05+00:00"
+    },
+    {
+      "id": "x:OpenAI:2077807981715128702",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2077807981715128702",
+      "text": "R to @OpenAI: Listen to the OpenAI Podcast on— Spotify https://open.spotify.com/show/0zojMEDizKMh3aTxnGLENP Apple https://podcasts.apple.com/us/podcast/what-racing-reveals-about-working-with-ai-episode-22/id1820330260?i=1000777091917 YouTube https://www.youtube.com/watch?v=KNPjRpNtQ7s",
+      "images": [
+        "https://pbs.twimg.com/card_img/2075975210894036992/Nk4RjbGZ?format=jpg&name=420x420_2"
+      ],
+      "summary_ko": "R에서 @OpenAI로: OpenAI 팟캐스트 듣기— Spotify https://open.spotify.com/show/0zojMEDizKMh3aTxnGLENP Apple https://podcasts.apple.com/us/podcast/what-racing-reveals-about-working-with-ai-episode-22/id1820330260?i=1000777091917 YouTube https://www.youtube.com/watch?v=KNPjRpNtQ7s",
+      "published_at": "2026-07-16T17:30:01+00:00"
+    },
+    {
+      "id": "x:OpenAI:2077807977193714080",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2077807977193714080",
+      "text": "In racing, tiny margins matter. AI can help teams find them. OpenAI’s Joyce Ruffell and @RaceTekSystems co-founder @GarageGuyChase discuss with @AndrewMayne how racing teams use AI to turn track data into faster decisions—from our research collaboration with Chip Ganassi Racing to building new tools with ChatGPT and Codex.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2077792903074893829/img/P0VqsGZmvQ6TCO7k.jpg"
+      ],
+      "summary_ko": "경주에서는 작은 마진이 중요합니다. AI는 팀이 이를 찾는 데 도움을 줄 수 있습니다. OpenAI의 Joyce Ruffell과 @RaceTekSystems 공동 창립자 @GarageGuyChase는 @AndrewMayne과 함께 Chip Ganassi Racing과의 연구 협력부터 ChatGPT 및 Codex를 사용한 새로운 도구 구축에 이르기까지 레이싱 팀이 AI를 사용하여 트랙 데이터를 더 빠른 결정으로 전환하는 방법에 대해 논의합니다.",
+      "published_at": "2026-07-16T17:30:00+00:00"
+    },
+    {
+      "id": "x:GoogleAI:2077803351392268314",
+      "source": "x",
+      "author": "GoogleAI",
+      "author_name": "Google AI(구글 AI)",
+      "author_url": "https://x.com/GoogleAI",
+      "url": "https://x.com/GoogleAI/status/2077803351392268314",
+      "text": "RT by @GoogleAI: 3 years ago we started as a tiny experiment with the goal of helping you learn faster. Since then, we grew to bring audio, video, and interactivity to your sources, transitioning from a passive workspace to your true research companion. And now, notebooks have even become an entire ecosystem: you can already access them in the @GeminiApp and soon in Google Search So, with these advancements, it’s time for us to evolve once again: NotebookLM is now Gemini Notebook ✨📓 The same app you know and love isn’t going anywhere, we just have an updated name that reflects our role in Google's AI portfolio. And our mission stays exactly the same: helping you learn, faster. Thank you for believing in us— this wouldn't have been possible without your passion (and feature requests...) Big things to come (yes, even folders📂!) so stay tuned. Sincerely, The Project Tailwind team",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2077803235314896896/img/p59_jo3Rjk99bb7_.jpg"
+      ],
+      "summary_ko": "@GoogleAI의 RT: 3년 전 우리는 여러분이 더 빨리 배울 수 있도록 돕기 위한 작은 실험으로 시작했습니다. 그 이후로 우리는 오디오, 비디오 및 상호 작용 기능을 소스에 제공하여 수동적인 작업 공간에서 진정한 연구 동반자로 전환했습니다. 이제 노트북은 전체 생태계가 되었습니다. @GeminiApp과 곧 Google 검색에서 이미 액세스할 수 있습니다. 따라서 이러한 발전을 통해 우리는 다시 한 번 진화해야 할 때입니다. NotebookLM은 이제 Gemini Notebook입니다 ✨📓 여러분이 알고 사랑하는 동일한 앱은 더 이상 사라지지 않을 것입니다. Google의 AI 포트폴리오에서 우리의 역할을 반영하는 업데이트된 이름만 갖게 되었습니다. 그리고 우리의 사명은 똑같습니다. 즉, 여러분이 더 빨리 배울 수 있도록 돕는 것입니다. 저희를 믿어주셔서 감사합니다. 이는 여러분의 열정과 기능 요청이 없었다면 불가능했을 것입니다.",
+      "published_at": "2026-07-16T17:11:37+00:00"
+    },
+    {
+      "id": "x:sama:2077794137428922833",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2077794137428922833",
+      "text": "RT by @sama: My first attempt at a twitter article.. if you prefer the blog form, see https://windowsontheory.org/2026/07/16/all-watched-over/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2077794140314537986/rCFV_b0r?format=png&name=800x419",
+        "https://pbs.twimg.com/media/HNXKrDUWUAAVy5g.jpg"
+      ],
+      "summary_ko": "@sama의 RT: 트위터 기사에 대한 첫 시도.. 블로그 형식을 선호하는 경우 https://windowsontheory.org/2026/07/16/all-watched-over/를 참조하세요.",
+      "published_at": "2026-07-16T16:35:00+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23634",
       "source": "telegram",
@@ -471,6 +552,18 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-16T05:49:46+00:00"
+    },
+    {
+      "id": "x:sama:2077630111499882637",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2077630111499882637",
+      "text": "RT by @sama: On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: - Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled - The model attempts to override the $HOME env var to define a temporary directory. - The model makes an honest mistake and mistakenly deletes $HOME instead. This is of course not how we want the system to behave, even when a user operates the model in full-access mode without the safeguards of our sandbox or without using auto review which checks for these kinds of high risk actions and rejects them. We are taking steps to mitigate this risk including by updating the developer message, guiding more users towards safer permission modes, and adding additional harness safeguards. Even though this happens extremely rarely, we’ll share a detailed post-mortem in the coming days that goes into more details and what we are doing to minimize risks further.",
+      "images": [],
+      "summary_ko": "@sama님의 RT: 파일 삭제 시. 우리는 GPT-5.6이 예기치 않게 파일을 삭제했다는 몇 가지 보고서를 조사했습니다. 우리가 발견한 것은 다음과 같은 경우에 가장 일반적으로 발생한다는 것입니다. - 전체 액세스 모드가 활성화되고 자동 검토가 활성화되지 않은 경우를 포함하여 샌드박싱 보호 없이 코덱스가 실행됩니다. - 모델이 임시 디렉터리를 정의하기 위해 $HOME env var를 재정의하려고 시도합니다. - 모델이 실수를 해서 $HOME을 대신 삭제했습니다. 물론 이것은 사용자가 샌드박스의 보호 장치 없이 전체 액세스 모드에서 모델을 작동하거나 이러한 종류의 고위험 작업을 확인하고 거부하는 자동 검토를 사용하지 않는 경우에도 시스템이 작동하기를 원하는 방식이 아닙니다. 우리는 개발자 메시지를 업데이트하고 더 많은 정보를 안내하는 등 이러한 위험을 완화하기 위한 조치를 취하고 있습니다.",
+      "published_at": "2026-07-16T05:43:13+00:00"
     },
     {
       "id": "tg:bornlupin/19129",
@@ -1367,30 +1460,6 @@
       "published_at": "2026-07-14T14:29:40+00:00"
     },
     {
-      "id": "x:sama:2077036999303999910",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2077036999303999910",
-      "text": "GPT-5.6 sol is half the price and ~twice as token efficient as fable in many cases for accomplishing the same task. happy to deliver at one-quarter of the price.",
-      "images": [],
-      "summary_ko": "GPT-5.6 sol은 가격이 절반이고 동일한 작업을 수행하는 데 많은 경우 우화만큼 토큰 효율적입니다. 4분의 1 가격으로 배송해드리게 되어 기쁩니다.",
-      "published_at": "2026-07-14T14:26:24+00:00"
-    },
-    {
-      "id": "x:sama:2077033807736459713",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2077033807736459713",
-      "text": "2.5x increase in usage of our agentic products (codex and chatgpt work) in the last week! welcome.",
-      "images": [],
-      "summary_ko": "지난 주 에이전트 제품(코덱스 및 chatgpt 작업) 사용량이 2.5배 증가했습니다! 환영.",
-      "published_at": "2026-07-14T14:13:43+00:00"
-    },
-    {
       "id": "x:AnthropicAI:2077026346375540870",
       "source": "x",
       "author": "AnthropicAI",
@@ -1431,32 +1500,6 @@
       ],
       "summary_ko": "Pinned: 프론티어 AI를 위한 프레임워크와 새로운 시대의 시작",
       "published_at": "2026-07-14T09:10:16+00:00"
-    },
-    {
-      "id": "x:sama:2076824870072238299",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2076824870072238299",
-      "text": "R to @sama: \"hard questions are great but only if we deem you worthy enough to not silently downgrade you, or even get access at all\"",
-      "images": [],
-      "summary_ko": "R에서 @sama에게: \"어려운 질문도 훌륭하지만, 조용히 당신을 다운그레이드하거나 아예 액세스 권한을 얻지 못할 만큼 가치가 있다고 판단하는 경우에만 가능합니다.\"",
-      "published_at": "2026-07-14T00:23:29+00:00"
-    },
-    {
-      "id": "x:sama:2076824686307271125",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2076824686307271125",
-      "text": "i thought this was satire, kept looking for the handle to be spelled c1audeai or something",
-      "images": [
-        "https://pbs.twimg.com/media/HMzYzrcXMAAeKQI.jpg"
-      ],
-      "summary_ko": "난 이게 풍자인 줄 알았는데, c1audeai 같은 철자가 적힌 손잡이를 계속 찾았어요",
-      "published_at": "2026-07-14T00:22:45+00:00"
     },
     {
       "id": "x:demishassabis:2076747075036045645",
@@ -1631,34 +1674,6 @@
       "images": [],
       "summary_ko": "@OpenAI의 RT: GPT-Live가 이제 전 세계 모든 ChatGPT 사용자에게 완전히 출시되었습니다. 또한 주말 내내 모든 사람의 음성 사용 제한을 두 배로 늘려 더 많은 기능을 사용해 볼 수 있습니다. 재미있게 보내세요! 🎉",
       "published_at": "2026-07-11T02:24:43+00:00"
-    },
-    {
-      "id": "x:OpenAI:2075686461693898868",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2075686461693898868",
-      "text": "GPT-5.6 is a major step forward for health intelligence. Across the lineup, we’re delivering stronger performance at lower cost: GPT-5.6 Luna outperforms GPT-5.5 at its highest reasoning setting while costing 25x less. Together, these advances raise quality while making advanced models accessible to more people globally.",
-      "images": [
-        "https://pbs.twimg.com/media/HM5Q9inaoAAA921.jpg"
-      ],
-      "summary_ko": "GPT-5.6은 의료 정보 분야에서 중요한 진전입니다. 라인업 전체에 걸쳐 더 저렴한 비용으로 더 강력한 성능을 제공합니다. GPT-5.6 Luna는 가장 높은 추론 설정에서 GPT-5.5보다 성능이 뛰어나면서도 비용은 25배 더 저렴합니다. 이러한 발전을 통해 전 세계적으로 더 많은 사람들이 고급 모델에 접근할 수 있게 되면서 품질이 향상되었습니다.",
-      "published_at": "2026-07-10T20:59:51+00:00"
-    },
-    {
-      "id": "x:OpenAI:2075647722766614733",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2075647722766614733",
-      "text": "As part of our ongoing efforts to strengthen our safeguards for advanced AI capabilities in biology, we’re evolving our Bio Bug Bounty into an ongoing private program, known as the OpenAI Bio Bug Bounty program and doubling rewards to $50K. We’re inviting researchers with experience in AI red teaming, security, or biosecurity to try to find a universal jailbreak that can defeat our predefined biosafety challenge against OpenAI’s frontier models. https://openai.com/index/bio-bug-bounty",
-      "images": [
-        "https://pbs.twimg.com/card_img/2075434643285819392/BHiTLDWJ?format=jpg&name=800x419"
-      ],
-      "summary_ko": "생물학 분야의 고급 AI 기능에 대한 보호 장치를 강화하기 위한 지속적인 노력의 일환으로 당사는 Bio Bug Bounty를 OpenAI Bio Bug Bounty 프로그램으로 알려진 지속적인 비공개 프로그램으로 발전시키고 보상을 $50,000로 두 배로 늘렸습니다. 우리는 OpenAI의 프론티어 모델에 대해 사전 정의된 생물 안전 문제를 해결할 수 있는 보편적인 탈옥을 찾기 위해 AI 레드 팀 구성, 보안 또는 생물학적 보안 경험이 있는 연구원을 초대하고 있습니다. https://openai.com/index/bio-bug-bounty",
-      "published_at": "2026-07-10T18:25:55+00:00"
     },
     {
       "id": "x:GoogleDeepMind:2075620285923905602",
@@ -2413,20 +2428,6 @@
       ],
       "summary_ko": "릴리스 노트의 이번 에피소드에서 Gemini 설계자들이 AI의 한계를 계속해서 확장하기 위한 여정에 대해 반성하는 것을 들어보세요. @JeffDean, @koraykv, @OriolVinyalsML, @NoamShazeer가 함께 카메라 앞에 앉아 모델 뒤에 있는 사람들의 비하인드 스토리를 공유하고 그들이 비전을 어떻게 보았는지 공유합니다.",
       "published_at": "2026-05-29T16:05:53+00:00"
-    },
-    {
-      "id": "x:GoogleAI:2060156790642299029",
-      "source": "x",
-      "author": "GoogleAI",
-      "author_name": "Google AI(구글 AI)",
-      "author_url": "https://x.com/GoogleAI",
-      "url": "https://x.com/GoogleAI/status/2060156790642299029",
-      "text": "R to @GoogleAI: Draw a path that a drone can follow",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2059419707556438016/img/0fBSltBoNiBhjxOZ.jpg"
-      ],
-      "summary_ko": "R에서 @GoogleAI로: 드론이 따라갈 수 있는 경로 그리기",
-      "published_at": "2026-05-29T00:30:29+00:00"
     },
     {
       "id": "x:AndrewYNg:2059006941012295935",
