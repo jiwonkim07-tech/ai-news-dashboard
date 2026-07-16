@@ -1,21 +1,94 @@
 {
-  "updated_at": "2026-07-16T22:10:08+00:00",
+  "updated_at": "2026-07-16T23:59:41+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 9
   },
   "briefing": {
-    "headline": "OpenAI CEO 샘 알트먼, 음성 모델 한계점 넘었다 강조",
+    "headline": "OpenAI 붕괴 우려로 글로벌 증시 청산 우려",
     "bullets": [
-      "TSMC 2026년 2분기 실적 가이던스 상향 전망",
+      "구글 Gemini 3.5 Pro 발표 연기, 주가 -4%대",
+      "SpaceX, 스타십 로켓 중대 시험 비행 임무 취소",
       "마이크론, 자동차 부품 공급업체들과 장기 공급 계약 체결",
-      "구글 AI, 오디오 비디오 상호 작용 지원 실험 시작",
-      "ASML 2026년 2분기 목표주가 상향 조정"
+      "TSMC, 2026년 2분기 매출 가이던스 상승 여력",
+      "엔비디아, 일본 정부와 세계 최초 국립 피지컬 AI 인프라 구축"
     ],
-    "generated_at": "2026-07-16T22:10:08+00:00",
+    "generated_at": "2026-07-16T23:59:41+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31629",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31629",
+      "text": "• LME 가격:\n구리 +17달러(13598달러/톤)\n알루미늄 +35달러(3185달러/톤)\n아연 +48달러(3594달러/톤)\n납 +20달러(+1872달러/톤)\n니켈 +349달러(17152달러/톤)\n주석 +376달러(53156달러/톤)\n코발트 보합(56290달러/톤)\nLME期铜收涨17美元，报13598美元/吨。\nLME期铝收涨35美元，报3185美元/吨。\nLME期锌收涨48美元，报3594美元/吨。\nLME期铅收涨20美元，报1872美元/吨。\nLME期镍收涨349美元，报17152美元/吨。\nLME期锡收涨376美元，报53156美元/吨。\nLME期钴收平，报56290美元/吨。\nhttps://wallstreetcn.com/livenews/3135200?ivk=1#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-16T23:48:29+00:00"
+    },
+    {
+      "id": "tg:EMchina/31628",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31628",
+      "text": "지지율 50% 하회\n========================\n~ 지지통신 조사 기준으로 지난달 54.3%였던 다카이치 내각 지지율은 이달 5.3%포인트(p) 하락하며 출범 후 최저치를 다시 썼다. 지지통신의 지난달 조사 결과도 전월보다 5.1%p 떨어진 것이었다\n~ 특히 이번 조사에선 60대 연령층의 지지율이 지난달 63.7%에서 39.9%로 20%p 넘게 급락했다.\n~ 다카이지 내각을 지지한다는 응답자들은 일본 최초의 여성 총리인 다카이치의 지도력과 신뢰성을 그 이유로 꼽았다\n~ 반면 지지하지 않는 이유로는 \"별로 기대할 게 없다\" \"정책이 좋지 않다\"는 등의 답변이 많았다\nhttps://n.news.naver.com/article/421/0009064266?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-16T23:38:54+00:00"
+    },
+    {
+      "id": "tg:EMchina/31627",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31627",
+      "text": "구글 Gemini 3.5 Pro 발표 연기. 주가 -4%대\nhttps://n.news.naver.com/article/018/0006332068?sid=105",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-16T23:31:04+00:00"
+    },
+    {
+      "id": "tg:EMchina/31626",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31626",
+      "text": "SpaceX, '스타십' 로켓 중대 시험 비행 임무 취소. 시간외 주가 한때 -4% 이상 급락\n• 스페이스X, 구체적으로 설명되지 않은 문제로 '스타십' 로켓의 중대한 시험 비행 임무 취소\n• 기존 회사의 13번째, IPO 이후로는 처음으로 중대 임무 수행 예정이었음\nSpaceX取消巨型“星舰”火箭的重大试飞任务\n马斯克旗下太空探索公司SpaceX取消了“星舰”火箭的重大试飞任务，原因是出现了一个未具体说明的问题。SpaceX盘后跳水超4%。\n“星舰”原定于当地时间下午 5:45，从 SpaceX 位于美国得克萨斯州南部的发射设施“星基地”（Starbase）起飞，执行其第13次重大任务、即该公司美国IPO以来第一次发射。\nhttps://wallstreetcn.com/livenews/3135314?ivk=1#from=ios",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-16T23:28:45+00:00"
+    },
+    {
+      "id": "tg:EMchina/31625",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31625",
+      "text": "'리먼 타임' 임박? 대형 공매도의 1.5만자 장문:  \"OpenAI 붕괴로 글로벌 증시 청산 우려\" (EdZitron)\n• 진정한 AI 버블은 본질적으로 \"OpenAI 버블“\n• OpenAI가 결국 실패한다면, 이는 AI 시대의 \"리먼 브라더스\"가 될 것. 전체 AI 투자 논리 깨뜨릴 뿐만 아니라 데이터센터, AI 인프라, 나아가 글로벌 테크주의 대규모 재평가 초래 가능성\n• ‘OpenAI가 전체 AI 자본 사이클 지원하는 충분한 비즈니스 모델 보유 여부‘가 핵심 문제\n“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算\nEd Zitron认为：真正的AI泡沫，本质上就是“OpenAI泡沫”；如果OpenAI最终失败，它将成为AI时代的“雷曼兄弟”，不仅会击穿整个AI投资逻辑，更可能引发数据中心、AI基础设施乃至全球科技股的大规模重新定价。这些观点指向一个关键问题：OpenAI是否拥有足以支撑整个AI资本周期的商业模式。\nhttps://finance.yahoo.com/technology/ai/articles/ai-bubble-openai-bubble-ed-183233881.html",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-16T23:25:57+00:00"
+    },
+    {
+      "id": "tg:EMchina/31624",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31624",
+      "text": "10월 브라질 대선 앞두고 압박  ==========================  ~ 미국이 브라질산 수입품 대부분에 25%의 관세를 물린다. 오는 22일 발효되는 이번 조치는 도널드 트럼프 행정부의 새 관세 전략에 따른 첫 타깃으로, 앞으로 수십개국으로 번질 수 있다는 신호탄으로 받아들여진다. 그동안 무역흑자국을 겨냥해온 무역법 301조를 무역적자국인 브라질에 이례적으로 적용한 만큼, 다른 나라들도 안심할 수 없다는 진단이다  ~ 트럼프 대통령의 대(對)브라질…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-16T23:21:53+00:00"
+    },
     {
       "id": "x:sama:2077842579232895286",
       "source": "x",
@@ -379,18 +452,6 @@
       "published_at": "2026-07-16T09:48:37+00:00"
     },
     {
-      "id": "tg:EMchina/31617",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31617",
-      "text": "이제 관세는 언제, 어디서든 던지는 카드가 되어버렸다  https://n.news.naver.com/article/001/0016195064?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-16T08:46:30+00:00"
-    },
-    {
       "id": "tg:bornlupin/19136",
       "source": "telegram",
       "author": "bornlupin",
@@ -493,18 +554,6 @@
       "published_at": "2026-07-16T07:33:27+00:00"
     },
     {
-      "id": "tg:EMchina/31615",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31615",
-      "text": "[한투증권 중국/신흥국 정정영]  • 2Q GDP: '불균형' 성적표 확인  >> 2026년 2분기 중국 경제성장률은 4.3%로 시장 기대(4.5%)와 1분기(5.0%)를 모두 하회했습니다. '불균형'한 경제 성적표가 확인됐습니다. 글로벌 AI 투자 사이클에 동참한 첨단 제조업은 견조한 반면, 내수 회복은 더딥니다. 기업 대비 가계 심리는 상대적으로 약합니다. 이는 중국 정부가 추구하는 방향과는 다른 흐름입니다. 하반기 'K자형 경제'에 균형을 맞추려는…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-16T06:35:25+00:00"
-    },
-    {
       "id": "x:ylecun:2077641797363237328",
       "source": "x",
       "author": "ylecun",
@@ -577,18 +626,6 @@
       "published_at": "2026-07-16T05:35:57+00:00"
     },
     {
-      "id": "tg:EMchina/31614",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31614",
-      "text": "TSMC 6월 매출 +67.9% YoY  台积电：6月营收4,426.8亿元台币，同比增长67.9％。  2분기 매출 컨센 부합  TSMC: Q2 Revenue T$1.27 Trillion (Est T$1.264 Trillion) - Reuters Citing Calculations June Revenue T$442.68B  https://x.com/LiveSquawk/status/2076541024797638686",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-16T05:33:10+00:00"
-    },
-    {
       "id": "tg:bornlupin/19128",
       "source": "telegram",
       "author": "bornlupin",
@@ -599,18 +636,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-16T05:32:30+00:00"
-    },
-    {
-      "id": "tg:EMchina/31613",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31613",
-      "text": "미국이 중국 벤치마킹 하는 그림인데\n=============================\n~ 잉클링은 총 9,750억 개의 매개변수를 갖췄지만 실제 추론 과정에서는 410억 개만 활성화하는 구조로 설계됐다. 매개변수는 AI가 학습하면서 쌓은 '기억'이나 '연결 정보'를 말한다.\n필요할 때마다 AI의 전체 '두뇌'를 쓰는 대신 관련 지식만 골라 활용하는 방식\n으로 비용을 낮춰 '가성비'를 내세운 셈이다. 회사 측은 \"현재 시장에서 가장 강력한 모델은 아니지만 폭넓고 균형 잡힌 기반 모델을 목표로 개발했다\"며 비용 대비 성능 극대화에 초점을 맞췄다고 설명했다\n~ 미 일간 월스트리트저널(WSJ)은 이날 씽킹머신랩의 오픈 웨이트 AI 전략을 중국 알리바바의 큐원(Qwen), 즈푸AI 등 중국산 오픈 모델에 대응해 미국 내에서도 개방형 AI 생태계를 구축하려는 움직임이라고 짚었다. 최근 많은 기업들이 비용 절감과 AI 전략 다변화를 위해 중국산 오픈 웨이트 모델을 활용하고 있는 가운데, 씽킹머신랩이 미국산 대안을 내놓았다는 의미로 풀이된다\nhttps://n.news.naver.com/article/469/0000942630?sid=105",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-16T05:18:34+00:00"
     },
     {
       "id": "tg:enc210406/4148",
@@ -653,20 +678,6 @@
       "published_at": "2026-07-16T03:16:44+00:00"
     },
     {
-      "id": "tg:EMchina/31612",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31612",
-      "text": "SMIC & 화홍반도체 생산능력 증가율 추이",
-      "images": [
-        "https://cdn5.telesco.pe/file/HlZJh6mo7tFw5xTf3n2FwIfyEz8KJ52zy84E6GesuXoCLeRkrjRrIJTOGVcTjj66OQWOJA-5l_KU3_x8OwaxQrrxVN4iyZwnKk9FzgqD8jYDS1LCfs1tIELLaLX3P5Q8eWkRJGBQPZXHVXIRmWc6u-uY04N4j-95uE_LQTK-F2dDGhaIyVLLzduen1hb8HO8AOUfHGvXnG5tUOa-AJFzpiCdCkgAWnremXiNeyCD4nQm1qGX45tnvhK_9_dfjDwfAZo-wkYqNS1xvs1wW65oNtDda8tHFyf28LeOkI7kV32HPu1VW6tpt_qYjV41upVuN20khrSCY4SAA-8rLDajZw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-16T03:15:53+00:00"
-    },
-    {
       "id": "tg:enc210406/4146",
       "source": "telegram",
       "author": "enc210406",
@@ -677,18 +688,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-16T02:52:29+00:00"
-    },
-    {
-      "id": "tg:EMchina/31611",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31611",
-      "text": "7월 상순 중국 생돈 가격 전기대비 +13.5% 상승  国家统计局：7月上旬生猪（外三元）价格环比上涨13.5% 国家统计局发布2026年7月上旬流通领域重要生产资料市场价格变动情况，对全国流通领域9大类50种重要生产资料市场价格的监测显示，2026年7月上旬与6月下旬相比，17种产品价格上涨，31种下降，2种持平。其中，生猪（外三元）价格为10.9元/千克，环比上涨13.5%。  https://wallstreetcn.com/livenews/3133217?ivk=1#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-16T02:49:39+00:00"
     },
     {
       "id": "tg:globaletfi/20670",
@@ -821,7 +820,7 @@
       "url": "https://t.me/globaletfi/20666",
       "text": "» 글로벌 펀드매니저들의 현금 보유 비중이 3.6%까지 하락한 것으로 확인. 추가 매수 여력에 대한 의구심 발생 시그널 [BofA Fund Manager Survey]",
       "images": [
-        "https://cdn5.telesco.pe/file/u2J0SP557sq6dtESickC8QqQLJUXeCm1lnLc9kGF3XlBZnzZ929avOi7fcAh3qVeKtfvIB7zMJvX-iQhwGWGM4MvEXC99WX0FFUsuVtVMxLv28aLOVOVmntLx1bCO9k0sz8YKfy8DHC8quFuI2DVL0jINfsrMJEEzNvFokg5X6Je-tPGt1rc6YD0lJLBCQoKmXB4Xv0RynUA8x0pB07kR20Y83MS1wAFJ4r_a2Pj4aY79SVpceH9E-2ALnZqQlGTA0JvWQCcoiSnfjxUXGAsqU25nYy3MaJSxcuGho7toiWj5lrQuvQ7lBWdEjxFUtFjlwsRv8cOsrdAM5h8uGGAcg.jpg"
+        "https://cdn5.telesco.pe/file/ojTEVmrpeqFeOfOAZWdCRxYDXCsyqRN9RQI__hTr83SDG6H9DhQ5Wrq6n3FVnb0TV9Ae9vU35b_iBOmlKCmYSTeFOaT07kRct4XWT9kQgTp7yy9CvrH6J45d8hrw1QkNdZv57f0auOflhrccKV0iG389zoRTugfNSI4QwWM-TpnmQesawu7mm5ICkYsT6nj8xLeil1N4EEUdKjuPcu5TjhHJ7L1LHXygR_M0oyFeLSDAkF6ot6b8sb3tqTP_14ZB56vknIU7u1_KSEfm8eYJqlCDR_sBCAkzLgLnFNTWVVsJPWrukFL6JtLMMX76Cdv0jNWYRc997ScoHviZ6c7cWg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-15T23:12:55+00:00"
@@ -835,7 +834,7 @@
       "url": "https://t.me/globaletfi/20665",
       "text": "» 가장 큰 Tail Risk로 다시 한번 부각되고 있는 AI Bubble [BofA FMS]",
       "images": [
-        "https://cdn5.telesco.pe/file/CmIj9SV8GJTKz7MiNjuG-npZVfVeB2ccTlzrSh7B-cHao72oGziY8NuUA1tJnQbsnFyXLmM-FDERCy3V5VO03h9VRW3YxQqKVt9J-nU0wJS8pNZpButF7Fq1mf2wh6oBBHkt-15ksa-8iwZIN-dugfj8VQfeLOrmBPuA0ROurKfsllVfYpPvDyC_W99c2OzUffcuyRhUdKGrGORHqy8Dqe1VZGigG2qXB09l9WZHkQnbhoiMEMkLEnHcX-3ChuAhFzlEscFvDtWeQMxMVlBsjMONU2ieYxUshnKwFpsDdfsIPPHvOnXPAuH-29v9UL2aXSHTUPG8dgEcdJoyinboQg.jpg"
+        "https://cdn5.telesco.pe/file/gGO5DczI_FjZgDVtkcjCvnqFZHgjh3xwOYgms5FMavP8pdi1I5CnMnK3hZjHi9FE3CI-ZvupBTSYNv8Hgr3xvjTH4l_HOHmDxGS7uGLQWMyO0hYUd2ad7AqUDJ-pfw2q-8El9ssEZH9FmP-2OwSNrq2dstluaIiTQE6evG2QcKwqEAPN6pifYDdiqp0SUmo-wqPJ28b8zj0TpsSnUvzX1U9Ss2Kv-KQ2asGBoWWG_ooIEZ-6Skf4eIVx8eb67C3g-kINrGX1oTYShuYB51IkCGT0u8ROTYsLk-LLFwp9ypx2QR7hcpmmWsn2wmlpfK8gyDIUlt40GpQwaMme2jRaTg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-15T23:10:36+00:00"
@@ -849,7 +848,7 @@
       "url": "https://t.me/globaletfi/20664",
       "text": "» 글로벌 펀드매니저들의 현금 보유 비중이 3.6%까지 하락한 것으로 확인. 추가 매수 여력에 대한 의구심 발생 시그널 [BofA Fund Manager Survey]",
       "images": [
-        "https://cdn5.telesco.pe/file/G6fMyhZVTHiCoDqAxiyZ5tibVWpyr2DynOW-6DNZzVaxJel4OwEE_ag4lxIZoZSHTs-133N8uTJu16LQNbVyCOOJ1oS2cmqNaFOVr4HP2VOR0Nnu0sPiw4a0etZBi2Rl0J9QosEIKvPTvcJTUW8jiwUizZPxZ0nPnyLqgvSHUst6Iqx5KUi61D-lGL3wQEAKZYKStyFwTgBhTudbXsUaA9CTj7eY6z-VttnhcSnQpy2_Q0zK6gSFwZqb5QsqwGZ4XT9DNx6SVvwl0LDQLzc9RCJP-rp0oKRox704ak3LPlAw5Q-9gxBRYu9S_3JcZNgNLaXVysaJvju7wqfPjHifkw.jpg"
+        "https://cdn5.telesco.pe/file/lG8mlpRFravmzMqmMoG_TjtPMsZGSgCMhp6897EY7beiaUpRMe6LvKWKEAjgGMZZ_C-cUHrhHPDqzfBQvhXvw138dblyvOMbInfnARPTwqyxsPnt-vkqAr05FnTi5XMZ1js2rIHsWcT8-_PE-moRnBWv7H7qH_iKltwOT2EBjROxHbIz-7hBjk5RU7o8G2L0nEST56Au0kVm6lyqQPx9eQn6KeX0e9M3ONIT9-afIQTYT3BVfKMiY2eVm88TZT77j2axNmxN6FDrQ7i31uhR-P1ni8jx1FHXG6E7yTuBDjL8wG5zLM1gN1s_Fo6ACBDChYesyXYnTCjUi9oak-E5yg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-15T23:08:30+00:00"
@@ -875,8 +874,8 @@
       "url": "https://t.me/globaletfi/20661",
       "text": "[하나 Global ETF Daily (7/16)]\n▶️\n하나 Global ETF 박승진(T.3771-7761)\n▶️\nRA 신민건(T.3771-3269)\n▶️\n텔레그램:\nhttps://t.me/globaletfi\n🔹\n주요 ETF Daily 수익률\n(2026.7.15 종가 기준)\n» 주요 시장 ETF\nSPY 0.40%\nQQQ -0.27%\nDIA 0.24%\nIWM 0.43%\n» 주요 국채 ETF\nIEF 0.25%\nTLT 0.19%\nSHY 0.09%\n» 주요 섹터/테마 ETF\n중국 테크(KWEB) 3.13%\n온라인소비(IBUY) 2.10%\n메타버스(METV) 1.21%\n🔹\nETF News\n[Morningstar] 179개 미국 ETF에 담긴 스페이스X와 편입 규칙의 이면 분석\n-\nhttps://buly.kr/58Uia1c\n- SpaceX가 역사상 최대 규모의 IPO를 단행한 이후 극심한 주가 변동성을 겪는 가운데, 미국의 수많은 패시브 및 액티브 펀드들이 동사 주식을 포트폴리오에 대거 편입 중\n- 모닝스타 데이터에 따르면 총 179개 미국 상장 ETF가 약 160억 달러 규모의 SpaceX 주식을 분할 보유 중인 것으로 나타남\n- 특히 나스닥 100 지수를 추종하는 QQQ와 QQQM은 지수 편입 규칙에 따라 1.21%의 비중으로 70억 달러 이상의 지분을 확보했으며, 액티브 성장주 명가인 Baron Funds의 RONB는 상장 전 선제 투자 노하우를 바탕으로 30%를 초과하는 독보적인 집중도를 기록\n- 아울러 ARK Innovation ETF 또한 파괴적 혁신 플랫폼에 대한 투자 본능으로 4.33%의 비중을 할당하며 포트폴리오 상단에 배치한 것으로 분석\n- 흥미로운 점은 우주 항공이나 기술주 섹터가 아닌 가치주 포트폴리오를 표방하는 ETF들에서도 SpaceX 편입 현황이 다수 관측되는 이례적인 왜곡 현상이 발생했다는 사실\n- Schwab US Large-Cap Value ETF와 iShares Russell 1000 Value ETF 등은 밸류에이션 부담이 높은 적자 기업인 SpaceX를 일부 보유 중. 이는 지수 산출 시 활용되는 컴퓨터 필터링의 시스템적 허점에 기인\n- 다우존스 가치 지수를 추종하는 SCHV의 경우 P/E 멀티플을 핵심 가치 점수로 산정하는데, SpaceX가 대규모 R&D 지출로 인해 마이너스 순이익을 기록함에 따라 이 음수(-) 실적이 시스템상 극단적인 가치 영역으로 오인되는 왜곡을 일으켜 지수에 강제 편입되는 촌극을 빚음\n- 또한 신생 주식의 스타일 구분이 모호할 때 성장과 가치 지수 양측에 물량을 임시 분할하는 러셀 지수의 방법론 역시 가치 펀드 내 SpaceX 편입의 배경으로 작용\n- 반면 S&P 500 지수는 엄격한 수익성 조건을 들이밀며 SpaceX의 조기 진입을 불허함에 따라, 나스닥 100 특유의 패스트트랙 가중치 산정 방식에 기댄 패시브 강제 매수세가 QQQ 등 일부 지수 펀드에 과도하게 쏠리는 기형적인 수급 구도가 형성\n- 결론적으로 가치 펀드 매수 시에는 마이너스 이익 필터링 오류로 인해 SpaceX 같은 초고성장 적자 테크주가 스며들어 있을 수 있음을 명확히 인지하고, 실제 보유 종목 단까지 내려가 밸류에이션 왜곡 요소를 정밀 스크리닝하는 경계감이 요구됨\n[MarketWatch] SK하이닉스 美 ADR 상장과 레버리지 ETF 무한 경쟁 시대 개막\n-\nhttps://buly.kr/CrV7F6\n- SK하이닉스가 미국 나스닥 시장에 아메리칸 예탁증권(ADR) 형태로 성공적으로 상장함에 따라, 월가 자산운용사들을 중심으로 단일 종목의 변동성에 배팅하는 레버리지 ETF 출시 경쟁이 본격화\n- 그동안 한국 코스피 시장에 한정되어 투자 기회가 제한적이었던 미국 내 초단기 액티브 트레이더들을 겨냥해 SK하이닉스 ADR의 일일 성과를 2배 또는 마이너스 2배로 추종하는 다양한 파생 상품들이 대거 등판\n- 대표적으로 Corgi의 SK+2X는 연 0.50%의 파격적인 최저 수수료 메리트를 제시하였으며, Direxion의 SKHL(연 0.97%), REX Shares의 HYNX+2X(연 1.25%), GraniteShares의 SKUU+2X(연 1.50%) 및 인버스 상품인 SKDD-2X가 라인업을 구성하며 무한 경쟁 체제에 돌입한 상태\n- 이번 단일 레버리지 상품의 무더기 출시는 광범위한 반도체 바스켓 지수 추종에서 벗어나 독점적 기술력을 지닌 특정 기업의 개별 밸류에이션에 집중 투자하는 '단일 종목 ETF'의 대세화를 입증하고 있음\n- 반도체 및 단일 종목 ETF 카테고리로의 자금 유입과 거래량 폭발이 이러한 수급을 뒷받침하나, 일일 단위로 리셋되는 레버리지 구조의 특성상 장기 보유 시 복리 왜곡 현상(Decay effect)으로 인해 자산이 침식되는 치명적인 드래그가 발생\n- 더욱이 메모리 반도체 산업은 AI 수요 전망, 공급망 쇼크, 기업들의 캐펙스 추이에 따라 하루 변동성이 극대화되는 고베타 마켓이므로, 극단적인 시장 충격 발생 시 원금 전액을 손실할 수 있는 구조적 리스크가 상존하는 것으로 분석\n- 따라서 HBM 공급 단가 협상 타결이나 Nvidia 실적 발표 등 강력한 단방향 촉매가 예고된 시점에 한해 본 레버리지 상품들을 1~2일짜리 극단기 촉매 배팅용으로 활용하는 전술을 권장\n- 동일한 성과를 복제하는 구조라면 운용 수수료가 연 1.50%에 달하는 고비용 상품보다는 연 0.50% 수준의 초저비용 대안인 SK+2X 등을 선택해 슬리피지와 마찰 비용을 최소화하는 것이 영리한 선택\n- 또한 이러한 고위험 파생 수단은 변동성 노출도가 극도로 높은 만큼 연금 자산이나 장기 핵심 자산 영역에 진입시키는 것을 철저히 제한하고, 전체 포트폴리오에서 완전히 격리된 소액의 전술 배팅 계좌 내에서만 엄격히 통제하는 수성 전략이 필수적일 것으로 판단",
       "images": [
-        "https://cdn5.telesco.pe/file/YG6RGu5yD2eBwKMLXRRh_p0eSk7S0LFX7L7oU--fs00csOLCx2jiIqaatuyqxGuXQ2ZNbHc9tk8evB2risxvLwEDf1r7agpQZYuPYSbs_LEM0juQuMvzYcZGjzic1LwEmX5HiJRuH18Mh81BVNzHlb7u4niXc8W_h1UEIEf-FElhjcgffSSpQvJ_mvpaDIVT4mGFK7eihKZlHYzouZCBS4KPFAEEW1rM6dlzuR1jDSj3uNLjR35jEgwXoHcDgrq2X493sdzjvjft37txyG1yL7qQv8lyaAkqiKQv5F71D2J_waqIe2MogLb_PAB2p61o3vdEr9P71FW1mIfTAE5ysg.jpg",
-        "https://cdn5.telesco.pe/file/m4HpiT28R_D4ITWoYpGHPzfG3CqN9SYqYPEUjDLDQ86vfNg38ofaUBMbkknyXUCXmBw0C_P1lyKN9QOK4Wa_E8IFB6Ycyrgvp6DOLeBkJNgwFcVYYOi0_1V4_SNKwZYbcyLslA-gg0rc4IDJxHoEi61twqUTzUaC7UQ_dQImW8NvGr1RzP5UJakVKFVbIEzWZJdYyGyBnRg2W30gA_vQQaMAnEHESld-qEi25c0uILwyGDKBYMIfgbENsZ2_6tqapvEB7BijWLiw1ryhlxvvXWIPwstcfd0JuNuLA8ARREWWSY4lyu-DTQTL9UftRn1T0ayCt40HKzgkBS3MJl7B9A.jpg"
+        "https://cdn5.telesco.pe/file/SUce-oe65wKlKJ2hcVEw1yAd7eJi3JIrx1mhZVYBNwypL91cHuS6zbkv1eGmYg7r9WC_pkH8s2iqCd2xKTmXa_0h0YuWDdJmGBT575yMoR8aa9htzYQa4S7mKsnHc8tJLhEXtvnFGB6F0-QtWoew5o1Mq7mD7Qfpk9fg0hBilmjYBIzdHmeVXjhD8VlwlqbVFuGHowIcPvBFvsPi4z-H9UMDzMmoXAJ2wvaweUXWqJv1mDe9IGfJA0NpjpCU0arqtP9eJxL3v72LpfzpYg5t10rsCDVcXkzEDgsexqIXL2NyXZfbrecepztCZhSQXfqJzJsRnEmLhP0O1Aibeodf_g.jpg",
+        "https://cdn5.telesco.pe/file/E7JPUYqtzjWCS0JCsVgJOGJYs90zTP9nYcA_jn8dsVIYcUIps3IC60jj8DlM5-9YdsdyAMybJWL2kgAWfuU9g6ajdX8BfeSRLF3hOVxIVecpCzcIO_FHgQOTYjtPKmgVkW3Ii-Oi_272dzM0kmKyacTqM5zpVFsedcFVm4TBE6p_10jQrujgY--eHdTczTC8XTIuvtvnQiVkEKWSMUgLAvyb9GPZdwPHggDjciJmYwIO-Pkwni2FTfm2yNeXwY0Z-t7wHetZ3GIwSweDRO-L3TyQtLBo6yPPfQ6DkjpE4jJly9abNogatHnoth_KMAjobTZVmRMzShBAfNrhSO_WaQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-15T22:57:03+00:00"
@@ -902,7 +901,7 @@
       "url": "https://t.me/globaletfi/20659",
       "text": "» Anthropic이 IPO를 앞두고 주요 기관투자자들과의 기업설명회를 준비. 본격적인 IPO 준비에 나서는 모습\n» IPO를 주관하는 투자은행들은 향후 수주 내 Anthropic과 투자자 간 미팅을 진행할 예정이며, Anthropic은 이르면 10월 상장을 검토하고 있는 것으로 알려진 상황",
       "images": [
-        "https://cdn5.telesco.pe/file/SyL8CanRcI_hZ8cQdjoxS-uSwG3mWffQ_-xfZTUC8CvoJou-USWNgPsGEu4zTZHp101huBJTrSnuP2WxUzyck6YDyqdWYRA4oy2fp9d20XlAXTjKfw1iSV4JopTNhHMNT9M8Q-vh-njwKJ3VNRVBHdi7gylTdLvV8sQONXkL0_F2kG2kEDncziMJ52H7dH-oySoxX9JYULihZJWbLl3LV3mZ0reXidgjYqsAop4RMPmammiW5415JuUsGEP2WzGc_WB2wlOz2lu_4AOHBPm76J6kXCN-wPyAMWIje4-jB6Ga14ipPGIKgFGllJRWhoKOX7MLSzCj7d20iYMJDAxWPg.jpg"
+        "https://cdn5.telesco.pe/file/PI1HMvn93-go_B1fBTwtT2M1cJpHgGVRRPoolmT2odpDjWwtA3FNFg5BtAACm8lCcZqBi1zWj-4F-JaDbgBLNLiRKPdfe63mEWuphHXJ92BN3ZqnDSBqB5IYxse7UPL1Ao2fGiw8sDDAX6B0jQIO6DUk8JsdyLSoEKW_7NGK3MRBJR8edw9-AMEHiUFvZZ6pE7acdtHcNuKFIf-f-Hhrtt-cjqujJ3H6d7RHofh63gplnhf24p-AUvgW_kHmXVAoO_ffyw8ZZXQIC8R_3SV7xI11JgYReYwwi-I-2QuMmGyP72ub6VbhJyIXjt0VEGcgRVbWOWS7vKsQrRvlJqEcQg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-15T22:52:46+00:00"
@@ -916,8 +915,8 @@
       "url": "https://t.me/globaletfi/20657",
       "text": "» SK하이닉스 ADR과 DRAM ETF 약세",
       "images": [
-        "https://cdn5.telesco.pe/file/XsDXe3QHxG4RoJ0OE-tPrDlclu7kWoV3ORjLTtkRtEtQ8brifUMAED7ciXhMpe_oFS9F9DLtwjDQm7429q4S-zLBgRnbcYhO55xdgey76SUSIswf_kyzXbrT8eY9ierWK1805WdLW7gHGqPpyte-cELc1p1IfcgyKFg4-VknCVE7yLuuPYreuiQ_7WluMRTTx3RFbbI19faoHlEtKg0u2RZQCEAblSDCLp576Nj5-tbjUklqou8IHucST1_Q1D2Tp9kqlf7q8kzE76ALnaqL8P0NXU392LCMb5JFkRIzxNxn_DjE8-I6nCndl5EvxrIsS-X0f6HAoFHDtfChZVG9qg.jpg",
-        "https://cdn5.telesco.pe/file/t6M5R3h0XGpx6iziyEqTnYxBMqtAzJhawzPGjzC2aAcliLZ9-4hVAWBLnBRAfSEup6Z9xm3uxn-TCDL1DageqlPYzW3l0azQUs6NCvV96E8ih9m8PHry1NnPDLNNZszjCtrkt61R8YLPcrKWQ2DMILWEDfFx_FwRh7hAHAxUKUuJqkNXJeKjR_ou3DcqaxhOHQGKB6sIb1de3skuwr9btnUPfHUnA5HpzYJgH99pit4QJW59hevm6WKVAtbvf57r95r7PC2iHGw7RB509H1B4n8B67qlHvHojiuBJxK5vK_suwRSCA1uun8-yt9xuX8XESu7d545WS-S6d9vE2qA_A.jpg"
+        "https://cdn5.telesco.pe/file/k9cvsLSlQUkW4N1uHo0vepIwRpGHDtWY1aBFKSj3Tan7hjSR3e0dTAWXzkjPKKUZvB3gGLHdyDS3pATA1e0wU4oKXsFXxZAx9ggK2AMQst7XgKytUZwmGC1PgrICCfAClgD4mqh8yAN0H0YdX3-pqJwQJhp51NKMBz6ueAjvGo4NO7kMqwmCSJMqyxGkzhEAlzc9OSU7lZ3hKW5NuEHHcA4KgEfe6MwT2NCmUZ2kBTuFhI4VpR32wX3Ux53GrMdls0sE7yei3YDK2vNCNEmGmIdkYddmkqpxNGatZGVesTKW6w_3KVGDVbhjXZJsBZrtaYcVhhZqSP9x0tiGHL9WcA.jpg",
+        "https://cdn5.telesco.pe/file/rkLTp_4QaRxXyprW1DqZkKhPVN4x3cyKwE9OH1v8btwPjsXgdvHm0-JwmnsrdspTdSmvaU2j67KxJxJnMITFsRYE4WEev3qJPU7m_64kWkEUkUtGGSHPjUyxn6iEKp-VmvGXYfaOcREtNS4-7s0Qla0KOgLcgx6Sr7w48QmOG8ZmxQPv9RIy7Jxv0KEthHNkQjbvQUW16dhkYLyvPmL4Jc2kgh-AhIctdZ47JbvFQ2UASpcveD12KSwMiya_KxjpQzDiUQ5aRp5CGbwtMBHn2-MyThjSKRmisF82kf8IXFEsvuTydEZswamNP6XGZ6g2lrVSTRiPRPoIjlJuM4AZWQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-15T22:27:30+00:00"
@@ -1281,7 +1280,7 @@
       "url": "https://t.me/HI_GS/6703",
       "text": "Affinity 데이터 기준 올해 신조 VLCC 주문량은 168척으로 집계되어 1969년에 세워진 과거 최고 기록인 110척을 크게 넘어섬\n요즘 VLCC 마진이 아주 괜찮습니다.",
       "images": [
-        "https://cdn5.telesco.pe/file/gWvDi-w6T4dWouP6GblzXuBzNhf5TVDdruHlavqzxV_SdbO79ivicL0l78YIBB2FUeKgMuUW9yh0r0ct7tZsSRgzPY7f9jfuYFih_vuJGEkUmDvlthWWAV3467kyu9CtaIWKQaaa-B6ZY6kH6hWdpV2Gyhi33fDYfjviKKbH9U5kixaR2PboNXKS5nH9fkITP3OOvEjLuiMydomXG9RSJTewyTdMYup_sCCmoWrcpze2Mz05Jh05RtZ9Yo3uPGUTJJsoY8yBx7gpBNGsymciGMfY2ti-urkthDUan2ZlRKA-AZ1hYc9ibQuS_k3WAttYKSJqXn8hF3Qpn9ztdk59BQ.jpg"
+        "https://cdn5.telesco.pe/file/r0y59Gjl52RnFPE8MsUILzwwUexRJxN0kIlJLXYgPbYiXLaDA2XuteZi-N0WrhtON8xoHCQ3Tch4A0fwZTvcYD2yL-aG43kJweGvEFldf5Qz6R6s8xATm4puVPXmJh5RFQ3HacpV2ttn-Z1xhp5ToF02Gwccrm8YOQTzrkSOA18Jdvcy_UA1ZKrsuIyNg9735u2g4OnEw_wxm9DNTCQ4DgadWv1mBBgECSxSu0W8sBJnkuc8aZUhg5r2w-uEWh1HKdp2Yzsn01GhSKo71pOacJwSKaeFj7btffTu_4aWPHlMpVBzEr2xU8IzkZIA0qUe5_x6jfcyoL0Ea2jvdJExcg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-14T22:56:38+00:00"
