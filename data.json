@@ -1,19 +1,18 @@
 {
-  "updated_at": "2026-07-16T20:58:23+00:00",
+  "updated_at": "2026-07-16T22:10:08+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 10
+    "new_this_run": 0
   },
   "briefing": {
-    "headline": "OpenAI CEO 샘 알트먼, 음성 모델 한계점 넘었다 발언",
+    "headline": "OpenAI CEO 샘 알트먼, 음성 모델 한계점 넘었다 강조",
     "bullets": [
-      "TSMC 2026년 2분기 실적 가이던스 상승 전망",
+      "TSMC 2026년 2분기 실적 가이던스 상향 전망",
       "마이크론, 자동차 부품 공급업체들과 장기 공급 계약 체결",
-      "아마존닷컴 2Q26 실적 프리뷰 발표",
-      "구글, 메타, 아마존의 2027년 자본지출 규모 8,000억 달러 넘어설 것으로 전망",
-      "중국, '뇌-컴퓨터 인터페이스'(BCI) 의료기기 출시 승인"
+      "구글 AI, 오디오 비디오 상호 작용 지원 실험 시작",
+      "ASML 2026년 2분기 목표주가 상향 조정"
     ],
-    "generated_at": "2026-07-16T20:58:23+00:00",
+    "generated_at": "2026-07-16T22:10:08+00:00",
     "model": "groq"
   },
   "items": [
@@ -1050,6 +1049,20 @@
       "published_at": "2026-07-15T17:34:30+00:00"
     },
     {
+      "id": "x:sama:2077446718728425686",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2077446718728425686",
+      "text": "RT by @sama: Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2077445333765001216/MQV9mB7F?format=jpg&name=800x419"
+      ],
+      "summary_ko": "@sama의 RT: GPT-Red 소개 모델의 신속한 주입 취약점을 규모에 맞게 찾아내는 임무를 수행하는 내부 자동 레드 팀을 통해 더 폭넓게 배포하기 전에 더 강력한 방어 체계를 구축할 수 있도록 돕습니다. https://openai.com/index/unlocking-self-improvement-gpt-red/",
+      "published_at": "2026-07-15T17:34:29+00:00"
+    },
+    {
       "id": "x:OpenAI:2077446719990796505",
       "source": "x",
       "author": "OpenAI",
@@ -1073,20 +1086,6 @@
         "https://pbs.twimg.com/card_img/2077445333765001216/MQV9mB7F?format=jpg&name=800x419"
       ],
       "summary_ko": "고정됨: GPT-Red 소개 모델의 신속한 주입 취약점을 대규모로 찾는 임무를 수행하는 내부 자동화 레드 팀을 통해 더 폭넓게 배포하기 전에 더 강력한 방어 수단을 구축할 수 있습니다. https://openai.com/index/unlocking-self-improvement-gpt-red/",
-      "published_at": "2026-07-15T17:34:29+00:00"
-    },
-    {
-      "id": "x:sama:2077446718728425686",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2077446718728425686",
-      "text": "RT by @sama: Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2077445333765001216/MQV9mB7F?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@sama의 RT: GPT-Red 소개 모델의 신속한 주입 취약점을 규모에 맞게 찾아내는 임무를 수행하는 내부 자동 레드 팀을 통해 더 폭넓게 배포하기 전에 더 강력한 방어 체계를 구축할 수 있도록 돕습니다. https://openai.com/index/unlocking-self-improvement-gpt-red/",
       "published_at": "2026-07-15T17:34:29+00:00"
     },
     {
