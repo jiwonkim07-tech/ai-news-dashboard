@@ -1,22 +1,83 @@
 {
-  "updated_at": "2026-07-17T13:28:48+00:00",
+  "updated_at": "2026-07-17T15:13:36+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 14
+    "new_this_run": 5
   },
   "briefing": {
-    "headline": "메타 클라우드 진출, 반도체 급락",
+    "headline": "엔비디아, RTX50 슈퍼라인업 메모리 가격 상승으로 출시 보류",
     "bullets": [
-      "키옥시아 16% 급락",
-      "TSMC 2Q26 실적 리뷰",
-      "JP모건, 2027년 CSP CapEx 중 AI 메모리 73%",
-      "중국, 저비용 AI 발전 촉구",
-      "최태원 'AI 4살짜리 아이 수준'"
+      "애플, AI 반도체칩 기업 인수 추진",
+      "JP모건, 2027년 CSP CapEx 중 AI 메모리 비중 73% 예상",
+      "최태원, 현재 AI '4살짜리 아이' 수준… 메모리 계속 필요",
+      "메타, 클라우드 진출을 저울질하며 아마존 최고 컴퓨팅 임원 영입 추진"
     ],
-    "generated_at": "2026-07-17T13:28:48+00:00",
+    "generated_at": "2026-07-17T15:13:36+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/23661",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23661",
+      "text": "일본 개미들은 처참하게 뚜둘겨 맞았습니다 ㅠㅠ",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T14:21:58+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23660",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23660",
+      "text": "개미들의 패닉셀을 막기 위한 각하의 혜안이셨군요",
+      "images": [
+        "https://cdn5.telesco.pe/file/N7MTkDxvcgurBRXkTgaJhu8OMzH47nq9AiQLmW7TU9C5MjmqJvA-Zcd6gA2GXqeWs3hiK-4LhTwiFqMzdHu-S4bFQH8KsJn4phJGdt00UDhITpSnX-FmlvKrFuN3-xSOQaQPVLgaWyXideUd49N08aD-edS5aEGqeXOPBJx61xoe6EcSEehx_q1aETBWqfUr-CM1VY1UN-FMw__BG4Ncn1hDqp5f7ABMpqDCACvNgJMaH61as7CqCm5lf2Zdif-s81MGa5VkPUXBgamWML5bTb0fb-JXkIruqi7VwrY1Nd9UFSD4R8Lxo7NGT2sMLY6G86nELJa1i5XqgCH6oVyMZA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-17T14:16:14+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23659",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23659",
+      "text": "엔비디아, RTX50 슈퍼라인업 메모리 가격 상승으로 출시 보류\n엔비디아가 RTX 50 SUPER 시리즈 카드를 이미 준비해 최소 한 곳 이상의 보드 파트너(AIB)에 공급했으나, 아직 판매하지 않고 보류시킨 것으로 전해졌습니다. Videocardz에 따르면 이번 보류의 이유는 3GB GDDR7 메모리 가격 때문으로, 현재 DRAM 시장이 매우 불안정하고 추가 가격 인상이 임박한 상황에서 엔비디아가 자사 GPU용 DRAM 칩 확보에 어려움을 겪어온 만큼 3GB GDDR7 모듈 조달은 더욱 까다로운 상황입니다.\n가격 측면을 보면 3GB GDDR7 칩은 개당 60~70달러로 현재 20달러 수준인 2GB GDDR7 칩보다 훨씬 비싸, 3GB 기반 GPU가 어려운 처지에 놓였습니다. 앞서 엔비디아는 값비싼 GDDR7 메모리 탓에 SUPER 시리즈 출시를 연기했으며, 시장 안정을 유지하기 위해 RTX 3060 12GB GPU를 재출시하기도 했습니다.\nhttps://wccftech.com/nvidia-geforce-rtx-50-super-gpus-arrived-at-aibs-but-on-hold-due-to-memory-prices/",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T13:39:30+00:00"
+    },
+    {
+      "id": "tg:EMchina/31646",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31646",
+      "text": "애플 AI 반도체칩 기업 인수 추진  ==========================  ~ 애플은 당초 '발트라'라는 코드명으로 개발 중인 차세대 서버 칩을 올해 출시할 계획이었으나 일정이 지연됐다고 소식통은 전했다  ~ 이 때문에 현재는 높은 성능을 요구하는 작업은 구글 클라우드를 통해 엔비디아 칩을 활용하고 있다  ~ 이에 따라 애플은 새 기업 인수를 통해 자체 칩의 연산 성능을 대폭 끌어올려 엔비디아 칩을 대체할 수 있는 수준으로 만들고자 하는 것으로…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T13:35:12+00:00"
+    },
+    {
+      "id": "tg:EMchina/31645",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31645",
+      "text": "* 귀주모태주: 5/16부터 다수 직영 제품 소매가 인상. 페이톈 1L 가격은 기존 2989위안에서 3119위안으로 +4% 이상 상승. 이번 조정은 시장 상황에 따라 물량/가격 균형 맞추는 원칙에 따른 것  贵州茅台上调部分酒产品自营体系零售价，飞天1L装涨4.3%  5月16日起，茅台旗下多款自营产品零售价上调，飞天1L装从2989元涨至3119元，涨幅逾4%；马年珍享版涨价200元。官方称此次调整遵循\"随行就市、量价平衡\"原则。  https://wallstreetcn.co…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T13:31:25+00:00"
+    },
     {
       "id": "tg:EMchina/31644",
       "source": "telegram",
@@ -247,18 +308,6 @@
       "published_at": "2026-07-17T08:50:16+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23646",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23646",
-      "text": "제목 : 스페이스X, 스타십 발사 계획 취소하며 낙폭 확대                                                                                       *연합인포맥스*\n시킹 알파는 스페이스X(NAS: SPCX)가 Starship 로켓의 발사 계획을 취소하면서, 하락세가 심화되고 있다고 보도했다.   “스페이스X는 Starship 로켓을 16일에 발사할 계획이었으나, 일부 엔진 가동의 문제로 인해 발사를 취소한다고 발표했다. 머스크 CEO는 X 게시글을 통해 빠르면 다음 주 초에 다시 발사를 준비할 것이라고 밝혔다”고 전했다.   “이번 발사 계획은 스페이스X의 지난 6월 상장 이후 첫 번째 Starship 발사로 그만큼 많은 관심이 모였으나, 발사 계획이 취소되면서 실망이 나타나고 있다”고 언급했다.   스페이스X 주가는 16일에 3.1% 하락했으며, 금일 프리마켓에서도 4.7% 하락하며 낙폭을 확대하고 있다. 최근 스페이스X 주가는 IPO 가격 135 달러를 하회하고 있다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T08:50:02+00:00"
-    },
-    {
       "id": "tg:EMchina/31639",
       "source": "telegram",
       "author": "EMchina",
@@ -269,32 +318,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-17T08:41:50+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23645",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23645",
-      "text": "🔲\n딥시크(DeepSeek)\n가 실리콘밸리에 새로운 위협\n동일한 표준 AI 작업을 수행하는 비용은\nDeepSeek V4 Flash\n:\n2센트\nAnthropic Claude Fable 5\n:\n2.75달러\n약 137배 이상 저렴\n기업들은 이제 AI 성능뿐 아니라\n투자 대비 수익률(ROI)\n을 따지기 시작했으며, 이러한 현실적인 접근이 딥시크와 베이징의 AI 기업\n즈푸(Zhipu)\n같은 저가 AI 서비스로 이동하는 흐름 있어",
-      "images": [
-        "https://cdn5.telesco.pe/file/EZk58LWILQxZQe2hythmOtYbdBd-gCv66YQz_KsOv6dAeRxC0tBB_19-urLIWRRPfQODNChBY6iymhPaCuJmta-cMMmWqsajrTU1l0wm9H4ox2qXrg5H0qfmWXn9oXev0gE5VD6Cc7lMHFL2BpUl9XmZFB1ViysgNiYgEn1K7VhyOiBCzPbOMDFPdEQLKshEV_JJwktSeUMk2QYO3BmawZzDnDqb54rH1oCYbTinvXxRGTdzPXrvi2PgUOqtPnFp06_Eb_bulUtEMY6tA03lPVrbvkoALyIYJ5VNmsJjZusps8MpO5OVA9cGm0q3NirBxOtzKE-LIFL3wASEmw8v4Q.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-17T08:28:31+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23644",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23644",
-      "text": "닛케이 아시아) AI 디레버리지에 키옥시아 16% 급락하며 일본 증시 폭락\n메모리 제조사와 반도체주 급락에 닛케이 평균 한때 4,100포인트 하락\n금요일 일본 증시가 메모리 제조사 키옥시아 홀딩스를 중심으로 급락했습니다. 키옥시아는 투자자들이 이전에 누적해온 기술주에 대한 레버리지를 청산하고 AI 주도 랠리의 지속성에 대한 우려가 자리 잡으면서 한때 16% 하락했습니다.\n이 급격한 하락은 목요일 거래에서 샌디스크와 마이크론 테크놀로지 등 AI 종목이 하락한 월가의 매도세에 뒤이은 것입니다. 필라델피아 반도체 지수(SOX)도 4% 넘게 하락 마감했습니다.\n또한 중국 메모리 반도체 제조사 창신 메모리 테크놀로지스(CXMT)가 7월 말 상하이 STAR 마켓에서 시장 데뷔를 준비하면서 투자자들의 경계심이 커졌습니다. 이 회사는 중국 최대 반도체 IPO가 될 규모로 85억 4천만 달러 이상을 조달할 것으로 예상하고 있습니다.\nJ.P.모건 퀀트 전략팀은 \"AI 붐이 끝나가고 있다거나 AI 버블이 터지고 있다는 주장 같은 지나치게 비관적인 견해가 시장에서 다시 힘을 얻고 있다\"고 말했습니다. 전략가들은 보고서에서 \"AI 종목의 수급 조정은 마무리 단계에 가까워지고 있을 가능성이 높지만, 모멘텀 주도의 AI 종목은 이러한 비관적 서사가 완전히 소진되어 바닥을 찾기까지 더 많은 시간이 필요할 수 있다\"고 전망했습니다.\n투자자, 특히 개인 투자자들이 돈을 빌려 주식을 매수하는 레버리지 베팅이 쌓인 이후 일본과 한국 같은 시장에서 변동성이 높아졌습니다.\nJ.P.모건 자산운용의 일본 주식 포트폴리오 매니저 미치코 사카이는 \"AI를 크게 언더웨이트하는 것은 위험하지만\" 동시에 \"계속 그것을 따라가며 익스포저를 매우 높게 키우는 것 또한 위험하다\"고 말했습니다.\n사카이는 AI 랠리가 소수의 대리 종목을 넘어 인프라, 메모리, 부품까지 포함하도록 확대되면서 투자자들에게 더 많은 선택지를 제공했지만, \"밸류에이션과 이익 지속성에 대한 민감도가 높아졌다\"고 말했습니다.\n그는 AI 투자가 계속 증가할 가능성이 높지만 \"핵심 질문은 밸류에이션이 단기 이익에 기반해야 하는지 아니면 장기적 기대에 기반해야 하는지\"라고 덧붙였습니다.\nhttps://asia.nikkei.com/business/markets/japanese-stocks-plunge-as-ai-deleverage-sends-kioxia-down-16",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T08:10:25+00:00"
     },
     {
       "id": "tg:EMchina/31638",
@@ -357,30 +380,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-17T03:59:16+00:00"
-    },
-    {
-      "id": "tg:EMchina/31634",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31634",
-      "text": "지금 미국이 이정도로 중국 눈치를 봐야할 정도인가  ==========================  ~ 트럼프 행정부 내에서 불만과 좌절감이 표출되고 있지만, 미중 간 무역 전쟁이 재개되는 것을 우려해 중국을 공개적으로 비난하는 것을 꺼리는 침묵 문화가 형성됐다는 것이다  https://n.news.naver.com/article/001/0016199570?sid=100",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T02:34:56+00:00"
-    },
-    {
-      "id": "tg:EMchina/31633",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31633",
-      "text": "고점 패턴? 반도체 vs. 은  • 올해초 은 주식 정점. 최근 반도체 주식도 유사한 흐름을 보이는 중  • 온라인에서 많은 투자자들은 반도체주식의  '광란 이후 고점 도달' 패턴을 은과 비교. 이번에는 다를지  顶部模式？芯片股 vs 白银股 白银股在今年早期出现了顶部走势，而近期芯片股似乎也在“重蹈覆撤”。 社交媒体上很多投资者将芯片的“狂热后见顶”的模式与白银类比。 这一次会不一样吗？   https://wallstreetcn.com/charts/41959414",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T01:57:16+00:00"
     },
     {
       "id": "tg:enc210406/4151",
