@@ -1,21 +1,58 @@
 {
-  "updated_at": "2026-07-17T19:08:49+00:00",
+  "updated_at": "2026-07-17T20:55:48+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 7
   },
   "briefing": {
     "headline": "메타 클라우드 진출, 엔비디아 RTX50 출시 보류",
     "bullets": [
-      "애플, AI 반도체칩 기업 인수 추진",
-      "JP모건, 2027년 CSP CapEx 중 AI 메모리 73% 차지",
+      "중국 상장사 미국 시장 접근 제한",
+      "애플 AI 반도체칩 기업 인수 추진",
+      "JP모건, 2027년 CSP CapEx 중 AI 메모리 73%",
       "최태원, 현재 AI '4살짜리 아이' 수준",
-      "시진핑, 중국 저비용 AI 발전 치켜세우며 글로벌 기술 질서 촉구"
+      "시진핑, 중국 저비용 AI 발전 치켜세움"
     ],
-    "generated_at": "2026-07-17T19:08:49+00:00",
+    "generated_at": "2026-07-17T20:55:48+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31649",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31649",
+      "text": "중국 상장사의 미국 시장 접근 제한 시도\n• 미중은 안 친해집니다\n========================\n~ Chairman John Moolenaar (R-MI) of the Select Committee on China and Senator Rick Scott (R-FL) sent a letter to Securities and Exchange Commission (SEC) Chairman Paul Atkins requesting the agency consider restricting listed Chinese companies' access to U.S. capital markets to protect America’s economy and national security\nhttps://chinaselectcommittee.house.gov/media/press-releases/moolenaar-sen-rick-scott-call-on-sec-to-restrict-capital-flows-to-chinese-military-companies",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T20:55:40+00:00"
+    },
+    {
+      "id": "tg:EMchina/31648",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31648",
+      "text": "[한투증권 중국/신흥국 정정영]   • 7월: ‘K자형 회복’에 균형을 맞출 시도   >>7월 월보를 작성했습니다. 불편한 K자형 경제/주식 흐름이 지속되고 있습니다. 글로벌 AI 투자 사이클과 함께 첨단 제조업 및 대외 수요 중심의 회복세가 나타나고는 있으나 내수를 설명하는 투자와 소비는 상대적으로 부진합니다. 본토 증시 하드웨어 테크 주식이 강세를 보인 반면, 가계 상황을 더 가깝게 반영하고 있는 홍콩 증시는 반등 탄력이 미미합니다. 1분기 대비 둔화될…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T19:44:20+00:00"
+    },
+    {
+      "id": "tg:EMchina/31647",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31647",
+      "text": "메타 프리마켓 +6%대  https://n.news.naver.com/article/001/0016171492?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T19:20:45+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23664",
       "source": "telegram",
@@ -373,44 +410,6 @@
       "published_at": "2026-07-17T06:09:45+00:00"
     },
     {
-      "id": "tg:EMchina/31637",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31637",
-      "text": "양산 준비 완료. 9월 시작으로 연말까지 1GWh 인도 예상  http://m.businesspost.co.kr/BP?command=mobile_view&idxno=440596",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T05:35:52+00:00"
-    },
-    {
-      "id": "tg:EMchina/31636",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31636",
-      "text": "니케이225 -4%대 하락. 키옥시아 하한가  日经225指数大跌4%，铠侠股价触及单日跌幅下限。 （来自华尔街见闻）",
-      "images": [
-        "https://cdn5.telesco.pe/file/FHq6_O8POCa4cQZMROoNCTbD7CA2IThAxJxKe3NQBj2wZbKoh09mfFdbE1Vlz_DtJCnKRwFdocWklm0SzhBW4a96zufSvx4zo2Sv23jkkaeU3GXPxSjpcrbl8vJvyOI6diWQZ_2sHLTWXl_iQ6QX-Lz0eAkFIL2FLF6952-96_p8MUT96nQJY5oHrF500L7gvK314Bk9hCM29mFdaWBmmz_6G1igSPqxQSfE3nmpnrlVrcFtYXwdwBfS2Suh30hvbdWBLQy8rW_rfTzCyrNQtxD8AhOdqCwfLApIAlA1Ga45vZERfuTkhnt45FOoqCdrcH2nKRz2PjYNeutyBTl9SQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-17T05:23:54+00:00"
-    },
-    {
-      "id": "tg:EMchina/31635",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31635",
-      "text": "~ 아틀라스 950 슈퍼포드는 1초에 100경 번의 연산을 수행하는 8엑사플롭스(EF) 성능과 초당 16.3 페타바이트(PB)의 대역폭을 구현, 엔비디아의 차세대 AI 가속기인 '베라 루빈'(NVL144)보다 연산 성능이 6.7배 앞선다는 것이 화웨이 측의 주장이다  ~ 엔지니어 출신의 전문가는 \"화웨이의 주장이 과장됐는지를 차치하더라도, (ASML의 전공정 필수 장비인) 노광장비(EUV) 수급이 막힌 상태에서 심자외선(DUV) 장비의 다중 패터닝만으로…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T03:59:16+00:00"
-    },
-    {
       "id": "tg:enc210406/4151",
       "source": "telegram",
       "author": "enc210406",
@@ -483,6 +482,20 @@
       "images": [],
       "summary_ko": "지난 12개월 동안 최고의 성적을 내지 못한 것은 대부분 내 잘못이지만, 이제 곧 최고의 12개월을 맞이하게 될 것입니다. 팀은 놀라운 일을 하고 있고 그들이 당신을 위해 요리한 음식에 당신도 매우 만족할 것이라고 생각합니다. 나는 여러 가지 이유로 이에 대해 만족하지만 가장 큰 이유는 사용자가 승리하는 것에 관심이 있기 때문입니다. AI는 많은 사람들에게 더 많은 자유, 선택 의지, 부를 제공하는 것이어야 합니다. 우리는 옳은 일을 하고 싶지만, 사람들이 우리 일을 하도록 겁을 주고 싶지는 않습니다.",
       "published_at": "2026-07-16T18:06:05+00:00"
+    },
+    {
+      "id": "x:demishassabis:2077811657385079045",
+      "source": "x",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2077811657385079045",
+      "text": "RT by @demishassabis: I still remember the exact room, watching @stevenbjohnson break down how he writes books. That was the spark for a little project we never imagined would grow this big. Today, over 30 million people and 600,000 organizations use it, and it keeps growing. We all feel like it's just getting started. For a while, we’ve just called it \"Notebook\" internally. Today, we're making it official externally. :)",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2077803235314896896/img/p59_jo3Rjk99bb7_.jpg"
+      ],
+      "summary_ko": "@demishassabis의 RT: @stevenbjohnson이 책을 쓰는 방법을 분석하는 것을 보면서 정확한 방을 아직도 기억합니다. 그것은 우리가 이렇게 크게 성장할 것이라고는 상상도 못했던 작은 프로젝트의 계기가 되었습니다. 현재 3천만 명 이상의 사람들과 60만 개 이상의 조직이 이를 사용하고 있으며 계속해서 성장하고 있습니다. 우리 모두는 이제 막 시작된 ​​것처럼 느낍니다. 한동안 우리는 내부적으로 이를 \"노트북\"이라고 불렀습니다. 오늘은 이를 대외적으로 공식화합니다. :)",
+      "published_at": "2026-07-16T17:44:37+00:00"
     },
     {
       "id": "x:OpenAI:2077807981715128702",
@@ -1738,7 +1751,7 @@
       "url": "https://x.com/GoogleDeepMind/status/2075620285923905602",
       "text": "R to @GoogleDeepMind: Watch → https://goo.gle/4pxlGEh Spotify → https://goo.gle/4f89R2a Apple Podcasts → https://goo.gle/4fpWThL Or listen wherever you get your podcasts! 🎧",
       "images": [
-        "https://pbs.twimg.com/card_img/2075645081076527104/30Fug_BT?format=jpg&name=800x320_1"
+        "https://pbs.twimg.com/cards/player-placeholder.png"
       ],
       "summary_ko": "R에서 @GoogleDeepMind로: 시청 → https://goo.gle/4pxlGEh Spotify → https://goo.gle/4f89R2a Apple Podcasts → https://goo.gle/4fpWThL 또는 어디서든 Podcast를 들으실 수 있습니다! 🎧",
       "published_at": "2026-07-10T16:36:53+00:00"
@@ -2169,20 +2182,6 @@
       "published_at": "2026-06-23T14:51:53+00:00"
     },
     {
-      "id": "x:demishassabis:2069066675895337405",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2069066675895337405",
-      "text": "RT by @demishassabis: Google DeepMind 🤝 @A24 We’re launching a research partnership with A24 to ensure the tools of the future are shaped by the creators who use them. Find out more → https://goo.gle/3QwvgKq",
-      "images": [
-        "https://pbs.twimg.com/media/HLbLluDb0AAK-vO.png"
-      ],
-      "summary_ko": "RT @demishassabis: Google DeepMind 🤝 @A24 우리는 미래의 도구를 사용하는 제작자가 미래의 도구를 만들 수 있도록 A24와 연구 파트너십을 시작합니다. 자세히 알아보기 → https://goo.gle/3QwvgKq",
-      "published_at": "2026-06-22T14:35:11+00:00"
-    },
-    {
       "id": "x:AndrewYNg:2068039709126017356",
       "source": "x",
       "author": "AndrewYNg",
@@ -2421,7 +2420,7 @@
       "author_name": "Google AI(구글 AI)",
       "author_url": "https://x.com/GoogleAI",
       "url": "https://x.com/GoogleAI/status/2060392194142290294",
-      "text": "Tune in for the full story ↓ https://www.youtube.com/watch?v=8hfpLa5wPGo",
+      "text": "R to @GoogleAI: Tune in for the full story ↓ https://www.youtube.com/watch?v=8hfpLa5wPGo",
       "images": [
         "https://pbs.twimg.com/card_img/2074956687392260096/IJGqXgkN?format=jpg&name=800x320_1"
       ],
