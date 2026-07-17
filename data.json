@@ -1,22 +1,161 @@
 {
-  "updated_at": "2026-07-17T11:21:40+00:00",
+  "updated_at": "2026-07-17T13:28:48+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 4
+    "new_this_run": 14
   },
   "briefing": {
-    "headline": "메타 클라우드 진출, 키옥시아 16% 급락",
+    "headline": "메타 클라우드 진출, 반도체 급락",
     "bullets": [
-      "TSMC 2Q26 실적 리뷰: AI 수요 확신 상승",
-      "키옥시아 하한가, 일본 증시 폭락",
-      "이노라이트, 70억달러 규모 홍콩 상장 계획 승인 임박",
-      "삼성전자, DRAM 20% 인상 추진",
-      "JP모건, 한국 경제에 대해 8월 27일 금통위 회의에서 연속 25bp 인상을 전망"
+      "키옥시아 16% 급락",
+      "TSMC 2Q26 실적 리뷰",
+      "JP모건, 2027년 CSP CapEx 중 AI 메모리 73%",
+      "중국, 저비용 AI 발전 촉구",
+      "최태원 'AI 4살짜리 아이 수준'"
     ],
-    "generated_at": "2026-07-17T11:21:40+00:00",
+    "generated_at": "2026-07-17T13:28:48+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31644",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31644",
+      "text": "자동차 산업 구조조정 기준  ==========================  • 최근 중국자동차공업협회 주도 & 18개 주요 완성차 기업 공동 참여한 '중국 자동차 산업 완성차 비용 산정 규칙' 단체 표준 공식 발표  • 중국 최초 완성차 분야 대상 통일된 비용 계산 규칙. 그동안 '기준이 다르고 근거가 없다'는 역사 종료  • 자동차 업계의 무질서한 가격 경쟁 정비 및 고품질 발전 추진 핵심 조치. 업계 공감대 형성 및 업계 자율 규칙 공동 구축한 중요한…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T13:26:46+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23658",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23658",
+      "text": "Citi) 차세대 AI 데이터센터를 위한 800VDC 아키텍처 (2026.7.17)\n1. 핵심 요지\nCiti는 GPU 랙 전력밀도가 1MW에 근접함에 따라 800VDC가 2030년 글로벌 신규 데이터센터 용량의 79%를 차지할 것으로 전망합니다. SST(솔리드스테이트 트랜스포머) 수요는 2027년 901MVA에서 2030년 37,152MVA로 급증하며 기존 LV 변압기를 대체하고, BESS와 BBU를 합한 배터리 수요는 2030년까지 연평균 80% 이상 성장할 것으로 예상합니다. Citi는 이를 데이터센터 운영사, 전력기기, BESS·BBU, IT랙 전력·쿨링(BBU·MLCC 포함), 액체냉각, 전력반도체의 6개 세그먼트에 걸친 다층적 투자 기회로 판단합니다.\n2. 전환 배경과 로드맵\nGPU 랙 전력밀도는 2020년 랙당 10kW에서 블랙웰 120kW를 거쳐 2028년 루빈 울트라·카이버에서 1MW를 넘어설 전망으로, 2020년 대비 약 100배 증가하며 기존 AC 배전 구조를 물리적·경제적으로 유지 불가능하게 만들고 있습니다. 엔비디아 레퍼런스 아키텍처는 4세대 진화 경로를 제시하는데, 현행 415VAC(5단계 이상 변환)에서 2027년 화이트스페이스 리트로핏(행 단위 LV 정류기+HVDC 사이드카), 2028년 하이브리드 배전(중앙 AC UPS 제거, DC 버스웨이), 2029~2030년 MV-to-800VDC SST(35kVAC급 중전압을 단일 장치로 800VDC 직접 변환, 최대 7.5MVA, 효율 98.5% 이상)로 이행합니다. 전통 아키텍처의 4개 손실성 변환단계(변압기·MSB, UPS, PDU, 랙내 PSU)가 SST 하나로 통합되면서 구리 사용량 절감, PUE 개선, 그레이스페이스 면적(기존 건물 면적의 30~40%) 축소, 에너지저장의 네이티브 통합이 가능해집니다.\n글로벌 데이터센터 용량은 2026년 122GW에서 2030년 241GW로 성장하고, 연간 신규 증설은 21~32GW로 지속적 고볼륨 국면에 진입할 전망입니다. GPU 칩셋 기준 800VDC 채택률은 2027년 16.0%에서 2028년 58.3%, 2029년 72.9%, 2030년 79.1%로 가속되며, 초기에는 사이드카 방식(2027년 3.9GW, 2028년 12.9GW)이 주도하다가 SST 기반 신축이 2029년 11.5GW, 2030년 17.8GW로 확대되어 2030년 신규 용량의 55.4%에 도달할 것으로 추정합니다. 비용 측면에서 사이드카 단계는 MW당 40만달러의 프리미엄이 있으나, SST 단계에서는 중앙 UPS·LV 변압기·LV 스위치기어 제거로 MW당 전기설비 비용이 기준 대비 70만달러 하락합니다.\n3. 장비 수요 전망\n1GW의 800VDC 데이터센터 IT부하가 신설될 때마다 기존 아키텍처 대비 LV 변압기 2,083MVA, UPS 1,563MW, PDU 1,500MW, UPS 배터리 326MWh의 조달이 영구적으로 사라지는 대신, BBU 전력 840MW와 BBU 배터리 76MWh, 시설 단위 BESS 전력 1,500MW와 BESS 배터리 530MWh, DC 배전 1,500MW라는 신규 카테고리가 생겨납니다. SST는 LV 변압기를 MVA 기준 1:1로 대체하며(양쪽 모두 2,083MVA/GW), 백업 GenSet은 2,063MVA/GW로 아키텍처 중립적입니다. BESS 배터리 수요는 2027년 2,292MWh에서 2030년 13,499MWh로, BBU 배터리는 329MWh에서 1,938MWh로 성장하고, GenSet 수요는 2026년 43,481MVA에서 2030년 66,390MVA로 연평균 11% 증가합니다. 반면 UPS는 2028년부터 구조적 감소 국면에 진입합니다.\n4. 세그먼트별 수혜주\n데이터센터 운영사 — 중국에서는 GDS와 VNET(모두 매수)을 선호합니다. AI 수요 순풍이 유지되는 가운데 중국의 800VDC 상용화는 아직 초기 단계여서 단기 capex 부담이 미미하고, 국내 LFP 배터리·전력기기 공급망 덕분에 향후 전환 비용도 글로벌 대비 할인된 수준에서 실행 가능하다고 봅니다. 호주에서는 NextDC와 CDC(Infratil 보유)가 각각 약 700MW, 1GW의 계약 용량을 확보했으며, Goodman(글로벌 6.4GW 파워뱅크, 데이터센터 매출 비중 FY26 약 10%에서 FY29~30년 50~60%로 확대 전망)과 Stockland도 개발 파이프라인을 통한 노출을 제공합니다.\n전력기기 — Delta는 그리드에서 칩까지 이어지는 엔드투엔드 포트폴리오를 갖춘 독보적 수혜주로, AI 인프라가 2026년 매출의 25~30%를 차지하는 최대 성장동력이며 2027년부터 800VDC 본격 상용화와 함께 변곡점이 올 것으로 예상합니다. 한국에서는 현대일렉트릭, 효성중공업, LS일렉트릭이 800VDC 관련 수주를 늘리고 있는데, 효성중공업은 2022년 22.7kV SST 기술을 개발했고 미국 하이퍼스케일러와의 실증을 2026년 내 완료할 예정이며, 현대일렉트릭은 SST R&D 3개년 목표와 함께 올해 확보한 데이터센터용 LV 변압기를 2029년부터 납품하고, LS일렉트릭은 자체 테스트베드에 프로토타입을 설치했습니다. 중국에서는 쓰위안전기(미국 데이터센터향 수주 확보), Sungrow(7월 9일 10kV SST 출시), TGOOD(6월 AIDC 통합전원 출시, 110kV를 200~800V로 변환), Inovance(칭화대 인큐베이팅 HCCCAP와 슈퍼커패시터 협력), Hongfa가 주목됩니다. Hongfa는 800VDC 릴레이 매출이 2026년 10억~15억위안에 달할 수 있으며(MW당 릴레이 콘텐츠 8만~10만위안 가정), 2H26부터 Delta 등을 통해 북미 고객 공급을 시작하고 AIDC 매출 비중이 2025년 4~5%에서 2027년 mid-teens까지 상승할 전망입니다. 일본 미쓰비시전기는 고압 변압기 생산능력을 2024년 대비 2028년까지 50% 확충하며, 인도에서는 마이크로소프트·아마존·메타의 675억달러 투자 공약과 8GW 이상의 파이프라인을 배경으로 Hitachi Energy India(Grid-to-Rack 전략으로 AI DC capex 접근가능 비중을 25~35%까지 확대 목표), GE Vernova T&D India, CG Power(2025년 1월 미국 DC향 90억루피 수주), Siemens Energy India가 수혜 대상입니다. 발전설비에서는 가스터빈 조달망을 선제 확보하고 FTAI와 합작으로 퇴역 CFM56 제트엔진을 발전용으로 전환하는 Yantai Jereh, 북미 데이터센터향 가스터빈의 Dongfang Electric, 그리고 2~3MW 가스엔진을 2026년 중반 출시해 3~4분기 양산 인도하는 Weichai Power(AIDC 발전 매출 비중 26/27/28년 5%/8%/12%, 이익 기여 21%/38%/43% 전망)가 대표적입니다.\nBESS — Sungrow에 따르면 AI 컴퓨팅용 데이터센터 1GW당 약 3.3GWh의 BESS가 필요하며, 이 신규 수요만으로 2026년 미국 BESS 수요에 10~20GWh가 추가되고 2027년에는 전년 대비 두 배가 될 수 있습니다. 미국 ESS 시장점유율 10~20%의 Sungrow를 핵심 수혜주로 보며, BYD(2025년 ESS 매출 비중 약 10%, 출하 60GWh 이상에서 27/28년 150/200GWh로 확대), CATL(587Ah 대형셀·나트륨이온에 더해 4월 약 6억달러로 중헝테크 지분 49% 인수를 통한 HVDC·SST 역량 확보, VNET 지분 최대 38.1% 인수 추진 보도), EVE Energy(ESS가 2025년 매출의 약 40%, 6월 BBU 공개)를 주목합니다.\nIT랙 전력·쿨링 — HVDC 전환으로 랙당 BBU 콘텐츠 가치는 2022년 4~5천달러에서 2029년 3만3천~3만4천달러로 상승하고, BBU 침투율은 600kW+ 랙에서 85%를 넘어설 전망입니다. 직접 수혜주로 Panasonic(고출력 BBU FY3/27 양산 준비, CBU 병행, FY3/29 BBU·CBU 매출 9,500억엔 목표, FY3/28 데이터센터 관련이 조정영업이익의 20% 이상 기여 가능), Dynapack(BBU 매출 비중 2025년 35%에서 26/27년 55%/67%로 확대, 25~28년 매출 CAGR 34%, 25KW HVDC 제품 2027년 양산), AES(BBU가 매출의 70% 이상, ±400V·800V 고전압 BBU 2027년 초 양산, 25~28년 CAGR 24%)를 제시합니다. MLCC에서는 Murata(AI 데이터센터 MLCC 점유율 약 50%, MLCC 매출 내 AI 비중 FY25 12%에서 FY27 38%로 상승, VPD 등 전력사업 확장), 삼성전기(MLCC ASP 2026년 약 30%, 2027년 71% 상승 전망, 47μF AI서버용 및 1kV 이상 고압 MLCC 수요 확대), Yageo(NP0·탄탈럼 강점, AI 매출 비중 2025년 초 4%에서 1Q26 15%로 상승, 2027~28년 차세대 랙에서 랙당 MLCC 수량 50% 이상 증가 전망)가 핵심입니다. 랙 쿨링에서는 Lenovo(Neptune 직접액체냉각), ZTE, BYD Electronics 산하 Lead Wealth(MGX 생태계 참여) 등 대만·중국 공급망의 수혜를 예상합니다.\n쿨링 솔루션 — 랙 전력밀도가 100kW를 넘어서면서 액체냉각은 선택이 아닌 구조적 필수재가 됩니다. LG전자(고효율 칠러로 진입 후 액체냉각 상용화 로드맵), Daikin(2030년까지 북미 데이터센터 냉각 매출 3,000억엔 이상으로 3배 확대 목표, Chilldyne 인수로 direct-to-chip 강화)을 주목하되, Envicool은 매도 의견을 유지합니다. 액체냉각이 2026년 매출의 mid~high 싱글디짓 비중에 그치고, Shenling 등과의 경쟁 심화, 공랭 대비 차별화되지 않는 마진, 3개 분기 연속 실적 미스가 근거입니다.\n전력반도체 — SST·MV 정류기·고효율 DC/DC 모두 SiC·GaN 기반이므로 와이드밴드갭 반도체가 생태계 전체의 인에이블러입니다. 대만에서는 VIS(고전압 프론트엔드 선도, TSMC로부터 80V·650V GaN 라이선스와 자체 GaN-on-QST 플랫폼 보유, 데이터센터 PMIC 매출 비중 2025년 한 자릿수에서 2026년 high-teens로 확대)와 UMC(BCD·임베디드 고전압 특화노드로 프로세서 근접 PMIC에 레버리지)가 핵심이며, 일본 Renesas는 Transphorm 인수로 확보한 GaN 기반 800VDC 대응 제품을 발표했고 AI 인프라가 2026년 매출의 20% 미만에서 2030년 약 40%까지 성장할 것으로 언급했습니다. 중국에서는 서버당 30~50달러의 콘텐츠 가치를 갖는 SG Micro(컴퓨팅·네트워킹 매출 비중 1Q26 20%), SiC·GaN 수요로 가동률 개선이 기대되는 CR Micro와 Silan Micro가 수혜주이며, 비커버리지인 InnoScience는 데이터센터 전력 MW당 약 10만개의 GaN 칩이 필요하다고 추산해 800VDC 빌드아웃과 매출이 직결됩니다. 참고로 CR Micro는 트렌드포스를 인용해 AI 서버 전력 시장이 2025년 74억달러에서 2027년 325억달러로 연평균 110% 성장할 것으로 봅니다.\n*클로드로 요약함.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T12:43:04+00:00"
+    },
+    {
+      "id": "tg:EMchina/31643",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31643",
+      "text": "한결같음  ===========================  ~ 9일(현지시각) 하워드 러트닉 미국 상무장관은 뉴욕주 시러큐스에서 열린 미국 반도체 기업 마이크론 테크놀로지 행사에 참석해 “한국 메모리 반도체 제조사들과 미국 내 투자 확대 방안을 논의하고 있다”며 “마이크론 최고경영자인 산자이 메로트라는 원하지 않겠지만, 경쟁사인 삼성전자와 SK하이닉스를 미국으로 불러들여 반도체 공장을 짓게 하고 싶다”고 말했다  https://n.news.naver…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T12:38:05+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19143",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19143",
+      "text": "JP모건, 2027년 CSP(클라우드 서비스 제공업체) CapEx(설비투자) 중 AI 메모리가 차지하는 비중이 73%에 달할 것",
+      "images": [
+        "https://cdn5.telesco.pe/file/Ep3f4ME3YDADMre-6xQuis7NzxBUxMf0IMmUsjgN8J58EjiLV9ZFytZxLIYRag-My2PZ2XXzSXKj9QfiuPHECKlIHnUGGCnKNyynNDCVzgVo-nj2zkHrn4B80JBK5E2Z1AZx_qXF6yhmeKakyrzEvDqFgao1-t-7LM1uBBKYAHT9nSQoyKtGK-W0nz-aBOkVCtqhDKgmwo3MOSCuLEJZS3rP86qJXARv1_RRg41IgxSpo0Q2CrDTMKccxJ5MlfYb-fKVV5cGn3DBa3lNOGaiRQNPT1Jsq8AM0yPekzA5CYOnTh1ChoJTlKe9X83PfqoOhqZEstK5gt1XZD0auoLlgQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-17T12:12:13+00:00"
+    },
+    {
+      "id": "tg:EMchina/31642",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31642",
+      "text": "아시아 주요 증시 5-6%대 급락  인도 센섹스 +1%대",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T11:46:00+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19142",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19142",
+      "text": "개빈 베이커 (Gavin Baker)\n\"위험 대비 보상(손익비)이 다시 매력적으로 보입니다.\n​지속 가능한 경쟁 우위를 가지고 있으면서,\n향후 6~12분기 동안 시장 예상치를 뛰어넘는 엄청난 실적을 기록할 저렴한 주식들이 널려 있습니다.\n​시간이 지나면 알게 되겠죠!\"\n빌 애크먼 (Bill Ackman)\n\"맞습니다\"",
+      "images": [
+        "https://cdn5.telesco.pe/file/gAQhscgg7c3BWKo1qhHA9a41BDHgkU0WxmisEzN3tIqqCzlsru15OoIN0Ui0hPZd2rIaPl4hVn5oS5OtYjZMMANIRXzjz_HVOGQ4ybYctP0L4GzNDbkfXitdcDk5a5d5McKtUf3OfWY487E0HxTfYHDwzICrnQvVNdNW8LJuvHPXE62sZ78c79k_zaScXWN8iXbM1T7OO7JcQH1-jz971bKhj89M0mB9WyqPK8uIuuZs12NA6y1SMBcSI8NAh_VTuBsTaFvCbFcVUS7uj7x5aljMNwXGsMgMBU5wSH5wZD4TavFJEyDZNI3aekGqDU_PnPASFuKvI5dy-GthSOdnlg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-17T11:45:28+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19141",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19141",
+      "text": "Daiwa Securities\n, 마이크론 ( $MU), 목표주가를 1,600달러에서 1,700달러로 상향, '매수' 의견 유지",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T11:31:46+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23657",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23657",
+      "text": "한편 금요일 앞서 시진핑 주석은 중국의 저비용 AI 발전을 치켜세우면서 보다 개방적인 글로벌 기술 질서를 촉구했고, AI 발전은 한 국가의 독주가 아니라 국제 협력의 교향곡이 되어야 한다고 말했습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T11:26:46+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23655",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23655",
+      "text": "블룸버그) 중국의 강력한 새 AI, 투자자들을 놀라게 하며 기술주 급락을 부채질하다\n중국 AI 스타트업 문샷(Moonshot)의 예상치 못한 돌파구가 금요일 글로벌 시장에 파장을 일으키며 AI 및 반도체 주식을 급락시켰습니다. 투자자들은 이를 지난해의 '딥시크 모먼트'와 견주며 업계의 막대한 지출을 정당화하기가 점점 어려워지는 것은 아닌지 의문을 제기했습니다. 촉매가 된 것은 문샷의 새로운 Kimi K3 모델로, 회사는 이 모델이 오픈AI와 앤스로픽의 가장 강력한 제품에 필적한다고 밝혔으며, 투자자들은 이를 '키미 모먼트'라 부르며 지난해 딥시크가 촉발한 시장 충격에 빗댔습니다. UBP의 베이선 링 상무는 미국 기업들이 중국 모델을 더 많이 쓰고 앤스로픽을 덜 쓰게 되면 앤스로픽의 투자가 줄고, 결국 미국 기업들의 자본지출 축소로 이어져 반도체 수요에 영향을 미칠 것이라는 우려가 있다고 설명했습니다.\n문샷의 발표는 시진핑 주석이 중국 최대 AI 정상회의에 처음 참석해 AI 글로벌 리더가 되려는 국가적 노력에 힘을 실은 시점에 나왔으며, 이는 중국 AI 개발사들이 미국 경쟁사와의 격차를 얼마나 빠르게 좁히고 있는지를 부각시켰습니다. 블룸버그 아시아 반도체 지수는 키옥시아의 손실을 필두로 6% 넘게 하락했고, 점점 유능해지는 중국 모델이 최첨단 AI 반도체 수요를 억제할 수 있다는 우려 속에 나스닥 100 선물은 2% 하락했습니다. 홍콩에서 문샷의 경쟁사\nZ.AI\n주가는 1월 상장 이후 최대폭인 28% 급락했고, 또 다른 자국 경쟁사 미니맥스는 16% 하락했으며, 오픈AI의 대리 종목으로 여겨지는 소프트뱅크그룹은 도쿄에서 9% 폭락했습니다.\n다만 벤치마크 점수가 늘 상업적 성공으로 이어지지는 않으며, 문샷의 주장은 아직 폭넓은 AI 커뮤니티에서 완전히 검증되지 않았습니다. 지난해 '딥시크 모먼트' 때도 미국 하이퍼스케일러들이 기록적인 AI 지출을 밀어붙이며 첨단 반도체 수요가 흔들릴 것이라는 우려가 완화된 바 있습니다. 라 에시키에의 케빈 네 포트폴리오 매니저는 이번 사태가 갑작스러운 것이 아니었던 만큼 '딥시크 2.0 모먼트'라고 부르지는 않겠다면서도, 특히 비용 효율성을 고려하면 중국이 미국과의 AI 경쟁에 확고히 들어섰음을 확인해준다고 말했습니다. 그는 AI 자본지출 수익성, 과도한 밸류에이션, 광범위한 AI 피로 조짐 등 여러 우려가 기술 업계를 짓누르고 있으며 이것이 금요일 매도세의 배경일 수 있다고 덧붙였습니다.\n다른 요인들도 섹터를 압박했습니다. 투자자들은 올해 반도체 종목의 과도한 상승 이후 붐비는 반도체 거래에서 점점 발을 빼왔으며, TSMC의 실적이 전방위적으로 예상을 상회했음에도 트레이더들은 이를 차익 실현의 기회로 활용했습니다. 문샷의 출시는 중국 AI 경쟁이 단순한 비용 경쟁을 넘어 진화하고 있음을 보여줍니다. 이 스타트업은 최신 모델의 가격을 앤스로픽 소네트(Sonnet)와 거의 동일하게 책정했는데, 이는 강력한 성능을 바탕으로 다른 중국 모델 대비 프리미엄을 붙인 것입니다. 문샷은 또한 코딩 작업에서 Z.AI의 최첨단 제품을 능가했다고 주장해, 중국 섹터 선두 업체들이 글로벌 시장으로 진출하는 와중에도 중국 AI 부문 내 경쟁이 심화되고 있다는 우려를 키웠습니다.\n사용자들은 문샷 새 모델의 성능에 환호했으며, 가브칼 캐피털의 레오니드 미로노프 포트폴리오 매니저는 이를 \"탁월하다\"고 평하면서 자신이 써본 중 명백히 역대 최고의 중국 모델이며 K3의 혼합 가격이 클로드 오푸스 및 GPT-5.5의 절반 수준으로 토큰 경제성이 유의미하게 개선되었다고 말했습니다. Kimi K3의 강력한 성능은 연간 반복 매출 10억 달러 달성을 앞둔 Z.AI의 입지에 대한 우려를 키웠습니다. 문샷은 최신 모델이 2.8조 개의 파라미터와 100만 토큰 컨텍스트 윈도우를 갖췄다고 밝혔으며, 아티피셜 애널리시스(Artificial Analysis)는 일부 프런티어 벤치마크에서 Kimi K3를 앤스로픽의 오푸스 4.8보다 높게 평가해 이를 달성한 첫 중국 오픈웨이트 모델로 자리매김했습니다.\n올스프링 글로벌 인베스트먼트의 게리 탄 포트폴리오 매니저는 키미 모델 같은 돌파구가 일부 고사양 훈련용 반도체 수요 속도에 의문을 제기할 수는 있으나 더 넓은 AI 인프라 투자 사이클을 반드시 약화시키는 것은 아니라며, 이번 '키미 모먼트'를 평가할 때 AI 반도체 밸류체인에 더 선별적으로 접근하겠다고 말했습니다. 한편 금요일 앞서 시진핑 주석은 중국의 저비용 AI 발전을 치켜세우면서 보다 개방적인 글로벌 기술 질서를 촉구했고, AI 발전은 한 국가의 독주가 아니라 국제 협력의 교향곡이 되어야 한다고 말했습니다.\nhttps://www.bloomberg.com/news/articles/2026-07-17/china-s-powerful-new-moonshot-ai-model-closes-gap-with-us-rivals?srnd=homepage-asia",
+      "images": [
+        "https://cdn5.telesco.pe/file/WukQ5bwEMizD6IlF3Q4YV0C4RIcxWJxNVKiLQ9bw9MlAqHEDi0s0X5MSzxnpQ0tltsMTCriRNtAaQ-GOFFDFbj4bFErc4ZuNmRJnpH5V7GF0Rgx9MsBpgC0AaVBfH13BWbkqwjx1TLG0akwHoDshe2JNBY5POrOBHbyyDmHtKFeCJWKJxY1geKjuNqNlX-49JGT774RCCfrCT81LgB0fCnWMvYXH0JruSDCVN2tz48Uk2THvYItyb3GPaU8WPhKix265YfTwDEZAQY_AMap-9PO5a75PEAUE5F9eEvNSabnThAFt7oG7TkEUcsyNq2jSEy55CN4c6H6x1zTU_lx9Ig.jpg",
+        "https://cdn5.telesco.pe/file/fHHz9dtUvQ8FD1yzV_QGdD9YfSPRJRY4bkX47b6MWwj8NOv8s-Jo_gxnfcvjJHWQfIshyP1lJWRA0gzqWyLJ9O0Wr6ZMGxNKuEm8Kmrm-EPPWZu16T834XohkrzG1otSLPEAzknqdGO93wyw8WzoLaiE6QnwOWbs0Y2sWEZ5Y8git6EGB73euWOhlbUyPCKaXkgxcUcebfo8abUIJPb9p3_oMrQxdLa1fbtztKFYSzTMgbfRbZw-s4I_8sjN88Cm1UY6qFxuWGvpIaQv8X47ld5a290YqWphMwUSGF_iqto5rxS8U5qzxWORP3RljTfS4NriN2LHgPp5jPfVwF3ztQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-17T11:26:35+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19140",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19140",
+      "text": "최태원 “현재 AI ‘4살짜리 아이’ 수준… 메모리 계속 필요”\nAI포럼서 구조적 수요 증가 강조\nSK하닉 주가 관련 “우상향할 것”\n최태원 대한상공회의소 회장이 SK하이닉스 주가와 관련해 “\n메모리는 계속 필요하기 때문에 시간을 두면 우상향으로 간다\n”고 17일 밝혔다.\n인공지능(AI)발 구조적인 수요 증가를 바탕으로, 회사 주가 전망을 긍정적으로 내다보고 있다는 해석이다.\n최 회장은 이날 제주도 서귀포 한 호텔에서 열린 대한상의 제주포럼 AI 관련 대담에서\n다음 달 주가는 자신도 알 수 없다면서도 “(주식을) 샀다 팔았다 하지 말고, 가만히 갖고 있는 게 재산 보전에 좋은 방법”\n이라고 조언했다.\n최 회장은 AI 시장의 폭발적인 성장세를 그 근거로 제시했다. 그는\n현재 AI 수준을 ‘4살짜리 아이’에 비유하며 AI가 성인으로 성장하기 위해서는 고성능 메모리가 필수적이라고 설명\n했다. 그러면서 “\n메모리 (수요가) 기하급수적으로 늘어나는 게 지금 상황”이라며 “주가가 지난해부터 올해까지 10배씩 오른 것도 이 때문”\n이라고 강조했다. 그는 최근 주가 하락세에 대해선 “전망이 좋아지면 올라갔다가 조금 아닌 거 같으면 확 떨어지기도 한다.\n너무 빨리 올라서 현실을 적응시킬 때도 있다”\n고 말했다.\nSK하이닉스 주가는 지난달 23일 장중 역대 최고가인 300만2000원까지 치솟은 뒤 조정을 받고 있다. 전날에는 11.53% 하락한 184만2000원에 거래를 마쳤다.\n격화하는 미·중 AI 패권 경쟁 속에서 한국이 나아갈 생존 전략도 제시했다. 최 회장은 “\n미래 AI는 단순한 산업이 아니라 국가 안보 문제\n”라며 “미국은 퀄리티 형태로 접근하는 반면 중국은 가격 우위를 갖겠다는 전략”이라고 짚었다. 이어 “한국은 토큰(데이터 처리 단위) 코스트를 낮추기도 힘들고, 퀄리티로 미국을 이기기도 어렵다”며 “\n우리는 인프라를 깔아서 그 위에 우리가 필요한 애플리케이션을 만들고 틈새시장을 만들어야 한다\n”고 주장했다.\n최 회장은 또 “\n메모리만 계속 팔 게 아니라 컴퓨팅 용량을 만들어서 팔아야 한다”고 했다. 단순 메모리 공급을 넘어 연산 기능이 탑재된 고부가가치 솔루션을 제공하고, 이를 통해 사업 구조를 고도화\n해야 한다는 것이다.\nhttps://n.news.naver.com/article/005/0001861635?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T11:26:23+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23654",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23654",
+      "text": "Z.AI\n, 연매출 10억 달러 달성하는 첫 중국 AI 기업 될 전망\n즈푸(Zhipu)로 흔히 알려진 Z.AI가 연간 반복 매출(ARR) 10억 달러 달성을 앞두고 있으며, 이는 치열한 경쟁이 벌어지는 중국 시장에서 다수의 경쟁사에 맞서려는 기업용(enterprise) AI 스타트업으로서 상당한 성장을 의미합니다. 소식통에 따르면 이 회사는 7월에 연간 매출 목표를 달성했으며, 이번 달 지금까지의 매출을 12개월로 환산하면 연매출 10억 달러에 해당한다고 합니다. 이는 기업 대상 AI 공급자로 자리매김하려는 회사에 이정표가 되는 성과로, 앤스로픽과 비교되기도 합니다. 참고로 반복 매출 측면에서 경쟁사 문샷(Moonshot)은 4월에 2억 달러, 미니맥스(MiniMax)는 5월경 최소 3억 달러 수준으로 연환산 매출이 두 배가 되었습니다.\n데뷔 이후 주가가 약 900% 급등한 즈푸는 사용자 트래픽을 유지하면서도 가격을 큰 폭으로 계속 인상할 수 있는 몇 안 되는 중국 AI 모델 개발사 중 하나입니다. 최근 GLM-5.2를 출시했으며, 개발자를 끌어들이고 자사 도구를 글로벌 시장에 심으려는 기대 속에 누구나 자유롭게 활용해 개발할 수 있도록 플랫폼을 무료로 개방하고 있습니다. 다만 이 회사는 알리바바 같은 자금력 풍부한 기존 선두 업체와 딥시크(DeepSeek) 같은 혁신적 스타트업과 맞서야 하는 상황입니다. 금요일에는 즈푸의 홍콩 상장 법인 주가가 20% 넘게 급락했는데, 이는 문샷의 K3 모델이 벤치마크 테스트에서 앤스로픽 및 오픈AI 서비스를 상대로 우수한 성능을 보였기 때문입니다. UOB 케이히안의 스티븐 렁 상무는 문샷 Kimi K3 모델의 강력한 성능과 경쟁력이 시장에 놀라움을 주었고 Z.AI의 경쟁력에 대한 우려를 키웠다고 설명했으며, 같은 날 미니맥스 주가도 하락했습니다.\n큰 폭의 성장이 곧바로 수익으로 이어지지는 않는다는 점은 적자 상태인 AI 연구소와 투자자들에게 커지는 우려입니다. 즈푸의 순손실은 기술 구축·개발 비용 급증을 반영하며 1분기에 60% 증가했습니다. 베이징에 본사를 둔 이 회사는 클라우드 기반으로 자사 모델 접근권을 판매하고, 주로 국유기업인 고객이 맞춤형 솔루션을 구축하도록 지원합니다. 또한 컴퓨팅 사용을 촉진하기 위해 자체 버전의 OpenClaw 에이전트 프레임워크를 출시하는 여러 중국 AI 신생 기업 및 클라우드 서비스 제공업체 중 하나입니다.\nhttps://www.bloomberg.com/news/articles/2026-07-17/z-ai-set-to-be-first-china-ai-firm-with-1-billion-annual-sales",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T11:23:36+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23653",
       "source": "telegram",
@@ -36,7 +175,7 @@
       "author_name": "한투증권 중국/신흥국 정정영",
       "author_url": "https://t.me/EMchina",
       "url": "https://t.me/EMchina/31641",
-      "text": "중국, 일부 배터리 소비세 부과 재개\n• 11년만에 리튬이온배터리 소비세 면제 종료\n========================\n~ China will levy a consumption tax on lithium-ion\nbatteries\nstarting September 1, 2026, ending an 11-year tax exemption for the product category\nhttps://cnevpost.com/2026/07/17/china-to-impose-consumption-tax-lithium-batteries/",
+      "text": "중국, 일부 배터리 소비세 부과 재개\n• 11년만에 리튬이온배터리 소비세 면제 종료\n========================\n~ China will levy a consumption tax on lithium-ion batteries starting September 1, 2026, ending an 11-year tax exemption for the product category\nhttps://cnevpost.com/2026/07/17/china-to-impose-consumption-tax-lithium-batteries/",
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-17T11:03:39+00:00"
@@ -158,51 +297,6 @@
       "published_at": "2026-07-17T08:10:25+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23643",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23643",
-      "text": "JP모건) 일본 퀀트 전략 \"CTA가 로스컷 모드 돌입 - 정말 포지션 조정만인가\" (요약)\n보고서의 핵심은 반도체주 매도세가 멈추지 않으면서 닛케이평균이 CTA의 매도 트리거 수준인 64,600을 하향 돌파했다는 점입니다. 당초 JP모건은 이번 하락을 반도체 주도의 포지션 조정이나 로테이션 성격의 수급 변동 범위로 상정했으나, 셀오프 압력이 예상보다 강하게 나타나면서 한국에 이어 일본 주식도 단기 세력의 포지션 청산에 더해 시스터매틱 세력의 기계적 언와인드가 리스크오프를 증폭하기 쉬운 국면에 진입했다고 평가합니다. 조정의 진원지는 여전히 AI 반도체 및 고모멘텀 종목이지만, 모멘텀 팩터의 역회전이 일본에 그치지 않고 미국과 유럽으로도 확산되고 있어 단순히 AI 반도체 고유의 국지적 조정으로 치부하기 어려워졌으며, 광의의 포지셔닝 언와인드로 발전하고 있을 가능성이 있어 수급 측면의 경계 수위가 종전보다 한층 높아졌다고 진단합니다.\n다만 기업 실적 측면에서는 긍정적인 스토리가 유지되고 있다고 봅니다. TOPIX500을 유니버스로 한 5분위 포트폴리오 분석에서 Price Momentum의 롱숏은 최근 크게 무너진 반면, 가격 효과를 중립화한 EPS Momentum의 롱숏은 상대적으로 안정을 유지하고 있습니다. 즉 가격 모멘텀의 붕괴가 현시점에서 EPS 모멘텀의 붕괴를 동반하지 않고 있다는 것입니다. 백테스트(2023년 초~2026년 7월 17일)에서도 가격모멘텀 중립화 EPS 모멘텀은 연율 6.67%, 샤프 1.01, 최대낙폭 -5.47%로 견조했습니다. 이는 이번 매도가 중장기적 실적 기대나 구조적 테마의 반전이라기보다 가격 모멘텀에 강하게 기운 포지션 조정으로 진행되고 있음을 시사하며, AI 반도체와 고모멘텀주의 하락은 실적 스토리의 전면 부정이 아니라 밸류에이션과 수급의 조정으로 보는 것이 타당하다는 판단입니다.\n또한 글로벌 모멘텀 역회전이 실물 악화나 금융시스템 전반의 디레버리징으로 파급되고 있다는 증거도 부족하다고 지적합니다. 크레딧 시장에서는 HY와 CDX가 낮은 수준에서 안정을 유지하고 있어 부채성 리스크 프리미엄이 시장 전체의 공통 쇼크원이 되는 상황으로는 보이지 않으며, 변동성 상승과 모멘텀 붕괴가 리스크 패리티나 현물 모멘텀 펀드에는 역풍이지만 헤지펀드 전반에서 강제적 리스크 축소가 연쇄되는 징후 역시 제한적입니다. 6월 말 이후 주요 헤지펀드 전략별 손실도 상대적으로 작은 수준입니다.\n시스터매틱 세력, 특히 CTA의 닛케이 선물 로스컷 발동은 단기적으로 부정적 재료이며, 만일 매도가 매도를 부르는 악순환이 발생하면 다음 CTA 로스컷 수준인 닛케이 58,600이 시야에 들어올 수 있다고 경고합니다. 다만 기계적 매도가 표면화된 국면은 펀더멘털 중시 투자자 입장에서 포지션 조정의 최종 국면이 가까워졌다는 신호로 해석될 여지도 있으며, 특히 2023년 이후 일본 시장에서는 경기침체 등 실물 악화를 동반하지 않는 한 CTA 로스컷이 셀링 클라이맥스의 일환으로 소화되어 온 경위가 있다고 설명합니다. 당분간은 추가 하락 리스크를 경계하면서 매도 압력의 일순을 가늠하는 국면으로 자리매김하고 있습니다.\n마지막으로 국내외 실질금리 상승에 주의를 환기합니다. 모멘텀 매도가 AI 반도체 모멘텀의 주전장이 아닌 유럽까지 확산된 점을 감안하면 반도체 고유의 수급 요인만으로는 설명이 다소 부족하며, 6월 말 이후 주요 선진국 중앙은행의 매파화와 장기금리 고공행진 관측을 배경으로 국내외 실질금리 상승이 주식시장의 리스크 허용도를 낮추고 있을 가능성이 의심된다는 것입니다. EPS 모멘텀이 무너지지 않았더라도 실질금리 상승은 할인율을 통해 고밸류에이션 주식에 하방 압력을 가하므로, 현시점에서는 실적 기대 악화라기보다 금리 상승에 따른 밸류에이션 조정과 포지션 조정의 조합으로 보는 것이 자연스러우며, 실질금리나 금리 변동성이 한층 더 상승하는 경우에는 수급 조정이 장기화될 리스크에 유의해야 한다고 결론짓습니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/cDJhJPdSB_mHVmHGlCFMAU2voL_2COwiO6q9mjxdGn0IpP20cBb125_fAS-Z5tb9HGOcQAK0K8nptWnEvv6q0KD859afw5vPy33kgN6u93wLW46d2WASZoGnDGlQBvYH8vCHcwJ10tHMRanoCOlDB337G1draIWXQWp9rBAfGaMpGnKAHplaaQWCNS5IzDOjCyTT2hvKW-prcwae04MAHxzRNxVk5AqF_Pylu1eRW7qlzRCfc1Xq8Axwsq7baoJPrswN72o7ln-8B3ThUndnWeG_X64MR4bMbfNciZiQ7k7v-PCDCrPm4i7KY6RExeMPkbAw_8D_HYoUm11kOro5fg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-17T08:01:41+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23639",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23639",
-      "text": "JP모건 APAC 반도체 코멘트\n반도체 매도세가 이어지고 있습니다… SOX는 밤사이 -5%를 기록했고 이제 6월 고점 대비 -19%입니다. 이는 드문 일이 아닙니다... 지난 15년간 20% 폭의 낙폭이 17차례 있었으므로, 대략 매년 한 번씩 발생한다고 예상해야 합니다. 섹터에 대해 하향식(top-down) 관점을 취하며, 유념해야 할 5가지는 다음과 같습니다:\n(1) 기술적 분석(Technicals) - 역사는 20% SOX 낙폭을 매수하라고 시사합니다 - 17차례의 -20% 낙폭을 살펴보면… 이후 평균 수익률은 +2%(향후 5일), +8%(향후 20일), +11%(향후 60일)입니다. 따라서 역사는 매수를 말합니다. 다만 평균에서 어느 정도 위안을 얻을 수 있겠지만, 이 17차례 중 5차례는 이후 -30% 하락으로 이어졌습니다(오늘의 경우 SOX가 100일 이동평균선까지 되돌아가는 것과 부합합니다).\n(2) 포지셔닝(Positioning) - 헤지펀드 익스포저는 여전히 높은 수준(아시아는 덜 극단적) - 당사 프라임 팀은 테크/반도체의 자금 흐름이 마이너스였으나 투매(capitulation) 수준과는 거리가 멀다고 짚었습니다. 포지셔닝 수준은 덜 극단적이지만 여전히 높습니다. 예를 들어, 아시아 공급망 바스켓은 지난 20일간 -0.6z, L/S 포지셔닝은 현재 지난 12개월 대비 63퍼센타일이며, 미국 반도체 자금 흐름은 지난 20일간 -1.1z, L/S 포지셔닝은 현재 지난 12개월 대비 96퍼센타일입니다.\n(3) EPS 대 주가(EPS vs Price) - 괴리가 벌어졌습니다 - 반도체 기업의 이익 추정치는 계속 상향 조정되고 있으며, TSMC와 ASML 모두 견조한 실적과 강한 가이던스를 내놓았습니다. 이것이 오늘 저가 매수(dip)를 사야 한다는 강세론자들의 주된 논거입니다 - 즉, 이익 성장과 추정치 상향이 여전히 강하므로, 진행 중인 포지셔닝 청산(비록 반드시 완전히 끝난 것은 아니더라도)이 다시 매수를 늘릴 기회라는 것입니다.\n(4) 사이클 지속 기간(Cycle duration) - 가장 중요하지만(가장 불확실한) - 26년 이익을 의심하는 사람은 없지만, 올해 SOX가 여전히 65%를 넘는 랠리를 보인 이후… 논쟁은 27년과 28년 이익에 집중되어 있습니다. 이것이 다음 주 CSP 실적에 대한 압도적인 관심을 설명합니다(수요일 구글을 시작으로 개시됩니다) - 그리고 반도체 수요의 핵심 성장 동력으로서 2027년 자본지출(capex)에 대해 시장이 얻어낼 수 있는 어떤 신호든 말입니다.\n(5) 매수 측 기준선(Buyside bars) - 2027년 빅4 자본지출 1조 달러 초과를 기대 - 향후 1~2주간의 실적 발표 콜에서 빅4가 27년 자본지출에 대한 명시적 가이던스를 제시할 가능성은 낮지만, 매수 측 기대는 이미 형성되어 있습니다. 주요 기준선으로는 알파벳 3,250~3,500억 달러(시장 컨센서스 2,500억 달러 대비), 아마존 3,000억 달러(시장 컨센서스 2,300억 달러 대비), 메타 2,000~2,250억 달러가 있습니다… 마이크로소프트에 대해서는 아직 보지 못했지만, 시장 컨센서스는 이미 2,000억 달러를 넘어서고 있습니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/BB-7CRtcC1kHiq5-13MTe2HUygUusKyiPTVOnmE0RNuJlv7dnrlV8pTivso3w45-8OauCqmYQt4-CX4Zbhty7GGuOnnQG_1tpn_-ePHsiLbgY1SDog0uiclfaAGX5Wn-QtDTlXb75JKpjlcDzZeJ4zRm-qykEDgXlKJok8ZXNZ2AvD_P9G31daZ4uKyxVvk_PCSF7HEQG97afHrkeYVKuBb1czDhx1nFoB_JBlZmm4U2dzU58f6ZS_u4TiraLctKzXT117krrfAEc1Wz-2lcXL7FDRmRnbCXWVvop2ZGFv_fVWwZEKN-uxcKI5PGRFS6E6aKc-Iv4YB7rdnUhFgXYw.jpg",
-        "https://cdn5.telesco.pe/file/ccbBW_LYSiR6HaycZIYhepyQzYOboD2iQIsRUIfoQSVDhXqjCrNOCBNWObx4nLC4CA131iunuA0TJndFYC-H-Q57JILdTZ-gaJ4YHrqCr-U7g-2SDbxKJ8zv3gDtH_aop4AX367_c42vjKNuuVSRyad0zwTTWPXjsWDPIP_nUpkKKKJKXF6NAXH500LkdudAlL6f3JPFVJQZre0VN-bWNpprLnepy5KOApoYi6Zan8Tt5-qhJe0knxtA9gkVOBlZGF56pvBxvZfA9KoXPdgOCNZQPM4xSkYgI_o5T3Ynq5uMQGo8Ofu2tKb9Y0mochiq9iiCnVQXfv_0F4LNpd45JQ.jpg",
-        "https://cdn5.telesco.pe/file/JoSAxkdgM3DpLsxPqFmrCiTKl6y3ttWjfWQfIbzdrbjkyhrhhfblJg4QMurudPRondr3Lo4NNkP0f79yHKdAoZxoczoDf4eFxpP82fOaD_U02rzlMYTMPVfxq6lGcXmArXFuwKjv4xz-S2Aw0bb3c5ysFCKUAkPabwRumwUzlcCJDioXJCrjzvkpuXhTdHzYhonJHm7o5uCCpgzP0ZsLmdS5ri0XgViI0EsPtAxizyxkIV1kqvQadhiEgxxeJtrMux6gX32-7bwCsQgWlyyE4FGj62cCcwm_YkFZ8NBvYJu4aeOcf7IAggGwjB06aiqCnFuTi_AYlyM6V1Fzzgt9kA.jpg",
-        "https://cdn5.telesco.pe/file/ubhZ9ACnJ6DX_zOdti7QdFP7P9I3-eh3L-0O4Lgk6s8aypeBqHaQw-Kx165qpuLwCXDOmA5NDsirFYaoGhlg0CjGUnHMbxH1hE8sGexeMi3WjUj_pmgmDhARN4tWgUKVleRDVXFvMlV7iIo8wurStYMjgEDQ496XxcA-RnIV65kKELT8-iszuaQbCqRdtQ11uDR0pxYIwLQl02SGLLSZ1eNcP16HJalDDQUDHhs5vMhsWSnlr0UBs3p8s1L4DqwmtFwH2w7JDBJaHb7UoINq521Y0r-NthM1Xa0R_NwWKQla9seUUIbL5CNRtN2ZS39ULmE8y-X1aRAxCWuJHai-jg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-17T07:57:49+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23638",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23638",
-      "text": "17일 아시아장 마감...반도체 종목 대참사\n키옥시아 -16.1%\n도쿄일렉트론 -8.2%\nTSMC -7.3%\nASE -10.0%\n금일 키옥시아는 미국 위성 통신 기업인 비아샛과 특허 침해 소송전에서 패소해 $229M 배상 판결까지 겹친 상황",
-      "images": [
-        "https://cdn5.telesco.pe/file/IbO_VJuL7DCt-ljAMmBt4hCKoBAsU-H_ZwaMIYeG_lmb0npnpDIpw0PNaem1b1FDjDLgkhF5ih5N_I1xNwzuzkePJCK_P-8IdFK4ayQgC12PuKc56ojzeZI-Jn9rARL6Vlip5nTBD7RVQ73Bq6aaZVeG_Z5AMqeySveO7cpxpKJZsyJzGpOijNsWncc2-jYahg_iNSS0aGMhd06_kh5woN-wVT4sQA1pynclHR14WpT2sNDcLQQKmb6oaDQwQlE6e1nIujCTqaWYs3Fbi8q-N9egMvcTUIYl7KPETPmDtrPQqeXP5u0PwBAGkINGiqsUGTIiu11VUikFoqANUiuswQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-17T07:53:36+00:00"
-    },
-    {
       "id": "tg:EMchina/31638",
       "source": "telegram",
       "author": "EMchina",
@@ -225,18 +319,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-17T06:09:45+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23637",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23637",
-      "text": "오늘은 미국시장 옵션 만기일입니다.\n장 시작하면서 지수 옵션은 만기지만, 종목 옵션은 종가 기준 만기입니다.\n참고하세요",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T06:05:20+00:00"
     },
     {
       "id": "tg:EMchina/31637",
@@ -339,30 +421,6 @@
       "published_at": "2026-07-17T01:28:37+00:00"
     },
     {
-      "id": "tg:EMchina/31632",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31632",
-      "text": "미국주식 투자전략 나왔네요\nhttps://www.nbcnews.com/business/media/trump-media-early-access-truth-social-posts-rcna587912",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T01:09:33+00:00"
-    },
-    {
-      "id": "tg:EMchina/31631",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31631",
-      "text": "고점 패턴? 반도체 vs. 은  • 올해초 은 주식 정점. 최근 반도체 주식도 유사한 흐름을 보이는 중  • 온라인에서 많은 투자자들은 반도체주식의  '광란 이후 고점 도달' 패턴을 은과 비교. 이번에는 다를지  顶部模式？芯片股 vs 白银股 白银股在今年早期出现了顶部走势，而近期芯片股似乎也在“重蹈覆撤”。 社交媒体上很多投资者将芯片的“狂热后见顶”的模式与白银类比。 这一次会不一样吗？   https://wallstreetcn.com/charts/41959414",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T00:59:09+00:00"
-    },
-    {
       "id": "tg:enc210406/4150",
       "source": "telegram",
       "author": "enc210406",
@@ -373,20 +431,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-17T00:49:28+00:00"
-    },
-    {
-      "id": "tg:EMchina/31630",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31630",
-      "text": "고점 패턴? 반도체 vs. 은\n• 올해초 은 주식 정점. 최근 반도체 주식도 유사한 흐름을 보이는 중\n• 온라인에서 많은 투자자들은 반도체주식의  '광란 이후 고점 도달' 패턴을 은과 비교. 이번에는 다를지\n顶部模式？芯片股 vs 白银股\n白银股在今年早期出现了顶部走势，而近期芯片股似乎也在“重蹈覆撤”。\n社交媒体上很多投资者将芯片的“狂热后见顶”的模式与白银类比。\n这一次会不一样吗？\nhttps://wallstreetcn.com/charts/41959414",
-      "images": [
-        "https://cdn5.telesco.pe/file/he3f9i4h0zlhhj5hQDxXF2hzUSNQFOCXeAE-qiG9Aaznr-neaO8KQ-Dqu0T7FOyhppjL96uAKK1ji9lZLBMZkq84HRPdQnlUuoymrcaCbmOokF0mP1V-mNvNad_B1hGeekwPTxORNcchxMOjieLCYq84cxw0GsLaGUBMJN_4rr0ePynPDtO751qsOkhGi8Gn47nPU6EWh1mIauYo0mFbjAkmgdyM4Crj1BD6c32xc2dmiO8zpvy7bdLrDq_XTFP9EM-eu3Dmfzp35zhxvWZaIlhzwDcnPoHilLCVyyFUHusozEzwP7At0aB3codVl_wkkP6zJZ5OHwaep2W_YlcRgA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-17T00:13:44+00:00"
     },
     {
       "id": "x:sama:2077842579232895286",
@@ -660,30 +704,6 @@
       "published_at": "2026-07-16T06:19:06+00:00"
     },
     {
-      "id": "tg:bornlupin/19131",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19131",
-      "text": "TSMC 2분기 실적: 고성능 칩 호황으로 어닝 서프라이즈\n세계 최대 반도체 위탁생산(파운드리) 기업인 대만 TSMC가 AI 칩 수요 폭발에 힘입어 시장 예상치를 크게 웃도는 기록적인 2분기 실적을 발표했습니다.\n순이익 급증:\n전분기 대비 23.4% 증가하며 시장 전망치를 크게 넘어섰습니다.\n5분기 연속 기록 경신:\n순이익은 5분기 연속 사상 최고치를 갈아치웠으며, 전년 동기 대비 77% 이상 급증했습니다.\n매출 성장:\n매출은 전년 동기 대비 36% 증가했습니다.\n[주요 실적 지표 (vs 시장 전망치)]\n매출:\n1조 2,700억 대만달러 (약 394억 5,000만 달러)\n시장 예상치(LSEG): 1조 2,640억 대만달러\n순이익: 7,065억 6,000만 대만달러\n시장 예상치(LSEG): 6,326억 4,000만 대만달러\n첨단 공정이 실적 견인:\n7나노미터(nm) 이하 첨단 공정 매출이 전체 웨이퍼 매출의 77%를 차지했습니다.\n글로벌 AI 수요: 엔비디아, 애플, 브로드컴 등 글로벌 빅테크 기업들의 강력한 AI 칩 수요가 성장을 이끌었습니다.\nhttps://www.cnbc.com/2026/07/16/tsmc-second-quarter-profit-.html?__source=sharebar|twitter&par=sharebar",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-16T05:52:49+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19130",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19130",
-      "text": "TSMC 2026년 2분기 실적 정리\n1. 핵심 재무 실적\n매출:\n2분기 매출은 1조 2,703억 8,000만 대만달러(미화 402억 달러)를 기록했습니다. 이는 전분기 대비 12.0%, 전년 동기 대비 36.0%(달러 기준 33.7%) 증가한 수치입니다.\n특히\n달러 기준 매출은 회사 측이 제시했던 가이던스 범위(390억~402억 달러)의 최상단에 정확히 도달\n했습니다.\n이익 및 출하량:\n순이익은 7,065억 6,000만 대만달러로 전분기 대비 23.4%, 전년 동기 대비 77.4% 급증했습니다.\n희석 주당순이익(EPS)은 27.25 대만달러(ADR당 4.31달러)입니다. 웨이퍼 출하량은 12인치 환산 기준 433만 6,000장으로 전분기 대비 3.9%, 전년 동기 대비 16.6% 늘었습니다. 적용 환율은 31.60(USD/NTD)으로 전분기와 비슷했습니다.\n2. 수익성 분석 및 가이던스 달성도\n이익률 가이던스 상회: 매출총이익률(GPM)은 67.7%로 전분기 대비 1.5%포인트, 전년 동기 대비 9.1%포인트 개선되며 회사 가이던스 상단(65.5~67.5%)을 넘어섰습니다.\n해외 공장 가동에 따른 마진 감소 요인이 있었으나, 원가 절감 노력과 공장 가동률 상승으로 이를 극복했습니다.\n영업 효율성: 영업이익률(OPM)은 60.3%를 기록해 가이던스 상단(56.5~58.5%)을 1.8%포인트 초과 달성했습니다\n.\n매출 성장에 따른 영업 레버리지 효과로 매출 대비 영업비용(OPEX) 비율이 기존 8.3%에서 7.8%로 낮아졌습니다. 여기에는 지난 4월 발생한 지진 관련 보험금 청구액 약 35억 9,000만 대만달러가 영업이익에 일부 긍정적 영향을 미쳤습니다. 순이익률(NPM)은 55.6%, 연환산 자기자본이익률(ROE)은 45.9%에 달합니다.\n일회성 요인 및 세율:\n영업외수익 958억 3,000만 대만달러 중 632억 대만달러는 자회사 뱅가드(VIS) 지분 8.1% 매각에 따른 일회성 처분 및 평가이익입니다.\n따라서 이번 순이익 급증(+77.4%)의 상당 부분은 일회성 요인이 포함된 것이므로 경상적인 실적 평가 시에는 세전이익에서 이를 제외하고 판단해야 합니다. 실효세율은 미배당 유보이익에 대한 과세 영향으로 18.1%로 상승했습니다.\n3. 공정 기술별 매출 (선단 공정 중심 이동)\n2나노 공정의 시작:\n차세대 2나노(nm) 공정이 처음으로 전체 웨이퍼 매출의 3%를 차지하며 본격적인 매출 기여를 시작했습니다.\n선단 공정 비중 확대:\n3나노 공정 비중이 전분기 25%에서 30%로 확대되었고, 5나노는 33%, 7나노는 11%를 기록했습니다. 이로써 7나노 이하 선단 공정의 합산 매출 비중은 전체의 77%에 달합니다. 5나노 비중이 줄어든 자리를 3나노와 2나노가 채우며 더 미세한 공정으로의 전환이 뚜렷하게 나타나고 있습니다.\n재고 일수 증가: 재고 일수가 전분기 80일에서 87일로 7일 증가했습니다. 회사 측은 이를 2나노 공정의 본격적인 증산(Ramp)을 준비하기 위한 움직임이라고 명시했으며, 이는 하반기 2나노 물량 확대를 보여주는 선행지표로 해석됩니다\n.\n4. 플랫폼 및 지역별 매출 (HPC와 북미 집중)\nHPC의 강력한 견인:\n고성능 컴퓨팅(HPC) 부문 매출이 전분기 대비 20% 성장하며 전체 매출의 66%를 차지했습니다.\n반면 스마트폰 부문은 계절적 비성수기 영향으로 전분기 대비 4% 감소하며 22%의 비중을 기록했습니다. 그 외 오토모티브(+15%), DCE(+5%), 기타(+5%), IoT(+4%) 순으로 성장했습니다.\n북미 중심의 구조:\n지역별 고객 비중에서 북미 시장이 78%까지 상승하며 압도적인 집중도를 보였습니다\n. 반면\n중국 시장 비중은 6%로 지속해서 축소되는 추세\n입니다.\n인공지능(AI)과 HPC 수요를 주도하는 북미 팹리스(반도체 설계) 고객들로의 쏠림 현상이 심화\n되고 있습니다.\n5. 설비투자(CapEx)와 현금 흐름\n설비투자 확충:\n2분기 설비투자는 157억 달러(약 4,960억 대만달러)로 전분기(111억 달러) 대비 크게 늘었으며, 올해 상반기 누적 설비투자는 268억 달러를 기록했습니다.\n현금 여력:\n강력한 영업현금흐름(7,833억 6,000만 대만달러) 창출에도 불구하고\n설비투자가 더 빠르게 집행되면서 잉여현금흐름(FCF)은 2,873억 6,000만 대만달러로 전분기 대비 감소\n했습니다. 그러나 기말 현금 3조 1,342억 대만달러, 순현금 reserves 2조 4,863억 대만달러를 보유하고 있어 재무 안정성은 매우 탄탄합니다.\n주주 환원:\n이사회는 2026년 1분기 배당금을 주당 7.00 대만달러로 확정했습니다. 배당락일은 9월 16일이며, 실제 지급일은 10월 8일입니다.\n6. 최근 주요 경영 이벤트\n5월 8일: 소니 세미컨덕터 솔루션즈와 차세대 이미지 센서 전략적 파트너십을 위한 예비 계약을 체결했습니다.\n4월 23일: 2026 북미 기술 심포지엄에서 차세대 미세 공정인 A13(1.3나노급) 공정 기술을 최초로 공개했습니다.\nhttps://x.com/DrNHJ/status/2077631579917349194?s=20",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-16T05:49:46+00:00"
-    },
-    {
       "id": "x:sama:2077630111499882637",
       "source": "x",
       "author": "sama",
@@ -694,30 +714,6 @@
       "images": [],
       "summary_ko": "@sama님의 RT: 파일 삭제 시. 우리는 GPT-5.6이 예기치 않게 파일을 삭제했다는 몇 가지 보고서를 조사했습니다. 우리가 발견한 것은 다음과 같은 경우에 가장 일반적으로 발생한다는 것입니다. - 전체 액세스 모드가 활성화되고 자동 검토가 활성화되지 않은 경우를 포함하여 샌드박싱 보호 없이 코덱스가 실행됩니다. - 모델이 임시 디렉터리를 정의하기 위해 $HOME env var를 재정의하려고 시도합니다. - 모델이 실수를 해서 $HOME을 대신 삭제했습니다. 물론 이것은 사용자가 샌드박스의 보호 장치 없이 전체 액세스 모드에서 모델을 작동하거나 이러한 종류의 고위험 작업을 확인하고 거부하는 자동 검토를 사용하지 않는 경우에도 시스템이 작동하기를 원하는 방식이 아닙니다. 우리는 개발자 메시지를 업데이트하고 더 많은 정보를 안내하는 등 이러한 위험을 완화하기 위한 조치를 취하고 있습니다.",
       "published_at": "2026-07-16T05:43:13+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19129",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19129",
-      "text": "TSMC 2분기 실적\n순이익: 7,066억 NT$ (시장 예상치 6,237억 NT$ 상회)\n영업이익:\n7,666억 NT$ (전년 동기 4,634억 NT$ 대비 급증)\n매출:\n1조 2,700억 NT$\n달러 기준 매출:\n402억 달러 (전년 동기 대비 +33.7%, 전분기 대비 +12.0%)\n영업이익률:\n60.3% (전년 동기 49.6% 대비 큰 폭 상승)\n매출총이익률:\n67.7% (전년 동기 58.6% 대비 상승)\n설비투자(Capex): 157억 달러 (전분기 111억 달러 대비 증가)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-16T05:35:57+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19128",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19128",
-      "text": "TSMC 2분기 순이익 7,066억 대만달러 (시장 예상치: 6,237억 3,000만 대만달러)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-16T05:32:30+00:00"
     },
     {
       "id": "tg:enc210406/4148",
@@ -2409,7 +2405,7 @@
       "author_name": "Google AI(구글 AI)",
       "author_url": "https://x.com/GoogleAI",
       "url": "https://x.com/GoogleAI/status/2060392194142290294",
-      "text": "R to @GoogleAI: Tune in for the full story ↓ https://www.youtube.com/watch?v=8hfpLa5wPGo",
+      "text": "Tune in for the full story ↓ https://www.youtube.com/watch?v=8hfpLa5wPGo",
       "images": [
         "https://pbs.twimg.com/card_img/2074956687392260096/IJGqXgkN?format=jpg&name=800x320_1"
       ],
