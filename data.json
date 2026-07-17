@@ -1,22 +1,70 @@
 {
-  "updated_at": "2026-07-17T09:10:08+00:00",
+  "updated_at": "2026-07-17T11:21:40+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 15
+    "new_this_run": 4
   },
   "briefing": {
-    "headline": "키옥시아 16% 급락, 일본 증시 폭락",
+    "headline": "메타 클라우드 진출, 키옥시아 16% 급락",
     "bullets": [
       "TSMC 2Q26 실적 리뷰: AI 수요 확신 상승",
-      "SK하이닉스 주식, 최태원 회장 매수",
-      "일본 퀀트 전략: CTA가 로스컷 모드 돌입",
-      "키옥시아 하한가, 日经225指数 대폭 하락",
-      "이노라이트, 70억달러 규모 홍콩 상장 계획 승인 임박"
+      "키옥시아 하한가, 일본 증시 폭락",
+      "이노라이트, 70억달러 규모 홍콩 상장 계획 승인 임박",
+      "삼성전자, DRAM 20% 인상 추진",
+      "JP모건, 한국 경제에 대해 8월 27일 금통위 회의에서 연속 25bp 인상을 전망"
     ],
-    "generated_at": "2026-07-17T09:10:08+00:00",
+    "generated_at": "2026-07-17T11:21:40+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/23653",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23653",
+      "text": "Edgewater Research Cloud & AI 업데이트 (7/15)\n\"토큰 최적화 확산에도 수요는 견조 — Anthropic·Bedrock 독주, OpenAI는 견고한 2위, Gemini 부진\"\n■ 총평\n컨설턴트·엔터프라이즈·CSP·AI 스타트업 전반의 채널 체크 결과, AI 수요는 여전히 견조하며 감속보다 가속 신호가 더 많다고 판단합니다. 토큰 최적화·FinOps가 모든 대화에서 표준 관행으로 자리 잡았으나 아직 지출에 유의미한 영향을 주지는 않고 있습니다. AI 지출이 계속 늘어날 경우에도 기업들은 토큰 사용을 급격히 줄이기보다 인력(헤드카운트)을 우선 조정 레버로 삼는 분위기입니다. 공급 측면에서는 완화 조짐이 전혀 없으며, 한 네오클라우드는 2030년대까지 이어지는 오프테이크 계약을 체결하며 완판 상태라고 전했습니다.\n■ AI 수요\n수요는 애플리케이션 층위(코더·AI 스타트업에 더해 지식노동자로 확산)와 기업 규모 층위(SMB·미드마켓·엔터프라이즈) 모두에서 확대되고 있습니다. 비용 최적화가 화두임에도 실제 사용량 축소는 관찰되지 않아 \"수요 파괴 없음\" 결론이 유지됩니다. 다만 에이전트 PoC 중 실제 프로덕션 전환 성공률은 약 5%에 그치며, 병목은 수요가 아니라 테스트·신뢰성·거버넌스라는 지적이 있었습니다. 명확한 감속 신호가 보이는 유일한 영역은 애플리케이션 층위의 Gemini Enterprise 정체입니다.\n■ LLM 사업자\nAnthropic은 코딩과 지식노동 모두에서 확고한 선두입니다. 최근 신규 온보딩이 일 35만 시트 수준으로 전해지며, 한 AWS 스페셜리스트는 100여 고객사 기준 Claude Code의 코딩 어시스턴트 점유율을 약 95%(Codex 약 5%)로 추정했습니다. 채널은 Anthropic의 우위를 순수 모델 성능보다 Claude 애플리케이션의 엔터프라이즈 고착화에서 찾고 있으며, 이는 모델 증류·커머디티화 위협에 대한 방어막으로 평가됩니다. 인재 유출이 없는 유일한 랩이라는 언급도 있었습니다.\nOpenAI는 견고하고 개선 중인 2위입니다. GPT-5.5가 호평을 받았고 Codex가 일부 작업에서 Claude Code와 근접 성능이라는 평가도 있었으나, 개발자들 사이에서는 여전히 리뷰·테스트용 보조 역할에 머물러 있습니다. 핵심 문제는 애플리케이션 층위에서 Anthropic과의 격차를 좁힌다는 증거가 없다는 점이며, Claude 고착화가 길어질수록 이는 더 어려워진다는 평가입니다.\n중국계·오픈웨이트 모델(DeepSeek, Kimi, GLM)은 보안·컴플라이언스 우려로 미국 엔터프라이즈에서는 채택이 제한적이나, SMB·비용 민감 고객층에서는 확산 중입니다. 좁은 용도로 오픈소스를 쓰는 기업들은 상대적으로 안전한 Mistral을 선호하며, Kimi는 에이전트 성능으로, GLM은 최근 가장 화제인 모델로 언급되었습니다.\n■ 토큰 최적화(FinOps)\n2분기 들어 토큰 비용 최적화는 화두에서 표준 관행으로 전환되었고 AI 지출이 CFO급 최우선 의제가 되었습니다. 가장 흔한 기법은 모델 선택과 작업 세분화(중요 작업은 프론티어, 단순 작업은 저가 모델)이며, \"장보러 가는 데 F1 머신은 필요 없다\"는 표현이 상징적입니다. 토큰 절약형 앱 설계, 작업별 최저가 모델 자동 라우팅 등도 확산 중이나, 이는 급격한 수요 파괴가 아닌 \"질서 있는 감속\"을 시사한다는 평가입니다. 다만 인력 감축 후 AI가 기대에 못 미쳐 비용이 사람에서 모델로 이전됐을 뿐이라는 \"ROI 착시\" 경고도 제기되었습니다.\n■ 직접 토큰 구매\n랩 직접 구매는 늘고 있으나 CSP에 유의미한 역풍은 아닙니다. 대부분의 엔터프라이즈는 보안·데이터 접근·클라우드 지출 커밋 상계 이점 때문에 여전히 Bedrock/Vertex/Foundry를 경유하며, 직접 구매는 주로 AI 앱 벤더·스타트업 등 원래 CSP 매출이 아니던 영역에 집중되어 있습니다.\n■ CSP별 정리\nAWS: 이번 분기 최고 포지션의 CSP입니다. Bedrock 소비가 Claude와 사실상 동행하며 가속 중이고, 6월 OpenAI 모델의 Bedrock 온보딩 직후 도입 문의가 쇄도하는 등 초기 수요도 확인되었습니다. 채널 보상의 약 20%가 Bedrock/SageMaker 소비에 연동된 점도 우호적입니다. 유일한 공백은 1P 지식노동 앱(Quick 부진)이며, Kiro는 긍정적 초기 반응이 있었습니다.\nGCP: AI 경쟁에서 가장 도전받는 클라우드입니다. Gemini Enterprise 사용량이 Claude에 크게 뒤지며 갱신 시점 이탈(churn)이 예상되고, 미사용 토큰이 파워유저에게 이월되며 소비 \"에어포켓\" 가능성도 제기되었습니다. GOOGL은 번들링(Antigravity·Workspace), 공격적 FDE 팀 투입, 소비 연동 인센티브 확대로 대응 중이나, 근본 문제는 Gemini 모델 자체의 존재감 부족이라는 평가입니다. 다만 산업 성장, AI 비중, Anthropic 추론 물량, 향후 TPU 수익화로 가속 여지는 남아 있습니다.\nAzure: 평가가 혼재합니다. 긍정 요인은 견조한 매크로 수요, 6월 말 Claude on Azure/Foundry GA(프리뷰에서 Anthropic 모델이 빠르게 최다 사용 모델로 부상, 3분기 이후 촉매 가능), Anthropic 추론 지출 증가입니다. 부정 요인은 버지니아/US-East 핵심 리전의 지속적인 용량 제약과 여전히 답보 상태인 Copilot 채택입니다.\n■ 커버리지\nALPHABET (GOOGL: $359.51, Neutral) / AMAZON (AMZN: $247.49, Outperform) / MICROSOFT (MSFT: $384.93, Not Rated)",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T11:16:57+00:00"
+    },
+    {
+      "id": "tg:EMchina/31641",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31641",
+      "text": "중국, 일부 배터리 소비세 부과 재개\n• 11년만에 리튬이온배터리 소비세 면제 종료\n========================\n~ China will levy a consumption tax on lithium-ion\nbatteries\nstarting September 1, 2026, ending an 11-year tax exemption for the product category\nhttps://cnevpost.com/2026/07/17/china-to-impose-consumption-tax-lithium-batteries/",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T11:03:39+00:00"
+    },
+    {
+      "id": "tg:EMchina/31640",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31640",
+      "text": "직접 등판  작년에는 2인자 리창  ================================  ~ WAIC는 중국이 2018년부터 매년 상하이에서 개최하는 대표적인 AI 행사로, 중국 정부는 이를 AI 산업 육성과 글로벌 AI 거버넌스 논의를 위한 핵심 플랫폼으로 활용해왔다  https://n.news.naver.com/article/001/0016191990?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T10:49:13+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23652",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23652",
+      "text": "WSJ) 메타, 클라우드 진출을 저울질하며 아마존 최고 컴퓨팅 임원 영입 추진\n데이터센터 및 컴퓨팅 자원 개발에 대한 이 소셜미디어 대기업의 야망이 커지고 있습니다\n내용 요약:\n아마존 웹서비스(AWS)의 최고위 임원 중 한 명인 데이브 브라운이 향후 몇 주 안에 메타에 합류할 예정으로, 이는 데이터센터와 컴퓨팅 자원 개발에서 메타의 야망이 커지고 있음을 보여줍니다. 약 20년의 경력을 지닌 브라운은 메타 인프라 총괄에게 보고하며 회사의 데이터센터 구축에 집중할 예정입니다. 마크 저커버그 CEO는 지난 5월 연례 주주총회에서 클라우드 사업 진출에 대한 관심을 내비쳤는데, 클라우드 구축이 \"분명히 검토 대상\"이라고 언급하면서 여러 기업이 메타의 AI 모델 접근이나 여유 컴퓨팅 용량에 프리미엄을 지불하기 위해 \"거의 매주\" 접촉해오고 있다고 밝혔습니다. 다만 그는 현재로서는 자체적으로 컴퓨팅 자원을 활용할 용처가 있다고 보아 아직 클라우드 사업을 시작하지 않았으며, 과잉 구축했다고 판단되는 시점이 오면 클라우드가 하나의 선택지가 될 것이라고 설명했습니다.\n브라운의 이직은 AI 사용이 급증하면서 컴퓨팅 인프라 개발 경험을 갖춘 최고위 임원에 대한 수요가 커지고 있음을 보여줍니다. 메타는 올해 자본지출로 1,250억~1,450억 달러를 지출할 것으로 예상하며, 이 중 상당 부분이 AI 데이터센터 구축과 관련되어 있습니다. 브라운은 저커버그가 AI 개발을 가속화하고 막대한 컴퓨팅 용량을 확보하기 위해 영입한 최근 사례입니다. 저커버그는 지난 1월 '메타 컴퓨트(Meta Compute)'라는 최고위급 이니셔티브를 발표했으며, 이는 수백 기가와트 규모의 컴퓨팅 용량을 구축하기 위한 계획을 담당합니다. 이 이니셔티브는 브라운이 보고할 인프라 총괄 산토시 자나단과, 지난해 합류한 대니얼 그로스가 이끌고 있으며, 지난 1월 사장 겸 부회장으로 합류해 정부와 협력한 데이터센터 구축에 주력하는 디나 파월 매코믹과도 긴밀히 협업할 예정입니다. 메타는 전직 오픈AI 인프라 임원 두 명도 이 이니셔티브에 영입했습니다.\n아마존 클라우드 책임자 맷 가먼은 수요일 사내 메모에서 브라운이 7월 말 회사 외부의 다른 자리로 떠날 것이라고 알렸으나 구체적인 내용은 밝히지 않았습니다. 브라운은 약 19년간 아마존에서 근무했으며, 앤디 재시 CEO를 자문하는 선임 리더십 팀(S-팀)의 일원입니다. 한편 AWS는 1분기에 376억 달러의 매출을 올려 전년 대비 28% 증가했습니다.\nhttps://www.wsj.com/tech/meta-plans-to-hire-top-amazon-computing-executive-as-it-weighs-cloud-push-2166869b?mod=hp_lead_pos5",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-17T09:28:15+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23649",
       "source": "telegram",
@@ -191,18 +239,6 @@
       "published_at": "2026-07-17T06:05:20+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23636",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23636",
-      "text": "최태원, \"SK하이닉스 주식, 샀다 팔았다 말고 갖고 있으면 돼\" | 연합뉴스\nhttps://www.yna.co.kr/view/AKR20260717026000003\n와이프 홀딩vs주식 홀딩",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T05:50:08+00:00"
-    },
-    {
       "id": "tg:EMchina/31637",
       "source": "telegram",
       "author": "EMchina",
@@ -239,18 +275,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-17T03:59:16+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23635",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23635",
-      "text": "미친건가\nhttps://n.news.naver.com/mnews/article/003/0014072432",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T03:16:20+00:00"
     },
     {
       "id": "tg:EMchina/31634",
@@ -363,30 +387,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-17T00:13:44+00:00"
-    },
-    {
-      "id": "tg:EMchina/31629",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31629",
-      "text": "• LME 가격:\n구리 +17달러(13598달러/톤)\n알루미늄 +35달러(3185달러/톤)\n아연 +48달러(3594달러/톤)\n납 +20달러(+1872달러/톤)\n니켈 +349달러(17152달러/톤)\n주석 +376달러(53156달러/톤)\n코발트 보합(56290달러/톤)\nLME期铜收涨17美元，报13598美元/吨。\nLME期铝收涨35美元，报3185美元/吨。\nLME期锌收涨48美元，报3594美元/吨。\nLME期铅收涨20美元，报1872美元/吨。\nLME期镍收涨349美元，报17152美元/吨。\nLME期锡收涨376美元，报53156美元/吨。\nLME期钴收平，报56290美元/吨。\nhttps://wallstreetcn.com/livenews/3135200?ivk=1#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-16T23:48:29+00:00"
-    },
-    {
-      "id": "tg:EMchina/31628",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31628",
-      "text": "지지율 50% 하회\n========================\n~ 지지통신 조사 기준으로 지난달 54.3%였던 다카이치 내각 지지율은 이달 5.3%포인트(p) 하락하며 출범 후 최저치를 다시 썼다. 지지통신의 지난달 조사 결과도 전월보다 5.1%p 떨어진 것이었다\n~ 특히 이번 조사에선 60대 연령층의 지지율이 지난달 63.7%에서 39.9%로 20%p 넘게 급락했다.\n~ 다카이지 내각을 지지한다는 응답자들은 일본 최초의 여성 총리인 다카이치의 지도력과 신뢰성을 그 이유로 꼽았다\n~ 반면 지지하지 않는 이유로는 \"별로 기대할 게 없다\" \"정책이 좋지 않다\"는 등의 답변이 많았다\nhttps://n.news.naver.com/article/421/0009064266?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-16T23:38:54+00:00"
     },
     {
       "id": "x:sama:2077842579232895286",
