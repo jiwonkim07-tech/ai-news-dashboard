@@ -1,22 +1,81 @@
 {
-  "updated_at": "2026-07-17T23:52:57+00:00",
+  "updated_at": "2026-07-18T02:29:13+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 12
+    "new_this_run": 5
   },
   "briefing": {
     "headline": "메타 클라우드 진출 추진",
     "bullets": [
+      "중국 독립형 BESS 시장 확대",
       "애플 AI 반도체칩 기업 인수 추진",
-      "JP모건, 2027년 CSP CapEx 중 AI 메모리 73% 차지",
-      "중국 구리 수요 반영하는 양산 구리 프리미엄 상승",
-      "아시아 주요 증시 5-6%대 급락",
-      "엔비디아, RTX50 슈퍼라인업 메모리 가격 상승"
+      "엔비디아 RTX50 슈퍼라인업 메모리 가격 상승",
+      "JP모건, 2027년 CSP CapEx 중 AI 메모리 비중 73% 예상"
     ],
-    "generated_at": "2026-07-17T23:52:57+00:00",
+    "generated_at": "2026-07-18T02:29:13+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31658",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31658",
+      "text": "중국 독립형 BESS 시장 확대\n=========================\n~ 중국 배터리에너지저장장치(BESS) 시장의 중심이 재생에너지 발전소에 의무적으로 붙이는 설비에서 전력시장에 직접 참여하는 독립형 설비로 이동하고 있다는 분석이 나왔다\n~ 독립형 BESS는 특정 발전소에 묶이지 않고 전력 가격과 계통 상황에 따라 충·방전할 수 있다. 전력 거래와 보조서비스 등 여러 시장에 참여할 수 있어 공동입지형보다 활용도가 높다\nhttps://www.aitimes.com/news/articleView.html?idxno=212830",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-18T01:52:57+00:00"
+    },
+    {
+      "id": "tg:EMchina/31657",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31657",
+      "text": "끝을 어떻게 내려는건지  ==========================  ~ The United States is accelerating its military buildup in Israel amid escalating fighting and expanded strikes against Iran, with 10 additional U.S. Air Force refueling aircraft expected to arrive Friday and Saturday…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-18T01:01:47+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19145",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19145",
+      "text": "SemiAnalysis\nDeepSeek R1 사태 당시에 발생했던 패닉과 비슷하게, 일각에서는 Kimi K3가 선형 어텐션(KDA)을 사용하여\nKV 캐시(KV-cache) 요구량을 줄인다는 점 때문에 NVIDIA, HBM, DRAM, 그리고 네트워킹 시장에 악재가 될 것이라는 오해를 하곤 합니다. 하지만 실제로는 완전히 그 반대이며, 그 이유는 다음과 같습니다.\n1. 거대한 모델 크기와 NVL72의 시너지\nKimi K3는 사실 NVIDIA에게 매우 호재입니다\n.\n대규모 모델 추론이야말로 NVIDIA NVL72의 진가가 발휘되는 무대이기 때문입니다.\nK3는 매개변수(파라미터) 수가 2.8조 개를 넘기 때문에, 이 엄청난 가중치(weights)를 저장하는 것만으로도 대규모 스케일업(Scale-up) 도메인이 필수적입니다.\n2. WideEP 최적화와 대역폭 수요 폭발\n둘째로, Kimi 델타 어텐션(KDA) 덕분에 KV 캐시 전송을 위한 네트워크 요구량이 최대 10배 감소하더라도, 거대한 가중치 때문에 WideEP라는 최적화 기법을 적용하려면\n오히려 훨씬 더 많은 네트워크 대역폭이 필요합니다. WideEP는 여러 GPU에 가중치를 분산시키는 기술입니다.\n* WideEP의 작동 방식: 총 896개의 전문가(experts)를 수많은 GPU에 분산시켜, 각 GPU의 HBM에 극소수의 전문가만 올려두도록 만듭니다. 이를 통해 토큰당 메모리 사용량과 연산 효율성을 최적화합니다.\n* 치명적인 단점: 이 최적화는 엄청난 양의 네트워크 대역폭을 집어삼킨다는 부작용이 있습니다.\n따라서 WideEP는 GB200/GB300 NVL72와 같은 랙 스케일 시스템에 극도로 최적화되어 있습니다.\n이러한 시스템의 구리 백플레인은 동급의 DGX B200 시스템보다 무려 18배 더 많은 대역폭을 제공하기 때문입니다.\n3.\nHBM 용량 한계로 인한 DRAM 및 NVMe 수요 증가\n게다가 가중치 자체가 이미 1.5TB 이상의 HBM 용량을 완전히 장악해 버립니다.\n이 때문에 사용자 동시 접속(concurrency)이 비교적 낮은 상황에서도 HBM에 남는 공간이 거의 없습니다.\n결국 K3의 KDA 및 Gated MLA를 위한 KV 캐시는\nCPU DDR5와 NVMe로 오프로드(Offload)\n되어야만 합니다.\n> Kimi 측에서도 직접 K3를 최적으로 추론하려면\n최소 64개의 칩으로 구성된 대규모 스케일업 도메인의 랙이 필요하다고 밝혔습니다.\n4. 제번스의 역설 (Jevons’ Paradox)\n마지막으로 제번스의 역설이 작용합니다.\n어텐션 메커니즘의 효율성이 높아지면 기술 비용이 낮아져 오히려\nAI 도입과 활용이 전 세계적으로 폭발하게 됩니다.\n결과적으로 시장 전체에서 필요로 하는 GPU, HBM, DRAM, 네트워킹 자원의 총량은 줄어드는 것이 아니라 오히려 더 늘어나게 됩니다.\nhttps://x.com/i/status/2078250693010309260\nhttps://x.com/i/status/2078282685269815506",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-18T00:58:06+00:00"
+    },
+    {
+      "id": "tg:enc210406/4153",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4153",
+      "text": "2026년 7월 17일 기준\n클락슨 신조선가 지수는\n185.39pt로\n전주 대비 -pt(-%)\n‘보합‘입니다.\n[최근 4주 간 지수]\n185.39pt (26년 7월 10일)\n185.37pt (26년 7월 3일)\n185.15pt (26년 6월 26일)\n184.88pt (26년 6월 19일)\n[주목할 선종과 선형]\n> 탱커(유조선): 보합\n@ VLCC(315-320K DWT)\n- 26년 7월 10일: 130.50백만달러\n- 26년 7월 17일: 130.50백만달러\n@ Suezmax(156-158K DWT)\n- 26년 7월 10일: 89.50백만달러\n- 26년 7월 17일: 89.50백만달러\n@ Aframax(113-115K DWT)\n- 26년 7월 10일: 75.00백만달러\n- 26년 7월 17일: 75.00백만달러\n> 탱커(원유제품선-P/C): 보합\n@ LR1(73-75K DWT)\n- 26년 7월 10일: 61.50백만달러\n- 26년 7월 17일: 61.50백만달러\n@ MR(47-51K DWT)\n- 26년 7월 10일: 51.50백만달러\n- 26년 7월 17일: 51.50백만달러\n> 컨테이너선: 보합\n@ Neo-panamax(13-14K TEU, LNG D/F)\n- 26년 7월 10일: 173.00백만달러\n- 26년 7월 17일: 173.00백만달러\n@ Feeder(1,800-2,100 TEU)\n- 26년 7월 10일: 33.00백만달러\n- 26년 7월 17일: 33.00백만달러\n> LNG 운반선: 보합\n@ Conventional(174K cbm)\n- 26년 7월 10일: 248.50백만달러\n- 26년 7월 17일: 248.50백만달러\n> LPG, 암모니아 운반선: 보합\n@ VLGC(88-91K cbm)\n- 26년 7월 10일: 113.50백만달러\n- 26년 7월 17일: 113.50백만달러\n@ VLAC(88-93K cbm)\n- 26년 7월 10일: 115.00백만달러\n- 26년 7월 17일: 115.00백만달러",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-18T00:16:42+00:00"
+    },
+    {
+      "id": "tg:EMchina/31656",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31656",
+      "text": "이제 관세는 언제, 어디서든 던지는 카드가 되어버렸다  https://n.news.naver.com/article/001/0016195064?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-18T00:10:24+00:00"
+    },
     {
       "id": "tg:bornlupin/19144",
       "source": "telegram",
@@ -303,18 +362,6 @@
       "published_at": "2026-07-17T13:31:25+00:00"
     },
     {
-      "id": "tg:EMchina/31644",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31644",
-      "text": "자동차 산업 구조조정 기준  ==========================  • 최근 중국자동차공업협회 주도 & 18개 주요 완성차 기업 공동 참여한 '중국 자동차 산업 완성차 비용 산정 규칙' 단체 표준 공식 발표  • 중국 최초 완성차 분야 대상 통일된 비용 계산 규칙. 그동안 '기준이 다르고 근거가 없다'는 역사 종료  • 자동차 업계의 무질서한 가격 경쟁 정비 및 고품질 발전 추진 핵심 조치. 업계 공감대 형성 및 업계 자율 규칙 공동 구축한 중요한…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T13:26:46+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/23658",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -325,18 +372,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-17T12:43:04+00:00"
-    },
-    {
-      "id": "tg:EMchina/31643",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31643",
-      "text": "한결같음  ===========================  ~ 9일(현지시각) 하워드 러트닉 미국 상무장관은 뉴욕주 시러큐스에서 열린 미국 반도체 기업 마이크론 테크놀로지 행사에 참석해 “한국 메모리 반도체 제조사들과 미국 내 투자 확대 방안을 논의하고 있다”며 “마이크론 최고경영자인 산자이 메로트라는 원하지 않겠지만, 경쟁사인 삼성전자와 SK하이닉스를 미국으로 불러들여 반도체 공장을 짓게 하고 싶다”고 말했다  https://n.news.naver…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T12:38:05+00:00"
     },
     {
       "id": "tg:bornlupin/19143",
@@ -351,18 +386,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-17T12:12:13+00:00"
-    },
-    {
-      "id": "tg:EMchina/31642",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31642",
-      "text": "아시아 주요 증시 5-6%대 급락  인도 센섹스 +1%대",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T11:46:00+00:00"
     },
     {
       "id": "tg:bornlupin/19142",
@@ -755,18 +778,6 @@
       "published_at": "2026-07-16T08:12:44+00:00"
     },
     {
-      "id": "tg:bornlupin/19133",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19133",
-      "text": "#TSMC\n2Q26 컨퍼런스콜 주요 Comment 및 Q&A 정리(1)\n_다올 반도체 고영민\n▶️\n가이던스($Bil)\n» 3Q26\n- 매출액: 44.6~45.8\n→ 기존 컨센서스: 43.1\n- GPM: 65~67%\n→ 기존 컨센서스: 65.9%\n- OPM: 56~58%\n» 26년\n- 매출액:\nYoY+40% 이상 성장 전망 (상향)\n- CapEx:\n$60~64B (상향)\n▶️\n총마진 관련\n- 당분기 GPM 67.7% (QoQ +1.5%p)\n→ 원가 개선 노력 및 전반적인 가동률 상승 영향, 해외 팹 마진 희석 효과로 일부 상쇄\n- 차분기 GPM 가이던스 66.0%(중간값 기준) 제시\n→ 선단 공정의 강력한 수요와 지속적인 원가 절감 노력이 지속되나, N2 램프업에 따른 마진 희석 영향 반영\n- N2 초기 램프업으로 인한 마진 희석 발생 → 하반기(2H) 기준 약 3~4%p 수준 희석 예상\n- 향후 몇 년간 해외 공장 램프업에 따른 마진 희석폭은 초기 단계 2~3%, 이후 3~4%로 확대될 것으로 예상\n▶️\nAI 수요 동향 및 전망\n- AI 수요 지속적으로 견조함 유지\n→ 2026년 연간 매출 성장률 가이드라인을 전년 대비 40% 이상으로 상향 조정\n- Agentic AI 가속화에 따른 수혜 집중 →\n가상 비서/에이전트 AI의 부상으로 데이터센터 내 CPU의 역할이 다시 강화되며 수요 추가 견인\n→ x86, ARM, RISC-V 등 고객사의 아키텍처 경로와 무관하게 모든 CPU 설계사가 고객이므로 포괄적 수혜 기대\n- 다만 일부 소비자 및 가격 민감 부문은 위험 직면\n→ 부품 ASP 상승 및 거시경제 불확실성 영향 존재, 이에 따라 비즈니스 계획을 보수적·신중하게 운영 중\n▶️\n팹 및 투자 계획\n» 미국\n- 애리조나에 1,000억 달러(US$ 100 Billion) 추가 투자 전격 발표\n→ 2나노 이하(2nm and below) 초선단 공정 논리 웨이퍼 팹 및 첨단 패키징(Advanced Packaging) 팹 추가 건설 목적\n- 글로벌 N3(3나노) 캐파 증설 계획의 일환으로 애리조나에 신규 N3 팹 추가 건설 진행 중\n» 일본\n- 구마모토 JASM 팹을 통해 고부가가치 성숙 공정 확대\n→ CMOS 이미지 센서(CIS) 등 차별화된 세그먼트 지원을 위한 캐파 확대 지속\n- 글로벌 N3(3나노) 캐파 확장의 일환으로 일본 내 신규 3나노 팹 추가 건설 진행 중\n» 유럽\n- 독일 ESMC 팹을 통해 차량용 및 산업용 성숙 공정 캐파 확대 추진\n→ 범용 품목이 아닌 자동차·산업 분야의 고부가가치 및 전략적 세그먼트 중심으로 공급 역량 확보\n» 대만\n- 향후 몇 년간 대만에 총 13개의 선단 공정 및 첨단 패키징 팹 건설 추진\n- 신주 및 가오슝에서 초선단 2나노 공정의 다단계 램프업 진행 중\n- 글로벌 N3(3나노) 수요 대응을 위한 대만 내 신규 3나노 팹 추가 건설 진행\n- 대만 내부의 기존 5나노 장비를 3나노용으로 전환하고, N7/N5/N3 노드 간 유연한 장비 최적화 지속 병행\n▶️\n기술/공정\n- N2 (2나노) 공정 현황 : 스마트폰 및 HPC/AI 고객사 중심으로 매우 강력한 수요 확인, 가파른 램프업 진행 중\n- 차세대 A14 (1.4나노급) 공정 개발 순항 → 2세대 나노시트(Nanosheet) 트랜지스터 기반 공정으로 개발 순항 중 (2028년 양산 예정)\n→ N2 대비 성능 +10~15% 향상, 동일 속도에서 소비전력 25~30% 절감, 칩 밀도 약 20% 향상 제공\n→ 내부 테스트 제품(Light Vehicle)에서 디바이스 성능 및 수율 모두 90%에 육박하는 우수한 결과 확보\n▶️\n주요 Q&A\nQ. 향후 3개년 CapEx 전망은 어떻게 보고 있는지?\n- 구체적인 숫자를 제시할 수는 없으나,\n현재 AI 메가 트렌드에 대한 강한 확신을 바탕으로 CapEx 확대\n하는 중\n- 향후 3개년 CapEx 규모를 과거 대비 한층 더 대폭 확대하여 집행하는 기조\nQ. 미국 애리조나에 1,000억 달러 추가 투자에 대한 구체적인 타임라인과 캐파 가동 계획은 어떻게 되는지?\n- 구체적인 일정은 철저히 시장 수요에 맞추어 유연하게 결정할 계획\n- 현재\nAI 및 HPC 메가트렌드 수요가 워낙 강력하여 이번 추가 투자를 전격 결정\n하게 되었음\n→ 전공정(Front-end)과 후공정(Back-end)을 합쳐 최소 4개 이상의 팹(Fabs)이 추가로 건설될 예정\n- 미국, 대만, 일본 내 신규 팹 및 생산 시설 구축 역시 가용한 리소스를 총동원하여 빠르게 추진 중\nQ. 경쟁사(삼성, 인텔 등)가 EUV 장비 등을 대거 확보하며 위협하고 있는데, 경쟁 우위를 어떻게 유지할 것인지?\n- 반도체 파운드리 비즈니스는 단순히 제품을 구매하는 일회성 거래가 아니라, 기술 협력부터 캐파 준비, 양산까지 최소 5년 이상 소요되는 장기적이고 긴밀한 파트너십\n- 기술적 전환비용과 진입 장벽이 매우 높기 떄문에 고객사가 단기적인 변수에 따라 쉽게 파운드리 파트너 교체는 어려움\n→ 정부 지원이나 자금력도 긍정적인 요소이지만, 파운드리 경쟁력의 본질은 ① 독보적인 기술 리더십, ② 제조 우수성, ③ 견고한 고객 신뢰에 있음\nQ. 지난 1월 제시했던 '향후 5년간 AI 반도체 매출 CAGR 50%대 중후반' 가이드라인을 더 상향 조정할 계획이 있는가?\n- 구체적인 성장률 수치를 오늘 당장 새롭게 제시하기는 어렵지만, AI 반도체의\n중장기 성장세는 기존 전망보다 강해지고 확실히 말할 수 있음\n- 시장 수요와 성장세가 지속해서 우상향하며 끊임없이 증가하기에 특정 숫자로 한계를 두지 않고 있으며, 이것이 올해 CapEx를 증액한 실질적인 이유\nQ. 업계에서 경쟁사의 EMIB 등 대안 패키징 기술이 주목받고 있는데, 첨단 패키징 시장의 경쟁 구도 변화에 대해 어떻게 대응할 것인가?\n- 현재 TSMC의 첨단 패키징(CoWoS 등) 캐파는\n고객사들의 강력한 수요를 감당하기에 매우 타이트한 상태\n→ 패키지 병목 상태 지속 중, 업계에 다른 대안 패키징 솔루션이 활성화되는 것을 적극적으로 환영\n- 시장에 유연성을 더해주어 TSMC 매출의 가장 큰 비중을 차지하는 전공정 웨이퍼 비즈니스의 성장에도 결과적으로 큰 도움 기대\nQ. 경쟁 압박이나 전력 공급, 데이터센터 건설 지연 등 외부 변수가 많은 상황에서 CapEx 계획을 어떻게 수립하는가?\n- 경쟁사 동향 분석 및 최상위 클라우드 서비스 제공업체(CSP)를 포함한 고객사 및 최종 고객사들의 수요를 탑다운과 바텀업 방식으로 평가\n- 대규모 자금이 투입되는 투자인 만큼, 고객사들이 제시하는 공격적인 예측치를 그대로 수용하지 않고 TSMC 자체적인 전략적 판단을 거쳐 CapEx를 결정\nQ. 내년 말까지 여전히 공급 부족 현상이 지속될 것으로 보는가?\n- 현재 시점부터\n최소 2029년 혹은 2030년까지 중장기적인 반도체 수요는 매우 강력하게 유지될 것으로 전망\n- 현재 전 산업군(자동차, 휴머노이드 로봇 등)에 걸쳐 인류의 일상을 바꾸고 있는 'AI 산업'이라는 거대한 신산업의 탄생이 진행중\n- 빅테크들이 엄청난 자금을 투입하고 있는 이 중요한 신산업의 근간은 결국 '반도체 칩'이며, 그 칩들의 대부분을 TSMC가 생산\nQ. 장기적인 수익성 목표와 웨이퍼 Pricing 전략은?\n- TSMC의 가장 근본적인 철학은 '고객의 성공을 지원하는 파트너'가 되는 것\n- 단기적인 초과 수요 상황이나  무리하게 가격을 올리지 않으며, 고객사와의 두터운 '신뢰 관계'를 최우선으로 생각\n- 장기적이고 지속 가능한 CapEx를 감당할 수 있는 수준의 건전한 GPM을 확보하는 것을 목표\nQ. AI수요 급증으로 상위 5개 고객사에 대한 매출 집중도가 높이지는 리스크는 어떻게 보는가?\n- 고객 집중도는 전혀 우려하는 요인이 아니며, 오히려 기존 고객사들이 지속해서 성장하고 커지는 것에 대해 긍정적으로 생각\n- 몇 개의 대형 고객사만 커지는 것이 아니라,\n현재 AI 산업 내에 새로운 플레이어들이 등장하며 성장하고 있어 고객 기반은 다변화\nQ. 빅테크들이 AI 수요를 지원하기 위해 직접 파이낸싱이나 지분 투자를 당행하는데 관련 계획이 있는가?\n- 고객사들에게 파이낸싱이나 금융 지원 계획은 가지고 있지 않음\n- 기존의 비즈니스 모델을 고수할 계획\n📨\nDAOL 반도체:\nhttps://t.me/Semi_Ko",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-16T08:12:29+00:00"
-    },
-    {
       "id": "tg:HI_GS/6714",
       "source": "telegram",
       "author": "HI_GS",
@@ -903,7 +914,7 @@
       "url": "https://t.me/globaletfi/20670",
       "text": "🔹\n서학개미 글로벌 주식 순매수 상위 종목 TOP10\n(최근 일주일: 7/9~15)\n» 항상 그렇듯 SOXL(반도체 3배)이 총 거래 규모와 순매수 금액 모두 1위 위치에 자리\n» 이어 10일에 상장된 SK하이닉스 ADR도 두번째로 많은 1억 7,341만달러를 순매수한 것으로 집계\n» 한국증시 3배 레버리지 ETF인 KORU를 1억 3,369만달러, 나스닥 2배 레버리지 ETF인 QLD는 6,185만달러 매수",
       "images": [
-        "https://cdn5.telesco.pe/file/Dju-cD9cogoxq7FFc5jNnov4EzjPg-MxT416EJo3yEkYWTKRl8aENm6cs0lxzAczMuU6w1P9v29xz33B6NXZsGVtrKLMJDtWIm2Uo5aHl1PUCuZbQDYjPQ-iENaLS460VhvuZpfuuSG9DkphS_bpwflwEQF6lhDUySKYeZJ8QeOBKNb9a1AeznRbV_ca5R1wVyuuwsP3dZGfJ_pIHrRvF8Jv91f3X5nJUEKVeCmMURjP4ZBrZB6wPIk-8qDgu7aAbW2oe5qiw7Ycf_l8KuQoYXnCuUFbpsvUAu7s2c_lWTt-AJn-1LZxUvlRcoVp_Sg-eMIY7nA8nfSdRtqY3Js5cw.jpg"
+        "https://cdn5.telesco.pe/file/hjXC0Yw2aUg3nkaUbnun00xXZkt1JrhKeHy7n0i41ZbviW6aMz5beeoHt_5E7OKxKyi5h6pMS4Sm1XXRlJS--XNEe9hSoIecxNMi1a9AXILqyf8iJe-QcQ7An_wVD4EfD3OMHKHUhb-zhFUf8pTioZDKxbs9XSvxVo80ecHyC-OEc5Sl_510zl_c24VF1nK5DQX8mfE1VtXOXkdBxZhHcuwPiQzaEzEyaX4eMfvzh4NDrCNRUDyMr2NVKMNtdfMPDwAJym8h33ADNBig3y7xQtB35DuDjLx2mYQkh-EgCatuVr3uT3qyNUL2w7a6ZfGrftzYzcokFf_yMktwgm64oQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-16T02:14:09+00:00"
@@ -1139,18 +1150,6 @@
       "published_at": "2026-07-15T22:22:26+00:00"
     },
     {
-      "id": "tg:enc210406/4141",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4141",
-      "text": "[한투증권 강경태] 2026년 7월 16일 (목)\n📈\n가격 동향\n• WTI 79.6달러/배럴(+0.3%)\n• 천연가스 2.9달러/MMBtu(+0.7%)\n『커버리지 주가』\n<건설>\n• DL이앤씨 +4.2%\n• 현대건설 +3.5%\n• GS건설 +2.7%\n• 대우건설 +2.6%\n• 삼성E&A +6.0%\n<건자재>\n• 한샘 -0.6%\n<디벨로퍼>\n• SK디앤디 -19.7%\n<리츠>\n• 신한알파리츠 -0.2%\n• 디앤디플랫폼리츠 +0.1%\n• 이리츠코크렙 -2.8%\n• 이지스밸류리츠 +1.3%\n• SK리츠 -1.8%\n• NH올원리츠 +0.2%\n• 이지스레지던스리츠 +0.6%\n• 롯데리츠 +0.0%\n• ESR켄달스퀘어리츠 +1.1%\n• 코람코라이프인프라리츠 +0.5%\n<조선>\n• HD한국조선해양 +2.4%\n• HD현대중공업 +1.1%\n• 한화오션 +6.8%\n• 삼성중공업 +2.8%\n• 한화엔진 +8.6%\n• HD현대마린솔루션 +4.4%\n📢\n뉴스\n<건설>\n▶️\n하반기 중동 건설공사비 12% 뛴다 … 해외서 날아온 '원가 쇼크' 경고장\nhttps://biz.newdaily.co.kr/site/data/html/2026/07/15/2026071500099.html\n▶️\n해외건설 수주 텃밭 중동에서 북미로\nhttps://n.news.naver.com/article/029/0003037246?sid=101\n▶️\n성수2지구 2조 수주전 돌입…현설에 DL이앤씨·IPARK현산 참석\nhttps://n.news.naver.com/article/003/0014068999?sid=101\n▶️\nGS건설, 주택 매출 공백 데이터센터로 메운다…동해 2.4GW 사업 주목\nhttps://www.opinionnews.co.kr/news/articleView.html?idxno=141582\n<건자재>\n▶️\n강남3구 분양가 8000만원 육박 … 건축비 폭등에 분상제 힘빠져\nhttps://n.news.naver.com/article/009/0005708031?sid=101\n<리츠>\n▶️\nJR리츠 8월 초 임시 주총 연다…소액주주 최초 이사회 입성 시도\nhttps://n.news.naver.com/article/008/0005386656?sid=101\n<조선>\n▶️\nHD현대중공업, 美 방산 AI기업과 무인잠수정 개발 … K함정, 환태평양 벨트 확장\nhttps://n.news.naver.com/article/009/0005707895?sid=101\n▶️\n태국 호위함 사업자 선정 임박…HD현대重·한화오션 등 경쟁\nhttps://n.news.naver.com/article/629/0000516233?sid=101\n▶️\n한화오션, 해양 적자 고리 끊는다…30억 달러 수주 총력전\nhttps://n.news.naver.com/mnews/article/030/0003448223?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-15T22:11:41+00:00"
-    },
-    {
       "id": "x:OpenAI:2077501603050033634",
       "source": "x",
       "author": "OpenAI",
@@ -1241,6 +1240,20 @@
       "published_at": "2026-07-15T17:34:30+00:00"
     },
     {
+      "id": "x:sama:2077446718728425686",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2077446718728425686",
+      "text": "RT by @sama: Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2077445333765001216/MQV9mB7F?format=jpg&name=800x419"
+      ],
+      "summary_ko": "@sama의 RT: GPT-Red 소개 모델의 신속한 주입 취약점을 규모에 맞게 찾아내는 임무를 수행하는 내부 자동 레드 팀을 통해 더 폭넓게 배포하기 전에 더 강력한 방어 체계를 구축할 수 있도록 돕습니다. https://openai.com/index/unlocking-self-improvement-gpt-red/",
+      "published_at": "2026-07-15T17:34:29+00:00"
+    },
+    {
       "id": "x:OpenAI:2077446719990796505",
       "source": "x",
       "author": "OpenAI",
@@ -1264,20 +1277,6 @@
         "https://pbs.twimg.com/card_img/2077445333765001216/MQV9mB7F?format=jpg&name=800x419"
       ],
       "summary_ko": "고정됨: GPT-Red 소개 모델의 신속한 주입 취약점을 대규모로 찾는 임무를 수행하는 내부 자동화 레드 팀을 통해 더 폭넓게 배포하기 전에 더 강력한 방어 수단을 구축할 수 있습니다. https://openai.com/index/unlocking-self-improvement-gpt-red/",
-      "published_at": "2026-07-15T17:34:29+00:00"
-    },
-    {
-      "id": "x:sama:2077446718728425686",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2077446718728425686",
-      "text": "RT by @sama: Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2077445333765001216/MQV9mB7F?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@sama의 RT: GPT-Red 소개 모델의 신속한 주입 취약점을 규모에 맞게 찾아내는 임무를 수행하는 내부 자동 레드 팀을 통해 더 폭넓게 배포하기 전에 더 강력한 방어 체계를 구축할 수 있도록 돕습니다. https://openai.com/index/unlocking-self-improvement-gpt-red/",
       "published_at": "2026-07-15T17:34:29+00:00"
     },
     {
@@ -1379,7 +1378,7 @@
       "url": "https://t.me/HI_GS/6705",
       "text": "「한화오션, VLCC 2척 수주」\n💲\n2030년 3월 납기, 신조선가 131.0백만달러\n☞\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260715800071\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n❗\n131백만달러. 요즘 건조하는 VLCC는 이것보다 밑인데, 마진이 좋다고 하더이다.",
       "images": [
-        "https://cdn5.telesco.pe/file/tl8jl5tavjC6-09dz7mSD4wdvsR_5E72qOmORAuL8NrwZIu5_0NAXj01X2DwntwQU8iZlI0Djk9GaaXuvTN16qmMScnyTu1wEQYg3-mc5Jjw7yZ3-IfHKbEHEt3hbS1a20kj7litVfQi9ddTPnQilvIb8fum_HAJe2WvGypukeN3b6365_fKQcWpm-LpJusYaeusBMsIY1T_35f3gpDMno2CDHbf0KxD0gGaE83bXEur2uKMVY75R4IlVX3r4estEz3enS8X6FFcxDuvxmbXsg-esj5li8JLGcL5SLgF1F0qHSrKZJ8yQ_oQk0q7NGWutm3A0dppnVCKoajX1DUQ7A.jpg"
+        "https://cdn5.telesco.pe/file/var4_jicLygc3WA7hibEndENN8yhma80wzlVlKFR8hKVgQqCcdUGeNL8W_3VsWyjL2bBhTElVQVzJn6w3Oujp1ikXWUIo0XFgSx4ZzF8V5Mz8yYW_EeEq4e9_oh76u9Rzt8DFh8iGoRAw_FHHMNPlMW8klou_Itl1k5ppPTT-70qfjLmIIrLRYywnVG9am51fszbhPijsWG3Seoeq1bKP3UwijFNnubAMhWxM5U4Qfx24aWPjeezxc6XXSUfIHLJxTG0fXGfJpCDnPvXIwI-dXHQwJgVV_6qXIzIRuoa6l3N8aA_dqmZty3ecjJz_el3kDOI2EzqQlrm7H6oSV8Okg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-15T00:46:49+00:00"
