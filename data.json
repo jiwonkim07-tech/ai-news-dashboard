@@ -1,22 +1,70 @@
 {
-  "updated_at": "2026-07-18T20:48:13+00:00",
+  "updated_at": "2026-07-18T21:51:27+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 7
+    "new_this_run": 4
   },
   "briefing": {
     "headline": "애플 시가총액 엔비디아 역전",
     "bullets": [
+      "이란, 양해각서 이행 중단",
+      "중국 제조업 인도 수용",
+      "ASML AI 수요 가시성 확장",
       "한화 필리조선소, 미국 미사일시험 계측선 수주",
-      "ASML AI 수요 가시성 확장, 목표주가 €2,200 상향",
-      "중국-인도 협력 강화, 딕슨 테크놀로지와의 파트너십",
-      "SK하이닉스 본주·ADR 상호전환 29일 개시",
-      "애플, 알리바바와의 중국 내수용 CXMT 협력"
+      "화웨이 아너 로봇폰 공개"
     ],
-    "generated_at": "2026-07-18T20:48:13+00:00",
+    "generated_at": "2026-07-18T21:51:27+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31674",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31674",
+      "text": "이란, 양해각서 이행 중단  • 이란 외무차관: 미국의 약속 위반 이후 이란은 양해각서 이행 중단  伊朗副外长：伊朗已停止履行伊美谅解备忘录 据伊朗媒体18日报道，伊朗副外长加里巴巴迪表示，在美国违反承诺后，伊朗已停止履行伊美谅解备忘录。（新华社）  https://wallstreetcn.com/livenews/3136030?ivk=1#from=ios",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-18T21:50:24+00:00"
+    },
+    {
+      "id": "tg:EMchina/31673",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31673",
+      "text": "인도네시아 투자부 장관: 중국-인도네시아 투자 협력 미래에 확신\n• 인도네시아는 무역 투자 촉진 및 비즈니스 환경 개선 정책 계속 추진. 중국-인도네시아 투자 협력 미래에 자신\n• 인도네시아는 항상 개방적인 태도 유지. 안정/투명/우호적인 투자 환경 유지 노력\n• 최근 정책 조정의 목표는 산업 거버넌스 및 경쟁력 강화 & 더 큰 장기 가치 창출. 이는 외국인 투자 제한하지 않으며, 특정 국가/파트너 겨냥한 것이 아님\n印尼投资部部长：对中印尼投资合作未来充满信心\n印度尼西亚投资与下游化部部长罗山表示，印尼政府将继续推行促进贸易投资、改善营商环境的政策，对中国和印尼投资合作的未来充满信心。罗山说，印尼始终保持开放态度，致力于维护稳定、透明和友好的投资环境。近期政策调整的目标是加强产业治理、提升竞争力，并为印尼经济创造更大的长期价值，不会阻碍外国投资，更不是为了针对任何特定国家或投资伙伴。\nhttps://wallstreetcn.com/livenews/3136080?ivk=1#from=ios",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-18T21:29:12+00:00"
+    },
+    {
+      "id": "tg:EMchina/31672",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31672",
+      "text": "중국국가발전개혁위원회: 중점 산업 에너지절약 및 탄소저감 개조 3개년 행동 전개  • 철강, 전해알루미늄, 시멘트, 판유리, 정유, 에틸렌, 합성암모니아, 메탄올, 석탄 발전 등 주요 산업의 에너지절약 및 탄소 저감 개조 3개년 행동 추진  • 기업 에너지효율 및 탄소효율 수준 최대한 향상. 산업의 친환경 & 저탄소 발전 수준 향상  • 2028년 이후 상황에 따라 시행 범위 확장 추진  国家发改委等部门：开展重点行业节能降碳改造攻坚三年行动 国家发展改革委等…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-18T21:15:26+00:00"
+    },
+    {
+      "id": "tg:EMchina/31671",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31671",
+      "text": "중국 제조업을 받아들이기 시작한 인도. 국산화 동반 추진  ==========================  ~ 블룸버그통신에 따르면, 나렌드라 모디 인도 총리실이 16일(현지시각) 반도체와 자동차, 화학 같은 수입 의존도가 높은 100여 개 품목을 국내 생산으로 대체할 수 있는지 검토하라고 주요 부처에 지시했다. 인도 상공부는 전자, 화학, 필수 의약품, 비료, 반도체, 자동차, 기계류를 포함해 100개 이상의 품목 후보군을 짜고 있다. 최종 결정은 아직…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-18T21:09:24+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23687",
       "source": "telegram",
@@ -288,18 +336,6 @@
       "published_at": "2026-07-18T07:36:42+00:00"
     },
     {
-      "id": "tg:EMchina/31662",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31662",
-      "text": "중국-인도 점점 협력  ========================  ~ 인도 최대 전자제품 수탁생산(EMS) 기업인 딕슨 테크놀로지(Dixon Technologies, 종목코드NSE: DIXON)와 중국 스마트폰 제조업체 비보(Vivo) 간의 합작법인(JV) 설립 프로젝트가 인도 정부의 최종 승인을 위한 마무리 단계에 있는 것으로 알려졌다  https://m.newspim.com/news/view/20260701001400",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-18T06:46:04+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/23679",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -324,18 +360,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-18T06:27:08+00:00"
-    },
-    {
-      "id": "tg:EMchina/31661",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31661",
-      "text": "스마트화가 토큰 경제의 폭발적인 성장 견인. 중국 일평균 토큰 호출량 천 배 이상 증가(중국정보통신연구원)\n• 중국 일평균 토큰 호출량 2024년초 약 1000억에서 2026년 3월말 140조로 급증 & 천배 이상 증가\n• 새로운 경제 형태, 즉 '토큰 경제' 탄생. Token은 대규모 모델의 정보 처리 및 모델 호출 비용을 측정하는 단위. 토큰 성장 속도는 산업 발전의 가장 직관적인 바로미터\n• 스마트화 시대에는 사용자 명령으로 수차례의 모델 호출 및 자원 소모 촉발 & 인공지능 연산 능력 수요 직접적으로 자극\n• 스마트 시스템 대규모 적용에 따라 Token 측정, 스케줄링, 가격 책정 및 거래 중심으로 한 일련의 새로운 모델 형성\n智能体引爆Token经济，我国日均Token调用量增长超千倍\n中国信息通信研究院副院长魏亮表示，我国日均Token调用量已经从2024年初的约1000亿，飙升到了2026年3月底的140万亿，增长超过千倍。智能体正在催生一种全新的经济形态，即“Token经济”。Token中文叫词元，是大模型处理信息和计量模型调用成本的重要单位。它的增长速度是产业发展最直观的晴雨表。智能体时代，一个用户指令可能触发多轮模型调用和资源消耗，直接带动人工智能算力需求爆发。随着智能体规模化应用，围绕Token计量、调度、定价和交易的一系列新模式正在形成。（央视财经）\nhttps://wallstreetcn.com/livenews/3135970?ivk=1#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-18T06:00:07+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/23677",
@@ -376,18 +400,6 @@
       "published_at": "2026-07-18T04:57:19+00:00"
     },
     {
-      "id": "tg:EMchina/31660",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31660",
-      "text": "알리바바 & 애플  • 알리바바 프리마켓 +5%대  •• 중국 내수용 CXMT 쓰나  ===========================  애플 인텔리전스 중국 등록. 알리바바 Qwen 능력 통합  • 알리바바 Qwen AI 기능이 Apple 인텔리전스에 통합. 중국 iOS, iPadOS, macOS 및 visionOS 사용자에게 경험을 제공  • 사용자는 애플리케이션 간 전환 필요 없이 Apple 장치에서 직접 Qwen 텍스트와 이미지, 콘텐츠 생성 등…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-18T04:28:59+00:00"
-    },
-    {
       "id": "tg:enc210406/4156",
       "source": "telegram",
       "author": "enc210406",
@@ -422,20 +434,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-18T03:00:30+00:00"
-    },
-    {
-      "id": "tg:EMchina/31659",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31659",
-      "text": "미국 투자자 역대급 레버리지\n=========================\n⚠️\nUS investors HAVE NEVER been this leveraged:\nNet credit balance, investor cash minus margin debt, has collapsed to -$992 billion as of May 2026, an all-time low.\nThis is nearly double the prior record of -$509 billion set in 2021, before the 2022 bear market.\nThis comes as total margin debt spiked another +$112 billion in May, to a record $1.4 trillion, more than double the 2023 level.\nIn other words, investors now owe far more in margin debt than they hold in cash.\nIf stocks begin to fall, margin calls could force leveraged investors to sell shares to repay debt, adding further selling pressure and potentially turning a normal pullback into a much sharper decline.\nInvestors are betting the market higher with money they do not have.\nhttps://x.com/GlobalMktObserv/status/2075587600258060569",
-      "images": [
-        "https://cdn5.telesco.pe/file/FOBqZdQATVavVfBG2Ml0_clsUsHC_H6H7of_mqasACQwdy-6c2u16GEcFkk5VeLKYaQBQMFv_Yj4nTjqMAA1Y60OUQQB1KeVTaO1Q_alEJNxPOp6-IzRvOoZWsBf-yEsbjgIC0VrW495ATbgaSPCPOsFECwKSrVbaGbGp0b9pUP9S9RMiK--Mu6-rTyAhQrJYtDYsLIV1452-wFnXmq1Dp0nFQm4PsL293xJ1WLNcjFzz0OidorHt61eWUWHUbAeSsTrc0ngG2Pjmp5wrgdB3PskHz_G3Ci0kTEOH-TDZK8u2F0KWCk7nj3gbs6-j28KIIjsiGbD6C3RXOLydT1JZg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-18T02:35:11+00:00"
     },
     {
       "id": "tg:bornlupin/19145",
@@ -1263,8 +1261,8 @@
       "url": "https://t.me/globaletfi/20657",
       "text": "» SK하이닉스 ADR과 DRAM ETF 약세",
       "images": [
-        "https://cdn5.telesco.pe/file/mT6JiqDFhlKGkx256H6a5YK3j4uYz-6zqaapNnkyY5pb9obIra2ZMTC9sHKq9FaTz3Ow5zCpCDqV3iPDO3pRRiuRlUeMcnv5qDSxaDHjfQXMkzHb1dIWTfMdo5mWz2-M9K2aYkEdZ9NkRzIzm6pGCvDx5bhSEaGquNTnG0hAtBJSVbMdHsWYMHja39bVKkV-VBcK653y1LFpDZA_qNSkjb-nQu3RTesperVoH8U5Z02SDmHffbi_aKaepmm31FbMPWUteHWgowNWsaR0HEhWioRl8r6VuBurbkwvfzee1vHIyeo8trQKvpm3msyF-mp8ZVzAcpPd4UVMHSNG8fn1Ag.jpg",
-        "https://cdn5.telesco.pe/file/AZ4DToFa4iH26LmVmesgFAZ34nQwinFfWEmlzoDFCCxn4BKhyZEvC3lqAJYGESzp6I7e6hdxTQlHUtVYOneXOanG-xCHkt_d27NPoPZqYGyKrJkVKvPId5jkqpG9-iNR0IzpKXhxQfyzzvtyI8x3vv58IwUq_732RTKFz42R_SviYgtqcqSLDkKcmUDyTb7vdyF6azKn1QaZBhpIUi5t1kYA19anVg9LU6siX2nIq-vMCbF0fMuc_as98as6Sl34zlk30940qj-VT60O5_WLjqnMgyN3-jlmTgp7rg7_Lnh0tVe4S2Aru6H3YD1-55gUqx9O-2UbBMPWNyDAUU2xvg.jpg"
+        "https://cdn5.telesco.pe/file/OtU2qJQndpwHjzVxE-qPOnolaaH9VATYvXDi7cutIO-ycmpY1mGYvHqOo0Q5crET8rnWJ6WcIwCISZUkT4jc9fqi_JLkPhwD_1QR5BIKNG2BtXjZK84OZYYEMbI4G-6tI4oHeJUXIplAwncTITBsbjBfoeveCKD7pmjG-Eb3rZ9_C_PIMMDBoSm9MItTz2zSydcLx8sfI8WR6l25kc-Fusl0Sx_Q-pJ1t5FV6UTQg04uzqGg-b0MyfRnUZUWjUPuUzfFZ-7uxca1z_RjfY4qS52Rhuy0VpuRSJaQOcgrE13TbQ3BM31iGUxBP4D-dQfJHfsOzlMMQfrioa0JbkUSIg.jpg",
+        "https://cdn5.telesco.pe/file/sAPzADXO_0GcWhjU9mSHyvFqFvL77obN4xfhdLe0ACxLq4jFLUyj-NOrxrI0f3VHBtYzBVij_lk4gfFA8gZUBk74DvHwbNKh9OugOwAeYkXOdDdqFx9TRJV2DOB58dphRYUwPqk_KCcjV-C3ylUeTmw6idWjC08kHzfXJ5kN0gC83S1uh84lmlQEOe2TKmDq6YZ7WdYdXrxyF1opsvwSKnkB66bNHh_wBSlSKJmZraVDx7TzLupZTlju0dafM3KVxJoFpc-bS4GelPBdXf7hLJkWAKc1REqIDkpyfpng21dbN1eJdVgXJD2czmbHmoAxukkq06MkXOQFMqye5MCrnw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-15T22:27:30+00:00"
