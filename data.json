@@ -1,22 +1,94 @@
 {
-  "updated_at": "2026-07-18T11:03:52+00:00",
+  "updated_at": "2026-07-18T13:15:14+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 1
+    "new_this_run": 11
   },
   "briefing": {
-    "headline": "애플 시가총액 엔비디아 역전",
+    "headline": "애플, 엔비디아 제치고 세계 1위 등극",
     "bullets": [
-      "SK하이닉스 본주·ADR 상호전환 29일 개시",
-      "트럼프 '캐나다 산불 오염 비용, 관세에 추가해야'",
+      "아디다스, 월드컵 매출 전망 상향 조정",
+      "화웨이 아너, 로봇폰 공개",
+      "SK하이닉스, 본주·ADR 상호전환 29일 개시",
       "중국-인도 협력 강화",
-      "알리바바 & 애플 상승",
-      "메타 -3%대 하락"
+      "애플, 시가총액 1위 등극"
     ],
-    "generated_at": "2026-07-18T11:03:52+00:00",
+    "generated_at": "2026-07-18T13:15:14+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31669",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31669",
+      "text": "아디다스, 월드컵 매출 전망 상향 조정\n• Gulden 아디다스 CEO : 월드컵 관련 매출 전망 약 15억유로. 기존 예상 10억유로\n阿迪达斯上调世界杯相关销售预期\n阿迪达斯CEO Gulden：公司预计世界杯相关销售大约为15亿欧元，之前预计为10亿欧元。（彭博）\nhttps://wallstreetcn.com/livenews/3136029?ivk=1#from=ios",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-18T12:55:43+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23683",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23683",
+      "text": "화웨이 아너에서 공개한 로봇폰\n귀엽다",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-18T12:47:00+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23682",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23682",
+      "text": "WAIC(World AI Conference) 2026 (26.7.17-20, 상하이)에서 공개된 로봇\n이거 타고 출퇴근하면 인싸각인데",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-18T12:45:30+00:00"
+    },
+    {
+      "id": "tg:EMchina/31668",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31668",
+      "text": "업스트림 주문은 폭주, 다운스트림은 비용 고려하지 않는 투자. AI가 계산 되지 않는 이유(Jim Chanos)\n• 초대형 클라우드기업은 단기 수요 기반으로 20년짜리 자산 정책 결정, 대량의 GPU 장비는 창고에 보관 & ’건설 중 공사‘로 분류되어 감가상각 지연. 기술 가치 하락 및 이익 과잉 산정 은폐\n• 클라우드 기업 증분 ROIC는 40%에서 20%로 하락. 향후 10% 아래로 낮아지면 빅테크 투자 속도조절 불가피. 이는 전체 AI 생태계에 충격\n上游订单爆表、下游不计代价！“大空头”查诺斯：AI这笔账为什么算不过来\n查诺斯表示，超大云厂商正基于短期现货定价进行长达二十年的资产决策，大量GPU设备因堆积仓库、归入在建工程而推迟折旧计提，掩盖了技术贬值和利润虚高。云厂商增量资本回报率已由40%腰斩至20%，未来若跌破10%，巨头管理层将被迫减速，从而引爆整个AI生态。\nhttps://wallstreetcn.com/articles/3777307#from=ios",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-18T11:50:30+00:00"
+    },
+    {
+      "id": "tg:EMchina/31667",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31667",
+      "text": "중국 증시 '국가대표 자금'의 ETF 유입 규모(4거래일 누적 기준)는 15개월만에 최대(골드만삭스)  • '국가대표' ETF 자금 흐름 추적 지표에 따르면, 7/13-16 순유입 규모 290억위안  • 2025년 4월 이후 4거래일 누적 기준 최대 규모  高盛指中国股市“国家队”ETF录得15个月最大四日资金流入 高盛的“国家队”ETF资金流动追踪指标显示，7月13-16日期间净流入达290亿元人民币。以刘劲津为首的策略师在周五的报告中称，这一金额为2025年4月以来最大的四个交易日累计规模。…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-18T11:39:49+00:00"
+    },
+    {
+      "id": "tg:EMchina/31666",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31666",
+      "text": "Kimi 이르면 6개월 내 홍콩 상장  • 투자자들에 이미 지배구조 개편 & 홍콩 IPO 준비 통지  • 빠르면 6개월 내 홍콩 상장 완료  Kimi有望最快6个月内港股上市 Kimi已通知投资者调整公司架构，筹备赴港IPO，最快可能6个月内就能完成港股上市。（36氪）   https://wallstreetcn.com/livenews/3135984?ivk=1#from=ios",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-18T11:04:02+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23681",
       "source": "telegram",
@@ -276,34 +348,6 @@
       "published_at": "2026-07-18T03:56:58+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23669",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23669",
-      "text": "BofA) Kimi K3 출시와 컴퓨팅 경쟁\n1. 새로운 중국 오픈 웨이트 모델\n문샷(Moonshot)이 100만 토큰 컨텍스트 윈도우를 갖춘 2.8조 파라미터 규모의 대형 전문가 혼합(Mixture of Experts, MoE) 모델인 Kimi K3를 공개했습니다.\n규모 확대 압박을 받는 미국 연구소들: 중국 오픈 웨이트 모델들이 격차를 좁히고 있고, 언론 보도에 따르면 구글의 Gemini 3.5 Pro가 일정보다 수개월 지연되고 있다는 가운데, 미국 프론티어 연구소들(OpenAI, Anthropic, Google)은 컴퓨팅을 늘려야 합니다. 이들은 우위를 유지하기 위해 더 큰 규모의 훈련 실행, 더 많은 강화학습(RL), 합성 데이터 루프, 그리고 더 빠른 출시 주기가 필요할 것입니다.\n리더보드보다 비즈니스: 투자자들은 벤치마크 선두를 지속 가능한 비즈니스 모델과 혼동하지 않도록 주의해야 합니다. 엔터프라이즈 AI에서 지속되는 해자(moat)는 정확하고, 낮은 지연 시간과 높은 가동 시간을 갖춘 AI를 최저 비용으로 제공하는 것입니다.\n2. AI 반도체에 대한 강세 전망\nMoE 아키텍처가 하드웨어 수요를 촉진: 전문가 혼합(MoE) 아키텍처로의 전환은 메모리 이동, 라우팅, 지연 시간, 인터커넥트의 결정적 중요성을 부각시킵니다.\nNVIDIA의 차세대 효율성: NVIDIA의 GB300 NVL72는 선도적인 오픈 MoE 모델을 서빙할 때 Hopper 대비 최대 25배의 와트당 성능 개선을 제공합니다.\n확대되는 실리콘 수요: 오픈 모델은 본질적으로 반도체에 강세 요인입니다. 모델 가치가 범용화되더라도 GPU, 고대역폭 메모리(HBM), 네트워킹, 효율적인 추론에 대한 인프라 수요는 계속 확대될 것입니다.\nEDA의 회복력: BofA는 케이던스(CDNS)와 시놉시스(SNPS)와 같은 전자 설계 자동화(EDA) 업체에 대해 여전히 긍정적입니다. Kimi K3에서 \"45nm 오픈소스 EDA\"에 대한 언급이 있었음에도 불구하고, TSMC와 같은 주요 파운드리가 첨단 칩을 제조하기 위해서는 상용 EDA 도구가 여전히 전적으로 필수적입니다.\n3. 급증하는 토큰 사용량과 엔터프라이즈 AI 채택\n토큰 사용량을 주도하는 중국 연구소들: OpenRouter 데이터에 따르면 주간 토큰 사용량이 빠르게 확산되고 있으며, 중국 AI 모델의 일일 토큰 사용량이 이제 서구 AI 연구소들을 넘어섰습니다.\n미국 엔터프라이즈 채택률: Ramp AI Index에 따르면 미국 기업의 약 55%가 현재 AI 도구에 유료 구독을 하고 있으며(미국 인구조사국 추정치 21%보다 상당히 높음),\n시장 점유율과 지출: Anthropic이 42.4%로 엔터프라이즈 모델 채택을 선도하고 있으며, OpenAI가 39.5%로 근소하게 뒤를 따르고 있습니다. 직원 1인당 월간 AI 지출 중앙값은 11달러에 불과하지만, 엔터프라이즈 지출 상위 1%는 직원 1인당 월평균 4,833달러라는 막대한 금액을 지출하고 있습니다.\nhttps://x.com/pequityresearch/status/2078162818180788344?s=20",
-      "images": [
-        "https://cdn5.telesco.pe/file/rjpq_fgy7YdFGTI0JlhQXkcBXzbuDFoRxhTwRFKjwWNSpHNVhdeCLGGs4muZHaOj43tB8JonoKptEZMTyS0bU4reMlkdglofEC5t6zE5ttne99G06dPhBQnb4oIsD12ZN2f67qxYV_tHbszcNdLrBeQw9xVtBJyjjMrYgDNOhy3HYAKRNtBP0GFzZMrMtCq5FkLrzswAukrdG67Zz5TkwR6_-AWYeW9T7_B-oyZy-M-q6GI_mfP1tXmg6yCr0OuC0u1DZlz59tTNGy77G6BKwHKHXeunq4HJqk1TzL4G02mtKwKuFfVuJoMbg8owB3ASp_TVmkStyUhvmcZaC-bsVw.jpg",
-        "https://cdn5.telesco.pe/file/j00YiSyngeZ1M11lN9A0wGuLD3lxzykXc-v4KXLCfenf14DaQf1ZqCUEQnaYHyHVihyo69j5mxCbTsLhoOBlHBaxYM2oFkzO9XBq3Ll5TxAVKuewsg1FGQRdK6PJgbZRHcV8k2otRq2GOmykCziKZutYHCBAXkWyRYtE1GFmZUpeh-GEXIchyHI8-54fD3D_YRp14Iha_dpFXMFKSPPQOA8KyXjFN4vgAvWhJxEdPSAP9cnGQOc8NuDbPxwJ631zoedcv38U_qg8yZvn-YME7pEuLiIkY3iD4OhdWoEttu8SGOBAwVejmTj-ywFdf8HsLLEFe8qbwCdgxKcTF-k1Dw.jpg",
-        "https://cdn5.telesco.pe/file/OTd07X8tR91suXM9ckA_VK0elOx0Rqz10xKA1m1A7bT7dE-AuOAxElsLSKW-M31rdNxaa2tbYQ0ndBcAv2Pkk8PXqFu9EDsVuKD9R1y45VTO760kLEcagWFR6ICT9qVlxRjAUwm5Jbgs-hmihaG8clup7KfuYOMd1WArTk2WazoIF_p70UHvWNuraKwktGc-UqkspKuWl6doEsV853PN3vffnZyqxXBqcTNKIQ6GH6vddeoCq5sQGXAyNR3-P2bp_3e9Xweok2gQ-6HuPidxxf1FRwQqJPrPBpsgFeZ7LgyIoLIUAOp_My6fn36wK42rE0HYWa5lxUBXppqGDGzi5Q.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-18T03:50:50+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23668",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23668",
-      "text": "레이몬드제임스) 데이터 인프라 산업 2Q26 프리뷰: 수요는 견조, 논쟁은 진화 (2026.7.16)\n[총평]\n레이몬드제임스는 데이터 인프라 업종의 2분기 실적이 기대치에 부합하거나 상회할 것으로 전망합니다. 하이퍼스케일·클라우드 사업자의 지출은 견조하며, 인플레이션에 힘입은 기업 지출도 이를 뒷받침하고 있습니다. 하드웨어 업체들은 가격 인상을 통해 비용을 고객에게 전가했으며, 선구매(pull-forward) 효과로 하반기에는 성장 둔화가 예상됩니다. 다만 둔화의 주된 원인은 수요 변화보다 악화된 공급망 제약이며, 그 영향은 스위칭·라우팅·AI 가속기·옵틱스 같은 우선순위 장비보다 PC와 모바일 기기에서 더 크게 나타날 것으로 봅니다. 2025년 미국 하이퍼스케일·웹스케일 사업자 지출은 약 69% 증가했고, 2026년에는 약 86%로 더욱 강한 성장이 예상됩니다. 시장의 논쟁은 \"AI 버블\" 우려에서 AI의 수익성, 즉 토큰-오믹스(token-omics)로 이동했으나, 하이퍼스케일 지출은 기대를 계속 상회하고 있으며 대형 사업자들의 전망을 종합하면 투자 경쟁이 단기간에 잦아들 가능성은 낮다고 판단합니다.\n[매크로 전망]\n미국 통신사·웹스케일 합산 capex는 2026년 72% 증가 후 2027년 25%로 둔화될 것으로 모델링합니다. 웹스케일이 전체를 주도하며 2026년 86% 성장한 7,990억 달러, 2027년 28% 성장한 1조 210억 달러로 추적 예산의 90% 이상을 차지합니다. 2027년 추정치는 상향될 여지가 있으나 2026년 대비 성장률은 둔화되고 단기 수명 자산 비중이 높아질 전망입니다. 반면 통신사 capex는 2026년 -6% 감소를 반영하고 있으며, 최대 항목인 RAN 지출은 Dell'Oro 기준 북미에서 5~10% 감소가 예상됩니다. 메타의 잉여 AI 컴퓨팅 판매 계획 소식이 인프라 시장에 파장을 일으켰고, 아마존 Tranium 3와 구글 TPU v7e 등 신규 ASIC 프로그램 일정 관련 소음도 있었으나, 기술 진화 속도가 공급망을 압박하면서 메모리·기판·냉각·설계 변경이 병목으로 작용하고 있다는 판단입니다. 클라우드 capex의 상향 조정 가능성에 긍정적 시각을 유지합니다. 구글의 F1Q26 capex 360억 달러는 대체로 예상에 부합했고 2027년 큰 폭의 증가를 예고했으며, 메타는 F1Q26 capex가 컨센서스를 하회했으나 2026년 가이던스를 기존 1,150억~1,350억 달러에서 1,250억~1,450억 달러로 상향해 시점 요인에 따른 일시적 변동으로 해석됩니다.\n데이터콤 옵틱스, 네트워킹, 가속 컴퓨팅 플랫폼이 커버리지 내 최선의 단기 노출처로 꼽힙니다. CPO 지연과 중국 경쟁 관련 소음이 옵티컬 부품주를 압박했으나 CPO 일정 자체는 변하지 않았고, 설령 지연되더라도 가속기 배치 속도가 유지되는 한 옵틱스는 수혜를 본다는 시각입니다. XPU 시장은 CY26 +85% 성장이 예상되며 2030년 추정치 7,050억 달러는 5년 CAGR 32%에 해당합니다. 데이터콤 광트랜시버도 2026년 +70% 성장이 전망되고 2030년 추정치는 15% 상향된 1,160억 달러로 5년 CAGR 50%입니다. 반도체를 통한 노출로는 엔비디아, 마벨, 브로드컴을 최선호로 제시합니다.\n통신·케이블 지출은 여전히 혼조입니다. 미국 사업자 중 AT&T가 가장 우호적이고 버라이즌이 가장 위험하다는 평가이며, 연방 예산조정법(BBB)의 감가상각 가속 조항이 미국 capex를 자극하고 있습니다. 북미 통신사의 2026년 지출은 계속 어려운 반면, 케이블 사업자 capex는 상반기 개선 후 하반기 완화가 예상됩니다. 컴캐스트의 미디어 분사 계획은 네트워크에 대한 집중 강화를 시사합니다.\n[Top Picks와 At Risk]\n최선호주는 실적 발표를 앞둔 광학 부품주로, 코히런트(Coherent), 루멘텀(Lumentum), 어플라이드 옵토일렉트로닉스(AAOI) 순입니다. 세 종목 모두 CY26·CY27 EPS에서 컨센서스를 상회하는 추정치를 제시하고 있으며, CPO 시점과 중국 레이저 소싱 관련 소음은 과도하다고 판단합니다. 7월 23일 AMD의 AI 이벤트에서 CPO 전략이 공개될 경우 옵티컬 주가의 촉매가 될 수 있습니다. AMD는 CPU 추정치 상향도 예상되며, 아리스타는 수요가 견조하고 이연매출이 업사이드 요인이나 공급 제약이 올해 출하 증가를 제한합니다. 아스테라랩스는 아마존 주도의 성장에 신규 고객이 더해지고 있습니다.\n리스크 종목으로는 Arm과 노키아가 실적 촉매 부재로 지목됐습니다. Arm은 자체 CPU 생산에서 캐파 제약을 확인했고, 노키아는 라우팅·스위칭발 리레이팅이 2027년에나 가시화될 전망입니다. 인텔은 Terafab의 잠재력에도 불구하고 PC 전망 약화가 2026년 하반기 부담이며, 슈퍼마이크로는 대만 당국의 수사로 리스크가 확대됐습니다. 회사가 기소된 것은 아니나 공급업체나 고객의 이탈 여부가 핵심 불확실성입니다.\n[종목별 주요 내용]\n코히런트(COHR, Strong Buy)는 가속기 배치와의 상관관계가 높아 CPO가 지연되면 오히려 트랜시버 판매가 늘어나는 구조라는 점이 강조됩니다. F3Q26 매출은 전년 대비 20%, 전분기 대비 7% 성장했고 F4Q26은 31% 성장이 모델링됩니다. 데이터센터 매출은 +38%로 가속 중이며 통신 부문도 +56% 성장했습니다. FY28 EPS 추정치 16.10달러는 컨센서스 13.02달러를 크게 상회하고 바이사이드 강세 시나리오는 20달러 수준입니다. FY27 매출 추정은 컨센서스보다 12%, EPS는 22% 높습니다. 엔비디아와의 다년 공급계약은 2020년대 말까지 이어지고, 스케일아웃 CPO 매출은 2026년 하반기, 스케일업은 2027년 하반기에 시작됩니다. OCS TAM은 2030년까지 40억 달러 이상으로 제시됩니다.\n루멘텀(LITE)은 직전 실적 발표 이후 주가가 25% 이상 조정받았습니다. 중국산 CW·EML 레이저 공급 우려와 CPO 지연 우려가 부담이었으나, 6월 초 경영진 미팅 이후 CPO 전망에 대한 확신이 커졌고 엔비디아 외 추가 고객도 확보했습니다. F3Q26 매출은 +90%, F4Q26 가이던스 9.6억~10.1억 달러는 중간값 기준 105% 성장을 시사합니다. 경영진은 분기 매출 12.5억 달러, 장기 연매출 80억 달러 프레임워크를 제시했으며 스케일아웃 CPO 매출은 2026년 12월 분기 1억 달러, 2027년 3월까지 수억 달러 규모로 예상합니다. 엔비디아와 2030년까지의 수십억 달러 장기 구매계약과 20억 달러 지분 투자도 확보했습니다. 바이사이드의 FY28 EPS 기대치는 40달러대 중반~50달러로 RJ 추정 33.80달러와 컨센서스 29.23달러를 크게 상회합니다.\nAMD는 GPU에서 CPU로 초점이 이동하며 심리가 개선됐습니다. FY25 매출이 34% 성장했고 FY26 38%, FY27 48% 성장이 모델링되며 MI450 램프가 동력입니다. OpenAI와의 6GW 계약(2026년 MI450부터), 메타와의 5년간 6GW 계약(총 약 630억 달러 추정, 최대 1.6억 주 워런트)이 대형 프로젝트로, 2026년 하반기부터 본격화됩니다. 서버 CPU TAM을 2030년 1,200억 달러(CAGR 35%+)로 상향한 직후 엔비디아는 2,000억 달러를 제시했습니다. CPU 전망 개선은 4Q26에 10억 달러 이상, 2027년에 최소 100억 달러의 업사이드를 시사합니다.\nAAOI는 1Q26 데이터센터 매출이 154% 성장했으며 2Q26/3Q26 인도 예정 800G 주문 1.24억 달러와 하반기 1.6T 주문 2억 달러로 모멘텀이 빠르게 개선되고 있습니다. 800G 캐파는 월 14만 개에서 4Q26 42만 개, 2027년 중후반 55만 개로, 1.6T는 월 1만 개에서 4Q27 38만 개로 확대 목표입니다. 엔비디아 생태계 밖에 있어 CPO 지연이 오히려 긍정적일 수 있고, AMD 퀄 획득을 노리는 것으로 추정됩니다. 다만 4Q27 월 6억 달러 수준의 목표는 비현실적이라는 평가입니다.\n아리스타(ANET)는 1Q26 매출이 +35%로 가이던스와 컨센서스를 상회했고 이연매출이 분기 9억 달러 증가해 총 62억 달러에 달합니다. AI 플랫폼 전망은 32.5억 달러에서 35억 달러로 상향됐습니다. 신규 10% 고객 후보로 오라클이 유력하며, Anthropic도 구글 데이터센터 배치 가능성을 포함해 후보로 거론됩니다. 공급 제약이 2027년까지 업사이드를 제한한다는 시각입니다.\n아스테라랩스(ALAB)는 1Q26 매출 3.08억 달러로 +93% 성장했고 2Q26 가이던스도 약 90% 성장을 시사합니다. Scorpio 매출 비중이 FY25 15%에서 FY26 34%, FY27 53%로 확대되며 성장 엔진 역할을 하고, 구리 대 옵티컬 논쟁이 구리 우위로 회귀한 점이 우호적입니다. 다만 CPO는 2028년 말경부터 중기 리스크로 평가됩니다.\nArm은 F4Q26 매출 14.9억 달러로 성장률이 20%로 둔화됐으나, FY28 CPU 수요 전망을 10억 달러에서 20억 달러로 상향했습니다. 메타가 공동 개발한 자체 실리콘 AGI CPU에서 FY28까지 10억 달러의 증분 매출을 공개했고 FY31 CPU 매출 150억 달러의 장기 목표를 제시했으나, TSMC 캐파 제약과 메모리 부족이 변수입니다.\n인텔(INTC)은 1Q26 매출 135.8억 달러로 +7.2% 성장하며 뚜렷한 변곡점을 보였고 EPS 0.29달러로 컨센서스를 크게 상회했습니다. 일론 머스크의 Terafab 참여설과 5월 애플과의 예비 합의가 투기적 강세 심리를 자극하고 있으나, 아시아 채널 점검 결과 춘절 이후 PC 전망이 10~15% 하향된 점, 하반기 CCG 둔화 리스크가 부담입니다. TSMC 대비 수율·생태계 격차를 감안하면 Terafab이 현실적 대안이 되기는 어렵다는 평가입니다.\n노키아(NOK)는 연초 대비 약 60% 상승 후 6월부터 조정 중이나 펀더멘털 변화는 없다고 봅니다. 1Q26 클라우드+AI 수주가 10억 달러 증가해 약 34억 유로에 달했고 마이크로소프트, 코어위브, Nscale 수주가 공개됐습니다. 엔비디아의 10억 달러 투자와 AI-RAN 협력도 진행 중이며, 업사이드는 IP 스위칭·라우팅에서 먼저, 그다음 옵티컬에서 나올 가능성이 높습니다.\n슈퍼마이크로(SMCI)는 3월 관계자 3인 기소, 6월 29일 대만 직원 4명 구금(2명 심리 대기, 2명 보석) 등 수사 관련 불확실성이 이어지고 있습니다. 분기 중 70억 달러 자금 조달과 390억 달러 증분 수주를 발표했고, 직전 분기 매출은 +123% 성장했습니다. CY26 61% 성장은 합리적이고 CY27 21% 전망은 보수적이라는 평가이나, 메모리 비용 급등에 따른 마진 리스크와 수사 여파가 핵심 관찰 포인트입니다.\n이 밖에 하모닉(HLIT)은 컴캐스트 매출 회복(2026년 2.01억 달러 전망)과 차터 비중 확대(22%)가 성장 동력이며, F5는 기업 서버 수요와의 연동 논리로 심리가 개선됐고, A10은 연초 대비 100% 상승 속에 2027~2028년 12%+ 매출 CAGR 목표가 제시됐습니다.\n[커버리지 등급 및 종가]\nStrong Buy는 코히런트(276.96달러)이며, Outperform은 ARM(262.01달러), AMD(500.94달러), AAOI(100.24달러), 아리스타(168.56달러), 코어위브(72.91달러), 하모닉(12.20달러), 루멘텀(706.23달러), 노키아(10.38달러), 슈퍼마이크로(24.68달러)입니다. Market Perform은 A10(36.09달러), 아스테라랩스(319.74달러), F5(403.41달러)입니다.\n*클로드로 요약함.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-18T03:30:45+00:00"
-    },
-    {
       "id": "tg:enc210406/4154",
       "source": "telegram",
       "author": "enc210406",
@@ -342,18 +386,6 @@
       "published_at": "2026-07-18T01:52:57+00:00"
     },
     {
-      "id": "tg:EMchina/31657",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31657",
-      "text": "끝을 어떻게 내려는건지  ==========================  ~ The United States is accelerating its military buildup in Israel amid escalating fighting and expanded strikes against Iran, with 10 additional U.S. Air Force refueling aircraft expected to arrive Friday and Saturday…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-18T01:01:47+00:00"
-    },
-    {
       "id": "tg:bornlupin/19145",
       "source": "telegram",
       "author": "bornlupin",
@@ -378,18 +410,6 @@
       "published_at": "2026-07-18T00:16:42+00:00"
     },
     {
-      "id": "tg:EMchina/31656",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31656",
-      "text": "이제 관세는 언제, 어디서든 던지는 카드가 되어버렸다  https://n.news.naver.com/article/001/0016195064?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-18T00:10:24+00:00"
-    },
-    {
       "id": "tg:bornlupin/19144",
       "source": "telegram",
       "author": "bornlupin",
@@ -400,18 +420,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-17T23:44:34+00:00"
-    },
-    {
-      "id": "tg:EMchina/31655",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31655",
-      "text": "[한투증권 중국/신흥국 정정영]   • 홍콩에 어떤 변화가?   >> 글로벌 증시 변동성이 커지는 가운데, 그동안 성과가 부진했던 홍콩 주식시장은 견조한 흐름을 보이고 있습니다. 상반기 약했던 본토 자금의 홍콩주식 순매수세가 다시 강화되고 있습니다. 2분기 경제성장률이 시장 예상을 하회했으나 하반기 빨라질 재정지출 및 지방정부 특수채권 발행 속도가 내수 경제를 지지할 것으로 전망합니다. 홍콩 증시 반등을 이끄는 섹터는 헬스케어와 경기소비입니다.   ==…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T23:31:38+00:00"
     },
     {
       "id": "x:ylecun:2078261216271794494",
@@ -438,18 +446,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-17T23:13:09+00:00"
-    },
-    {
-      "id": "tg:EMchina/31654",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31654",
-      "text": "메타 -3%대 하락  https://www.aitimes.com/news/articleView.html?idxno=212896",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T23:12:36+00:00"
     },
     {
       "id": "x:sama:2078244242993164716",
@@ -560,7 +556,7 @@
       "url": "https://t.me/bornlupin/19143",
       "text": "JP모건, 2027년 CSP(클라우드 서비스 제공업체) CapEx(설비투자) 중 AI 메모리가 차지하는 비중이 73%에 달할 것",
       "images": [
-        "https://cdn5.telesco.pe/file/Ep3f4ME3YDADMre-6xQuis7NzxBUxMf0IMmUsjgN8J58EjiLV9ZFytZxLIYRag-My2PZ2XXzSXKj9QfiuPHECKlIHnUGGCnKNyynNDCVzgVo-nj2zkHrn4B80JBK5E2Z1AZx_qXF6yhmeKakyrzEvDqFgao1-t-7LM1uBBKYAHT9nSQoyKtGK-W0nz-aBOkVCtqhDKgmwo3MOSCuLEJZS3rP86qJXARv1_RRg41IgxSpo0Q2CrDTMKccxJ5MlfYb-fKVV5cGn3DBa3lNOGaiRQNPT1Jsq8AM0yPekzA5CYOnTh1ChoJTlKe9X83PfqoOhqZEstK5gt1XZD0auoLlgQ.jpg"
+        "https://cdn5.telesco.pe/file/tDjnlay6C5MBBO09LYxOEPbsEb9B1m7ZdlYuAkcnMdyItyiWvJ7FpzFo9Calqb1f22ktKaqmSrcPfcUWpqiqqxH_91t_9erWp0rTGDjJLMTCdKodHUeclBOwEIVwzJMm4qz4x3z1834aMXrCZ2iVvvxlAd-ZNNRSmM_7LQdy2BkMYNkUNFheHPqXw09IRHNCn-d9Q5mhYSdcbqHMm-Aj15RtVB8B3pV6l3NqdGt1imnGl0Rid65F4I7GhpMg2Q78_ZDDQECUc7BPuZvfIEam1uumlpLXKPskgSG9DdHB7bQOoI23euV1dayhbnBOcj0wiqVUOkoK8pqe8AznJQfN7A.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-17T12:12:13+00:00"
@@ -574,7 +570,7 @@
       "url": "https://t.me/bornlupin/19142",
       "text": "개빈 베이커 (Gavin Baker)\n\"위험 대비 보상(손익비)이 다시 매력적으로 보입니다.\n​지속 가능한 경쟁 우위를 가지고 있으면서,\n향후 6~12분기 동안 시장 예상치를 뛰어넘는 엄청난 실적을 기록할 저렴한 주식들이 널려 있습니다.\n​시간이 지나면 알게 되겠죠!\"\n빌 애크먼 (Bill Ackman)\n\"맞습니다\"",
       "images": [
-        "https://cdn5.telesco.pe/file/gAQhscgg7c3BWKo1qhHA9a41BDHgkU0WxmisEzN3tIqqCzlsru15OoIN0Ui0hPZd2rIaPl4hVn5oS5OtYjZMMANIRXzjz_HVOGQ4ybYctP0L4GzNDbkfXitdcDk5a5d5McKtUf3OfWY487E0HxTfYHDwzICrnQvVNdNW8LJuvHPXE62sZ78c79k_zaScXWN8iXbM1T7OO7JcQH1-jz971bKhj89M0mB9WyqPK8uIuuZs12NA6y1SMBcSI8NAh_VTuBsTaFvCbFcVUS7uj7x5aljMNwXGsMgMBU5wSH5wZD4TavFJEyDZNI3aekGqDU_PnPASFuKvI5dy-GthSOdnlg.jpg"
+        "https://cdn5.telesco.pe/file/nsy3Omp4pEW6jpN35zGjx5Yp4Gmm9Ie72ILTyrzOfUOmTDMz0OZwCxVtvdNcYHVeGPW_ueUeS8t6GfOi8VEArNLKTkPM2YGjDPY1GBRjzHtYhAXhGUQoBw4cINI9McGlOx3bTN8Wgxu2Lo7aqVO9x9jKlBzzGEMkYamcyy61T12yZFtihEaH1QmBTFC-q9uPeOBEuCyfJfHeLdcmeI5IixIYuKsIDIa4V7Ee9PBByikkOvIPnbEqI-xQj979c7ZKjy3xWGVniUP97UhiFX_XLSMKXQrwzo594yD_sUYMp5q8Td2INz2FfAIGvGR8w2k_OHEgSB2WfnxqQljMk6kIqQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-17T11:45:28+00:00"
@@ -1684,9 +1680,7 @@
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2076686127604302290",
       "text": "R to @GoogleDeepMind: These examples showcase how the Predicting the Past Skill can push forward historical research using advanced AI models and complex workflows - with no coding required. Find out more → https://goo.gle/4vR5ZtC",
-      "images": [
-        "https://pbs.twimg.com/card_img/2077048598492020736/Yu1wGrjs?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "R에서 @GoogleDeepMind로: 이 예는 과거 예측 기술이 코딩 없이 고급 AI 모델과 복잡한 워크플로를 사용하여 역사적 연구를 어떻게 추진할 수 있는지 보여줍니다. 자세히 알아보기 → https://goo.gle/4vR5ZtC",
       "published_at": "2026-07-13T15:12:10+00:00"
     },
@@ -1832,7 +1826,9 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2075257492716879967",
       "text": "Our Long-Term Benefit Trust has appointed Dr. Ben Bernanke as its newest member. Read more: https://www.anthropic.com/news/ben-bernanke",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2076471740683964416/T5Q69_JR?format=jpg&name=800x419"
+      ],
       "summary_ko": "우리 장기 혜택 신탁(Long-Term Benefit Trust)은 Ben Bernanke 박사를 최신 회원으로 임명했습니다. 더 읽어보세요: https://www.anthropic.com/news/ben-bernanke",
       "published_at": "2026-07-09T16:35:17+00:00"
     },
