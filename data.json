@@ -1,22 +1,69 @@
 {
-  "updated_at": "2026-07-19T20:49:08+00:00",
+  "updated_at": "2026-07-19T21:52:49+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 7
+    "new_this_run": 4
   },
   "briefing": {
-    "headline": "엔비디아, 도요타와 자율주행 기술 제휴",
+    "headline": "알리클라우드, 금융 업계에 10만개 이상 AI칩 적용",
     "bullets": [
+      "중국증권감독관리위원회, 시장 안정 좌담회 개최",
       "중국 증시 '국가대표 자금'의 ETF 유입 규모 15개월만에 최대",
-      "서버 DRAM 현물/고정가 상방 압력 발생",
-      "정부, GPU 확보전 내년 '베라 루빈' 1만장 올인",
-      "반도체 확보 로비, 내년 수요 최소 50~60% 늘 것",
-      "메모리 가격 상승 및 가치 사슬 전반의 호조로 투자 매력 고조"
+      "엔비디아, 도요타 자동차와 제휴 관계 확대",
+      "정부, 내년 '베라 루빈' 1만장 올인"
     ],
-    "generated_at": "2026-07-19T20:49:08+00:00",
+    "generated_at": "2026-07-19T21:52:49+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31695",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31695",
+      "text": "알리클라우드: 금융 업계에서 10만개 이상의 핑터우거 전우 AI칩 적용  • 금융 산업 내 핑터우 자체 개발 전우AI 칩 적용 규모는 이미 10만개 돌파. 은행, 증권, 보험, 운용 등 150개 넘는 메인 기관 포함  阿里云张翅：超10万卡平头哥真武芯片已在金融行业部署 6月16日，在第32届中国国际金融展上，阿里云智能集团公共云事业部副总裁、新金融行业总经理张翅透露，平头哥自研真武AI芯片在金融行业的部署规模已突破10万卡，覆盖银行、证券、保险、基金等超过150家主流机构。（证券时报）…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-19T21:24:51+00:00"
+    },
+    {
+      "id": "tg:EMchina/31694",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31694",
+      "text": "탈석유 탈달러 탈영어\n========================\n~ 중국 당국은 ‘디지털 중국어’ 구축 강화 공식 지침을 발효하고, 오는 2027년까지 국가 말뭉치 및 전략 언어 자원 정보 데이터베이스를 완성하기로 했다. 최종적으로는 2035년까지 글로벌 생성형 AI 시나리오에서 중국어의 지배력을 완벽히 확장하겠다는 계획이다\n~ 쿠 교수는 “모델 아키텍처가 상호 수렴하고 오픈소스가 보편화되는 타이밍에는 고품질 언어 자원이 복제 불가능한 경쟁 우위가 된다”며 “베이징은 이제 데이터를 칩의 불리함을 보완할 결정적 무기로 보고 있다”고 진단했다\nhttps://www.g-enews.com/article/Global-Biz/2026/07/2026071916383558520c8c1c064d_1",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-19T21:20:41+00:00"
+    },
+    {
+      "id": "tg:EMchina/31693",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31693",
+      "text": "SemiAnalysis: Kimi K3의 KDA 메커니즘이 어텐션 효율성 향상. 그러나 더 많은 GPU, HBM, DRAM 및 네트워크 필요  • Kimi K3 선형어텐션이 하드웨어 수요에 대한 단기적인 우려 촉발  • SemiAnalysis는 2.8조 이상의 매개변수와 대규모 추론 아키텍처는 오히려 첨단GPU, HBM 및 고속 네트워크 수요 증가시킬 것으로 전망  • 병렬설계는 칩 간 통신 압력 확대. 선형 어텐션의 비용 절감 혹은 제번스의 역설(효율…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-19T21:09:18+00:00"
+    },
+    {
+      "id": "tg:EMchina/31692",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31692",
+      "text": "중국증권감독관리위원회, 시장 안정 및 건강 발전 좌담회 개최 예정  •  7/20 상장사, 증권사 및 운용사와의 좌담회 개최. 자본 시장의 안정적이고 건강한 발전 촉진 위한 의견과 제안 청취 예정   • 다수 기관들이 좌담회에 참석하라는 통지받은 상황  证监会将召开座谈会促进市场稳定健康发展 记者了解到，证监会将于7月20日召开上市公司、证券公司及基金机构座谈会，听取各方关于促进资本市场平稳健康发展的意见建议。多家市场机构已收到监管部门通知，将于明日参加证监会座谈会。（央视财经，证券时报）…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-19T20:55:42+00:00"
+    },
     {
       "id": "tg:EMchina/31691",
       "source": "telegram",
@@ -462,30 +509,6 @@
       "published_at": "2026-07-19T06:06:18+00:00"
     },
     {
-      "id": "tg:EMchina/31683",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31683",
-      "text": "싱가포르 헤지펀드 세율 인하 고려\n=========================\n~ The Monetary Authority of Singapore (MAS) has held talks with investment firms on reducing taxes for fund managers in a bid to maintain the island’s competitiveness and retain talent, the\nFinancial Times\n(\nFT\n) reported\nhttps://www.theedgesingapore.com/news/singapore-economy/singapore-weighs-hedge-fund-tax-cuts-be-more-competitive-reportsft",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-19T05:53:27+00:00"
-    },
-    {
-      "id": "tg:EMchina/31682",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31682",
-      "text": "일이 커지는 군요  ========================  ~ 이날 발표된 사망자는 이란의 미사일 공격으로 사망한 명백한 전사자라는 점에서 미국 내 파장이 클 것으로 보인다. 알자지라는 \"이번 발표는 전쟁에 대한 분노를 더 키울 것\"이라고 했다  ~ 한 미국 당국자는 뉴욕타임스(NYT)에 \"이번 사건은 이란의 요르단 내 미군기지에 대한 탄도미사일 공격으로 발생한 것으로 보인다\"며 \"이란 미사일 여러 발이 요격됐지만 최소 1발이 방공망을 뚫고 기지에…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-19T05:44:23+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/23697",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -498,18 +521,6 @@
       "published_at": "2026-07-19T04:55:23+00:00"
     },
     {
-      "id": "tg:EMchina/31681",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31681",
-      "text": "~ 산업통상부는 오늘(18일) 설명자료를 내고 “여한구 통상교섭본부장과 릭 슈와이처 미국 무역대표부(USTR) 부대표의 면담을 포함해, 우리 반도체 기업들의 이익 공유와 관련하여 논의한 사실이 없다”고 밝혔습니다  https://n.news.naver.com/article/056/0012220538?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-19T04:33:39+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/23696",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -520,18 +531,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-19T04:11:27+00:00"
-    },
-    {
-      "id": "tg:EMchina/31680",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31680",
-      "text": "딥시크 V4 7월 중순 출시. 피크시간대 API 가격 전략 동시 조정  • 딥시크 V4 정식 버전 발표 이후 API 가격 전략 동시 조정. 피크시간대 가격 메커니즘 도입  • API 피크시간대 가격은 평소 가격의 2배. 피크 시간대는 매일 오전 9시부터 12시까지, 오후 2시부터 6시까지  DeepSeek V4定档7月中旬，峰谷API定价同步落地  DeepSeek V4正式版正式版发布后将同步调整API定价策略，引入峰谷定价机制。API 高峰时段价格将是平时价格的2倍，高峰时间段为每天的上午9…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-19T04:04:38+00:00"
     },
     {
       "id": "tg:HI_GS/6719",
@@ -1043,20 +1042,6 @@
       "published_at": "2026-07-16T16:35:00+00:00"
     },
     {
-      "id": "x:GoogleDeepMind:2077721122116640969",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2077721122116640969",
-      "text": "Pinned: The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier AI to build proactive defenses for global health → https://goo.gle/4wKHXk2",
-      "images": [
-        "https://pbs.twimg.com/media/HNWMNtnXcAAYtNy.jpg"
-      ],
-      "summary_ko": "생물보안 환경은 빠르게 진화하고 있습니다. 향후 발병에 앞서 나가기 위해 우리는 @IsomorphicLabs와 협력하여 생체 회복력에 대한 접근 방식을 간략하게 설명하고 있습니다. 글로벌 건강을 위한 사전 예방적 방어를 구축하기 위해 우리가 프론티어 AI를 배포하는 방법은 다음과 같습니다 → https://goo.gle/4wKHXk2",
-      "published_at": "2026-07-16T11:44:52+00:00"
-    },
-    {
       "id": "x:demishassabis:2077721122116640969",
       "source": "x",
       "author": "demishassabis",
@@ -1068,6 +1053,20 @@
         "https://pbs.twimg.com/media/HNWMNtnXcAAYtNy.jpg"
       ],
       "summary_ko": "@demishassabis의 RT: 생물보안 환경은 빠르게 진화하고 있습니다. 향후 발병에 앞서 나가기 위해 우리는 @IsomorphicLabs와 협력하여 생체 회복력에 대한 접근 방식을 간략하게 설명하고 있습니다. 글로벌 건강을 위한 사전 예방적 방어를 구축하기 위해 우리가 프론티어 AI를 배포하는 방법은 다음과 같습니다 → https://goo.gle/4wKHXk2",
+      "published_at": "2026-07-16T11:44:52+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2077721122116640969",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2077721122116640969",
+      "text": "Pinned: The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier AI to build proactive defenses for global health → https://goo.gle/4wKHXk2",
+      "images": [
+        "https://pbs.twimg.com/media/HNWMNtnXcAAYtNy.jpg"
+      ],
+      "summary_ko": "생물보안 환경은 빠르게 진화하고 있습니다. 향후 발병에 앞서 나가기 위해 우리는 @IsomorphicLabs와 협력하여 생체 회복력에 대한 접근 방식을 간략하게 설명하고 있습니다. 글로벌 건강을 위한 사전 예방적 방어를 구축하기 위해 우리가 프론티어 AI를 배포하는 방법은 다음과 같습니다 → https://goo.gle/4wKHXk2",
       "published_at": "2026-07-16T11:44:52+00:00"
     },
     {
@@ -1559,20 +1558,6 @@
       "published_at": "2026-07-14T13:44:04+00:00"
     },
     {
-      "id": "x:GoogleDeepMind:2076957440109625718",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2076957440109625718",
-      "text": "RT by @GoogleDeepMind: A Framework for Frontier AI and the Dawning of a New Age",
-      "images": [
-        "https://pbs.twimg.com/media/HNLLt2GXMAAAPF0.jpg"
-      ],
-      "summary_ko": "@GoogleDeepMind의 RT: 프론티어 AI를 위한 프레임워크와 새로운 시대의 시작",
-      "published_at": "2026-07-14T09:10:16+00:00"
-    },
-    {
       "id": "x:demishassabis:2076957440109625718",
       "source": "x",
       "author": "demishassabis",
@@ -1584,6 +1569,20 @@
         "https://pbs.twimg.com/media/HNLLt2GXMAAAPF0.jpg"
       ],
       "summary_ko": "Pinned: 프론티어 AI를 위한 프레임워크와 새로운 시대의 시작",
+      "published_at": "2026-07-14T09:10:16+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2076957440109625718",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2076957440109625718",
+      "text": "RT by @GoogleDeepMind: A Framework for Frontier AI and the Dawning of a New Age",
+      "images": [
+        "https://pbs.twimg.com/media/HNLLt2GXMAAAPF0.jpg"
+      ],
+      "summary_ko": "@GoogleDeepMind의 RT: 프론티어 AI를 위한 프레임워크와 새로운 시대의 시작",
       "published_at": "2026-07-14T09:10:16+00:00"
     },
     {
