@@ -1,21 +1,34 @@
 {
-  "updated_at": "2026-07-19T19:05:52+00:00",
+  "updated_at": "2026-07-19T20:49:08+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 7
   },
   "briefing": {
-    "headline": "최태원, 반도체 확보 로비",
+    "headline": "엔비디아, 도요타와 자율주행 기술 제휴",
     "bullets": [
-      "엔비디아, 도요타와 제휴",
-      "DRAM 가격 상승 전망",
-      "Qwen 3.8 모델 출시 예정",
-      "Kimi, 홍콩 상장 추진"
+      "중국 증시 '국가대표 자금'의 ETF 유입 규모 15개월만에 최대",
+      "서버 DRAM 현물/고정가 상방 압력 발생",
+      "정부, GPU 확보전 내년 '베라 루빈' 1만장 올인",
+      "반도체 확보 로비, 내년 수요 최소 50~60% 늘 것",
+      "메모리 가격 상승 및 가치 사슬 전반의 호조로 투자 매력 고조"
     ],
-    "generated_at": "2026-07-19T19:05:52+00:00",
+    "generated_at": "2026-07-19T20:49:08+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31691",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31691",
+      "text": "중국 증시 '국가대표 자금'의 ETF 유입 규모(4거래일 누적 기준)는 15개월만에 최대(골드만삭스)  • '국가대표' ETF 자금 흐름 추적 지표에 따르면, 7/13-16 순유입 규모 290억위안  • 2025년 4월 이후 4거래일 누적 기준 최대 규모  高盛指中国股市“国家队”ETF录得15个月最大四日资金流入 高盛的“国家队”ETF资金流动追踪指标显示，7月13-16日期间净流入达290亿元人民币。以刘劲津为首的策略师在周五的报告中称，这一金额为2025年4月以来最大的四个交易日累计规模。…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-19T19:56:11+00:00"
+    },
     {
       "id": "tg:globaletfi/20675",
       "source": "telegram",
@@ -521,18 +534,6 @@
       "published_at": "2026-07-19T04:04:38+00:00"
     },
     {
-      "id": "tg:EMchina/31679",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31679",
-      "text": "* 사실상 할수 있는게 없다  ========================  ~ C919의 기수, 조종석, 날개, 동체, 꼬리 부분을 포함한 기체 구조 대부분은 현재 중국 국내 조달로 채워지고 있으나 엔진을 포함한 핵심 시스템은 여전히 서방 공급업체에 의존하고 있다  https://n.news.naver.com/article/001/0016034360?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-19T03:57:50+00:00"
-    },
-    {
       "id": "tg:HI_GS/6719",
       "source": "telegram",
       "author": "HI_GS",
@@ -827,6 +828,20 @@
       ],
       "summary_ko": "고정됨: 사람들이 GPT-5.6 Sol을 사랑하는 10,000가지 이유 https://switch-to-codex.openai.chatgpt.site/",
       "published_at": "2026-07-17T21:00:01+00:00"
+    },
+    {
+      "id": "x:demishassabis:2078160968513704270",
+      "source": "x",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2078160968513704270",
+      "text": "RT by @demishassabis: The goal Pelé called the most beautiful of his life was never filmed. Aug 2, 1959, vs Juventus, on Rua Javari. With @Google, we rebuilt it frame by frame. This time, the whole world can see it - http://goo.gle/pele . O gol que Pelé considerava o mais bonito nunca foi filmado. 2/8/1959, contra o Juventus, na Rua Javari. Em parceria com o Google, reconstruímos o lance quadro a quadro. Desta vez, o mundo inteiro pode ver em http://goo.gle/pele.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2078160727173378048/img/yFEoLhlMavuGOpoP.jpg"
+      ],
+      "summary_ko": "@demishassabis의 RT: 펠레가 자신의 인생에서 가장 아름다운 골이라고 불렀던 골은 촬영된 적이 없습니다. 1959년 8월 2일, 루아 자바리(Rua Javari)에서 유벤투스와의 경기. @Google을 사용하여 프레임별로 재구성했습니다. 이번에는 전 세계가 볼 수 있습니다 - http://goo.gle/pele . 펠레가 가장 아름답다고 생각한 골은 촬영된 적이 없습니다. 1959년 2월 8일, 루아 자바리(Rua Javari)에서 유벤투스를 상대로. Google과의 협력을 통해 장면을 프레임별로 재구성했습니다. 이번에는 http://goo.gle/pele 에서 전 세계가 보실 수 있습니다.",
+      "published_at": "2026-07-17T16:52:39+00:00"
     },
     {
       "id": "x:AndrewYNg:2078144569594761591",
@@ -2117,20 +2132,6 @@
       "published_at": "2026-06-23T22:26:31+00:00"
     },
     {
-      "id": "x:demishassabis:2069540952784699520",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2069540952784699520",
-      "text": "RT by @demishassabis: Huge congratulations to the Project Genie team on taking home the Cannes Lions Grand Prix for AI Craft! 🎉 Thank you @Cannes_Lions for recognizing how Genie pushes beyond conventional creative limitations to achieve outcomes unattainable without frontier AI… Another unexpected consequence of scaling world models :) Try it yourself here: http://labs.google/projectgenie",
-      "images": [
-        "https://pbs.twimg.com/media/HLh8hXcXYAAxTZO.jpg"
-      ],
-      "summary_ko": "@demishassabis의 RT: Project Genie 팀이 AI Craft 부문 칸 라이온스 그랑프리를 수상한 것을 크게 축하합니다! 🎉 Genie가 어떻게 기존의 창의적 한계를 뛰어넘어 개척 AI 없이는 달성할 수 없는 결과를 달성하는지 알아주신 @Cannes_Lions에게 감사드립니다… 세계 모델 확장의 또 다른 예상치 못한 결과 :) 여기에서 직접 시도해 보세요: http://labs.google/projectgenie",
-      "published_at": "2026-06-23T21:59:48+00:00"
-    },
-    {
       "id": "x:karpathy:2069465879696576844",
       "source": "x",
       "author": "karpathy",
@@ -2399,7 +2400,7 @@
       "url": "https://x.com/GoogleAI/status/2060392194142290294",
       "text": "R to @GoogleAI: Tune in for the full story ↓ https://www.youtube.com/watch?v=8hfpLa5wPGo",
       "images": [
-        "https://pbs.twimg.com/card_img/2074956687392260096/9uVcCRcN?format=jpg&name=800x320_1"
+        "https://pbs.twimg.com/card_img/2078848639418384384/pDnUnUD0?format=jpg&name=800x320_1"
       ],
       "summary_ko": "R에서 @GoogleAI로: 전체 내용을 확인하세요 ↓ https://www.youtube.com/watch?v=8hfpLa5wPGo",
       "published_at": "2026-05-29T16:05:53+00:00"
