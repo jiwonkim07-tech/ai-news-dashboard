@@ -1,22 +1,108 @@
 {
-  "updated_at": "2026-07-19T11:58:20+00:00",
+  "updated_at": "2026-07-19T13:42:14+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 8
+    "new_this_run": 11
   },
   "briefing": {
-    "headline": "최태원, 미국 하이닉스 공장 고려",
+    "headline": "엔비디아, 도요타와 자율주행 제휴",
     "bullets": [
-      "Qwen 3.8, 2.4T 파라미터로 오픈 웨이트 전환",
-      "DeepSeek V4, 7월 중순 출시 및 가격 조정",
-      "유비테크, 한국 파트너와 휴머노이드로봇 도입 추진",
-      "반도체 시장, 3분기 가격 상승 및 가치 사슬 호조",
-      "미즈호 증권, CPU 및 GPU 시장 분석 보고서 발표"
+      "최태원, 반도체 수요 50~60% 증가 전망",
+      "정부, 내년 GPU 1만장 확보 계획",
+      "DRAM 가격 상승, 가치 사슬 호조",
+      "Kimi, 6개월 내 홍콩 상장 예정",
+      "딥시크 V4, 7월 중순 출시 및 가격 조정"
     ],
-    "generated_at": "2026-07-19T11:58:20+00:00",
+    "generated_at": "2026-07-19T13:42:14+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19157",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19157",
+      "text": "데이터브릭스(Databricks) CEO 알리 고디(Ali Ghodsi)의 인터뷰 중 - Kimi 3에 대한 견해\n앵커:\n오늘 Kimi 관련 소식이 워낙 큰 헤드라인이라 이에 대한 의견을 듣고 싶습니다. 대표님은 일부 사례에서 이러한 중국 모델에 대한 접근성도 제공하고 계시는 분인데요. Kimi의 역량을 어떻게 보시나요? 그리고 현재 거의 1조 달러에 달하는 밸류에이션을 바라보고 있는 프런티어 랩(Frontier Labs)들에게 이것이 얼마나 큰 위협이 될까요?\n알리 고디:\n제 생각에 프런티어 랩들은 정말 대단하고 앞으로도 계속 잘해나갈 것입니다\n. 다만 지금 기본적으로 일어나고 있는 현상은 모든 기업이 비용을 통제하고 예산을 관리하고 싶어 한다는 점입니다. 한 포춘 500대 기업의 임원이 저에게 말했듯이, 그의 AI 비용은 기하급수적으로 늘어나고 있는데 매출은 기하급수적으로 늘지 않고 있습니다. 이대로 가면 그는 파산하게 될 것입니다. 그러니 무언가 조치를 취해야 하죠.\n그래서 그들이 원하는 방식이 바로 오픈소스입니다. 정말 어려운 질문에는 비용을 많이 지불하더라도 미국의 프런티어 모델에 물어보겠지만, \"세일즈포스에서 이 필드를 가져와서 요약한 다음 워크데이에 입력해 줘\" 같은 대부분의 평범하고 일상적인 작업에는 저렴한 오픈소스 모델을 사용하려는 것입니다.\n그것이 그들이 원하는 바입니다.\n우리는\nKimi 같은 오픈소스 모델들을 호스팅하고 있으며 실제로 우리 고객들에게 이를 제공하고 있습니다.\n그런데\n지금 모든 곳에서 GPU가 고갈되고 있습니다. 아시아에서는 거의 GPU가 동났죠. 일본, 한국, 미국, 인도 등 모든 국가가 이 GPU를 원하고 있습니다.\n그래서 우리는\n단지 이것들을 대량으로 확보해야 했고, 여기에는 엄청난 자금이 필요합니다.\n이러한 요청들이 홍수처럼 쏟아졌기 때문에, 이것이 실제로 이번 투자 유치를 촉발한 계기\n가 되었습니다. 우리는\nGPU를 확보해야 하고 GPU를 구하는 데는 비용이 많이 듭니다.\n사람들도 이에 대해 비용을 지불해야 한다고 예상하고 있죠. 이것이 애초에 펀딩을 받게 된 진짜 이유입니다.\n그리고 물론, 이번에 출시된 Kimi 3는 확실히 게임 체인저(game-changer)라고 생각합니다\n.\nhttps://youtu.be/1fm21MPNxHI?si=wzO1r_bTotUdWVHg\nhttps://x.com/DrNHJ/status/2078836545671594443?s=20\n(핵심은\n오픈소스 모델 확산이 GPU 수요를 줄이는 것이 아니라, 오히려 데이터브릭스 같은 호스팅·게이트웨이 사업자의 GPU 수요를 폭발시키고 있다는 점\n.\n모든 곳에서 GPU가 고갈되고 있고 모든 국가가 GPU를 원하고 있다.)",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-19T13:40:16+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23707",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23707",
+      "text": "세계적인 AI 반도체 제조사인 엔비디아(NVIDIA)는 7월 16일, 도요타 자동차와의 제휴 관계 확대를 발표함과 동시에, 도요타의 레벨 2++ 자율주행 기능에 자사의 차량용 반도체와 차량용 OS가 채택될 것이라고 밝혔다.\n또한 이번 제휴를 통해 토요타의 소프트웨어 엔지니어링, 공장 로봇 시뮬레이션, ‘Woven by Toyota’의 멀티모달 비전 언어 모델에 NVIDIA의 솔루션이 채택될 것이라고 발표했다. 자동차, 로봇, 도시 분야에서 물리적 AI의 활용이 확대될 것으로 전망했다.\nhttps://car.watch.impress.co.jp/docs/news/2125545.html",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-19T13:22:56+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19156",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19156",
+      "text": "[메리츠증권 반도체/디스플레이 김선우]  반도체: 서버 DRAM 현물/고정가 상방 압력 발생  [소버린 AI 구매 본격화. 7월 중순부터 서버 DRAM 공급난 재심화]  - 최근 모바일 등 기성수요처의 공급처 다변화 및 가격저항 언급이 구태적 사이클 우려를 촉발하고 있음  - 하지만 본질적으로는 ‘가격’이 아닌 ‘물량 조달’ 문제  - 애플 뿐 아닌, 중화권 스마트폰 업체들 역시 하반기 계절적 물량 회복 앞에서 메모리 조달에 어려움을 겪고 있으며 4Q26…",
+      "images": [
+        "https://cdn5.telesco.pe/file/JFo7mC-AwDx8BEJSDOMSBzENHUGPB9LtiShi4VKkyFN3F-HnN99o9koodMnSSBEct_Ey898Jz9U8Uih1EEMuLkGM2afod77ZWGZzRUoiHydRErHSQl9r1t4QOHENvyPhrV61bXUE_slRChiKOa7LgMPxpeGmzOXSxYTeywW6LVFPXfS8DypfmzK7620M-a4oe_1PcYOndKBgLWKsKWteSOsaKC3ngqM34jDLKWF86dAtlKTIeI1SfGPt2De959AJ3NmqMVxRzqjN0kEA7WugCFSv7a1gJNNu8nPeFMEPnqfrHvTyhLYGMvnaik5Pz5RKyAv5Hrfgl2Heo383U-_dyQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-19T13:08:00+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19155",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19155",
+      "text": "단독)정부, GPU 확보전 내년 '베라 루빈' 1만장 올인\n정부가 내년 약 4조원을 투입해 엔비디아의 최신 그래픽처리장치(GPU) '베라 루빈' 1만장 확보에 나선다.\n모두의 AI' 등 인공지능(AI) 대국민 서비스가 본격화되는 상황에서 국가 차원의 GPU 확보 속도전을 통해 AI 인프라의 질적·양적 도약을 꾀하겠다는 전략이다.\n19일 관련 업계에 따르면 과학기술정보통신부는\n'AI 컴퓨팅 자원 활용 기반 강화 사업'을 연장하고 내년도 도입 물량은 베라 루빈으로 전면 구성한다는 방침을 세웠다.\n사업은 데이터센터를 운영하는 클라우드 서비스 사업자(CSP) 등 민간 기업이 정부 예산으로 GPU 구매·구축·서비스 전 과정을 책임지는 구조다.\n정부는 지난 2년간 이 사업 등을 통해 총 3만장 이상의 GPU를 확보해 민·관에 제공했다.\n내년도 사업 추진 여부는 미정이었으나, 정부는 AI 확산 속도전에 힘을 싣기 위해 사업을 연장하기로 가닥을 잡았다.\n과기정통부는 이를 위해 예산 당국과 4조원 안팎의 예산 편성을 놓고 협의 중인 것으로 전해진다\n정부가 '베라 루빈' 올인 전략을 택한 것은 '모두의 AI' 등 대국민 서비스 확대로 고성능 GPU 수요가 급증할 것이라는 판단 때문이다\n. 베라 루빈은 이전 세대인 블랙웰 아키텍처와 비교해 학습 성능은 최대 6배, 추론 성능은 8배 이상 향상된 차세대 GPU다. 정부는 이를 통해 독자 AI 모델 학습을 고도화하고 행정 업무의 지능화(AX) 속도를 끌어올린다는 전략이다.\n특히 최근 에이전틱 AI, 멀티모달, 비전 등 고연산 수요 기업을 중심으로 GPU 추가 수요가 늘고 있는 가운데 이에 최적화된 베라 루빈이 제공될 경우 실효가 클 것으로 전망된다.\n다만, 1만장 규모의 베라 루빈을 동시에 가동할 '상면(데이터센터 공간)' 확보 가능 여부는 불확실하다.\n업계 관계자는 “현재 상면 여력이 부족한 상황으로 당장 내년까지 대규모 신규 물량을 확보하기가 쉽진 않아 보인다”면서 “정부가 다양한 대안을 놓고 업계 상황을 파악 중이며, 결과에 따라 내년 사업 계획의 최종 방향성이 정해질 것으로 예상된다”고 말했다.\n과기정통부 관계자는 “최신 GPU를 확보하고 제공해 AI 전환(AX)에 속도를 내야 하는 상황”이라면서도 “GPU 확보 계획과 예산 규모는 확정된 것이 없다”고 말했다.\nhttps://www.etnews.com/20260716000065",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-19T12:20:14+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23706",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23706",
+      "text": "[SK증권 반도체 한동희]\n안녕하세요, SK증권 한동희입니다.\n‘과거’ Peak-out 지표인 P 상승률 둔화, LTA 본질과 효과, 코어위브의 Put option에 대한 해석 자료입니다.\n과거의 모습과는 본질적으로 다르며, 가격 강세 기반은 여전하다고 판단합니다.\n낡은 공식으로 방향을 혼동하는 것을 경계합니다.\n변화하는 메모리, 낡은 공식\nLTA의 본질과 효과: 공급을 잠그는 계약\n본질: 고객과 공급사의 ‘상호인질구조’\n조건 (확약 Q, 기간, 선수금 등)따라 가격 Band 상이\n가격/물량/전략적 로드맵 등 감안해 조건, 가격 결정\n->\n일부 LTA를 전체 LTA로 일반화 불가\nLTA는 전체 AI 수요 충족 불가\nLTA는 공급사 공급 가능 물량 전체를 설명하지도 않음\n-> 삼성전자, SK하이닉스 Q 기준 LTA 비중 40-50%\n-> 비 LTA 시장은 AI 수요와 전통 세트\n-> 전통 세트 약세는 AI향 캐파 재배치로 대응\nLTA는 비 LTA 시장 탄력성을 제고\nLTA 의무는 공급자들의 캐파 배분을 LTA로 우선화\n-> 비 LTA (AI, 세트)시장은 잔여 캐파 내에서 경쟁\n-> 메모리 가격 강세 기반 여전\n-> 메모리 현물가/프리미엄/GPU 상승 이유가 있는 것\n가격 상승률 둔화의 본질: 과거 vs. 현재\n과거: 공급의 수요 캐치업, 재고 누적, 제한된 수요\n현재: 높은 기저, 장기 물량 가시성, 메모리 위상 변화\n강력한 LTA 증거: 코어위브의 Put option 논의\n고객 입장에서의 LTA: Long Call+Short Put\n-> Put 설정 논의는 가격 하락 베팅 아닌 포지션 헷지\nLTA의 가격 위험을 금융시장으로 이전할 수 있다면?\n-> 더 큰 규모의 LTA 체결 기반 가능\n메모리 평가 지표 변화의 변곡점\n과거: 낮은 지속성, 가시성-> 오직 모멘텀\n현재: 지속성, 가시성 구조적 제고, 주주환원\nLTA가 바꾸는 것은 Peak EPS의 높이가 아니라,\nTrough EPS와 지속성, 가시성 제고-> P/E 평가 기반\n따라가야 할 것은 낡은 공식이 아닌, 산업의 변화와 방향\n반도체 비중 확대 의견 유지\n자료:\nhttps://buly.kr/DaR6wj9\nSK증권 리서치 IT팀 채널 :\nhttps://t.me/skitteam",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-19T12:19:59+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19154",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19154",
+      "text": "[SK증권 반도체 한동희]\n안녕하세요, SK증권 한동희입니다.\n‘과거’ Peak-out 지표인 P 상승률 둔화, LTA 본질과 효과, 코어위브의 Put option에 대한 해석 자료입니다.\n과거의 모습과는 본질적으로 다르며, 가격 강세 기반은 여전하다고 판단합니다.\n낡은 공식으로 방향을 혼동하는 것을 경계합니다.\n변화하는 메모리, 낡은 공식\nLTA의 본질과 효과: 공급을 잠그는 계약\n본질: 고객과 공급사의 ‘상호인질구조’\n조건 (확약 Q, 기간, 선수금 등)따라 가격 Band 상이\n가격/물량/전략적 로드맵 등 감안해 조건, 가격 결정\n->\n일부 LTA를 전체 LTA로 일반화 불가\nLTA는 전체 AI 수요 충족 불가\nLTA는 공급사 공급 가능 물량 전체를 설명하지도 않음\n-> 삼성전자, SK하이닉스 Q 기준 LTA 비중 40-50%\n-> 비 LTA 시장은 AI 수요와 전통 세트\n-> 전통 세트 약세는 AI향 캐파 재배치로 대응\nLTA는 비 LTA 시장 탄력성을 제고\nLTA 의무는 공급자들의 캐파 배분을 LTA로 우선화\n-> 비 LTA (AI, 세트)시장은 잔여 캐파 내에서 경쟁\n-> 메모리 가격 강세 기반 여전\n-> 메모리 현물가/프리미엄/GPU 상승 이유가 있는 것\n가격 상승률 둔화의 본질: 과거 vs. 현재\n과거: 공급의 수요 캐치업, 재고 누적, 제한된 수요\n현재: 높은 기저, 장기 물량 가시성, 메모리 위상 변화\n강력한 LTA 증거: 코어위브의 Put option 논의\n고객 입장에서의 LTA: Long Call+Short Put\n-> Put 설정 논의는 가격 하락 베팅 아닌 포지션 헷지\nLTA의 가격 위험을 금융시장으로 이전할 수 있다면?\n-> 더 큰 규모의 LTA 체결 기반 가능\n메모리 평가 지표 변화의 변곡점\n과거: 낮은 지속성, 가시성-> 오직 모멘텀\n현재: 지속성, 가시성 구조적 제고, 주주환원\nLTA가 바꾸는 것은 Peak EPS의 높이가 아니라,\nTrough EPS와 지속성, 가시성 제고-> P/E 평가 기반\n따라가야 할 것은 낡은 공식이 아닌, 산업의 변화와 방향\n반도체 비중 확대 의견 유지\n자료:\nhttps://buly.kr/DaR6wj9\nSK증권 리서치 IT팀 채널 :\nhttps://t.me/skitteam",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-19T12:16:38+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19153",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19153",
+      "text": "최태원 “반도체 확보 엄청 로비… 내년 수요 최소 50~60% 늘 것”\n최태원 대한상공회의소 회장(SK그룹 회장·사진)은\n“내년 메모리반도체 수요가 올해보다 최소 50~60% 늘어날 것”이라며 “‘아비규환’이라는 이야기까지 해야 하는지 모르겠지만 모든 데서 엄청난 로비와 압력을 받고 있다”\n고 말했다.\n최 회장은 지난 18일 막을 내린 대한상의 제주포럼 중 열린 기자간담회에서 “\n인공지능(AI) 쪽으로만 한정해도 올해보다 최소 60~100% 더 쓰겠다는 요청이 있다. AI 반도체가 절반 이상이기 때문에 결국 전체 수요는 최소 50~60% 는다고 봐야 한다\n”며 이같이 밝혔다. 그는 “\n기업뿐 아니라 정부도 경제안보를 위해 메모리반도체를 구해내야 하는 상황이라 꽤 큰 문제로 비화할 수 있다”\n며 “정부도 다른 정부로부터 압력을 받기 시작할 공산이 크다”고 설명했다. 지정학 문제로 확산될 수 있다는 것이다.\n최 회장은 “\n최선을 다해 빠른 속도로 공급량을 늘리는 게 첫 번째고 스케일도 커져야 한다”며 “(팹을) 지을 수 있는 모든 곳에는 지어보려 하는 것이 지금 상황\n”이라고 말했다. 그러면서 “\n호남뿐 아니라 미국에도 가능하다면 지어야 한다고 본다. 짓는 걸 고려해서 장소를 찾고 있다”\n고 덧붙였다.\n최 회장은\n메모리 공급이 늘면 지금의 슈퍼사이클(초호황)이 꺾이는 것 아니냐는 지적에 대해선 “지금 가격은 비정상”이라며 “공급을 늘려 떨어뜨려야 한다”고 거듭 강조했다.\n그는 “‘칩플레이션’(반도체+인플레이션)이 심화되면 저항이 생기고 무조건 얻어맞는다”면서\n“공급은 늘리지 않고 가격만 올릴 경우 결국 시장이 줄고 새로운 참여자가 뛰어들 텐데 이는 우리에게 좋은 현상이 아니다”\n고 말했다.\n최 회장은 SK하이닉스의 ‘영업이익 10% 지급’에서 시작된 성과급 논란과 관련해서는 “\n제도라는 걸 만들다보면 항상 이상한 상황에 마주칠 수 있다. 노사가 머리를 맞대고 이 문제를 나름대로 해결하지 않겠느냐”\n며 손볼 여지를 남겼다. 다만 그는 “이게 갖고 오는 긍정적 영향도 물론 있다고 생각한다. 좀 더 지켜보자”고 말했다.\n최 회장은 여권 일각에서 제기된 AI 초과이익 배분론에 대해선 “\n그게 정확히 뭘 어떻게 한다는 것인지 아직 개념을 잘 모르겠다”\n고 선을 그었다. 이어 “우리나라는 민주주의와 자본주의라는 두 개 축으로 돌아가는데 사람들이 가끔은 자본주의라는 건 완전히 망각해버린다”며\n“두 바퀴가 제대로 작동하게 하려면 성장 정책으로 회귀해야 한다. 성장이 돼야 분배 문제도 해결할 수 있는 여유가 생긴다”\n고 강조했다.\nhttps://www.kmib.co.kr/article/view.asp?arcid=1784452547&code=11151400&cp=nv",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-19T12:11:54+00:00"
+    },
     {
       "id": "tg:bornlupin/19152",
       "source": "telegram",
@@ -326,18 +412,6 @@
       "published_at": "2026-07-19T04:11:27+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23695",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23695",
-      "text": "DeepSeek V4 풀버전 빠르면 내일 출시\n• DeepSeek V4 풀버전 곧 출시\n• 새 버전의 성능은 GPT-5.6 근접. 처음으로 '피크밸리 요금' 도입\n• 경쟁사의 1/7 수준의 가격으로 다시 시장 다시 뒤흔들 'DeepSeek' 모멘텀 가능성\nDeepSeek V4「满血版」曝光了！最快明天发布\n最快明日！DeepSeek V4满血版即将发布。新版性能直追GPT-5.6，并首度引入“峰谷计费”。凭借仅巨头七分之一的极致低价，“价格屠夫”将再掀震撼市场的“DeepSeek时刻”！\nhttps://wallstreetcn.com/articles/3777339#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-19T04:07:47+00:00"
-    },
-    {
       "id": "tg:EMchina/31680",
       "source": "telegram",
       "author": "EMchina",
@@ -348,18 +422,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-19T04:04:38+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23694",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23694",
-      "text": "최태원, 성과급 논란에 \"긍정적 영향도 있어…좀더 지켜봐야\" | 연합뉴스\nhttps://www.yna.co.kr/view/AKR20260718029700003",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-19T04:03:24+00:00"
     },
     {
       "id": "tg:EMchina/31679",
@@ -464,6 +526,18 @@
       "images": [],
       "summary_ko": "@yleun의 RT: 이 주제에 대해 내가 생각하는 것에 대해 누구라도 관심을 가질 가능성은 없습니다. (1) 오픈 소스 소프트웨어 운동은 사회에 엄청난 이익을 가져왔습니다. (2) 개방형(그리고 더 나은, 개방형 데이터) LLM은 이 기술을 이해하고 사회에 이익이 되는 데 필수적입니다.",
       "published_at": "2026-07-18T16:39:00+00:00"
+    },
+    {
+      "id": "x:ylecun:2078509069732913595",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2078509069732913595",
+      "text": "RT by @ylecun: Do you know what open weights model actually decelerate? The formation and power of oligopolies. You know, those things which really do stifle innovation.",
+      "images": [],
+      "summary_ko": "RT by @yleun: 어떤 개방형 가중치 모델이 실제로 감속하는지 아시나요? 과점의 형성과 힘. 실제로 혁신을 방해하는 것들이 있습니다.",
+      "published_at": "2026-07-18T15:55:53+00:00"
     },
     {
       "id": "x:ylecun:2078507190185504793",
@@ -642,32 +716,6 @@
       "published_at": "2026-07-18T03:00:30+00:00"
     },
     {
-      "id": "x:ylecun:2078291367600570601",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2078291367600570601",
-      "text": "RT by @ylecun: BREAKING: The last month has cemented Trump's status as the most corrupt president in American history. It's not even close. CNN found that Trump’s money managers made at least 44 stock purchases in 21 companies within a week before he praised those companies, their executives, or their products on Truth Social. CNBC reported that Trump’s account bought up to $5 million in Axon stock just two weeks before ICE sought a $220 million Taser contract. Axon also sells Skydio police drones now at the center of alarming revelations about police surveillance and exposed footage that violates the privacy rights of American citizens. Meanwhile, Trump’s media company is pitching Wall Street firms $100,000-a-month access to his market-moving posts faster than the public can receive them. Trump promised to drain the swamp. Instead, he has turned the presidency into a personal stock tip, a vehicle for profiting off government contracts, and a paywalled data feed for Wall Street. This is corruption and self-enrichment in plain sight. You should be outraged.",
-      "images": [
-        "https://pbs.twimg.com/media/HNeS8Y_XAAAHRgR.jpg"
-      ],
-      "summary_ko": "RT by @yleun: 속보: 지난 달 트럼프는 미국 역사상 가장 부패한 대통령이라는 지위를 확고히 했습니다. 가깝지도 않아요. CNN은 트럼프의 자금 관리자가 트럼프가 Truth Social에서 해당 회사, 임원 또는 제품을 칭찬하기 전 일주일 이내에 21개 회사에서 최소 44개의 주식을 구매했다는 사실을 발견했습니다. CNBC는 트럼프 계정이 ICE가 2억 2천만 달러 규모의 테이저건 계약을 요구하기 불과 2주 전에 액슨 주식을 최대 500만 달러까지 매입했다고 보도했습니다. Axon은 또한 현재 경찰 감시 및 미국 시민의 개인 정보 보호 권리를 침해하는 노출된 영상에 대한 놀라운 폭로의 중심에 있는 Skydio 경찰 드론을 판매합니다. 한편, 트럼프의 미디어 회사는 대중이 받을 수 있는 것보다 더 빨리 시장을 움직이는 그의 게시물에 월스트리트 기업들에게 한 달에 10만 달러의 접근권을 제공할 것을 제안하고 있습니다.",
-      "published_at": "2026-07-18T01:30:49+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19145",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19145",
-      "text": "SemiAnalysis\nDeepSeek R1 사태 당시에 발생했던 패닉과 비슷하게, 일각에서는 Kimi K3가 선형 어텐션(KDA)을 사용하여\nKV 캐시(KV-cache) 요구량을 줄인다는 점 때문에 NVIDIA, HBM, DRAM, 그리고 네트워킹 시장에 악재가 될 것이라는 오해를 하곤 합니다. 하지만 실제로는 완전히 그 반대이며, 그 이유는 다음과 같습니다.\n1. 거대한 모델 크기와 NVL72의 시너지\nKimi K3는 사실 NVIDIA에게 매우 호재입니다\n.\n대규모 모델 추론이야말로 NVIDIA NVL72의 진가가 발휘되는 무대이기 때문입니다.\nK3는 매개변수(파라미터) 수가 2.8조 개를 넘기 때문에, 이 엄청난 가중치(weights)를 저장하는 것만으로도 대규모 스케일업(Scale-up) 도메인이 필수적입니다.\n2. WideEP 최적화와 대역폭 수요 폭발\n둘째로, Kimi 델타 어텐션(KDA) 덕분에 KV 캐시 전송을 위한 네트워크 요구량이 최대 10배 감소하더라도, 거대한 가중치 때문에 WideEP라는 최적화 기법을 적용하려면\n오히려 훨씬 더 많은 네트워크 대역폭이 필요합니다. WideEP는 여러 GPU에 가중치를 분산시키는 기술입니다.\n* WideEP의 작동 방식: 총 896개의 전문가(experts)를 수많은 GPU에 분산시켜, 각 GPU의 HBM에 극소수의 전문가만 올려두도록 만듭니다. 이를 통해 토큰당 메모리 사용량과 연산 효율성을 최적화합니다.\n* 치명적인 단점: 이 최적화는 엄청난 양의 네트워크 대역폭을 집어삼킨다는 부작용이 있습니다.\n따라서 WideEP는 GB200/GB300 NVL72와 같은 랙 스케일 시스템에 극도로 최적화되어 있습니다.\n이러한 시스템의 구리 백플레인은 동급의 DGX B200 시스템보다 무려 18배 더 많은 대역폭을 제공하기 때문입니다.\n3.\nHBM 용량 한계로 인한 DRAM 및 NVMe 수요 증가\n게다가 가중치 자체가 이미 1.5TB 이상의 HBM 용량을 완전히 장악해 버립니다.\n이 때문에 사용자 동시 접속(concurrency)이 비교적 낮은 상황에서도 HBM에 남는 공간이 거의 없습니다.\n결국 K3의 KDA 및 Gated MLA를 위한 KV 캐시는\nCPU DDR5와 NVMe로 오프로드(Offload)\n되어야만 합니다.\n> Kimi 측에서도 직접 K3를 최적으로 추론하려면\n최소 64개의 칩으로 구성된 대규모 스케일업 도메인의 랙이 필요하다고 밝혔습니다.\n4. 제번스의 역설 (Jevons’ Paradox)\n마지막으로 제번스의 역설이 작용합니다.\n어텐션 메커니즘의 효율성이 높아지면 기술 비용이 낮아져 오히려\nAI 도입과 활용이 전 세계적으로 폭발하게 됩니다.\n결과적으로 시장 전체에서 필요로 하는 GPU, HBM, DRAM, 네트워킹 자원의 총량은 줄어드는 것이 아니라 오히려 더 늘어나게 됩니다.\nhttps://x.com/i/status/2078250693010309260\nhttps://x.com/i/status/2078282685269815506",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-18T00:58:06+00:00"
-    },
-    {
       "id": "tg:enc210406/4153",
       "source": "telegram",
       "author": "enc210406",
@@ -678,18 +726,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-18T00:16:42+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19144",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19144",
-      "text": "모건스탠리 미장 시황 랩:\n이번 주 내내 기술주 섹터는 AI 관련 여러 악재(촉매제)들이 겹치면서 기존 포지션 청산(디레버리징) 압력을 지속적으로 받았습니다.\n하지만 금요일에는 분위기가 반전되는 신호들이 나타났습니다. 매도세가 힘을 잃은 데다(\n매도자 소진\n),\n장 초반 저가 매수세가 유입\n되며 모멘텀이 전환되었고,\n위험 회피를 위해 취했던 헤지 포지션을 현금화(수익실현 및 청산)하려는 움직임\n도 활발해졌습니다.\n특히 금요일은 바스켓(지수/묶음) 옵션 거래량이 올해 들어 가장 많았던 날이었는데, 이 흐름의 대부분은\n기존 헤지 포지션을 정리하는 물량\n이었습니다.\n여기에 모건스탠리 프라임 브로커리지(MS PB) 측은 가장 큰 압박을 받던 AI 관련 테마들조차 헤지펀드들이 더 이상 시장에 추가적인 매도 물량을 던지는 주체가 아니며, 헤지펀드 포트폴리오 내의 동반 매도(쏠림 현상 해소)가 이제 막바지에 다다랐음을 시사합니다.\n물론 여전히 리스크가 존재하고 공급 부담이 가장 큰 우려로 남아있어 상황이 완전히 깨끗한 것은 아닙니다. 다만 모멘텀 붕괴가 극단적 수준에 도달했고 기술적 지표들이 개선되고 있는 만큼, 데스크에서는 MSXXAIB 2개월 만기 115%/135% 콜 스프레드를 3.95%(지표 기준)에 매수하여 롱(매수) 포지션으로 비중을 싣는 것을 선호하고 있습니다.\n수요일에는 구글(GOOGL)의 실적 발표가 예정되어 있으며, 빅테크(하이퍼스케일러)들의 실적은 AI 인프라 성장 속도가 실제로 꺾이고 있는지(음의 방향으로 전환되는지) 확인하는 핵심 지표가 될 것입니다. 모건스탠리 리서치(MSR)가 하이퍼스케일러들의 설비투자(Capex) 전망치를 상향 조정(28년까지 1.4조 달러)했고, AI 연구소들의 연간 반복 매출(ARR)도 기대 이상의 긍정적인 성과를 거두고 있는 상황에서 한 가지 당연한 의문이 생깁니다.\n\"최근의 주가 하락이 반도체 기업들의 주당순이익(EPS) 추정치가 꺾여야 함을 뜻하는 게 아니라, 역대급 TMT(기술·미디어·통신) 변동성 속에서 발생한 위험가치(VaR) 기반의 위험 축소와 레버리지 ETF의 감마 클렌징(포지션 강제 정리)에 불과한 것 아닐까?\"\n라는 점입니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T23:44:34+00:00"
     },
     {
       "id": "tg:HI_GS/6716",
@@ -788,46 +824,6 @@
       ],
       "summary_ko": "@GoogleDeepMind의 RT: @GoogleDeepMind 및 @GoogleResearch의 Google AI 날씨 모델을 공유하기 위한 대화형 웹사이트인 Weather Lab의 주요 업데이트를 발표합니다: https://deepmind.google.com/science/weatherlab",
       "published_at": "2026-07-17T15:00:14+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19143",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19143",
-      "text": "JP모건, 2027년 CSP(클라우드 서비스 제공업체) CapEx(설비투자) 중 AI 메모리가 차지하는 비중이 73%에 달할 것",
-      "images": [
-        "https://cdn5.telesco.pe/file/nmGti8ezntAvVfZ4qsHvUy0ft8OhurTAaydMBvHGSSpHaUlAEIHPCcC1aiKxyzUCBTKDekbLT23dHGQgHBf2bzjjFU4OytsRNSo7D9Eq1OO1TNjt-JJilQ1wrGGM_5_iC6UxMUOe89LA9hQFKE-u-rdnGepu57kZ3vWIebGaLaXvH9-1tX-rOVKUB6AF2DqjYLNAKSRgcbOUwjisOluP-i409vk2v0ZY6hTx1WgXcADzRthDWg-cIJiZwMtGOSi033pORPm6P_z5GOTEM0Y2pEctlQ0ze3B3mJSVSdU1AX2ORKp7Kerk7eRxRRCikELcAgA3QRdqjlVoUqGoSRKNcA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-17T12:12:13+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19142",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19142",
-      "text": "개빈 베이커 (Gavin Baker)\n\"위험 대비 보상(손익비)이 다시 매력적으로 보입니다.\n​지속 가능한 경쟁 우위를 가지고 있으면서,\n향후 6~12분기 동안 시장 예상치를 뛰어넘는 엄청난 실적을 기록할 저렴한 주식들이 널려 있습니다.\n​시간이 지나면 알게 되겠죠!\"\n빌 애크먼 (Bill Ackman)\n\"맞습니다\"",
-      "images": [
-        "https://cdn5.telesco.pe/file/nHaAcrk6tFcnvK-WBSXxjrZ329EYDfQS9F70m9Y0cerLg1unYOoX6kn0Q9k4QzLTp-m50cv1CC0VsclGFHYAtTZiC0WQEGlz65bq-7HiZgMBQLZS3xdhw9e_bYxLbb7Lh2dZ29v7vBn8ZwL51Am3VczeRViFmPRytQRKbpAjlnyeHi8SvAj5WTzReG_HW_0ACF38S0_WQwh3kCExk7ttv7WdIbFp2j2HyWT9I8-S-IRsM_mHc9FHBNUrQMbpH3BV55Hnaa-cUIdege4kMrgGR5yWdMgCFyG28mQ0HwmpfawZa9JomDazC6MqKKn9ebsI2ez-jsfQ_3abm9M49HGMSg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-17T11:45:28+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19141",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19141",
-      "text": "Daiwa Securities\n, 마이크론 ( $MU), 목표주가를 1,600달러에서 1,700달러로 상향, '매수' 의견 유지",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-17T11:31:46+00:00"
     },
     {
       "id": "tg:HI_GS/6715",
