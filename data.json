@@ -1,22 +1,82 @@
 {
-  "updated_at": "2026-07-19T05:53:36+00:00",
+  "updated_at": "2026-07-19T08:18:22+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 16
+    "new_this_run": 5
   },
   "briefing": {
-    "headline": "하이닉스, 미국 공장 건설 검토",
+    "headline": "이노라이트, 홍콩거래소 상장 심의 통과",
     "bullets": [
-      "최태원 하이닉스 회장, 미국 공장 건설 검토",
-      "반도체 공급 증가로 메모리 가격 하락 기대",
-      "딥시크 V4 풀버전, 내일 출시 예정",
-      "이노라이트, 홍콩거래소 상장 심의 통과",
-      "중국 오픈웨이트 AI 모델, 미국 선도 모델 추격"
+      "Kimi, 6개월 내 홍콩 상장 예정",
+      "미즈호 증권, CPU 및 GPU 시장 분석 보고서 발표",
+      "최태원, 미국에 하이닉스 공장 고려",
+      "딥시크 V4, 7월 중순 출시 예정",
+      "이란, 양해각서 이행 중단"
     ],
-    "generated_at": "2026-07-19T05:53:36+00:00",
+    "generated_at": "2026-07-19T08:18:22+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31685",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31685",
+      "text": "7000만배럴 중 5000만배럴이 중국으로  ========================  ~ 월스트리트저널(WSJ)에 따르면, 미국의 비영리단체인 '핵무장 이란 반대 연합'(UANI)과 원유시장 분석가들은 이란이 원유 봉쇄가 해제됐던 6월 중순부터 7월 중순까지 약 한 달 동안 약 7000만 배럴의 원유를 수출했다며 그 가치는 50억~60억 달러에 달한다고 추산했다  ~ 지난달 하순에만 중국으로 약 5000만 배럴의 원유를 수출했는데 이는 전쟁 이전 대중국…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-19T07:47:54+00:00"
+    },
+    {
+      "id": "tg:EMchina/31684",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31684",
+      "text": "Kimi 이르면 6개월 내 홍콩 상장  • 투자자들에 이미 지배구조 개편 & 홍콩 IPO 준비 통지  • 빠르면 6개월 내 홍콩 상장 완료  Kimi有望最快6个月内港股上市 Kimi已通知投资者调整公司架构，筹备赴港IPO，最快可能6个月内就能完成港股上市。（36氪）   https://wallstreetcn.com/livenews/3135984?ivk=1#from=ios",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-19T07:40:02+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23698",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23698",
+      "text": "미즈호 증권(Mizuho Securities), CPU 및 GPU 시장 분석 보고서\n1. CPU 및 GPU 시장 전망\n시장 예측 및 성장\n*\n출하량 성장 (Shipment Growth):\n전 세계 서버 CPU 출하량은 2026년에 3,500만 대에 도달하고, 2027년에는 5,000만 대까지 늘어나\n전년 대비(YoY) 40% 증가할 것으로 예상됩니다.\n*\n장기 TAM (Long-Term TAM):\nAI 추론 서버의 CPU 대 GPU 비율 가정이 상향되면서, 2030년 장기 총 유효시장(TAM) 추정치가 기존 1,070억 달러에서 1,700억 달러로 상향 조정되었습니다. 이는 에이전틱 AI(Agentic AI) 워크로드 지원에 따른 변화입니다.\n*\nCPU 대 GPU 비율 (CPU-to-GPU Ratios):\nAI 서버 내 CPU 대 GPU 비율의 동조화가 가속화되고 있으며, 2027년 말 또는 2028년까지 1:1 비율에 근접할 것으로 전망됩니다.\n공급망 및 기술적 병목 현상\n*\nDRAM 제약 (DRAM Constraints): DDR5/LPDDR5 공급에 심각한 병목 현상이 존재하며, 향후 12~18개월 동안 공급 충족률(Fulfillment Ratio)은 70% 수준에 그칠 것으로 보입니다.\n*\n수요와 공급의 격차 (\nDemand vs. Supply Gap): 현재 모델 기준,\n2027년 DDR5/LPDDR5X 수요(3,000억 기가비트(1Gb) 환산 단위 이상)\n는\n예상 공급량(2,200억~2,500억 기가비트 환산 단위)\n을 크게 상회할 것으로 보입니다.\n*\n잠재적 리스크 (Potential Risks):\nDRAM, 기판(Substrates), 수동 부품(Passives) 등 핵심 자재의 부족 현상이 2027년까지 지속될 것으로 예상됩니다. 이는 후방 서버 조립 업체들에 하방 리스크로 작용하여 잠재적으로 서버 랙 생산량 감소로 이어질 수 있습니다.\n주요 기업별 인사이트 (2027년 전망)\n>\n엔비디아(Nvidia): 베라(Vera) CPU 출하량이 500만~600만 대에 달할 것으로 예상\n되며, 이 중 200만~300만 대는 에이전틱 AI 스택 랙용으로 특화될 전망입니다\n>\n구글(Google)\n: 액시온(Axion) CPU 생산량이 전년 대비 2배 이상 증가하여 TPU 유닛의 성장 궤도와 일치할 것으로 보입니다.\n>\nAMD\n: N2 베니스(Venice) CPU 출하량이 600만 대를 넘어설 것으로 예상됩니다.\n2. GPUs / ASICs 시장\n시장 성장 전망\n*\n급격한 확장 (Rapid Expansion):\n전체 AI ASIC 시장은 2025년 410만 대에서 2028년까지 2,400만 대 규모로 성장할 것으로 전망됩니다.\n*\n물량 견인 요소 (Volume Drivers):\n구글, 아마존(안나푸르나), 메타, 마이크로소프트, 오픈AI 등 주요 하이퍼스케일러들의 대규모 도입 확대가 이 성장을 견인하고 있습니다.\n*\n외부 수요 (External Demand):\n구글을 제외한 외부 AI ASIC 유닛 시장은 2025년 60만 대에서 2028년 720만 대로 급증할 것으로 보입니다.\n주요 하이퍼스케일러 동향\n*\n구글 (TPU\n): 시장에서 지배적인 플레이어 지위를 유지하며, 전체 출하량이 2025년 250만 대에서 2028년 710만 대로 증가할 것으로 예상됩니다.\n*\n앤트로픽 (Anthropic):\n자체 칩인\n\"TPU 아이언우드/선피시(Ironwood/Sunfish)\"\n의 본격적인 램프업(생산 확대)이 예상되며, 2026년 60만 대에서 2028년 620만 대로 급증할 전망입니다.\n*\n아마존/안나푸르나 (Amazon/Annapurna):\n트레이니움(Trainium) 라인업 출하량이 2025년 150만 대에서 2028년 360만 대로 2배 이상 증가할 것으로 보입니다.\n*\n메타 (Meta):\nMTIA 칩의 빠른 스케일업이 예상되며, 2025년 10만 대에서 2028년 270만 대 규모로 성장할 전망입니다.\n기술 트렌드\n*\n첨단 패키징 및 노드 (Advanced Packaging & Nodes):\nCoWoS-L 및 CoWoS-S와 같은 정교한 패키징 기술과 N2, N3, N4, N5, A16 등 파운드리 최첨단 공정 노드에 대한 의존도가 매우 높습니다.\n*\nHBM 통합 (HBM Integration):\n언급된 고성능 ASIC 대부분이 고대역폭 메모리(HBM)를 채택하고 있으며, 성능 요구 사항을 충족하기 위해 HBM3E 및 HBM4/4E와 같은 차세대 메모리로 전환하는 추세입니다.\n*\n평균 판매 가격 격차 (ASP Variance):\n평균 판매 가격(ASP)은 엔트리급(보급형) 모델의 경우 약 $2,000 수준에서, 최상위 고성능 특화 칩인 TPUv10의 경우 최고 $40,000에 이르기까지 상당한 격차를 보입니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-19T06:28:18+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19149",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19149",
+      "text": "미즈호 증권(Mizuho Securities), CPU 및 GPU 시장 분석 보고서\n1. CPU 및 GPU 시장 전망\n시장 예측 및 성장\n*\n출하량 성장 (Shipment Growth):\n전 세계 서버 CPU 출하량은 2026년에 3,500만 대에 도달하고, 2027년에는 5,000만 대까지 늘어나\n전년 대비(YoY) 40% 증가할 것으로 예상됩니다.\n*\n장기 TAM (Long-Term TAM):\nAI 추론 서버의 CPU 대 GPU 비율 가정이 상향되면서, 2030년 장기 총 유효시장(TAM) 추정치가 기존 1,070억 달러에서 1,700억 달러로 상향 조정되었습니다. 이는 에이전틱 AI(Agentic AI) 워크로드 지원에 따른 변화입니다.\n*\nCPU 대 GPU 비율 (CPU-to-GPU Ratios):\nAI 서버 내 CPU 대 GPU 비율의 동조화가 가속화되고 있으며, 2027년 말 또는 2028년까지 1:1 비율에 근접할 것으로 전망됩니다.\n공급망 및 기술적 병목 현상\n*\nDRAM 제약 (DRAM Constraints): DDR5/LPDDR5 공급에 심각한 병목 현상이 존재하며, 향후 12~18개월 동안 공급 충족률(Fulfillment Ratio)은 70% 수준에 그칠 것으로 보입니다.\n*\n수요와 공급의 격차 (\nDemand vs. Supply Gap): 현재 모델 기준,\n2027년 DDR5/LPDDR5X 수요(3,000억 기가비트(1Gb) 환산 단위 이상)\n는\n예상 공급량(2,200억~2,500억 기가비트 환산 단위)\n을 크게 상회할 것으로 보입니다.\n*\n잠재적 리스크 (Potential Risks):\nDRAM, 기판(Substrates), 수동 부품(Passives) 등 핵심 자재의 부족 현상이 2027년까지 지속될 것으로 예상됩니다. 이는 후방 서버 조립 업체들에 하방 리스크로 작용하여 잠재적으로 서버 랙 생산량 감소로 이어질 수 있습니다.\n주요 기업별 인사이트 (2027년 전망)\n>\n엔비디아(Nvidia): 베라(Vera) CPU 출하량이 500만~600만 대에 달할 것으로 예상\n되며, 이 중 200만~300만 대는 에이전틱 AI 스택 랙용으로 특화될 전망입니다\n>\n구글(Google)\n: 액시온(Axion) CPU 생산량이 전년 대비 2배 이상 증가하여 TPU 유닛의 성장 궤도와 일치할 것으로 보입니다.\n>\nAMD\n: N2 베니스(Venice) CPU 출하량이 600만 대를 넘어설 것으로 예상됩니다.\n2. GPUs / ASICs 시장\n시장 성장 전망\n*\n급격한 확장 (Rapid Expansion):\n전체 AI ASIC 시장은 2025년 410만 대에서 2028년까지 2,400만 대 규모로 성장할 것으로 전망됩니다.\n*\n물량 견인 요소 (Volume Drivers):\n구글, 아마존(안나푸르나), 메타, 마이크로소프트, 오픈AI 등 주요 하이퍼스케일러들의 대규모 도입 확대가 이 성장을 견인하고 있습니다.\n*\n외부 수요 (External Demand):\n구글을 제외한 외부 AI ASIC 유닛 시장은 2025년 60만 대에서 2028년 720만 대로 급증할 것으로 보입니다.\n주요 하이퍼스케일러 동향\n*\n구글 (TPU\n): 시장에서 지배적인 플레이어 지위를 유지하며, 전체 출하량이 2025년 250만 대에서 2028년 710만 대로 증가할 것으로 예상됩니다.\n*\n앤트로픽 (Anthropic):\n자체 칩인\n\"TPU 아이언우드/선피시(Ironwood/Sunfish)\"\n의 본격적인 램프업(생산 확대)이 예상되며, 2026년 60만 대에서 2028년 620만 대로 급증할 전망입니다.\n*\n아마존/안나푸르나 (Amazon/Annapurna):\n트레이니움(Trainium) 라인업 출하량이 2025년 150만 대에서 2028년 360만 대로 2배 이상 증가할 것으로 보입니다.\n*\n메타 (Meta):\nMTIA 칩의 빠른 스케일업이 예상되며, 2025년 10만 대에서 2028년 270만 대 규모로 성장할 전망입니다.\n기술 트렌드\n*\n첨단 패키징 및 노드 (Advanced Packaging & Nodes):\nCoWoS-L 및 CoWoS-S와 같은 정교한 패키징 기술과 N2, N3, N4, N5, A16 등 파운드리 최첨단 공정 노드에 대한 의존도가 매우 높습니다.\n*\nHBM 통합 (HBM Integration):\n언급된 고성능 ASIC 대부분이 고대역폭 메모리(HBM)를 채택하고 있으며, 성능 요구 사항을 충족하기 위해 HBM3E 및 HBM4/4E와 같은 차세대 메모리로 전환하는 추세입니다.\n*\n평균 판매 가격 격차 (ASP Variance):\n평균 판매 가격(ASP)은 엔트리급(보급형) 모델의 경우 약 $2,000 수준에서, 최상위 고성능 특화 칩인 TPUv10의 경우 최고 $40,000에 이르기까지 상당한 격차를 보입니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-19T06:06:18+00:00"
+    },
+    {
+      "id": "tg:EMchina/31683",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31683",
+      "text": "싱가포르 헤지펀드 세율 인하 고려\n=========================\n~ The Monetary Authority of Singapore (MAS) has held talks with investment firms on reducing taxes for fund managers in a bid to maintain the island’s competitiveness and retain talent, the\nFinancial Times\n(\nFT\n) reported\nhttps://www.theedgesingapore.com/news/singapore-economy/singapore-weighs-hedge-fund-tax-cuts-be-more-competitive-reportsft",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-19T05:53:27+00:00"
+    },
     {
       "id": "tg:EMchina/31682",
       "source": "telegram",
@@ -284,42 +344,6 @@
       "published_at": "2026-07-18T21:50:24+00:00"
     },
     {
-      "id": "tg:EMchina/31673",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31673",
-      "text": "인도네시아 투자부 장관: 중국-인도네시아 투자 협력 미래에 확신\n• 인도네시아는 무역 투자 촉진 및 비즈니스 환경 개선 정책 계속 추진. 중국-인도네시아 투자 협력 미래에 자신\n• 인도네시아는 항상 개방적인 태도 유지. 안정/투명/우호적인 투자 환경 유지 노력\n• 최근 정책 조정의 목표는 산업 거버넌스 및 경쟁력 강화 & 더 큰 장기 가치 창출. 이는 외국인 투자 제한하지 않으며, 특정 국가/파트너 겨냥한 것이 아님\n印尼投资部部长：对中印尼投资合作未来充满信心\n印度尼西亚投资与下游化部部长罗山表示，印尼政府将继续推行促进贸易投资、改善营商环境的政策，对中国和印尼投资合作的未来充满信心。罗山说，印尼始终保持开放态度，致力于维护稳定、透明和友好的投资环境。近期政策调整的目标是加强产业治理、提升竞争力，并为印尼经济创造更大的长期价值，不会阻碍外国投资，更不是为了针对任何特定国家或投资伙伴。\nhttps://wallstreetcn.com/livenews/3136080?ivk=1#from=ios",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-18T21:29:12+00:00"
-    },
-    {
-      "id": "tg:EMchina/31672",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31672",
-      "text": "중국국가발전개혁위원회: 중점 산업 에너지절약 및 탄소저감 개조 3개년 행동 전개  • 철강, 전해알루미늄, 시멘트, 판유리, 정유, 에틸렌, 합성암모니아, 메탄올, 석탄 발전 등 주요 산업의 에너지절약 및 탄소 저감 개조 3개년 행동 추진  • 기업 에너지효율 및 탄소효율 수준 최대한 향상. 산업의 친환경 & 저탄소 발전 수준 향상  • 2028년 이후 상황에 따라 시행 범위 확장 추진  国家发改委等部门：开展重点行业节能降碳改造攻坚三年行动 国家发展改革委等…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-18T21:15:26+00:00"
-    },
-    {
-      "id": "tg:EMchina/31671",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31671",
-      "text": "중국 제조업을 받아들이기 시작한 인도. 국산화 동반 추진  ==========================  ~ 블룸버그통신에 따르면, 나렌드라 모디 인도 총리실이 16일(현지시각) 반도체와 자동차, 화학 같은 수입 의존도가 높은 100여 개 품목을 국내 생산으로 대체할 수 있는지 검토하라고 주요 부처에 지시했다. 인도 상공부는 전자, 화학, 필수 의약품, 비료, 반도체, 자동차, 기계류를 포함해 100개 이상의 품목 후보군을 짜고 있다. 최종 결정은 아직…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-18T21:09:24+00:00"
-    },
-    {
       "id": "x:ylecun:2078544306848059579",
       "source": "x",
       "author": "ylecun",
@@ -357,18 +381,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-18T15:17:55+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23686",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23686",
-      "text": "CNBC) 일론 머스크의 멤피스 AI 데이터센터가 미국 전역에서 확산되는 데이터센터 반대 운동의 진원지가 되고 있다.\n머스크가 멤피스 광역권을 AI 사업의 중심지로 삼은 지 2년이 지난 현재, 주민들은 천연가스 터빈에서 나오는 소음과 배출가스 등 원치 않는 피해에 시달리고 있습니다. 콜로서스와 콜로서스 II로 알려진 SpaceXAI 시설에 대한 대중의 반발은 이제 전국의 다른 지역사회들이 AI 개발에 반대하는 데 참고하는 청사진이 되고 있습니다. 이번 주 뉴욕주의 캐시 호컬 주지사는 주 내 AI 데이터센터 건설에 1년간 모라토리엄을 시행해 머스크의 우방인 트럼프 대통령의 분노를 샀고, 지난주 뉴저지주의 마이키 셰릴 주지사는 데이터센터 운영자가 전기 비용을 주민과 기업에 전가하지 못하도록 공정한 부담을 지게 하는 법안을 시행했습니다. 전 에너지부 융자 프로그램 국장 지가 샤는 콜로서스가 \"하지 말아야 할 것의 사례 연구\"가 됐지만 자본주의 관점에서는 보상을 받았다고 지적했습니다.\n실제로 SpaceX는 지난 2월 xAI를 인수한 뒤 6월에 AI와 콜로서스 I·II 시설을 성장 서사의 핵심으로 내세워 기록적인 IPO에 성공했으며, 구글, 앤트로픽, 리플렉션 AI가 월 최대 23억 2천만 달러 규모로 잉여 컴퓨팅 용량 임대 계약을 체결했습니다. 반면 주민들은 혜택을 체감하지 못하고 있습니다. 여러 주민들은 SpaceXAI가 착공 전에 계획에 대해 전혀 협의하지 않았다고 밝혔으며, 콜로서스 II에서 1마일 이내에 거주하는 미시시피주 사우스헤이븐의 제이슨 헤일리는 가스 터빈 소음이 \"고문의 한 형태 같다\"고 말했습니다.\n데이터센터 반대는 xAI뿐 아니라 마이크로소프트, 메타, 구글, OpenAI 등 하이퍼스케일러 전반으로 확산되고 있으며, 5월 갤럽 조사에서는 미국인 10명 중 7명이 자기 지역의 AI 데이터센터 건설에 반대했고 48%는 강하게 반대한다고 답했습니다. 머스크 본인도 IPO 로드쇼에서 \"뒷마당에 발전소를 원하는 사람은 거의 없다\"고 인정했습니다.\n멤피스 주민들과 기후 활동가들의 경험은 다른 지역의 정책, 소송, 선거에 직간접적인 영향을 미치고 있습니다. 인근 올리브 브랜치와 잭슨은 멤피스의 전철을 밟지 않기 위해 용도지역 조례를 개정했고, 유타주에서는 데이터센터 사업을 지지한 주 상원의장과 지방 공직자 2명이 공화당 예비선거에서 낙선했습니다. 위스콘신주에서는 마이크로소프트 데이터센터 인근 주민들이 멤피스 사례를 따라 소음 관련 집단소송을 제기했습니다.\n법적 다툼도 진행 중입니다. 헤일리를 비롯한 사우스헤이븐 주민들은 6월 콜로서스 II의 소음이 \"공적 불법방해\"에 해당한다며 SpaceX를 상대로 집단소송을 제기했고, 4월에는 남부환경법센터와 어스저스티스가 NAACP를 대리해 회사가 필요한 허가와 오염 방지 장치 없이 수십 대의 가스 터빈을 사용해 연방 청정대기법을 위반했다며 연방법원에 소송을 냈습니다. 이에 미 법무부는 SpaceXAI의 기술이 이란에서의 미군 작전에 사용됐고 국가 안보에 필수적이라며 소송 기각을 요청하는 이례적 개입에 나섰습니다. SpaceX는 현재 터빈은 임시용이며 오염 방지 장치를 갖춘 허가받은 터빈 설치 계획이 있다고 항변하고 있습니다.\n한편 멤피스 시장 폴 영은 SpaceXAI가 운영 첫해에 2,500만 달러의 세금을 납부해 셸비 카운티에서 페덱스에 이어 두 번째로 큰 납세 자산이 됐다고 밝혔으나, 물 재활용 시설 건설 지연 등 약속이 모두 이행되지는 않았다고 인정했습니다. 주민들은 수도·전기 요금이 올랐다고 주장하지만, 지역 유틸리티는 요금 인상이 데이터센터 부하와 무관하다고 반박했습니다. NAACP 측 변호사는 기업들이 이미 산업 오염을 겪은 지역으로 이전하면서 \"희생 지대\"를 심화시키고 있다고 비판했으며, 콜로서스 II 담장에 인접한 흑인 다수 거주 지역 화이트헤이븐의 주민 로레타 손턴은 \"이런 것 옆에 살려고 누가 내 집을 사겠느냐\"며 이주조차 불가능한 현실을 토로했습니다.\nhttps://www.cnbc.com/2026/07/16/elon-musk-memphis-ai-colossus-data-center.html?&qsearchterm=Elon",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-18T15:17:30+00:00"
     },
     {
       "id": "tg:bornlupin/19148",
@@ -975,18 +987,6 @@
       "published_at": "2026-07-16T13:26:35+00:00"
     },
     {
-      "id": "tg:bornlupin/19137",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19137",
-      "text": "Citi,  구글, 메타, 아마존의 2027년 자본지출(Capex) 규모가 8,000억 달러를 넘어설 것으로 전망\n1. 대규모 자본지출(Capex) 상향과 잉여현금흐름(FCF) 적자 전환\n합산 자본지출 8,010억 달러 전망:\n시티은행은\n알파벳, 메타, 아마존의 2027년 합산 자본지출이 8,010억 달러에 달할 것으로 예상\n했습니다. 이 엄청난 규모의 AI 인프라 투자로 인해 세 회사 모두 2027년과 2028년에 잉여현금흐름(FCF)이 적자로 돌아설 것이라고 경고했습니다.\n기업별 2027년 자본지출 전망치 조정:\n알파벳:\n기존 전망치보다 약 21% 올린 3,080억 달러\n메타:\n기존 전망치보다 약 22% 올린 2,050억 달러 (약 14기가와트의 컴퓨팅 용량 확보가 목표)\n아마존:\n기존 전망치보다 약 12% 올린 2,880억 달러\n시티은행은 이 적자 전환을 재정적 위기 신호가 아니라,\n강력한 AI 수요에 대응하기 위한 전략적이고 과감한 투자로 평가했습니다.\n2. 클라우드 및 AI 사업의 가파른 성장\n구글 클라우드 플랫폼(GCP): 2026년 2분기 매출 성장률 전망치를 전년 대비 68.5%로 올렸으며, 2027년에는 93.5% 급증한 1,900억 달러에 이를 것\n으로 내다봤습니다.\n특히 시티은행은\n분석 모델 최초로 구글의 자체 AI 칩인 TPU(텐서 처리 장치) 매출을 반영\n하였으며, 2027년 GCP 예상 매출 중 약 620억 달러가 TPU에서 나올 것으로 추정했습니다.\n아마존 웹 서비스(AWS):\nAI 채택 가속화와 컴퓨팅 용량 증설 덕분에 전년 대비 매출 성장률이 2026년 2분기 32.5%, 2026년 전체 33.5%, 2027년 40%로 계속 빨라질 것\n으로 전망했습니다.\n3. 단기 실적 호조 및 광고 시장 회복\n칸 광고제 현장 점검과 광고 전문가들의 의견을 종합한 결과,\n디지털 광고 및 전자상거래 시장의 성장세가 뚜렷합니다.\n이에 따라 세 회사 모두 2026년 2분기 실적이 시장 전망치를 웃돌고, 3분기 실적 전망(가이던스) 역시 긍정적일 가능성이 높습니다.\n4. 시장의 엇갈린 반응 (투자 포인트)\n긍정론:\n2분기 실적 어닝 서프라이즈가 예상되며, 강력한 AI 수요가 입증되고 있어 대규모 투자의 정당성이 확보\n된다고 봅니다.\n우려론:\n세계에서 가장 현금을 잘 버는 대기업들이 동시에 잉여현금흐름 적자를 기록한다는 것은 투자 지형의 큰 변화를 의미합니다.\n향후 실적 발표에서 투자자들은 경영진에게 '매년 수천억 달러에 달하는 AI 투자의 회수 기간(ROI)을 어떻게 보고 있는지' 집중적으로 질문할 것\n입니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-16T12:00:12+00:00"
-    },
-    {
       "id": "x:GoogleDeepMind:2077721122116640969",
       "source": "x",
       "author": "GoogleDeepMind",
@@ -1047,7 +1047,7 @@
       "url": "https://t.me/enc210406/4149",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 7월 16일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/WKfLmntL6TiMPwqdOhLILvq6VBP81AE-aEUN7u8jH5XtRtJGauU7z70EBuL2Knh18AOoZpwlO5l_kXH_8e3_m6rasY11qxjU8ZnhZUt8HQs2k2nz1SptLgI0Hecnq97i5qnvswy25KZCMGMPx-lYccXm1d7_vduvOQEoqOPjMteEVCcmA1UPv3dzHE_t88YcGGrL8-1BgOW8O1Gb2cOpkLJ7MUZbyseQtn-EUCDneqCuOIFsdKybEkSG9hctpQI1giR24Ylhl598B4QlbtPR9efy184kjTRCp0Lqj6M2kFo1LPNp_cDHRc-eXa1-BkigJyhhxeQLCefh4121c0jw_A.jpg"
+        "https://cdn5.telesco.pe/file/uH3YJQ-c4egj96q-fUSwZetEBI2RFJ1FJVNoukAhctN3kLe9grnt6ctQ7F4MHhaWsZzGaMCaMJ-XQNTqVrGiaCvkAHEF-hxdfx8nst6Dj4Y_S3U0npbpv4TZo-FhOFkbMgEhCWtXCqNl2wSionhadvHb51EWbNuDVYCP9WwVmX2XdMJPvYCNyulWsZKA84f9X6ENMVpzY6LbDXNat7SHOZ077U28Sf_OwB-1FOBSqBRR_X9usZYi75eJGpJ0wy9XuAg6azIHUHfl5DaKOr5N_UTB_575PrKrcyrSP03APmo8LFGU-aonvu7fPlpRbkFLQEvQFGWHs8vep4XWCFI2xg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-16T07:33:27+00:00"
