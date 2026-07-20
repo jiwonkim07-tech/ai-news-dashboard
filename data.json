@@ -1,22 +1,33 @@
 {
-  "updated_at": "2026-07-20T18:03:41+00:00",
+  "updated_at": "2026-07-20T20:21:04+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 6
+    "new_this_run": 1
   },
   "briefing": {
-    "headline": "구글, Frozen V2 칩 개발 추진",
+    "headline": "미국 전략비축유 43년만에 최저",
     "bullets": [
-      "메모리 가격 상승 예상",
-      "키미 모델, 메모리 수요 증가",
+      "유가 급락 & 지수선물 급등",
       "중국 AI 확장 가속화",
-      "나스닥 CTA 임계선까지 단 1%",
-      "유가 급락 & 지수선물 급등"
+      "키미 모델, 메모리 대규모 추가 수요 유발 전망",
+      "구글, 2028년까지 Frozen V2 칩 배치 계획"
     ],
-    "generated_at": "2026-07-20T18:03:41+00:00",
+    "generated_at": "2026-07-20T20:21:04+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31722",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31722",
+      "text": "미국 전략비축유 재고 43년만에 최저. 지난주 510만배럴 감소\n• 미국 에너지부에 따르면, 지난주 미국 전략비축유 재고 약 510만배럴 감소한 3.114억배럴. 1983년 3월 이후 최저 수준. 지난 주말까지의 최신 상황 포함한 데이터는 수요일 발표  예정\n刷新43年来最低水平，美国战略石油储备上周继续减少510万桶\n美国能源部数据显示，上周美国战略石油储备原油库存减少约510万桶，降至3.114亿桶，续传1983年3月以来最低水平。涵盖截至上周末最新情况的数据预计将于周三公布。\nhttps://wallstreetcn.com/articles/3777492#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-20T19:55:32+00:00"
+    },
     {
       "id": "x:OpenAI:2079260550895382965",
       "source": "x",
@@ -197,7 +208,7 @@
       "author_name": "한투증권 중국/신흥국 정정영",
       "author_url": "https://t.me/EMchina",
       "url": "https://t.me/EMchina/31718",
-      "text": "미중은 안 친해집니다  =======================  ~ The Trump administration is showing signs it could ban cutting-edge Chinese AI models — a momentous move that could lock in dominance by OpenAI and Anthropic  https://www.axios.com/2026/07/20/ai-us-china-open-source…",
+      "text": "미중은 안 친해집니다  =======================  ~ 한 정부 소식통은 중국의 AI 모델을 사용하는 미국 기업에 대해 조달 규정을 적용하거나 거래제한 명단으로 지정해 압박하는 \"느리지만 지속적인\" 방안을 고려하고 있다고 악시오스에 말했다.  ~ 다른 소식통은 중국 AI 모델에 잠재적인 보안 취약성이 있으며, 이를 사용할 경우 회사의 지배구조 문제로 이어질 수 있다는 점을 부각해 기업들의 사용을 가로막으려는 움직임이 있다고 전했다  ht…",
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-20T13:55:53+00:00"
@@ -510,18 +521,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-20T08:24:29+00:00"
-    },
-    {
-      "id": "tg:EMchina/31710",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31710",
-      "text": "그만해  https://n.news.naver.com/article/025/0003538748?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-20T08:19:31+00:00"
     },
     {
       "id": "tg:bornlupin/19171",
@@ -1471,6 +1470,18 @@
       "published_at": "2026-07-15T17:34:30+00:00"
     },
     {
+      "id": "x:OpenAI:2077446719990796505",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2077446719990796505",
+      "text": "R to @OpenAI: As model capabilities grow, safety and alignment must scale with them. Red-teaming is essential, but today’s approaches are difficult to scale, creating a critical bottleneck. GPT‑Red is one way we’re addressing it.",
+      "images": [],
+      "summary_ko": "R에서 @OpenAI로: 모델 기능이 성장함에 따라 안전과 정렬도 함께 확장되어야 합니다. 레드팀 구성은 필수적이지만 오늘날의 접근 방식은 확장이 어려워 심각한 병목 현상이 발생합니다. GPT‑Red는 우리가 이 문제를 해결하는 한 가지 방법입니다.",
+      "published_at": "2026-07-15T17:34:29+00:00"
+    },
+    {
       "id": "x:sama:2077446718728425686",
       "source": "x",
       "author": "sama",
@@ -1482,18 +1493,6 @@
         "https://pbs.twimg.com/card_img/2077445333765001216/MQV9mB7F?format=jpg&name=800x419"
       ],
       "summary_ko": "@sama의 RT: GPT-Red 소개 모델의 신속한 주입 취약점을 규모에 맞게 찾아내는 임무를 수행하는 내부 자동 레드 팀을 통해 더 폭넓게 배포하기 전에 더 강력한 방어 체계를 구축할 수 있도록 돕습니다. https://openai.com/index/unlocking-self-improvement-gpt-red/",
-      "published_at": "2026-07-15T17:34:29+00:00"
-    },
-    {
-      "id": "x:OpenAI:2077446719990796505",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2077446719990796505",
-      "text": "R to @OpenAI: As model capabilities grow, safety and alignment must scale with them. Red-teaming is essential, but today’s approaches are difficult to scale, creating a critical bottleneck. GPT‑Red is one way we’re addressing it.",
-      "images": [],
-      "summary_ko": "R에서 @OpenAI로: 모델 기능이 성장함에 따라 안전과 정렬도 함께 확장되어야 합니다. 레드팀 구성은 필수적이지만 오늘날의 접근 방식은 확장이 어려워 심각한 병목 현상이 발생합니다. GPT‑Red는 우리가 이 문제를 해결하는 한 가지 방법입니다.",
       "published_at": "2026-07-15T17:34:29+00:00"
     },
     {
