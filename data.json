@@ -1,22 +1,70 @@
 {
-  "updated_at": "2026-07-21T19:22:34+00:00",
+  "updated_at": "2026-07-21T21:09:34+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 16
+    "new_this_run": 4
   },
   "briefing": {
     "headline": "구글, 제미니 3.6 출시",
     "bullets": [
-      "제미니 3.6, 입력 토큰 100만 개당 1.50달러",
-      "중국 문샷AI, 기업가치 500억 달러로 IPO",
-      "삼성전자, AI 헬스 어시스턴트 공개",
-      "미국·중국, 9월 AI 회담 개최 예정",
-      "이란 혁명수비대, 아마존 데이터센터 공격"
+      "엔비디아, 차세대 칩 개발 예정대로 진행",
+      "최태원 SK그룹 회장, 메모리 반도체 가격 비정상적으로 높다 주장",
+      "OpenAI, 보상 추구에 대한 새로운 연구 발표",
+      "LME 가격: 구리, 알루미늄, 아연, 납 상승",
+      "삼성전자, AI 기반 헬스 어시스턴트 공개"
     ],
-    "generated_at": "2026-07-21T19:22:34+00:00",
+    "generated_at": "2026-07-21T21:09:34+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19220",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19220",
+      "text": "엔비디아, 차세대 칩 예정대로 진행 중 확인\n​엔비디아는 AI 데이터센터 활용을 위한 자사의 차세대 칩이 차질 없이 예정대로 진행 중이라고 밝혔습니다.\n​또한,\n자사의 새로운 베라(Vera) 프로세서가 AMD의 튜린(Turin)보다 더 빠르다고 발표했습니다.\n​엔비디아는\n주요 고객사들이 이미 베라 루빈(Vera Rubin) 하드웨어를 테스트\n하고 있다고 덧붙였습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-21T21:07:28+00:00"
+    },
+    {
+      "id": "tg:EMchina/31748",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31748",
+      "text": "~ 최태원 SK그룹 회장은 15일 제주에서 열린 ‘대한상의 하계 포럼’ 기자간담회에서 반도체 시장 전망에 대해, 현재 메모리 반도체 가격이 “비정상적으로 높다”고 했다. 그는 반도체 기업들을 위해서라도 “공급을 늘려 가격을 떨어뜨려야 한다”고 했다. 그러면서 미국에도 SK하이닉스 반도체 공장 설립을 고려하고 있다고 했다. 공급 확대와 통상 압력을 감안한 것이라는 뜻이다  ~ 최 회장은 내년에는 공급난이 더욱 극심해질 것이라고 했다. 그는 “어느 회사도 내년에…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-21T21:07:07+00:00"
+    },
+    {
+      "id": "tg:EMchina/31747",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31747",
+      "text": "“\n인공지능(AI)이 생산성 증가를 가져오더라도 새로운 일자리들이 창출되기까지는 시간이 걸릴 수 있다. 그 사이에는 고용이 악영향을 받고, 많은 나라에서 고용에 기반한 세수에도 부정적인 영향을 줄 수 있다\n.”\nhttps://n.news.naver.com/article/020/0003735595?sid=102",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-21T21:01:34+00:00"
+    },
+    {
+      "id": "tg:EMchina/31746",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31746",
+      "text": "• LME 가격:  구리 +17달러(13598달러/톤)  알루미늄 +35달러(3185달러/톤)  아연 +48달러(3594달러/톤)   납 +20달러(1872달러/톤)  니켈 +349달러(17152달러/톤)  주석 +376달러(53156달러/톤)  코발트 보합(56290달러/톤)  LME期铜收涨17美元，报13598美元/吨。 LME期铝收涨35美元，报3185美元/吨。 LME期锌收涨48美元，报3594美元/吨。 LME期铅收涨20美元，报1872美元/吨。 LME期镍…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-21T20:00:20+00:00"
+    },
     {
       "id": "x:OpenAI:2079647256941412817",
       "source": "x",
@@ -753,18 +801,6 @@
       "published_at": "2026-07-21T06:00:47+00:00"
     },
     {
-      "id": "tg:bornlupin/19208",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19208",
-      "text": "TD Cowen: 2분기 데이터센터 임차 규모, 사상 최고 기록\n“당사의 채널 체크에 따르면,\n2026년 2분기 데이터센터 임차 규모는 약 9.6GW로 사상 최고치를 기록했습니다. 메타, 마이크로소프트, 구글이 임차 수요를 주도했습니다.\n현재 진행 중인 데이터센터 임차 파이프라인 역시 약 12.5GW로 사상 최대 수준\n입니다.\n주요 배경은 다음과 같습니다.\n1.\n오픈AI가 2030년까지의 컴퓨팅 인프라 구축 목표를 30GW로 확대\n했습니다.\n2.\n앤스로픽이 해외 데이터센터 수요를 1GW 이상 추가로 확대\n하고 있습니다.\n3.\n메타의 데이터센터 임차 활동이 둔화되지 않고 계속\n되고 있습니다.”",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T04:58:38+00:00"
-    },
-    {
       "id": "tg:globaletfi/20703",
       "source": "telegram",
       "author": "globaletfi",
@@ -775,42 +811,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-21T04:32:36+00:00"
-    },
-    {
-      "id": "tg:EMchina/31736",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31736",
-      "text": "미중은 안 친해집니다  ==========================  ~ 은하계획은 토큰 운영센터 1곳을 공동으로 건설하고 중국산 AI 연산 그래픽카드 1만장급 지능형 컴퓨팅 클러스터 5곳을 세운다는 목표를 내세웠다  https://n.news.naver.com/article/001/0016204637?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T04:30:29+00:00"
-    },
-    {
-      "id": "tg:EMchina/31735",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31735",
-      "text": "중국 탄산리튬 현물가격 152200위안/톤. 전일대비 -350위안 하락  上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报152200元/吨，较上日16:30价格下跌350元/吨。  https://wallstreetcn.com/livenews/3136511?ivk=1#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T04:00:10+00:00"
-    },
-    {
-      "id": "tg:EMchina/31734",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31734",
-      "text": "SemiAnalysis: Kimi K3의 KDA 메커니즘이 어텐션 효율성 향상. 그러나 더 많은 GPU, HBM, DRAM 및 네트워크 필요  • Kimi K3 선형어텐션이 하드웨어 수요에 대한 단기적인 우려 촉발  • SemiAnalysis는 2.8조 이상의 매개변수와 대규모 추론 아키텍처는 오히려 첨단GPU, HBM 및 고속 네트워크 수요 증가시킬 것으로 전망  • 병렬설계는 칩 간 통신 압력 확대. 선형 어텐션의 비용 절감 혹은 제번스의 역설(효율…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T03:58:01+00:00"
     },
     {
       "id": "tg:enc210406/4165",
@@ -1509,20 +1509,6 @@
       "published_at": "2026-07-16T16:35:00+00:00"
     },
     {
-      "id": "x:demishassabis:2077721122116640969",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2077721122116640969",
-      "text": "RT by @demishassabis: The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier AI to build proactive defenses for global health → https://goo.gle/4wKHXk2",
-      "images": [
-        "https://pbs.twimg.com/media/HNWMNtnXcAAYtNy.jpg"
-      ],
-      "summary_ko": "@demishassabis의 RT: 생물보안 환경은 빠르게 진화하고 있습니다. 향후 발병에 앞서 나가기 위해 우리는 @IsomorphicLabs와 협력하여 생체 회복력에 대한 접근 방식을 간략하게 설명하고 있습니다. 글로벌 건강을 위한 사전 예방적 방어를 구축하기 위해 우리가 프론티어 AI를 배포하는 방법은 다음과 같습니다 → https://goo.gle/4wKHXk2",
-      "published_at": "2026-07-16T11:44:52+00:00"
-    },
-    {
       "id": "x:GoogleDeepMind:2077721122116640969",
       "source": "x",
       "author": "GoogleDeepMind",
@@ -1534,6 +1520,20 @@
         "https://pbs.twimg.com/media/HNWMNtnXcAAYtNy.jpg"
       ],
       "summary_ko": "생물보안 환경은 빠르게 진화하고 있습니다. 향후 발병에 앞서 나가기 위해 우리는 @IsomorphicLabs와 협력하여 생체 회복력에 대한 접근 방식을 간략하게 설명하고 있습니다. 글로벌 건강을 위한 사전 예방적 방어를 구축하기 위해 우리가 프론티어 AI를 배포하는 방법은 다음과 같습니다 → https://goo.gle/4wKHXk2",
+      "published_at": "2026-07-16T11:44:52+00:00"
+    },
+    {
+      "id": "x:demishassabis:2077721122116640969",
+      "source": "x",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2077721122116640969",
+      "text": "RT by @demishassabis: The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier AI to build proactive defenses for global health → https://goo.gle/4wKHXk2",
+      "images": [
+        "https://pbs.twimg.com/media/HNWMNtnXcAAYtNy.jpg"
+      ],
+      "summary_ko": "@demishassabis의 RT: 생물보안 환경은 빠르게 진화하고 있습니다. 향후 발병에 앞서 나가기 위해 우리는 @IsomorphicLabs와 협력하여 생체 회복력에 대한 접근 방식을 간략하게 설명하고 있습니다. 글로벌 건강을 위한 사전 예방적 방어를 구축하기 위해 우리가 프론티어 AI를 배포하는 방법은 다음과 같습니다 → https://goo.gle/4wKHXk2",
       "published_at": "2026-07-16T11:44:52+00:00"
     },
     {
@@ -1693,20 +1693,6 @@
       "published_at": "2026-07-14T13:44:04+00:00"
     },
     {
-      "id": "x:demishassabis:2076957440109625718",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2076957440109625718",
-      "text": "Pinned: A Framework for Frontier AI and the Dawning of a New Age",
-      "images": [
-        "https://pbs.twimg.com/media/HNLLt2GXMAAAPF0.jpg"
-      ],
-      "summary_ko": "Pinned: 프론티어 AI를 위한 프레임워크와 새로운 시대의 시작",
-      "published_at": "2026-07-14T09:10:16+00:00"
-    },
-    {
       "id": "x:GoogleDeepMind:2076957440109625718",
       "source": "x",
       "author": "GoogleDeepMind",
@@ -1718,6 +1704,20 @@
         "https://pbs.twimg.com/media/HNLLt2GXMAAAPF0.jpg"
       ],
       "summary_ko": "@GoogleDeepMind의 RT: 프론티어 AI를 위한 프레임워크와 새로운 시대의 시작",
+      "published_at": "2026-07-14T09:10:16+00:00"
+    },
+    {
+      "id": "x:demishassabis:2076957440109625718",
+      "source": "x",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2076957440109625718",
+      "text": "Pinned: A Framework for Frontier AI and the Dawning of a New Age",
+      "images": [
+        "https://pbs.twimg.com/media/HNLLt2GXMAAAPF0.jpg"
+      ],
+      "summary_ko": "Pinned: 프론티어 AI를 위한 프레임워크와 새로운 시대의 시작",
       "published_at": "2026-07-14T09:10:16+00:00"
     },
     {
