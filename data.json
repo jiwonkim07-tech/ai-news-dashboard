@@ -1,21 +1,175 @@
 {
-  "updated_at": "2026-07-21T05:51:15+00:00",
+  "updated_at": "2026-07-21T08:28:49+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 20
+    "new_this_run": 12
   },
   "briefing": {
-    "headline": "중국, AI 및 반도체 수출 통제 강화 검토",
+    "headline": "미국 최대 전력망 PJM, 전력 공급 목표 달성 실패",
     "bullets": [
-      "TD Cowen: 2분기 데이터센터 임차 규모, 사상 최고 기록",
-      "한국 7월 초순 수출, AI 호조에 힘입어 역대 최고치 기록",
-      "JP모건: 즈푸 AI에 대해 비중확대 의견 유지",
-      "키옥시아, 지난주 금요일 -16%의 큰 낙폭 기록 후 금일 +16% 상승"
+      "중국, AI와 반도체칩 기술 수출 통제 추진",
+      "키옥시아, 지난주 금요일 -16%의 큰 낙폭 기록 후 금일 +16% 상승",
+      "화웨이 올해 스마트폰 출하량 +20% 목표",
+      "DRAM 멀티플은 가파르게 조정받은 반면, 현물 가격은 상승세를 지속"
     ],
-    "generated_at": "2026-07-21T05:51:15+00:00",
+    "generated_at": "2026-07-21T08:28:49+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31739",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31739",
+      "text": "한계 임박. 미국 최대 전력망, 전력 공급 목표 달성 실패. AI로 전력비용 60% 급등  • 미국 최대 전력망 PJM, 세번째 용량 경매 신뢰성 목표 미달성  • 2028/2029년도 전력 공급 부족은 6.8GW. 약 7개의 원전설치 용량 수준  • AI 데이터센터 수요로 PJM 전력 공급 비용 60% 이상 상승. 올해 1분기 전기 요금은 전년동기대비 76%. 가격 상한선 없다면 전기요금은 현재대비 약 70% 더 비싸지는 상황  >> 잊지말자 전력. 전기요금…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-21T07:51:23+00:00"
+    },
+    {
+      "id": "tg:enc210406/4168",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4168",
+      "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 7월 21일 종가 기준",
+      "images": [
+        "https://cdn5.telesco.pe/file/ZB24ALzN2GzvVXnW_rcBBeN3qjaNDrTyRIq1oDtXxB_qL0dPEQh-LhAESVRcqPv1q84OpD4qKgG5pPDRoCNgN_2ftQcyv-V63SuzzHsLkwrkxdT0eRdfYesyAONRE2EMcPAbzzIDnDyzh73razXBy-B35yWS5d7KmbHRQs04vo_TFSE1hR7_OFBZfceWXRlaZ-EVFa_klQ5nrzNuk9y7mZ1wLJpsUUAhyOs8gXa66fXwYdA9x4DYzVqsccGKHsNjGbaI59SOcpcCbf1w3ADQKy1IJq1GYNcq96inSDQ2AaU32bCnxgj5YZMCT2Ji-XhObOZ75aSlGuliBMbiJP-3jg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-21T07:47:37+00:00"
+    },
+    {
+      "id": "tg:EMchina/31738",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31738",
+      "text": "중국, AI와 반도체칩 기술 수출 통제 추진  =========================  ~ Chinese regulators are ‌considering tightening export ‌controls on AI ​and semiconductor technologies, the Financial Times reported on Tuesday  https://finance.yahoo.com/technology/ai/articles/china-considers…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-21T07:35:45+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19210",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19210",
+      "text": "Citi 반도체 설문조사\n1. 반도체 지금 상황이 어떤거 같니?\n1) 매수 / 매도세 과도: 45%\n2) 보유 / 확신이 설 때까지 대기: 35%\n3) 매도 / 추가 하락 여지: 20%\n2. 무엇을 가장 먼저 매수할까?\n1) 메모리: 35%\n2) 반도체 장비(Semi Cap): 35%\n3) HDD: 20%\n4) 기타: 10%",
+      "images": [
+        "https://cdn5.telesco.pe/file/HqLlwtJAWUZEAFhj5t_sLBPhXtrwkEBxPItMmnb81UZXDpQLNfwS0dbibEg0pn5unHfAh112gEHlK1-6nwAH4hhbna-3c0irvWi7cM_xNV1Kfdh9WZcaFJtZGsKBJX0fH5NrM2P25ps8Y-ihGNqE3l9xcZEYCw5muYKgjSNx7q97KEfY4dT5aOLn6zdkad5UdCzP3mPUS-A2k3FNHBMRQeJXn5IvEJeKilaubnkpD4dH_ooTZ4QROVDWKKFdvpA6hn5UfQfcWQfmYNU7iiaPPGrTCMCiDHisnstbxgQBKBUVS6gCuEtRpiTMg1A54QcYr3vOXgvoNKu4T0iLH6hxZQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-21T07:21:57+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23763",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23763",
+      "text": "AI 공급 계약, 안전판은 아닐 수도\nAI 투자 열풍과 함께 반도체·클라우드 업계에서는 수년짜리 장기 공급 계약이 잇따르고 있음. 메모리 반도체부터 AI 서버, 데이터센터까지 공급망 전반이 대규모 계약으로 묶이면서 기업들은 안정적인 매출과 공급 확보를 기대하는 분위기임. 그러나 월가에서는 이러한 계약이 경기 침체나 AI 투자 둔화 국면에서 예상만큼 강력한 보호막이 되지 않을 수 있다고 지적함.\n대표적인 사례가 메모리 시장임. 삼성전자와 SK하이닉스, 마이크론은 AI용 고대역폭메모리(HBM) 수요 급증으로 사상 최대 수준의 실적을 기록하고 있으며, 공급 부족이 2028년까지 이어질 것으로 전망하고 있음. 특히 마이크론은 5년짜리 'Take-or-Pay' 계약을 적극 확대하고 있으며, 향후 매출의 절반 이상이 이러한 장기 계약에서 발생할 것으로 예상함.\n하지만 계약이 존재한다고 해서 매출이 반드시 보장되는 것은 아니라는 점이 핵심임. AI 투자 열기가 식거나 고객사의 수요가 감소하면 계약 조건은 재협상되거나 계약 기간이 연장될 가능성이 큼. 공급업체 입장에서도 사용하지 않는 반도체를 고객에게 강제로 공급하면 재고 부담이 커지고 장기 고객 관계가 훼손될 수 있기 때문임.\n실제로 코로나19 당시 반도체 공급난 이후에도 비슷한 일이 발생함. 당시 장기 공급 계약이 대거 체결됐지만 공급 과잉으로 시장이 전환되자 계약은 유연하게 수정됐고, 고객들은 기존 물량 인수 의무에서 상당 부분 면제받음. 마이크로칩 테크놀로지는 고객이 필요하지 않은 제품을 강매하지 않겠다는 방침까지 밝히며 계약 조건을 완화한 바 있음.\n이 같은 위험은 메모리 업체에만 국한되지 않음. 오라클, 코어위브 등 AI 클라우드 기업과 AI 모델 개발사, AI 서버 제조업체까지 서로 대규모 장기 계약으로 연결돼 있어 AI 투자 사이클이 둔화될 경우 공급망 전체가 연쇄적인 영향을 받을 가능성이 있음. 현재의 계약 구조는 호황기에는 안정성을 높여주지만, 불황에서는 결국 시장 상황에 맞춰 다시 조정될 가능성이 크다는 것이 월가의 분석임.\n출처: Wall Street Journal (2026년 7월 21일)",
+      "images": [
+        "https://cdn5.telesco.pe/file/mUklXAs5vzmJBfnZXl1ZJGhJLSv1X5O1TWXVSTb1pxgGJjn3uwhpLGBUYnh9kanndPIWKRxj2lRcemA3GaG-X-Gi0xDYdL_ZKVqW2Qmeuk3u6kgwDZ1FGcjCld-skKSzRF4ZFxlkG835ID9LzB8J450vKMIM55-HzHaN_4lqnlk5H_xigFfSkw5zsXCuVgMZsXgyLWK_AH8z5ugvRaIV4SOStLtQ-2sgkqUuiw77wUk7fxFOElzGW-B-xkYs--rVC8Fl99wbVaLxCEARM-ol7k6l0cEfA4V31kOlK1lpyN7UzIaRg7h6NBlE8iXzNoYimc88I-K_opg5SeQu08RwcQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-21T07:21:41+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19209",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19209",
+      "text": "\"K증시 폭락 주범은 레버리지…코스피 1만2500 간다\"\nJP모건 \"한국 증시 급락, 레버리지 ETF 영향…청산 75% 진행\"\n\"디레버리징 상당 부분 마무리\"\n\"외국인 매도 압력 완화\"\n\"코스피 목표 1만2500 유지\"\n글로벌 투자은행(IB) JP모건이\n최근 코스피 급락의 배경으로 레버리지 상장지수펀드(ETF)에 따른 변동성 확대를 지목했다. 레버리지 ETF 청산은 약 75% 진행된 것으로 분석\n했다.\n21일 JP모건은 '한국 증시 디레버리징 과정 동향' 보고서에서\n\"한국 시장의 기업 펀더멘털(기초체력)은 여전히 견조하지만, 강도 높은 디레버리징(레버리지 축소)이 주가를 끌어내렸다\n\"고 언급했다.\n코스피 지수는 지난 6월 고점(19일, 9385.59) 이후 이날까지 약 28% 떨어졌다. 불과 한 달 만에 상승분 대부분을 반납하면서 단기간에 급격한 조정을 받았다. 이에 대해 JP모건은 \"통상적인 펀더멘털 우려와 순환매로 시작된 조정이\n레버리지 ETF를 통해 증폭됐고 최근에는 헤지펀드의 포지션 청산 양상이 강하게 나타나고 있다\"고 봤다.\n이어 \"지난 1년간 한국 증시가 가파르게 상승하면서 개인투자자와 롱숏(Long-Short·주가가 오를 종목은 사고 주가가 내릴 종목은 공매도하는 투자전략) 헤지펀드, 매크로 펀드 등의 레버리지 자금이 집중됐다\"고 분석했다.\nJP모건은 \"이 과정에서 높은 변동성과 외국인 매도가 나타나며 시장의 자기조정 메커니즘이 작동했다\"고 말했다. 그러면서\n\"레버리지 ETF 청산은 적정 수준으로 판단한 약 180억달러(한화 약 26조5554억원)까지 축소되는 과정의 75%가량이 진행됐으며, 헤지펀드의 디레버리징도 절반 이상 진행된 것으로 추정된다\n\"고 설명했다.\n특히 레버리지 ETF 시장을 최근 증시 변동성을 키운 핵심 요인으로 짚었다. JP모건은 \"한국 자산을 기초로 한 레버리지 ETF 순자산은 6월 말 500억달러(한화 약 73조7550억원)까지 증가해 시장 규모 대비 미국의 약 4배 수준에 달했다\"며 \"이 과정에서 하락장마다 강제적인 디레버리징이 발생했고, 한국 변동성지수(VKOSPI)는 미국 변동성지수(VIX) 대비 약 5배 수준까지 확대됐다\"고 분석했다.\n그러면서 \"최근 시장 조정으로 한국 자산을 기초로 한 레버리지 ETF 규모는 260억달러(한화 약 38조3526억원) 수준으로 감소했다\"며 \"여기에 금융당국의 기본예탁금 상향, 단일종목 레버리지 ETF 신규 상장 중단 등 규제 강화로 추가적인 축소가 이어질 것\"이라고 예측했다.\nJP모건은 헤지펀드의 레버리지도 빠르게 낮아지고 있다고 봤다. JP모건은 \"글로벌 투자자의 한국 주식 투자 확대와 메모리 반도체 종목 쏠림으로 브로커들의 스와프(교환) 공급 여력이 부족했지만 최근 시장 조정으로 이 같은 제약이 상당 부분 완화됐다\"며\n\"JP모건 프라임북 기준 롱숏 비율은 5.5배 이상에서 현재 4배 미만으로 낮아졌다\n\"고 말했다.\n또 \"올해 외국인의 한국 주식 순매도 규모는 1100억달러를 넘어설 것으로 예상되지만 약 90%는 메모리 반도체 종목에서 발생했다\"며 \"최근 메모리주의 비중이 낮아지면서 외국인 매도 압력도 점차 완화되고 있다\"고 분석했다.\n다만\n인공지능(AI)을 중심으로 한 한국 증시의 중장기 전망은 여전히 긍정적으로 평가했다.\nJP모건은\n\"AI 투자와 데이터센터 투자는 여전히 견조하며 메모리 수요 둔화도 아직 실제 시장에서는 확인되지 않고 있다\n\"며 \"산업재와 금융, 소비재 실적 개선과 기업지배구조 개선도 증시에 긍정적인 요인이 될 것\"이라고 말했다. 이어 \"\n한국 주식에 대한 '비중확대(Overweight)' 의견을 유지하며 향후 12개월 코스피 목표치도 1만2500으로 유지한다\"\n고 부연했다.\nJP모건은 지난달 '한국 주식 전략' 보고서에서 제시한 코스피 12개월 목표치를 이번 보고서에서도 유지했다. 당시 JP모건은 기본 시나리오 1만2500, 강세 시나리오 1만5000, 약세 시나리오 8000을 제시해 한국 증시에 대한 낙관적인 전망을 내놓았다.\nhttps://www.hankyung.com/article/2026072170727",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-21T07:19:34+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23762",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23762",
+      "text": "Citi 반도체 설문조사\n1. 반도체 지금 상황이 어떤거 같니?\n1) 매수 / 매도세 과도: 45%\n2) 보유 / 확신이 설 때까지 대기: 35%\n3) 매도 / 추가 하락 여지: 20%\n2. 무엇을 가장 먼저 매수할까?\n1) 메모리: 35%\n2) 반도체 장비(Semi Cap): 35%\n3) HDD: 20%\n4) 기타: 10%",
+      "images": [
+        "https://cdn5.telesco.pe/file/RcqxJ6_--hXMHgLZE0ubmeHD1MvIVhd-qvDdlXdZF2ADDMM1W40wvFsysH5WK5KHl-yBrO936XOMO1AbjvJcmvQQq_fyjBHU0crerGzlzj6be7bEImxad14KN3T1jUVKqdUubsnrSMsa1CfSILGa508rVGEKMLfFnfh_QLelkDHOigC_DAZnuQISRpAIya5wcZkVIESaoXKM4n8ahrZEkjpbdWNUFo-7l0q5oEbeUITzRhgd7-EWO3E4dPOpDtEpetAwryNvAg_mLdWBi3kbYc6LhuqjrpCW9aYcg5C1J4XCEpQKjmgtyki2TitzYyLGHFThtmoOAdb7nZ2IoBX3Lw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-21T07:17:20+00:00"
+    },
+    {
+      "id": "tg:EMchina/31737",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31737",
+      "text": "외교정책 변화 시사\n========================\n~ 20일 홍콩 사우스차이나모닝포스트(SCMP)에 따르면 토미오 오카무라 체코 하원의장은 의원단을 이끌고 5일 일정으로 중국을 방문했다. 체코 고위급 인사의 방중은 친중 성향으로 알려졌던 밀로시 제만 전 대통령이 2019년 중국을 국빈 방문한 이후 처음이다\n~ 이번 방문에는 에너지·기계공학·산업기술 등 분야의 체코 기업 40곳도 동행했다\n~ 오카무라 의장은 직항 노선 확대, 중국 관광객 유치, 체코 국민의 중국 무비자 입국 등을 추진하겠다고 밝혔다\nhttps://n.news.naver.com/article/011/0004643595?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-21T07:07:24+00:00"
+    },
+    {
+      "id": "tg:HI_GS/6735",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/6735",
+      "text": "✈️\nPhilippines Looking At 5 Fighter Jet Suppliers For Air Defense Modernization\n✈️\n필리핀, 공군 현대화 추진 위해 5개 전투기 공급업체 검토\n출처: PAGEONE\n링크:\nhttps://pageone.ph/philippines-looking-at-5-fighter-jet-suppliers-for-air-defense-modernization\n/\n필리핀 국방부(DND) 길베르토 테오도로 장군, 공군력 강화를 위한 다목적 전투기(MRF) 도입 사업 관련 5개 공급 후보업체 검토 중이라 수요일 발표\n주요 후보 기종으로 한국 KAI KF-21 보라매, 스웨덴 사브 JAS-39 그리펜, 미국 록히드마틴 F-16V 바이퍼, 프랑스 다쏘 라팔, 유럽 유로파이터 타이푼 언급\n사업 예산은 600억~1,000억 페소(PHP) 규모로 필리핀군 현대화 3단계(Re-horizon 3) 계획의 일환\n단순히 전투기만 구매하지 않고 조기경보기(AWACS) 및 공중급유기를 포함한 통합 패키지 형태의 기체 및 시스템 도입 희망 표명\n신규 전투기 사업의 본격적인 추진 및 계약 체결 시기는 정부 예산 확보 상황에 따라 결정될 전망 ───────\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-21T07:01:02+00:00"
+    },
+    {
+      "id": "tg:enc210406/4167",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4167",
+      "text": "핀란드 바르질라(wartsila)가\n한국 시간 26년 7월 21일 오후 2시 30분에\n2026년 2분기 실적을 발표했습니다.\n해양(Marine)\n에너지(Energy)\n에너지 저장(Energy Storage)\n세 부문 중\nAI DC향 가스 중속엔진과 연관된\n에너지 부문 실적 내용을 보면,\n신규 수주, 매출, 수익성 모두\n좋았다는 점을 확인할 수 있습니다.\n데이터센터 기저발전용 발전원으로\n중속 왕복엔진의 경쟁력을\n부연하고 있으며,\n주 생산 기지인\nSTH(Sustainable Technology Hub)의\n증설이 완료되는 2029년 1분기부터\n생산 capa가 2025년에 비해\n2.2배 증가할 것이라 전망하고 있습니다.\n선두 업체의 시장 전망과 증설 계획이\n전향적입니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-21T06:12:32+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23761",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23761",
+      "text": "오라클, 위스콘신 데이터센터 담보 부담 최대 70억달러 직면\n: 위스콘신주 공공서비스위원회(PSC)가 데이터센터 전력 공급 관련 강화된 신용 요건 유지 결정\n: 이에 따라 오라클은 최대 70억달러 규모의 금융보증(담보)을 제공해야 할 가능성. 해당 담보를 신용장 등으로 제공할 경우 연간 1억달러 이상 비용 발생 예상\n: 대상은 위스콘신주 포트워싱턴에 건설 중인 약 1GW 규모 데이터센터로 스타게이트 프로젝트의 일부\n: 지역 전력회사 We Energies의 ‘초대형 고객’ 요금제는 S&P 신용등급이 A- 미만인 데이터센터 개발사에 발전·송전 인프라 가치에 상응하는 담보 제공을 요구하며, 당시 오라클의 신용등급은 BBB\n: 오라클은 해당 규정이 과도한 금융 비용을 초래하고 위스콘신 투자 유인을 저해한다며 법원에 규정 무효화를 요청했으나, 규제당국은 재검토를 거부\n: 오라클은 150억달러 규모 프로젝트가 창출할 고용과 경제효과를 고려해 규제당국이 입장을 바꿀 것으로 기대하며, 전기요금 납부자 보호를 위한 필요한 금융보증은 제공하겠다는 입장\n: 이번 결정은 대규모 AI 데이터센터가 충분한 재무 건전성을 입증하지 못할 경우 좌초자산이 될 수 있다는 주정부 규제당국의 우려를 보여주는 사례\n: S&P는 이달 오라클의 신용등급을 BBB에서 BBB-로 강등했으며, 대규모 AI 투자에 따른 수익성 불확실성을 이유로 제시. BBB-는 투자적격등급 최하단으로 투기등급 바로 위 수준\n: 오라클의 신용도 악화는 데이터센터 건설을 위한 수백억달러 규모 프로젝트 금융에도 부담 요인이 될 수 있으며, 월가 은행들은 관련 대출 위험을 분산할 방안 모색 중\n: 현재 미국 24개 주는 데이터센터 등 대규모 전력 소비자를 대상으로 최소 계약기간, 조기 해지 수수료, 담보 제공 등을 규정하는 ‘Large Load Tariff’를 도입했으며, 규제당국은 기존 전기 소비자가 데이터센터 비용을 부담해서는 안 된다는 입장 강조\nhttps://t.me/Samsung_Global_AI_SW",
+      "images": [
+        "https://cdn5.telesco.pe/file/JvkvjdBH_sqFk_MMW4MDu7_-BxguBfyFaD5vqkSm5Kt7maBd5T7B0TQrrMtvZSVsgijqsjg6cxYpj2Xc4pj9xx-vnFUTBFwdZscvNMuDLAQc5ZVK-g5YwCGu2SC71YPrTounyHOPAdu3EjeD82jfBeh3GWtpacMAjlwxz3N-gUkK5XhJnCSh_ienm_w78z4KsXEB7C_s4EgRtnd7NNFXDOq-NX9BflIRjx5XMdFHrKAcpbOqCNDLHQTot3k7-G5bWPI2IVs8sTgE7RwtciwgO-1Avz1EUb_AUmSaOD71XL-c4WfEXXDXUaa_ck4qXI7yNESCe7Lmu_AhnXPpZI4DkA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-21T06:10:31+00:00"
+    },
+    {
+      "id": "tg:enc210406/4166",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4166",
+      "text": "[바르질라 2Q26 실적발표 中 에너지부문]\n1. 에너지 부문 실적 하이라이트\n▶\n매출\n- 580백만유로(MEUR)로 전년 동기 대비 10% 증가\n▶\n수주(Order Intake): 역대 최고 기록 달성\n- 1,661백만유로(MEUR) 기록, 전년 동기 대비 82% 증가(유기적 성장 86%).\n- 장비(Equipment) 수주 120% 급증, 서비스 수주 4% 증가\n▶\n수주잔고 및 수익성 개선\n- 2025년 초 이후 에너지 장비 수주잔고 2배 이상 증가\n- 에너지 장비 수주잔고 마진율(Gross margin) 500bps(5%p) 이상 개선\n- 에너지 부문 조정 영업이익(Comparable operating result) 90백만 유로 기록(전년동기 76백만유로 대비 증가)\n2. 에너지 시장 트렌드 및 수요 동인\n▶\n전력 수요 급증\n- 전세계 전력 수요 예측치가 기존 대비 45% 상향 조정되어 모터/엔진 기반 장비 공급업체에 큰 기회 제공\n- 기저발전(Baseload)과 함께 신재생에너지 간헐성을 보완할 전력 균형(Balancing power) 수요 지속 성장\n▶\n데이터 센터(Data Center) 수요 폭발\n- 데이터 센터 구축 속도 가속화에 따른 reliable한 현장 전력(Off-grid 전력) 수요 급증\n- BloombergNEF 분석 기준, 왕복동 엔진(Reciprocating Engine)은 터빈·연료전지 대비 데이터 센터용 가스 발전 기술 중 가장 우수한 경제성(LCOE), 높은 효율, 낮은 용수 소비, 우수한 친환경성 보유\n▶\n주요 수주 계약 사례\n- 미국 텍사스 데이터 센터: 790MW 규모 오프그리드 발전 솔루션(Wärtsilä 50SG 엔진 42대 공급)\n- 미국 오하이오 데이터 센터: 하이퍼스케일 데이터 센터용 412MW 규모(Wärtsilä 34SG 엔진 40대 공급)\n- 브라질 전력망: 전력 수급 균형(Balancing power)을 위한 185MW 규모 전력 솔루션 수주(브라질 리저브 용량 입찰 관련)\n3. 탈탄소화 및 수소/친환경 기술 성과\n▶\n세계 최초 100% 수소 엔진 실증 성공\n- 스페인 베르메오(Bermeo)에서 100% 순수 수소 작동 대형 수소 엔진(Wärtsilä 31)을 통해 스페인 국가 전력망 전력 공급 시험 구동 완료\n- 향후 AI 데이터 센터 및 에너지 집약적 산업의 탈탄소화 전력 공급원으로 활용 예정\n4. 생산 능력 확충 및 투자 계획\n▶\nSTH 생산 능력 확대 투자\n- 에너지 및 해양 부문 수요 증가 대응을 위해 핀란드 바사(Vaasa) STH(Sustainable Technology Hub) 및 글로벌 공급망 기술 생산 능력 30% 추가 확장(약 9천만 유로 투자 결정)\n- 2029년 1분기 완전 가동 시 운영 생산 능력 2025년 대비 약 2.2배 확대 예정\n5. 에너지 사업 구조 개편(Energy Storage)\n▶\n에너지 저장 장치(Energy Storage) 부문 매각 절차 진행\n- 2026년 6월, 에너지 저장 장치 부문을 중단 사업(Discontinued operations) 및 매각 예정 자산으로 분류\n- Energy Storage 장기 경쟁력 강화를 위해 RCT Solutions GmbH와 50:50 합작법인(Joint Venture) 설립 계약 체결(2026년 6월 15일)\n(※ 거래 최종 종결(Closing)은 2026년 3분기 중 완료 예정)",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-21T06:00:47+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23760",
       "source": "telegram",
@@ -365,32 +519,6 @@
       "published_at": "2026-07-21T01:56:50+00:00"
     },
     {
-      "id": "tg:bornlupin/19197",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19197",
-      "text": "* 7월 1~20일 DRAM 수출단가: 선형적/구조적 상승세 가속 재점화",
-      "images": [
-        "https://cdn5.telesco.pe/file/aDXruNl2M-QEsmVDtHFpU_YAMJ_kJUeIG09GdXOjihuJlY-GWxxOxP2GRnv54GabwMJ1OYxVsp36HHw-0AfdjiR1qN6Wa6XtDWBNvPmVX-c1Y125p84eomh-G4X9oxL5Ezz6MbJG_yodmhx8K7M6Sw0cyyDIgXpG6DNEYzkKX--4fwecIrKjUJaITw5TjL0-WDfojssqm_xkKMUC1HO7HNjC1URQTxxojzLfX5hotLqXv9z0Zck8kjdJ6XrZ_Gp6taHnLmQew1dVAdDeKqiClXlrboRQkpJ795-5mWoJMEeCFcopkB5Ij-_1oZ2zUT_s4rLodWYBAeM3DWimdlQp4w.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-21T01:35:51+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19196",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19196",
-      "text": "전 웨스턴 디지털(Western Digital) 이사이자 현 ARM 상무(Senior Director)의 메모리 시장 전문가 콜 주요 내용:\n현재 메모리 상승 사이클의 독특한 특성\n1. 현재 메모리 상승 사이클(Upcycle)의 독특한 특성\nAI 데이터센터 확장\n: 범용 상품(Commodity) 중심이었던 과거 사이클(2017~2018년, 2021~2022년)과 달리,\n이번 상승 사이클은 아마존, 마이크로소프트, 메타 등 하이퍼스케일러들의 지속적이고 수년간에 걸친 AI 데이터센터 구축이 독보적으로 이끌고 있습니다.\n사이클 주기 연장\n:\n과거 사이클은 보통 18개월마다 전환되었으나, 이번에는 강력한 수요와 공급 제약으로 인해 공급업체들의 2027년 물량까지 대부분 매진된 상태\n입니다. 신규 팹(Fab)이 가동되는 2028년경에야 시장 완화가 이루어질 것으로 보입니다.\n2. 메모리 대역폭 및 용량 제약 (학습 vs 추론)\n학습(Training) 단계\n: 조 단위 파라미터 모델을 지원하기 위한 HBM, LPDDR, 저장장치 수요는 여전히 견조하지만, 모델 제작의 기본 틀은 점차 정착되는 추세입니다.\n추론(Inference) 및 에이전트(Agentic) 환경\n:\n추론은 주요 매출 동인(마이크론의 실적이 대표적 예시)이자 '토큰 이코노미'의 핵심입니다.\n다중 사용자 에이전트 시스템이 확장됨에 따라 더 빠른 토큰 생성 수요가 폭발\n하고 있으며, 이는\nGPU 연동 HBM과 CPU 제어 LPDDR 대역폭 모두에서 높은 수요를 일으키는 이중 호재(Double Whammy)를 형성\n하고 있습니다.\n3. 공급 성장, 점유율 및 경쟁 환경\n현재 시장 점유율\n:\nHBM 점유율\n: SK하이닉스가 약 58~60%로 시장을 선도하고 있으며, 삼성전자와 마이크론이 각각 약 20%를 차지합니다.\nDRAM 점유율\n: 삼성전자가 전체의 약 40%로 1위이며, SK하이닉스(30%), 마이크론(20%), 기타/중국 업체(10%)가 뒤를 잇고 있습니다.\n전략적 물량 배분\n: 메모리 업체들은 스\n마트폰과 PC 시장의 공급 부족으로 수익성이 높아진 LPDDR 생산 능력을 HBM과 균형 있게 배분하고 있습니다.\nCXMT의 위협\n: 중국 CXMT는 구공정 및 LPDDR 제품 중심으로 한 자릿수 점유율을 확보할 것으로 예상되며,\n주로 내수 데이터센터와 중국 스마트폰 브랜드(샤오미, 비보, 오포)를 타깃으로 하고 있습니다.\n4. 장기 공급 계약(LTA) 및 가격 전망\nLTA 방식의 변화\n:\n데이터센터 고객사들은 물량 확보를 위해 3년 또는 5년 장기 공급 계약(LTA)을 추진\n하고 있으며,\n이에 따라 메모리 업체들은 과거 1년 단위 계약 시절보다 훨씬 강력한 가격 결정권을 갖게 되었습니다.\n가격 추이\n:\nHBM/DRAM/NAND\n: 공급 제약으로 인해 2026년과 2027년까지 가격 상승세가 이어질 것이라는 게 전반적인 시각입니다.\nHBM 가격 추이\n: 스택당 혼합 평균판매단가(ASP) 기준, HBM3E는 2026년 약 330~360달러로 추정됩니다. 2027년 HBM4 도입 시 약 500달러까지 상승했다가, 공급이 늘어나는 2028년에는 HBM4E 기준 약 450달러로 소폭 조정될 것으로 예상됩니다.\n5. 기업별 전망 및 긍정적 요소\nSK하이닉스\n: HBM 시장 리더십에 대해 높은 평가를 받고 있으나, 차세대 제품에서 로직 다이(Logic Die)를 통합하는 과제가 향후 경쟁의 핵심 분수령이 될 것입니다.\n삼성전자\n: 자체 로직 파운드리(삼성 파운드리)를 보유해 수익성과 가격 경쟁력 면에서 구조적 우위를 갖고 있으며, 이를 바탕으로 2027~2028년 시점에 HBM 점유율을 일부 회복할 가능성이 긍정적으로 평가됩니다.\n마이크론\n: 약 20%의 안정적인 시장 점유율을 유지하면서, 현재의 공급 부족에 따른 고마진 수혜를 지속적으로 누릴 것으로 예상됩니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T01:34:22+00:00"
-    },
-    {
       "id": "tg:globaletfi/20702",
       "source": "telegram",
       "author": "globaletfi",
@@ -427,47 +555,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-21T01:10:39+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23750",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23750",
-      "text": "JP모건) 델타원 플로우 및 포지셔닝\n반도체 저가 매수; 한국 사상 최대 ETF 자금 유입; 선물은 리스크 축소, ETF는 매수; CTA는 에너지 매수, 주식 축소\n본 자료에서는 자산군 전반에 걸쳐 글로벌 선물 및 미국 상장 ETF의 플로우와 포지셔닝 지표를 분석합니다.\n주간 하이라이트\n메모리/반도체가 지난주에도 주식 부문의 지배적인 테마였습니다. SOXX/SOXL/DRAM에서 강한 매수세가 나타났고, 한국은 사상 최대 규모의 주간 순유입을 기록했습니다. 선물과 ETF는 서로 다른 방향을 보였습니다. 주식 선물은 시장 약세 속에 대규모 순매도(-1.6z, NDX 주도)를 기록한 반면, 주식 ETF는 여전히 평균을 다소 상회하는 유입을 나타냈습니다. 금리 쪽에서는 채권 ETF 유입이 부진했음에도 채권 선물에서 강한 순매수(1.5z)가 나타났습니다. 휘발유 선물은 중동 긴장 재고조로 매수세(약 3z)를 받았습니다. CTA는 주식 익스포저를 축소하고 에너지 선물을 매수한 것으로 보입니다.\nETF 플로우: 주식은 평균을 상회하는 유입(322억 달러, 0.4z)을 기록했고, 채권은 부진한 유입(81억 달러, -0.8z), 원자재는 대체로 보합, 통화/멀티에셋은 평균에 가까운 유입(5억 달러, 0z)을 나타냈습니다.\n지역별로는 미국(216억 달러, 0.3z)이 평균을 소폭 상회하는 유입을 보인 반면, 인터내셔널 선진국(60억 달러, -0.2z)은 평균을 소폭 하회했습니다. 약 4개월간의 수요 둔화 이후, 한국은 사상 최대 유입(33억 달러, 4.9z)을 기록했으며 대부분 EWY로 유입되었습니다.\n주식 섹터에서는 투자자들이 반도체 저가 매수에 나서면서 테크가 다시 선두를 차지했습니다(66억 달러, 3.1z / SOXX 42억 달러, SOXL 19억 달러 유입). 금융(14억 달러, 1.5z) 역시 지난주 은행 실적 발표 기간 중 강한 유입을 기록했습니다. 산업재(-1.3z), 소재(-1.3z), 리츠(-0.9z)에서는 뚜렷한 유출이 나타났습니다.\n주식 스타일에서는 로우볼(1z)이 견조한 유입을 기록한 반면, 그로스(-0.7z)는 유출을 보였습니다. 옵션 기반 전략은 콜 라이팅(16억 달러, +1.3z)과 디파인드 아웃컴(9억 달러, +2.1z) 모두에서 강한 유입을 기록했습니다. 다만 디파인드 아웃컴의 절반 남짓은 HELO로 유입되었으며, 이는 커스텀 인카인드 바스켓 리밸런싱과 연관되었을 가능성이 있습니다. 테마형은 지난주 언급했던 ARK CIB의 환매 부분에 기인해 헤드라인상 대규모 유출을 기록했으나, 이를 제외하면 테마형 플로우는 평균 수준이었으며 DRAM으로의 18억 달러 유입이 이를 주도했습니다.\n레버리지 ETF는 반도체 저가 매수에 활용되었습니다. SOXL로 약 19억 달러, TQQQ/KORU로 합산 약 7억 달러가 유입되었고, 인버스 펀드인 SQQQ/SOXS에서는 합산 약 4억 달러가 유출되었습니다. 다만 이러한 흐름은 레버리지 개별종목 상품의 유출(-8억 달러, -1.3z)로 부분적으로 상쇄되었으며, NVDA/TSLA/MU/SNDK 관련 상품의 환매가 이를 주도했습니다.\n채권에서는 인터내셔널 본드(16억 달러, 1z)가 강한 유입을 기록했습니다.\n원자재에서는 귀금속이 완만한 유출(-0.3z)을 기록했으며, 금(-5억 달러)에서 은(3억 달러)으로의 로테이션이 나타났습니다.\n선물 플로우: 지난주 RTY, MID, FTSE 대만, 독일 10년/30년, 영국 10년, 휘발유, TTF 천연가스 선물에서 대규모 순매수(1.5z 초과)가 나타났고, NDX, 보베스파, BIST 30, CSI 300/500/1000, SONIA, 난방유 선물에서 대규모 순매도(-1.5z 미만)가 나타났습니다.\nCTA는 시장이 하락하고 변동성이 확대되면서 전주 대비 주식 롱을 축소한 것으로 보이나, 여전히 글로벌 주식(중국 제외)에 대해 대체로 롱을 유지하고 있는 것으로 판단됩니다. 이란 긴장 고조 헤드라인으로 가격이 상승하면서 에너지 선물을 매수한 것으로 보입니다. CTA의 포지셔닝은 글로벌 금리, 귀금속, 달러 대비 글로벌 통화에 대해 여전히 숏, 농산물에 대해서는 롱을 유지하고 있는 것으로 보입니다.\nCFTC 포지셔닝: 자산운용사(Asset Managers)는 전주 대비 SPX, NDX, MID 선물을 약 1z 매도했고, 레버리지 펀드(Leveraged Funds)는 RTY, NDX, EM을 약 1z 매도했습니다. 매니지드 머니(Managed Money)는 브렌트유 롱을 확대(1.9z)하고, 미국 천연가스 숏을 확대(-1.9z)했으며, 밀 숏을 커버(+1.6z)했습니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/E_8PGCguS_u1trqpkcIW0_k3MhhWCtV8mg-qPt6jFPjvcQLCAyinrOAlkFbEaydLv2hVpBuQmsKRJDmfLUZ-d4Pa46d5VyJ5YapwzuvV9uqA9rqNIio8zOEpqWDjn-Cftxi9aoxlZHkPmQ5E4cQjTVe-tRaPsCZcJ73eP6J_Cxpi4vF9PHOHxR0TndpFMP-rakpLry5bsj5trJ_Q19dBJrmZQ1A8P4mt6HP51gUp3Qo9PrHE4B1o0U8xomLtic5dMiBGEZcJunsIpRNWSBE0AoWbtgIJdd3ua4imLQxMYjp6ebmhToj6y_MT0_HhN-dfWzNaGD-eMlUGthw4gwnf7g.jpg",
-        "https://cdn5.telesco.pe/file/lXFbqiusFSgQllkVqb0bHZ3zvvt9iOotnJUoUY1reyJn0EcIuDFoKGAOeZ4eMFhsDYTVkapqxOyHGex4fd8gubo0flZzbnwbmEjBdxVMWNe5jxLDU1AMAQVB6XAki3DXDX34N6TSZwcoUA04C4CWZApfPEn8Gp4-6WTntKLPsuISOHRDfr4bOgZtWJcx5Gmv-FHae0KxsUhvyBsfQgE7-kvPlFlrmwfpQJfpYddIUve_pIbEZV0_kyuQpr1Nd9ApBXZdlId8bJE_Xjz158EnJrkRuQ3aQO5jUHOdK7y0GSlhl6zrYElDy8s2n6pwD5y9AFLt7MfuB2y3xlGXE79Gtw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-21T01:09:51+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23749",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23749",
-      "text": "\"한국 사람들은 진짜 클래스가 다르네.\"",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T00:37:16+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23748",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23748",
-      "text": "\"한국 사람들은 진짜 클래스가 다르네.\"",
-      "images": [
-        "https://cdn5.telesco.pe/file/f4JVjfORtMeX_uu_WMaBc-ycKHvoLT6nGuHcq_MS-F4Xn7_uIRoWk8rG-Mihh1-noNWxWT2VnJ4Hx3l-iTE1u2yDvWszINFGktXVyr3VVv55C-lPPYXGHijXdBq94Q3QY4JQPP5xU9oqS73vFvBYqo8YuVbLqWhZTRQJQJfNe4pyEzyhvLHvUM1F3K05MgroCRJ7D6DkMPH7SOKYIAqLniCM55VpPgkVV2uXXgxL-h9XFuAi1s3shBJwgNS6IvkuB--uDCOs1xEuG22pxkH9nzrhfHbnuz6UezWQu6e9HkD5P088Hs5r8UPRI5I6Kvr213YwVWrAlvs8rgD_bG_KEA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-21T00:36:14+00:00"
     },
     {
       "id": "tg:EMchina/31729",
@@ -696,42 +783,6 @@
       "published_at": "2026-07-20T22:02:59+00:00"
     },
     {
-      "id": "tg:EMchina/31727",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31727",
-      "text": "미중은 안 친해집니다  ==========================  ~ 은하계획은 토큰 운영센터 1곳을 공동으로 건설하고 중국산 AI 연산 그래픽카드 1만장급 지능형 컴퓨팅 클러스터 5곳을 세운다는 목표를 내세웠다  https://n.news.naver.com/article/001/0016204637?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-20T21:54:34+00:00"
-    },
-    {
-      "id": "tg:EMchina/31726",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31726",
-      "text": "[한투증권 중국/신흥국 정정영]   • 홍콩에 어떤 변화가?   >> 글로벌 증시 변동성이 커지는 가운데, 그동안 성과가 부진했던 홍콩 주식시장은 견조한 흐름을 보이고 있습니다. 상반기 약했던 본토 자금의 홍콩주식 순매수세가 다시 강화되고 있습니다. 2분기 경제성장률이 시장 예상을 하회했으나 하반기 빨라질 재정지출 및 지방정부 특수채권 발행 속도가 내수 경제를 지지할 것으로 전망합니다. 홍콩 증시 반등을 이끄는 섹터는 헬스케어와 경기소비입니다.   ==…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-20T21:48:44+00:00"
-    },
-    {
-      "id": "tg:EMchina/31725",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31725",
-      "text": "'관세' 바라기  ========================  ~ 트럼프 대통령은 한국시간 18일 새벽 자신의 소셜미디어 트루스소셜에 \"캐나다가 자국의 산림과 덤불을 적절히 관리하지 않고 있다는 점에 대해 책임을 묻고 있다\"며 \"미국은 불필요하게 더럽고, 오염됐으며, 건강에 해로운 공기의 침입을 받고 있다\"고 밝혔습니다  ~ 또 \"공기의 질은 위험하며 전적으로 받아들일 수 없는 수준\"이라며 \"오늘 중 총리에게 전화해 이 문제에 대해 무엇을 할 것인지 알아볼…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-20T21:21:39+00:00"
-    },
-    {
       "id": "x:OpenAI:2079289658622738481",
       "source": "x",
       "author": "OpenAI",
@@ -854,7 +905,7 @@
       "url": "https://t.me/enc210406/4161",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 7월 20일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/K40I1EjC63X_B4d4Muzgq2qmCO33V5kW13antWMw7c2JX4TuF_8VsUvbyvl8UFsAdm672LI-qxzcsWOpj7OFwhBc3q21XsbdJaBlMZ6p_u8h7dfSZzKlAkWY2emwXjZlQvKUdjHQ8vh6DqpDH-lP-UzFwEWHBEYRltlIlnIKBUELuqGqyIdKtY6y2Pjf27NCA7UQ4xlka524WRkDW70eP8LOsMF0yS90y7BTnWsdsKEgcDlaAW5vxyeNiQ5s2M8BUdeXHzXDOR0e2h9iyKtYbBkNqKipI5Bz6DWAZYrPoH6cnq6lS02DUTuRGlpb1q8uXXHeNqvRDcYMb8GZNK-kDQ.jpg"
+        "https://cdn5.telesco.pe/file/ZHETaeshGS8k2O4fHqma0ZVbTgA9BnrgofX3TNLLLLRdTgsim2ERfP1YXbU4RlTR7lKlFcTZE30bXOtmvurfM3iYyMLsYvVgIqVvVTW8HqY1EpcFTwiQAaBLYXGLBHPW1aQuUm2-_eVCED-VJ05wlpoK4BXtFCKs1hYNRZ-kgmr_cOeHinYFWyFBDMQbdhMKjTERhTCTTDOwgT5En0J8RmOlVyGSTPrzgBN5iB6ZLv5J1BsUyD4lmFCFYS0cyw_zcVRUKy2wH9VMQx7FXx78zojsZzGEv8G8tkXIygsKU0uAidXmVM2EyvXBT1RNYpQaGyCKvRc2QTtWsuHUeX4s6A.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-20T07:29:03+00:00"
@@ -894,18 +945,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-20T06:25:26+00:00"
-    },
-    {
-      "id": "tg:HI_GS/6722",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/6722",
-      "text": "[LIG D＆A, 중남미 대표사무소 개소…페루 함정시장 공략]\n• LIG D＆A가 페루에 중남미 대표사무소를 개소하며 현지 밀착형 마케팅 및 기술 지원 체계 구축\n• 기존 콜롬비아 사무소와 연계해 중남미 지역 방산 수요 대응 및 영업망 확대 추진\n• 2024년 페루 해군 3,400톤급 호위함 및 2,200톤급 원해경비함용 전투체계·전자전·데이터링크 장비 공급계약 체결 전력 보유\n• HD현대중공업과 함께 페루 해군 현대화 사업의 핵심 파트너로 입지 강화 및 후속 군수지원 추진\n❗️\nHD현대중공업과의 페루 함정 사업 협력에 이어 현지 거점을 확보하며 중남미 함정 장비 및 후속 군수지원 시장 공략 본격화\n출처: [연합뉴스]\nURL:\nhttps://www.yna.co.kr/view/AKR20260720068600003?section=industry/all\n─────────────────────\n🎴\n암… 현대가 배 만들어주면\n유도탄 리그꺼 넣어야쥐!",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-20T02:36:01+00:00"
     },
     {
       "id": "tg:enc210406/4160",
@@ -1104,42 +1143,6 @@
       ],
       "summary_ko": "RT by @yleun: 트럼프 대통령이 지난 5개월 동안 이란과의 전쟁이 곧 끝날 것이며 이란인들이 “너무나 심하게” 협상을 하고 싶어한다고 말한 몽타주는 다음과 같습니다.",
       "published_at": "2026-07-18T18:15:54+00:00"
-    },
-    {
-      "id": "tg:enc210406/4156",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4156",
-      "text": "[한화 필리 조선소 & TOTE 서비스]\n출처: 한화 필리 조선소 공식 보도자료\n• 미 미사일 방어청 선박 건조 계약 수주\n@ 계약 개요\n- 사업비: 20억 달러\n- 수량: 2척\n- 함종: 미사일 추적 선박(MRIV: Missile Range Instrumentation Vessels)\n@ 선박 정보\n- 선박명: Golden Defender\n- 목적: 50년 된 노후 선박 Pacific Tracker와 Pacific Collector를 대체\n- 임무: 태평양 상공에서 미사일 요격 시험을 관찰하고, 임무에 중요한 데이터를 수집하며, 사격장 안전 운영을 지원하는 첨단 추적 능력 제공\n- 연계 프로그램: Golden Dome 미사일 방어 시스템 지원\n- 설계 기반: 현재 한화 필리 조선소가 미국 해사청(MARAD)을 위해 건조 중인 국가안보 다목적 선박(NSMV: National Security Multi-Mission Vessel) 설계 기반\n@ 역할 분담\n- TOTE Services: 선박 건조 관리자(VCM: Vessel Construction Manager) 역할 수행\n- 한화 필리 조선소(HPSI): 필라델피아 조선소에서 실제 선박 건조 담당\n- TOTE Services는 이미 미 교통부 해사청에 4척의 NSMV를 정시·예산 내에서 인도했으며, 2027년에 5번째 선박을 인도할 예정\n@ 한화 필리 조선소 배경\n- 소유: 한화시스템과 한화오션이 2024년 필리 조선소를 인수\n- 변화: NSMV 프로그램을 통해 수십 명의 근로자만 있던 휴면 조선소에서 현재 강력한 국가 안보 자산으로 변모\n- 향후 계획: 한화는 미국 조선업 부흥을 위해 최종적으로 50억 달러 투자 계획\n@ 발표 시점\n- 2026년 7월, Lone Star State NSMV 명명식(christening ceremony) 중\n- 션 더피(Sean P. Duffy) 미 교통부 장관과 러셀 보트(Russell Vought) 백악관 관리예산처(OMB) 국장이 공식 발표\n@ 계약의 의미\n- 트럼프 행정부의 “미국 해양 지배력 회복” 행정명령의 일환\n- 미국 조선업 부흥 노력의 핵심 프로젝트\n- 한화의 미국 방산 시장 진출 확대\n- 기존 NSMV 건조 실적(정시·예산 내 인도)을 바탕으로 한 추가 수주\nhttps://hanwhaphillyshipyard.com/hanwha-philly-shipyard-tote-services-selected-to-build-u-s-missile-defense-agencys-missile-range-instrumentation-vessels/",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-18T04:05:21+00:00"
-    },
-    {
-      "id": "tg:enc210406/4155",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4155",
-      "text": "[한화 필리조선소 미사일계측함 수주]\n- 한화 필리조선소가 미국 선박 관리 기업인 토트서비스(TOTE Services)와 함께 MRIV 건조 업체로 선정됐다고 밝혔다.\n- MRIV는 미사일 시험 발사 시 속도·고도·궤적 등을 추격하고 데이터를 수집하는 역할을 수행하는 선박을 가리킨다.\n- 한화 필리조선소가 MRIV 선박 건조를 담당하고, 토트서비스는 선박 건조 관리(VCM) 역할을 맡게 된다.\n- 이번에 새롭게 건조되는 선박은 미국의 미사일 방어 체계 구축 프로젝트인 ‘골든 돔(Golden Dome)’의 일환이다.미국은 현재 MRIV로 1965년에 건조된 퍼시픽 트래커호와 1970년에 건조된 퍼시픽 컬렉터호를 운영하고 있다.\n- 한화 필리조선소는 이를 대체할 신형 MRIV ‘골든 디펜더’ 두 척을 건조하게 된다.\n- 첫 번째 MRIV는 2030년 인도될 예정이다.\n- 이날 발표는 한화 필리조선소에서 진행된 다목적 훈련함(NSMV) ‘론 스타 스테이트’호 명명식에서 이뤄졌다.\n- 명명식에 참석한 러스 보트 미 백악관 예산관리국 국장은 이번 사업 투자 규모를 20억달러(약 3조원)라고 밝히며\n- “한화 필리조선소와 토트서비스가 최신 미사일 계측함인 ‘골든 디펜더’를 건조하는 계약 체결을 발표하게 돼 영광”이라며\n- “이 새 선박은 미국의 해양 지배력을 회복하려는 대통령의 정책을 지원할 뿐만 아니라, 미국 전체를 아우르는 대통령의 ‘골든 돔’ 미사일 방어 시스템을 지원할 것”이라고 했다.\nhttps://n.news.naver.com/article/023/0003988289?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-18T03:56:58+00:00"
-    },
-    {
-      "id": "tg:enc210406/4154",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4154",
-      "text": "트럼프 대통령: 한화 필리조선소 Golden Defender 건조 승인\n- MASGA 외 미군 Golden Dome 방공망 프로젝트까지 협업 확대\n- 기존 다목적 함정 디자인을 Missile Monitor Ship 으로 변경 활용\n- 한화 Defense USA CEO : 연간 건조 캐파 3척 > 10-20척 확장 시사\nWASHINGTON — Hanwha Philly Shipyard will construct a new missile range instrumentation vessel, dubbed Golden Defender to support the Pentagon’s Golden Dome missile shield system, the head of the Office of Management and Budget said today\n.\n“This new ship will not only support the president’s policies of restoring American maritime dominance, but also support the president’s Golden Dome missile defense system over the entirety of our nation,” Vought said.\nhttps://breakingdefense.com/2026/07/new-golden-defender-missile-monitor-ship-to-be-built-at-hanwha-philly-shipyard/",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-18T03:00:30+00:00"
     },
     {
       "id": "x:sama:2078244242993164716",
