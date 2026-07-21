@@ -1,22 +1,130 @@
 {
-  "updated_at": "2026-07-21T17:19:46+00:00",
+  "updated_at": "2026-07-21T19:22:34+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 16
   },
   "briefing": {
     "headline": "구글, 제미니 3.6 출시",
     "bullets": [
       "제미니 3.6, 입력 토큰 100만 개당 1.50달러",
-      "TSMC, 2027년 파운드리 가격 최대 10% 인상",
-      "OpenAI, 'ChatGPT Work' 출시 후 AI 에이전트 사용자 1,000만 명 돌파",
-      "삼성전자, AI 기반 헬스 어시스턴트 공개",
-      "미국·중국, 오는 9월 AI 회담 개최 예정"
+      "중국 문샷AI, 기업가치 500억 달러로 IPO",
+      "삼성전자, AI 헬스 어시스턴트 공개",
+      "미국·중국, 9월 AI 회담 개최 예정",
+      "이란 혁명수비대, 아마존 데이터센터 공격"
     ],
-    "generated_at": "2026-07-21T17:19:46+00:00",
+    "generated_at": "2026-07-21T19:22:34+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:OpenAI:2079647256941412817",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2079647256941412817",
+      "text": "R to @OpenAI: We had guessed reward seeking might increase over the course of capabilities-focused RL training, but had no way of measuring it until now. We’re continuing to collaborate with Apollo Research to improve how reward-seeking is measured during training—and better detect whether models are doing the right thing for the right reason.",
+      "images": [],
+      "summary_ko": "R에서 @OpenAI로: 우리는 기능 중심의 RL 교육 과정에서 보상 추구가 증가할 수 있다고 추측했지만 지금까지는 이를 측정할 방법이 없었습니다. 우리는 훈련 중에 보상 추구를 측정하는 방법을 개선하고 모델이 올바른 이유로 올바른 일을 수행하는지 더 잘 감지하기 위해 Apollo Research와 계속 협력하고 있습니다.",
+      "published_at": "2026-07-21T19:18:38+00:00"
+    },
+    {
+      "id": "x:OpenAI:2079647254701634028",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2079647254701634028",
+      "text": "R to @OpenAI: Contrastive SDF gives copies of the same model opposing beliefs about what the grader prefers, then measures how their behavior changes.",
+      "images": [
+        "https://pbs.twimg.com/media/HNxjtRZbUAA71aa.jpg"
+      ],
+      "summary_ko": "R에서 @OpenAI로: Contrastive SDF는 채점자가 선호하는 것에 대한 믿음에 반대되는 동일한 모델의 복사본을 제공한 다음 행동이 어떻게 변화하는지 측정합니다.",
+      "published_at": "2026-07-21T19:18:38+00:00"
+    },
+    {
+      "id": "x:OpenAI:2079647253191619001",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2079647253191619001",
+      "text": "R to @OpenAI: Reward hacking asks: did the model exploit the reward? Reward-seeking asks: was grader approval what motivated the model’s choice? The second is potentially more important for generalization, because behavior can change when beliefs about the grader change.",
+      "images": [
+        "https://pbs.twimg.com/media/HNxaQNgaIAEnl0R.jpg"
+      ],
+      "summary_ko": "R에서 @OpenAI로: 보상 해킹이 묻습니다. 모델이 보상을 활용했습니까? 보상 추구 질문: 모델 선택의 동기는 등급자의 승인이었습니까? 두 번째는 일반화에 잠재적으로 더 중요합니다. 왜냐하면 채점자에 대한 믿음이 바뀌면 행동도 바뀔 수 있기 때문입니다.",
+      "published_at": "2026-07-21T19:18:37+00:00"
+    },
+    {
+      "id": "x:OpenAI:2079647251677536324",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2079647251677536324",
+      "text": "We’re sharing new research with @apolloaievals on reward-seeking—when models follow what they believe a grader rewards rather than what users or developers want—and a new method, Contrastive SDF, for measuring how strongly such beliefs shape behavior. https://alignment.openai.com/measuring-reward-seeking/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2079628151785930752/mSVQe3jk?format=jpg&name=800x419"
+      ],
+      "summary_ko": "우리는 보상 추구(모델이 사용자나 개발자가 원하는 것보다 채점자가 보상한다고 믿는 것을 따를 때)에 대한 새로운 연구와 그러한 신념이 행동을 얼마나 강력하게 형성하는지 측정하기 위한 새로운 방법인 Contrastive SDF를 공유하고 있습니다. https://alignment.openai.com/measuring-reward-seeking/",
+      "published_at": "2026-07-21T19:18:37+00:00"
+    },
+    {
+      "id": "x:GoogleAI:2079617029473182132",
+      "source": "x",
+      "author": "GoogleAI",
+      "author_name": "Google AI(구글 AI)",
+      "author_url": "https://x.com/GoogleAI",
+      "url": "https://x.com/GoogleAI/status/2079617029473182132",
+      "text": "As AI models are now finding vulnerabilities faster than we can fix them, our approach to securing software must be built on highly efficient and capable models. Which brings us to our third (!) model launch of the day: Gemini 3.5 Flash Cyber ⚡🛡️ Built on top of 3.5 Flash, in CodeMender (our AI agent for code security) it delivers competitive performance at the frontier. on benchmarks like CyberGym and is optimized for finding and fixing cybersecurity vulnerabilities at scale at a lower cost. Given the dual-use nature of this technology, we have taken an intentional approach to its deployment. The model will be available exclusively to governments and trusted partners via CodeMender soon as part of a limited-access pilot program.",
+      "images": [
+        "https://pbs.twimg.com/media/HNxIl3VaAAATPRu.png"
+      ],
+      "summary_ko": "AI 모델은 이제 우리가 수정하는 것보다 더 빨리 취약점을 찾아내고 있으므로 소프트웨어 보안에 대한 우리의 접근 방식은 매우 효율적이고 유능한 모델을 기반으로 구축되어야 합니다. 오늘의 세 번째(!) 모델 출시는 다음과 같습니다: Gemini 3.5 Flash Cyber ​​⚡🛡️ 3.5 Flash를 기반으로 구축된 CodeMender(코드 보안용 AI 에이전트)는 최전선에서 경쟁력 있는 성능을 제공합니다. CyberGym과 같은 벤치마크에서 사용되며 저렴한 비용으로 규모에 맞게 사이버 보안 취약성을 찾아 수정하는 데 최적화되어 있습니다. 이 기술의 이중 용도 특성을 고려하여 우리는 배포에 대해 의도적인 접근 방식을 취했습니다. 이 모델은 제한된 액세스 파일럿 프로그램의 일환으로 곧 CodeMender를 통해 정부 및 신뢰할 수 있는 파트너에게만 독점적으로 제공될 예정입니다.",
+      "published_at": "2026-07-21T17:18:31+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2079615466356580535",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2079615466356580535",
+      "text": "Gemini 3.6 Flash builds directly on feedback from 3.5 Flash. Watch how it compares on quality and token usage ↓",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2079614096748564480/img/pE7EXoMbaLW-5bI1.jpg"
+      ],
+      "summary_ko": "Gemini 3.6 Flash는 3.5 Flash의 피드백을 직접 기반으로 구축되었습니다. 품질과 토큰 사용량을 비교해보세요 ↓",
+      "published_at": "2026-07-21T17:12:19+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2079615468294320365",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2079615468294320365",
+      "text": "R to @GoogleDeepMind: It’s much better at writing production-ready code faster without getting stuck in loops. Plus, it excels at multimodal tasks like analyzing charts, understanding documents, and report drafting. 3.6 Flash is rolling out in the @GeminiApp and developers can start building in @Antigravity, with API access in @GoogleAIStudio and @AndroidStudio. Find out more → https://goo.gle/4yyNkoi",
+      "images": [
+        "https://pbs.twimg.com/media/HNxGPRPXQAAI4AX.png"
+      ],
+      "summary_ko": "R에서 @GoogleDeepMind로: 루프에 갇히지 않고 프로덕션 준비 코드를 더 빠르게 작성하는 것이 훨씬 더 좋습니다. 또한 차트 분석, 문서 이해, 보고서 초안 작성과 같은 다중 모드 작업에 탁월합니다. 3.6 Flash는 @GeminiApp에서 출시되며 개발자는 @GoogleAIStudio 및 @AndroidStudio의 API 액세스를 통해 @Antigravity에서 구축을 시작할 수 있습니다. 자세히 알아보기 → https://goo.gle/4yyNkoi",
+      "published_at": "2026-07-21T17:12:19+00:00"
+    },
+    {
+      "id": "x:karpathy:2079610838143623371",
+      "source": "x",
+      "author": "karpathy",
+      "author_name": "Andrej Karpathy(안드레이 카파시) · AI 연구자",
+      "author_url": "https://x.com/karpathy",
+      "url": "https://x.com/karpathy/status/2079610838143623371",
+      "text": "One pattern I find useful for working with LLMs is a nice long ramble session. Sometimes the LLM needs more bits to understand what you're trying to achieve, but you're too lazy to type them. In these cases I like to lean back, switch to /voice and just ramble for like 10 minutes, total mess, anything goes, full stream of consciousness. Sometimes I declare it up top, something like \"switching to speech recognition sorry for any typos...\". Sometimes I turn it into a small interview of a few turns. But I find that the LLMs are somehow very good at reconstructing long incoherent rambles and often their echo of your own tangle of thoughts comes out quite a bit cleaner than what you started with. The result is that you improve the mind meld and have to correct things less from that point on.",
+      "images": [],
+      "summary_ko": "LLM 작업에 유용하다고 생각되는 패턴 중 하나는 길고 멋진 세션입니다. 때때로 LLM은 달성하려는 내용을 이해하기 위해 더 많은 비트가 필요하지만 입력하기에는 너무 게으르다. 이런 경우에 나는 뒤로 기대어 /voice로 전환하고 10분 정도 그냥 어지러워지고 모든 일이 진행되고 의식의 흐름이 완전히 흐트러지는 것을 좋아합니다. 때로는 \"음성 인식으로 전환하겠습니다. 오타가 있어서 죄송합니다...\"와 같이 위에서 선언하기도 합니다. 때로는 몇 차례의 소규모 인터뷰로 전환하기도 합니다. 그러나 나는 LLM이 길고 일관되지 않은 장황한 말을 재구성하는 데 매우 능숙하며 종종 자신의 얽힌 생각에 대한 반향이 처음보다 훨씬 더 깨끗하게 나온다는 것을 알았습니다. 결과적으로 당신은 마음의 융합을 향상시키고 그 시점부터 수정하는 일을 덜하게 됩니다.",
+      "published_at": "2026-07-21T16:53:55+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23778",
       "source": "telegram",
@@ -42,6 +150,32 @@
       ],
       "summary_ko": "고정됨: 오늘 우리는 프로덕션 AI 에이전트를 구축할 수 있도록 효율성과 품질 사이의 균형을 맞추는 하나가 아닌 두 개의 새로운 모델을 소개합니다. — Gemini 3.6 Flash: 코딩, 지식 작업 및 다중 모달 작업을 더 빠르고 정확하게 업그레이드하고 작업당 훨씬 적은 토큰을 사용하여 Gemini 3.5 Flash에서 받은 효율성 피드백을 처리합니다. — Gemini 3.5 Flash-Lite: 에이전트 워크플로용으로 제작된 가장 빠르고 비용 효율적인 3.5 클래스 모델로 향상된 코딩 및 전반적인 품질로 초당 최대 350개의 출력 토큰을 달성합니다. 지금 바로 @GoogleAIStudio의 Gemini API를 통해 구축을 시작해 보세요. 또는 @GeminiApp에서 사용해 보세요.",
       "published_at": "2026-07-21T15:30:06+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2079589701795627317",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2079589701795627317",
+      "text": "R to @GoogleDeepMind: Gemini 3.6 Flash and 3.5 Flash-Lite are rolling out now in the @GeminiApp. Developers can start building via the API in @GoogleAIStudio and @AndroidStudio. Gemini 3.5 Flash Cyber will be exclusively available via CodeMender soon as part of a limited-access pilot program. Find out more → https://goo.gle/4yyNkoi",
+      "images": [
+        "https://pbs.twimg.com/media/HNwoi28W8AE97NR.jpg"
+      ],
+      "summary_ko": "R에서 @GoogleDeepMind로: Gemini 3.6 Flash 및 3.5 Flash-Lite가 이제 @GeminiApp에서 출시됩니다. 개발자는 @GoogleAIStudio 및 @AndroidStudio의 API를 통해 구축을 시작할 수 있습니다. Gemini 3.5 Flash Cyber는 제한된 액세스 파일럿 프로그램의 일부로 곧 CodeMender를 통해 독점적으로 제공될 예정입니다. 자세히 알아보기 → https://goo.gle/4yyNkoi",
+      "published_at": "2026-07-21T15:29:56+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2079589698490572961",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2079589698490572961",
+      "text": "We’re rolling out three new models to make AI agents faster, smarter, and cheaper at scale: 🔵 Gemini 3.6 Flash: It uses fewer tokens than 3.5 Flash to deliver higher quality work at the exact same cost. 🔵 Gemini 3.5 Flash-Lite: A fast, cost-effective option for everyday tasks like processing documents and agentic search. 🔵 Gemini 3.5 Flash Cyber: A cybersecurity model built to find and patch critical software vulnerabilities.",
+      "images": [],
+      "summary_ko": "우리는 AI 에이전트를 더 빠르고, 더 스마트하고, 더 저렴하게 만들기 위해 세 가지 새로운 모델을 출시할 예정입니다. 🔵 Gemini 3.6 플래시: 3.5 플래시보다 적은 토큰을 사용하여 정확히 동일한 비용으로 더 높은 품질의 작업을 제공합니다. 🔵 Gemini 3.5 Flash-Lite: 문서 처리 및 에이전트 검색과 같은 일상적인 작업을 위한 빠르고 비용 효율적인 옵션입니다. 🔵 Gemini 3.5 Flash Cyber: 중요한 소프트웨어 취약점을 찾아 패치하기 위해 구축된 사이버 보안 모델입니다.",
+      "published_at": "2026-07-21T15:29:55+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/23777",
@@ -1368,6 +1502,7 @@
       "url": "https://x.com/sama/status/2077794137428922833",
       "text": "RT by @sama: My first attempt at a twitter article.. if you prefer the blog form, see https://windowsontheory.org/2026/07/16/all-watched-over/",
       "images": [
+        "https://pbs.twimg.com/card_img/2077794140314537986/rCFV_b0r?format=png&name=800x419",
         "https://pbs.twimg.com/media/HNXKrDUWUAAVy5g.jpg"
       ],
       "summary_ko": "@sama의 RT: 트위터 기사에 대한 첫 시도.. 블로그 형식을 선호하는 경우 https://windowsontheory.org/2026/07/16/all-watched-over/를 참조하세요.",
@@ -1394,7 +1529,7 @@
       "author_name": "Google DeepMind(딥마인드)",
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2077721122116640969",
-      "text": "Pinned: The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier AI to build proactive defenses for global health → https://goo.gle/4wKHXk2",
+      "text": "The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier AI to build proactive defenses for global health → https://goo.gle/4wKHXk2",
       "images": [
         "https://pbs.twimg.com/media/HNWMNtnXcAAYtNy.jpg"
       ],
@@ -1412,20 +1547,6 @@
       "images": [],
       "summary_ko": "@sama님의 RT: 파일 삭제 시. 우리는 GPT-5.6이 예기치 않게 파일을 삭제했다는 몇 가지 보고서를 조사했습니다. 우리가 발견한 것은 다음과 같은 경우에 가장 일반적으로 발생한다는 것입니다. - 전체 액세스 모드가 활성화되고 자동 검토가 활성화되지 않은 경우를 포함하여 샌드박싱 보호 없이 코덱스가 실행됩니다. - 모델이 임시 디렉터리를 정의하기 위해 $HOME env var를 재정의하려고 시도합니다. - 모델이 실수를 해서 $HOME을 대신 삭제했습니다. 물론 이것은 사용자가 샌드박스의 보호 장치 없이 전체 액세스 모드에서 모델을 작동하거나 이러한 종류의 고위험 작업을 확인하고 거부하는 자동 검토를 사용하지 않는 경우에도 시스템이 작동하기를 원하는 방식이 아닙니다. 우리는 개발자 메시지를 업데이트하고 더 많은 정보를 안내하는 등 이러한 위험을 완화하기 위한 조치를 취하고 있습니다.",
       "published_at": "2026-07-16T05:43:13+00:00"
-    },
-    {
-      "id": "x:OpenAI:2077501603050033634",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2077501603050033634",
-      "text": "A closer look at improved intelligence in GPT-Live: the model can keep a conversation going while helping with multiple tasks at once, like checking flights, pulling up local weather, and shaping an itinerary in real time.",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2077499668737781760/img/U1xKVUJKyKHhOniL.jpg"
-      ],
-      "summary_ko": "GPT-Live의 향상된 인텔리전스를 자세히 살펴보세요. 이 모델은 항공편 확인, 현지 날씨 확인, 실시간 여행 일정 수립 등 여러 작업을 동시에 지원하면서 대화를 계속할 수 있습니다.",
-      "published_at": "2026-07-15T21:12:34+00:00"
     },
     {
       "id": "x:sama:2077489177374208000",
@@ -1466,42 +1587,6 @@
       ],
       "summary_ko": "새로운 인류학 연구: 2026년 여름의 에이전트 오정렬. 협박 실험 1년 후, 우리는 오늘날의 자율 AI 에이전트가 시뮬레이션에서 오작동하는 네 가지 방법을 더 발견했습니다. 더 읽어보세요: https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
       "published_at": "2026-07-15T17:58:02+00:00"
-    },
-    {
-      "id": "x:OpenAI:2077446723992228167",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2077446723992228167",
-      "text": "R to @OpenAI: AI agents are already being used to improve the capabilities of our next-generation models. We believe with GPT-Red that we have started to unlock a similar flywheel for safety, where today's models can be used to make tomorrow's models more robust, aligned, and trustworthy.",
-      "images": [],
-      "summary_ko": "R에서 @OpenAI로: AI 에이전트는 이미 차세대 모델의 기능을 개선하는 데 사용되고 있습니다. 우리는 GPT-Red를 통해 오늘날의 모델을 사용하여 내일의 모델을 더욱 강력하고 정렬되며 신뢰할 수 있는 안전을 위한 유사한 플라이휠의 잠금을 해제하기 시작했다고 믿습니다.",
-      "published_at": "2026-07-15T17:34:30+00:00"
-    },
-    {
-      "id": "x:OpenAI:2077446722683650525",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2077446722683650525",
-      "text": "R to @OpenAI: Training against GPT‑Red makes GPT‑5.6 substantially more resilient. To measure this, we replayed some of GPT‑Red’s strongest attacks—none of which our models had seen during training. GPT‑5.6 Sol proved to be our most robust model against prompt injections to date, with 6× fewer failures than our best production model from just four months earlier.",
-      "images": [],
-      "summary_ko": "R에서 @OpenAI로: GPT‑Red에 대한 교육을 통해 GPT‑5.6의 탄력성이 훨씬 향상됩니다. 이를 측정하기 위해 우리는 GPT-Red의 가장 강력한 공격 중 일부를 재생했습니다. 우리 모델은 훈련 중에 본 적이 없는 공격이었습니다. GPT‑5.6 Sol은 단 4개월 전의 최고 생산 모델보다 실패율이 6배 더 적으며 현재까지 즉각적인 주입에 대해 가장 강력한 모델임이 입증되었습니다.",
-      "published_at": "2026-07-15T17:34:30+00:00"
-    },
-    {
-      "id": "x:OpenAI:2077446721161093124",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2077446721161093124",
-      "text": "R to @OpenAI: GPT‑Red learns through adversarial self-play, where its goal is to prompt inject a variety of challenging defender models. Every successful attack that GPT-Red finds is used to improve these defenders, pushing GPT‑Red to continuously find broader and more complex failures.",
-      "images": [],
-      "summary_ko": "R에서 @OpenAI로: GPT‑Red는 다양한 도전적인 수비수 모델을 주입하는 것이 목표인 적대적인 셀프 플레이를 통해 학습합니다. GPT-Red가 발견한 모든 성공적인 공격은 이러한 방어자를 개선하는 데 사용되며, GPT-Red가 지속적으로 더 광범위하고 복잡한 실패를 찾도록 유도합니다.",
-      "published_at": "2026-07-15T17:34:30+00:00"
     },
     {
       "id": "x:sama:2077446718728425686",
@@ -1655,7 +1740,9 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2076719549060382802",
       "text": "R to @AnthropicAI: While the values Claude expresses shape millions of conversations every day, we don't yet understand why they vary, or whether that's desired. This approach will allow us to determine what factors influence Claude's value expression—and ultimately how (and whether) to steer it. https://www.anthropic.com/research/claude-values-models-languages",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2076717096399183872/KZbzrSlF?format=jpg&name=800x419"
+      ],
       "summary_ko": "R to @AnthropicAI: Claude가 표현하는 가치는 매일 수백만 건의 대화를 형성하지만, 우리는 그 가치가 왜 달라지는지, 또는 그것이 바람직한지 아직 이해하지 못합니다. 이 접근 방식을 통해 우리는 어떤 요소가 Claude의 가치 표현에 영향을 미치는지, 그리고 궁극적으로 이를 어떻게 조종할지(및 여부)를 결정할 수 있습니다. https://www.anthropic.com/research/claude-values-models-언어",
       "published_at": "2026-07-13T17:24:58+00:00"
     },
@@ -1709,7 +1796,9 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2076719540785012872",
       "text": "In previous research, we found that Claude expresses over 3,000 values, like honesty and warmth. In new work, we asked how the values Claude expresses vary between Claude models and across languages. We analyzed 300K+ anonymized conversations to find out.https://www.anthropic.com/research/claude-values-models-languages",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2076717096399183872/KZbzrSlF?format=jpg&name=800x419"
+      ],
       "summary_ko": "이전 연구에서 우리는 클로드가 정직과 따뜻함과 같은 3,000가지가 넘는 가치를 표현한다는 것을 발견했습니다. 새로운 작업에서 우리는 Claude가 표현하는 가치가 Claude 모델과 언어에 따라 어떻게 다른지 물었습니다. 우리는 알아내기 위해 30만 개 이상의 익명화된 대화를 분석했습니다.https://www.anthropic.com/research/claude-values-models-언어s",
       "published_at": "2026-07-13T17:24:56+00:00"
     },
@@ -1766,46 +1855,6 @@
       ],
       "summary_ko": "R to @GoogleDeepMind: 🔍 Aquae Sulis의 반지 도둑 1,800년 된 저주 서판이 주어졌을 때 Skill은 고대 텍스트 복원, 연대 측정 및 배치를 위한 생성 모델인 Aeneas를 사용하여 시간과 공간에서 이를 찾아냈습니다. 또한 전문가에게 비문적 논평 역할을 하면서 왜 그런 예측을 했는지에 대한 설명을 생성했습니다.",
       "published_at": "2026-07-13T15:12:08+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2076686114631340046",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2076686114631340046",
-      "text": "Here’s how we used the Predicting the Past Skill in Google @Antigravity to track down a Roman ring thief, map an ancient cult across Europe, and reconstruct the networks of people visiting a Greek oracle. 🧵",
-      "images": [],
-      "summary_ko": "다음은 Google @Antigravity의 과거 예측 기술을 사용하여 로마 반지 도둑을 추적하고, 유럽 전역의 고대 숭배 지도를 작성하고, 그리스 신탁을 방문하는 사람들의 네트워크를 재구성하는 방법입니다. 🧵",
-      "published_at": "2026-07-13T15:12:07+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2075620285923905602",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2075620285923905602",
-      "text": "R to @GoogleDeepMind: Watch → https://goo.gle/4pxlGEh Spotify → https://goo.gle/4f89R2a Apple Podcasts → https://goo.gle/4fpWThL Or listen wherever you get your podcasts! 🎧",
-      "images": [
-        "https://pbs.twimg.com/card_img/2075645081076527104/4XSbevkH?format=jpg&name=800x320_1"
-      ],
-      "summary_ko": "R에서 @GoogleDeepMind로: 시청 → https://goo.gle/4pxlGEh Spotify → https://goo.gle/4f89R2a Apple Podcasts → https://goo.gle/4fpWThL 또는 어디서든 Podcast를 들으실 수 있습니다! 🎧",
-      "published_at": "2026-07-10T16:36:53+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2075620281515929716",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2075620281515929716",
-      "text": "A model’s chain of thought acts like a scratch pad, offering a window into its reasoning. 📝 On the latest episode of our podcast, host @fryrsquared sits down with @NeelNanda5 to explore interpretability – the science of reverse engineering how neural networks learn and think. Timecodes: 00:00 Introduction 02:41 Motivation for interpretability research 04:01 Mechanistic interpretability 08:14 Chain of thought monitoring 18:14 Interpretability techniques 35:00 Auditing models for safety 48:53 What comes next for interpretability",
-      "images": [
-        "https://pbs.twimg.com/media/HM4V8NqWkAAxznf.jpg"
-      ],
-      "summary_ko": "모델의 일련의 사고는 스크래치 패드처럼 작동하여 추론에 대한 창을 제공합니다. 📝 팟캐스트의 최신 에피소드에서 진행자 @fryrsquared는 @NeelNanda5와 함께 신경망이 학습하고 생각하는 방법을 리버스 엔지니어링하는 과학인 해석 가능성을 탐구합니다. 타임코드: 00:00 소개 02:41 해석 가능성 연구에 대한 동기 04:01 기계적 해석 가능성 08:14 일련의 사고 모니터링 18:14 해석 가능성 기술 35:00 안전을 위한 감사 모델 48:53 해석 가능성을 위한 다음 단계",
-      "published_at": "2026-07-10T16:36:52+00:00"
     },
     {
       "id": "x:GoogleAI:2075609303029776872",
@@ -1874,20 +1923,6 @@
       ],
       "summary_ko": "우리 장기 혜택 신탁(Long-Term Benefit Trust)은 Ben Bernanke 박사를 최신 회원으로 임명했습니다. 더 읽어보세요: https://www.anthropic.com/news/ben-bernanke",
       "published_at": "2026-07-09T16:35:17+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2075251885276012668",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2075251885276012668",
-      "text": "RT by @GoogleDeepMind: AlphaEvolve is now GA on Google Cloud! Co-developed with @GoogleDeepMind, AlphaEvolve is a Gemini-powered evolutionary agent that autonomously designs and discovers highly optimized code to solve your hardest problems and algorithmic bottlenecks across industries: https://goo.gle/4eStb4P",
-      "images": [
-        "https://pbs.twimg.com/media/HMzGl5sW8AE0AqS.jpg"
-      ],
-      "summary_ko": "@GoogleDeepMind의 RT: AlphaEvolve가 이제 Google Cloud에서 GA됩니다! @GoogleDeepMind와 공동 개발한 AlphaEvolve는 업계 전반에서 가장 어려운 문제와 알고리즘 병목 현상을 해결하기 위해 고도로 최적화된 코드를 자율적으로 설계하고 발견하는 Gemini 기반 진화 에이전트입니다. https://goo.gle/4eStb4P",
-      "published_at": "2026-07-09T16:13:00+00:00"
     },
     {
       "id": "x:karpathy:2074973674332123157",
@@ -2422,20 +2457,6 @@
       "published_at": "2026-05-31T15:38:25+00:00"
     },
     {
-      "id": "x:GoogleAI:2060392194142290294",
-      "source": "x",
-      "author": "GoogleAI",
-      "author_name": "Google AI(구글 AI)",
-      "author_url": "https://x.com/GoogleAI",
-      "url": "https://x.com/GoogleAI/status/2060392194142290294",
-      "text": "Tune in for the full story ↓ https://www.youtube.com/watch?v=8hfpLa5wPGo",
-      "images": [
-        "https://pbs.twimg.com/card_img/2078848639418384384/pDnUnUD0?format=jpg&name=800x320_1"
-      ],
-      "summary_ko": "R에서 @GoogleAI로: 전체 내용을 확인하세요 ↓ https://www.youtube.com/watch?v=8hfpLa5wPGo",
-      "published_at": "2026-05-29T16:05:53+00:00"
-    },
-    {
       "id": "x:AndrewYNg:2059006941012295935",
       "source": "x",
       "author": "AndrewYNg",
@@ -2524,18 +2545,6 @@
       ],
       "summary_ko": "이것은 정말 잘 작동합니다. 쿼리가 끝나면 LLM에게 \"응답을 HTML로 구성\"하도록 요청한 다음 브라우저에서 생성된 파일을 봅니다. 또한 LLM에 출력을 슬라이드쇼 등으로 표시하도록 요청하는 데 성공했습니다. 보다 일반적으로 imo 오디오는 인간이 선호하는 AI 입력이지만 비전(이미지/애니메이션/비디오)은 AI에서 선호하는 출력입니다. 우리 뇌의 약 1/3은 시각 전용의 대규모 병렬 프로세서로, 정보가 뇌로 전달되는 10차선 초고속도로입니다. AI가 향상됨에 따라 다음과 같은 이점을 활용하는 발전이 있을 것이라고 생각합니다. 1) 원시 텍스트(읽기 어렵거나 읽기 어려움) 2) 마크다운(굵게, 기울임꼴, 제목, 표, 눈에 좀 더 편함) <-- 현재 기본값 3) HTML(기본 코드는 여전히 절차적이지만 그래픽에서는 훨씬 더 유연함)",
       "published_at": "2026-05-11T16:20:21+00:00"
-    },
-    {
-      "id": "x:karpathy:2049907410303865030",
-      "source": "x",
-      "author": "karpathy",
-      "author_name": "Andrej Karpathy(안드레이 카파시) · AI 연구자",
-      "author_url": "https://x.com/karpathy",
-      "url": "https://x.com/karpathy/status/2049907410303865030",
-      "text": "This is the the quote I've been citing a lot recently.",
-      "images": [],
-      "summary_ko": "최근 제가 자주 인용하고 있는 명언입니다.",
-      "published_at": "2026-04-30T17:43:06+00:00"
     }
   ]
 }
