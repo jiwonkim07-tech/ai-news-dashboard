@@ -1,19 +1,18 @@
 {
-  "updated_at": "2026-07-22T17:19:49+00:00",
+  "updated_at": "2026-07-22T19:19:12+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 12
+    "new_this_run": 0
   },
   "briefing": {
     "headline": "애플, 맥 제품군 대대적 개편 준비",
     "bullets": [
-      "GE 버노바, 2026년 2분기 실적 호조",
-      "오픈AI, 데이터센터 건설 위해 300억달러 투자",
-      "퀄컴-삼성, 파트너십 확장 발표",
-      "엔비디아, RTX PRO 5000 가격 80% 폭등",
-      "백악관, AI 국가 프로젝트에 50억달러 투입"
+      "오픈AI, 데이터센터 건설에 300억달러 투자",
+      "퀄컴-삼성 파트너십 확장 발표",
+      "엔비디아 젠슨 황 CEO, 중국 AI 모델 제재 반대",
+      "AMD와 앤트로픽, 대형 AI 칩 공급 계약 체결"
     ],
-    "generated_at": "2026-07-22T17:19:49+00:00",
+    "generated_at": "2026-07-22T19:19:12+00:00",
     "model": "groq"
   },
   "items": [
@@ -1580,20 +1579,6 @@
       "published_at": "2026-07-16T17:44:37+00:00"
     },
     {
-      "id": "x:GoogleAI:2077803351392268314",
-      "source": "x",
-      "author": "GoogleAI",
-      "author_name": "Google AI(구글 AI)",
-      "author_url": "https://x.com/GoogleAI",
-      "url": "https://x.com/GoogleAI/status/2077803351392268314",
-      "text": "RT by @GoogleAI: 3 years ago we started as a tiny experiment with the goal of helping you learn faster. Since then, we grew to bring audio, video, and interactivity to your sources, transitioning from a passive workspace to your true research companion. And now, notebooks have even become an entire ecosystem: you can already access them in the @GeminiApp and soon in Google Search So, with these advancements, it’s time for us to evolve once again: NotebookLM is now Gemini Notebook ✨📓 The same app you know and love isn’t going anywhere, we just have an updated name that reflects our role in Google's AI portfolio. And our mission stays exactly the same: helping you learn, faster. Thank you for believing in us— this wouldn't have been possible without your passion (and feature requests...) Big things to come (yes, even folders📂!) so stay tuned. Sincerely, The Project Tailwind team",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2077803235314896896/img/p59_jo3Rjk99bb7_.jpg"
-      ],
-      "summary_ko": "@GoogleAI의 RT: 3년 전 우리는 여러분이 더 빨리 배울 수 있도록 돕기 위한 작은 실험으로 시작했습니다. 그 이후로 우리는 오디오, 비디오 및 상호 작용 기능을 소스에 제공하여 수동적인 작업 공간에서 진정한 연구 동반자로 전환했습니다. 이제 노트북은 전체 생태계가 되었습니다. @GeminiApp과 곧 Google 검색에서 이미 액세스할 수 있습니다. 따라서 이러한 발전을 통해 우리는 다시 한 번 진화해야 할 때입니다. NotebookLM은 이제 Gemini Notebook입니다 ✨📓 여러분이 알고 사랑하는 동일한 앱은 더 이상 사라지지 않을 것입니다. Google의 AI 포트폴리오에서 우리의 역할을 반영하는 업데이트된 이름만 갖게 되었습니다. 그리고 우리의 사명은 똑같습니다. 즉, 여러분이 더 빨리 배울 수 있도록 돕는 것입니다. 저희를 믿어주셔서 감사합니다. 이는 여러분의 열정과 기능 요청이 없었다면 불가능했을 것입니다.",
-      "published_at": "2026-07-16T17:11:37+00:00"
-    },
-    {
       "id": "x:demishassabis:2077803351392268314",
       "source": "x",
       "author": "demishassabis",
@@ -1605,6 +1590,20 @@
         "https://pbs.twimg.com/amplify_video_thumb/2077803235314896896/img/p59_jo3Rjk99bb7_.jpg"
       ],
       "summary_ko": "@demishassabis의 RT: 3년 전 우리는 여러분이 더 빨리 배울 수 있도록 돕기 위한 작은 실험으로 시작했습니다. 그 이후로 우리는 오디오, 비디오 및 상호 작용 기능을 소스에 제공하여 수동적인 작업 공간에서 진정한 연구 동반자로 전환했습니다. 이제 노트북은 전체 생태계가 되었습니다. @GeminiApp과 곧 Google 검색에서 이미 액세스할 수 있습니다. 따라서 이러한 발전을 통해 우리는 다시 한 번 진화해야 할 때입니다. NotebookLM은 이제 Gemini Notebook입니다 ✨📓 여러분이 알고 사랑하는 동일한 앱은 더 이상 사라지지 않을 것입니다. Google의 AI 포트폴리오에서 우리의 역할을 반영하는 업데이트된 이름만 갖게 되었습니다. 그리고 우리의 사명은 똑같습니다. 즉, 여러분이 더 빨리 배울 수 있도록 돕는 것입니다. 저희를 믿어주셔서 감사합니다. 이는 여러분의 열정과 기능 요청이 없었다면 불가능했을 것입니다.",
+      "published_at": "2026-07-16T17:11:37+00:00"
+    },
+    {
+      "id": "x:GoogleAI:2077803351392268314",
+      "source": "x",
+      "author": "GoogleAI",
+      "author_name": "Google AI(구글 AI)",
+      "author_url": "https://x.com/GoogleAI",
+      "url": "https://x.com/GoogleAI/status/2077803351392268314",
+      "text": "RT by @GoogleAI: 3 years ago we started as a tiny experiment with the goal of helping you learn faster. Since then, we grew to bring audio, video, and interactivity to your sources, transitioning from a passive workspace to your true research companion. And now, notebooks have even become an entire ecosystem: you can already access them in the @GeminiApp and soon in Google Search So, with these advancements, it’s time for us to evolve once again: NotebookLM is now Gemini Notebook ✨📓 The same app you know and love isn’t going anywhere, we just have an updated name that reflects our role in Google's AI portfolio. And our mission stays exactly the same: helping you learn, faster. Thank you for believing in us— this wouldn't have been possible without your passion (and feature requests...) Big things to come (yes, even folders📂!) so stay tuned. Sincerely, The Project Tailwind team",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2077803235314896896/img/p59_jo3Rjk99bb7_.jpg"
+      ],
+      "summary_ko": "@GoogleAI의 RT: 3년 전 우리는 여러분이 더 빨리 배울 수 있도록 돕기 위한 작은 실험으로 시작했습니다. 그 이후로 우리는 오디오, 비디오 및 상호 작용 기능을 소스에 제공하여 수동적인 작업 공간에서 진정한 연구 동반자로 전환했습니다. 이제 노트북은 전체 생태계가 되었습니다. @GeminiApp과 곧 Google 검색에서 이미 액세스할 수 있습니다. 따라서 이러한 발전을 통해 우리는 다시 한 번 진화해야 할 때입니다. NotebookLM은 이제 Gemini Notebook입니다 ✨📓 여러분이 알고 사랑하는 동일한 앱은 더 이상 사라지지 않을 것입니다. Google의 AI 포트폴리오에서 우리의 역할을 반영하는 업데이트된 이름만 갖게 되었습니다. 그리고 우리의 사명은 똑같습니다. 즉, 여러분이 더 빨리 배울 수 있도록 돕는 것입니다. 저희를 믿어주셔서 감사합니다. 이는 여러분의 열정과 기능 요청이 없었다면 불가능했을 것입니다.",
       "published_at": "2026-07-16T17:11:37+00:00"
     },
     {
@@ -1623,20 +1622,6 @@
       "published_at": "2026-07-16T16:35:00+00:00"
     },
     {
-      "id": "x:GoogleDeepMind:2077721122116640969",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2077721122116640969",
-      "text": "The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier AI to build proactive defenses for global health → https://goo.gle/4wKHXk2",
-      "images": [
-        "https://pbs.twimg.com/media/HNWMNtnXcAAYtNy.jpg"
-      ],
-      "summary_ko": "생물보안 환경은 빠르게 진화하고 있습니다. 향후 발병에 앞서 나가기 위해 우리는 @IsomorphicLabs와 협력하여 생체 회복력에 대한 접근 방식을 간략하게 설명하고 있습니다. 글로벌 건강을 위한 사전 예방적 방어를 구축하기 위해 우리가 프론티어 AI를 배포하는 방법은 다음과 같습니다 → https://goo.gle/4wKHXk2",
-      "published_at": "2026-07-16T11:44:52+00:00"
-    },
-    {
       "id": "x:demishassabis:2077721122116640969",
       "source": "x",
       "author": "demishassabis",
@@ -1648,6 +1633,20 @@
         "https://pbs.twimg.com/media/HNWMNtnXcAAYtNy.jpg"
       ],
       "summary_ko": "@demishassabis의 RT: 생물보안 환경은 빠르게 진화하고 있습니다. 향후 발병에 앞서 나가기 위해 우리는 @IsomorphicLabs와 협력하여 생체 회복력에 대한 접근 방식을 간략하게 설명하고 있습니다. 글로벌 건강을 위한 사전 예방적 방어를 구축하기 위해 우리가 프론티어 AI를 배포하는 방법은 다음과 같습니다 → https://goo.gle/4wKHXk2",
+      "published_at": "2026-07-16T11:44:52+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2077721122116640969",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2077721122116640969",
+      "text": "The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier AI to build proactive defenses for global health → https://goo.gle/4wKHXk2",
+      "images": [
+        "https://pbs.twimg.com/media/HNWMNtnXcAAYtNy.jpg"
+      ],
+      "summary_ko": "생물보안 환경은 빠르게 진화하고 있습니다. 향후 발병에 앞서 나가기 위해 우리는 @IsomorphicLabs와 협력하여 생체 회복력에 대한 접근 방식을 간략하게 설명하고 있습니다. 글로벌 건강을 위한 사전 예방적 방어를 구축하기 위해 우리가 프론티어 AI를 배포하는 방법은 다음과 같습니다 → https://goo.gle/4wKHXk2",
       "published_at": "2026-07-16T11:44:52+00:00"
     },
     {
@@ -1795,20 +1794,6 @@
       "published_at": "2026-07-14T13:44:04+00:00"
     },
     {
-      "id": "x:GoogleDeepMind:2076957440109625718",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2076957440109625718",
-      "text": "RT by @GoogleDeepMind: A Framework for Frontier AI and the Dawning of a New Age",
-      "images": [
-        "https://pbs.twimg.com/media/HNLLt2GXMAAAPF0.jpg"
-      ],
-      "summary_ko": "@GoogleDeepMind의 RT: 프론티어 AI를 위한 프레임워크와 새로운 시대의 시작",
-      "published_at": "2026-07-14T09:10:16+00:00"
-    },
-    {
       "id": "x:demishassabis:2076957440109625718",
       "source": "x",
       "author": "demishassabis",
@@ -1820,6 +1805,20 @@
         "https://pbs.twimg.com/media/HNLLt2GXMAAAPF0.jpg"
       ],
       "summary_ko": "Pinned: 프론티어 AI를 위한 프레임워크와 새로운 시대의 시작",
+      "published_at": "2026-07-14T09:10:16+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2076957440109625718",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2076957440109625718",
+      "text": "RT by @GoogleDeepMind: A Framework for Frontier AI and the Dawning of a New Age",
+      "images": [
+        "https://pbs.twimg.com/media/HNLLt2GXMAAAPF0.jpg"
+      ],
+      "summary_ko": "@GoogleDeepMind의 RT: 프론티어 AI를 위한 프레임워크와 새로운 시대의 시작",
       "published_at": "2026-07-14T09:10:16+00:00"
     },
     {
