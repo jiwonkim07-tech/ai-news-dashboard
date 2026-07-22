@@ -1,4 +1,19 @@
 {
+  "telegram:aetherjapanresearch": [
+    "tg:aetherjapanresearch/23820",
+    "tg:aetherjapanresearch/23819",
+    "tg:aetherjapanresearch/23817",
+    "tg:aetherjapanresearch/23816",
+    "tg:aetherjapanresearch/23815",
+    "tg:aetherjapanresearch/23814",
+    "tg:aetherjapanresearch/23813",
+    "tg:aetherjapanresearch/23812",
+    "tg:aetherjapanresearch/23811",
+    "tg:aetherjapanresearch/23810",
+    "tg:aetherjapanresearch/23809",
+    "tg:aetherjapanresearch/23808",
+    "tg:aetherjapanresearch/23807"
+  ],
   "telegram:globaletfi": [
     "tg:globaletfi/20732",
     "tg:globaletfi/20731",
@@ -11,27 +26,7 @@
     "tg:globaletfi/20723",
     "tg:globaletfi/20722",
     "tg:globaletfi/20721",
-    "tg:globaletfi/20719",
-    "tg:globaletfi/20718",
-    "tg:globaletfi/20717",
-    "tg:globaletfi/20716"
-  ],
-  "telegram:aetherjapanresearch": [
-    "tg:aetherjapanresearch/23819",
-    "tg:aetherjapanresearch/23817",
-    "tg:aetherjapanresearch/23816",
-    "tg:aetherjapanresearch/23815",
-    "tg:aetherjapanresearch/23814",
-    "tg:aetherjapanresearch/23813",
-    "tg:aetherjapanresearch/23812",
-    "tg:aetherjapanresearch/23811",
-    "tg:aetherjapanresearch/23810",
-    "tg:aetherjapanresearch/23809",
-    "tg:aetherjapanresearch/23808",
-    "tg:aetherjapanresearch/23807",
-    "tg:aetherjapanresearch/23805",
-    "tg:aetherjapanresearch/23804",
-    "tg:aetherjapanresearch/23803"
+    "tg:globaletfi/20719"
   ],
   "telegram:EMchina": [
     "tg:EMchina/31767",
@@ -73,7 +68,8 @@
     "x:OpenAI:2078243670265041038",
     "x:OpenAI:2078243667081617826",
     "x:OpenAI:2078223217773474134",
-    "x:OpenAI:2077928427936710901"
+    "x:OpenAI:2077928427936710901",
+    "x:OpenAI:2077807977193714080"
   ],
   "telegram:HI_GS": [
     "tg:HI_GS/6746",
@@ -92,16 +88,20 @@
   "x:ylecun": [
     "x:ylecun:2079834936844927079",
     "x:ylecun:2079770166389543287",
+    "x:ylecun:2079769567765962866",
+    "x:ylecun:2079660071009542328",
     "x:ylecun:2079457219892871458",
     "x:ylecun:2079452067761213587",
     "x:ylecun:2079335039720952144",
     "x:ylecun:2079308316484714712",
+    "x:ylecun:2079301434357456931",
     "x:ylecun:2079236756365348888",
     "x:ylecun:2079208692419837981",
     "x:ylecun:2079000862962417996",
     "x:ylecun:2078945942137716757",
     "x:ylecun:2078830511028412803",
-    "x:ylecun:2078802625449906439"
+    "x:ylecun:2078802625449906439",
+    "x:ylecun:2078594661359194500"
   ],
   "telegram:enc210406": [
     "tg:enc210406/4177",
@@ -143,9 +143,11 @@
     "x:sama:2077446718728425686",
     "x:sama:2077118672150388816",
     "x:sama:2077106587307798989",
-    "x:sama:2077053226080436235"
+    "x:sama:2077053226080436235",
+    "x:sama:2077053140508266710"
   ],
   "x:GoogleDeepMind": [
+    "x:GoogleDeepMind:2079925576077324552",
     "x:GoogleDeepMind:2079653801502380543",
     "x:GoogleDeepMind:2079653799602368604",
     "x:GoogleDeepMind:2079615466356580535",
@@ -171,7 +173,8 @@
     "x:GoogleAI:2064366505630802081",
     "x:GoogleAI:2064366504112505266",
     "x:GoogleAI:2062942864288387430",
-    "x:GoogleAI:2061544208289132791"
+    "x:GoogleAI:2061544208289132791",
+    "x:GoogleAI:2060043029835116826"
   ],
   "x:karpathy": [
     "x:karpathy:2079610838143623371",
@@ -188,6 +191,7 @@
     "x:karpathy:2053872850101285137"
   ],
   "x:demishassabis": [
+    "x:demishassabis:2079933042718617782",
     "x:demishassabis:2079595879808569534",
     "x:demishassabis:2078160968513704270",
     "x:demishassabis:2077811657385079045",
@@ -213,7 +217,9 @@
     "x:AnthropicAI:2076719542404018631",
     "x:AnthropicAI:2076719540785012872",
     "x:AnthropicAI:2075271759289303522",
-    "x:AnthropicAI:2075257492716879967"
+    "x:AnthropicAI:2075257492716879967",
+    "x:AnthropicAI:2075005777522172146",
+    "x:AnthropicAI:2074185348142280912"
   ],
   "x:AndrewYNg": [
     "x:AndrewYNg:2078144569594761591",
@@ -230,6 +236,6 @@
     "x:AndrewYNg:2054964560403300359"
   ],
   "_meta": {
-    "last_x_fetch": "2026-07-22T13:53:47+00:00"
+    "last_x_fetch": "2026-07-22T17:19:48+00:00"
   }
 }
