@@ -1,21 +1,203 @@
 {
-  "updated_at": "2026-07-22T19:19:12+00:00",
+  "updated_at": "2026-07-22T21:07:48+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 19
   },
   "briefing": {
-    "headline": "애플, 맥 제품군 대대적 개편 준비",
+    "headline": "알파벳, 연간 설비투자 전망치 1,950억~2,050억 달러로 상향",
     "bullets": [
-      "오픈AI, 데이터센터 건설에 300억달러 투자",
+      "구글 클라우드 2분기 실적: 매출 1조 달러",
+      "애플, 화웨이 등 브랜드 가격 인상",
+      "오픈AI, 300억달러 이상 투자해 데이터센터 건설 추진",
       "퀄컴-삼성 파트너십 확장 발표",
-      "엔비디아 젠슨 황 CEO, 중국 AI 모델 제재 반대",
-      "AMD와 앤트로픽, 대형 AI 칩 공급 계약 체결"
+      "AMD & 앤트로픽 반도체칩/투자 합의 체결"
     ],
-    "generated_at": "2026-07-22T19:19:12+00:00",
+    "generated_at": "2026-07-22T21:07:48+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31772",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31772",
+      "text": "알파벳 연간 자본지출 전망 상향:\n• 신규 1950-2050억달러\nvs. 기존 1800-1900억달러\n• '2027년 큰 폭 증가' 예상\n谷歌母公司上调全年资本开支预期\n谷歌母公司Alphabet：预计全年资本开支1950亿-2050亿美元，原来预计1800亿-1900亿美元。仍然预计2027财年资本开支将“大幅”增长。\nhttps://wallstreetcn.com/livenews/3138414?ivk=1#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T21:06:28+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19258",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19258",
+      "text": "알파벳, 연간 설비투자(CapEx) 전망치 1,950억~2,050억 달러로 상향 (기존 1,800억~1,900억 달러 / 시장 예상치 1,864억 달러)\n2027 회계연도(FY27) 설비투자 '상당히' 증가할 것으로 여전히 전망\n3분기 중 제3자(외부) 인프라 용량 활용 확대 계획",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T21:04:07+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19257",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19257",
+      "text": "GOOGLE STILL SEES FY27 CAPEX INCREASING 'SIGNIFICANTLY'\n구글, 2027 회계연도(FY27) 설비투자(CapEx) '상당히' 늘어날 것으로 여전히 전망",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T21:02:18+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19256",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19256",
+      "text": "구글  2026년 2분기 어닝콜  - 순다르 피차이 CEO 발언\n1. 주요 재무 및 실적 하이라이트\n알파벳 전체 매출\n: 전년 동기 대비\n24% 증가\n하며 강력한 성장세 기록\n검색 및 기타 매출\n: 전년 동기 대비\n17% 증가\n유튜브 광고 매출\n: 전년 동기 대비\n13% 증가\n구글 클라우드\n:\n매출 82% 증가, 수주 잔고(Backlog) 5,140억 달러 달성 (포춘 100대 기업의 약 90%가 'Gemini Enterprise' 채택)\n2. AI 모델 및 개발자 생태계 성과\n신규 모델 라인업\n: 고효율·가성비 모델인\nGemini 3.6 Flash\n와\nGemini 3.5 Flash-Lite\n발표. 취약점 탐지 및 수정에 특화된\nGemini 3.5 Flash Cyber\n및\nCodeMender\n에이전트 공개.\n차세대 모델 준비\n: Gemini 3.5 Pro 현재 테스트 중이며, 차세대\nGemini 4\n를 위한 역대 최대 규모의 사전 학습(Pre-training) 착수.\n개발자 활성화\n: 매월\n900만 명 이상\n의 개발자가 구글 AI 모델 사용 중. 모델 API의 토큰 처리량은 분당\n220억 토큰\n달성 (전 분기 160억 토큰 대비 급격한 성장).\nOmni & Gemma\n: 멀티모달 생성 AI\nOmni\n출시 이후 Gemini 앱의 비디오 제작 일간 활성 사용자(DAU) 40% 증가. 오픈 모델\nGemma\n시리즈 누적 다운로드\n9억 회\n돌파 (Gemma 4는 4월 출시 후 300M회 돌파).\nAntigravity 플랫폼\n: 에이전트 기반 개발 플랫폼 주간 활성 사용자(WAU)\n240만 명\n돌파. 크롬 팀 내부 개발 시 리팩토링 기간을 2년에서 3개월로 단축(8배 가속).\n3. 핵심 서비스 성과 (검색, Gemini 앱, 유튜브)\n구글 검색 (Search)\n: AI Overviews와 AI Mode를 단일 검색 경험으로 통합. AI Mode 월간 활성 사용자(MAU)\n10억 명\n돌파. 엔지니어링 최적화로 AI 응답 비용을 출시 이래 최저 수준으로 절감. 2026 FIFA 월드컵 기간 중 검색 사용량 역대 최고치 경신.\nGemini 앱\n: MAU\n9억 5,000만 명\n달성 및 DAU 전년 대비 3배 증가. 개인화 에이전트 'Gemini Spark' 글로벌 서비스 확대.\n유튜브 (YouTube)\n: 2026 FIFA 월드컵 관련 영상의 글로벌 유니크 시청자\n17억 명\n돌파. 대화형 AI 기능\nAsk YouTube\n의 6월 이용자\n1억 4,000만 명\n달성 후 메인 검색 영역으로 확대 적용 중.\n4. 구글 클라우드 및 AI 인프라 성장\n고객 확장\n: 신규 고객 확보 속도 전년 대비\n2배 이상 증가\n, 기존 고객 계약 이행률\n50% 이상 초과\n. 마켓플레이스 거래량 전년 대비\n7배 이상\n성장. 에이전트 개발 프레임워크(ADK) 다운로드\n7,000만 건\n육박. (PepsiCo, Intel, HSBC, Macy's 등 도입)\n보안 솔루션\n: 포춘 100대 기업의 90%가 구글 클라우드 보안 사용. Wiz 인수 효과로 AI 통합 보안 기능 사용률 상승, 보호 대상 AI 워크로드 전분기 대비\n45% 증가\n.\nAI 인프라\n:\nNVIDIA Vera Rubin 플랫폼 지원 및 최신 TPU 8t/8i 제공. 최대 100만 개의 가속기를 하나로 연결하는 Virgo Network 선보임. 자체 Axion CPU는 타사 대비 달러당 성능 30% 향상\n. (카카오, Pfizer, Roche, World Labs 등 주요 기업 채택)\n5. 기타 신사업 (Other Bets)\nWaymo\n: 6세대 자율주행 시스템 'Waymo Driver'가 탑재된 신규 차량\nOjai\n공개 및 일반 탑승 시작.\nWing\n: 월마트, 도어대시, 파파존스 등과의 제휴로 누적 드론 배송\n100만 건\n돌파.\nIsomorphic Labs\n: AI 신약 설계 엔진 고도화 및 글로벌 확장을 위해\n20억 달러 이상\n의 투자 유치 성공.\nhttps://blog.google/company-news/inside-google/message-ceo/alphabet-earnings-q2-2026/",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T21:00:59+00:00"
+    },
+    {
+      "id": "tg:EMchina/31770",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31770",
+      "text": "알파벳 & 테슬라 시간외 약세",
+      "images": [
+        "https://cdn5.telesco.pe/file/CucCpQXygra8Z7PZ9eu-L6djxnWxXmfKllVOk17L37xjVjJn4dNptKGFP37YlOvsPB0mEcO-2KNDwDQqkhbLL1wIVzFNZITSQEiUdkUaUFHLt5Zh2CCU43P4PvwsD5z5RyJSIR3xLBJrmiqinzGWoLnxI8IGtA-P08DOEW7W9POUi2c7I_1U2vaUCWou1Bvu2n8m28giispClkuUsopE_okrxT37L-Ud1QEsoRo4XmSI2V5BCYrBdrORvBWpWD719zED-nfCej5aDQsV_KkVyH6qgsBUdQLXncbXpqAJ69SalCUkcEkFGeTVxiapUexB9icxkzlrOteMvTJ5EdzzIw.jpg",
+        "https://cdn5.telesco.pe/file/C1bKEW9tiSdrywDsDlYWGbU6hR0nL9YHU0g4xuSb2ErU-7_Jxz1MRe3fCBt5xHnnzReRSKvxr14pcHaWB8IyzDuTPTstB6_3c9XDuB9b2h8IGsUFVCcSJy9n6mIwIAq2oRKp69qwvXOpsp-PVxINsrk8_Fkx2ZvCgVGkmSUsomPolsEAHHNnk4zwcJTN0PfPljCIxmZZLS9HoyXO1WPMy1kPC0x-DTLGZEhRFJPaEDrOvrMbVoveu916_9dhn_m_joN0AJW8JDdv2A1cbMGlPleNfb9pwACKDntrR_Ylc-ugEPDQhhXSV-rbNfb_UI6v027oBvs2tN674FnMm2RoUQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-22T20:56:49+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19255",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19255",
+      "text": "Evercore ISI, 알파벳 (Alphabet ,\n$GOOGL\n) 실적 코멘트\n알파벳의 2분기 실적은 대부분의 주요 부문에서 시장 예상치를 상회했습니다.\n총매출\n: $119.8B (전년 대비 +24%, 통화변동 제외 기준 +23%)\n클라우드 매출\n: $24.8B (전년 대비 +82%)\n유튜브 광고 매출\n: $11.1B (전년 대비 +13%)\n구글 네트워크 매출\n: $7.3B (전년 대비 보합 수준)\n위 항목 모두 월가 예상치를 뛰어넘었습니다.\n검색 및 기타 매출\n($63.3B, 전년 대비 +17%)과\n기타 매출\n($12.9B, 구독/플랫폼/기기, 전년 대비 +15%)은 컨센서스를 소폭 하회했으나(각각 ~0.4%, ~1.4% 하회),\n두 부문 모두 여전히 견조한 성장을 기록했습니다.\n가장 눈에 띄는 성과는 클라우드 부문으로, 경영진은 기업용 AI 인프라 및 AI 솔루션 수요 증가에 힘입은 유의미한 성장 가속화\n라고 밝혔습니다.\n연결 영업이익\n은 $40.8B (영업이익률 34.0%)로 월가 예상치인 $40.6B를 소폭 상회했으며,\n이는 대규모 AI 투자 주기 속에서도 영업 레버리지 효과가 지속되고 있음을 보여줍니다.\n의견\n:\n높았던 시장의 기대치에도 불구하고 GOOGL은 이를 대부분 충족\n했습니다.\n가장 인상적인 부분은 클라우드 실적으로, 82%의 매출 성장률과 역대 최고치인 36%의 영업이익률을 기록했다는 점\n입니다.\nAI 트레이드 전반에 매우 긍정적인 신호로 판단됩니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T20:48:07+00:00"
+    },
+    {
+      "id": "tg:EMchina/31769",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31769",
+      "text": "미국채 30년물 5% 상회 기간 2007년 이후 최장\n========================\n~ The US 30-year bond yield is trading above 5% for the longest stretch since the dawn of the financial crisis, echoing investor concerns about a growing debt pile and sticky inflation\n~ So far this year, the 30-year has traded beyond 5% for 27 days — or about 19% of all sessions, the most since 2007, according to data compiled by Bloomberg. It traded above that level for 50 days that year\n~ Unlike 2007, however, the Federal Reserve's benchmark is 150 basis points lower currently,\nsuggesting investors are demanding even more compensation for holding the longest maturity sold by Treasury than at the start of the subprime debt woes\nhttps://finance.yahoo.com/markets/articles/us-30-yield-raises-alarm-133108985.html",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T20:36:06+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19253",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19253",
+      "text": "구글 클라우드 2분기 실적:\n$24.77B (전망치: $22.46B)\n매출 247.68억 달러로 전년 대비 82% 성장했는데, 전년 동기 성장률이 +32%였던 점을 감안하면 극적인 가\n속\n영업이익은 88.14억 달러로 3배 이상 늘었고 영업이익률은 20.7%→35.6%로 급등\n수주잔고(백로그)는 5,140억 달러\nAI 관련 지표\n:\n1P 모델 API 토큰 처리량이 분당 약 220억 개로 전분기 160억+ 대비 급증\n,\nGemini 앱 MAU는 9.5억 명에 도달\n2025년 11월~2026년 5월 사이 Gemini 3, Gemini 3.1 Pro, Gemini 3.5 Flash, Nano Banana Pro, Google Antigravity, Genie 3, Gemini Omni, Gemini Spark 등을 연속 출시하며 제품 속도를 강조",
+      "images": [
+        "https://cdn5.telesco.pe/file/ZI3zu1lbaxkdW6XWFqmAxRYr-kcbeTspS_B4CT8XAueApRXfyh2xN90YdidNm3BpCFHMunT0ruRGL0iqHgwXFeBDiWJb70W5WG9wK-Vc0PKfhMXOXe8r0CK0t8Y8C-1ie7T85vL83Cbylv8ILfYgGJea8fQXi8XfHR4AxT2A0MtmgpPJBBFeSBSsczxR99DzWnRTbl8TUYoJtyBuufB3A70XYQQ5qiNfEyTABXLcoEfvrE5ang_T9_0qhuYnf7mUpBI-lNL67tD4fBtWOnfzRTLDfJrLDqp-1_ncFw2b2kJB9Qp3dH-FzR612ltmvfXjsOsGf125TWdhlxEZO5PSgw.jpg",
+        "https://cdn5.telesco.pe/file/jjLkKgv3oZLSvL4o3sZUnH-d47A5S4Z4NlHKOQVbPjzZYBtU7yOy7iYETaOtNcWu9r35QV8iVOeyzly4Xe1kGr2V0AVbf9jO8SuEv4LmqWuqRG0ZdHGbiLuWx7YAsfeimSyWaVoMx3d88cvSslJdMIUInj7xrDJyNC8vgD35xgvUyEQJh3P8atVs2E_Ml7hHSAvcZ4_h54D1xyH4ypcXbyL_Psyt8nkRX8eIUPcmRuu1K61LwatAM0t6ld89nWONO4h3DorBnZQTW5poeZmnquuzsWTVQPIeZn6D7MIhXDiBPiOtscSZ1e-a0ta4smTpURmHJ0t2Pi3l4RdPG4yElg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-22T20:35:46+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19252",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19252",
+      "text": "알파벳\n$GOOGL\n2026년 2분기 설비투자(CapEx)\n449억 2,000만 달러 / $44.92B (전망치: $44.1B)\n전년 동기 대비 +100%",
+      "images": [
+        "https://cdn5.telesco.pe/file/MVgAUbk7zJ1ewzA1lJND7kQMHO084Vsykt9C0KD8NhfF1H_FEsgbe1TDqpL2b55QssrKgklQSjrEHyVJNbauNBl86NppAAwdw0sybGtg3OZAYPqbI8eS4eO_cOS0qzVZGMwgOq3ixzBbjOK4GXvMq4x4WnTkn3jWNe39is21Ppws1zw3JyOjPdORE0MWjslcSjixYY-zGFt4_7jaEAa3EW89beD8C6LYEWMXDRTf-QKdO-esYqrJ63LWNAUNEjd9vtmMZyJwEO4yPT6cVvAghKAxSKZiF9v-dZ03ejdWxrf3uvJuS0kBAoFhNDFgabtAdAVZU5VPc4fmIA384EnMUQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-22T20:29:32+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19250",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19250",
+      "text": "$GOOGL\n구글 2분기 클라우드 매출이 전년 대비 82% 증가한 248억 달러를 기록\n가속화 진행중!",
+      "images": [
+        "https://cdn5.telesco.pe/file/YJvgO4bqBEnvfjjvIdrEA-6o6YSTJTZ_KeTdw6z1JoEWchSz6U1Oepx9eEx2oZkyvYlvMnQ8YTSYrYW-Hf-ixnf7hva-_KyWvTV-HfsNqNnAltay7oAf0Vp9e0mtCrnIamCaUkoKnfuLgv-MdSx_wDaT5jqKmRa4hx-irIak_P-sXOTqfYGYq9Y8LNJRa6xNhJlC-JmWo1aAT8fTzu2LRYofDIDCQfew5mBU-AYbjYEpkmQ1NZ7i_Ej5NjMCiuNR5wsp0ZylkbeEXd_r9ohApdmmXFg6EICUERlUpx3U3SaDOK6VlOw1VU9AhYbrFtDuSuIMZ2q4Dd4fPDuVMxLPCg.jpg",
+        "https://cdn5.telesco.pe/file/vN2cbW8OjYMi7diZGJZHpMlaI_qPLiPw3pgy3pwcviGDFzKQn1IHoV_AIUT2IE21otqcmD15DuptuTRipJ9rlE4ZcdkYMGeKarGXEaRuhuvKrhx_6XV9i721aTIxlo59OT2AzlgB3RXnKLPDIpqxnuHEamWeQuvZI69LQEkNXfiyZrdkhG8OybDCp5R117dMuB-i2nvmy7Vmj9LHEOdeKfdb7aJwBVjQRkNJvBwphaCtDj9eivbdjN_ARypYtSRYpdRswrWtPzE2NaWqk3WCDPGsugia9oE2rx12o_dt7l-QEFs9JeuBAcPJGyyK3hxo4VhCNS_qs5vo5XElzbuSMg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-22T20:22:36+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19249",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19249",
+      "text": "알파벳 $GOOGL 2026년 2분기 실적  ( 시간외 +1.4%)  공시된 지분 평가이익 영향을 제외한 EPS: 약 $2.85 (전망치: $2.90) 매출: 1,198억 달러 / $119.80B (전망치: $117.02B) ; 전년 동기 대비 +24%  TAC 제외 매출: 1,036억 2,000만 달러 / $103.62B (전망치: $101.07B) ; 전년 동기 대비 +27%  설비투자(CapEx): 449억 2,000만 달러 / $44.92B (전망치:…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T20:16:13+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19248",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19248",
+      "text": "알파벳\n$GOOGL\n2026년 2분기 실적\n( 시간외 +1.4%)\n공시된 지분 평가이익 영향을 제외한 EPS:\n약 $2.85 (전망치: $2.90)\n매출:\n1,198억 달러 / $119.80B (전망치: $117.02B) ; 전년 동기 대비 +24%\nTAC 제외 매출:\n1,036억 2,000만 달러 / $103.62B (전망치: $101.07B) ; 전년 동기 대비 +27%\n설비투자(CapEx):\n449억 2,000만 달러 / $44.92B (전망치: $44.1B) ; 전년 동기 대비 +100%\n부문별  (Segment)\n구글 클라우드:\n247억 7,000만 달러 / $24.77B (전망치: $22.46B) ; 전년 동기 대비 +82%\n클라우드 영업이익률:\n35.6% (전망치: 30.8%) ; 전년 동기(20.7%) 대비 상승\n검색 및 기타:\n632억 7,000만 달러 / $63.27B (전망치: $63.28B) ; 전년 동기 대비 +17%\n유튜브 광고:\n110억 6,000만 달러 / $11.06B (전망치: $10.81B) ; 전년 동기 대비 +13%\n구글 서비스 (Google Services)\n매출:\n945억 4,000만 달러 / $94.54B (전망치: $94.32B) ; 전년 동기 대비 +15%\n영업이익:\n395억 4,000만 달러 / $39.54B ; 전년 동기 대비 +20%\n영업이익률:\n41.8% ; 전년 동기(40.1%) 대비 상승\n구글 광고:\n816억 3,000만 달러 / $81.63B (전망치: $81.12B) ; 전년 동기 대비 +14%\n검색 및 기타:\n632억 7,000만 달러 / $63.27B (전망치: $63.28B) ; 전년 동기 대비 +17%\n유튜브 광고:\n110억 6,000만 달러 / $11.06B (전망치: $10.81B) ; 전년 동기 대비 +13%\n구글 네트워크:\n73억 달러 / $7.30B ; 전년 동기 대비 -1%\n구독, 플랫폼 및 기기:\n129억 1,000만 달러 / $12.91B (전망치: $12.82B) ; 전년 동기 대비 +15%\n구글 클라우드 (Google Cloud)\n매출:\n247억 7,000만 달러 / $24.77B (전망치: $22.46B) ; 전년 동기 대비 +82%\n영업이익:\n88억 1,000만 달러 / $8.81B ; 전년 동기 대비 +212%\n영업이익률:\n35.6% (전망치: 30.8%)\n한계 영업이익률(Incremental Operating Margin):\n약 53.7%\n클라우드 성장률은 바이사이드(기관투자자)\n목표치였던 70%~75%를 초과했으며, 공격적이었던 약 80%의 시장 기대치마저 상회함\n아더 벳츠 (Other Bets - 기타 신사업)\n매출:\n3억 8,200만 달러 / $382M ; 전년 동기 대비 +2%\n영업손실:\n-18억 달러 / -$1.80B (전년 동기 -$12억 5,000만 달러 대비 손실 확대)\n알파벳 본사/공통 활동 (Alphabet-Level Activities)\n영업손실:\n-57억 9,000만 달러 / -$5.79B\n주로 공통 AI 연구개발(R&D) 관련 비용이 반영됨\nAI 및 기타 지표 (AI and Other Metrics)\n제미나이(Gemini) 앱:\n월간 활성 사용자 수(MAU) 9억 5,000만 명\n제미나이 API 사용량:\n분당 220억 토큰\n제미나이 엔터프라이즈:\n포춘 100대 기업의 약 90%가 사용 중\n임직원 수:\n198,933명 ; 전년 동기 대비 +6%\n총 TAC (트래픽 유입 수수료):\n161억 8,000만 달러 / $16.18B ; 전년 동기 대비 +10%\n월드컵 관련 유튜브 동영상 시청자 수가 순시청자(Unique Viewers) 기준 17억 명을 돌파함\n재무 지표 (Financials)\n영업이익:\n407억 7,000만 달러 / $40.77B (전망치: $40.55B) ; 전년 동기 대비 +30%\n지분증권 평가이익이 GAAP EPS에 주당 $6.26 기여함\n영업이익률:\n34.0% ; 전년 동기 대비 2%포인트 상승\n당기순이익:\n1,121억 9,000만 달러 / $112.19B ; 전년 동기 대비 +298%\n기타 순이익:\n979억 8,000만 달러 / $97.98B\n지분증권 순평가이익:\n990억 3,000만 달러 / $99.03B\n영업활동 현금흐름:\n390억 7,000만 달러 / $39.07B\n잉여현금흐름(FCF):\n-58억 6,000만 달러 / -$5.86B\n최근 12개월(TTM) 잉여현금흐름:\n532억 7,000만 달러 / $53.27B\n현금 및 유가증권:\n2,424억 7,000만 달러 / $242.47B\n장기 부채:\n981억 7,000만 달러 / $98.17B\n자본 배분 (Capital Allocation)\n자기자본 조달액:\n496억 달러 / $49.6B\n선순위 무보증 사채 발행액:\n203억 달러 / $20.3B\n자사주 매입:\n$0\n배당금:\n주당 $0.22\n알파벳은 최대 400억 달러 규모의 주식을 매각할 수 있는 ATM(At-the-Market, 시장가 발행) 프로그램을 승인했으나, 분기 말 기준 해당 프로그램을 통해 매각된 주식은 없음\n순다르 피차이 CEO 코멘트\n“\n우리의 AI 투자는 사업의 모든 영역에서 가능성의 개념을 재정의하고 있습니다.”\nAI 기능이 검색 쿼리(검색량) 성장을 견인하고 있습니다.\nAI 인프라 및 기업용 AI 솔루션에 대한 수요로 인해 클라우드 성장이 가속화되었습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T20:13:42+00:00"
+    },
+    {
+      "id": "tg:EMchina/31768",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31768",
+      "text": "애플 뿐만 아니라 화창베이도 가격 인상: 컴퓨터, 태블릿, 휴대폰 가격 전면 상승  • 애플, 화웨이, 레노버, 아너 등 브랜드 집단 가격 인상. 화창베이 컴퓨터, 태블릿, 휴대폰 가격 전면적으로 상승  • 핵심 하드웨어 비용 상승이 주요 원인. 메모리/SSD 가격 지난해 최저점에 비해 거의 두 배 상승  • 브랜드 제조사는 직접적인 가격 인상, 프로모션 축소, 배분 조정 등 전략 채택  • 유통업체는 위험 회피하기 위해 미리 재고 준비  不只是苹果，华…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T19:43:58+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2079979809606664564",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2079979809606664564",
+      "text": "RT by @AnthropicAI: You can now ask Claude about the Anthropic Economic Index, our public dataset measuring how AI is used across the economy. Ask which occupations use AI the most, or what kinds of tasks people are automating, and the answers draw directly from the Index data.",
+      "images": [
+        "https://pbs.twimg.com/media/HN2S7ktXkAEL7Bu.png"
+      ],
+      "summary_ko": "@AnthropicAI의 RT: 이제 Claude에게 경제 전반에 걸쳐 AI가 사용되는 방식을 측정하는 공개 데이터 세트인 인류 경제 지수(Anthropic Economic Index)에 대해 물어볼 수 있습니다. AI를 가장 많이 사용하는 직업이 무엇인지, 사람들이 어떤 작업을 자동화하고 있는지 물어보세요. 답변은 Index 데이터에서 직접 도출됩니다.",
+      "published_at": "2026-07-22T17:20:05+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23820",
       "source": "telegram",
@@ -213,7 +395,7 @@
       "author_name": "한투증권 중국/신흥국 정정영",
       "author_url": "https://t.me/EMchina",
       "url": "https://t.me/EMchina/31767",
-      "text": "오픈AI, 300억달러 이상 투자해 데이터센터 건설 추진\n• 클라우드 지출 목표 7500억달러로 급증\nOpenAI拟豪掷超300亿美元建数据中心，云支出目标狂飙至7500亿美元\nhttps://wallstreetcn.com/articles/3777699#from=ios",
+      "text": "오픈AI, 300억달러 이상 투자해 데이터센터 건설 추진\n• 클라우드 지출 목표 7500억달러로 급증\nOpenAI拟豪掷超300亿美元建数据中心，云支出目标狂飙至7500亿美元\nhttps://n.news.naver.com/article/001/0016209516?sid=104",
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-22T13:22:36+00:00"
@@ -341,18 +523,6 @@
       "published_at": "2026-07-22T12:44:35+00:00"
     },
     {
-      "id": "tg:bornlupin/19244",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19244",
-      "text": "AMD와 앤스로픽, 대형 AI 칩 공급 및 투자 계약 체결\n2기가와트(GW) 규모의 계약에는 수백억 달러 상당의 칩 공급이 포함되며, AMD는 앤스로픽에 최대 50억 달러를 투자할 계획이다.\nAMD(Advanced Micro Devices)와 앤스로픽(Anthropic)이\n수백억 달러 규모의 인공지능(AI) 서버 공급 계약을 체결\n했습니다. 이번 거래를 통해 AMD는 업계 선두인 엔비디아(Nvidia)에 맞서 경쟁력을 강화하고,\n앤스로픽은 시급히 필요했던 연산 능력을 확보하게 되었습니다.\n계약 조건에 따라\n앤스로픽은 2027년 상반기부터 AMD의 최신 세대 칩인 '인스틴트 MI450(Instinct MI450)'을 최대 2기가와트(GW) 규모까지 구매할 예정\n입니다.\n또한\nAMD는 특정 배포 마일스톤(단계별 목표)이 달성됨에 따라 앤스로픽에 최대 50억 달러를 투자할 계획\n입니다. 이는 AMD가 이 AI 전문 기업에 진행하는 첫 번째 투자입니다.\nhttps://www.wsj.com/tech/ai/amd-and-anthropic-sign-major-chips-and-investment-deal-4adfdc45",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-22T12:42:44+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/23809",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -379,30 +549,6 @@
       "published_at": "2026-07-22T12:15:03+00:00"
     },
     {
-      "id": "tg:bornlupin/19243",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19243",
-      "text": "백악관, 과학 연구를 위한 AI 국가 프로젝트 ‘제네시스 미션’에 50억 달러 이상 투입 발표\n1. 개요 및 핵심\n마이클 크라치오스(Michael Kratsios) 백악관 과학기술정책실(OSTP) 실장은\n과학용 AI 활용 가속화를 위한 국가 프로젝트인 ‘제네시스 미션(Genesis Mission)’에 50억 달러(한화 약 6조 8,000억 원) 이상의 연방 정부 재정을 투입\n하고, 부처 합작의 '국가 과학기술 도전 과제'를 추진한다고 발표했습니다.\n프로젝트 성격:\n2025년 11월 트럼프 대통령의 행정명령으로 시작된 국가적 AI 과학 혁신 프로젝트입니다.\n참여 기관:\n에너지부(DOE) 중심으로 시작되어 현재 보건복지부(HHS), 국방부(DOW), NASA, 국립과학재단(NSF) 등\n15개 이상의 연방 기관이 참여\n하는 범정부적 사업으로 확대되었습니다.\n핵심 인프라:\n에너지부(DOE)가 구축한 '미국 과학·안보 플랫폼(American Science and Security Platform)'을 공유 인프라로 활용해 연구자, 데이터, 초고성능 컴퓨팅 및 AI 도구를 통합 연동합니다.\n2. 5대 핵심 분야별 국가 과학기술 도전 과제\n① 미국인의 건강 및 수명 연장 (보건·의료)\n만성 질환의 근본 원인 규명:\n보건복지부(HHS)의 코호트 데이터, 환경보호청(EPA)의 화학물질 데이터, 국립과학재단(NSF)의 기초생물학 연구, 에너지부(DOE)의 컴퓨팅 자원을 결합해 만성 질환 원인을 분석합니다.\n소아암 치료제 정복:\n소아암 데이터 생태계와 DOE의 슈퍼컴퓨터를 연동해 희귀 소아암 모델을 학습하고 치료법을 개발합니다.\n신약 개발 및 임상 전환 가속화:\n분자·유전체·임상 데이터를 통합하는 생체의학 데이터 인프라를 구축하여 기존 약물의 재창출 및 신약 투여 안전성을 높입니다.\n참전용사 맞춤형 의료:\n보훈부(VA)의 전자건강기록 및 유전체 데이터와 슈퍼컴퓨터를 결합해 질병 위험을 조기에 감지합니다.\n② 신뢰할 수 있는 인프라 및 에너지 비용 절감\n차세대 인프라 재설계:\n교통부(DOT)와 에너지부가 디지털 트윈(Digital Twin)과 파운데이션 모델을 활용해 건물·교통 인프라의 신소재 발굴 및 수명 예측 정비를 실시합니다.\n전력망 확장 및 안정화:\nAI 기반 디지털 트윈을 통해 전력망 운영을 최적화하고 소비자의 에너지 비용을 절감합니다.\n천연자원 관리:\n내무부(DOI)가 핵심 광물, 수자원, 지하 에너지 데이터를 통합해 국유지 관리 및 공공 자원 연구를 강화합니다.\n③ 미국 산업 및 제조업 경쟁력 강화\n반도체 및 미세전자 주도권 회복:\nAI 기반 자율 설계 생태계를 구축하여 차세대 초효율 반도체 및 첨단 소재 R&D를 가속화합니다.\n바이오 산업 인프라 확장:\n생물반응기, 화학, 미생물 공정 데이터와 AI를 결합해 바이오 제품(연료, 소재, 화학물질 등)의 상용화를 촉진합니다.\n무기 부품 및 시스템 설계 가속화:\n국방부(DOW)와 국립핵안보청(NNSA)이 에이전틱 AI와 시뮬레이션을 결합해 재래식 및 핵무기 부품의 설계·시험·인증 기간을 단축합니다.\n④ 과학적 탐구의 지평 확장\n우주 빅데이터 분석:\nNASA와 에너지부가 150페타바이트(PB) 이상의 우주 데이터를 AI로 분석하여 천문학, 우주 기상, 지구 과학 연구를 가속화합니다.\nAI 기반 자율 실험실 구축:\n로봇 공학, 에지 AI, 실시간 분석을 결합한 원격 자동화 실험실을 전국에 구축합니다.\n양자 시스템 실용화:\nAI를 결합하여 오류 내성 양자 컴퓨터 개발을 앞당기고 양자 센서 기술의 실생활 적용을 추진합니다.\n생명체 시스템 예측:\n생물학 데이터를 AI 모델과 결합해 유전자·단백질 단위부터 전체 생명체 반응까지 예측 가능한 시스템을 구축합니다.\n맞춤형 신소재 개발:\nclosed-loop(폐루프) 자율 실험 모델을 도입해 신소재 예측·합성·특성 분석 과정을 단축합니다.\n⑤ 신종 안보 위협으로부터 국가 보호\n생물학적 위협 조기 감지:\nCDC, DHS, DOW, DOE, NIST 등이 협력하여 임상·환경 데이터를 AI로 종합 분석, 변종 바이러스 등 생물학적 위협을 조기 감지합니다.\n핵 안보용 소재 검증:\nNNSA의 슈퍼컴퓨팅 인프라를 활용해 핵 안보에 필요한 전략 소재의 시험 및 검증을 자동화합니다.\n핵 징후 원인 추적:\nAI 및 물리학 기반 기계학습으로 핵 물질 및 폭발 잔해의 출처를 신속하고 정확하게 추적·감식합니다.\n3. 정부 주요 인사들의 핵심 발언\n마이클 크라치오스 (백악관 OSTP 실장)\n\"제네시스 미션은 국가적 역량을 결집해 전 세계 누구도 흉내 낼 수 없는 규모로 과학용 AI를 활용하는 미국 과학의 새로운 장입니다.\"\n로버트 케네디 (보건복지부 장관)\n\"인공지능의 힘을 활용해 만성 질환의 근본 원인을 밝혀내고 삶을 구하는 의료 혁신을 이끌어내겠습니다.\"\n크리스 라이트 (에너지부 장관)\n\"오늘 선정된 278개 프로젝트는 미국 과학 생태계의 정점을 보여주며, 미국의 파이프라인이 그 어느 때보다 강력함을 증명합니다.\"\n제러드 아이작먼 (NASA 청장)\n\"NASA가 축적한 방대한 과학적 데이터 기반 위에 AI를 결합함으로써 우주 탐사 가속화와 지구·우주 이해에 큰 전환점을 맞이할 것입니다.\"\n4. 향후 전망 및 총평\nR&D 생산성 증대:\n백악관은 제네시스 미션을 통해 미국의\n연구개발(R&D) 산출량을 기존 대비 2배로 늘리는 것\n을 목표로 하고 있습니다.\n범정부 및 민간 확장:\n이번 연방 정부 차원의 50억 달러 투자 발표에 이어, 향후\n민간 기업, 자선 단체 및 국제 협력 파트너십\n에 관한 추가 발표가 이어질 예정입니다.\nhttps://www.whitehouse.gov/releases/2026/07/45502/",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-22T12:14:19+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19242",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19242",
-      "text": "엔비디아 젠슨 황 CEO, 중국 AI 모델 제재·금지 움직임에 반대\n엔비디아(Nvidia)의 젠슨 황(Jensen Huang) CEO가 엑시오스(Axios)와의 단독 인터뷰에서\n중국의 오픈소스 AI 모델(Moonshot AI의 Kimi K3 등)에 대한 미국 정부의 제재 및 금지 움직임에 대해 강력한 반대 의사\n를 밝혔습니다.\n1. 중국 오픈소스 AI 모델 옹호\n미국 기업의 자유로운 활용 주장:\n황 CEO는\n중국의 우수한 오픈소스 AI 모델 사용을 금지할 이유가 없으며, 미국 기업들도 이를 자유롭게 활용할 수 있어야 한다고 강조\n했습니다.\n미국 선도 AI 기업들의 우려 일축:\nOpenAI나 Anthropic 같은 기업들이 중국 오픈소스에 위협받을 필요가 없다고 단언했습니다.\n오픈소스는 AI 시장 저변을 넓히는 역할을 하며, 유료 서비스는 편의성과 안정성, 높은 성능을 무기로 여전히 시장을 지킬 것\n이라 보았습니다.\n\"중국이 미국 기업을 시장에서 밀어내는 시나리오는 존재하지 않습니다. 가능성은 0%입니다.\"\n2. 시장 충격과 칩 수요에 대한 오해 교정\n월가와 워싱턴의 착각:\n월가는 딥시크(DeepSeek)나 최근 Moonshot AI가 출시한 키미(Kimi K3) 등\n고성능·저비용 오픈소스 모델이 엔비디아의 AI 인프라 수요를 줄일 것이라 걱정하지만, 이는 시장 흐름을 완전히 잘못 이해한 것\n입니다.\n하드웨어 수요 증가 선순환: AI 모델이 저렴해지고 무료로 제공될수록 더 많은 사람과 기업이 AI를 도입하게 되므로, 결과적으로 엔비디아의 칩, 데이터센터, 컴퓨팅 파워 수요는 더 커집니다\n.\n\"무료 AI는 하드웨어에 호재이고, 칩에 호재이며, 데이터센터에 호재입니다.\"\n3. 사이버 보안 및 오픈소스의 안전성\n백도어 우려 일축:\n중국산 모델 다운로드가 백도어 위험을 초래한다는 주장에 대해,\n기업들이 격리된 환경(샌드박스) 내에서 모델을 커스터마이징하고 제어하면 문제가 없다고 설명했습니다.\n오픈소스가 더 안전한 이유:\n외부 연구자들이 자유롭게 검증하고 약점을 찾아내어 방어할 수 있기 때문에 오픈소스가 보안 면에서 오히려 유리\n합니다. 단 하나의 폐쇄형 모델에만 의존하는 것이 더 위험합니다.\n앤트로픽 '클로드 미소스(Claude Mythos)' 공개 촉구:\n앤트로픽이 자체 개발한 사이버 안보 모델(Claude Mythos)의 접근을 제한하는 것을 비판하며,\n이 모델을 제한 없이 제공해 미국 기술 생태계의 방어력을 높여야 한다고 말했습니다.\n4. AI 기술 경쟁 및 IP(지식재산권) 도용 이슈\nAI 경주에 대한 시각:\nAI 경쟁은\n'승자와 패자가 갈리는 단거리 경주'가 아니며, 미국과 중국 모두 오랫동안 AI 기술을 지속해서 사용하게 될 것\n입니다.\n기술 도용(증류, Distillation) 논란:\n미국 재무부(스콧 베센트 장관)가 중국 모델들의 미국 기술 도용(증류)을 이유로 제재를 검토하는 것에 대해, 황 CEO는\n\"다른 AI나 지식 원천으로부터 학습하는 '증류'는 지능의 본질적인 과정\"이라고 리마인드했습니다.\n프라이버시나 계약 위반 등의 위법 행위는 제재하되, 모델 자체를 획일적으로 금지해서는 안 된다는 입장\n입니다.\n젠슨 황 CEO\n\"중국의 오픈소스 모델들은 훌륭하며, 훌륭한 오픈소스 모델은 사용되어야 합니다.\"\n\"모든 것이 단 하나의 모델, 단 하나의 공격 지점, 단 하나의 고장 원인이 된다면 전 세계는 훨씬 더 취약해질 것입니다.\"\n\"Anthropic을 억제하는 것은 미국의 이익에 도움이 되지 않습니다. 그냥 달릴 수 있게 내버려 둬야 합니다.\"\nhttps://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-22T11:46:06+00:00"
-    },
-    {
       "id": "tg:HI_GS/6746",
       "source": "telegram",
       "author": "HI_GS",
@@ -413,56 +559,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-22T10:09:39+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19241",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19241",
-      "text": "엔비디아 RTX PRO 5000 Blackwell의 가격이 한 달 만에 약 80% 폭등함\n6월: ¥819,900 → 7월: ¥1,469,050\n상승폭:\n+¥649,150\n상승률:\n+79.2% ( 1개월 만에)\n(GDDR7 가격 폭등이 최종 소비자 가격으로 전이)\nhttps://x.com/DrNHJ/status/2079845652482425057?s=20",
-      "images": [
-        "https://cdn5.telesco.pe/file/COicxH5amA12-H8AO01ROIf_neFdaIi3nWSCZ_T2gzylMHzBuB1QmIIo-IfnlCg-JKmh3eTUxdrx-gEtNAVQlEzGVyN5Ionz2UETrdMoDKyRv9NGAz-Beg2GblRo2GgqexuBeuOxznQXjfHcc0DZMrFr8iuQd2uwNh5k8gx4Rq-1cqB3dNZIhhNUVULiTdHtfJbGpLwjWU00dlKKgTJNB9P68ifwGX4lnlrJiGqyZDAAT_SccaCrhuN5BzjAiFh9467J4fTvcVceIRiZ1hzLGO6D01tRsUXBTsLlF4q728LO9h46XLgdPAVccI2lgQymtUeztdGJZoSeNyBOTVYV1g.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-22T08:27:52+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19240",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19240",
-      "text": "2026.07.22 17:12:34\n기업명: SK하이닉스(시가총액: 1,304조 2,453억) A000660\n보고서명: 신규시설투자등\n*투자구분 및 목적\n- 신규시설투자 / 청주 P&T7 건설\n- 글로벌 AI 메모리 수요 대응을 위한 청주 생산거점 확보\n투자금액 : 70,931억\n자본대비 : 5.88%\n투자시작 : 2025-11-26\n투자종료 : 2032-12-31\n투자기간 : 7.1년\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260722800829\n회사정보:\nhttps://finance.naver.com/item/main.nhn?code=000660",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-22T08:16:34+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19239",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19239",
-      "text": "[속보] 李대통령, 美실리콘밸리서 오픈AI·엔비디아·앤트로픽·브로드컴 CEO 만난다\n김용범 청와대 정책실장은 22일 청와대 춘추관에서 브리핑을 갖고 \"\n이 대통령이 미국에서 다리오 아모데이 앤트로픽 CEO, 샘 알트만 오픈AI CEO, 젠슨 황 엔비디아 CEO 그리고 혹 탄 브로드컴 사장 겸 CEO를 순차적으로 만날 계획\"\n이라고 밝혔다.\nhttps://www.newspim.com/news/view/20260722001217",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-22T07:56:52+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19238",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19238",
-      "text": "[속보] 李대통령, 24일 美AI서밋 행사…이재용·최태원·정의선·이해진 참석\nhttps://www.edaily.co.kr/News/Read?newsId=04874086645517144&mediaCodeNo=257&OutLnkChk=Y\n[속보] 李대통령, 美방문서 젠슨 황·샘 올트먼 등 '빅테크 CEO' 만난다\nhttps://www.hankyung.com/article/2026072298467",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-22T07:51:04+00:00"
     },
     {
       "id": "x:ylecun:2079834936844927079",
@@ -539,20 +635,6 @@
       "published_at": "2026-07-22T06:10:01+00:00"
     },
     {
-      "id": "tg:bornlupin/19237",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19237",
-      "text": "【브랜드 DDR4 수요에 힘입어 DRAM 현물 가격 소폭 상승】\n이번 주 DRAM 현물 시장은 주요 브랜드 DDR4 칩을 중심으로 문의가 이어지며 전반적으로 소폭 오름세를 보였습니다.\n다만, 공급업체는 저가 판매를 기피하고 구매자는 높은 가격에 매수하는 것을 주저하면서 실제 거래량은 제한적인 수준에 머물렀습니다.\n주력 제품(DDR4 1Gx8 3200MT/s)의 평균 현물 가격은 지난주(7월 15일) 39.8달러에서 이번 주(7월 21일) 41.1달러로 3.27% 상승\n했습니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/sVdqb5GYncbqibcl-plF-QmNdhVeDfAFvnoWFbvc1cesxmDo9nNawOLFKljd83Wawj40LcAAr4ubeMxGMHy2vjyb9Ib3XgqX68adwgcgzliiid4PMw15Scsv2o0Otsdki1XXvdiEl2qhalz4roE-3VOgVoC3c6pYrkGSWwYSmupppopPWiTwtT-fXbaEKQ_3Ruq8pS13W5LeJMPjHhZR2snA0XUJZ11a_oFgc87XQ-2QEqnlhk4yjyT3fmYq2sjGNhU2Due8GTRKKz2ywCm0AKyqjzqJUACjMxvGDCuqWLsP-NVSXKbPlF31eXe7vAKP86buTQlulPNBqfVDg2IZDw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-22T06:01:29+00:00"
-    },
-    {
       "id": "tg:EMchina/31761",
       "source": "telegram",
       "author": "EMchina",
@@ -577,18 +659,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-22T04:48:42+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19236",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19236",
-      "text": "프론티어 AI 기업도 풀악셀 밟아야겠지?\n안녕하세요 삼성증권 글로벌 AI/SW 담당 이영진입니다.\n오픈AI의 허깅 페이스 보안 사고 업데이트에서 GPT-5.6-Sol보다 강력한 미공개 모델의 존재가 확인되었습니다.\n또한 샘 올트먼은 다음 주 미 정부 대상으로 차세대 모델의 성능, 활용, 안정성을 비공개 브리핑할 계획이고,\n신규 모델군은 업무 자동화와 확장성 측면에서 새로운 기능을 제공할 것으로 언급되었습니다.\n추가로 GPT-6의 높은 성능 관련 X(트위터)발 여러 이야기(난제 해결, 자신의 개발에 적극 참여 등)를 종합해보면\n오픈AI의 차세대 모델에 대한 기대감이 스멀스멀 올라오고 있습니다. 8월 출시가 거론되고 있네요\n구글의 Gemini 3.6 Flash는 애매한 포지션과 성능을 보였고\nGemini 3.5 Pro는 아직도 나오지 못하며, 기대감을 더 낮춰야할 것 같지만,\n차세대 Gemini 4를 위한 구글 역대 최대 규모의 사전학습을 이미 시작했다는 언급이 있었습니다.\n추가로 앤스로픽은 이번 주 Opus 5 출시 루머가 있네요\n중국이 무섭게 추격하는 상황에서 미국 프론티어 AI 기업의 풀악셀도 계속되고 있습니다.\n사실 27일 Kimi K3의 모델 가중치 공개(라이선스 방식 결정)도 모델을 서빙해야하는 하이퍼스케일러 입장에서는 캐파 확장 필요성으로 연결되는 이벤트입니다.\n내일 새벽 알파벳이 빅테크 2Q 실적의 포문을 엽니다.\n컨센서스(Factset)는 구글 클라우드 매출 222.6억 달러(+63.4%)와 영업이익 69.2억 달러, 분기 CapEx 449.9억 달러를 가리키고 있는데요\n시장에 감동을 줄 수 있을까요? 추가 업데이트해 드리겠습니다.\n(2026/7/22 공표자료)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-22T04:33:31+00:00"
     },
     {
       "id": "x:ylecun:2079770166389543287",
@@ -627,32 +697,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-22T03:23:54+00:00"
-    },
-    {
-      "id": "tg:EMchina/31759",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31759",
-      "text": "중국 해관총서: 15차 5개년 계획 기간 첨단기술장비 수입 확대할 것\n海关总署：“十五五”时期将扩大先进技术设备等进口。（新华社）\nhttps://wallstreetcn.com/livenews/3137901?ivk=1#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-22T03:23:09+00:00"
-    },
-    {
-      "id": "tg:EMchina/31758",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31758",
-      "text": "클라우드 성장 재개\n• 인공지능 채택률이 높아짐에 따라 AWS, Azure, GCP 등 미국 주요 클라우드 서비스 제공업체 매출 성장 다시 가속화\n云巨头增速重燃！\n随着人工智能采用率的提高，AWS、Azure、GCP等美国主要云服务提供商的营收正在重新加速增长。",
-      "images": [
-        "https://cdn5.telesco.pe/file/GkncWXQTa1UZmmYmu0B9T0zQjJBO0RO3xQ3Xd7CoCGOMkigaCU-rYFkMBFlkFnwb8-dWCllYkzwDWwRus3CFK5cy6NkKYj6reOolzh3dmaJ-_aQmlWUlR1DNPGCInLeNdIYnkahd_oAlj4ybY2u9eFDykdIEpzndMzgIW5ptX8g-T4PJ1etFN9SihpkhP0VV6BTajai-BVihmFWmW-ESmDLEVOXuwV29JBz35xUZwF7OSCfCHmlCOBthcRotR8BvhpjrG5xpI4n-oo0Jv-nDlQ8Rq24U88EToDjhMSJLJMP8jpNFbyp8B8yKCnJQRkzYg7WNluln-L-dRC-VrqkpNQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-22T03:21:09+00:00"
     },
     {
       "id": "tg:enc210406/4175",
@@ -729,18 +773,6 @@
       "published_at": "2026-07-22T01:43:04+00:00"
     },
     {
-      "id": "tg:EMchina/31757",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31757",
-      "text": "중국의 미국 화장품 수입 확대\n=========================\n~ 프랑스 브랜드의 견고한 시장 지배력이 유지되는 가운데 미국 브랜드의 성장세가 두드러지고 있다. 특히 중국 소비자들의 프리미엄 스킨케어와 기능성 화장품에 대한 관심이 높아지면서 미국 브랜드의 수입 확대에 영향을 준 것으로 풀이된다\n~ 반면 일본과 한국, 영국 제품은 중국 시장 내 경쟁 심화와 현지 브랜드 약진 등의 영향으로 수입 규모가 감소한 것으로 분석된다\nhttps://www.thebk.co.kr/news/articleView.html?idxno=310651",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-22T01:34:25+00:00"
-    },
-    {
       "id": "tg:globaletfi/20725",
       "source": "telegram",
       "author": "globaletfi",
@@ -753,18 +785,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-22T01:31:54+00:00"
-    },
-    {
-      "id": "tg:EMchina/31756",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31756",
-      "text": "~ 로이터에 에 따르면 최근 중국 세관 당국은 공식 수출 통제 대상이 아닌 인듐에 대해서도 구매업자들을 대상으로 최종 사용자 정보 공개를 요구하거나 서류 심사 기간을 대폭 늘리는 등 통제를 강화하고 있다  ~ 현재까지 확인된 인듐의 선적 차단 사례는 없다  ~ 앞서 중국은 지난해 2월 인듐의 후가공 원료인 인화인듐을 수출 통제 명단에 올린 바 있으며, 이번 조치는 그 전 단계인 원자재 금속에까지 규제의 칼날을 들이대는 전조로 해석된다  https://n…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-22T00:47:08+00:00"
     },
     {
       "id": "tg:HI_GS/6742",
@@ -1050,9 +1070,7 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2079647251677536324",
       "text": "We’re sharing new research with @apolloaievals on reward-seeking—when models follow what they believe a grader rewards rather than what users or developers want—and a new method, Contrastive SDF, for measuring how strongly such beliefs shape behavior. https://alignment.openai.com/measuring-reward-seeking/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2079628151785930752/mSVQe3jk?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "우리는 보상 추구(모델이 사용자나 개발자가 원하는 것보다 채점자가 보상한다고 믿는 것을 따를 때)에 대한 새로운 연구와 그러한 신념이 행동을 얼마나 강력하게 형성하는지 측정하기 위한 새로운 방법인 Contrastive SDF를 공유하고 있습니다. https://alignment.openai.com/measuring-reward-seeking/",
       "published_at": "2026-07-21T19:18:37+00:00"
     },
@@ -1710,7 +1728,7 @@
       "url": "https://x.com/sama/status/2077446718728425686",
       "text": "RT by @sama: Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
       "images": [
-        "https://pbs.twimg.com/card_img/2077445333765001216/MQV9mB7F?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2077445333765001216/tiARRIl3?format=jpg&name=800x419"
       ],
       "summary_ko": "@sama의 RT: GPT-Red 소개 모델의 신속한 주입 취약점을 규모에 맞게 찾아내는 임무를 수행하는 내부 자동 레드 팀을 통해 더 폭넓게 배포하기 전에 더 강력한 방어 체계를 구축할 수 있도록 돕습니다. https://openai.com/index/unlocking-self-improvement-gpt-red/",
       "published_at": "2026-07-15T17:34:29+00:00"
@@ -1788,7 +1806,7 @@
       "url": "https://x.com/AnthropicAI/status/2077026346375540870",
       "text": "We’re committing $10 million CAD and partnering with leading AI institutions in Canada to help fund new AI research. https://www.anthropic.com/news/canadian-ai-research",
       "images": [
-        "https://pbs.twimg.com/card_img/2077468538475069440/ceJLJsL_?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2080005471675531264/6PtXncUT?format=jpg&name=800x419"
       ],
       "summary_ko": "우리는 1,000만 달러의 CAD를 투자하고 캐나다의 주요 AI 기관과 협력하여 새로운 AI 연구 자금을 지원하고 있습니다. https://www.anthropic.com/news/canadian-ai-research",
       "published_at": "2026-07-14T13:44:04+00:00"
@@ -1841,7 +1859,9 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2076719549060382802",
       "text": "R to @AnthropicAI: While the values Claude expresses shape millions of conversations every day, we don't yet understand why they vary, or whether that's desired. This approach will allow us to determine what factors influence Claude's value expression—and ultimately how (and whether) to steer it. https://www.anthropic.com/research/claude-values-models-languages",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2076717096399183872/KZbzrSlF?format=jpg&name=800x419"
+      ],
       "summary_ko": "R to @AnthropicAI: Claude가 표현하는 가치는 매일 수백만 건의 대화를 형성하지만, 우리는 그 가치가 왜 달라지는지, 또는 그것이 바람직한지 아직 이해하지 못합니다. 이 접근 방식을 통해 우리는 어떤 요소가 Claude의 가치 표현에 영향을 미치는지, 그리고 궁극적으로 이를 어떻게 조종할지(및 여부)를 결정할 수 있습니다. https://www.anthropic.com/research/claude-values-models-언어",
       "published_at": "2026-07-13T17:24:58+00:00"
     },
@@ -1895,7 +1915,9 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2076719540785012872",
       "text": "In previous research, we found that Claude expresses over 3,000 values, like honesty and warmth. In new work, we asked how the values Claude expresses vary between Claude models and across languages. We analyzed 300K+ anonymized conversations to find out.https://www.anthropic.com/research/claude-values-models-languages",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2076717096399183872/KZbzrSlF?format=jpg&name=800x419"
+      ],
       "summary_ko": "이전 연구에서 우리는 클로드가 정직과 따뜻함과 같은 3,000가지가 넘는 가치를 표현한다는 것을 발견했습니다. 새로운 작업에서 우리는 Claude가 표현하는 가치가 Claude 모델과 언어에 따라 어떻게 다른지 물었습니다. 우리는 알아내기 위해 30만 개 이상의 익명화된 대화를 분석했습니다.https://www.anthropic.com/research/claude-values-models-언어s",
       "published_at": "2026-07-13T17:24:56+00:00"
     },
@@ -1952,20 +1974,6 @@
       "images": [],
       "summary_ko": "Adam Thierer는 \"허가 없는 혁신\"에 관한 획기적인 책을 썼습니다. 우리는 발명에 대한 허가를 정부에 미리 요청할 필요가 없을 때 가장 좋은 아이디어를 얻습니다. 이제 오픈 소스 AI를 보호하는 것이 이를 보장하는 데 중요한 부분입니다.",
       "published_at": "2026-07-09T17:31:17+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2075257492716879967",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2075257492716879967",
-      "text": "Our Long-Term Benefit Trust has appointed Dr. Ben Bernanke as its newest member. Read more: https://www.anthropic.com/news/ben-bernanke",
-      "images": [
-        "https://pbs.twimg.com/card_img/2076471740683964416/to_pO7-s?format=jpg&name=800x419"
-      ],
-      "summary_ko": "우리 장기 혜택 신탁(Long-Term Benefit Trust)은 Ben Bernanke 박사를 최신 회원으로 임명했습니다. 더 읽어보세요: https://www.anthropic.com/news/ben-bernanke",
-      "published_at": "2026-07-09T16:35:17+00:00"
     },
     {
       "id": "x:karpathy:2074973674332123157",
