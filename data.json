@@ -1,21 +1,296 @@
 {
-  "updated_at": "2026-07-21T23:58:33+00:00",
+  "updated_at": "2026-07-22T03:32:39+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 18
+    "new_this_run": 29
   },
   "briefing": {
-    "headline": "엔비디아, 차세대 AI CPU '베라' 공개… AMD·인텔에 도전장",
+    "headline": "CATL 강한 실적 발표 예상",
     "bullets": [
-      "슈퍼마이크로, 견조한 마진 및 600억 달러 수주 달성",
-      "SK하이닉스, 인텔 美오하이오 공장 인수 추진",
-      "삼성전자, 평택에 하이브리드 본딩 50대 규모 양산 라인 구축",
-      "메타, CapEx 추정치 상향 및 캐파 재판매 매출 반영"
+      "중국 탄산리튬 현물가격 144700위안/톤",
+      "SK하이닉스, 인텔 美오하이오 공장 산다",
+      "엔비디아, 차세대 AI CPU '베라' 상세 공개",
+      "삼성중공업, 미국 원전 설계사와 부유식 원자력발전 플랫폼 개발",
+      "트럼프, 2028년부터 의약품 100% 관세"
     ],
-    "generated_at": "2026-07-21T23:58:33+00:00",
+    "generated_at": "2026-07-22T03:32:39+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31760",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31760",
+      "text": "중국 탄산리튬 현물가격 144700위안/톤. 전일대비 -5350위안 하락  上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报144700元/吨，较上日16:30价格下跌5350元/吨。  https://wallstreetcn.com/livenews/3137242?ivk=1#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T03:23:54+00:00"
+    },
+    {
+      "id": "tg:EMchina/31759",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31759",
+      "text": "중국 해관총서: 15차 5개년 계획 기간 첨단기술장비 수입 확대할 것\n海关总署：“十五五”时期将扩大先进技术设备等进口。（新华社）\nhttps://wallstreetcn.com/livenews/3137901?ivk=1#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T03:23:09+00:00"
+    },
+    {
+      "id": "tg:EMchina/31758",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31758",
+      "text": "클라우드 성장 재개\n• 인공지능 채택률이 높아짐에 따라 AWS, Azure, GCP 등 미국 주요 클라우드 서비스 제공업체 매출 성장 다시 가속화\n云巨头增速重燃！\n随着人工智能采用率的提高，AWS、Azure、GCP等美国主要云服务提供商的营收正在重新加速增长。",
+      "images": [
+        "https://cdn5.telesco.pe/file/GkncWXQTa1UZmmYmu0B9T0zQjJBO0RO3xQ3Xd7CoCGOMkigaCU-rYFkMBFlkFnwb8-dWCllYkzwDWwRus3CFK5cy6NkKYj6reOolzh3dmaJ-_aQmlWUlR1DNPGCInLeNdIYnkahd_oAlj4ybY2u9eFDykdIEpzndMzgIW5ptX8g-T4PJ1etFN9SihpkhP0VV6BTajai-BVihmFWmW-ESmDLEVOXuwV29JBz35xUZwF7OSCfCHmlCOBthcRotR8BvhpjrG5xpI4n-oo0Jv-nDlQ8Rq24U88EToDjhMSJLJMP8jpNFbyp8B8yKCnJQRkzYg7WNluln-L-dRC-VrqkpNQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-22T03:21:09+00:00"
+    },
+    {
+      "id": "tg:enc210406/4175",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4175",
+      "text": "- 필리핀 정부가\n- HD현대중공업이 건조한 호세 리잘급 호위함 2척의\n- 전투능력을 강화하기 위한 성능개량 사업을 추진하고 있는 것으로 확인됐다.\n- 근접방어무기체계(CIWS)와 예인선배열소나(TASS)를 설치·통합하는 사업으로,\n- 승인예산은 53억4900만 페소(약 1300억원)다.\n- 필리핀 국방부 입찰및조달위원회(BAC1)는 일반 경쟁입찰이 아닌\n- 직접계약(Direct Contracting)을\n- 조달 방식으로 승인했다.\nhttps://n.news.naver.com/article/119/0003113663?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T03:01:11+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23788",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23788",
+      "text": ">>CATL 강한 실적 발표 예상, 순환매 권고\n(모건스탠리)\n•모건스탠리는\nCATL이 금요일 2분기 실적을 발표할 예정이며, 회사 가이던스와 모건스탠리의 전망치를 모두 넘어설 가능성이 있다\n고 밝혔음. 예상 순이익은 각각\n220억 위안과 230억 위안\n임. 향후 실적 가이던스 역시 강할 것으로 전망했음.\n•최근 접촉한 많은 투자자들은 거래가 과도하게 몰린\nAI 섹터에서 적정 수준으로 분산 투자하고\n, 펀더멘털이 탄탄하면서 이전에는 상대적으로 주가 흐름이 부진했던 우량 기업으로 이동하기를 권고\n•CATL의 내년 성장 전망은 여전히 강할 것으로 예상됨.\n디젤차 전동화, ESS 슈퍼 사이클의 복수 성장 동력, 나트륨이온 배터리 제품 사이클 시작\n등이 계속해서 회사 성장을 뒷받침할 전망\n•CATL에 대한 ‘비중확대’ 의견을 유지",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T02:59:52+00:00"
+    },
+    {
+      "id": "rss:semianalysis:metas-infrastructure-team-needs-a",
+      "source": "rss",
+      "author": "semianalysis",
+      "author_name": "SemiAnalysis",
+      "author_url": "https://semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/metas-infrastructure-team-needs-a",
+      "text": "Meta’s Infrastructure Team Needs A Culture Reset\n\nMeta Infrastructure has become bloated, with middle managers expending resources on over-engineered technology solutions that lose sight of broader organizational needs.",
+      "images": [
+        "https://substack-post-media.s3.amazonaws.com/public/images/878a18e1-75b4-47a5-9b28-91d2f27ebf03_1376x768.png"
+      ],
+      "summary_ko": "Meta의 인프라 팀에는 문화 재설정이 필요합니다\n\n중간 관리자가 더 광범위한 조직 요구 사항을 간과하는 과도한 엔지니어링 기술 솔루션에 리소스를 지출하면서 메타 인프라가 비대해졌습니다.",
+      "published_at": "2026-07-22T02:41:34+00:00"
+    },
+    {
+      "id": "tg:enc210406/4174",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4174",
+      "text": "- 삼성중공업은\n- 미국 원전 설계·엔지니어링 기업 사전트 앤 런디(Sargent & Lundy·S&L)과\n- 범용 부유식 소형모듈원자로(FSMR) 표준 플랫폼 개발을 위한\n- 상호 우선 협력 양해각서(MOU)를 체결\n- FSMR은 소형모듈원자로(SMR)를 해상 부유체에 탑재해 전력을 생산하는 차세대 해상 원전 플랫폼\n산업통상부 장관 방미에 맞춰\n한국 조선사들도 미국에서\n여러 일정을 소화하시는 모습입니다.\nhttps://n.news.naver.com/article/629/0000517936?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T01:54:44+00:00"
+    },
+    {
+      "id": "tg:enc210406/4173",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4173",
+      "text": "[김정관 산업통상부 장관 방미 목적]\n- 이번 방미의 가장 중요한 목적은 한미 조선협력센터 개소식을 우리 정부와 미국 정부가 같이 하는 행사가 있습니다.\n- 거기에는 미국의 주요 장관님들 그리고 국회 상원, 하원 의원님들 그리고 우리 국내 기업뿐만 아니라 미국의 조선 관련 기업들 그리고 우리 국회 한미 친선 의원 몇 분도 같이 하는 행사가 있습니다.\n- 그 행사가 의미가 있다고 생각하는 건 우리가 일종의 마스가 프로젝트라고 해서 계속해 왔었는데 그걸 공식적으로 하는 플랫폼을 우리가 하나 갖게 됐다는 측면에서 우리 정부나 미국 정부가 굉장히 뜻깊게 생각하고 있는 상황이라 일단 그것 자체가 굉장히 큰 의미 있는 행사라고 생각을 하고요.\n- 두 번째는 현재 미국과 관련된 투자 프로젝트 관련해서 내용들을 좀 더 구체화시키고 일정들을 협의할 예정으로 있고 그게 제일 중요한 일정들, 그 두 가지입니다.\nhttps://n.news.naver.com/article/052/0002382792?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T01:52:23+00:00"
+    },
+    {
+      "id": "tg:HI_GS/6744",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/6744",
+      "text": "[삼성중공업, 미국 원전 설계사와 부유식 원자력발전 플랫폼 개발]\n• 삼성중공업이 미국 원전 설계·엔지니어링 기업 사전트 앤 런디(S&L)와 범용 부유식 해상 원자력발전 플랫폼(FSMR) 개발 협력 MOU를 체결함\n• S&L은 70년 이상 원전 프로젝트 설계를 주도해온 기업으로 ENR 2026 탑 설계사 소스북 원전 플랜트 리딩 기업에 선정됨\n• 양사는 특정 노형에 한정되지 않고 다양한 SMR을 탑재할 수 있는 범용 FSMR 표준 플랫폼을 공동 개발할 계획임\n• 전력망이 부족한 도서 지역 및 군사기지 전력 공급과 미국 등 글로벌 해상 원전 시장 상업 배치를 목표로 추진함\n❗️\n삼성중공업, SMR 탑재 부유식 원전(FSMR) 표준 플랫폼 공동 개발로 글로벌 해상 원전 시장 진출 본격화\n출처: [연합뉴스]\nURL:\nhttps://www.yna.co.kr/view/AKR20260722056400003?section=industry/all\n─────────────────────\n🎴\n잘하고 있따! 이거시 미래다!!",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T01:47:01+00:00"
+    },
+    {
+      "id": "tg:HI_GS/6743",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/6743",
+      "text": "[세진중공업, 베트남에 대규모 신공장 구축…글로벌 조선기자재 생산 거점 확장]\n• 베트남 반퐁 경제특구 내 11ha 부지에 최대 약 560억원 투자해 연산 4.2만t 규모 신공장 기공\n• 1단계 2027년 12월 완공, 2028년 4월 2단계 공사 완료 후 데크하우스 및 엔진케이싱 등 상업 운전 개시 예정\n• 기존 HD현대베트남조선 사내 공장(연산 7천t) 대비 현지 생산능력 6배 이상 확충\n❗️\n글로벌 수주잔고 확대 및 기자재 수요 증가 대응과 해외 시장 점유율 확대를 위한 대규모 거점 투자\n출처: [더구루]\nURL:\nhttps://www.theguru.co.kr/news/article.html?no=104712\n─────────────────────\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T01:43:04+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19234",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19234",
+      "text": "\"AI가 똑똑해질수록 수요는 더 커진다\"… 젠슨 황, Kimi 3로 인한 AI 과잉 투자 우려 일축\n젠슨 황 엔비디아(NVIDIA) CEO는 중국의 신흥 AI 모델 'Kimi 3' 등 고효율 AI의 등장이\nAI 분야의 과잉 투자를 유발할 것이라는 시장 일각의 우려에 대해 \"완전히 거꾸로 된 생각(It's exactly backwards)\"이라며, AI가 똑똑해질수록 컴퓨팅 파워에 대한 수요는 오히려 기하급수적으로 늘어난다고 강조\n했습니다.\n1. Kimi 3와 AI 과잉 투자 논란에 대한 반박\n배경:\n중국 AI 스타트업 '문샷 AI'가 더 적은 비용으로 높은 효율을 내는 'Kimi 3' 모델을 출시하자, 시장에서는 AI 인프라에 대한 과잉 투자 우려가 제기되었습니다.\n젠슨 황의 입장:\n\"Kimi 3는 매우 유용하고 똑똑한 AI입니다.\nAI가 똑똑해지면 사람들은 이를 더 많이 사용하게 되고, 사용하는 사람이 늘어날수록 이를 실행할 컴퓨터(컴퓨팅 인프라)가 더 많이 필요해집니다.\n\"\n따라서\n고성능 AI의 등장이 컴퓨팅 장비 수요를 줄이는 것이 아니라, 오히려 폭발적인 수요를 이끌어내는 것이 매우 논리적이라고 설명\n했습니다.\n2. 오픈소스 AI 모델과 산업 생태계에 대한 견해\n대다수의 사람들이 과거 DeepSeek을 오해했듯이 Kimi에 대해서도 오해하고 있다고 지적했습니다.\nDeepSeek과 Kimi 모두 AI 산업 발전에 매우 유익하며,\nAI 시장에는 앤트로픽(Anthropic)이나 오픈AI(OpenAI) 같은 폐쇄형 모델(상용 서비스)뿐만 아니라 Kimi, 통이천문(Qwen), 네모트론(Nemotron)과 같은 우수한 오픈소스 모델도 함께 필요하다고 강조했습니다.\n3. 엔비디아 컴퓨팅 자원의 압도적 경쟁력\n클라우드 서비스 제공업체(CSP)와 빅테크 기업들이 남는 컴퓨팅 자원을 빌려주는 트렌드와 관련해,\n엔비디아의 자원은 모든 AI 모델을 실행할 수 있는 '대체 가능성(fungible)'이 뛰어나고 수명이 길며 수요가 극도로 강하다고 밝혔습니다.\n엔비디아 장비는 \"세계에서 가장 임대하기 쉬운 컴퓨터(the most rentable computer in the world)\"이며,\n좋은 가격에 임대할 수 있기 때문에 기업들이 남는 엔비디아 인프라를 대여해 주는 것은 매우 경제적이고 합리적인 선택\n이라고 덧붙였습니다.\nhttps://www.ctee.com.tw/news/20260722700578-430502",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T01:41:20+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19233",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19233",
+      "text": "GPU 가용성이 다시 낮아지고 있습니다.\nB200 가용성은 이미 0%였습니다.\nKimi K3 이후 GH200 가용성이 급격히 낮아지고 있습니다.\nhttps://x.com/i/status/2079646250643681375",
+      "images": [
+        "https://cdn5.telesco.pe/file/gHoGOhlF7I57jtHOBFibZZmS7hx88TDIBY18YTL898xGa-4H6F_FEVGDG21-ne_GtJDO5ROssaGrpPdJCzMvqiV_pypR7kpiHb-XMbOYsNp31HOahDsSf5moSHtDqUQF08rJk2XqPcxhDFt_6LzpKx7L4BRPyTKJyUOSCWl7of1jOXQAm7usBSsS11W4R_Irf_yY1sNtAZ7I0NiNM-Ucm3v_Pku4feiUD4yNcEA44JgpR3eg43_p1lMsRM9UZOy_yTi6PR_duwY7X0RECvuykX9cPQaIOjif0cDdvJggloPuoG1k-CdytMuvH1geuuWdgJ9gNMyr5IQRFo1p1sgTpg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-22T01:37:27+00:00"
+    },
+    {
+      "id": "tg:EMchina/31757",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31757",
+      "text": "중국의 미국 화장품 수입 확대\n=========================\n~ 프랑스 브랜드의 견고한 시장 지배력이 유지되는 가운데 미국 브랜드의 성장세가 두드러지고 있다. 특히 중국 소비자들의 프리미엄 스킨케어와 기능성 화장품에 대한 관심이 높아지면서 미국 브랜드의 수입 확대에 영향을 준 것으로 풀이된다\n~ 반면 일본과 한국, 영국 제품은 중국 시장 내 경쟁 심화와 현지 브랜드 약진 등의 영향으로 수입 규모가 감소한 것으로 분석된다\nhttps://www.thebk.co.kr/news/articleView.html?idxno=310651",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T01:34:25+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20725",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20725",
+      "text": "» 8월초부터 시작되는 SpaceX 주식 매도 제한 해제 일정",
+      "images": [
+        "https://cdn5.telesco.pe/file/RMoDbcerZnRARa7ORs8GDJjSPJvE1F7p-lIW8DZ8SK_SINN9N6ymxgGdAHnMdipT5GYovJKG3odMidkJ6EVMH24W3AHEALZXlV_iluo2rqKOkqX5ePMFg4LwEfqg4BcIE9_BekCgeuWBcAjudGehbJLHY-Tt8hlCYtgk9MI6rfOP2Es0QyqQVSxaF3TXquqGVpcU2EVxPy5SaMUaginKI5B8fK37Ax_5JLvwhIYcth7AXePK8k8_2NGAbXewDEcOyryb0qE81Z9w7gfChRAhaqOe-0wexROMyhLIP9_VtjW00xxvVRETJVIei_BTcgPtwKEfrzJ4Gl349B1LfAaWgA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-22T01:31:54+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23787",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23787",
+      "text": "[단독] SK하이닉스의 승부수…인텔 美오하이오 공장 산다  SK하이닉스는 5년 내 미국 현지에서 메모리 반도체를 생산하는 것을 목표로 인텔과 오하이오 반도체 캠퍼스 인수 협상을 추진 중이다. 인수 금액과 시기는 아직 조율 중이다. 인텔은 지난 2022년 오하이오주 뉴올버니에 반도체 캠퍼스 착공을 시작했으며 현재 콘크리트 타설과 철골 골조 등 주요 기초 공사를 마친 상태다. 부지 크기만 약 404만6856㎡(약 120만평)로 총 8개의 반도체 공장을 지을…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T00:50:10+00:00"
+    },
+    {
+      "id": "tg:EMchina/31756",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31756",
+      "text": "~ 로이터에 에 따르면 최근 중국 세관 당국은 공식 수출 통제 대상이 아닌 인듐에 대해서도 구매업자들을 대상으로 최종 사용자 정보 공개를 요구하거나 서류 심사 기간을 대폭 늘리는 등 통제를 강화하고 있다  ~ 현재까지 확인된 인듐의 선적 차단 사례는 없다  ~ 앞서 중국은 지난해 2월 인듐의 후가공 원료인 인화인듐을 수출 통제 명단에 올린 바 있으며, 이번 조치는 그 전 단계인 원자재 금속에까지 규제의 칼날을 들이대는 전조로 해석된다  https://n…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T00:47:08+00:00"
+    },
+    {
+      "id": "tg:EMchina/31755",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31755",
+      "text": "관세 파티  https://m.newspim.com/news/view/20260722000056",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T00:44:36+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23786",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23786",
+      "text": "트럼프 \"2028년부터 의약품 100% 관세, 1년 후 200%\"\nhttps://magazine.hankyung.com/business/article/202607228317b",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T00:20:12+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19232",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19232",
+      "text": "[속보]\n엔비디아 루빈(SM107) 지원이 PyTorch에 추가되었으며, 앞으로 며칠간 수많은 공개 깃허브 리포지토리에도 추가될 예정",
+      "images": [
+        "https://cdn5.telesco.pe/file/EVmvemZ3AeLpYeVX8bft3cLPBS33ZF3rJ_MoKaxUOBkN1dSzlSblUoHdxJZh9UnFDKqjsAuhNb2DP74p1USAfpHPUIFMhJ4IjvCLKBIYKaatDJlhk7r0GMiq7FMnPxVaC_5fzQ6lBhmkrekX2-2AomewKbvYqcghKhWjEf4X2oA8UeuMcPSDoqfZu2rw-XaihTEZzm53-0qfzonNfozU4o7JlDWacUZ7WqGPDL6SkVeGHNNGzEUhQT_uGNLcaBQlHtw5kGcduPa-84TWMRSOjZNxh4VHDeTsFwcQ0mGyGHpsx5CaTSE9bVPKN7uRpKwWVH6h-_m3cy6NblF7l2aw8A.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-22T00:15:58+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23785",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23785",
+      "text": "[속보] 코스피 급등에 매수 사이드카 발동 | 연합뉴스\nhttps://www.yna.co.kr/view/AKR20260722038300008",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T00:08:32+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19231",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19231",
+      "text": "[단독] 백악관, 대학 지원 줄이고 AI· 개별 과학자 중심으로 연구자금 재편\n연간 2,000억 달러 규모의 지출 개편… 중국을 앞지르기 위해 개별 과학자 지원 우대\n트럼프 행정부가 중국을 제치고 기술 발전 속도를 높이기 위해,\n대학보다는 개별 과학자와 인공지능(AI) 활용을 지원하는 방식으로 연방 연구 지원 체계를 대대적으로 개혁할 계획입니다.\n화요일 백악관 과학기술정책실(OSTP)이 공개한 새 보고서와 비망록에 따르면,\n백악관은 개별 과학자들이 과학 연구에 AI를 활용함으로써 국가의 기술 발전 속도를 더욱 끌어올릴 수 있다고 주장했습니다.\nOSTP의 이번 지침은 트럼프 대통령의 두 번째 임기 잔여 기간 동안 정부 전체에서 집행될 연간 약 2,000억 달러 규모의 연방 연구개발(R&D) 예산 방향을 결정짓는 데 활용될 예정입니다.\nhttps://www.wsj.com/politics/policy/white-house-to-redirect-billions-in-research-funds-toward-ai-away-from-colleges-942dacb8",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T00:04:31+00:00"
+    },
+    {
+      "id": "tg:HI_GS/6742",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/6742",
+      "text": "[다올투자증권 조선/기계/방산 최광식]\n7/22(수) 데일리뉴스\n🛳\n조선\n[TradeWinds]\nDynacom and Cosco first to blink as Houthi threat disrupts Saudi oil trades in Red Sea\nTsakos Energy Navigation rakes in cash from suezmax sales\nIraq looks beyond Strait of Hormuz: Plans to restart pipeline damaged in 2003 US invasion\nEvalend Shipping tipped to break into newcastlemax bulkers with newbuildings\nEvangelos Marinakis goes for wind propulsion with new design of tanker\n[Upstream]\nChinese company wins onshore seismic contract in Mexico\nHalliburton shares fall as Middle East revenue dented by conflict\nAdnoc greenlights $6.2 billion offshore gas megaproject\nPetronas advancing $920 million Indonesia offshore project to first oil\nVaar Energi swoops to buy Danish North Sea producer BlueNord\n🚢\n조선\n57년 만의 VLCC 발주 폭발… 한화오션, 척당 2000억 '최고가 행진'\nhttps://tinyurl.com/26wto8go\n삼성중공업, 4조 잭팟 '2탄' 오나\nhttps://tinyurl.com/262y5x2r\n'조선 빅3' 2분기 시험대…수주 호황 넘어 '이익의 질' 겨룬다\nhttps://tinyurl.com/257joz8q\n한화오션, '웰리브지회' 사용자성 인정 판정 불복해 행정소송\nhttps://buly.kr/E7BOnd6\n🚀\n방산\n美 10조 자주포 사업 '정조준'…한화에어로 지상무기 수주 첫 도전\nhttps://tinyurl.com/26ljk28v\n한화에어로, 국내 방산기업 첫 해외공모채권 발행…5억달러 규모\nhttps://buly.kr/BIXH6Vr\n삼성•현대차그룹 '로봇동맹'\nhttps://buly.kr/Ga00X0p\n미 “방산업체, 중국산 소재•부품 쓰지 마”…무기 공급망 재편 본격화\nhttps://buly.kr/9XNhIO2\n솔디펜스, 방산 부체계 진출로 체질 개선…총 1370억원 수주 모멘텀 확보\nhttps://tinyurl.com/22gdzr5q\n현대로템, 방산•철도 쌍끌이 호조…역대 최대 실적 '파란불'\nhttps://tinyurl.com/2ctc5edm\n* 위 내용은 보도된 사실의 단순요약으로 별도의 컴플라이언스 절차 없이 제공됩니다",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T00:03:17+00:00"
+    },
     {
       "id": "tg:bornlupin/19230",
       "source": "telegram",
@@ -37,7 +312,7 @@
       "author_name": "DAOL 조선/기계/방산 | 최광식",
       "author_url": "https://t.me/HI_GS",
       "url": "https://t.me/HI_GS/6741",
-      "text": "🚀\nكوريا الجنوبية تكشف عن صاروخ كروز شبحي جديد لمقاتلة KF-21\n🚀\n한국, KF-21 전투기용 신형 스텔스 순항미사일 공개\n출처: Defense Arabia\n링크: [\nhttps://defensearabia.com/2025/10/%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D8%A7%D9%8D%D9%84%D9%85%D9%82%D8%A7%D8%AA%D9%84%D8%A9-kf21-%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AC%D9%88-%D9%81%D9%8A-2026/\n](https://www.google.com/search?q=https://defensearabia.com/2025/10/%25D9%2583%25D9%2588%25D8%25B1%25D9%258A%25D8%25A7-%25D8%25A7%25D9%2584%25D8%25AC%25D9%2586%25D9%2588%25D8%25A8%25D9%258A%25D8%25A9-%25D8%25AA%25D8%25A8%25D8%25AF%25D8%25A3-%25D8%25AA%25D8%25B3%25D9%2584%25D9%258A%25D9%2585-%25D8%25A7%25D9%258D%25D9%2584%25D9%2585%25D9%2582%25D8%25A7%25D8%25AA%25D9%2584%25D8%25A9-kf21-%25D9%2584%25D8%25B3%25D9%2584%25D8%25A7%25D8%25AD-%25D8%25A7%25D9%2584%25D8%25AC%25D9%2588-%25D9%2581%25D9%258A-2026/)\n* 한국, KF-21 보라매 전투기 탑재용 신형 공대지 스텔스 순항미사일(MCM) 공개\n* 중량 약 1,000파운드 규모로 NSM/JSM 미사일과 유사한 크기 및 성능을 갖추며 KF-21 내부 무장창 탑재 가능\n* 개발 주관사인 LIG넥스원은 IRST 단거리 공대공 미사일 및 K-ALCM(장거리 공대지 유도탄)과 함께 신형 미사일 전시\n* LIG넥스원, 영국 SPEAR-3와 유사한 스마트 미사일(KGGB-II 추정) 개발 병행 진행 중\n* 신형 MCM 미사일은 사거리 및 정밀도 측면에서 JSM과 유사한 수준을 목표로 개발\n* 장거리 스텔스 K-ALCM, 초음속 공대함 미사일(ASM-II), 공중발사 탄도미사일(K-ALBM), 극초음속 순항미사일(K-HCM) 등 KF-21 무장 라인업 구축 일환\n* KF-21 Block-II 개발 일정에 맞춰 KF-21 및 FA-50 맞춤형 패키지 무장으로 제공 예정\n* 신형 MCM 미사일 공식 발사는 K-ALCM(천룡) 공개 후 1~2년 내 진행 전망되며 향후 국산 무인 전투기(UCAV)에도 통합 예정\n───────\n🎴\n내부무장 탑재 가능!?!?",
+      "text": "🚀\nكوريا الجنوبية تكشف عن صاروخ كروز شبحي جديد لمقاتلة KF-21\n🚀\n한국, KF-21 전투기용 신형 스텔스 순항미사일 공개\n출처: Defense Arabia\n링크: [\nhttps://defensearabia.com/2025/10/%D9%83%D9%88%D8%B1%D9%8A%D8%A7-%D8%A7%D9%84%D8%AC%D9%86%D9%88%D8%A8%D9%8A%D8%A9-%D8%AA%D8%A8%D8%AF%D8%A3-%D8%AA%D8%B3%D9%84%D9%8A%D9%85-%D8%A7%D9%8D%D9%84%D9%85%D9%82%D8%A7%D8%AA%D9%84%D8%A9-kf21-%D9%84%D8%B3%D9%84%D8%A7%D8%AD-%D8%A7%D9%84%D8%AC%D9%88-%D9%81%D9%8A-2026/\n]\n* 한국, KF-21 보라매 전투기 탑재용 신형 공대지 스텔스 순항미사일(MCM) 공개\n* 중량 약 1,000파운드 규모로 NSM/JSM 미사일과 유사한 크기 및 성능을 갖추며 KF-21 내부 무장창 탑재 가능\n* 개발 주관사인 LIG넥스원은 IRST 단거리 공대공 미사일 및 K-ALCM(장거리 공대지 유도탄)과 함께 신형 미사일 전시\n* LIG넥스원, 영국 SPEAR-3와 유사한 스마트 미사일(KGGB-II 추정) 개발 병행 진행 중\n* 신형 MCM 미사일은 사거리 및 정밀도 측면에서 JSM과 유사한 수준을 목표로 개발\n* 장거리 스텔스 K-ALCM, 초음속 공대함 미사일(ASM-II), 공중발사 탄도미사일(K-ALBM), 극초음속 순항미사일(K-HCM) 등 KF-21 무장 라인업 구축 일환\n* KF-21 Block-II 개발 일정에 맞춰 KF-21 및 FA-50 맞춤형 패키지 무장으로 제공 예정\n* 신형 MCM 미사일 공식 발사는 K-ALCM(천룡) 공개 후 1~2년 내 진행 전망되며 향후 국산 무인 전투기(UCAV)에도 통합 예정\n───────\n🎴\n내부무장 탑재 가능!?!?",
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-21T23:54:02+00:00"
@@ -448,30 +723,6 @@
       "published_at": "2026-07-21T22:16:45+00:00"
     },
     {
-      "id": "tg:bornlupin/19222",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19222",
-      "text": "theinformation의 흥미로운 리포트에 따르면,\n엔비디아가 하루에 베라 루빈(Vera Rubin) 랙을 1,000개씩 생산할 수 있게 될 것이라고 합니다. 이는 분기당 6,300억 달러(약 800조 원)에 달하는 금액\n입니다.\n직접 수치를 계산해 보지는 않아서 선뜻 믿기 어렵긴 하지만, 만약 사실이라면 정말 엄청나네요.\n​게다가\n베라 CPU 랙과 Groq LPU 랙은 여기에 추가적인 매출로 더해질 것\n입니다.\n​오프테이크(물량 인수)를 보장해 주는 대가로\n네오클라우드(neocloud) 매출의 일정 지분을 가져가는 그들의 새로운 비즈니스 모델 역시 마찬가지\n입니다.\n​저는 특히\n이 마지막 포인트가 애널리스트들 사이에서 아직 깊이 다루어지지 않았으며, 앞으로 매우 중요해질 가능성이 높다\n고 생각합니다.\nhttps://x.com/i/status/2079607708693434850",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T22:15:30+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20712",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20712",
-      "text": "» 삼성전자, 런던에서 22일 오후 2시(한국 기준 밤 10시)에 신제품 공개 행사인 'Galaxy Unpacked 2026'을 개최할 예정\n삼성전자가 차세대 폴더블 스마트폰과 첫 스마트글래스를 앞세워 인공지능(AI) 기기 생태계 확장에 나선다.\n폴더블 라인업을 처음으로 3종으로 늘리고 AI 기반 확장현실(XR) 기기 전략도 공개할 예정이다. 스마트폰을 넘어 스마트글래스까지 아우르는 'AI 하드웨어' 시장 선점에 나섰다는 전망이다.\n삼성전자의 첫 스마트글래스·폴드8…오늘 밤 런던 언팩서 공개\nhttps://n.news.naver.com/article/015/0005312373?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T22:14:51+00:00"
-    },
-    {
       "id": "tg:EMchina/31752",
       "source": "telegram",
       "author": "EMchina",
@@ -512,18 +763,6 @@
       "published_at": "2026-07-21T21:43:24+00:00"
     },
     {
-      "id": "tg:bornlupin/19221",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19221",
-      "text": "이재용·최태원·이해진·젠슨 황, 미국서 뭉친다…'AI 어벤져스' 집결\n오픈AI·앤트로픽 참석도 거론\n이재용 삼성전자 회장과 최태원 SK그룹 회장, 이해진 네이버 의장이 이번 주 미국 실리콘밸리에서 젠슨 황 엔비디아 최고경영자(CEO)를 함께 만나는 것으로 파악됐다.\n글로벌 인공지능(AI) 시장을 이끄는 주요 기업 수장들이 한자리에 모이는 건 이례적이라는 평가다.\n회동에서는 AI 인프라 협력 방안 등이 논의될 것으로 알려졌다.\n22일 재계에 따르면 이번 주 미국 실리콘밸리 인근에서 삼성, SK, 네이버, 엔비디아 리더가 라운드테이블 형식으로 회동하는 자리가 추진되고 있다.\n이번 회동 날짜는 24일이 유력한 것으로 알려졌다. 이 회장과 최 회장과 이 의장, 황 CEO가 함께 참석하는 방안이 유력하며 샘 올트먼 오픈AI CEO와 다리오 아모데이 앤트로픽 CEO의 참석 가능성도 거론된다.\n재계에서는 이번 회동이 성사될 경우 글로벌 AI 시장의 메모리와 그래픽처리장치(GPU), 생성형 AI 서비스 등 분야별 최고 기업 리더들이 한자리에 모이는 건 사실상 처음이라는 평가가 나온다. 특히 젠슨 황 CEO는 지난 달 초 한국을 방문해 삼성·SK·현대차·LG·네이버 등 국내 주요 기업인들을 두루 만난 지 불과 한 달여 만에 다시 회동해 한국 기업과의 파트너십을 강조하는 셈이다.\nhttps://www.hankyung.com/article/2026072280467",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T21:38:47+00:00"
-    },
-    {
       "id": "tg:EMchina/31749",
       "source": "telegram",
       "author": "EMchina",
@@ -534,42 +773,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-21T21:20:12+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19220",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19220",
-      "text": "엔비디아, 차세대 칩 예정대로 진행 중 확인\n​엔비디아는 AI 데이터센터 활용을 위한 자사의 차세대 칩이 차질 없이 예정대로 진행 중이라고 밝혔습니다.\n​또한,\n자사의 새로운 베라(Vera) 프로세서가 AMD의 튜린(Turin)보다 더 빠르다고 발표했습니다.\n​엔비디아는\n주요 고객사들이 이미 베라 루빈(Vera Rubin) 하드웨어를 테스트\n하고 있다고 덧붙였습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T21:07:28+00:00"
-    },
-    {
-      "id": "tg:EMchina/31748",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31748",
-      "text": "~ 최태원 SK그룹 회장은 15일 제주에서 열린 ‘대한상의 하계 포럼’ 기자간담회에서 반도체 시장 전망에 대해, 현재 메모리 반도체 가격이 “비정상적으로 높다”고 했다. 그는 반도체 기업들을 위해서라도 “공급을 늘려 가격을 떨어뜨려야 한다”고 했다. 그러면서 미국에도 SK하이닉스 반도체 공장 설립을 고려하고 있다고 했다. 공급 확대와 통상 압력을 감안한 것이라는 뜻이다  ~ 최 회장은 내년에는 공급난이 더욱 극심해질 것이라고 했다. 그는 “어느 회사도 내년에…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T21:07:07+00:00"
-    },
-    {
-      "id": "tg:EMchina/31747",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31747",
-      "text": "“\n인공지능(AI)이 생산성 증가를 가져오더라도 새로운 일자리들이 창출되기까지는 시간이 걸릴 수 있다. 그 사이에는 고용이 악영향을 받고, 많은 나라에서 고용에 기반한 세수에도 부정적인 영향을 줄 수 있다\n.”\nhttps://n.news.naver.com/article/020/0003735595?sid=102",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T21:01:34+00:00"
     },
     {
       "id": "x:sama:2079661132302995790",
@@ -594,22 +797,10 @@
       "url": "https://x.com/OpenAI/status/2079658951264920020",
       "text": "We're partnering with @huggingface to investigate an unprecedented security incident. Cyber-capable OpenAI models compromised Hugging Face production during a benchmark evaluation. Sharing preliminary findings to help defenders understand emerging risks: https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "images": [
-        "https://pbs.twimg.com/card_img/2079691533628923904/0JccxaF2?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2079658176069464064/mEvWNUrr?format=jpg&name=800x419"
       ],
       "summary_ko": "우리는 전례 없는 보안 사고를 조사하기 위해 @huggingface와 협력하고 있습니다. 사이버 지원 OpenAI 모델은 벤치마크 평가 중에 Hugging Face 생산을 손상시켰습니다. 방어자가 새로운 위험을 이해하는 데 도움이 되는 예비 결과 공유: https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "published_at": "2026-07-21T20:05:06+00:00"
-    },
-    {
-      "id": "tg:EMchina/31746",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31746",
-      "text": "• LME 가격:  구리 +17달러(13598달러/톤)  알루미늄 +35달러(3185달러/톤)  아연 +48달러(3594달러/톤)   납 +20달러(1872달러/톤)  니켈 +349달러(17152달러/톤)  주석 +376달러(53156달러/톤)  코발트 보합(56290달러/톤)  LME期铜收涨17美元，报13598美元/吨。 LME期铝收涨35美元，报3185美元/吨。 LME期锌收涨48美元，报3594美元/吨。 LME期铅收涨20美元，报1872美元/吨。 LME期镍…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T20:00:20+00:00"
     },
     {
       "id": "x:GoogleDeepMind:2079653801502380543",
@@ -749,6 +940,18 @@
       "published_at": "2026-07-21T16:53:55+00:00"
     },
     {
+      "id": "x:demishassabis:2079595879808569534",
+      "source": "x",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2079595879808569534",
+      "text": "RT by @demishassabis: Today’s launches are all about better performance, lower latency, and a smaller bill. + 3.6 Flash cuts token usage by up to 65% on complex coding + 3.5 Flash-Lite reaches speeds of 350 output tokens/sec Both are live in the Gemini app today! Next up: Gemini 3.5 Pro, which has officially entered partner testing.",
+      "images": [],
+      "summary_ko": "@demishassabis의 RT: 오늘의 출시는 더 나은 성능, 더 짧은 대기 시간, 더 적은 비용에 관한 것입니다. + 3.6 Flash는 복잡한 코딩에서 토큰 사용량을 최대 65%까지 줄입니다. + 3.5 Flash-Lite는 초당 350개의 출력 토큰 속도에 도달합니다. 둘 다 오늘 Gemini 앱에 라이브로 제공됩니다! 다음은 공식적으로 파트너 테스트에 들어간 Gemini 3.5 Pro입니다.",
+      "published_at": "2026-07-21T15:54:29+00:00"
+    },
+    {
       "id": "tg:aetherjapanresearch/23778",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -795,7 +998,7 @@
       "author_name": "Google DeepMind(딥마인드)",
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2079589698490572961",
-      "text": "We’re rolling out three new models to make AI agents faster, smarter, and cheaper at scale: 🔵 Gemini 3.6 Flash: It uses fewer tokens than 3.5 Flash to deliver higher quality work at the exact same cost. 🔵 Gemini 3.5 Flash-Lite: A fast, cost-effective option for everyday tasks like processing documents and agentic search. 🔵 Gemini 3.5 Flash Cyber: A cybersecurity model built to find and patch critical software vulnerabilities.",
+      "text": "Pinned: We’re rolling out three new models to make AI agents faster, smarter, and cheaper at scale: 🔵 Gemini 3.6 Flash: It uses fewer tokens than 3.5 Flash to deliver higher quality work at the exact same cost. 🔵 Gemini 3.5 Flash-Lite: A fast, cost-effective option for everyday tasks like processing documents and agentic search. 🔵 Gemini 3.5 Flash Cyber: A cybersecurity model built to find and patch critical software vulnerabilities.",
       "images": [],
       "summary_ko": "우리는 AI 에이전트를 더 빠르고, 더 스마트하고, 더 저렴하게 만들기 위해 세 가지 새로운 모델을 출시할 예정입니다. 🔵 Gemini 3.6 플래시: 3.5 플래시보다 적은 토큰을 사용하여 정확히 동일한 비용으로 더 높은 품질의 작업을 제공합니다. 🔵 Gemini 3.5 Flash-Lite: 문서 처리 및 에이전트 검색과 같은 일상적인 작업을 위한 빠르고 비용 효율적인 옵션입니다. 🔵 Gemini 3.5 Flash Cyber: 중요한 소프트웨어 취약점을 찾아 패치하기 위해 구축된 사이버 보안 모델입니다.",
       "published_at": "2026-07-21T15:29:55+00:00"
@@ -813,70 +1016,6 @@
       "published_at": "2026-07-21T15:17:00+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23776",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23776",
-      "text": "GOOGLE ANNOUNCED GEMINI 3.6 WITH PRICES SET AT $1.50 PER MILLION INPUT TOKENS AND $7.50 PER MILLION OUTPUT TOKENS. ...",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T15:09:11+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23775",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23775",
-      "text": "번스타인) 사이버보안 2026년 중반 CISO 서베이: AI 주도 수요 지속 (7/21, Peter Weed)\n번스타인이 6월에 실시한 반기 CISO 서베이(미국 응답자 100명) 결과, 사이버보안 예산이 IT 예산 증가율을 상회할 것이라는 응답이 43%로 연말 '25 서베이의 약 30%에서 크게 상승했습니다(IT가 더 빠르다는 응답은 20%에 불과). 2026년 사이버보안 지출은 전년 대비 평균 약 7% 증가가 예상되며, CISO의 62%가 연간 지출 전망을 상향해 하반기 지출이 더 강해질 것을 시사합니다. 사이버보안 지출은 평균적으로 IT 예산의 약 8% 수준이며, 금융·테크·서비스 업종이 약 6% YoY 성장으로 가장 강한 순풍을 보였습니다.\n예산 배분에서는 소프트웨어가 최대 수혜 영역이며(응답자의 70%가 향후 12개월 증가 예상), 인력·매니지드 서비스가 그 뒤를 따랐고 하드웨어는 네트워크 보안 장비(방화벽 등, 58%가 투자 확대 예상)를 제외하면 대체로 보합이었습니다. 소프트웨어 내에서는 아이덴티티(지출 축소 응답 0%), 클라우드 보안, 엔드포인트가 최우선 투자 영역을 유지했습니다. 연말 '25 대비 증분 기준으로는 SecOps, 아이덴티티, 위협 인텔리전스의 지출 모멘텀이 가장 크게 개선된 반면, 엔드포인트는 강한 기반에도 불구하고 두 번째로 큰 하향을 보였고, 이미 가장 약했던 SSE는 추가로 악화되어 성장 기대 응답이 20% 미만으로 전 카테고리 최하위를 기록했습니다. SIEM, 이메일 보안, 시큐어 브라우저도 추가 하락했으며, 네트워크 보안·DDoS·데이터 보안(DLP)은 증가와 감소 응답이 동시에 늘어나는 양극화 양상을 보였습니다.\n벤더 평판에서는 CrowdStrike와 팔로알토가 압도적 선두를 유지하며 소폭 더 상승했고, AWS와 마이크로소프트가 그 다음 티어를 형성했습니다. 특히 AWS는 평판이 크게 개선되어 3위로 올라섰으며, 하이퍼스케일러 전반이 긍정적으로 움직였습니다. Splunk는 유일하게 평판이 하락한 벤더로, SIEM 지출 약세와 궤를 같이했습니다. 커버리지 내에서는 SentinelOne이 최저 점수를 받았고, CyberArk·Wiz·Arista도 하위권에 머물렀습니다.\n전략 측면에서는 소프트웨어·벤더 호스팅 SaaS·벤더 통합으로의 이동이 뚜렷했습니다. CISO의 약 절반이 벤더 난립(vendor sprawl)을 우려해 플랫폼 통합을 우선시하고 있으며, SASE 통합 플랫폼 선호도 약 50%에 달했습니다. 물리 방화벽 탈피는 현재보다는 미래 계획의 성격이 강했으나, 약 60%가 1-2년 내 클라우드 대안으로의 전환을 예상해 Check Point, Cisco, Fortinet 하드웨어 부문에 장기 역풍 요인으로 지적되었습니다. 한편 자체 호스팅 선호가 7%에서 13%로 상승한 점은 일부 AI 워크로드의 온프렘 회귀 가설과 연결해 주목할 부분입니다.\nGenAI 관련해서는 CISO의 60% 이상이 GenAI/LLM이 공격의 속도와 정교함을 높였다고 답했으며, GenAI 투자는 기존 사이버 예산을 대체하는 것이 아니라 신규 예산으로 추가되는 경향이 확인되었습니다. AI 투자 최대 수혜는 에이전틱 SecOps(60% 이상이 예산 확대 계획)였고 데이터 보안이 2위였습니다. 반면 아이덴티티는 시장 내러티브와 달리 GenAI 수혜 응답이 엇갈렸는데, 이는 이미 최우선 투자 영역이어서 증분 여지가 제한적이기 때문으로 해석됩니다. AI 코딩 에이전트가 전통 AppSec 벤더(GitHub, GitLab, Snyk 등) 투자를 대체할 것이라는 응답이 과반을 넘어, AppSec 영역의 구조적 disruption 가능성도 언급되었습니다.\n투자 시사점으로는 목표주가·투자의견 변경은 없으며, Zscaler에 대해서는 SSE 지출 기대 약화가 시장 성숙화와 GenAI 우선순위에 밀린 결과일 수 있다는 점, CrowdStrike·SentinelOne에 대해서는 엔드포인트 지출 하향이 벤더들의 실적 발표 내러티브(GenAI발 EDR 현대화 수요 가속)와 상충될 수 있다는 점, Okta에 대해서는 아이덴티티가 구조적 성장과 유스케이스 확장의 이중 수혜로 의미 있는 증분 지출이 지속되는 몇 안 되는 카테고리라는 점이 지적되었습니다.\n(참고: 커버리지 투자의견 - PANW·OKTA·S·ZS Outperform, NET·CRWD·FTNT Market-Perform)",
-      "images": [
-        "https://cdn5.telesco.pe/file/ZIPWIK6j8Y3GbCFnZjhNx14WXjEz96tez6kMgIyAsPKODTGeumI4-V5dAP8srMrdf-GJ1FvIuD5KRhGdVfq5bEcUYpJsugn4vKpEON_kpnsPnDqumPI5ywwXjckLggxkKMApAWWMcXmrIminQZ-i7B0q_-0XHmE4wPERNruz6iYb9cLrGs4mrO7LQqq2Qw4uCPCB7Um6qhNXjJyHW0mf8EiDG1VvmMwYmQEu4dd8fu-GsoxOxIfy2q9CwAV2Iz5tlYwaCKZYJPS-zuYCxSYr2EqHLysqnfK3sgixc22HC9DrUwkQNSWl2mXlkGC6YHRRDmjXxIkzeghDBDfPay86bw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-21T14:55:02+00:00"
-    },
-    {
-      "id": "tg:EMchina/31745",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31745",
-      "text": "Kimi 이르면 6개월 내 홍콩 상장  • 투자자들에 이미 지배구조 개편 & 홍콩 IPO 준비 통지  • 빠르면 6개월 내 홍콩 상장 완료  Kimi有望最快6个月内港股上市 Kimi已通知投资者调整公司架构，筹备赴港IPO，最快可能6个月内就能完成港股上市。（36氪）   https://wallstreetcn.com/livenews/3135984?ivk=1#from=ios",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T14:50:47+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23774",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23774",
-      "text": "근저당 설정으로 블룸버그에도 나오셨네",
-      "images": [
-        "https://cdn5.telesco.pe/file/tur9eFMYjrMfGrVWk7lN55CKGw1P1WpnNVT0UR3Ek68UfdRUqvbXFXWAC-vbGhzi39oL_EF_dpa009cVx24baaZEJQmnwJ3zVVt6YhqqS6Pirv3j7x3VZvkdKuoakfTXXiTZ1ZP5FKF8NvI7m99qK-nx9aVdqoUdhwlH3E_tcFvWC2EQdnY8IWaoE0w5wg1HqO80-_6Fh20iHK2Hblqzt2RJyeUv9Z582ygNJwfs4SeGkYmQsV-THyWAALDB7pfgnJ3wSN7dI4FujQgQqDJ7QOMrkUm1hUUY4IGbTQ5-y8wmZz3hexyDJ7r6p4xZeIU5LpcnFGc4kX8gyCkK_q_mNA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-21T14:48:52+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23773",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23773",
-      "text": "블룸버그) 중국 문샷AI, 기업가치 500억 달러로 IPO 직전 자금 조달 논의\n문샷AI가 홍콩 상장에 앞선 마지막 자금 조달 라운드 논의를 8월에 시작할 예정이며, 최신 모델에 대한 열기를 활용해 최대 500억 달러의 기업가치로 자본을 유치하려 하고 있습니다. 소식통에 따르면 올여름 315억 달러 가치로 시작된 기존 라운드가 수일 내 마무리될 예정이고, 이것이 완료되는 즉시 후속 자금 조달 논의에 착수할 계획입니다. 이는 이르면 올해 안에 이뤄질 기업공개 이전의 마지막 자금 수혈이 될 전망입니다. 회사는 이달 말까지 역외 레드칩 구조 해체를 완료해 국내 자금 조달과 IPO 준비의 길을 열겠다는 목표를 세우고 있습니다.\n이러한 속도는 중국 AI 기술이 미국에 얼마나 뒤처져 있는지에 대한 기존 인식을 뒤집은 이 스타트업에 대한 투자자들의 관심을 방증합니다. 세계 최대 오픈웨이트 AI 모델로 소개된 2조 8천억 파라미터 규모의 Kimi K3는 OpenAI와 앤트로픽의 최신 프런티어 모델에 근접하는 성능으로 개발자와 투자자들을 놀라게 했습니다. Artificial Analysis에 따르면 Kimi K3는 종합 성능에서 앤트로픽의 Claude Fable 5와 OpenAI의 GPT-5.6을 제외한 모든 경쟁 모델을 앞섰습니다. 일론 머스크는 이 모델을 인상적이라고 평가한 반면, OpenAI 전략 총괄 딘 볼은 오픈웨이트 공개가 기술 세계를 완전한 AI 공산주의에 가깝게 몰아간다고 경고했습니다. 스콧 베선트 재무장관은 화요일 미국이 중국을 포함한 해외에서 만들어진 오픈소스 AI 모델을 면밀히 검토하고 미국 기업의 지식재산 절취 정황이 확인되면 조치하겠다고 밝혔습니다.\n사업 실적 측면에서도 문샷은 6월에 연간 반복 매출 3억 달러를 달성해 4월의 2억 달러에서 크게 뛰었으며, K3 출시 이후 일일 매출은 최소 6배 급증한 것으로 전해졌습니다. 이번 모델의 폭발적인 데뷔는 카네기멜론대학과 메타, 구글을 거친 33세의 은둔형 창업자 양즈린에게 일종의 명예 회복이 됐습니다. 그는 자신이 결성한 밴드의 리드 기타리스트를 포함한 칭화대 출신 기술자들과 함께 300명 규모의 회사를 세웠고, 중국 법인명은 그가 가장 좋아하는 핑크 플로이드 앨범 'Dark Side of the Moon'에서 따왔습니다. 기존 투자자로는 메이퇀과 텐센트, IDG캐피털·HSG·전펀드 등 벤처캐피털, 그리고 차이나모바일과 베이징 AI 산업투자펀드 같은 국유 자본이 포함돼 있습니다.\nhttps://www.bloomberg.com/news/articles/2026-07-21/china-s-moonshot-in-talks-on-pre-ipo-funds-at-50-billion-value",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T14:47:07+00:00"
-    },
-    {
       "id": "tg:enc210406/4169",
       "source": "telegram",
       "author": "enc210406",
@@ -889,30 +1028,6 @@
       "published_at": "2026-07-21T14:32:40+00:00"
     },
     {
-      "id": "tg:EMchina/31744",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31744",
-      "text": "다시 시작된 관세 파티  ==========================  ~ AP통신과 파이낸셜타임스(FT)에 따르면 트럼프 대통령은 20일(현지시간) 캐나다가 미국산 자동차와 주류, 치즈 등을 차별하고 있다며 50%의 추가 관세를 부과한다고 밝혔다. 새 관세는 발표 후 30일 뒤 발효될 예정이며, 미국·멕시코·캐나다협정(USMCA)의 원산지 규정을 충족한 제품에도 적용된다  ~ 트럼프 행정부는 관세 부과 근거로 1930년 관세법 338조를 꺼내 들었다.…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T14:19:10+00:00"
-    },
-    {
-      "id": "tg:EMchina/31743",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31743",
-      "text": "미국 전력망 한계. 뉴욕 오피스 빌딩 에어컨 강제 종료  • Baird 수석 연구원 Ben Kallo: 데이터센터 확장, 제조업 복귀, 인프라 노후화 및 전면 전기화 등 다수 요인 중첩  • 미국 전력망 이미 과부하 상태에. 뉴욕 오피스 빌딩이 \"제한된 전력으로 에어컨 을 끄는 것\"은 현재 전력망 압박 현실의 축소판에 불과  • 더 큰 전력 부하(기가와트급 대형 데이터센터)는 아직 실제로 오지 않음  美国电网快扛不住了，纽约写字楼强制关空调 Baird高级研究分析师Ben…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T14:16:02+00:00"
-    },
-    {
       "id": "tg:HI_GS/6737",
       "source": "telegram",
       "author": "HI_GS",
@@ -923,18 +1038,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-21T13:55:42+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19219",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19219",
-      "text": "OpenAI, 'ChatGPT Work' 출시 후 AI 에이전트 사용자 1,000만 명 돌파\n사용자 수 급증 (1,000만 명 달성)\nOpenAI의\nAI 에이전트 서비스 사용자 수가 1,000만 명에 도달\n했습니다.\n이는\n이번 달 초 수치와 비교했을 때 거의 2배 가량 증가\n한 결과입니다.\n성장을 이끈 주요 에이전트 제품\nChatGPT Work\n: 다양한 업무 및 작업 처리를 지원하는 최신 AI 에이전트 서비스.\nCodex\n: 프로그래밍 및 코딩 특화 AI 에이전트.\n업계 경쟁 구도\n주요 라이벌 기업인\n앤스로픽(Anthropic PBC)과의 주도권 싸움이 치열해지는 가운데, 이번 수요 급증은 OpenAI가 시장 경쟁력을 유지하는 데 강력한 동력\n이 되고 있습니다.\nhttps://www.bloomberg.com/news/articles/2026-07-21/openai-s-agents-reach-10-million-users-after-chatgpt-work-debut?srnd=homepage-americas",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T13:13:13+00:00"
     },
     {
       "id": "tg:HI_GS/6736",
@@ -1035,42 +1138,6 @@
       "published_at": "2026-07-21T02:29:49+00:00"
     },
     {
-      "id": "tg:HI_GS/6732",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/6732",
-      "text": "[HD현대重, 카타르發 LNG선 '할완'호로 기술력·납기 재입증]\n• HD현대중공업이 울산조선소에서 카타르에너지용 17만4000㎥급 LNG선 '할완'호 명명식을 개최\n• 다국적 컨소시엄 발주 12척 시리즈 중 9번째 선박으로 차세대 이중연료 엔진 및 공기윤활시스템을 적용함\n• 카타르는 총 128척 규모 초대형 프로젝트를 추진 중이며 HD현대중공업은 2차 17척(약 5.2조원) 수주 물량 등 적기 인도를 이어감\n• 노스필드 증산 및 지정학적 리스크에 따른 LNG 운송 수요 확대로 고수익 선종 중심의 조선업계 수혜 지속 전망임\n❗️\n초대형 카타르 프로젝트의 순조로운 적기 인도와 고부가가치 LNG선 중심 실적 모멘텀 유지\n출처: [파이낸셜뉴스]\nURL:\nhttps://www.fnnews.com/news/202607200836593684\n─────────────────────\n🎴\n카타르 1차가 끝나간다. 그다음에 선가가 확 오른 2차가 들어간다. 194 → 215밀(+11%) 이게 P-MIX, 빈티지 효과다~",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T00:25:26+00:00"
-    },
-    {
-      "id": "tg:HI_GS/6731",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/6731",
-      "text": "🚨\n🛡\n\"نوفوستي\": الولايات المتحدة تبحث عن شركاء يزودونها بأنظمة الدفاع الجوي\n🚨\n🛡\n\"노보스티\": 미국, 대공방어시스템 공급 파트너 모색 중\n출처: الخلاصة نت (RT Arabic / RIA Novosti)\n링크: [\nhttps://www.khlaasa.net/news1446824.html\n](https://www.khlaasa.net/news1446824.html)\n* 미국 정부, 순항미사일 및 무인기(드론)로부터 미군 기지를 보호하기 위한 대공방어시스템 공급 파트너 조달 요청서 공고\n* 미국 당국, 미군 시설 보호 목적으로 대공방어 발사대 배치 관련 솔루션을 제공할 수 있는 파트너 모색을 위해 시장 조사 진행 중\n* 요구 조건은 순항미사일과 소형·대형 무인기를 모두 요격할 수 있는 대공방어시스템 제공\n* 해당 요청에 대한 기업들의 답변 시한은 오는 8월 6일까지 설정\n* 미국과 이란 간 군사적 긴장 고조로 미군 기지 타격 우려가 커진 가운데, 방공 시스템 및 장거리 탄약 재고 부족 지적도 제기\n───────\n🎴\n똥줄이 탄다...",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T00:12:46+00:00"
-    },
-    {
-      "id": "tg:HI_GS/6730",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/6730",
-      "text": "✈️\n🇬🇧\nKAI believes T-50 family offers proven solution for UK\n✈️\n🇬🇧\nKAI, T-50 계열기가 영국에 검증된 솔루션 제공할 것으로 확신\n출처: FlightGlobal\n링크: [\nhttps://www.flightglobal.com/archive/2026/07/kai-believes-t-50-family-offers-proven-solution-for-uk/\n](https://www.flightglobal.com/archive/2026/07/kai-believes-t-50-family-offers-proven-solution-for-uk/)\n* 한국항공우주산업(KAI)과 록히드마틴, 영국 공군(RAF)의 차세대 고등훈련기 사업에 T-50(TF-50) 계열기 제안\n* 노후화된 BAE 시스템즈 호크(Hawk) 훈련기 대체 목적\n* T-50 플랫폼은 누적 30만 시간 이상의 비행 기록과 90% 수준의 높은 임무 가동률 입증\n* F-35 등 5세대 전투기 조종사 전환 교육 시간을 단축하는 고성능·비용효율적 검증 솔루션 강조\n* 보잉·사브 T-7A, 에어럴리스(Aeralis), 레오나르도 M-346, 튀르키예 훠젯(HÜRJET) 등과 수주 경쟁 진입\n───────\n🎴\n파이프라인은 많다...... 오래걸리고, 모를 뿐\n. 2027년 이후일듯 하다",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T00:05:04+00:00"
-    },
-    {
       "id": "tg:enc210406/4164",
       "source": "telegram",
       "author": "enc210406",
@@ -1081,18 +1148,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-21T00:00:09+00:00"
-    },
-    {
-      "id": "tg:enc210406/4163",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4163",
-      "text": "[한투증권 강경태] 삼성E&A(028050)\n텔레그램:\nhttp://t.me/enc210406\n보고서 링크:\nhttps://alie.kr/4bkTRwW\n2Q26 Preview: 수주 목표 초과 달성할 회사를 P/B 1.3배에 사자\n■ 영업이익은 컨센서스에 부합할 것, 중동 정세 영향없이 순조로운 공정\n- 2분기 연결 매출액은 2조 5,587억원(+17.5% YoY, +12.8% QoQ), 영업이익은 2,128억원(+17.6% YoY, +13.1% QoQ, OPM +8.3%)으로 추정. 매출액과 영업이익 모두 컨센서스에 부합하는 것\n- 부문별 매출액 추정치는 화공 1조 3,502억원, 첨단산업 7,360억원, 뉴에너지 4,725억원이며, 세 부문 모두 경상 수준의 공사 마진(GPM 13~14%)을 적용해서 영업이익을 산출. 평택을 위시한 첨단산업 공정은 본궤도에 올랐으며, 사우디 파드힐리 가스, UAE Taziz 메탄올 등 매출 기여도 높은 현장들의 경우 모듈 공정에 기반해 안정적인 기성을 쌓아간 것으로 파악\n- 중동 현장 인접 항만을 이용하지 못하는데 따른 운송비 부담은 기 책정된 예비비안에서 해결 가능한 수준이며, 카타르 라스라판 석화 등 공정 막바지인 현장의 정산이익 가능성을 감안하면 실제 영업이익은 상방으로 열려 있음\n■ 2026년 수주 목표 초과 달성할 것, 2027F P/B 1.3배에 진입하기 적절\n- 1.3배로 하락한 P/B(2027F)는 신규 진입하기에 매력적인 밸류에이션. 삼성E&A의 밸류에이션은 수주 성과에 따라 결정되는데, 수주 모멘텀은 하반기에 집중\n- 삼성E&A는 2026년 수주 목표 12조원을 초과 달성할 것. 상반기 누적 달성률이 60%에 달하기 때문이며, 첨단산업 부문의 그룹사 공사 대량 발주, lowest로서 사업주와 최종 협상 중인 뉴에너지 대형 공사, 사업주 의뢰로 스터디 중인 재건 공사 수주까지 감안하면 수주 목표 달성 가능성은 여느 해보다 높음\n■ 목표주가 3% 하향, 수주 시점 가정을 수정한 결과\n- 매수 의견을 유지하나 목표주가를 56,000원으로 3.4% 하향. 목표주가는 적정 기업가치 11조 500억원을 유통주식수로 나누어 계산했으며, 적정 기업가치는 2027년 순자산 추정치 5조 8,158억원에 목표 P/B 1.90배를 적용해 산출\n- 2026년 상반기로 가정한 일부 프로젝트 수주 시점을 하반기 말로 변경하면서 2026년과 2027년 순이익 추정치를 7.6%와 17.7% 하향한 결과, 2027년 순자산 추정치가 2.5% 감소한 만큼 목표주가를 하향\n- 단기 주가는 외풍에 흔들리지만, 공고하게 성장하는 수주와 실적이 장기 주가를 상방으로 이끌 것",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-20T22:48:32+00:00"
     },
     {
       "id": "x:ylecun:2079335039720952144",
@@ -1107,18 +1162,6 @@
       ],
       "summary_ko": "RT by @yleun: 🦔Nikkei 조사에 따르면 Alphabet, Microsoft, Amazon, Meta 및 Oracle의 대차대조표에 표시되지 않은 부채가 1조 6500억 달러로 공식 보고된 1조 3500억 달러보다 많습니다. 이는 시설이 가동될 때까지 회계 규정에 따라 부채로 계산되지 않는 GPU 계약, 데이터 센터 임대 및 합작 투자입니다. Meta의 숨겨진 부채는 4,200억 달러로 보고된 부채의 3배입니다. 오라클은 4년 만에 30배 성장했습니다. 다섯 명 모두 논평을 거부했다. My Take Nikkei는 실제 서류를 조사하고 지난 3월 BIS가 이미 \"그림자 차용\"으로 표시한 내용에 수치를 표시했습니다. 이들 기업은 대차대조표에서 빚진 금액보다 더 많은 빚을 지고 있으며, 회계 규칙에 따라 데이터 센터가 가동될 때까지 이를 유지할 수 있습니다. 그것은 합법적이지만 의미는",
       "published_at": "2026-07-20T22:38:00+00:00"
-    },
-    {
-      "id": "tg:enc210406/4162",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4162",
-      "text": "[한투증권 강경태] 2026년 7월 21일 (화)\n📈\n가격 동향\n• WTI 83.2달러/배럴(+0.9%)\n• 천연가스 2.9달러/MMBtu(-1.8%)\n『커버리지 주가』\n<건설>\n• DL이앤씨 -3.8%\n• 현대건설 -8.1%\n• GS건설 -4.6%\n• 대우건설 -4.0%\n• 삼성E&A -4.0%\n<건자재>\n• 한샘 +0.8%\n<디벨로퍼>\n• SK디앤디 -1.8%\n<리츠>\n• 신한알파리츠 +1.2%\n• 디앤디플랫폼리츠 +0.2%\n• 이리츠코크렙 -2.1%\n• 이지스밸류리츠 +0.6%\n• SK리츠 +1.1%\n• NH올원리츠 -0.3%\n• 이지스레지던스리츠 -1.9%\n• 롯데리츠 +1.5%\n• ESR켄달스퀘어리츠 +2.8%\n• 코람코라이프인프라리츠 +0.1%\n<조선>\n• HD한국조선해양 -4.0%\n• HD현대중공업 -7.3%\n• 한화오션 -4.0%\n• 삼성중공업 -6.1%\n• 한화엔진 -9.6%\n• HD현대마린솔루션 -1.4%\n📢\n뉴스\n<건설>\n▶️\n아람코와 20년… 삼성E&A, 에너지 사업 두각\nhttps://n.news.naver.com/article/014/0005550316?sid=101\n▶️\n대우건설, '1.4조원' 상도15구역 재개발 시공사로 선정\nhttps://n.news.naver.com/article/003/0014075027?sid=101\n▶️\n롯데건설, 1.9조 '샬롯펀드 7400억' 조기 상환\nhttps://n.news.naver.com/article/293/0000087820?sid=101\n<건자재>\n▶️\n\"시공 데이터를 자산화로\"…건자재·인테리어, '플랫폼 록인' 경쟁\nhttps://n.news.naver.com/article/421/0009069377?sid=101\n<리츠>\n▶️\n신한리츠운용, 패스트파이브타워 매각…공매 인수 2년 만\nhttps://n.news.naver.com/article/015/0005311573?sid=101\n▶️\n세빌스코리아, 코람코라이프인프라리츠 주유소 12곳 매각 주관\nhttps://n.news.naver.com/article/001/0016203066?sid=101\n▶️\n홈플러스 본사 부지, 아파트로 개발…제이알리츠의 ‘플랜B’\nhttps://n.news.naver.com/article/015/0005311568?sid=101\n<조선>\n▶️\n韓-그리스 외교장관 회담… 조선·해양 협력 논의\nhttps://n.news.naver.com/article/366/0001180451?sid=100\n▶️\n3500억달러 대미투자 첫발…'마스가' 조선협력센터 이번 주 출범\nhttps://n.news.naver.com/article/421/0009067271?sid=101\n▶️\n‘바다의 드론’ 무인수상정, K방산 새 먹거리로\nhttps://n.news.naver.com/article/023/0003988623?sid=101\n▶️\nHD현대-네이버클라우드, 조선산업 AI 생태계 구축 맞손\nhttps://n.news.naver.com/article/001/0016202694?sid=101\n▶️\n델핀, FLNG 2호기 파트너사 낙점…삼성중공업 추가 수주 '청신호'\nhttps://www.theguru.co.kr/mobile/article.html?no=104601\n▶️\n삼성중공업, 선박 데이터 활용도 높인 'SAS'\nhttps://www.fetv.co.kr/news/articleView.html?idxno=306637",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-20T22:02:59+00:00"
     },
     {
       "id": "x:OpenAI:2079289658622738481",
@@ -1191,20 +1234,6 @@
       ],
       "summary_ko": "RT by @yleun: 트럼프는 자신의 관세가 미국 제조업의 황금기를 가져올 것이라고 주장했습니다. 그러나 그의 재선 이후 우리는 75,000개의 제조업 일자리를 잃었습니다. 같은 기간 동안 바이든은 625,000명을 창출했다.",
       "published_at": "2026-07-20T14:15:56+00:00"
-    },
-    {
-      "id": "tg:enc210406/4161",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4161",
-      "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 7월 20일 종가 기준",
-      "images": [
-        "https://cdn5.telesco.pe/file/ZHETaeshGS8k2O4fHqma0ZVbTgA9BnrgofX3TNLLLLRdTgsim2ERfP1YXbU4RlTR7lKlFcTZE30bXOtmvurfM3iYyMLsYvVgIqVvVTW8HqY1EpcFTwiQAaBLYXGLBHPW1aQuUm2-_eVCED-VJ05wlpoK4BXtFCKs1hYNRZ-kgmr_cOeHinYFWyFBDMQbdhMKjTERhTCTTDOwgT5En0J8RmOlVyGSTPrzgBN5iB6ZLv5J1BsUyD4lmFCFYS0cyw_zcVRUKy2wH9VMQx7FXx78zojsZzGEv8G8tkXIygsKU0uAidXmVM2EyvXBT1RNYpQaGyCKvRc2QTtWsuHUeX4s6A.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-20T07:29:03+00:00"
     },
     {
       "id": "x:ylecun:2079000862962417996",
@@ -2173,20 +2202,6 @@
       "published_at": "2026-06-25T19:48:39+00:00"
     },
     {
-      "id": "x:demishassabis:2070180154069176399",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2070180154069176399",
-      "text": "RT by @demishassabis: Gemma 4 just hit 200M downloads in only 2.5 months! For context, total downloads across the entire Gemma family of models were at 100M when we launched Gemma 3. The community's acceleration is incredible. Thank you to everyone building with Gemma. Watch how developers are driving real-world impact:",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2070176383641464832/img/pj0pj4_5zJ532FjM.jpg"
-      ],
-      "summary_ko": "@demishassabis의 RT: Gemma 4가 단 2.5개월 만에 2억 다운로드를 기록했습니다! 상황에 따라 Gemma 3을 출시했을 때 전체 Gemma 모델 제품군의 총 다운로드 수는 1억 건에 달했습니다. 커뮤니티의 가속화는 놀랍습니다. Gemma와 함께 만들어가는 모든 분들께 감사드립니다. 개발자가 어떻게 실제 세계에 영향을 미치고 있는지 살펴보세요.",
-      "published_at": "2026-06-25T16:19:45+00:00"
-    },
-    {
       "id": "x:karpathy:2069547676849557725",
       "source": "x",
       "author": "karpathy",
@@ -2321,20 +2336,6 @@
       "images": [],
       "summary_ko": "이번 주에 출시된 기능은 다음과 같습니다. — Gemini 3.5 실시간 음성 대 음성 번역을 위한 최신 오디오 모델 — @NotebookLM은 채팅의 에이전트 기능, 고급 추론 및 새로운 출력 형식 제품군을 포함하여 대대적인 업그레이드를 받았습니다 — @GoogleLabs의 Project Genie는 이제 전 세계 Google AI Ultra 5x 구독자에게 제공됩니다. — @GeminiApp의 노트북은 이제 유럽 경제 지역, 영국 및 스위스에서 사용할 수 있습니다 — DiffusionGemma, 최신 실험 오픈 텍스트 생성에 대한 매우 빠른 접근 방식인 텍스트 확산을 탐색하는 @googlegemma 모델",
       "published_at": "2026-06-12T16:55:50+00:00"
-    },
-    {
-      "id": "rss:semianalysis:intel-should-raise-capital",
-      "source": "rss",
-      "author": "semianalysis",
-      "author_name": "SemiAnalysis",
-      "author_url": "https://semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/intel-should-raise-capital",
-      "text": "Intel Should Raise Capital\n\nIntel's woes are behind them. The heavy spending is ahead of them. Why an equity issuance in a hot equity market could make Intel so much better sooner.",
-      "images": [
-        "https://substack-post-media.s3.amazonaws.com/public/images/1d3242f2-cdb4-4df7-acd2-a8bce64f56ee_2528x1696.jpeg"
-      ],
-      "summary_ko": "인텔은 자본을 늘려야 한다\n\n인텔의 불행은 그 뒤에 있습니다. 막대한 지출이 그들 앞에 놓여 있습니다. 왜 뜨거운 주식 시장에서 주식을 발행하면 인텔이 훨씬 더 빨리 더 나아질 수 있습니까?",
-      "published_at": "2026-06-11T14:50:55+00:00"
     },
     {
       "id": "x:karpathy:2064409694761054332",
