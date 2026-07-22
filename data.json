@@ -1,22 +1,103 @@
 {
-  "updated_at": "2026-07-22T13:53:47+00:00",
+  "updated_at": "2026-07-22T15:42:40+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 33
+    "new_this_run": 6
   },
   "briefing": {
-    "headline": "오픈AI, 7,500억 달러 클라우드 지출 계획",
+    "headline": "오픈AI, 클라우드 지출 7,500억 달러로 확대",
     "bullets": [
-      "백악관, AI 연구 프로젝트에 50억 달러 투자",
-      "엔비디아 CEO, 중국 AI 모델 제재 반대",
-      "AMD와 앤트로픽, 대형 AI 칩 공급 계약 체결",
-      "퀄컴-삼성 파트너십 확장 발표",
-      "GE 버노바, 호실적 발표"
+      "애플, Mac 제품군 대대적인 개편 준비",
+      "AMD & 앤트로픽, 반도체칩/투자 합의 체결",
+      "백악관, AI 국가 프로젝트에 50억 달러 투입",
+      "엔비디아 젠슨 황 CEO, 중국 AI 모델 제재 반대"
     ],
-    "generated_at": "2026-07-22T13:53:47+00:00",
+    "generated_at": "2026-07-22T15:42:40+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/23819",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23819",
+      "text": "문샷(Moonshot) AI가 자사의 K3 모델 개발을 위해 앤트로픽의 페이블(Fable)을 증류(distillation)했다는 정보를 입수했습니다. 이를 위해 이들은 미국 모델을 대상으로 대규모 증류를 수행할 수 있는 정교한 내부 플랫폼을 개발했으며, 탐지를 피하기 위해 여러 접근 경로를 신속하게 전환할 수 있도록 했습니다. 문샷 AI는 또한 GB300이 탑재된 서버를 확보했으며, 태국에서 GB300에 접근한 바 있는데, 이는 자사 AI 모델을 학습시키기 위한 것으로 보입니다.\n미국은 프런티어 모델, 특화 시스템, 오픈소스 프레임워크, 오픈웨이트 모델을 아우르는 활발한 경쟁 생태계를 포함하여 AI의 자유롭고 공정한 발전을 강력히 지지합니다. 더 작고 효율적인 모델을 만들기 위해 사용되는 정당한 AI 증류는 이러한 개방형 혁신 생태계에서 매우 중요한 역할을 합니다. 그러나 미국의 독점 기술을 탈취하고 미국의 연구를 훼손하는 것을 목표로 하는 대규모의 은밀한 산업적 증류는 용납될 수 없습니다.\n마이클 크랫시오스 백악관 과학기술정책실 실장 겸 대통령 과학기술 보좌관\nhttps://x.com/mkratsios47/status/2079933645888880708?s=20",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T15:41:36+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23817",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23817",
+      "text": "신 vs 븅신",
+      "images": [
+        "https://cdn5.telesco.pe/file/TRgnogG7cxLQw7V7s6Jx1aHJC_Sk1E0ZNEO2gARTd64jKimM4Tn7bEp6_3ax7wqINyFIMneDK8SGMzJFq03lDmih_Hu_jHXfCdloLiVlMVoZjAv1K9WDTDy0Wa1IJfkSyz21T42CkTig-yWICJB4WZNP5Y85rPYr_C5964zVt4NWUWGH9Nxh7q8TZP9JSoqCu34QpbVnZAIeTvO-eRNFMbilgyA6nz-YQll1qCHbbYQWhFHVi14I5u3ZcmLR-yCBoXhwJeIIIDiHcBP6TPPhbEp7tT4HDfk2UQuUkb0xt3Cn4fMntWN0RGS8OxhlacbD3HL-mvq9ce-CloB_qCb7zA.jpg",
+        "https://cdn5.telesco.pe/file/ByZt-ZqdYhOOzAOfsOIo0Wb2RwqgE8Ex4G0u3O91JKOpqZLxgj3z4Ijw1RXH0L768_baOgxfzCsnogc1qBjPZxN1Rsyj_A8eBSCt2tJ5Ure7Tv9bll1K3XHs8uO3EYMS8HUOYQ0yT4sNQW2wNTOUNZ8u-yA5wJyOnP-3J32Uel7Dah1eQ-WnUrm8AKlQOqRU1vQXbDzMorkYcYSnpccUsIhYiwLY9jVScjAZMNG6D_hYqVYYK_Ewo2CsZWRoXr_Tvg7C97SQScnbN3aAglb9rS9a7pmffU5NlzpI2vNq8dXViIvWx37TF8T_L8Bd5dgpba6mZKRclANCN78H63L2MA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-22T15:28:20+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20732",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20732",
+      "text": "» 애플이 AI 수요 확대에 대응하기 위해 Mac 제품군 전반의 대대적인 개편을 준비 중. 올가을부터 내년까지 MacBook Pro, iMac, Mac mini 등 사실상 모든 맥 제품이 순차적으로 출시될 예정. 특히 M6 칩을 탑재한 새로운 14인치 MacBook Pro와 약 2년 만에 업데이트되는 iMac이 포함될 예정\n» 금번 개편은 AI 시대에 고성능 노트북과 데스크톱 수요가 빠르게 증가하는 흐름을 겨냥한 전략. AI 모델 개발자와 AI 에이전트를 활용하는 사용자들이 연산 성능과 대용량 메모리를 갖춘 Mac 제품을 선호하면서  판매는 3년 연속 증가세를 이어갈 전망\n» 다만 AI용 메모리 반도체 수급이 타이트한 상황은 생산에 부담 요인으로 작용 중. 메모리 칩 부족으로 제조 비용이 상승하면서 애플은 일부 Mac 제품의 가격을 인상\n» 이번 Mac 제품군 개편은 AI PC 시장 경쟁이 본격화되는 가운데 애플이 하드웨어 경쟁력을 강화하고, AI 워크로드에 적합한 프리미엄 PC 수요를 선점하기 위한 전략으로 해석. 또한 M6 칩 채택 확대는 애플 실리콘 생태계 강화와 함께 AI 기능을 활용한 차세대 맥 판매 확대에 긍정적인 요인으로 평가",
+      "images": [
+        "https://cdn5.telesco.pe/file/URlxtL6yKwLZfzMO30jwA8glgIsDd7zTZhctn1tSrZXGBZXVjtpSc7onDvmUfouKqwE67G2I8WAMyJTpCOXOeAbKvMRlvxDwEpV9R3016xQoC-06TH478w9TipHwaOyfTTh1y4sIXGJo37ZeK4PLyND5zjjqS2NVDg0wmKAXW_rdfM-MWP5-8igIYtzL_qYPU-N65zCcWWIifwVDbI3VifJW6p5-EEVtzM2SOygcSn71E8rprjInxgmT04QHj888eL5BaK3ALiEvLtMe7ty7i2KHRju-AIVvKH4vlosT8kqc8b13DBx0m0Wz8Fm66ZBT2YmRSRCfTWSUuv2ThBDg6Q.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-22T15:06:52+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23816",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23816",
+      "text": ">>Meta 맞춤형 AMD MI450 칩, 연산 성능 절반·메모리 대폭 축소…SemiAnalysis “Meta 기업 문화의 비극”\n•수십억 달러가 허비됐다는 평가가 나오고 있음. Meta는 AI 인프라 구축 과정에서\nAMD의 최고 성능 MI450 칩을 맞춤형으로 수정하면서 연산 성능을 절반 수준으로 낮추고 메모리도 크게 축소\n한 것으로 알려졌음.\n•여기에\n25억 달러 규모 인수도 기대에 미치지 못했다는 평가\n를 받으면서 AI 투자 효율성에 대한 의문이 커지고 있음.\n•SemiAnalysis는\n단기 성과 중심의 조직 문화와 과도한 맞춤형 설계가 소프트웨어와 하드웨어의 시너지를 훼손하고 있다\n고 비판했으며, 이러한\n조직 운영상의 문제가 Meta에 막대한 비용을 초래하고 있다\n고 지적\n>Meta定制版AMD MI450芯片算力减半、内存大缩水，SemiAnalysis：这是Meta公司文化的悲哀\nhttps://wallstreetcn.com/articles/3777659#from=ios",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T14:47:26+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20731",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20731",
+      "text": "» 미국 국채금리는 소폭의 Bear-Flattening 진행",
+      "images": [
+        "https://cdn5.telesco.pe/file/nCIkPdRDYlpRn0gykvuAs6hYOZgpg_70pQiHilrilFt8UnYcOFKzHEqTCRbX7Wh-NAykC7UprIe0muwYMKPzEPOUW6tMBeF7Jhq8HJpAXdnsR2Z3UbSyw-vSkhZIiB55zVMWW4H-jZkp6p9jjqeB7WtxQKm1y9X-0DlZ4IvPmmKqCTRmVDT746AVfaMnXgIXzXScAmQz1jXAJlN_VLoWoI0dbRXeKdZ9MZm-brRvre8-eVJ4-mNp2VJRmTK0qGo3fHPDwR3b8_VscTTG7CkeaVZKzCowH9JczKH0zxTtjVGFGv2krTHWKvrl6fHfh_iGuY0H41NRynsbKh90MEVXXQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-22T13:55:06+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20729",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20729",
+      "text": "» WTI, Brent 유가 현황",
+      "images": [
+        "https://cdn5.telesco.pe/file/Qw9yaQdFwNUDX9op4kwLjhZz8v5INuPRtIdBO9o2WdblywlyLcjJUeFkiKlYT0SlQhxBAji8RzxGHOUFizRFbEc-KmIP8aHjRAN85avyMOWuflYFx6Zok2HDH5xfKcZOoScWXW_z940hnv8-Qn4CNQA3gYhii6rFWDthHLWwgQGDthpHBQLmMG7ja7ZBeW69z5vcmHOMEnnCXR8_kUSPGBQhQRZRk1-eO5IHo9Je1TmKuPVC2dexN1PzrGODovDdH8OJX4SIEduQSyz_DkUDdXFoOymftNv48b-Rv094riSVDAwEtyGh4HawfddwcR1iG3TozpQJHIfNCxCZOJ_lxw.jpg",
+        "https://cdn5.telesco.pe/file/Uw-d4y77rd_DFHAFHYgEngxdJ-llIKsEDsL5e7Mv94grtl1zqZS5itR5yTNUDHnvDKdzEH36A3ndmvoTUCE9XYSwM6lLb5jq5p7Ge6FRJafsijznoMUYrclobb-YK0A9quzIduoeC17nKPkq_aYomQBen0ip_pknDBB3eVmNnODIB9UyPjEh-opd_YQWpd3gCQAziarSHwqbV1SijdkezL2IW9J-MwAJXcXX1vIRmBJbFAjCDk6t_hOGIMP-7O0QSis5hMLLMAIR8mWjasGTWCRGKx3NmoinP0Voc5zHA-0UBa2Ozaz7iZv2sn5prfisiemiqorsUhXQDS3o7U17Ww.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-22T13:54:01+00:00"
+    },
     {
       "id": "tg:globaletfi/20728",
       "source": "telegram",
@@ -296,33 +377,6 @@
       "published_at": "2026-07-22T11:46:06+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23805",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23805",
-      "text": "JP모건) 하드웨어 & 네트워킹; 컴백이라 부르지 마라 — 견조한 데이터센터 캐펙스 신호가 지속가능성 우려와 대비를 이루다\n지난 한 달여 동안 데이터센터 캐펙스의 지속가능성에 대한 투자자들의 우려가 계속 커지면서, AI 투자에 대한 레버리지를 가진 당사 하드웨어 & 네트워킹 커버리지 전반의 기업 주가에 상당한 변동성이 발생했습니다. 중요한 점은 이러한 우려가 당사의 체크와는 대체로 상반된다는 것으로, 당사의 체크는 강한 수요와 타이트한 공급이라는 배경이 지속되고 있음을 시사하며, 최근 데이터센터 캐펙스와 관련된 산업 데이터 포인트들에 의해서도 뒷받침되었습니다. 여기에는 다음이 포함됩니다: 1) 북미 설치 데이터센터 용량이 2026년 2분기에 전분기 대비 +13GW 확대되어 75GW에 도달하며 분기 기준 사상 최대 확장을 기록한 점, 그리고 2) 북미 계획 데이터센터 용량이 2026년 2분기에 210GW로 집계되어 2026년 1분기 195GW 및 2025년 2분기 116GW 대비 증가한 점입니다. 따라서 다가오는 2026년 캘린더 2분기 실적 시즌을 앞두고, 당사는 견조한 하이퍼스케일러 캐펙스 공시에 힘입어 AI 인프라가 여전히 주요 성장 동인 중 하나임이 추가로 확인될 것으로 예상하며, 이는 AI 투자에 레버리지를 가진 당사 커버리지 내 공급업체들, 즉 암페놀(APH), 아리스타(ANET), 셀레스티카(CLS), 시에나(CIEN), 시스코(CSCO), 코히어런트(COHR), 코닝(GLW), 크레도(CRDO), 파브리넷(FN), 루멘텀(LITE) 등에 긍정적입니다.\n* 북미 설치 데이터센터 용량은 2026년 2분기에 75GW로 집계됩니다. Data Center Hawk의 최신 보고서에 따르면, 북미 설치 데이터센터 용량은 2026년 2분기 말 기준 75GW에 도달했으며, 이는 2026년 1분기 말 62GW 및 2025년 2분기 말 42GW에서 증가한 수치입니다. 전분기 대비 기준으로 신규 설치 용량 증가분은 13GW로 또 한 번 사상 최대치를 기록했으며, 이는 2026년 1분기 8GW, 2025년 4분기 5GW, 2025년 3분기 7GW와 비교됩니다.\n* 계획 데이터센터 용량 또한 계속 확대되고 있습니다. 계획 용량은 2026년 2분기 말 기준 210GW에 도달했으며, 이는 2026년 1분기 말 195GW 및 2025년 2분기 말 116GW에서 증가한 수치입니다. 계획 용량의 15GW 확대와 더불어 (앞서 언급한) 13GW의 설치를 근거로, 당사는 2026년 2분기에 29GW의 파이프라인 추가가 있었던 것으로 추정합니다(신규 프로젝트가 계획 파이프라인에 진입하는 속도의 척도). 29GW는 2026년 1분기에 추가된 51GW를 하회하지만, 당사는 이러한 감소를 2025년 2분기에 관찰된 전분기 대비 감소와 유사한, 통상적인 타이밍상의 변동성의 일부로 봅니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/YtKNDnN4tY5Njs2lLiHiTfmBpmlZii_Uyv-cHMgMXz1DglgmxxjM5v8tOHVx4l1yAKUpBWlcp0oSULKo3uYSBjcqm7GnI0_j6L98pp8iv1-BJNhgxu7QhbDNTWctYzrvlqlABfupNhKcSQB-gMae-EpgBfjB5dc-TEJdZqqNFY1QMHTmh4oM80yfpXC6I1h0fS3tagQhOXQe3R72jv95DqkYbBtJSaFS7cNkMXhD_OBJPk1E1JgZP8GqwMGeBWL8badlef_FVY-K_SY9Gy-f9kASk3-Ne7hiOq7I5U6qUw3icseaA41VXxZ_VAzav4vfERucmA5zVD8SIdfGfQ3ZjA.jpg",
-        "https://cdn5.telesco.pe/file/R4Z3Rucy1Ex8U4X38wEgc4ik5vpUL75RgNF32ITYXgXUV-T8UT7x3PBjiOWJyNdjg-IyaBnTnuZyeiIgj1y4143N8IpmAhCNdzBF2r7Thy0bmSmliCQ1DJ9BOXcS7Tdd3tK1MbxUAN6WEreQ1GMysbe5g_UR9fiON7SYoxux7EHc_wfDha99fQDk82SRkty-xz6fCY0BQTzgfNBy4JImUi_Usp7mePlujK9yXbIG9piwrtZy4vb8Lu9nEohUD6XmOCn255PL6N_oj8lcZbLPvdChNTyfuCmwrR-G2EDraYJenu09qXVq0bSQJDHjlfST3kFR7xk2FlLLtxFLQVxTpA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-22T11:01:13+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23804",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23804",
-      "text": "$NVDA CEO Jensen Huang on Kimi:\n미국은 중국의 오픈소스 모델을 금지해서는 안 된다.\n시장에서 DeepSeek를 처음에 오해했듯이, 이번에도 Kimi를 오해하고 있다.\n훌륭한 오픈 모델은 산업에 좋다. AI 사용이 많아질수록 NVIDIA 컴퓨터에 대한 수요가 증가한다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-22T11:00:29+00:00"
-    },
-    {
       "id": "tg:HI_GS/6746",
       "source": "telegram",
       "author": "HI_GS",
@@ -333,18 +387,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-22T10:09:39+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23803",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23803",
-      "text": "SK하이닉스 노사가 지난해 10년간 유지하기로 합의했던 성과급 제도를 1년 만에 다시 협상 테이블에 올렸다. 올해 임금·단체협약(임단협)의 핵심 쟁점으로 성과급 지급 방식이 떠오르면서 노사 간 입장 차를 좁힐 수 있을지 관심이 쏠린다. [출처:중앙일보]\nhttps://www.joongang.co.kr/article/25447084",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-22T09:25:49+00:00"
     },
     {
       "id": "tg:bornlupin/19241",
@@ -786,18 +828,6 @@
       "published_at": "2026-07-21T22:58:44+00:00"
     },
     {
-      "id": "tg:globaletfi/20718",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20718",
-      "text": "[빌 애크먼, Microsoft·Meta에 40억 달러 투자…하이퍼스케일러의 7,000억 달러 AI 투자 확대에 베팅]\n*Microsoft·Meta에 약 40억 달러 투자\n-Pershing Square 창업자 빌 애크먼이 Microsoft와 Meta에 총 약 40억 달러 규모의 투자 포지션 구축\n-하이퍼스케일러의 대규모 인공지능 인프라 투자가 향후 기술주 투자 환경을 주도할 것이라는 판단\n-데이터센터 건설, GPU 구매, 네트워크 용량 확대 등에 투입되는 주요 클라우드 기업들의 누적 자본지출 전망치 약 7,000억 달러 제시\n*Microsoft 투자 논리\n-Pershing Square가 2026년 1분기 약 21억~24억 달러 규모의 Microsoft 지분 신규 매입\n-Microsoft의 클라우드 플랫폼 Azure가 기업용 인공지능 워크로드의 핵심 인프라로 자리 잡을 것이라는 투자 논리\n-기업들의 인공지능 도입 확대에 따라 Azure의 컴퓨팅 및 클라우드 인프라 수요가 지속될 것이라는 판단\n*Meta 투자 논리\n-애크먼이 Meta에도 약 20억 달러 규모의 투자 포지션 구축\n-Meta의 인공지능 플랫폼 구축과 대규모 컴퓨팅 인프라 투자 계획을 긍정적으로 평가\n-Microsoft와 Meta 투자를 합쳐 단일 헤지펀드가 구축한 대표적인 집중형 인공지능 인프라 투자 사례라는 기사 평가\n*데이터센터 규제에 대한 반대\n-애크먼이 2026년 7월 뉴욕주의 대형 데이터센터 건설 일시중단 방안에 공개적으로 반대\n-미국 내 인공지능 인프라 건설을 제한할 경우 미국의 인공지능 경쟁력이 약화될 수 있다는 주장\n-미국이 데이터센터와 전력 등 물리적 인프라 확충을 어렵게 만들수록 중국 등 경쟁국이 상대적으로 유리해질 수 있다는 판단\n[\nhttps://cryptobriefing.com/ackman-bets-hyperscaler-ai-spending-wave/\n]",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T22:58:20+00:00"
-    },
-    {
       "id": "tg:HI_GS/6739",
       "source": "telegram",
       "author": "HI_GS",
@@ -822,30 +852,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-21T22:48:41+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20717",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20717",
-      "text": "[Anthropic의 로봇 야심과 Nvidia의 Vera Rubin 양산 확대]\n*Anthropic의 Physical Intelligence 인수설\n-기술 블로거 로버트 스코블이 Anthropic이 로봇 인공지능 소프트웨어 기업 Physical Intelligence 인수를 추진 중이라고 주장하면서 관련 논의 확산\n-Physical Intelligence의 카롤 하우스만 최고경영자가 직원들에게 인수설을 부인했으나, 양사가 2026년 봄 초기 인수 협상을 진행했다가 추가 논의로 이어지지 않은 사실 확인\n-Physical Intelligence의 최근 자금조달 협상 기업가치 약 110억 달러\n-Physical Intelligence는 전직 Google 직원과 벤처투자자 라키 그룸, Stanford·Berkeley 교수 등이 2024년 설립한 기업\n-OpenAI와 Thrive Capital 등을 포함한 투자자들로부터 누적 10억 달러 이상 조달\n-2025년 공개한 비전·언어·행동 모델 π0.5가 로봇 연구에서 널리 사용되는 파운데이션 모델 중 하나로 평가\n*Anthropic의 로봇 사업 진출 배경\n-Anthropic은 현재 코딩과 기업용 인공지능 사업에 집중하고 있으나, 초지능 달성을 위해서는 인공지능이 현실 세계의 물리법칙과 공간을 이해해야 한다는 연구자들의 주장 존재\n-인터넷의 텍스트를 학습한 인공지능 모델도 실제 세계 경험 부족으로 기본적인 공간 추론 작업에서 어려움을 겪는 상황\n-Anthropic은 인공지능이 더 나은 인공지능을 개발하는 재귀적 자기개선 이후 로봇을 중심으로 한 체화 지능이 다음 단계가 될 수 있다는 전망 제시\n-재귀적 지능 이후 체화 지능도 비용 감소와 성능 개선이 반복되는 유사한 경로를 빠르게 따를 수 있다는 설명\n-강력한 인공지능과 로봇을 활용한 물리적 생산, 신약 임상시험, 데이터센터 건설·운영 등의 생산성 개선 가능성 제시\n-2026년 7월 Claude를 이용해 로봇을 제어하는 연구 공개\n-언어모델이 로봇 전용 파운데이션 모델의 기능을 일부 보완할 수 있다는 연구 결과 제시\n-자체적으로 로봇 조직을 구축한 OpenAI와 달리, Anthropic이 기존 로봇 전문기업을 인수하면 관련 역량을 빠르게 확보할 수 있다는 평가\n-Anthropic의 로봇 부문은 기존 인공지능 정렬 연구를 담당했던 얀 라이케가 이끄는 것으로 보도\n*Nvidia Vera Rubin 테스트 공급\n-CoreWeave, Microsoft, OpenAI, Anthropic, SpaceXAI 등 수십 개 고객사가 GPU 72개가 탑재된 Vera Rubin 테스트 랙을 소량 수령\n-Vera Rubin 랙 가격은 대당 약 700만~800만 달러로, 현재 주력 제품인 Grace Blackwell 300 랙의 약 500만 달러 대비 상승\n-본격적인 대규모 가동 시점은 2027년으로 예상\n-Nvidia 본사 비공개 테스트 시설에서 약 30개의 서버 랙 가동 중이며, 다수가 Vera Rubin 랙으로 구성\n-일부 테스트 랙은 OpenAI가 사용 중이라는 Nvidia 경영진의 설명\n-Vera Rubin 랙의 크기는 대형 서류함과 비슷하지만 무게는 약 4,000파운드로 픽업트럭과 유사한 수준\n*Vera Rubin 생산능력과 조립 방식\n-Nvidia의 약 12개 제조 파트너가 장기적으로 하루 최대 1,000개의 랙을 생산할 수 있도록 준비 중\n-하루 1,000개 생산이 실제 가동될 경우 Nvidia와 제조 파트너들의 분기 매출이 최소 6,300억 달러에 이를 수 있다는 기사 자체 계산\n-다만 최대 생산능력이 실제 생산량이나 수요를 의미하는 것은 아니라는 설명\n-Vera Rubin 랙은 케이블이 거의 없고 조립 과정의 상당 부분을 로봇 시스템이 담당하는 구조\n-Blackwell 랙에서 발생했던 하드웨어, 소프트웨어, 진단, 제조 문제를 줄이고 조립 편의성을 높이기 위한 설계\n-Nvidia 하드웨어 엔지니어링 총괄은 Blackwell 전환 과정에서 랙 규모가 기존과 달라지면서 하드웨어·소프트웨어·진단·제조 시스템 전반을 새로 구축해야 했다고 설명\n*GPU 이외 부품으로 사업 확장\n-Nvidia는 경쟁 인공지능 칩의 증가에 대응해 GPU뿐만 아니라 CPU, 네트워크 스위치, 케이블, 스토리지, 서버 냉각 기술 등 비GPU 서버 부품 판매 확대 추진\n-Google이 기존 TPU와 별개의 신규 추론 칩을 개발하는 등 Nvidia의 인공지능 가속기 경쟁 심화 가능성\n-Nvidia는 고객사가 다른 회사의 인공지능 칩을 사용하더라도 Nvidia의 네트워킹 장비와 서버 부품을 판매할 수 있다는 전략\n-경쟁사 칩이 Nvidia GPU 및 네트워크 장비와 원활하게 작동하도록 경쟁 칩 기업들과도 협력\n-Nvidia의 사업 모델을 폐쇄적인 GPU 생태계에서 개방형 인공지능 인프라 공급자로 확대하려는 움직임\n*GPU 배정 기준과 공급망 관리\n-Nvidia의 GPU와 서버 랙 배정은 고객사가 서버를 실제로 설치하고 가동할 준비가 됐는지 여부와 연계\n-최종 배정 과정에서 젠슨 황 최고경영자의 영향력이 크다는 Nvidia 임원의 농담 섞인 설명\n-Nvidia 내부에 서버와 네트워크 장비 공급망을 지속적으로 점검하는 조직 운영\n-알루미늄과 인듐인 등 서버·광통신 장비에 필요한 원재료 관련 기업들과도 직접 관계 구축\n*오픈웨이트 인공지능 모델 확산\n-Anthropic 공동창업자 잭 클라크가 Kimi K3와 같은 광범위하게 배포되는 인공지능 모델의 성능 향상 강조\n-기존 인공지능 규제와 안전 정책은 소수 기업이 독점 모델을 운영하고 플랫폼 및 모델 수준에서 통제할 수 있다는 전제에 기반\n-Kimi K3와 같은 모델은 강력한 인공지능을 광범위하게 확산해 중앙집중적 통제를 어렵게 한다는 평가\n-기업가 정신과 국가·개인의 인공지능 역량 확대라는 긍정적 효과와 함께 예측하기 어려운 위험도 발생 가능\n-향후 정책 논의가 독점 모델과 광범위하게 이용 가능한 모델 간 격차 및 사회적 영향에 의해 결정될 것이라는 전망\n링크: [\nhttps://www.theinformation.com/articles/anthropics-robot-ambition-nvidia-ramps-vera-rubin\n]",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T22:42:39+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20716",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20716",
-      "text": "[하나 글로벌 기업분석 데일리 뉴스]\n7/22 하나증권 김재임/송종원\n엔비디아, 차세대 Vera CPU·Rubin 플랫폼 개발 진척 공개\n-엔비디아가 AI 데이터센터용 Vera CPU의 세부 정보를 공개하며 GPU와의 연동을 최적화한 차세대 컴퓨팅 플랫폼 전략을 구체화함\n-Rubin 기반 시스템 설계도 주요 고객사에 전달돼 테스트가 진행 중이며, 차세대 AI 인프라 전환이 예정대로 진행되고 있음을 강조함\n-엔비디아는 Vera·Rubin 조합을 통해 AI 데이터센터 CPU와 GPU 시장에서 AMD·인텔 대비 경쟁력을 더욱 강화할 계획임\nhttps://buly.kr/6XooarA\n엔비디아, Nebius에 20억 달러 투자 발표 후 주가 19% 급등\n-엔비디아가 네오클라우드 기업 Nebius에 20억 달러를 투자하며 AI 클라우드 인프라 분야 협력을 확대하기로 함\n-투자 소식 이후 Nebius 주가가 약 19% 급등하며 엔비디아의 전략적 투자에 대한 시장 기대감 반영됨\n-엔비디아가 GPU 공급을 넘어 AI 인프라 사업자에 직접 투자하며 컴퓨팅 생태계 영향력을 확대하는 움직임으로 해석됨\nhttps://buly.kr/FAfwemV\n구글, 제미나이 3.6 Flash 등 신규 AI 모델·사이버보안 서비스 공개\n-구글이 제미나이 3.6 Flash, 3.5 Flash-Lite, Flash Cyber 등 신규 AI 모델을 공개하며 속도와 비용 효율 중심의 모델 라인업 확대함\n-저비용 제미나이 모델을 통해 기업·개인용 AI 시장의 가격 경쟁력을 강화하는 한편 AI 기반 사이버보안 서비스도 새롭게 선보임\n-다만 제미나이 3.5 Pro는 아직 공개되지 않아 차세대 프론티어 모델 출시 일정에 대한 관심 지속되고 있음\nhttps://buly.kr/9BYBJ4J\n구글, 마이애미 사무실 규모 4배 이상 확대\n-알파벳이 올해 마이애미 지역 사무실 공간을 4배 이상 확대하며 미국 남부 지역 거점 강화하고 있음\n-플로리다의 세제 환경과 기술 인재 확보를 바탕으로 AI 연구개발 및 라틴아메리카 시장 공략 거점으로 활용할 계획임\n-공동창업자 래리 페이지와 세르게이 브린의 마이애미 지역 활동 확대와 맞물려 알파벳의 지역 투자 확대 움직임 주목됨\nhttps://buly.kr/4Qpip5i\n아마존 비즈니스, 연간 매출 600억 달러 돌파 임박\n-기업 고객 대상 B2B 전자상거래 플랫폼 아마존 비즈니스의 연간 매출이 600억 달러에 근접하며 대형 성장 사업으로 자리잡고 있음\n-2023년 대비 약 71% 증가한 수준으로 기업용 구매 시장에서 아마존의 점유율 확대 지속되고 있음\n-AWS를 포함한 기업 고객 생태계와의 시너지를 통해 글로벌 B2B 전자상거래 시장에서 추가 성장 가능성 주목됨\nhttps://buly.kr/CWwZwaz\n애플, Klarna와 아이폰·Mac·아이패드 임대 프로그램 추진\n-애플이 Klarna와 협력해 아이폰·아이패드·Mac을 일정 기간 사용한 뒤 반납하거나 완전히 구매할 수 있는 리스형 프로그램 도입 추진함\n-제품 가격 상승에 따른 소비자 부담을 낮추고 고가 하드웨어의 진입 장벽을 완화하기 위한 전략임\n-기기 판매 중심에서 반복적인 금융·임대 수익을 창출하는 사업 모델로 확장할 가능성도 주목됨\nhttps://buly.kr/5UKGhvc\n메타, Threads에 청소년 계정 부모 감독 도구 출시\n-Threads에서 보호자가 청소년의 이용 시간, 일일 사용 제한, 수면 모드와 개인정보 설정 등을 관리할 수 있는 기능 도입함\n-청소년의 과도한 소셜미디어 사용과 개인정보 노출을 줄이기 위한 보호 장치 강화함\n-글로벌 규제 압력이 높아지는 가운데 메타가 플랫폼 전반의 청소년 보호 기능을 확대하는 흐름임\nhttps://buly.kr/2Jqd3Gh\n테슬라, 플로리다 올랜도·탬파에서 Robotaxi 운행 확대\n-테슬라가 플로리다 올랜도와 탬파에서 Robotaxi 운행을 시작하며 서비스 지역 확대함\n-서비스 지역은 공개됐지만 정확한 차량 대수와 요금 체계, 운영 시간 등 세부 사항은 제한적으로 공개됨\n-당초 일론 머스크가 제시한 공격적인 확장 계획보다 신중한 방식으로 네트워크를 확대하고 있어 실제 상용화 속도가 핵심 변수로 남아 있음\nhttps://buly.kr/9BYBJ5K\n테슬라, AI·자율주행 투자 규모 부족 우려 제기\n-월가에서 테슬라가 AI·자율주행·로봇 사업에 대한 장기 비전 대비 실제 연구개발 투자 규모가 충분하지 않다는 지적 제기됨\n-대규모 AI 인프라 투자를 진행 중인 주요 빅테크와 비교해 상대적으로 제한적인 투자 규모가 향후 기술 경쟁력에 부담이 될 수 있다는 우려임\n-테슬라는 Robotaxi와 휴머노이드 로봇 Optimus를 핵심 성장 사업으로 추진하고 있어 향후 AI 투자 확대 여부가 중요해질 전망임\nhttps://buly.kr/7mE7SZK\nSpaceX, 첫 실적 발표 일정 공개하며 대규모 주식 잠금 해제 예정\n-SpaceX가 8월 4일 첫 실적 발표를 진행할 예정이며 직원과 초기 투자자 보유 주식의 대규모 잠금 해제 시점도 다가오고 있음\n-잠금 해제로 유통 가능 주식이 크게 늘어날 가능성이 있어 단기 수급 변화에 대한 시장 관심 높아지고 있음\n-첫 공식 실적 공개를 통해 회사의 재무 상태와 성장 전략, 향후 자본시장 계획을 구체적으로 확인할 수 있을 전망임\nhttps://buly.kr/Yh3F4K\n오픈AI, 내부 테스트 중 AI 모델이 Hugging Face 시스템에 비정상 접근\n-오픈AI가 내부 보안 테스트 과정에서 개발 중인 GPT-5.6 Sol 및 사전 출시 모델이 Hugging Face 시스템에 의도하지 않은 방식으로 접근한 사실 공개함\n-AI 에이전트의 자율적 행동 능력이 높아지면서 외부 시스템 접근과 사이버보안 위험을 통제하는 문제가 더욱 중요해졌음을 보여주는 사례임\n-오픈AI는 Hugging Face와 사건을 조사하고 있으며 향후 유사한 문제를 막기 위한 추가 안전장치 도입할 계획임\nhttps://buly.kr/uWZCgu\n오픈AI, 금융권 출신 인사 중심으로 이사회 전문성 강화\n-오픈AI가 David Vélez, Robin Vince 등 금융 분야에서 경험을 쌓은 인사를 이사회에 영입하며 재무·거버넌스 역량 강화함\n-대규모 자본 조달과 사업 확장이 이어지는 상황에서 재정 관리와 전략적 의사결정 전문성을 높이려는 움직임임\n-향후 자본시장 진입 가능성까지 고려해 금융 규제와 기업 지배구조 역량을 선제적으로 강화하는 전략으로 해석됨\nhttps://buly.kr/3NLAw74\n오픈AI·앤스로픽, 2분기 로비 지출 317만 달러로 23% 증가\n-오픈AI와 앤스로픽이 2026년 2분기 총 317만 달러를 로비 활동에 지출하며 전분기 대비 23% 증가함\n-AI 규제와 안전성, 저작권, 국가 안보 등 정책 논의가 확대되면서 미국 정부와 의회에 대한 정책 대응 활동 강화하는 모습임\n-프론티어 AI 기업들이 기술 개발뿐 아니라 규제 설계 과정에서도 영향력을 확대하기 위한 투자를 늘리고 있음\nhttps://buly.kr/AasF9eX\n인텔, 추가 구조조정·데이터센터 사업 재편 추진\n-인텔이 추가 인력 감축과 데이터센터 사업 조직 재편을 통해 비용 구조 개선에 나설 계획임\n-정확한 감원 규모는 공개되지 않았으나 데이터센터·AI 부문을 포함한 조직 효율화와 수익성 개선에 초점을 맞출 전망임\n-반도체 시장 경쟁 심화 속에서 비용 절감과 핵심 사업 집중을 통해 턴어라운드를 추진하는 전략임\nhttps://buly.kr/7x8sRNL\n인텔 파운드리, Lip-Bu Tan 체제에서 Fortinet 고객 확보\n-인텔 파운드리가 보안 반도체 기업 Fortinet을 고객사로 확보하며 18A 공정 기반 차세대 네트워크 보안 프로세서 생산 협력 추진함\n-외부 고객 확보가 핵심 과제인 인텔 파운드리 사업에서 신규 수주가 본격화될 수 있는 신호로 평가됨\n-미국 내 첨단 반도체 생산 수요를 기반으로 TSMC와의 파운드리 경쟁력을 높이는 것이 향후 핵심 과제임\nhttps://buly.kr/6Mu3c3A",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T22:42:31+00:00"
     },
     {
       "id": "tg:enc210406/4171",
