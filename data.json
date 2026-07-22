@@ -1,21 +1,73 @@
 {
-  "updated_at": "2026-07-22T09:26:07+00:00",
+  "updated_at": "2026-07-22T11:47:24+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 14
+    "new_this_run": 4
   },
   "briefing": {
-    "headline": "이재용·최태원·정의선·이해진, 美 AI 서밋 참석",
+    "headline": "엔비디아 젠슨 황 CEO, 중국 AI 모델 제재 반대",
     "bullets": [
       "SK하이닉스, 성과급 제도 재협상",
       "엔비디아 RTX PRO 5000 가격 80% 폭등",
-      "CATL 배터리 적용 분야 확장",
-      "삼성, 200억 유로 가치 평가로 미스트랄 투자 논의 중"
+      "이란, 아마존 데이터 인프라 타격",
+      "삼성, 200억 유로 미스트랄 투자 논의",
+      "중국, 탄산리튬 가격 하락"
     ],
-    "generated_at": "2026-07-22T09:26:07+00:00",
+    "generated_at": "2026-07-22T11:47:24+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19242",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19242",
+      "text": "엔비디아 젠슨 황 CEO, 중국 AI 모델 제재·금지 움직임에 반대\n엔비디아(Nvidia)의 젠슨 황(Jensen Huang) CEO가 엑시오스(Axios)와의 단독 인터뷰에서\n중국의 오픈소스 AI 모델(Moonshot AI의 Kimi K3 등)에 대한 미국 정부의 제재 및 금지 움직임에 대해 강력한 반대 의사\n를 밝혔습니다.\n1. 중국 오픈소스 AI 모델 옹호\n미국 기업의 자유로운 활용 주장:\n황 CEO는\n중국의 우수한 오픈소스 AI 모델 사용을 금지할 이유가 없으며, 미국 기업들도 이를 자유롭게 활용할 수 있어야 한다고 강조\n했습니다.\n미국 선도 AI 기업들의 우려 일축:\nOpenAI나 Anthropic 같은 기업들이 중국 오픈소스에 위협받을 필요가 없다고 단언했습니다.\n오픈소스는 AI 시장 저변을 넓히는 역할을 하며, 유료 서비스는 편의성과 안정성, 높은 성능을 무기로 여전히 시장을 지킬 것\n이라 보았습니다.\n\"중국이 미국 기업을 시장에서 밀어내는 시나리오는 존재하지 않습니다. 가능성은 0%입니다.\"\n2. 시장 충격과 칩 수요에 대한 오해 교정\n월가와 워싱턴의 착각:\n월가는 딥시크(DeepSeek)나 최근 Moonshot AI가 출시한 키미(Kimi K3) 등\n고성능·저비용 오픈소스 모델이 엔비디아의 AI 인프라 수요를 줄일 것이라 걱정하지만, 이는 시장 흐름을 완전히 잘못 이해한 것\n입니다.\n하드웨어 수요 증가 선순환: AI 모델이 저렴해지고 무료로 제공될수록 더 많은 사람과 기업이 AI를 도입하게 되므로, 결과적으로 엔비디아의 칩, 데이터센터, 컴퓨팅 파워 수요는 더 커집니다\n.\n\"무료 AI는 하드웨어에 호재이고, 칩에 호재이며, 데이터센터에 호재입니다.\"\n3. 사이버 보안 및 오픈소스의 안전성\n백도어 우려 일축:\n중국산 모델 다운로드가 백도어 위험을 초래한다는 주장에 대해,\n기업들이 격리된 환경(샌드박스) 내에서 모델을 커스터마이징하고 제어하면 문제가 없다고 설명했습니다.\n오픈소스가 더 안전한 이유:\n외부 연구자들이 자유롭게 검증하고 약점을 찾아내어 방어할 수 있기 때문에 오픈소스가 보안 면에서 오히려 유리\n합니다. 단 하나의 폐쇄형 모델에만 의존하는 것이 더 위험합니다.\n앤트로픽 '클로드 미소스(Claude Mythos)' 공개 촉구:\n앤트로픽이 자체 개발한 사이버 안보 모델(Claude Mythos)의 접근을 제한하는 것을 비판하며,\n이 모델을 제한 없이 제공해 미국 기술 생태계의 방어력을 높여야 한다고 말했습니다.\n4. AI 기술 경쟁 및 IP(지식재산권) 도용 이슈\nAI 경주에 대한 시각:\nAI 경쟁은\n'승자와 패자가 갈리는 단거리 경주'가 아니며, 미국과 중국 모두 오랫동안 AI 기술을 지속해서 사용하게 될 것\n입니다.\n기술 도용(증류, Distillation) 논란:\n미국 재무부(스콧 베센트 장관)가 중국 모델들의 미국 기술 도용(증류)을 이유로 제재를 검토하는 것에 대해, 황 CEO는\n\"다른 AI나 지식 원천으로부터 학습하는 '증류'는 지능의 본질적인 과정\"이라고 리마인드했습니다.\n프라이버시나 계약 위반 등의 위법 행위는 제재하되, 모델 자체를 획일적으로 금지해서는 안 된다는 입장\n입니다.\n젠슨 황 CEO\n\"중국의 오픈소스 모델들은 훌륭하며, 훌륭한 오픈소스 모델은 사용되어야 합니다.\"\n\"모든 것이 단 하나의 모델, 단 하나의 공격 지점, 단 하나의 고장 원인이 된다면 전 세계는 훨씬 더 취약해질 것입니다.\"\n\"Anthropic을 억제하는 것은 미국의 이익에 도움이 되지 않습니다. 그냥 달릴 수 있게 내버려 둬야 합니다.\"\nhttps://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T11:46:06+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23805",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23805",
+      "text": "JP모건) 하드웨어 & 네트워킹; 컴백이라 부르지 마라 — 견조한 데이터센터 캐펙스 신호가 지속가능성 우려와 대비를 이루다\n지난 한 달여 동안 데이터센터 캐펙스의 지속가능성에 대한 투자자들의 우려가 계속 커지면서, AI 투자에 대한 레버리지를 가진 당사 하드웨어 & 네트워킹 커버리지 전반의 기업 주가에 상당한 변동성이 발생했습니다. 중요한 점은 이러한 우려가 당사의 체크와는 대체로 상반된다는 것으로, 당사의 체크는 강한 수요와 타이트한 공급이라는 배경이 지속되고 있음을 시사하며, 최근 데이터센터 캐펙스와 관련된 산업 데이터 포인트들에 의해서도 뒷받침되었습니다. 여기에는 다음이 포함됩니다: 1) 북미 설치 데이터센터 용량이 2026년 2분기에 전분기 대비 +13GW 확대되어 75GW에 도달하며 분기 기준 사상 최대 확장을 기록한 점, 그리고 2) 북미 계획 데이터센터 용량이 2026년 2분기에 210GW로 집계되어 2026년 1분기 195GW 및 2025년 2분기 116GW 대비 증가한 점입니다. 따라서 다가오는 2026년 캘린더 2분기 실적 시즌을 앞두고, 당사는 견조한 하이퍼스케일러 캐펙스 공시에 힘입어 AI 인프라가 여전히 주요 성장 동인 중 하나임이 추가로 확인될 것으로 예상하며, 이는 AI 투자에 레버리지를 가진 당사 커버리지 내 공급업체들, 즉 암페놀(APH), 아리스타(ANET), 셀레스티카(CLS), 시에나(CIEN), 시스코(CSCO), 코히어런트(COHR), 코닝(GLW), 크레도(CRDO), 파브리넷(FN), 루멘텀(LITE) 등에 긍정적입니다.\n* 북미 설치 데이터센터 용량은 2026년 2분기에 75GW로 집계됩니다. Data Center Hawk의 최신 보고서에 따르면, 북미 설치 데이터센터 용량은 2026년 2분기 말 기준 75GW에 도달했으며, 이는 2026년 1분기 말 62GW 및 2025년 2분기 말 42GW에서 증가한 수치입니다. 전분기 대비 기준으로 신규 설치 용량 증가분은 13GW로 또 한 번 사상 최대치를 기록했으며, 이는 2026년 1분기 8GW, 2025년 4분기 5GW, 2025년 3분기 7GW와 비교됩니다.\n* 계획 데이터센터 용량 또한 계속 확대되고 있습니다. 계획 용량은 2026년 2분기 말 기준 210GW에 도달했으며, 이는 2026년 1분기 말 195GW 및 2025년 2분기 말 116GW에서 증가한 수치입니다. 계획 용량의 15GW 확대와 더불어 (앞서 언급한) 13GW의 설치를 근거로, 당사는 2026년 2분기에 29GW의 파이프라인 추가가 있었던 것으로 추정합니다(신규 프로젝트가 계획 파이프라인에 진입하는 속도의 척도). 29GW는 2026년 1분기에 추가된 51GW를 하회하지만, 당사는 이러한 감소를 2025년 2분기에 관찰된 전분기 대비 감소와 유사한, 통상적인 타이밍상의 변동성의 일부로 봅니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/YtKNDnN4tY5Njs2lLiHiTfmBpmlZii_Uyv-cHMgMXz1DglgmxxjM5v8tOHVx4l1yAKUpBWlcp0oSULKo3uYSBjcqm7GnI0_j6L98pp8iv1-BJNhgxu7QhbDNTWctYzrvlqlABfupNhKcSQB-gMae-EpgBfjB5dc-TEJdZqqNFY1QMHTmh4oM80yfpXC6I1h0fS3tagQhOXQe3R72jv95DqkYbBtJSaFS7cNkMXhD_OBJPk1E1JgZP8GqwMGeBWL8badlef_FVY-K_SY9Gy-f9kASk3-Ne7hiOq7I5U6qUw3icseaA41VXxZ_VAzav4vfERucmA5zVD8SIdfGfQ3ZjA.jpg",
+        "https://cdn5.telesco.pe/file/R4Z3Rucy1Ex8U4X38wEgc4ik5vpUL75RgNF32ITYXgXUV-T8UT7x3PBjiOWJyNdjg-IyaBnTnuZyeiIgj1y4143N8IpmAhCNdzBF2r7Thy0bmSmliCQ1DJ9BOXcS7Tdd3tK1MbxUAN6WEreQ1GMysbe5g_UR9fiON7SYoxux7EHc_wfDha99fQDk82SRkty-xz6fCY0BQTzgfNBy4JImUi_Usp7mePlujK9yXbIG9piwrtZy4vb8Lu9nEohUD6XmOCn255PL6N_oj8lcZbLPvdChNTyfuCmwrR-G2EDraYJenu09qXVq0bSQJDHjlfST3kFR7xk2FlLLtxFLQVxTpA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-22T11:01:13+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23804",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23804",
+      "text": "$NVDA CEO Jensen Huang on Kimi:\n미국은 중국의 오픈소스 모델을 금지해서는 안 된다.\n시장에서 DeepSeek를 처음에 오해했듯이, 이번에도 Kimi를 오해하고 있다.\n훌륭한 오픈 모델은 산업에 좋다. AI 사용이 많아질수록 NVIDIA 컴퓨터에 대한 수요가 증가한다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T11:00:29+00:00"
+    },
+    {
+      "id": "tg:HI_GS/6746",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/6746",
+      "text": "「HD현대중공업, 사우디 마킨과 해군 함정사업 협력 MOU 체결」\n• HD현대중공업이 사우디 마킨과 양해각서를 체결하고 신형 호위함 엔진 현지화 및 공급망 구축을 추진함\n• 마킨은 HD한국조선해양과 사우디아람코 등이 합작 설립한 엔진 제조사로 현지 인력 및 생산시설을 지원함\n• 사우디 비전 2030 방산 현지화 기조에 맞춰 기존 조선·엔진 협력을 해양 방산 분야까지 확장함\n❗️\n사우디 거점 합성 엔진공장 활용을 통한 중동 해군 함정 수주 경쟁력 제고\n출처: [매일신문]\nURL:\nhttps://www.imaeil.com/page/view/2026072217345122603\n─────────────────────\n🎴\n태국은 한화가, 페루는 현대가\n그리고 또 사우디는 현대인가?",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-22T10:09:39+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23803",
       "source": "telegram",
@@ -301,30 +353,6 @@
       "published_at": "2026-07-22T04:48:42+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23791",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23791",
-      "text": "JP모건) 슈퍼마이크로(Super Micro); F4Q26 잠정 실적 업데이트, 개선된 매출총이익률과 가속화되는 수주를 바탕으로 EPS 서프라이즈 시사\n슈퍼마이크로는 F4Q26(6월 결산) 잠정 사업 업데이트를 발표하며, 매출 가이던스를 기존 110억~125억 달러 범위의 하단, 즉 중간값 대비 거의 -6% 수준으로 하향 조정했습니다. 다만 보다 큰 긍정적 서프라이즈는 두 가지 측면에서 나타났습니다. 1) 매출총이익률: F4Q26 가이던스가 기존 8.2%~8.4%에서 15%~17%로 대폭 상향되었으며, 이는 고객 기반(예: 다변화)과 제품군(예: 전통적 서버, DCBBS 등) 전반에 걸친 우호적인 매출 믹스에 기인합니다. 이를 수정된 매출 전망과 결합하면, 추정 EPS는 시장 컨센서스를 최소 80% 이상 상회할 것으로 시사됩니다. 2) 수주: F4Q26 수주가 600억 달러 이상을 기록하며, 분기 중 업데이트였던 390억 달러는 물론 델(Dell)이 F1Q27(4월 결산)에 공개한 AI 서버 수주 240억 달러도 크게 상회했습니다. 이는 최근 서드파티 서버 시장 전망치의 상향 조정과 JPMe에서 강조된 견조한 수요 환경을 뒷받침합니다.\n전반적으로 당사는 슈퍼마이크로의 잠정 사업 업데이트가 동사 자체는 물론 DELL, HPE와 같은 동종업체에 대해서도 투자자들에게 긍정적으로 받아들여질 것으로 예상하며, 특히 견조하고 가속화되는 수주 확대를 감안할 때 더욱 그러합니다. 강력한 매출총이익률 성과 역시, 특히 최근 분기들의 불안정했던 고객 믹스 추세를 감안하면 반가운 서프라이즈로 다가올 것입니다. 다만 8월 11일 실적 발표 컨퍼런스콜을 앞두고 투자자들은 이러한 마진의 지속 가능성에 초점을 맞출 것으로 예상되며, 특히 지금까지의 C2Q 실적에서 이미 다른 하드웨어 기업들에게 부담으로 작용하는 조짐을 보인 메모리 역풍과 관련된 상존하는 부담 요인을 감안할 때 더욱 그러합니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-22T04:45:50+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23790",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23790",
-      "text": "챗GPT가 멋대로 외부 플랫폼 해킹…사상 초유의 'AI 보안사고'\n격리 환경서 평가시험 중 통제망 뚫고 인터넷 접속해 허깅페이스 해킹\n오픈AI \"연구속도 늦어져도 엄격 통제할 것\"…AI의 사이버위협 논란↑\nhttps://www.yna.co.kr/view/AKR20260722038800091",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-22T04:38:06+00:00"
-    },
-    {
       "id": "tg:bornlupin/19236",
       "source": "telegram",
       "author": "bornlupin",
@@ -573,20 +601,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-22T00:03:17+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19230",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19230",
-      "text": "AI 데이터센터가 전 세계 DRAM 공급량에서 차지하는 비중이 점점 늘어남에 따라, 메모리 가격이 급등\nDDR5 1G x 16 DRAM 현물 가격 신고가 경신 중",
-      "images": [
-        "https://cdn5.telesco.pe/file/PJyI3tpAT8ei3EGog5Afs9Ze2fssZO7ypb97Fd0ckpmyalhsPTcaEMCD6uNk2jJ_Gh2p2z7HkAPrSYCojznUOeZbLHQvWxrNh_Nu1jFy4PvdjNIkajaOO_QDUXx0sJ_0Htm_J3x_CeALtnhDoTlt8SGrDI-wU_wwa5MTe8RIuJcBfV_7wqDJIaclqba4qK5hUc9s6EzJJMA4BwFP7JV8zoSa_TssBfPjSTLAu1AZt_dKgPfEfv32a9R-y0Q9GThfgQ43LIcyf4cvE0jM8fGxgplHn30OjHa2gT9dLCDFoi9PJjzireccCq4PgrNNAdLt1BlPvvfZmtjBXE2Ixx6rbA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-21T23:56:14+00:00"
     },
     {
       "id": "tg:HI_GS/6741",
@@ -1155,18 +1169,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-21T06:00:47+00:00"
-    },
-    {
-      "id": "tg:HI_GS/6734",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/6734",
-      "text": "DAOL 조선/기계/방산 | 최광식\npinned a photo",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-21T02:30:26+00:00"
     },
     {
       "id": "x:ylecun:2079335039720952144",
