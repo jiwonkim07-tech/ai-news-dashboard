@@ -1,4 +1,46 @@
 {
+  "x:OpenAI": [
+    "x:OpenAI:2080339986717790394",
+    "x:OpenAI:2080339982288568709",
+    "x:OpenAI:2080339983962181983",
+    "x:OpenAI:2079916436232036614",
+    "x:OpenAI:2079658951264920020",
+    "x:OpenAI:2079647256941412817",
+    "x:OpenAI:2079647254701634028",
+    "x:OpenAI:2079647253191619001",
+    "x:OpenAI:2079647251677536324",
+    "x:OpenAI:2079289658622738481",
+    "x:OpenAI:2079260550895382965",
+    "x:OpenAI:2078243670265041038"
+  ],
+  "x:demishassabis": [
+    "x:demishassabis:2080332282028507234",
+    "x:demishassabis:2080021408856293584",
+    "x:demishassabis:2079933042718617782",
+    "x:demishassabis:2079595879808569534",
+    "x:demishassabis:2078160968513704270",
+    "x:demishassabis:2077811657385079045",
+    "x:demishassabis:2077803351392268314",
+    "x:demishassabis:2077721122116640969",
+    "x:demishassabis:2076957440109625718",
+    "x:demishassabis:2076747075036045645",
+    "x:demishassabis:2074878171392909774",
+    "x:demishassabis:2074847444823674883"
+  ],
+  "x:GoogleDeepMind": [
+    "x:GoogleDeepMind:2080321522040807769",
+    "x:GoogleDeepMind:2080321519952056441",
+    "x:GoogleDeepMind:2080321516814647630",
+    "x:GoogleDeepMind:2079925576077324552",
+    "x:GoogleDeepMind:2079653801502380543",
+    "x:GoogleDeepMind:2079653799602368604",
+    "x:GoogleDeepMind:2079615466356580535",
+    "x:GoogleDeepMind:2079615468294320365",
+    "x:GoogleDeepMind:2079589701795627317",
+    "x:GoogleDeepMind:2079589698490572961",
+    "x:GoogleDeepMind:2079527699157008775",
+    "x:GoogleDeepMind:2078132675332755933"
+  ],
   "telegram:aetherjapanresearch": [
     "tg:aetherjapanresearch/23853",
     "tg:aetherjapanresearch/23852",
@@ -14,6 +56,7 @@
     "tg:aetherjapanresearch/23842"
   ],
   "telegram:globaletfi": [
+    "tg:globaletfi/20758",
     "tg:globaletfi/20757",
     "tg:globaletfi/20755",
     "tg:globaletfi/20754",
@@ -70,6 +113,7 @@
     "tg:enc210406/4175"
   ],
   "telegram:bornlupin": [
+    "tg:bornlupin/19280",
     "tg:bornlupin/19279",
     "tg:bornlupin/19278",
     "tg:bornlupin/19277",
@@ -109,23 +153,7 @@
     "x:ylecun:2079769567765962866",
     "x:ylecun:2079660071009542328",
     "x:ylecun:2079608792996511770",
-    "x:ylecun:2079457219892871458",
-    "x:ylecun:2079301434357456931"
-  ],
-  "x:demishassabis": [
-    "x:demishassabis:2080332282028507234",
-    "x:demishassabis:2080021408856293584",
-    "x:demishassabis:2079933042718617782",
-    "x:demishassabis:2079595879808569534",
-    "x:demishassabis:2078160968513704270",
-    "x:demishassabis:2077811657385079045",
-    "x:demishassabis:2077803351392268314",
-    "x:demishassabis:2077721122116640969",
-    "x:demishassabis:2076957440109625718",
-    "x:demishassabis:2076747075036045645",
-    "x:demishassabis:2074878171392909774",
-    "x:demishassabis:2074847444823674883",
-    "x:demishassabis:2074157282477154597"
+    "x:ylecun:2079457219892871458"
   ],
   "x:AnthropicAI": [
     "x:AnthropicAI:2079979809606664564",
@@ -139,43 +167,7 @@
     "x:AnthropicAI:2076719544727716287",
     "x:AnthropicAI:2076719542404018631",
     "x:AnthropicAI:2076719540785012872",
-    "x:AnthropicAI:2075271759289303522",
-    "x:AnthropicAI:2075257492716879967",
-    "x:AnthropicAI:2075005777522172146"
-  ],
-  "x:GoogleDeepMind": [
-    "x:GoogleDeepMind:2080321522040807769",
-    "x:GoogleDeepMind:2080321519952056441",
-    "x:GoogleDeepMind:2080321516814647630",
-    "x:GoogleDeepMind:2079925576077324552",
-    "x:GoogleDeepMind:2079653801502380543",
-    "x:GoogleDeepMind:2079653799602368604",
-    "x:GoogleDeepMind:2079615466356580535",
-    "x:GoogleDeepMind:2079615468294320365",
-    "x:GoogleDeepMind:2079589701795627317",
-    "x:GoogleDeepMind:2079589698490572961",
-    "x:GoogleDeepMind:2079527699157008775",
-    "x:GoogleDeepMind:2078132675332755933",
-    "x:GoogleDeepMind:2077721122116640969",
-    "x:GoogleDeepMind:2077372568143642972",
-    "x:GoogleDeepMind:2076957440109625718"
-  ],
-  "x:OpenAI": [
-    "x:OpenAI:2080339986717790394",
-    "x:OpenAI:2080339982288568709",
-    "x:OpenAI:2080339983962181983",
-    "x:OpenAI:2079916436232036614",
-    "x:OpenAI:2079658951264920020",
-    "x:OpenAI:2079647256941412817",
-    "x:OpenAI:2079647254701634028",
-    "x:OpenAI:2079647253191619001",
-    "x:OpenAI:2079647251677536324",
-    "x:OpenAI:2079289658622738481",
-    "x:OpenAI:2079260550895382965",
-    "x:OpenAI:2078243670265041038",
-    "x:OpenAI:2078243667081617826",
-    "x:OpenAI:2078223217773474134",
-    "x:OpenAI:2077928427936710901"
+    "x:AnthropicAI:2075271759289303522"
   ],
   "x:sama": [
     "x:sama:2079661132302995790",
@@ -189,8 +181,7 @@
     "x:sama:2077446718728425686",
     "x:sama:2077118672150388816",
     "x:sama:2077106587307798989",
-    "x:sama:2077053226080436235",
-    "x:sama:2077053140508266710"
+    "x:sama:2077053226080436235"
   ],
   "x:GoogleAI": [
     "x:GoogleAI:2079617029473182132",
@@ -204,8 +195,7 @@
     "x:GoogleAI:2064366505630802081",
     "x:GoogleAI:2064366504112505266",
     "x:GoogleAI:2062942864288387430",
-    "x:GoogleAI:2061544208289132791",
-    "x:GoogleAI:2060043029835116826"
+    "x:GoogleAI:2061544208289132791"
   ],
   "x:karpathy": [
     "x:karpathy:2079610838143623371",
