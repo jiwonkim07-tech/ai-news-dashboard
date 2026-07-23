@@ -1,22 +1,73 @@
 {
-  "updated_at": "2026-07-23T13:59:25+00:00",
+  "updated_at": "2026-07-23T15:59:23+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 14
+    "new_this_run": 11
   },
   "briefing": {
-    "headline": "미국 국채금리 상승, 10년물 4.7% 돌파",
+    "headline": "구글 클라우드 CEO, 고객 지출 50% 증가",
     "bullets": [
-      "트럼프, 후티 반군 공격에 이란 책임 묻겠다",
-      "골드만삭스, GE버노바 저가매수 추천",
-      "JP모건, 구글 2026년 6월 실적 전망",
-      "미국 10년물 금리 상승",
-      "SKT, AI 데이터센터 15GW 청사진 발표"
+      "스페이스X, 상장 후 50% 이상 하락",
+      "브렌트유, 100달러 돌파",
+      "미국 국채금리, 10년물 4.7%·20년물 5.2% 상향",
+      "미중 정상회담, 적당한 거리 유지"
     ],
-    "generated_at": "2026-07-23T13:59:25+00:00",
+    "generated_at": "2026-07-23T15:59:23+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/23853",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23853",
+      "text": "CNBC) 구글 클라우드 CEO 커리언, 고객들이 50% 더 지출하고 있다고 밝혀... 부문 실적 기대치 크게 상회\n구글의 클라우드 부문 책임자인 토마스 커리언은 기존 고객들이 자사 제품에 지출하기로 이미 약정한 금액보다 \"약 50% 더\" 많은 비용을 지출하고 있으며, 이것이 2분기의 폭발적인 클라우드 성장을 견인했다고 밝혔습니다.\n커리언은 목요일 CNBC의 짐 크레이머에게 \"기존 고객들은 당사와 약정을 체결한 뒤 지출을 늘려왔습니다\"라고 말했습니다. \"그들은 약정액보다 약 50% 더 많이 지출하고 있으며, 이는 결국 당사 제품 포트폴리오의 차별성과 시장 진출 전략 실행의 강점으로 귀결됩니다. 그리고 이는 매출과 영업이익 성장 양쪽에서 확인되고 있습니다.\"\n커리언의 발언은 구글 모기업 알파벳이 수요일 클라우드 사업의 전년 대비 82% 성장에 힘입어 시장 예상을 상회하는 2분기 매출을 발표한 데 뒤이어 나온 것입니다.\n클라우드 서비스에 대한 수요가 워낙 강해 회사는 추가 용량을 채우기 위해 서드파티 공급업체를 활용할 계획입니다. 이로 인해 네오클라우드 업체인 코어위브와 네비우스의 주가가 상승했습니다.\nhttps://www.cnbc.com/2026/07/23/google-cloud-kurian-revenue-earnings.html",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-23T15:24:27+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23852",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23852",
+      "text": "스페이스X, 상장후 고점대비 50% 이상 하락\nhttps://x.com/wallstengine/status/2080300435660001290?s=20",
+      "images": [
+        "https://cdn5.telesco.pe/file/NCf6d6aGhrTX6dLsN4r27kIOmygGqKsEQDv48aI9XhpUm2bqxhpD1cShe1SowNVzZnKkICfECoSAA_DmV8ySrzkot7p0Z4npcW0xKYLopMRyhj8tWqXXTHBWUr34adtWdQTlI9WqT3YD5pN-FzgaLM8vxQE2JDbqZWOT_TVZrnG5KddBgTXz47mYvEoM0O6-bRhQ3TUIl12cWyTROmsrMxbD5QwdL215LH6a1noR2_Sk5OgzZ-JRO7PkElUPtzV8awo95JaygOT5ohQY_UPyd_N5-IQtZNuPLDx2j-Slx6lUarHqHVfdMS84NbrQ43ANlJ4Xk7O7B8xlLrulvlEcpg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-23T14:55:35+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23851",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23851",
+      "text": "Citi) 팔란티어; 상업 부문 재가속 전망, 추정치 상향. 그러나 TP는 $200으로 하향\n씨티의 견해\n당사는 자원 우선순위 배분 개선과 신규 산업 및 지역으로의 AIP 확산에 힘입어 미국 상업 부문이 1분기의 예상치 못한 둔화 이후 반등할 것으로 예상합니다. PLTR의 실적 발표 이후 부진한 주가 흐름(-8% vs IGV +6%)은 리스크/리워드를 더욱 매력적으로 만들고 있습니다. 분기 중 점검 결과는 상업과 연방 부문 모두에서 긍정적이었으며, Glazer CFO의 고무적인 피드백과 더불어 미국 상업 부문 RDV의 전분기 대비 순증이 2025년 하반기 수준인 8억 달러 이상으로 반등하여 FY27까지 추가적인 상향 조정을 이끌 것이라는 확신을 강화시켜 줍니다. 당사는 매수(High Risk) 의견을 유지하고 시장 컨센서스를 상회하는 추정치를 추가로 상향하나, 멀티플 축소를 반영하여 목표주가는 200달러(FY28 기준 EV/Sales 약 29배, EV/FCF 약 52배)로 하향합니다.\n분기 중 점검 결과는 긍정적 — 파트너 및 경영진을 대상으로 한 분기 중 점검 결과는 대체로 긍정적이었으며, Databricks, AWS Summit, Cannes를 포함한 GSI 및 ISV 파트너 전반에서 모멘텀이 지속되고 있음을 반영했습니다. 고객 활용 사례와 지역의 확대는 PLTR의 제품 및 GTM 차별화를 계속해서 뒷받침하고 있으며, 이는 기업 C레벨 경영진에게 호응을 얻고 있습니다. Glazer CFO와의 미팅에서는 AIPCon 10에서 나온 주목할 만한 고객 수주, 특히 법률 및 네오클라우드 버티컬에서의 성과를 논의했습니다. 해외 상업 부문 모멘텀도 여전히 강력하며, 멕시코에서의 대형 보험 수주와 소버린 영역에서 NVDA와의 관계 심화가 이를 잘 보여줍니다. 연방 부문에서는 AWS Summit에서 국방부(DoW) 내 활용 사례 확대를 확인했으며, USDA 계약은 하반기까지 지속적인 순풍으로 작용할 수 있습니다. 경쟁사 교체 사례가 증가하기는 했으나, 당사는 늘어나는 레퍼런스 고객군이 모멘텀 지속의 촉매 역할을 할 것으로 판단합니다.\n상업 부문 매출 및 RDV 반등 전망 — 당사는 미국 상업 부문의 재가속에 힘입어 상업 부문 매출이 크게 상회할 것으로 예상하며, 이는 전년 대비 140%를 훨씬 웃돌 수 있고 해외 상업 부문 역시 재차 가속화될 수 있습니다. 당사의 USG 계약 트래커는 전년 대비 4%의 소폭 감소를 보였으나, 이는 NGC2 관련 최신 육군 계약 확대를 제외한 수치입니다. USDA와 DHS에서 상당한 성장이 확인되어 국방을 넘어선 활용 사례 확대를 보여주었습니다. 당사는 상업 부문의 초과 달성에 힘입어 FY26 매출 성장률 가이던스가 약 10%포인트 이상 재차 큰 폭으로 상향될 것으로 예상합니다. RDV는 8억~9억 달러의 사상 최대 순증으로 반등할 전망입니다(사상 최대치는 2025년 3분기 +8억 3,800만 달러).\n추정치 변경 — 당사는 재차 가파른 상향 조정을 예상하며 매출 추정치를 가이던스를 크게 상회하는 수준으로 높입니다. 당사의 FY27 매출 성장률 전망 53%(컨센서스 대비 약 8%포인트 상회)는 전년 대비 67% 성장하는 상업 부문이 견인합니다. 목표주가는 소프트웨어 업종 전반의 멀티플 조정을 반영한 낮은 멀티플 적용에 따라 200달러로 하향되며, 이는 FY2030E 기준 EV/Revenue 약 14배와 EV/FCF 47배(기존 FY2028E 기준 EV/Rev 약 32배, EV/FCF 65배 대비)에 약 13%(기존 약 12.5%)의 자기자본비용으로 할인한 수치입니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-23T14:46:11+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23850",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23850",
+      "text": "브렌트유 100달러 돌파",
+      "images": [
+        "https://cdn5.telesco.pe/file/tW8-NGUG-uPTpHVA3hH7Njv_I_pwWpBFFZXncTFEPB8_BpTy0lj2782KaykdN5C0xVkPs7uYM32XiKu-H5FBMlu4nzmxJ-19Q8W92mCKB7wK7cvlDLAIl6MSFVTgcr9JzW8F9RBdkUNLX_Np3cCRnefPBgGmrGmVqxcJb3Q5Ul64BDuA8heaLWcSkSh8Cy_iXEbcRZVpmGX4C13XBQTfozn8E-jMBFqDnVDtqARtOlkHjBoJDNNd4aKGQIaYR5DDo6yQD3VtUDmrD_aaFbXR9T4axmAudeznlxpgbzs3857IJYvY_dlIEWgWTfjAOIc_zpTvHVnAJ75fLowO29iKoA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-23T14:08:06+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23849",
       "source": "telegram",
@@ -243,32 +294,6 @@
       "published_at": "2026-07-23T11:01:05+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23841",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23841",
-      "text": "Google slapped with $1 billion fine under landmark EU digital law\n구글은 획기적인 EU 디지털 법에 따라 10억 달러의 벌금을 부과받았습니다.\nhttps://www.cnbc.com/2026/07/23/google-1-billion-eu-fine-dma.html?__source=androidappshare",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-23T10:41:11+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23840",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23840",
-      "text": "앗",
-      "images": [
-        "https://cdn5.telesco.pe/file/g0zfslkypCy9IofqCpZt9mDfOsljZxaczohbdiFwFwrLycaQ3EsnIt_oe8ljpm-BuE9IPJvaAVArjDs9hVXzpX8_J7G2PZswZHHD1O6OtJnseKmHHpBzoQ52hVUAOi_b2MSnmjQq3VRiZqBAdLt10ZLzpydzJuQ1CKkUmxTRhkcViXgYxvKkvgpKOIo4RUznXdNDn_1ttb6lIwOpL6kQN3ajFbRX26Qjgdfe4n67l0EplvBwQzB6zgyM2uzEdMhSP2okCsQbfz2ijWdiyzJeyQGu7dpm0BiEvkB-feVP0aQwce8V8YnKUxiKeLIM6NJCnWVZMpDAgKK6KNVI606rnA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-23T10:03:20+00:00"
-    },
-    {
       "id": "tg:globaletfi/20753",
       "source": "telegram",
       "author": "globaletfi",
@@ -317,20 +342,6 @@
       "published_at": "2026-07-23T09:23:41+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23839",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23839",
-      "text": "SKHY 진짜닉스\n000660 가짜닉스",
-      "images": [
-        "https://cdn5.telesco.pe/file/LuSsbpU1_Q5wxmWh0Z2rAhbjAGwWC9TjcvZxO_HcoqXbRcCCouNp1LZM96ZgNJgCvrlfppwuviPL9xbPFhJfIDRCVYktrsXwMlaJurwnNg8GtsQJY9CsEi2hCeXxwU_DGMASg8PXukW1EzQL2IVNgAv-l57OtZ60eOBGv8jFjP5Mjj6tCLd0_TjXJJ-EDm5HMxljjo7dMZROR0o5ZJGzlzP3689DQ1DOW9LdeVNBAvjkZG3apNDjmNex_GaETVNx7RiNm4spFqk8GfAdKPGwGzvEkLm_MLpds7Y2bbPZkHdbR0vyWLm9I4PJECfZLPPG0ccUY-MoEJ7ZZSeKvGb36w.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-23T09:08:53+00:00"
-    },
-    {
       "id": "tg:enc210406/4187",
       "source": "telegram",
       "author": "enc210406",
@@ -355,18 +366,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-23T09:03:28+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23838",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23838",
-      "text": "이거 단위 한자릿수임",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-23T08:40:43+00:00"
     },
     {
       "id": "tg:bornlupin/19279",
@@ -937,6 +936,20 @@
       "published_at": "2026-07-22T17:20:05+00:00"
     },
     {
+      "id": "x:ylecun:2079976152165187695",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2079976152165187695",
+      "text": "RT by @ylecun: Manufacturing jobs grew under Biden to a peak of almost 13 million. Under Trump, they’ve declined despite his promises to “bring jobs back home.” My @Morning_Joe Chart",
+      "images": [
+        "https://pbs.twimg.com/media/HN2PQ6tWgAAbfcf.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 제조업 일자리는 Biden 하에서 거의 1,300만 개로 정점에 도달했습니다. 트럼프 대통령 하에서 그들은 “일자리를 본국으로 되돌리겠다”는 그의 약속에도 불구하고 거절했습니다. 내 @Morning_Joe 차트",
+      "published_at": "2026-07-22T17:05:33+00:00"
+    },
+    {
       "id": "x:ylecun:2079965865550737452",
       "source": "x",
       "author": "ylecun",
@@ -1402,18 +1415,6 @@
       "images": [],
       "summary_ko": "@yleun의 RT: Frontier Labs의 비즈니스 모델을 보호하기 위해 중국 부기맨을 사용하여 미국 정부를 속이는 것은 실수입니다. OAI와 Ant의 투자자인 5,000명의 지분을 다른 모든 사람의 매각으로 보호하고 있습니다. 이것은 정말 어리석은 결정이 될 것입니다. 시장이 이를 해결하도록 하세요! 지난 몇 주 동안의 사건은 단순히 프론티어 랩의 비즈니스 모델이 좋지 않고 수익이 지속 가능하지 않다는 것을 의미할 수도 있습니다. 괜찮습니다. 한동안 효과가 있었던 비즈니스 모델이 갑자기 작동하지 않게 되어도 괜찮습니다(그루폰을 기억하세요)! 이는 여전히 많은 다른 미국 기업에 많은 가치를 남깁니다. - CPU - GPU - 하이퍼스케일러 - 네오클라우드 - 랙 제조업체 - 전기 및 전력 - 숙련된 거래 - 애플리케이션 레이어 AI 이 가치 중 어느 것도 사라지지 않습니다. 사실은",
       "published_at": "2026-07-21T06:43:30+00:00"
-    },
-    {
-      "id": "x:ylecun:2079452067761213587",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2079452067761213587",
-      "text": "RT by @ylecun: Highly performant open weights frontier models such as Kimi are a competitive threat to OpenAI & Anthropic, but probably for everyone else these are a win. Hope more US entities will release top quality open weights models as well. Government regulation of AI models to prevent public harm could be done equally for proprietary or open weight models. Classic arguments in favor of open source software apply to AI models too.",
-      "images": [],
-      "summary_ko": "@yleun의 RT: Kimi와 같은 고성능 오픈 웨이트 프론티어 모델은 OpenAI 및 Anthropic에 대한 경쟁적 위협이지만 아마도 다른 모든 사람들에게는 이것이 승리일 것입니다. 더 많은 미국 기업이 최고 품질의 개방형 가중치 모델도 출시할 수 있기를 바랍니다. 공공 피해를 방지하기 위한 AI 모델에 대한 정부 규제는 독점 모델이나 개방형 모델에 대해 동일하게 수행될 수 있습니다. 오픈 소스 소프트웨어를 선호하는 고전적인 주장은 AI 모델에도 적용됩니다.",
-      "published_at": "2026-07-21T06:23:01+00:00"
     },
     {
       "id": "x:OpenAI:2079289658622738481",
