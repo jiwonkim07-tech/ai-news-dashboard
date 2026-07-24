@@ -1,20 +1,17 @@
 {
-  "telegram:globaletfi": [
-    "tg:globaletfi/20763",
-    "tg:globaletfi/20762",
-    "tg:globaletfi/20761",
-    "tg:globaletfi/20760",
-    "tg:globaletfi/20758",
-    "tg:globaletfi/20757",
-    "tg:globaletfi/20755",
-    "tg:globaletfi/20754",
-    "tg:globaletfi/20753",
-    "tg:globaletfi/20752",
-    "tg:globaletfi/20751",
-    "tg:globaletfi/20750",
-    "tg:globaletfi/20749"
-  ],
   "telegram:aetherjapanresearch": [
+    "tg:aetherjapanresearch/23876",
+    "tg:aetherjapanresearch/23875",
+    "tg:aetherjapanresearch/23874",
+    "tg:aetherjapanresearch/23873",
+    "tg:aetherjapanresearch/23872",
+    "tg:aetherjapanresearch/23871",
+    "tg:aetherjapanresearch/23870",
+    "tg:aetherjapanresearch/23869",
+    "tg:aetherjapanresearch/23868",
+    "tg:aetherjapanresearch/23867",
+    "tg:aetherjapanresearch/23866",
+    "tg:aetherjapanresearch/23865",
     "tg:aetherjapanresearch/23863",
     "tg:aetherjapanresearch/23862",
     "tg:aetherjapanresearch/23861",
@@ -26,15 +23,26 @@
     "tg:aetherjapanresearch/23854",
     "tg:aetherjapanresearch/23855",
     "tg:aetherjapanresearch/23853",
-    "tg:aetherjapanresearch/23852",
-    "tg:aetherjapanresearch/23851",
-    "tg:aetherjapanresearch/23850",
-    "tg:aetherjapanresearch/23849",
-    "tg:aetherjapanresearch/23848",
-    "tg:aetherjapanresearch/23847",
-    "tg:aetherjapanresearch/23846"
+    "tg:aetherjapanresearch/23852"
+  ],
+  "telegram:bornlupin": [
+    "tg:bornlupin/19288",
+    "tg:bornlupin/19287",
+    "tg:bornlupin/19286",
+    "tg:bornlupin/19285",
+    "tg:bornlupin/19284",
+    "tg:bornlupin/19283",
+    "tg:bornlupin/19282",
+    "tg:bornlupin/19281",
+    "tg:bornlupin/19280",
+    "tg:bornlupin/19279",
+    "tg:bornlupin/19278",
+    "tg:bornlupin/19277",
+    "tg:bornlupin/19276"
   ],
   "telegram:HI_GS": [
+    "tg:HI_GS/6761",
+    "tg:HI_GS/6760",
     "tg:HI_GS/6759",
     "tg:HI_GS/6758",
     "tg:HI_GS/6757",
@@ -46,8 +54,24 @@
     "tg:HI_GS/6751",
     "tg:HI_GS/6750",
     "tg:HI_GS/6749",
-    "tg:HI_GS/6748",
-    "tg:HI_GS/6747"
+    "tg:HI_GS/6748"
+  ],
+  "telegram:globaletfi": [
+    "tg:globaletfi/20767",
+    "tg:globaletfi/20766",
+    "tg:globaletfi/20765",
+    "tg:globaletfi/20763",
+    "tg:globaletfi/20762",
+    "tg:globaletfi/20761",
+    "tg:globaletfi/20760",
+    "tg:globaletfi/20758",
+    "tg:globaletfi/20757",
+    "tg:globaletfi/20755",
+    "tg:globaletfi/20754",
+    "tg:globaletfi/20753",
+    "tg:globaletfi/20752",
+    "tg:globaletfi/20751",
+    "tg:globaletfi/20750"
   ],
   "telegram:enc210406": [
     "tg:enc210406/4190",
@@ -64,6 +88,14 @@
     "tg:enc210406/4178"
   ],
   "telegram:EMchina": [
+    "tg:EMchina/31808",
+    "tg:EMchina/31807",
+    "tg:EMchina/31806",
+    "tg:EMchina/31805",
+    "tg:EMchina/31804",
+    "tg:EMchina/31803",
+    "tg:EMchina/31802",
+    "tg:EMchina/31801",
     "tg:EMchina/31800",
     "tg:EMchina/31799",
     "tg:EMchina/31798",
@@ -77,26 +109,6 @@
     "tg:EMchina/31790",
     "tg:EMchina/31789"
   ],
-  "telegram:bornlupin": [
-    "tg:bornlupin/19287",
-    "tg:bornlupin/19286",
-    "tg:bornlupin/19285",
-    "tg:bornlupin/19284",
-    "tg:bornlupin/19283",
-    "tg:bornlupin/19282",
-    "tg:bornlupin/19281",
-    "tg:bornlupin/19280",
-    "tg:bornlupin/19279",
-    "tg:bornlupin/19278",
-    "tg:bornlupin/19277",
-    "tg:bornlupin/19276",
-    "tg:bornlupin/19275",
-    "tg:bornlupin/19274",
-    "tg:bornlupin/19273",
-    "tg:bornlupin/19272",
-    "tg:bornlupin/19271",
-    "tg:bornlupin/19270"
-  ],
   "x:OpenAI": [
     "x:OpenAI:2080392280549253392",
     "x:OpenAI:2080378182469857576",
@@ -109,11 +121,13 @@
     "x:OpenAI:2079647254701634028",
     "x:OpenAI:2079647253191619001",
     "x:OpenAI:2079647251677536324",
-    "x:OpenAI:2079289658622738481"
+    "x:OpenAI:2079289658622738481",
+    "x:OpenAI:2079260550895382965"
   ],
   "x:sama": [
     "x:sama:2080378182469857576",
     "x:sama:2080343306731761927",
+    "x:sama:2080179310204461545",
     "x:sama:2079661132302995790",
     "x:sama:2079258683884917013",
     "x:sama:2078244242993164716",
@@ -137,7 +151,9 @@
     "x:ylecun:2079906118424281334",
     "x:ylecun:2079834936844927079",
     "x:ylecun:2079770166389543287",
-    "x:ylecun:2079769567765962866"
+    "x:ylecun:2079769567765962866",
+    "x:ylecun:2079660071009542328",
+    "x:ylecun:2079608792996511770"
   ],
   "x:AndrewYNg": [
     "x:AndrewYNg:2080333504446108104",
@@ -207,7 +223,9 @@
     "x:AnthropicAI:2076719544727716287",
     "x:AnthropicAI:2076719542404018631",
     "x:AnthropicAI:2076719540785012872",
-    "x:AnthropicAI:2075271759289303522"
+    "x:AnthropicAI:2075271759289303522",
+    "x:AnthropicAI:2075257492716879967",
+    "x:AnthropicAI:2075005777522172146"
   ],
   "x:GoogleAI": [
     "x:GoogleAI:2079617029473182132",
@@ -221,7 +239,8 @@
     "x:GoogleAI:2064366505630802081",
     "x:GoogleAI:2064366504112505266",
     "x:GoogleAI:2062942864288387430",
-    "x:GoogleAI:2061544208289132791"
+    "x:GoogleAI:2061544208289132791",
+    "x:GoogleAI:2060043029835116826"
   ],
   "x:karpathy": [
     "x:karpathy:2079610838143623371",
@@ -238,6 +257,6 @@
     "x:karpathy:2053872850101285137"
   ],
   "_meta": {
-    "last_x_fetch": "2026-07-23T22:57:03+00:00"
+    "last_x_fetch": "2026-07-24T04:14:32+00:00"
   }
 }
