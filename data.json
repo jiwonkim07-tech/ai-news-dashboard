@@ -1,22 +1,75 @@
 {
-  "updated_at": "2026-07-24T14:54:45+00:00",
+  "updated_at": "2026-07-24T16:42:24+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 12
+    "new_this_run": 9
   },
   "briefing": {
-    "headline": "CATL 상반기 순이익 42% 급증",
+    "headline": "삼성·SK하이닉스, 美 빅테크와 대규모 반도체 공급 계약 체결 예정",
     "bullets": [
-      "AMD, 테슬라 사이버트럭 판매량 자유낙하",
-      "GIC, 3년간 헤지펀드에 300억달러 투자 계획",
-      "유가 상승에 금리 인상 기대",
-      "삼성·SK하이닉스, 美 빅테크와 대규모 반도체 공급 계약 체결 예정",
-      "인텔, 변화가 진행 중, 매수 의견 유지"
+      "CATL 상반기 순이익 +42% 급증",
+      "AMD 목표주가 $700에서 $730로 상향",
+      "유가 상승에 따라 금리 인상 기대",
+      "중국이 낮아지면 사는 것",
+      "테슬라 사이버트럭 판매량 자유낙하 중"
     ],
-    "generated_at": "2026-07-24T14:54:45+00:00",
+    "generated_at": "2026-07-24T16:42:24+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:sama:2080683363174945065",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2080683363174945065",
+      "text": "i want the US to win in AI both in open source and proprietary models, and i am glad to see this",
+      "images": [
+        "https://pbs.twimg.com/media/HN_qDVsa4AAI6XJ.jpg",
+        "https://pbs.twimg.com/media/HN_qDV1a8AARQwg.jpg"
+      ],
+      "summary_ko": "저는 미국이 오픈 소스 모델과 독점 모델 모두에서 AI 분야에서 승리하기를 원하며 이를 보게 되어 기쁩니다.",
+      "published_at": "2026-07-24T15:55:45+00:00"
+    },
+    {
+      "id": "x:sama:2080683119959757243",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2080683119959757243",
+      "text": "let us know what you think of pro-ultra-superhard",
+      "images": [],
+      "summary_ko": "프로울트라슈퍼하드에 대해 어떻게 생각하는지 알려주세요.",
+      "published_at": "2026-07-24T15:54:47+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23913",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23913",
+      "text": "소식통에 따르면, 중국이 주도한 노력 속에서 파키스탄과 이란이 미국과의 새로운 회담을 위한 방안을 모색하고 있다고 한다 - 로이터\nhttps://x.com/wallstengine/status/2080672563886522423?s=20",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-24T15:33:10+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23912",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23912",
+      "text": "DRAM·GPU·전력 맞교환: 구체적인 조건이 곧 나올 수 있습니다\n한국 대통령이 오늘 실리콘밸리를 방문하고 있습니다.\n정책실장에 따르면 이번 방문을 계기로 4GW가 넘는 AI 데이터센터 프로젝트가 구체화될 가능성이 있습니다.\n젠슨 황, 샘 올트먼, 다리오 아모데이, 혹 탄과도 각각 별도 회동이 예정된 것으로 전해집니다.\n이번 방문에서 논의되거나 체결될 가능성이 있는 내용은 다음과 같습니다.\n삼성전자와 SK하이닉스가 엔비디아 및 하이퍼스케일러에 HBM·DRAM을 공급하고, 이와 연계해 GPU 물량을 배정받는 구조\n한국 자본이 미국 AI 데이터센터에 공동 투자하고, 전력 공급이 가능한 부지를 거래 조건에 포함하는 구조\n구체적인 고객사와 부지, 한국 엔지니어링 파트너가 명시된 양해각서\n전체적으로는 한국이 자본과 메모리 공급 역량을 제공하고, 미국 측이 부지와 전력, GPU 물량을 제공하는 패키지형 협력이 논의될 수 있다는 관측입니다.\n이번 방문을 통해 포괄적인 투자 약속이 구체적인 기업과 부지가 명시된 개별 프로젝트로 전환될 가능성이 있다는 추정이 있습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/QDNr_yf5PResm7Qin_vIJGrk0zdNiA5UWQhdjRmzdhrSUXra3fLk44GMir3X_RN40S2j8PN32cAprY3QzSH26R6x0bCrDriW8HaYNYPvppfB1MkNtqbzln1HpAbp4cI2G8NlbliaLdtp7-U_KYg76IiK_n64peNpDLcadMGEO8BiB6eUd3NtYy1OjmvCZkydXij9pU6yuewyd2rq3AbKfQnpvQZz6t2d9rVsBUKLlgEUTqLwHt8tATIlxthJsWZstumtWWDEyxB0gyQ6cKt2I4yPV5btb3IK4tY1_VfUURxGqCEQ5NZvjmcWUpYSN-K0l-hW1TMT5sj7ZzE3yHRvBg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-24T14:55:26+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23910",
       "source": "telegram",
@@ -227,32 +280,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-24T12:01:11+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23899",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23899",
-      "text": "BofA) 엔비디아; 더 많은 코어인가, 더 빠른 코어인가? 엔비디아 대 AMD의 에이전틱 CPU 논쟁\n엔비디아 TP $350.\n1,700억 달러 규모 서버 CPU 시장에서 부상하는 격전\n오늘 엔비디아는 자사의 베라(Vera) CPU 아키텍처에 대해 지금까지 중 가장 상세한 내용을 공개하며, AI 인프라를 평가하는 새로운 프레임워크로 대규모 환경에서의 최대 싱글 스레드 성능을 제시했습니다. 베라는 88개의 커스텀 올림푸스(Olympus) ARM 기반 코어, 1.2TB/s의 메모리 대역폭, 3.4TB/s의 온다이(on-die) 패브릭 대역폭을 결합한 제품이며, 엔비디아는 에이전틱 AI가 점점 더 CPU 지연시간, 메모리 응답성, GPU 활용률에 의존하게 된다고 주장하고 있습니다. 엔비디아가 모놀리식 컴퓨트 다이를 선택한 점(엔비디아는 이것이 확장 가능한 코히런시를 제공한다고 주장합니다) 역시 검증된 AMD의 칩렛 아키텍처와 대비됩니다. 목요일에 열리는 AMD의 AI 2026 데이(당사의 프리뷰 참조)는 2030년까지 4배 성장해 1,700억 달러에 이를 수 있는 서버 CPU TAM(당사 산업 리포트 참조)을 두고 업계가 처음으로 공개적인 기술적 대응을 내놓을 주요 기회가 될 것입니다.\n엔비디아: 더 빠른 에이전트가 더 많은 에이전트(코어 수)를 이긴다\n엔비디아의 핵심 주장은 에이전틱 AI가 툴 호출, 코드 실행, 검색, 오케스트레이션을 수반하는 CPU\n↔️\nGPU 루프의 반복으로 구성되며, 각 단계는 이전 단계의 완료에 의존한다는 것입니다. 이 프레임워크에서는 코어당 성능이 빠를수록 에이전트 응답 시간, GPU 활용률, 그리고 전반적인 AI 팩토리 생산성이 직접적으로 개선됩니다. 엔비디아 베라 CPU는 또한 루빈(Rubin) GPU, Groq LPX, 스펙트럼(Spectrum) 스위치, 블루필드(BlueField) 스토리지/NIC 등 여섯 개의 다른 AI 빌딩 블록 전반에 걸친 \"코디자인(co-design)\"의 이점도 누립니다.\nAMD: 더 많은 에이전트가 더 빠른 에이전트를 이긴다\nAMD는 실제 프로덕션 환경의 AI가 점점 더 데이터베이스, API, 벡터 스토어, 오케스트레이션 엔진, 캐시, 미들웨어로 구성된 분산 소프트웨어 플랫폼의 형태에 가까워지고 있다고 주장합니다. 이러한 환경에서 주된 제약 요인은 고정된 전력 범위 내에서 지속할 수 있는 동시 워크플로의 개수가 됩니다. AMD는 100kW 배치를 모델링한 결과, EPYC 9965(튜린)가 엔비디아 베라 기준선 대비 랙 단위 처리량에서 약 2.4배를 제공하며, EPYC 6(베니스)는 약 3.3배에 이를 것으로 추정하고 있습니다.\n또 하나의 논쟁: x86 대 ARM\nCPU 논의는 코어 수를 넘어 소프트웨어 생태계로까지 확장됩니다. 엔비디아의 입장은 우월한 마이크로아키텍처가 더 나은 에이전트 성능을 제공한다면 ISA는 부차적인 문제가 된다는 것을 시사합니다. AMD와 인텔은 에이전틱 AI가 점점 더 엔터프라이즈 소프트웨어 스택과 교차하게 되며, 이 영역에서 x86은 데이터베이스, 미들웨어, 보안 플랫폼, 엔터프라이즈 애플리케이션 전반에 걸친 수십 년간의 최적화, 검증, 호환성이라는 이점을 갖는다고 주장할 가능성이 높습니다. AI가 모델 추론에서 엔터프라이즈 워크플로로 확장됨에 따라, 소프트웨어 분야의 기존 입지가 중요한 차별화 요소가 될 수 있습니다.\n당사의 견해: 차세대 CPU KPI의 정의\n투자자들에게 핵심 질문은 에이전틱 AI가 주로 \"에이전트 작업 완료까지의 시간\"에 의해 제약되는가, 아니면 \"랙당 에이전트 수\"에 의해 제약되는가입니다. 엔비디아의 프레임워크는 지연시간, 스레드당 진행 속도, GPU 활용률에 뿌리를 두고 있습니다. AMD의 프레임워크는 동시성, 처리량, 서비스 밀도에 뿌리를 두고 있습니다. 당사는 목요일 AMD 행사가 벤치마크 비교보다는 업계가 선호할 지표를 정립하는 데 초점이 맞춰질 것으로 예상합니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/uLArBr1mV-IYn7ADZGosz09N2R4GJ95rN-KQjtGCuX5-_9HR2axYYdCKqtLQ180OtTQMAabUQ1zOB_MWBRANTPMB6l7a727BZtwTtmKXjF0HTPBBVT2gApTDQnH1gWi4DhFXYfw1-CdVusZhssUI3e0loPk4TW0_frO_Qchyr-80lVpMf4s8qXMu4arAnd6vJEaFmU9-OUZ5PLIr5b6BqDXmp0jgcIdb4zXOKIsvYAREE13m8AObazrtnRi2nUwFgXEigUg28TryUol1qzX8DJ4CUIuWrjRyDJEa-M0cxD8yfJ9S1fncAGKlJUWwICJa_URydDWb8VIlUM9_XL7vhg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-24T11:57:56+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23898",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23898",
-      "text": "BofA) GE버노바; 2Q26: 실적 상회 및 가이던스 상향, 그러나 \"피크\" 논쟁이 전면에 부각. TP $1310\n피크인가 플래토(정체 구간)인가? 주문 지표에 따라 다릅니다\n투자자들은 전력 설비 계약(확정 주문 + 슬롯 예약 계약)의 기가와트(GW) 기준 물량이 정점에 도달할 가능성에 대해 우려를 표명했습니다. 경영진은 2026년 말까지 2027~30년 생산 슬롯의 대부분과 2031년 슬롯의 \"절반 이상\"에 대한 계약을 확보할 것으로 예상하고 있습니다. 여기에는 새롭게 발표된 2030년 6GW 규모의 추가 증설도 포함되어 있습니다(즉, 2026년 하반기 연간 20GW 생산능력에서, 2028년 연간 24GW로, 그리고 이제 2030년까지 연간 30GW로 확대). 저희가 보기에 고객사들이 계획 주기를 5년 이상으로 더 연장할 가능성은 낮으며, 이에 따라 전년 대비 주문 성장, 특히 물량(즉, 기가와트) 기준 성장은 더욱 어려워질 것입니다.\n달러 기준 주문은 플래토에 도달하는 중이며, EBITDA 성장세는 지속\n가스 발전의 기가와트 또는 대수 기준 주문과는 대조적으로, GE 버노바의 달러 기준 총 주문은 오히려 플래토에 가까운 모습을 보일 것으로 예상합니다. 이는 다음과 같은 여러 요인을 반영합니다. 1) 포트폴리오 내 긍정적인 가격 효과, 2) 설치 기반(installed base)에 부합하는 속도로 성장하는 서비스 수주(2분기 유기적 기준 전년 대비 +15%), 3) 전력화(Electrification) 부문의 생산능력 증설, 4) 특히 데이터센터 부문에서 가장 두드러지는 콘텐츠/범위의 확대입니다. 저희는 2026년 예상 주문을 820억 달러로 전망합니다. 2027~28년에도 유사한 속도가 유지된다면 수주잔고는 2027년에 2,100~2,150억 달러를 상회하고(경영진 목표치 2,000억 달러 대비), 2028년에는 2,400억 달러에 근접할 것입니다. 수익성이 점차 개선되고 있는 이 수주잔고가 매출로 전환됨에 따라, 이는 조정 EBITDA 연평균성장률(CAGR) 34%(2026E~28E)라는 저희 전망을 뒷받침할 것입니다. 2025년 말 기준으로 GE 버노바의 전체 설비 수주잔고 마진은 전년 대비 6%p, 2022년 말 대비 18%p 상승했다는 점을 상기할 필요가 있습니다.\n2026년 조정 EBITDA를 2억 달러 상향한 65억 달러로 조정, 전년 대비 100% 이상 증가\n저희는 2026년 조정 EBITDA 전망치를 2억 달러 상향하여 65억 달러(전년 대비 +104%)로 조정합니다. 이는 컨센서스 62억 달러를 상회하는 수준입니다. 저희는 유기적 매출이 전년 대비 14% 성장하고, 마진은 전년 대비 540bp 확대되어 14.0%에 이를 것으로 가정합니다. 상향 조정의 대부분은 파워(Power) 부문이 견인했습니다. 2027년에 대해서는 조정 EBITDA 92억 달러(전년 대비 +40%)를 전망하며, 이는 컨센서스 87억 달러를 상회합니다. 저희는 매수(Buy) 의견과 목표주가 1,310달러를 유지합니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-24T11:54:53+00:00"
     },
     {
       "id": "tg:bornlupin/19298",
@@ -1637,7 +1664,9 @@
       "author_url": "https://x.com/sama",
       "url": "https://x.com/sama/status/2078244242993164716",
       "text": "this is cool: https://welcome-to-codex.openai.chatgpt.site/",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2078290484099960832/qRZCSpTg?format=jpg&name=800x419"
+      ],
       "summary_ko": "이거 멋지네요: https://welcome-to-codex.openai.chatgpt.site/",
       "published_at": "2026-07-17T22:23:34+00:00"
     },
@@ -1791,20 +1820,6 @@
       "published_at": "2026-07-16T05:43:13+00:00"
     },
     {
-      "id": "x:sama:2077489177374208000",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2077489177374208000",
-      "text": "amazing to me that some people want the silent version https://openai.com/supply/co-lab/work-louder/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2080062183766216704/8kpiO1bk?format=jpg&name=800x419"
-      ],
-      "summary_ko": "일부 사람들이 자동 버전을 원한다는 사실이 놀랍습니다 https://openai.com/supply/co-lab/work-louder/",
-      "published_at": "2026-07-15T20:23:12+00:00"
-    },
-    {
       "id": "x:AnthropicAI:2077452649000042614",
       "source": "x",
       "author": "AnthropicAI",
@@ -1829,20 +1844,6 @@
       ],
       "summary_ko": "새로운 인류학 연구: 2026년 여름의 에이전트 오정렬. 협박 실험 1년 후, 우리는 오늘날의 자율 AI 에이전트가 시뮬레이션에서 오작동하는 네 가지 방법을 더 발견했습니다. 더 읽어보세요: https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
       "published_at": "2026-07-15T17:58:02+00:00"
-    },
-    {
-      "id": "x:sama:2077446718728425686",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2077446718728425686",
-      "text": "RT by @sama: Introducing GPT-Red An internal automated red teamer on a mission to find our models’ prompt injection vulnerabilities at scale, helping us build stronger defenses before wider deployment. https://openai.com/index/unlocking-self-improvement-gpt-red/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2077445333765001216/tiARRIl3?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@sama의 RT: GPT-Red 소개 모델의 신속한 주입 취약점을 규모에 맞게 찾아내는 임무를 수행하는 내부 자동 레드 팀을 통해 더 폭넓게 배포하기 전에 더 강력한 방어 체계를 구축할 수 있도록 돕습니다. https://openai.com/index/unlocking-self-improvement-gpt-red/",
-      "published_at": "2026-07-15T17:34:29+00:00"
     },
     {
       "id": "x:AnthropicAI:2077047278078931243",
