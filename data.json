@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-07-24T18:17:47+00:00",
+  "updated_at": "2026-07-24T20:19:42+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 6
   },
   "briefing": {
     "headline": "삼성·SK하이닉스, 美 빅테크와 대규모 반도체 공급 계약 체결 예정",
     "bullets": [
       "CATL 상반기 순이익 +42% 급증",
-      "유가 상승에 따라 금리 인상 기대",
-      "AMD 목표주가 상향, 투자의견 '매수'",
-      "중국, 14개 EU 기업을 수출통제 리스트에 포함",
-      "삼성중공업 2Q26 실적발표"
+      "유가 상승에 금리 인상 기대",
+      "AMD 목표주가 상향 조정",
+      "중국, 14개 EU 기업 수출통제 리스트에 포함",
+      "테슬라 사이버트럭 판매량 급감"
     ],
-    "generated_at": "2026-07-24T18:17:47+00:00",
+    "generated_at": "2026-07-24T20:19:42+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:AnthropicAI:2080699495453528290",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2080699495453528290",
+      "text": "RT by @AnthropicAI: Introducing Claude Opus 5. It's a thoughtful and proactive model that comes close to the frontier intelligence of Fable 5 at half the price.",
+      "images": [
+        "https://pbs.twimg.com/media/HOAifjuWcAESshR.jpg"
+      ],
+      "summary_ko": "@AnthropicAI의 RT: Claude Opus 5를 소개합니다. 절반 가격으로 Fable 5의 첨단 지능에 근접한 사려 깊고 적극적인 모델입니다.",
+      "published_at": "2026-07-24T16:59:51+00:00"
+    },
     {
       "id": "x:sama:2080683363174945065",
       "source": "x",
@@ -884,6 +898,20 @@
       "published_at": "2026-07-23T19:43:04+00:00"
     },
     {
+      "id": "x:sama:2080354753473835461",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2080354753473835461",
+      "text": "RT by @sama: A billion users can now create and publish websites from their phones with ChatGPT Work. But most people don’t really grasp the full extent of the capabilities here. From your phone, you also have access to: - Cloud computer (15 GB RAM) - Persistent workspace & files - Terminal and code execution - Remote browser - Connected plugins (Slack, Gmail, GitHub, etc.) - All your personal finances, transactions, bank statements - Scheduled tasks - Git clone & PR creation - Build & deploy websites - Create docs, sheets, and slides - Inbox/calendar summarization - Website monitoring & alerts All at your fingertips, using a simple chat interface, no laptop required. All you have to do is switch to the Work tab on your ChatGPT app.",
+      "images": [
+        "https://pbs.twimg.com/media/HN4WrcgbEAAGDd2.jpg"
+      ],
+      "summary_ko": "@sama의 RT: 이제 10억 명의 사용자가 ChatGPT Work를 사용하여 휴대폰에서 웹사이트를 만들고 게시할 수 있습니다. 그러나 대부분의 사람들은 여기서 기능의 전체 범위를 실제로 파악하지 못합니다. 휴대폰에서 다음 항목에도 액세스할 수 있습니다. - 클라우드 컴퓨터(15GB RAM) - 영구 작업 공간 및 파일 - 터미널 및 코드 실행 - 원격 브라우저 - 연결된 플러그인(Slack, Gmail, GitHub 등) - 모든 개인 재정, 거래, 은행 명세서 - 예약된 작업 - Git 복제 및 PR 생성 - 웹 사이트 구축 및 배포 - 문서, 시트 및 슬라이드 생성 - 받은 편지함/캘린더 요약 - 웹 사이트 모니터링 및 알림 노트북 없이도 간단한 채팅 인터페이스를 사용하여 모든 작업을 손끝에서 할 수 있습니다. 필수. ChatGPT 앱에서 작업 탭으로 전환하기만 하면 됩니다.",
+      "published_at": "2026-07-23T18:09:59+00:00"
+    },
+    {
       "id": "x:ylecun:2080343858022354975",
       "source": "x",
       "author": "ylecun",
@@ -1485,7 +1513,7 @@
       "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2079647251677536324",
-      "text": "We’re sharing new research with @apolloaievals on reward-seeking—when models follow what they believe a grader rewards rather than what users or developers want—and a new method, Contrastive SDF, for measuring how strongly such beliefs shape behavior. https://alignment.openai.com/measuring-reward-seeking/",
+      "text": "We’re sharing new research with @apolloresearch on reward-seeking—when models follow what they believe a grader rewards rather than what users or developers want—and a new method, Contrastive SDF, for measuring how strongly such beliefs shape behavior. https://alignment.openai.com/measuring-reward-seeking/",
       "images": [
         "https://pbs.twimg.com/card_img/2079628151785930752/mSVQe3jk?format=jpg&name=800x419"
       ],
@@ -1808,18 +1836,6 @@
       "published_at": "2026-07-16T11:44:52+00:00"
     },
     {
-      "id": "x:sama:2077630111499882637",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2077630111499882637",
-      "text": "RT by @sama: On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: - Full access mode is enabled and codex is run without sandboxing protections, including without auto review being enabled - The model attempts to override the $HOME env var to define a temporary directory. - The model makes an honest mistake and mistakenly deletes $HOME instead. This is of course not how we want the system to behave, even when a user operates the model in full-access mode without the safeguards of our sandbox or without using auto review which checks for these kinds of high risk actions and rejects them. We are taking steps to mitigate this risk including by updating the developer message, guiding more users towards safer permission modes, and adding additional harness safeguards. Even though this happens extremely rarely, we’ll share a detailed post-mortem in the coming days that goes into more details and what we are doing to minimize risks further.",
-      "images": [],
-      "summary_ko": "@sama님의 RT: 파일 삭제 시. 우리는 GPT-5.6이 예기치 않게 파일을 삭제했다는 몇 가지 보고서를 조사했습니다. 우리가 발견한 것은 다음과 같은 경우에 가장 일반적으로 발생한다는 것입니다. - 전체 액세스 모드가 활성화되고 자동 검토가 활성화되지 않은 경우를 포함하여 샌드박싱 보호 없이 코덱스가 실행됩니다. - 모델이 임시 디렉터리를 정의하기 위해 $HOME env var를 재정의하려고 시도합니다. - 모델이 실수를 해서 $HOME을 대신 삭제했습니다. 물론 이것은 사용자가 샌드박스의 보호 장치 없이 전체 액세스 모드에서 모델을 작동하거나 이러한 종류의 고위험 작업을 확인하고 거부하는 자동 검토를 사용하지 않는 경우에도 시스템이 작동하기를 원하는 방식이 아닙니다. 우리는 개발자 메시지를 업데이트하고 더 많은 정보를 안내하는 등 이러한 위험을 완화하기 위한 조치를 취하고 있습니다.",
-      "published_at": "2026-07-16T05:43:13+00:00"
-    },
-    {
       "id": "x:AnthropicAI:2077452649000042614",
       "source": "x",
       "author": "AnthropicAI",
@@ -1992,20 +2008,6 @@
       ],
       "summary_ko": "메타 초지능의 미래: 1년 진행 업데이트\n\n최고 수준의 RL 환경 스타트업은 지금까지 본 것 중 가장 공격적인 컴퓨팅 램프, 2000km 이상의 확장 및 Google DeepMind에 대한 몇 가지 조언에서 탄생했습니다.",
       "published_at": "2026-07-09T19:16:14+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2075271759289303522",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2075271759289303522",
-      "text": "RT by @AnthropicAI: There’s hope in hard questions.",
-      "images": [
-        "https://pbs.twimg.com/media/HMzYzrcXMAAeKQI.jpg"
-      ],
-      "summary_ko": "@AnthropicAI의 RT: 어려운 질문에는 희망이 있습니다.",
-      "published_at": "2026-07-09T17:31:58+00:00"
     },
     {
       "id": "x:AndrewYNg:2075271586400403567",
