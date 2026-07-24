@@ -1,22 +1,173 @@
 {
-  "updated_at": "2026-07-24T12:18:55+00:00",
+  "updated_at": "2026-07-24T14:54:45+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 17
+    "new_this_run": 12
   },
   "briefing": {
-    "headline": "삼성·SK하이닉스, 美 빅테크와 대규모 반도체 공급 계약 체결 예정",
+    "headline": "CATL 상반기 순이익 42% 급증",
     "bullets": [
-      "AMD, 투자의견 'Outperform' 등급 유지",
-      "DRAM ETF의 곱버스 RAMZ 7/28 출시 예정",
-      "CATL 상반기 순이익 +42% 급증",
-      "엔비디아 대 AMD의 에이전틱 CPU 논쟁",
-      "중국 유니트리 로봇, 대단한 성능"
+      "AMD, 테슬라 사이버트럭 판매량 자유낙하",
+      "GIC, 3년간 헤지펀드에 300억달러 투자 계획",
+      "유가 상승에 금리 인상 기대",
+      "삼성·SK하이닉스, 美 빅테크와 대규모 반도체 공급 계약 체결 예정",
+      "인텔, 변화가 진행 중, 매수 의견 유지"
     ],
-    "generated_at": "2026-07-24T12:18:55+00:00",
+    "generated_at": "2026-07-24T14:54:45+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/23910",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23910",
+      "text": "FSD v14라이트 후진시 후방장애물/사람 인식못하는 오류?들이 보이는중",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-24T14:50:54+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23908",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23908",
+      "text": "JP모건은 7월 24일자 북미 주식 리서치 노트를 통해 전날 샌프란시스코에서 열린 AMD의 연례 행사 Advancing AI 2026(AAI26) 참관 결과를 정리하면서, 투자의견 중립(Neutral)과 2026년 12월 목표주가 385달러를 유지했습니다. 7월 22일 종가는 552.33달러로 목표주가를 크게 상회하고 있습니다. 담당 애널리스트는 Harlan Sur이며, 행사 참관 이후 AMD의 엔드투엔드 컴퓨트 제품 포트폴리오(반도체, 시스템, 소프트웨어)와 향후 제품 로드맵, 그리고 앤트로픽, 오픈AI, 메타 등과의 AI 생태계 파트너십 강화에 대해 한층 더 긍정적인 시각을 갖게 되었다고 밝혔습니다. 이번 행사에서는 6세대 EPYC CPU(베니스), Instinct MI4XX 시리즈 GPU, Helios 랙스케일 솔루션이 주요 신제품으로 발표되었고, 이 외에 Ryzen AI Embedded X100s와 Kria AI SOM 등도 함께 공개되었습니다.\n핵심 시사점의 첫 번째는 AI 가속기 TAM 전망 상향입니다. AMD는 2030년 AI 가속기 TAM 전망치를 약 1.4조 달러로 제시했는데, 이는 2025년 약 2,000억 달러 대비 향후 5년간 45% 이상의 연평균성장률을 시사하는 수치입니다. 이는 2025년 11월 애널리스트 데이에서 제시한 1조 달러 이상 전망과 작년 AAI25 행사에서의 2028년 5,000억 달러 이상 전망에서 의미 있게 상향된 것입니다. 상향의 배경은 AI 관련 컴퓨트 수요가 모델 학습을 넘어 추론으로, 나아가 에이전틱 AI 워크로드로 확장되고 있다는 AMD의 판단에 있으며, 에이전틱 애플리케이션이 기업 및 소비자 영역 전반으로 확산되면서 GPU뿐 아니라 CPU를 포함한 컴퓨트 스택 전반의 수요를 끌어올릴 것이라는 논리입니다. 다만 JP모건은 2030년까지 AI ASIC/XPU 성장률이 데이터센터 GPU 성장률을 계속 앞설 것이라는 기존 견해를 유지하며, GPU의 TAM 점유율이 2025년 약 85%에서 2030년 약 60~70%로 낮아질 것으로 보고 있습니다. 이 경우 GPU TAM의 연평균성장률은 전체 AI 가속기 TAM보다 다소 낮은 40% 내외가 될 것으로 추정됩니다. 보수적으로 2030년 GPU 비중을 약 60%, AMD의 GPU 내 점유율을 15%(2025년 5% 미만에서 상승)로 가정하면 AMD의 데이터센터 GPU 매출은 약 1,250억 달러 규모가 되며, 이는 현재 시장 컨센서스인 약 940억 달러를 크게 상회하는 수준입니다.\n두 번째는 데이터센터 CPU TAM 전망의 상향입니다. AMD는 2030년 데이터센터 CPU TAM을 약 2,200억 달러로 제시했으며, 이는 2025년 약 260억 달러 대비 50% 이상의 연평균성장률을 의미합니다. 불과 몇 달 전 1분기 실적 발표에서 제시한 약 1,200억 달러 대비 1,000억 달러 증가한 수치이자, 작년 11월 애널리스트 데이의 600억 달러 대비 거의 4배에 해당합니다. 행사 전 시장에서 거론되던 바이사이드 기대치(약 2,000억 달러)도 소폭 상회했습니다. JP모건은 이러한 연속적 상향의 폭과 속도 자체는 주목할 만하지만, 추론과 에이전틱 워크로드가 오케스트레이션 및 데이터 처리를 위해 GPU와 함께 상당한 범용 컴퓨트를 필요로 한다는 점을 고려하면 놀라운 일은 아니라고 평가했습니다. 추가 점유율 확보를 감안하면 AMD 서버 CPU 사업의 성장률은 더 높아질 수 있으며, 시장 성장률과 동일한 수준만 가정해도 2030년 서버 CPU 매출은 850억 달러 이상에 이를 수 있습니다. 앞서 언급한 GPU 매출 약 1,250억 달러와 합산하면 2030년 데이터센터 부문 전체 매출은 2,000억 달러 이상이 될 수 있으며, 이는 현재 시장 전망치 약 1,220억 달러를 크게 웃도는 수준입니다.\n세 번째는 MI450 시리즈 GPU와 Helios 랙스케일 시스템의 출하 일정입니다. AMD는 3분기 말인 9월부터 출하를 시작해 4분기와 2027년 상반기에 걸쳐 보다 공격적으로 램프업할 것이라고 확인했습니다. 9월 첫 출하는 시장 기대보다 다소 늦은 것으로 볼 수 있으나, 2027~2028년에 걸쳐 앤트로픽, 오픈AI, 메타 등에 수 기가와트 규모의 MI450 물량이 이미 배치 일정에 잡혀 있는 만큼 상대적으로 중요도가 낮다는 것이 JP모건의 판단입니다. 경영진은 이러한 일정이 실행 지연이 아니라 의도적인 설계상의 선택이며, ODM 파트너가 필요시 제조 공정을 다듬을 여유를 주는 동시에 고객사의 데이터센터 구축 일정과 출하를 맞추기 위한 것이라고 설명했습니다.\n네 번째는 제품 포트폴리오의 폭입니다. AMD는 현재의 포트폴리오가 역사상 가장 강력하고 광범위하다고 자평했고, JP모건도 이에 동의하는 입장입니다. 데이터센터 EPYC CPU, Instinct GPU, Helios 랙스케일 시스템에 더해 Ryzen AI와 엣지/임베디드 프로세서를 아우르는 실리콘 포트폴리오는 데이터센터의 프론티어 모델 학습부터 에이전틱 워크로드, 엣지 컴퓨팅, 클라이언트/피지컬 AI에 이르기까지 사실상 모든 버티컬에서 AI 기회를 포착할 수 있게 해준다는 평가입니다. 특히 이번 행사에서 두드러졌던 점은 AMD가 실리콘, 랙스케일 통합, 오픈 소프트웨어(ROCm)를 아우르는 풀스택 솔루션을 고객에게 제공할 수 있게 되었다는 것으로, 이론적으로 배치 건당 확보 가능한 달러 콘텐츠를 확대시킵니다. 또한 이러한 포트폴리오의 폭은 특정 전방 시장의 성장 속도 편차에 대한 자연스러운 헤지 역할을 하여, 하이퍼스케일 학습 클러스터든 기업 추론이든 자율 로보틱스나 온디바이스 AI든 수요가 발생하는 어느 영역에서나 AI 구축 사이클의 상승 여력에 참여할 수 있게 합니다.\n투자의견 관련 부분을 보면, JP모건은 AMD가 Ryzen, EPYC, Radeon 플랫폼 전반에서 경쟁력을 개선했고 단기적으로 점유율 확대와 의미 있는 매출 성장을 이룰 궤도에 있다고 인정하면서도, 장기적인 점유율 확보는 상대적으로 불확실하다고 보고 있습니다. 또한 시장 선두 업체들을 따라가기 위해 영업비용, 특히 R&D에 상당한 투자가 필요하다는 점도 지적했습니다. 실행력은 고무적이지만 주가가 거의 완전히 밸류에이션에 반영된 것으로 보인다는 이유로 중립 의견을 유지하고 있습니다. 목표주가 385달러는 2026년 말 기준 주당순이익 창출력 약 11달러에 동종업체 수준인 약 35배 P/E를 적용한 것입니다. 리스크 요인으로는 AMD 매출의 약 50%가 거시경제와 상관관계가 높은 PC 전방 시장에서 발생한다는 점과, 인텔 및 엔비디아와의 경쟁에서 유의미한 점유율 변동이 발생할 경우 실적 추정치와 투자의견 재검토로 이어질 수 있다는 점이 제시되었습니다.\n*클로드로 요약함.",
+      "images": [
+        "https://cdn5.telesco.pe/file/GW2G011Ei-XTK-jSt1h44WgzU-kDrvsh1XZO7J2UuI6H2d6ZeeuFccrSVRacDxpRQ4QSrXk0_6NS71r3bSXybtGpX0tzJWCCpBL1qjF0CWRZYAdEs5XNSPEME8Czgz2RAZqD9m7XZmggcqojfz-RpDmae85KRPkUHZSVEKnFuT8lrnhLYdT7a3zAQZXliQqjkBuMtJDxWiKM3sZD935-5L1IGic8OkorACi2LgjTWsw1yLpt2gGpC3Fxgm82hy0U7tpqOdo-lLJMdZHyS6bdMpAEvrx22yhiDbx1bMVA0TI5HcG3zf9rmovzho9jmy9NVi2MsnXCL9jqUNlB4Q7dLw.jpg",
+        "https://cdn5.telesco.pe/file/b0avL-KMLb5NcwbTr3orjKSkLYkFgsIa5DFQkmEqTOmrwRNDyrkJ4PBK518CEgYJRPo65vWtsvzjHA8qKy4jMHwZRg6LQI_WEs9nb158wT9pkOLgpDhWjmQW8FtPwBL_xtso9_dsJOSuZBY7DphvtuYSZXaUwTyQc7Y0v499ueBKkOt4zlTiJyA1vnnyrNXjq1sXfhymlOvb6BtY1f-ciI05xZmR91dvwKnDI9dzBg2yXIwLnrUARAxlmNXZDhhe-xae0Yc12T0Bi89UIRG0EmJ2QAlAHy2LQMyhA8z66XmVyXDlhhYSQbzIIcY30MaIEpySj4-iaHHgqr_9ktFQgA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-24T14:36:01+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23907",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23907",
+      "text": "내계좌네",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-24T14:34:26+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23906",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23906",
+      "text": "오늘 오후 도쿄 게릴라 폭우",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-24T14:29:02+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23905",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23905",
+      "text": "미국채 금리 상승에 따라 CAPEX증가가 조달금리 상승에 따른 회사의 부담증가로 인식되나보네요.",
+      "images": [
+        "https://cdn5.telesco.pe/file/XCDrkD_XaI-6hodN-AWvL9D_HNqNOAx92ZYqLCD5zUczyhQbS7WXFN9nTwUuKDQcoqbhIK5fMe9Zt9uTyvz50gFq8680okIm9bLu_YbAeWgvRkysmg1rNgpAiyZWMdtLBjBSywUCqH1d7OWU0VaGSqta7Hb_nQGhBHFas4_49-AcBrKXJ6KOrumQHIE4C_11ua6Mu4FavS9JN7jZtz-d3G4NaWjQUgf0wKr5zCY6kPFatS8NwOweUOxwf3-6-RYwaM4k6EHMRpsFtqazqYs8oxnoq5qPmagVavJei2lQ6Rg7-0JRLJgwN3h43usI-PxtTLvb4riIah0cFNl_VFYcjA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-24T13:57:35+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23904",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23904",
+      "text": "Citi) 인텔; 변화가 진행 중: 매수 의견 유지. TP $130\n씨티의 견해\n인텔은 15년 만에 가장 강력한 매출 성장을 기록했으며, 6월 분기 실적과 9월 분기 EPS 전망 모두 컨센서스를 크게 상회했습니다. 이는 약 60%가 DCAI, 나머지는 CCPG에 기인합니다. 펀더멘털 측면에서 인텔은 에이전틱 AI가 견인하는 두 자릿수 서버 CPU 물량 성장의 수혜를 보고 있습니다. 인텔은 고객사 민감성으로 인해 파운드리 수주 현황을 공개하지 않고 있으나, 2028년 14A 대량 생산에 대한 의지와 캐펙스 증가는 외부 파운드리 사업에 대한 자신감을 보여준다고 판단합니다. 저희는 매출 상향을 반영해 CY26/27년 EPS(SBC 제외) 전망치를 각각 63센트/58센트 상향합니다. 시장 멀티플 하락을 반영해 목표주가는 130달러로 유지하며, AI가 견인하는 CPU 사이클과 개선된 파운드리 실행력을 근거로 매수 의견을 유지합니다.\n파운드리 업데이트. 인텔은 내부 제품용 18A를 양산 단계로 성공적으로 램프업했으며, 18A-P 리스크 생산을 개시해 외부 고객사에 대한 검증을 확보했습니다. 초기 14A의 결함 밀도와 트랜지스터 성능은 18A 기대치를 상회하고 있으며, PDK 0.9는 10월 출시 일정에 부합하고 14A 관련 고객사 참여도 확대되고 있습니다. 인텔은 2027년 하반기 14A 내부 제품 리스크 생산 일정을 예정대로 유지하고 있으며, 2분기에 2028년 대량 생산에 전면적으로 착수하기로 결정했습니다. EMIB-T에 대한 관심이 높고 수주잔고는 계속 증가하고 있으며, 2027년 고객사 램프업을 목표로 하고 있습니다. 14A는 다수의 전방 시장에서 경쟁력을 갖추고 있습니다. 18A-P의 초기 가동 비용은 18A보다 낮습니다.\n서버 CPU 물량은 2028년까지 두 자릿수 % 증가. 서버 CPU 시장 성장은 물량 증가와 ASP 상승 모두에 의해 견인될 것으로 예상되며, 이는 코어 수 증가에 의해 뒷받침됩니다.\n데이터센터 부문은 2026년 3분기에 한 자릿수 초반% 성장 가능. 서버 CPU 공급은 3분기 말과 4분기에 걸쳐 확대될 것이며, 인텔은 이 시기에 공급 성장이 가속화될 것으로 예상하고 있습니다. 회사는 3분기에서 4분기로 넘어가면서 서버 CPU에서 의미 있는 성장을 기대하고 있습니다. 인텔 3는 데이터센터 부문에서 여전히 가장 중요한 노드로, 그래니트 래피즈 생산을 뒷받침하고 있습니다. 경영진은 올해 남은 기간과 내년에 걸쳐 인텔 3 생산능력을 확대하는 데 자신감을 보이고 있습니다. 인텔 3는 아일랜드에서 생산되며, 생산능력 확대는 클라이언트에서 서버로의 웨이퍼 전환이 아니라 웨이퍼 투입 증가와 수율 개선에 의해 이루어지고 있습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/UgJmefxdt_W9XAzBujuTeOJVNaqXaBl_Mmha1rQVJMyu3yI-jvzHR_4uuYHpRsNrdu1mf96xYgujZE36s8sO2-NFhRsS2RKobf5kK_sri7zXfZHtgDXL8kR1rIlfIcqTbm8mF8wlSiaLTcJsDVroUizOvb8BK1DwNFnGSAV7-c3-dDY8ZtXIyfbIL7f0nAYXlzY7qUx8mT4anqGvJOVFA1or8QsyyJi9jf2oq_8UrRiY75AOPQ7oOvzBU1EClRG1jHHNs8ickhxh1wfie-DlFo53wj97OZrB-qkbJSe82qnRi0dH2vnpFTyG5ug1Yh2ESmekZlA2zOkcdDlhyrPc1A.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-24T13:37:41+00:00"
+    },
+    {
+      "id": "tg:EMchina/31824",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31824",
+      "text": "GIC, 향후 3년간 헤지펀드에 300억달러 투자 계획  https://www.wsj.com/finance/investing/singapores-gic-plans-to-invest-30-billion-in-hedge-funds-over-next-three-years-a21d98c3",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-24T13:17:39+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20773",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20773",
+      "text": "[ETF Unboxing] 슈퍼사이클에 진입한 산업에 투자하는 신규 상장 ETF\n▶️\n하나증권 Global ETF 장치영(T.3771-3669)\n▶️\n자료:\nhttps://buly.kr/7mE8MJ1\n▶️\n텔레그램:\nhttps://t.me/hanaglobalbottomup\n★ 글로벌 질서 재편과 엮여있는 슈퍼사이클\n» VistaShares는 우주·방산·로보틱스 세 가지 테마에 특화된 Supercycle 시리즈 ETF를 신규 상장. 세 산업 모두 구조적 성장 국면에 진입한 상태\n» Supercycle 시리즈에 속한 AI, 우주, 방산, 로보틱스, 전력망 다섯가지 테마 모두 현재 글로벌 안보 및 공급망 재편에서 핵심적인 영역에 해당. 글로벌 주요국들은 국가 안보와 산업 경쟁력 확보 차원에서 해당 산업들에 정책적 지원과 함께 대규모 자본을 투입 중\n★ Bill of Materials(BoM) 방법론 적용으로 해당 테마에 대한 실질적인 경제적 노출도 확보\n» BoM은 제조업에서 완제품을 만드는 데 필요한 부품 및 자재들의 원가 명세서를 의미. BoM 방법론을 통해 Supercycle 시리즈는 테마에 대한 순수 노출도를 높이는 구조로 설계\n» 해당 테마의 밸류체인을 업스트림부터 다운스트림까지 세분화하여 분석하고, 최종 제품에 대한 기여도를 바탕으로 밸류체인 단계별 가중치를 부여. 또한 편입 대상은 기업 자체 매출 중 해당 테마 관련 매출이 유의미한 기업으로 한정\n» 동일한 구조로 앞서 상장된 AI와 전력망 테마 ETF는 동일 테마 ETF 대비 양호한 성과를 기록 중\n★ 신규 상장 슈퍼사이클 테마 ETF: 우주(GALX), 로보틱스(RTOO), 방산(AMMO)\n» VistaShares Space Supercycle(GALX): 우주 산업 밸류체인에 투자하는 액티브 ETF로, 우주 관련 매출 또는 자산이 50% 이상인 기업만 편입. 우주 산업이 아직 초기 단계인 점을 고려해 포트폴리오 구성 종목이 우주 관련 하드웨어 및 인프라 등에 집중되어 있음\n» VistaShares Robotics Supercycle(RTOO): 로보틱스 하드웨어, 산업·물류 자동화, 휴머노이드 등 로보틱스 밸류체인 전반에 투자하는 액티브 ETF. 로보틱스 관련 매출 또는 자산이 50% 이상인 순수 로봇 기업 중심. 주요 편입 종목으로 Yaskawa, Harmonic Drive, Fanuc 등 산업용 로봇 대표 기업 포함되어 있음\n» VistaShares Defense Supercycle(AMMO): 미국 국방부 조달 프로그램에 부품·시스템·핵심 소재를 제공하는 기업에 투자하는 액티브 ETF. 국내 방산 기업인 LIG Defense&Aerospace가 가장 높은 비중으로 편입되어 있으며 희토류 소재 기업 MP Materials도 편입하고 있어 여타 방산 ETF와 차별화되는 부분\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-24T13:17:32+00:00"
+    },
+    {
+      "id": "tg:EMchina/31823",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31823",
+      "text": "CATL 상반기 순이익 +42% 급증 & 대규모 자사주 매입/소각 추진  https://cnevpost.com/2026/07/24/catl-h1-profit-share-buyback/",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-24T13:09:53+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23903",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23903",
+      "text": "테슬라 사이버트럭 판매량이 자유낙하 중입니다 – 포드 에드셀과 비교될 정도로 심각합니다\n콕스 오토모티브의 데이터에 따르면 2026년 1분기 사이버트럭 판매량은 출시 이후 최악의 분기 실적인 단 3,519대를 기록했습니다. 이는 일론 머스크가 한때 연간 25만 대를 판매할 것으로 전망했던 차량입니다. 이후 블룸버그도 에드셀과의 비교를 공식적으로 제기하며, 사이버트럭이 전기차 시대 최대의 자동차 실패작이 될 가능성이 있다고 평가했습니다.\nhttps://autos.yahoo.com/ev-and-future-tech/articles/tesla-cybertruck-sales-freefall-bad-183031069.html",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-24T13:03:12+00:00"
+    },
+    {
+      "id": "tg:EMchina/31822",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31822",
+      "text": "태양광산업협회 관계자: 강제성 표준이 태양광 산업 악성 저가경쟁 순환 끊을 것  • 2027년 1월부터 3개 강제성 효율 국가표준 & 6월부터 2개 강제성 안전국가표준 실시 예정  中国光伏行业协会人士：强制标准实施将打破光伏“内卷式”竞争 在今日举行的第二届晶硅光伏产业创新峰会上，中国光伏行业协会有关负责人表示，光伏组件强制性安全标准、能效标准有利于规范光伏行业竞争秩序，推动产业升级发展。下一步，协会将根据强制标准的要求，配合相关主管部门，进一步研究节能监察具体实施细则。光伏行业有了…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-24T12:52:01+00:00"
+    },
+    {
+      "id": "tg:EMchina/31821",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31821",
+      "text": "유가가 끌어올리는 금리 인상 기대  • 브렌트유 100달러 돌파. 다음주 미국 기준금리 인상 확률은 38%까지 상승  油价主导“加息”预期 随着隔夜布油价格突破100美元大关，市场对于美联储加息预期也随之走高，目前对于下周FOMC会议加息概率预期已飙升至38%。  https://wallstreetcn.com/charts/41959448",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-24T12:39:21+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23902",
       "source": "telegram",
@@ -72,7 +223,7 @@
       "author_name": "한투증권 중국/신흥국 정정영",
       "author_url": "https://t.me/EMchina",
       "url": "https://t.me/EMchina/31819",
-      "text": "CATL 상반기 순이익 +42% 급증 & 대규모 자사주매입 추진\nhttps://cnevpost.com/2026/07/24/catl-h1-profit-share-buyback/",
+      "text": "CATL 상반기 순이익 +42% 급증 & 대규모 자사주 매입/소각 추진\nhttps://cnevpost.com/2026/07/24/catl-h1-profit-share-buyback/",
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-24T12:01:11+00:00"
@@ -128,18 +279,6 @@
       "published_at": "2026-07-24T11:42:59+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23897",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23897",
-      "text": "중국 유니트리 로봇인데 대단 ㄷㄷㄷ",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-24T11:35:20+00:00"
-    },
-    {
       "id": "tg:bornlupin/19296",
       "source": "telegram",
       "author": "bornlupin",
@@ -178,20 +317,6 @@
       "published_at": "2026-07-24T09:34:49+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23896",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23896",
-      "text": "DRAM ETF의 곱버스 RAMZ 7/28 화요일 출시예정",
-      "images": [
-        "https://cdn5.telesco.pe/file/Cko5l63ap7HeHTUNKNkKUUdzGAOKyMCwYlAeLn9QUMT1d0JMZxT8v-vaG-uir4-AWTjruVWPYuwe4A8y55ggii92QCVw5rFOfMWpqQ__b8mWmT7_mrFqUpbSyHKa1NWxk6shT0aPZKLcgTt0oUWpj_m38bFZ8mY--5kb7CvUiE6YwiIaE5lg4tQAGfI7vdqqGWsBadpVVfP6efsbFxyf5tQsEk30P06OcZRhqpvSpsx8jLPJ6ztgtR7WzEMVDFr0q1aaIcUeSUfX3B-Mi3ykFrmHbn5PkzoXRqlRkRIQuUkh4iTQBAKwUD-nJUm0duBHTjPfXE3WxfdRq1Tk8brN9g.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-24T09:20:39+00:00"
-    },
-    {
       "id": "tg:enc210406/4197",
       "source": "telegram",
       "author": "enc210406",
@@ -216,42 +341,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-24T08:58:41+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23895",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23895",
-      "text": "[단독] 금융당국, 삼전닉스 2배 손실 투자자에 '경고문자' 보낸다 | 뉴데일리  단일종목 레버리지 ETF 손실률 50%·70% 초과 시 증권사 통해 투자자들에게 문자로 손실률 통보 지시 증권업계도, 실효성 의문…\"MTS서 실시간 확인 가능해\" 업계 \"상품 허용 뒤 문제 터지자 규제 덧붙여\"  https://biz.newdaily.co.kr/site/data/html/2026/07/24/2026072400185.html",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-24T08:57:57+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23894",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23894",
-      "text": "[단독] 금융당국, 삼전닉스 2배 손실 투자자에 '경고문자' 보낸다 | 뉴데일리\n단일종목 레버리지 ETF 손실률 50%·70% 초과 시\n증권사 통해 투자자들에게 문자로 손실률 통보 지시\n증권업계도, 실효성 의문…\"MTS서 실시간 확인 가능해\"\n업계 \"상품 허용 뒤 문제 터지자 규제 덧붙여\"\nhttps://biz.newdaily.co.kr/site/data/html/2026/07/24/2026072400185.html",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-24T08:55:43+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23893",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23893",
-      "text": "AMD “삼성과 HBM4 본계약 임박”\n리사 수 AMD 최고경영자(CEO)는 23일(현지 시간) 미국 샌프란시스코에서 열린 ‘AMD 어드밴싱 AI 2026’ 행사 중 기자와 만나 삼성전자와 HBM4 우선 공급 양해각서(MOU)를 체결한 후 상당량을 공급받기 위한 실질적인 본계약을 논의하고 있는냐는 질문에 “거의 다다랐다(almost close)”고 답했다.\nhttps://www.sedaily.com/article/20071621",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-24T08:53:55+00:00"
     },
     {
       "id": "tg:bornlupin/19294",
@@ -424,18 +513,6 @@
       "published_at": "2026-07-24T06:43:12+00:00"
     },
     {
-      "id": "tg:EMchina/31812",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31812",
-      "text": "이렇게 자리 잡는다고, CXMT..?  =====================  ~ IT매체 Wccftech는 대만 디지타임스를 인용해 주요 PC 제조업체들이 장기 공급 물량을 확보하기 위해 CXMT에 주문을 넣고 있다고 18일(이하 현지시각) 보도했다  ~ CXMT는 주문 규모가 큰 고객에게 생산 물량을 우선 배정하는 것으로 전해졌다. 델, HP, 레노버, 애플 등이 우선 공급 대상에 포함될 것으로 예상된다.반면 구매 규모가 작은 PC 제조업체는 CXMT의…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-24T06:41:29+00:00"
-    },
-    {
       "id": "tg:enc210406/4192",
       "source": "telegram",
       "author": "enc210406",
@@ -474,54 +551,6 @@
       "published_at": "2026-07-24T06:02:51+00:00"
     },
     {
-      "id": "tg:EMchina/31811",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31811",
-      "text": "분위기가  =======================  ~ 보도에 따르면 삼성전자가 오포와 비보에 제시한 3분기 메모리 반도체 가격 인상 폭은 1~2분기에 비해 크게 둔화했다. 그럼에도 두 회사는 가격 인상안을 받아들이지 않기로 했다고 소식통은 전했다  https://n.news.naver.com/article/421/0009076823?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-24T05:50:51+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23892",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23892",
-      "text": "CXMT, 화웨이의 반도체 가격 인상 완화 요구 거부\n수개월 동안 중국 반도체 제조사 창신메모리테크놀로지스(CXMT)는 중국 최대 기술 기업 중 하나인 화웨이에 대해 가격을 인상해왔습니다. 사안에 정통한 두 관계자에 따르면, 화웨이가 급등하는 비용에 대한 완화를 요구했을 때도 이 반도체 제조사는 입장을 굽히지 않았습니다.\n이 대치는 지난 6월 CXMT의 공장 현장에서 정점에 달했습니다. 화웨이와 깊은 전략적 관계를 맺고 있는 반도체 장비 업체 소속 엔지니어들이 안후이성 허페이에 있는 CXMT의 핵심 연구개발 구역 클린룸에서 작업하고 있었습니다. 두 소식통에 따르면, CXMT는 아무런 예고 없이 장비 유지보수를 지원하던 이 엔지니어들에게 즉시 공구를 챙겨 공장 현장을 떠나라고 지시했습니다.\n화웨이와 연계된 장비 업체인 시캐리어(SiCarrier)의 경영진은 이 충돌이 CXMT와 화웨이 간 힘겨루기의 결과라고 결론지었다고 관계자들은 로이터에 전했습니다. 양사는 여전히 거래를 지속하고 있지만, 해당 엔지니어들은 R&D 구역에 다시 들어가지 못하고 있다고 두 관계자는 말했습니다.\nhttps://www.reuters.com/world/china/chinas-memory-chip-makers-ride-ai-boom-new-power-us-scrutiny-2026-07-24/",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-24T05:47:22+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23891",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23891",
-      "text": "로보택시 부문에서는 누적 무감독(unsupervised) 주행 38만 마일(텍사스/플로리다)이 신규 공개",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-24T05:41:19+00:00"
-    },
-    {
-      "id": "tg:EMchina/31810",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31810",
-      "text": "CXMT 과창판 상장일 7/27 확정   长鑫科技公司股票将于2026年7月27日在上海证券交易所科创板上市。",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-24T05:40:21+00:00"
-    },
-    {
       "id": "tg:bornlupin/19291",
       "source": "telegram",
       "author": "bornlupin",
@@ -549,18 +578,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-24T05:12:24+00:00"
-    },
-    {
-      "id": "tg:EMchina/31809",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31809",
-      "text": "오전장 본토/홍콩 수익률:\n[본토]\n• 에너지설비 +0.84%, 통신 +0.56%, 반도체 +0.34%, 은행 +0.24%\n• 귀금속 -4.84%, 인터넷 -4.30%, 기초금속 -3.70%, 소프트웨어 -3.25%\n[홍콩]\n• 반도체 +0.50%, 기업서비스 +0.12%, 은행 -0.07%, 제지/포장 -0.21%\n• 비철금속 -3.98%, 경기소비리테일 -2.73%, 기계 -2.54%, 철강 -2.16%",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-24T04:32:01+00:00"
     },
     {
       "id": "tg:globaletfi/20769",
@@ -798,20 +815,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-23T21:49:29+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20760",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20760",
-      "text": "🔹\n미국, 강제노동 대응을 명분으로 하는 새로운 관세 부과 정책 발표\n» 미국 정부는 강제노동으로 생산된 제품의 유입을 막지 못한 국가들을 대상으로 최소 10%의 새로운 관세를 부과한다고 발표. 이는 대법원 판결로 일부 제동이 걸렸던 트럼프 행정부의 관세 정책을 새로운 법적 근거를 통해 사실상 재구축하는 조치\n» 이번 조치는 약 60개 국가를 대상으로 진행된 조사 결과를 바탕으로 마련. 각국이 공급망 내 강제노동 문제를 충분히 차단하지 못해 미국 노동자들에게 피해를 초래했다고 판단한 것이 명분\n» 강제노동 금지 조치를 충실히 시행한 것으로 평가된 약 10개 교역국에는 10%의 관세가 적용되며, 그 외 다수의 국가에는 12.5%의 관세가 부과\n» 새로운 관세는 미국 동부시간 기준 금요일(24일) 오전 0시부터 발효. 다만 시행 이전에 이미 선박에 적재된 일부 화물은 이번 조치의 적용 대상에서 제외",
-      "images": [
-        "https://cdn5.telesco.pe/file/Blxjbhc1BtJ8zy55vAqD1hKQFmpcnpxjIvkClkosnif1hF_cT-Gc6dENLLv_epxqjeETk59lnagSo0Satxfq6IM4xQrDNfAyg_b-HDsR4cO3R0uiHV84eNi5O0XVkNHt5V_Q2jbHnL4ZwmdpGfE0-R2J-RJiKQRHVq3-WL-FSRU4ccg9M-0forIiVBhw1sJ_Ft8OhGdt8R7e2XLIyRSqExlYEvNLhk9jheIKrkYdOx-LOeA9B2qS5zLHpS1VojxcxOgENjyjIvbQUhQKeil1lUOZeecQydG9TTmwFBTAAuHlGPRO2GvtdsMvFRKx0--1zhb7kqsOrw0KwStaT1_0Iw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-23T21:16:55+00:00"
     },
     {
       "id": "x:OpenAI:2080392280549253392",
