@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-07-25T18:02:10+00:00",
+  "updated_at": "2026-07-25T20:10:42+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 7
+    "new_this_run": 0
   },
   "briefing": {
-    "headline": "퀄컴, 고객사에 '두 자릿수' 가격 인상 통보",
+    "headline": "메타, RE100 탈퇴 및 800달러 목표",
     "bullets": [
-      "삼성전자, 브로드컴과 292조원 규모 반도체 파운드리·메모리 협력",
-      "엔비디아 젠슨 황 CEO 블룸버그 인터뷰",
-      "메타, 야망에는 메타급 규모가 필요하다. TP $800",
+      "퀄컴, 고객사에 두 자릿수 가격 인상",
+      "삼성전자, 브로드컴과 292조원 반도체 파운드리 협력",
+      "엔비디아 젠슨 황 CEO, 블룸버그 인터뷰",
       "OpenAI, ChatGPT 전 세계적 접속 장애 공식 확인"
     ],
-    "generated_at": "2026-07-25T18:02:10+00:00",
+    "generated_at": "2026-07-25T20:10:42+00:00",
     "model": "groq"
   },
   "items": [
@@ -1108,20 +1108,6 @@
       "published_at": "2026-07-23T20:39:06+00:00"
     },
     {
-      "id": "x:OpenAI:2080378182469857576",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2080378182469857576",
-      "text": "Pinned: ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running in ChatGPT Work or Codex, using just your voice. It's powered by GPT-Live, so it can speak, listen, and coordinate work in the app at the same time. Rolling out globally today on macOS and Windows to Plus, Pro, Business, Edu, and Enterprise plans.",
-      "images": [
-        "https://pbs.twimg.com/media/HN7_xzbb0AAl2Kw.jpg"
-      ],
-      "summary_ko": "ChatGPT Voice는 이제 데스크톱 앱에 있습니다. 음성만으로 컴퓨터를 제어하고 ChatGPT Work 또는 Codex에서 실행 중인 여러 에이전트를 안내하세요. GPT-Live로 구동되므로 앱에서 동시에 말하고 듣고 업무를 조정할 수 있습니다. 오늘 macOS 및 Windows에서 Plus, Pro, Business, Edu 및 Enterprise 요금제로 전 세계적으로 출시됩니다.",
-      "published_at": "2026-07-23T19:43:04+00:00"
-    },
-    {
       "id": "x:sama:2080378182469857576",
       "source": "x",
       "author": "sama",
@@ -1133,6 +1119,20 @@
         "https://pbs.twimg.com/media/HN7_xzbb0AAl2Kw.jpg"
       ],
       "summary_ko": "@sama의 RT: ChatGPT Voice가 이제 데스크톱 앱에 있습니다. 음성만으로 컴퓨터를 제어하고 ChatGPT Work 또는 Codex에서 실행 중인 여러 에이전트를 안내하세요. GPT-Live로 구동되므로 앱에서 동시에 말하고 듣고 업무를 조정할 수 있습니다. 오늘 macOS 및 Windows에서 Plus, Pro, Business, Edu 및 Enterprise 요금제로 전 세계적으로 출시됩니다.",
+      "published_at": "2026-07-23T19:43:04+00:00"
+    },
+    {
+      "id": "x:OpenAI:2080378182469857576",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2080378182469857576",
+      "text": "Pinned: ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running in ChatGPT Work or Codex, using just your voice. It's powered by GPT-Live, so it can speak, listen, and coordinate work in the app at the same time. Rolling out globally today on macOS and Windows to Plus, Pro, Business, Edu, and Enterprise plans.",
+      "images": [
+        "https://pbs.twimg.com/media/HN7_xzbb0AAl2Kw.jpg"
+      ],
+      "summary_ko": "ChatGPT Voice는 이제 데스크톱 앱에 있습니다. 음성만으로 컴퓨터를 제어하고 ChatGPT Work 또는 Codex에서 실행 중인 여러 에이전트를 안내하세요. GPT-Live로 구동되므로 앱에서 동시에 말하고 듣고 업무를 조정할 수 있습니다. 오늘 macOS 및 Windows에서 Plus, Pro, Business, Edu 및 Enterprise 요금제로 전 세계적으로 출시됩니다.",
       "published_at": "2026-07-23T19:43:04+00:00"
     },
     {
