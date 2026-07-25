@@ -1,21 +1,110 @@
 {
-  "updated_at": "2026-07-25T07:16:38+00:00",
+  "updated_at": "2026-07-25T09:47:10+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 8
+    "new_this_run": 7
   },
   "briefing": {
-    "headline": "삼성전자, 브로드컴과 2,000억달러 반도체 MOU 체결",
+    "headline": "삼성전자, 브로드컴과 2,000억달러 반도체 파운드리 협력",
     "bullets": [
-      "엔비디아, SK그룹과 5000억달러 파트너십 발표",
-      "알파벳, 연간 자본지출 전망 상향",
+      "OpenAI, ChatGPT 전 세계적 접속 장애 발생",
       "앤스로픽, 삼성전자·SK하이닉스와 공급 계약 체결",
-      "미국 30년물 국채 실질금리 3%로 상승"
+      "알파벳, 연간 자본지출 전망 상향 조정",
+      "엔비디아 젠슨 황 CEO, '코리아AI' 구축 협력 의지表明"
     ],
-    "generated_at": "2026-07-25T07:16:38+00:00",
+    "generated_at": "2026-07-25T09:47:10+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31839",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31839",
+      "text": "citi AI 모니터: 모델 강력해질수록 반도체-전력은 따라가지 못하는 중\n• AI 산업 ROI는 인프라 분야 전환\n• 향후 경쟁의 해자는 컴퓨팅파워 확보에서 효율성 및 독점 데이터 전환될 것\n花旗AI追踪：模型越来越强，但芯片和电力快跟不上了\n花旗分析称，AI行业的投资回报（ROI）正加速向基础设施层转移，未来竞争护城河将从算力获取转向效率与专有数据。\nhttps://wallstreetcn.com/articles/3777928#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-25T09:41:32+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19314",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19314",
+      "text": "OpenAI, ChatGPT 전 세계적 접속 장애 공식 확인\nChatGPT가 전 세계적인 접속 장애를 겪고 있습니다.\nOpenAI는\n현재 전 세계 사용자들이 불편을 겪고 있으며, 많은 이들이 AI에 접속하지 못하고 있음을 확인했습니다.\n이번 서비스 중단은 지난 30분 이내에 시작되었습니다. 다운디텍터(DownDetector)에 따르면,\n현재 미국, 유럽, 인도, 일본, 호주 및 세계 여러 지역에서 ChatGPT 장애가 발생하고 있습니다.\nOpenAI는 공식 상태 페이지를 통해 ChatGPT에 영향을 주는 문제를 인정했습니다.\n\"현재 해당 서비스들에 발생한 문제를 조사 중입니다.\" — OpenAI 공식 입장\nhttps://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/\n(컴퓨팅 이렇게 부족한데!)",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-25T09:41:10+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19313",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19313",
+      "text": "이재용·올트먼, 오픈AI 본사서 만난다…HBM·파운드리 협력 논의\n25일 오픈AI 본사서 협력 방안 논의 예정\n삼성 업무 전반 AI 도입 방안도 언급될듯\n작년 10월 삼성전자-오픈AI, 전략적 파트너십 맺어\n이재용 삼성전자(005930) 회장과 샘 올트먼 오픈AI 최고경영자(CEO)가 미국 샌프란시스코 오픈AI 본사에서 만나 인공지능(AI) 인프라와 삼성전자의 AI 전환을 위한 협력 방안을 논의한다.\n오픈AI는 이 회장과 올트먼 CEO가 현지시간 25일 오전 샌프란시스코 현지에서 양사 주요 임원들과 함께 회의를 열 예정이라고 밝혔다.\n양측은\n고대역폭 메모리(HBM)와 D램, 첨단 파운드리 등 AI 인프라 분야의 협력 방안을 집중적으로 협의할 것으로 예상\n된다.\n삼성전자\n업무 전반에 생성형 AI를 적용하는 방안도 주요 의제로 다뤄질 것\n으로 보인다. 삼성전자는 오픈AI의 글로벌 기업 고객 가운데 최대 규모 중 하나로, 전 임직원을 대상으로 챗GPT와 AI 코딩 도구 코덱스를 도입하기로 했다\n이번 회동에서는\n삼성전자 메모리 반도체와 파운드리 역량을 오픈AI가 추진하는 대규모 AI 인프라 사업과 연계하는 방안이 논의될 것\n으로 관측된다. 구체적인 반도체 공급 물량과 투자 규모, 계약 일정 등은 아직 공개되지 않았다.\n삼성전자와 오픈AI는 지난해 10월 전략적 파트너십을 맺고 첨단 메모리 반도체 생산 확대와 차세대 AI 인프라 구축을 위한 협력을 추진해 왔다.\n올트먼 CEO는 이 회장과의 회동에 앞서 24일 이재명 대통령과 단독 면담을 가졌다.\nhttps://www.edaily.co.kr/News/Read?newsId=02341926645518128&mediaCodeNo=257&OutLnkChk=Y",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-25T09:30:28+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19312",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19312",
+      "text": "삼성전자, 브로드컴과 292조원 규모 반도체 파운드리·메모리 협력\n삼성전자가 브로드컴과 2000억달러(약 292조원) 규모 반도체 협력을 추진한다. 고대역폭메모리(HBM) 등 인공지능(AI) 메모리뿐만 아니라 반도체 위탁생산(파운드리), 첨단 패키징까지 전방위 솔루션을 공급하는 대규모 협업\n이다.\n양사는 24일(현지시간) 미국 샌프란시스코 더 미드웨이에서 열린 'AI 서밋' 행사에서 차세대 인공지능(AI) 핵심 인프라 구축을 위한 전략적 업무협약(MOU)을 체결했다.\n삼성전자는 메모리, 파운드리, 첨단 패키징을 아우르는 '원스톱 턴키 솔루션'을 앞세워 브로드컴과의 협력을 확대\n한다.\n2030년까지 5년간 메모리·파운드리 분야에서 2000억달러 이상 규모의 전략적 협력을 추진하며 AI 반도체 분야 기술 협력을 확대\n한다.\n우선\n삼성전자는 고대역폭메모리(HBM)를 비롯한 최첨단 메모리 솔루션을 공급, 브로드컴 AI 가속기 성능과 경쟁력 강화에 기여\n한다.\n삼성전자는\n업계 최초 1c D램과 4nm 베이스다이 기술을 적용한 HBM4를 지난 2월 전 세계 최초로 양산 출하\n했다. 5월 HBM4E 샘플도 업계 최초로 고객사에 공급하며 차세대 HBM 기술 리더십을 견고히하고 있다.\n삼성전자는 HBM 성능과 신뢰성, 전력 효율성을 기반으로 브로드컴 AI 가속기의 성능을 극대화하는 등 차세대 AI 인프라 경쟁력을 뒷받침하는 핵심 메모리 솔루션 전략을 추진한다.\n파운드리 분야에서는 협력한다.\n브로드컴의 차세대 고속 데이터 통신을 지원하는 통신용 반도체 솔루션 등 주요 제품 라인업에 2nm 이하 첨단 파운드리 공정을 적용, 제품 경쟁력을 한층 강화한다.\n또 2nm 공정 기반 첨단 패키징 기술로 고성능·고효율 AI 반도체 구현을 지원하며, 브로드컴에 차별화된 AI 반도체 솔루션을 제공한다.\n반도체 설계와 공정을 함께 최적화하는 단계부터 칩 설계, 첨단 패키징, 양산에 이르기까지 전 과정을 긴밀하게 연계해 제품 개발 기간을 단축하고 성능과 전력 효율을 극대화할 수 있도록 지원한다.\n삼성전자는 브로드컴과 차세대 AI 반도체 분야 협력을 통해 빠르게 성장하는 AI·고성능 컴퓨팅 시장에서 새로운 사업 기회를 발굴할 계획이다.\n이번 협약은\nAI 시대 핵심 반도체 기술인 메모리, 파운드리, 첨단 패키징 전반에 걸친 양사의 협력을 한층 강화\n하고, 차세대 AI 반도체 생태계 경쟁력을 높이기 위한 행보로 분석된다.\n전영현 삼성전자 DS부문장(부회장)은\n“AI 시대에는 메모리, 로직, 첨단 패키징이 긴밀하게 통합된 반도체 솔루션이 중요하다\n”며 “\n브로드컴과의 협력을 확대함으로써 미래 AI 인프라 발전을 가속화하고 고객에게 더 큰 가치를 제공하겠다”\n고 밝혔다.\n찰리 카와스 브로드컴 반도체 솔루션 그룹 사장은\n“AI 인프라가 빠르게 확장되면서 반도체 생태계 전반의 긴밀한 협력이 중요해지고 있다\n”며 “삼성전자와의 협력을 통해 다양해지는 시장의 요구에 최적화된 차세대 솔루션을 함께 만들어 가겠다”고 말했다.\n이날 'AI 서밋' 행사에는 한진만 삼성전자 파운드리 사업부장 사장과 혹 탄 브로드컴 CEO를 비롯한 양사 경영진, 정부 관계자 등이 참석했다.\nhttps://www.etnews.com/20260725000019",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-25T09:24:32+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23922",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23922",
+      "text": "Citi) 여름철 매도세; 펀더멘털은 유효; 반도체보다 반도체 장비 선호\nCiti는 유가 급등과 채권 금리 상승, AI 지출 우려로 촉발된 SOX 지수의 조정을 매수 기회로 판단하며, 펀더멘털은 훼손되지 않았다고 보고 있습니다. 최종 시장별로는 데이터센터가 반도체 TAM의 34%를 차지하는 최강 시장으로 2030년에는 현재의 반도체 전체 TAM을 넘어설 궤도에 있고, 자동차와 산업(21%)은 회복 국면에 진입한 반면, PC와 휴대폰, 소비자 가전(42%)은 메모리 원가 상승과 공급 제약으로 계속 약화되고 있습니다. 지금까지 실적을 발표한 기업들의 컨센서스 매출 추정치는 2026년과 2027년에 각각 평균 4%, 7% 상향되었고 EPS 추정치는 7%, 8% 올랐는데, Citi는 설비투자 증가에 따른 추정치 상향 폭이 더 크다는 이유로 반도체 종목보다 반도체 장비 종목을 선호한다는 입장입니다.\n설비투자 사이클은 장비 업종에 매우 우호적으로 전개되고 있습니다. 인텔은 2026년 설비투자 가이던스를 기존 약 180억 달러에서 200억 달러 이상으로 상향했고 장비 지출은 전년 대비 40% 증가하며, 장비 주문 확정과 클린룸 구축 가속, 기판·메모리 공급 확보를 병행하는 가운데 2027년 설비투자는 2026년보다 상당히 높아지고 대부분 미국 제조에 투입될 전망입니다. TSMC는 예상을 웃도는 AI 수요와 장비 비용 상승을 반영해 2026년 설비투자를 약 560억 달러에서 600억~640억 달러로 재차 상향했고, 향후 3년 설비투자가 지난 3년을 크게 웃돌 것이라고 언급하면서 애리조나에 팹 약 4개를 포함한 1,000억 달러 추가 투자(누적 2,650억 달러)를 발표했습니다. 테슬라는 2026년 설비투자가 250억 달러를 넘고 향후 2~3년간 계속 증가한다고 재확인했으며, Terafab의 오스틴 개발 팹용 장비 주문은 이미 집행되었고 부지와 세부 계획은 곧 발표될 예정입니다. 후공정에서는 앰코가 엔비디아와 15억 달러 규모 다년 파트너십을 맺고 선급금을 받아 미국 첨단 패키징 능력을 확충하며, 70억 달러 애리조나 투자 계획은 1단계 공사가 진행 중으로 2028년 양산, 2030년 완전 구축이 목표입니다.\n수요 측 전망도 상향되고 있습니다. AMD는 AI Day에서 데이터센터 AI 가속기 TAM을 2025년 약 2,000억 달러에서 2030년 약 1조 4,000억 달러로, 데이터센터 CPU TAM을 약 260억 달러에서 약 2,200억 달러로 올렸는데 CPU TAM 상향은 인텔에도 긍정적입니다. 구글은 6월 분기 실적과 함께 FY26 설비투자 전망을 중간값 기준 150억 달러 올려 1,950억~2,050억 달러를 제시했으며, 이는 FY25의 910억 달러의 두 배를 넘고 Citi의 기존 전망 1,900억 달러도 상회하는 수준으로 FY27에도 상당한 증가를 재확인했습니다. 6월 분기 설비투자는 약 450억 달러로 전년 대비 100% 증가했고 컴퓨트·데이터센터와 네트워킹에 60대 40으로 배분되어, Citi는 커버리지 내 CLS와 AVGO, NVDA에 긍정적으로 해석하고 있습니다.\n아날로그 부문에서는 TXN과 STM이 산업 매출 약 30% 증가, 자동차 10%대 중반 증가, 개인용 전자기기 한 자릿수 후반 증가라는 광범위한 회복을 보고했습니다. AI 데이터센터 구축과 새로운 전력 아키텍처가 추가 수요 동력으로 부상해 TXN의 데이터센터 사업은 2026년 31억 달러로 두 배 성장이 예상되고, STM은 목표를 2026년 10억 달러, 2027년 20억 달러로 기존의 약 두 배 수준으로 상향했습니다. STM은 공급 타이트화와 리드타임 장기화를 언급했고 TXN은 자체 생산능력으로 업계 최단 리드타임을 유지하고 있으며, 양사 모두 가격 인상을 진행 중이어서 ADI와 MCHP, NXPI, ON에도 긍정적인 시사점으로 평가됩니다.\n*클로드로 요약함.",
+      "images": [
+        "https://cdn5.telesco.pe/file/SLRRDkGw6ukLsjWiMU5l5NZzUJbj_qOPwkF6XbvBOKG-Q9JxekVMvQt94tGwXw77jsch59Pzwx1PQjTcxnWrcLYTzNdd7I8du24G2Wl7mriVK0A5Qdel4NFR42_ZVwNeUzna9VOeh22fWPfOWl0dg5YOoOkXiu5ScLbKOVwqkpMVLl8cLa7zGw2rdu6O5mO-mH6_34WD0V-ol76WKgPsjqG_BBkgalzsu_QycDHnUiVmXbPrYnbvHRN4hniaJIHwIZrRv8ol6bZJf_8k_3jQ4b2joLoBnyeSVyDjiwIe0tOGUHKcMeTD-S0mTUlpzMavfYOlRYn9Zefj_Fy_UX12zg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-25T08:48:01+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23920",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23920",
+      "text": "Citi) 현실 점검: 타이트한 재고와 강력한 KV 캐시 수요로 메모리 업사이클은 유효\nCITI의 견해\n한국 메모리 주식은 중국 스마트폰 수요 약화와 NAND 채널 재고 증가에 따른 DRAM/NAND 사이클의 정점 통과 가능성 논쟁 속에서 주가 조정을 겪었습니다. 시장의 우려와는 달리, 당사의 시장 분석은 NAND 재고가 메모리 공급업체에서 2.6주, eSSD의 주요 고객인 하이퍼스케일러에서 3주로 극도로 빈약한 수준에 있음을 시사합니다. 당사는 견조한 AI 수요가 메모리를 공급 부족 상태로 유지시킨다는 점을 재확인합니다. 삼성전자와 하이닉스에 대한 매수 의견을 유지합니다.\n메모리 공급업체/하이퍼스케일러의 NAND 재고는 2.6주/3.0주 — 당사의 분석(Fig.1)은 26년 3분기 NAND 공급업체의 NAND 재고가 정상 수준인 5주를 하회하는 2.6주로 심각하게 소진된 상태임을 시사합니다. 하이퍼스케일러의 NAND 재고는 3주로, 정상 수준인 7주보다 훨씬 낮습니다. NAND 채널 재고 측면에서는 재고가 5주로, 평균 정상 수준인 15주보다 현저히 낮습니다. 마찬가지로 DRAM 공급업체의 재고는 2.7주(Fig.2)로 정상 수준인 5주를 하회합니다. 하이퍼스케일러의 DRAM 재고는 2.5주로 매우 낮은 수준에 머물러 있으며, 정상 수준인 7주를 밑돕니다. DRAM 채널 재고는 4주로, 이 역시 정상 수준인 15주 대비 예외적으로 낮습니다.\n컨슈머 NAND 부진에도 CMX와 QLC NAND에서 견조한 NAND 수요 상승 여력 — 최근 중국 스마트폰 수요 약세가 NAND 가격 약화에 대한 우려를 불러일으켰으나, 당사는 AI 에이전트 사용 증가에 따른 KV 캐시 수요 성장에 힘입어 CMX 수요가 증가할 것으로 예상합니다. 또한 당사는 QLC SSD NAND가 AI 컴퓨팅 효율을 높이기 위한 GPU 근접(near GPU) 스토리지 솔루션으로 점차 더 많이 활용될 것이므로 QLC SSD NAND 수요가 추가로 성장할 것으로 전망합니다. 특히 엔비디아의 Vera Rubin이 CMX 구동을 위해 16TB TLC SSD를 채택한 점을 감안하면, Rubin 서버 시스템 1대당 1,152TB의 SSD가 필요합니다. 당사는 CMX NAND 수요가 26년 예상/27년 예상 각각 346억/1,152억 8Gb 환산 개수에 이를 것으로 전망하며, 이는 26년 예상 글로벌 NAND 수요의 2.8%/9.3%에 해당합니다.\n시사점 — 시장의 우려와는 달리, 당사는 메모리 공급업체와 그 고객사 모두에서 메모리 재고 수준이 실질적으로 낮다고 판단합니다. 중국 스마트폰 수요 약세에 대한 우려에도 불구하고, DRAM/NAND 공급업체의 메모리 수급 충족률은 실제로 70%에서 50%로 하락했습니다. 공급망 전반의 빈약한 메모리 재고 상황 속에서 CMX와 QLC NAND 수요 증가는 지속적인 공급 부족을 초래할 것입니다. 삼성전자와 하이닉스에 대한 매수 의견을 유지합니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/MPqMECsl3sbNWw3whP0vzd7H6G09iBdynOELMKuUMncW7_gVkh_YTvAMuhSG603Y5Ijm5UsZpl_qcF1alZ9Y0QasrbRBVPwLkJ2DwrGzVBrRBqR2hfhwgwjVs6EPzonkEafnn9qxENEMOL3GTfDQSac_IoGydmRFUlQmJyfoJMTKGg9am7SeEb_3UTnqaAHnfQ13MKyFfkJVzFpULWtfiiBvr22U-m3THyeKt3X1JU6D0-1anQvZJHhy0BRBtIvBZVwAaaSIGVBILSKKnzghRvrAj2PoeESxnb8cPleY_ZU1ix7f7HLnAXqqt_D0GdBa3slp6jMbhMLWq5-nbOXn6Q.jpg",
+        "https://cdn5.telesco.pe/file/mZQaMlkSA4ysdPLOUCkjpoRL_Wu5q_USSEfHxxmxvEokLiv5pMvtjb-iZ9hn5IOjcAeBm2r0tR5zO4o3e175I3LFnhdUhd8nZ3Tm-9yzknrjgoqr-buTdznyfRrXkV80CFkfXR4hMYFHGpFodRUvLwCNjHwW0H8QZ-7aXtNCZNsYUlX_MCPDUPFuIjekQzeBxwzi_ErxgA2kUM96NBbQXzjnMgahhKjw8sasafTo_mf8VJWgZ41nuc95YKe4gIQnf1LsiwTDWd50KB1wgxyxXCEZtfez8yx3ivjdl1mtxY2W4kKoGTDkuaYKy3KCqYvc-lxanSnEG1IdneRRYejscA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-25T08:43:07+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23919",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23919",
+      "text": "삼성전자-브로드컴 파운드리 협력 내용\n파운드리 분야에서는 브로드컴의 차세대 고속 데이터 통신용 반도체 솔루션에 2nm 이하 첨단 파운드리 공정을 적용\n또 2nm 공정 기반 첨단 패키징 기술을 통해 고성능·고효율 AI 반도체 구현을 지원하며, 브로드컴에 차별화된 AI 반도체 솔루션을 제공한다는 방침",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-25T08:22:19+00:00"
+    },
     {
       "id": "tg:EMchina/31837",
       "source": "telegram",
@@ -304,18 +393,6 @@
       "published_at": "2026-07-25T00:19:04+00:00"
     },
     {
-      "id": "tg:EMchina/31826",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31826",
-      "text": "7/28-29 fomc   ===========================  ~ 이를 적용해보면 아직 타코(후퇴)할 때가 아니지만 그 시점이 점점 가까워지고 있다. 그들은 \"선형적으로 추정해 보면 타코는 빠르면 7월 22일에 일어날 수 있고 늦어도 7월 30일 전에는 '반드시' 일어날 것\"이라며 \"지난 경과를 고려할 때 7월 26일이 가장 유력하다\"고 설명했다  ~ 여기에 고려하는 변수는 각각 △브렌트유 가격, △미국 10년물 국채 금리, △호르무즈 해협…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-25T00:17:19+00:00"
-    },
-    {
       "id": "tg:bornlupin/19307",
       "source": "telegram",
       "author": "bornlupin",
@@ -378,44 +455,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-24T23:44:26+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19301",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19301",
-      "text": "젠슨 황, 李대통령 만나 “SK와 5000억 달러 비즈니스 파트너십 발표”\n이재명 대통령은 24일(현지 시간) 젠슨 황 엔비디아 최고경영자(CEO)을 만나 “그래픽처리장치(GPU) 공급을 원할하게 해준 덕분에 우리가 준비되지 않은 상태에서 정말 빠르게 지금 변화하고 있다”며 “3대 메가 프로젝트를 시작하고 인공지능(AI)이 중심이 된 새로운 나라를 준비하고 있는데 계속 큰 역할을 해달라”고 말했다.\n이에 황 CEO는 “SK그룹과 엔비디아는 양사 간의 비즈니스 파트너십을 발표할 것”이라며 “그 규모는 5000억 달러(730조 7500억 원)에 달한다”고 밝혔다.\n황 CEO는 이날 미국 샌프란시스코 한 호텔에서 가진 이 대통령과 면담에서 “이 대통령께서 발표한 AI 비전이 대한민국에 에너지를 부여했다고 생각한다”며 “후라이드 치킨부터 삼겹살까지 제가 대한민국에서 느낄 수 있었던 에너지는 실로 놀라웠다”고 밝혔다. 이어 “\n한국 대기업부터 스타트업, 연구개발까지 다양한 기업, 조직들과 다양한 파트너십을 구축하고 있다\n”며 “AI 네이티브 국가라는 대통령의 비전과 모두 일치하는 파트너십”이라고 강조했다. 그러면서 “AI 칩을 개발하는 것에서부터 피지컬 AI, 그리고 AI 인프라스트럭쳐까지 커버하는 계획”이라며 “대통령 리더십하에 한국은 지난 1년 동안 정말 많은 것들을 이룩해왔다. 진정 대한민국의 황금시대라고 해도 과언이 아니다”고 말했다.\n이 대통령은 “인공지능 황금시대라고 명명해 주셨는데 정말로 맞는 표현이라고 생각이 든다”며 “이제 그 시대의 초입에 이제 들어섰다”고 말했다. 이어 “엔비디아와 황 CEO가 대한민국이 AI 황금시대로 진입하는 데서 지금까지도 정말로 큰 역할을 해주셨지만 앞으로는 더 중심적인 역할을 해주실 것으로 믿고 또 기대하고 있다”고 말했다.\nhttps://www.donga.com/news/Politics/article/all/20260725/134362722/1",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-24T23:42:08+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19300",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19300",
-      "text": "[속보]젠슨 황 \"엔비디아-SK그룹, 5000억달러 규모 파트너십 발표\"\nhttps://www.newsis.com/view/NISX20260725_0003722948",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-24T23:39:02+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19299",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19299",
-      "text": "다음주 일정\n27일: 미국 6월 내구재 주문,  APLD, NVTS, CLS, RMBS, AMKR 실적(장후)\n28일:\n연준 FOMC 회의(~29일\n) 미국 6월 소비자신뢰지수,  6월 상품 무역수지,  페이팔, 보잉, 코카콜라, 코닝 실적(장전),\n블룸에너지, 씨게이트,\n테라다인, 포드, 비자 실적(장후)\n29일:\n연준 금리결정( 한국시간 목요일 오전 3시, 이후 케빈워시 기자회견), SK하이닉스 실적,\nSOFI, 버티브, APH, GNRC 실적(장전),\n마이크로소프트, 메타\n, 로빈후드,\nARM, 퀄컴, 램리서치\n실적(장후)\n30일:\n미국 6월 PCE 물가\n, 미국 2분기 GDP, 유로존 2분기 GDP, BOE 금리결정,\n삼성전자 확정실적\n,  PWR, MA 실적(장전),\n애플, 아마존\n, 로블록스, 레딧, AXTI 실적(장후)\n31일: 일본은행 금리결정,  중국 7월 제조업, 비제조업 PMI,  미국 7월 소비자심리지수, 기대인플레이션,  유로존 7월 CPI,\n키옥시아 실적,\nXOM, 모더나, D, ABBV 실적(장전)\n8월 1일:\n한국 7월 수출입",
-      "images": [
-        "https://cdn5.telesco.pe/file/SuJveFHLjDhccsTwgNXj1hw9XjQV_SxTCcMMH8akB0tk2Vy1jNc07nVgWYGJ_xdsIpElglWFSzrwusW2pXGVWll7aK0Y_eHFPCTjzUwjMhfhWwDEoTnCVt_dUQkbXGJ0H5PlT_FKVpgwMRPf8bbLR31p_8ullU8F8QXz7raUrSf92wRWDMPKQulakoHI076gb8Ktory4rmS8NyI46qzup9DrGGLIdNI8ktQke1VzIVnYEoDiGhsiQxXI78_WCaWny7erKPrw99o-s6H2JTOJYxYvaNCGogQSdELH0zCsCeLbhDdip-6eyP67zC1LXIdxC4cRVKo3nxgzE7OubCKQOg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-24T23:30:48+00:00"
     },
     {
       "id": "tg:HI_GS/6762",
@@ -524,44 +563,6 @@
       "published_at": "2026-07-24T14:36:01+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23907",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23907",
-      "text": "내계좌네",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-24T14:34:26+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23906",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23906",
-      "text": "오늘 오후 도쿄 게릴라 폭우",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-24T14:29:02+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23905",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23905",
-      "text": "미국채 금리 상승에 따라 CAPEX증가가 조달금리 상승에 따른 회사의 부담증가로 인식되나보네요.",
-      "images": [
-        "https://cdn5.telesco.pe/file/XCDrkD_XaI-6hodN-AWvL9D_HNqNOAx92ZYqLCD5zUczyhQbS7WXFN9nTwUuKDQcoqbhIK5fMe9Zt9uTyvz50gFq8680okIm9bLu_YbAeWgvRkysmg1rNgpAiyZWMdtLBjBSywUCqH1d7OWU0VaGSqta7Hb_nQGhBHFas4_49-AcBrKXJ6KOrumQHIE4C_11ua6Mu4FavS9JN7jZtz-d3G4NaWjQUgf0wKr5zCY6kPFatS8NwOweUOxwf3-6-RYwaM4k6EHMRpsFtqazqYs8oxnoq5qPmagVavJei2lQ6Rg7-0JRLJgwN3h43usI-PxtTLvb4riIah0cFNl_VFYcjA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-24T13:57:35+00:00"
-    },
-    {
       "id": "tg:globaletfi/20773",
       "source": "telegram",
       "author": "globaletfi",
@@ -608,7 +609,7 @@
       "url": "https://t.me/enc210406/4197",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 7월 24일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/ESV4cFxloq_1Ycc8Zv6bxUbvhfVhEBU6G8QOSL3GVT2Ydy0m6DCwSSSnsjRuBqnmsRFLQ8BuAjoy3Ha1eTnipWCb6DkOwoPfAhF3hcd_3WXOUV9ByEylP_bz7bfQyo5GzZOP7nZVGYpE0i3MqD7rDsZjbhN7bmsr84AySV4u_Rocz54vJIolYxqO5yxUhqj69q8ARg2WPcZLUFfxEp8_zEU12DZ1Izpg78UwqkGa38UyXxzwbyRwquoNu1IAGtpsk13hOvrQVmk9-mosllZAGCBOFHi-loCeoti0Y7WmPJcWxxWhZpRJU-EN1dHjI8OMCKP105exqe2fFebPcZ11_w.jpg"
+        "https://cdn5.telesco.pe/file/kvSxtYs7r9pZj-XnOsLt_rvLRjv4Q_a9NNFBLUR2Vaxk0mQTUDYszCVBgtI_QDm_5xFEDSVHDEXKoP-KWbZOVj9ziVfn-CayS8qmwliHCQrWwYYF8QnBZ1dcCV2fNe30iZtVNDz22azXXmMUjHQfyZ17uj-FBXk0VBq7KMN6zc9g9U2tK7cAzIWzk7JV5PdW8Eea2a4d-txdEFSZbiKfJ5Vq6PxRq99N61bhUw2lLCiQkUodM4a5PbJBnMSxyi_3FOYhqShnZ0SP25J0jfqFRl_YRqr8wxg9ho1cs3nmfS0doBXnYICMw0ouJhHFnWl8W24HaNhaC3IdNoBt-AOsqw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-24T09:18:10+00:00"
@@ -1177,7 +1178,7 @@
       "url": "https://t.me/enc210406/4187",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 7월 23일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/uEIkPXNhbimCa5rknNCBx9iFSJeG_JvChNudmbrOix51HvLNfnXQV288db2B5LCsSBZ6TEqDP4wqVy-91coe09g6yFw3WdH4S2rmAxRg3PjG9AIotuxqSSrSL4AZ-HKz12ohSSPe4DvLBgRfqf6BCDSh00eeZZ5QJ9V4AXgTORFA4d_CVi_1XgCQTNLqG3z4p-UMa6uNMgWZRHn0rMW6TjrclFBchP-gw4EkXqEWozuKqwHzu4E0F-CNSc3rCVWcFmoXLljipBOUg2h9IMxIj0_HnLeyXQAQfX9ep_Lu5jtKyf4n132nc657hflJgga0B_7YnzJB20yemEDWJQx19g.jpg"
+        "https://cdn5.telesco.pe/file/kBP_TfRkL0eLmg44WGXuu27nxFGU2FZMPEihU1m8F5eaTCzGKj1wyRmZ785mvX6o3DvM0fPwGSLISFEXwoHHfeEiZWGUCMMG50_nPxetwprRAIFG8mqOXSxgWSWayp-JaSQREpMDs6-zTjvQDZnvnp6jrg4POj2gjOrVm5yWwy_Phgju9UN8FUU9xkOZMKdNt_p0MTAzXGZzseKBNj1za3u8-8ID5XRzopPMRXs9JXmZ-ja5ztPeeDBzuYpBI9MQ9EvkfqX7bVglq18My8YMvghpWzYe_KkZIJj3XR6sq4ecjTyp6XtPkPm8v63Hf-PRoit4GfPW-YegjFEHtcJ6Jw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-23T09:08:29+00:00"
