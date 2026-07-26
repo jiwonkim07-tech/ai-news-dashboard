@@ -1,22 +1,48 @@
 {
-  "updated_at": "2026-07-26T17:00:53+00:00",
+  "updated_at": "2026-07-26T19:10:13+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 9
   },
   "briefing": {
-    "headline": "골드만삭스, 중국 메모리 반도체 전문가 콜",
+    "headline": "메타 수석 AI 과학자 얀 르쿤, 트럼프 정책에 대한 여론 조사 결과",
     "bullets": [
-      "씨티, 메모리 반도체 '피크아웃' 우려 일축",
-      "TSMC 애리조나 2공장 본체 건설 완료",
+      "삼성전자·SK하이닉스, 메모리 반도체 매수 유지",
+      "AI 인프라 시대는 이미 지나갔다",
       "이란과 미국, 임시 휴전 협정으로의 복귀 희망",
-      "ChatGPT Work, 활성 사용자 수에서 Codex 앞질름",
-      "중국 하계 박스오피스 매출 55억위안 돌파"
+      "TSMC, 애리조나 2공장 본체 건설 완료",
+      "ChatGPT Work, 활성 사용자 수에서 Codex 앞질름"
     ],
-    "generated_at": "2026-07-26T17:00:53+00:00",
+    "generated_at": "2026-07-26T19:10:13+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:ylecun:2081402147434815884",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2081402147434815884",
+      "text": "RT by @ylecun: CBS/YouGov poll: Trump's policies are making you Worse off-58% Better off-13%",
+      "images": [
+        "https://pbs.twimg.com/media/HOKgOL6WUAAuaXL.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: CBS/YouGov 여론 조사: Trump의 정책은 당신을 더 나쁘게 만들고 있습니다 - 58% 더 좋게 만듭니다 - 13%",
+      "published_at": "2026-07-26T15:31:57+00:00"
+    },
+    {
+      "id": "x:sama:2081396796174282900",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2081396796174282900",
+      "text": "chatgpt work is remarkable, and \"work\" undersells it. from my phone i sent: \"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in each place and decide where to go, and then after we get to group agreement make reservations. draft an email in my gmail i can send out to my friends when the site is ready.\" it...just worked.",
+      "images": [],
+      "summary_ko": "chatgpt 작업은 놀랍고 \"작업\"은 그것을 덜 팔립니다. 내 전화에서 나는 다음과 같은 메시지를 보냈습니다. \"내 모든 채팅 기록을 사용하여 8명의 친구와 함께하는 긴 주말 여행에 대한 아이디어를 파악하고, 가장 좋은 세 가지 옵션을 계획하고, 우리 9명이 각 장소에서 무엇을 하고 싶은지 조정하고 어디로 갈지 결정할 수 있는 풀 스택 사이트를 만들고, 그룹 합의에 도달한 후 예약을 합니다. 사이트가 준비되면 내 Gmail에서 이메일 초안을 작성하여 친구에게 보낼 수 있습니다.\" 그건...그냥 효과가 있었어.",
+      "published_at": "2026-07-26T15:10:41+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23955",
       "source": "telegram",
@@ -184,6 +210,20 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-26T11:14:39+00:00"
+    },
+    {
+      "id": "x:ylecun:2081333194213757376",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2081333194213757376",
+      "text": "RT by @ylecun: Let me see if I have this right: The Qataris give the Defense Dept a 747. Our govt puts $400mm of upgrades into it. Trump gets to keep the plane where he leaves office. https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html?smid=nytcore-ios-share",
+      "images": [
+        "https://pbs.twimg.com/card_img/2080957913485676545/64cHIhwI?format=jpg&name=800x419"
+      ],
+      "summary_ko": "RT by @yleun: 제가 이 권리를 가지고 있는지 보도록 하겠습니다. 카타르군은 국방부에 747을 제공합니다. 우리 정부는 여기에 400mm의 업그레이드를 투자합니다. 트럼프는 자신이 퇴임하는 자리에 비행기를 보관하게 된다. https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html?smid=nytcore-ios-share",
+      "published_at": "2026-07-26T10:57:57+00:00"
     },
     {
       "id": "tg:bornlupin/19328",
@@ -790,20 +830,6 @@
       "published_at": "2026-07-24T16:59:51+00:00"
     },
     {
-      "id": "x:ylecun:2080693034354933814",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2080693034354933814",
-      "text": "RT by @ylecun: Learning causality from internet videos in latent space first, and then using RL to teach the foundation model how to act. This approach is 30× cheaper than Gemini 3.1 Flash on pretraining and achieves a better result. JEPA is all you need! However, actions are still learned during post-training. Figuring out how to automatically learn actions without action labels is still very important!",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2080320137274781696/img/TC3tb7xv_HhR3fRe.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: 먼저 잠재 공간의 인터넷 동영상에서 인과관계를 학습한 다음 RL을 사용하여 기초 모델에 행동 방법을 가르칩니다. 이 접근 방식은 사전 훈련 시 Gemini 3.1 Flash보다 30배 저렴하며 더 나은 결과를 얻습니다. JEPA만 있으면 됩니다! 그러나 행동은 훈련 후에도 계속 학습됩니다. 액션 라벨 없이 자동으로 액션을 학습하는 방법을 알아내는 것은 여전히 ​​매우 중요합니다!",
-      "published_at": "2026-07-24T16:34:11+00:00"
-    },
-    {
       "id": "x:sama:2080683363174945065",
       "source": "x",
       "author": "sama",
@@ -829,20 +855,6 @@
       "images": [],
       "summary_ko": "프로울트라슈퍼하드에 대해 어떻게 생각하는지 알려주세요.",
       "published_at": "2026-07-24T15:54:47+00:00"
-    },
-    {
-      "id": "x:ylecun:2080672258385748037",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2080672258385748037",
-      "text": "RT by @ylecun: As Trump returns to tariffs, it's worth checking out what we've gotten from the trade war so far.",
-      "images": [
-        "https://pbs.twimg.com/media/HOAIZDQXwAADusP.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: 트럼프가 관세로 복귀함에 따라 지금까지 무역 전쟁에서 무엇을 얻었는지 확인해 볼 가치가 있습니다.",
-      "published_at": "2026-07-24T15:11:38+00:00"
     },
     {
       "id": "tg:globaletfi/20773",
@@ -1809,18 +1821,6 @@
       "images": [],
       "summary_ko": "나는 이 시점에서 새로운 음성 모델이 실제로 한계점을 넘었습니다.",
       "published_at": "2026-07-16T19:47:29+00:00"
-    },
-    {
-      "id": "x:sama:2077817060068057493",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2077817060068057493",
-      "text": "we did not have our best last 12 months ever, which is mostly my fault, but we are about to have our best 12 months to date. the team is doing amazing work and i think you’ll be very happy with what they’ve got cooking for you. i am happy about this for many reasons, but mostly because i care about our users winning. AI has to be about giving lots of people more freedom, agency, and wealth. we want to do the right thing, but we do not want to scare people into doing our thing.",
-      "images": [],
-      "summary_ko": "지난 12개월 동안 최고의 성적을 내지 못한 것은 대부분 내 잘못이지만, 이제 곧 최고의 12개월을 맞이하게 될 것입니다. 팀은 놀라운 일을 하고 있고 그들이 당신을 위해 요리한 음식에 당신도 매우 만족할 것이라고 생각합니다. 나는 여러 가지 이유로 이에 대해 만족하지만 가장 큰 이유는 사용자가 승리하는 것에 관심이 있기 때문입니다. AI는 많은 사람들에게 더 많은 자유, 선택 의지, 부를 제공하는 것이어야 합니다. 우리는 옳은 일을 하고 싶지만, 사람들이 우리 일을 하도록 겁을 주고 싶지는 않습니다.",
-      "published_at": "2026-07-16T18:06:05+00:00"
     },
     {
       "id": "x:demishassabis:2077811657385079045",
