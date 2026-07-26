@@ -1,22 +1,71 @@
 {
-  "updated_at": "2026-07-26T20:57:53+00:00",
+  "updated_at": "2026-07-26T22:04:40+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 2
+    "new_this_run": 12
   },
   "briefing": {
-    "headline": "IMF: 지난 10년 국부펀드 가치 2배 이상 증가",
+    "headline": "이란-미국 정보 교환 유지",
     "bullets": [
+      "IMF: 지난 10년 국부펀드 가치 2배 이상 증가",
+      "삼성전자, 오포·비보에 메모리 반도체 가격 인상 제안",
       "골드만삭스: 'AI 인프라'만 보던 시대는 이미 지남",
-      "TSMC 애리조나 2공장 본체 건설 완료",
-      "Needham: 'DRAM/HBM은 AI의 실질적인 병목 요인으로 남을 것입니다.'",
-      "ChatGPT Work가 활성 사용자 수에서 공식적으로 Codex를 앞질렀습니다.",
-      "이란과 미국, 임시 휴전 협정으로의 복귀를 희망"
+      "TSMC, 애리조나 2공장 본체 건설 완료"
     ],
-    "generated_at": "2026-07-26T20:57:53+00:00",
+    "generated_at": "2026-07-26T22:04:40+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31867",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31867",
+      "text": "이란 외무부 대변인: 이란-미국 정보 교환 유지. 중재자 노력 지속  伊朗外交部发言人：伊朗与美国之间仍在交换讯息，调解方也在持续开展斡旋工作。  https://n.news.naver.com/article/001/0016215634?sid=104",
+      "images": [
+        "https://cdn5.telesco.pe/file/JaqWDkIJsES7-vPXMFWkt7t33g8AgK9ugN2CaYIrPzxFNcorHsZToOkPtOdwPjD5xLnEHkNKJXu4TyLY3s8Er21HZnEzaqEeM-ftxrH85R3P6lPcd2JcfZDh25pnS3vjzB2xVMl2A5x46d2UpC9X7wi2Ks9xFikuF3_zRukd91z-QV4u5OrrT8T4K8acrYV41_zfxUPSRxwefL6betHnmHTu1n8IpliyUdFY2BHDKX0ByIKIZPye5U2OHBwIitAQj0ZBTQOn5MFxidFZ5HOyUAUGkNRiJFmaJ_-STDZapzPSuDz1TvK22j7fv439tOE2CcDkd4m7r_RtpnSy-uXdFg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-26T22:03:34+00:00"
+    },
+    {
+      "id": "tg:EMchina/31866",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31866",
+      "text": "[한투증권 중국/신흥국 정정영]   • 7월: ‘K자형 회복’에 균형을 맞출 시도   >>7월 월보를 작성했습니다. 불편한 K자형 경제/주식 흐름이 지속되고 있습니다. 글로벌 AI 투자 사이클과 함께 첨단 제조업 및 대외 수요 중심의 회복세가 나타나고는 있으나 내수를 설명하는 투자와 소비는 상대적으로 부진합니다. 본토 증시 하드웨어 테크 주식이 강세를 보인 반면, 가계 상황을 더 가깝게 반영하고 있는 홍콩 증시는 반등 탄력이 미미합니다. 1분기 대비 둔화될…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-26T21:59:20+00:00"
+    },
+    {
+      "id": "tg:EMchina/31865",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31865",
+      "text": "미국은 301조 관세 부과에서 베트남 제외  ========================  ~ U.S. Excludes Vietnam From Tariffs in Final Section 301 Decision  https://x.com/FirstSquawk/status/2081228765280288791",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-26T21:22:48+00:00"
+    },
+    {
+      "id": "tg:EMchina/31864",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31864",
+      "text": "분위기가  =======================  ~ 보도에 따르면 삼성전자가 오포와 비보에 제시한 3분기 메모리 반도체 가격 인상 폭은 1~2분기에 비해 크게 둔화했다. 그럼에도 두 회사는 가격 인상안을 받아들이지 않기로 했다고 소식통은 전했다  https://n.news.naver.com/article/421/0009076823?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-26T21:18:47+00:00"
+    },
     {
       "id": "tg:EMchina/31863",
       "source": "telegram",
@@ -42,6 +91,20 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-26T19:18:54+00:00"
+    },
+    {
+      "id": "x:ylecun:2081434036619112790",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2081434036619112790",
+      "text": "RT by @ylecun: A federal appeals court rejects Trump's efforts to limit mail-in voting. Trump sees that Republicans are likely to lose big time in the midterms because of his abysmal rule, so he is trying to game the election. https://trib.al/8XfYZFX",
+      "images": [
+        "https://pbs.twimg.com/card_img/2081124760155549696/ocJhPi6Y?format=jpg&name=800x419"
+      ],
+      "summary_ko": "@yleun의 RT: 연방 항소 법원은 우편 투표를 제한하려는 트럼프의 노력을 거부했습니다. 트럼프는 자신의 형편없는 통치 때문에 공화당이 중간선거에서 크게 패할 가능성이 높다고 보고 선거를 조작하려 하고 있다. https://trib.al/8XfYZFX",
+      "published_at": "2026-07-26T17:38:40+00:00"
     },
     {
       "id": "x:ylecun:2081402147434815884",
@@ -104,6 +167,20 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-26T13:44:30+00:00"
+    },
+    {
+      "id": "x:ylecun:2081373455392317765",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2081373455392317765",
+      "text": "RT by @ylecun: Trump’s Golden Age . . . Measles epidemic Explosive diarrhea $4.11 gas ($3.15 yr. ago) $5.30 diesel ($3.74 yr. ago) $6.83 ground beef ($6.12 yr. ago) 149 days of war with Iran (18 U.S. Troops killed) $39.67 trillion dollar national debt (up $3.57 trillion in 18 months since Trump retuned) China viewed more favorably than the United States globally 5 million Americans lost healthcare coverage since Trump returned $55 billion in handouts to farmers mostly due to Trump’s tariffs destroying their markets 46% spike in farm bankruptcies 21% spike in mortgage foreclosures 11.9% increase in personal bankruptcies",
+      "images": [
+        "https://pbs.twimg.com/media/HOKGIJYXoAAs7Rh.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 트럼프의 황금기 . . . 홍역 전염병 폭발성 설사 휘발유 $4.11 ($3.15 년 전) $5.30 디젤 ($3.74 년 전) $6.83 갈은 소고기 ($6.12 년 전) 이란과의 149일 전쟁 (미군 18명 사망) $39.67 조 달러 국가 부채 (트럼프가 복귀한 이후 18 개월 만에 $3.57 조 증가) 중국은 미국보다 더 우호적으로 평가했습니다. 미국 전 세계적으로 500만 명의 미국인이 트럼프의 관세로 인해 시장이 파괴되면서 농부들에게 550억 달러의 유인물을 돌려준 이후 의료 혜택을 잃었습니다. 농장 파산 46% 급증 모기지 압류 21% 급증 개인 파산 11.9% 증가",
+      "published_at": "2026-07-26T13:37:56+00:00"
     },
     {
       "id": "tg:bornlupin/19331",
@@ -176,6 +253,20 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-26T12:29:57+00:00"
+    },
+    {
+      "id": "x:ylecun:2081355090959466793",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2081355090959466793",
+      "text": "RT by @ylecun: .@realDonaldTrump still has absolutely no idea what he was trying to do, how he was going to do it, why he wasn't able to do it, or what he's going to do next to try to fix what he has no idea he broke. He's a delusional, crackbrained, and deranged moron. It's just that simple.",
+      "images": [
+        "https://pbs.twimg.com/card_img/2081147844388397056/zkpk_RK-?format=jpg&name=800x419"
+      ],
+      "summary_ko": "@yleun의 RT: .@realDonaldTrump는 여전히 자신이 무엇을 하려고 했는지, 어떻게 하려고 했는지, 왜 그렇게 할 수 없었는지, 자신이 깨뜨렸는지 전혀 모르는 것을 고치기 위해 다음에 무엇을 하려는지 전혀 모릅니다. 그는 망상에 사로잡혀 있고, 머리가 나쁘고, 제정신이 아닌 바보입니다. 그것은 매우 간단합니다.",
+      "published_at": "2026-07-26T12:24:58+00:00"
     },
     {
       "id": "tg:bornlupin/19330",
@@ -290,44 +381,6 @@
       "published_at": "2026-07-26T09:12:11+00:00"
     },
     {
-      "id": "tg:EMchina/31855",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31855",
-      "text": "사우디 원유 운송 부담 크게 확대\n==========================\n~ Reuters reported that with the escalation of tensions in the Persian Gulf and the closure of the Strait of Hormuz and Bab al-Mandab, the cost of transporting Saudi Arabia's oil has increased significantly. The time for transporting Saudi tankers to Asian countries has increased from 19 days to 48 days, and the cost of fuel per tanker has increased from $1.3 million to $2.9 million, with another $1 million in Suez Canal fees added to it\nhttps://www.avapress.com/en/news/361452/reuters-saudi-arabia-s-oil-transportation-costs-tripled-shipping-time-to-asia-increased-_from-19-48-days",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-26T08:59:00+00:00"
-    },
-    {
-      "id": "tg:EMchina/31854",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31854",
-      "text": "2026년 중국 하계 박스오피스 매출 55억위안 돌파. 전년동기대비 +10억위안 초과\n• 2026년 하계 박스오피스 매출 55억위안 돌파. 지난해 같은기간 대비 +10억 위안 초과\n• 역사, 코미디, 액션, 애니메이션, SF 등 다양한 장르 포함한 120편 이상의 국내외 영화 잇따라 개봉. 코미디가 특히 인기\n2026年暑期档电影票房已破55亿元，超去年同期10亿元\n据网络平台数据，截至目前，2026年暑期档电影总票房（含预售）已突破55亿元，超去年暑期档同期10亿元。今年暑期档，超120部中外影片陆续上映，涵盖革命历史、喜剧、动作、动画、科幻等多种类型。其中，喜剧影片格外亮眼。喜剧动画片《八仙！》上映8天就取得超6亿元票房的优异成绩，成为这个暑期档一匹黑马。喜剧运动题材电影《功夫女足》目前票房已超18.8亿元，暂列年度票房第三位。（央视新闻）\nhttps://wallstreetcn.com/livenews/3139816?ivk=1#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-26T08:39:31+00:00"
-    },
-    {
-      "id": "tg:EMchina/31853",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31853",
-      "text": "AI 가격 급락\n=====================\nThe price of intelligence is collapsing\nPC prices needed 15 years to fall 90%. LLM prices did it in under 3. Adjusted for quality, the price of intelligence dropped to nearly zero within 30 months of the cycle start\nThis is the fastest cost deflation of any technology cycle on record. And it's the engine behind everything happening in software right now\nhttps://x.com/ThierryBorgeat/status/2079275256624374190",
-      "images": [
-        "https://cdn5.telesco.pe/file/T2GOzQgNOjuwDyccrvURo8E_yCvBdTpeI1p0ld9_5QUSmvRLN_a7VcwpJRgmGqMl_Usj3KaQqo496678u2MrTV3myiG3Y2z2oMHUa9jh1yYVO7QRott0j6K5-zyIX2WEoK6k-NR7IZ_0VNdps8oiuonOXyHcjF3j-6-WQimgRXigKUcepggKGS4RaLWXsDmFz_okCS9MHCd3jUPu7ANB-Z6JJZQOU8s3mgii6tfcMsx0Lek_HSxv7owvljnaf2O1ebQGPSmLrg_r4tcOI9CrI-mQ6Zgqt0Y2bRpCVTTm1lGGRyb2WEzUPchuXfXjp1h_3X1OOZFsAJFvBU162voAeA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-26T08:12:40+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/23953",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -350,18 +403,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-26T07:48:33+00:00"
-    },
-    {
-      "id": "tg:EMchina/31852",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31852",
-      "text": "가장 비싼 노광기는 이제 잘 팔리지 않는가?\n• 가장 비싼 노광 장비는 판매 부진이 아니라 경쟁이 이미 '경제적 타당성' 단계 진입\n• 4대 주요 기업은 사업 상황에 기반한 태도로 전략 조정: 인텔은 공격적인 도입, TSMC는 안정적인 운영 위해 속도 조절, 삼성은 재무 부담으로 관망, SK하이닉스는 HBM 투자 위해 과감히 도입\n• ASML은 기존 장비 판매 및 서비스 통해 안정적인 수익. 여전히 최대 승자\n最贵光刻机，不好卖了？\n最贵光刻机并未滞销，而是竞争已步入“经济可行性”阶段。四大巨头基于商业现实态度分化：英特尔激进抢跑求制程领先；台积电算账求稳暂缓导入；三星因财务压力观望；SK海力士为HBM果断引入。而ASML凭借现有设备与服务稳赚不赔，仍是最大赢家。\nhttps://wallstreetcn.com/articles/3777947#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-26T07:46:52+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/23951",
@@ -776,46 +817,6 @@
       ],
       "summary_ko": "@yleun의 RT: 오픈 소스는 사람들에게 권한을 부여하고 중앙 집중화를 방지하는 데 긍정적이고 중요한 힘입니다. 이것을 지원하게 된 것을 자랑스럽게 생각합니다.",
       "published_at": "2026-07-24T19:13:45+00:00"
-    },
-    {
-      "id": "x:ylecun:2080729910415393105",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2080729910415393105",
-      "text": "RT by @ylecun: Breaking News: Federal officials acknowledged in court documents that they canceled grants to states that didn’t vote for President Trump in 2024. https://nyti.ms/4pIbybQ",
-      "images": [
-        "https://pbs.twimg.com/media/HOA80gGW0AAfqvI.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: 속보: 연방 관리들은 법원 문서에서 2024년 트럼프 대통령에게 투표하지 않은 주에 대한 보조금을 취소했음을 인정했습니다. https://nyti.ms/4pIbybQ",
-      "published_at": "2026-07-24T19:00:43+00:00"
-    },
-    {
-      "id": "x:ylecun:2080714225165496503",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2080714225165496503",
-      "text": "RT by @ylecun: I previously reported that the growth rate and composition of Trump's wealth gain in office are unprecedented in recent history. Upon request, here is the data on the relative size of Trump's presidential windfall. The extent of his self-enrichment is even more striking.",
-      "images": [
-        "https://pbs.twimg.com/media/HOAuRQrXoAAj7-9.jpg"
-      ],
-      "summary_ko": "RT by @yleun: 저는 이전에 트럼프의 재임 중 부의 증가율과 구성이 최근 역사상 전례가 없는 것이라고 보고했습니다. 요청 시 트럼프 대통령의 횡재의 상대적 규모에 대한 데이터는 다음과 같습니다. 그의 자기계발 정도는 더욱 놀랍다.",
-      "published_at": "2026-07-24T17:58:23+00:00"
-    },
-    {
-      "id": "x:ylecun:2080708625635614971",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2080708625635614971",
-      "text": "RT by @ylecun: I still remember the days when it was basically us & a few other people pushing this topic (on the top of my head @allen_ai @ylecun @jeremyphoward @soumithchintala @BlancheMinerva @fchollet @GuillaumeLample,…). We’ve gone a long way for it to be the ceo of the most valuable company in the world’s first tweet!",
-      "images": [],
-      "summary_ko": "@ylecun의 RT: 저는 기본적으로 우리와 몇몇 다른 사람들이 이 주제를 추진했던 시절을 아직도 기억합니다(내 머리 꼭대기에 @allen_ai @ylecun @jeremyphoward @soumithchintala @BlancheMinerva @fchollet @GuillaumeLample,…). 우리는 세계 최초의 트윗에서 가장 가치 있는 회사의 CEO가 되기까지 먼 길을 걸어왔습니다!",
-      "published_at": "2026-07-24T17:36:08+00:00"
     },
     {
       "id": "x:AnthropicAI:2080699495453528290",
