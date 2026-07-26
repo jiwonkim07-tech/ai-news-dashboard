@@ -1,22 +1,160 @@
 {
-  "updated_at": "2026-07-26T07:35:24+00:00",
+  "updated_at": "2026-07-26T09:59:37+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 8
+    "new_this_run": 11
   },
   "briefing": {
-    "headline": "트럼프, 이란에 대한 대규모 공습 연기",
+    "headline": "TSMC 애리조나 2공장 본체 건설 완료",
     "bullets": [
-      "메타, LPDDR5X를 AI 데이터센터의 차세대 서버 메모리로 부상",
-      "퀄컴, 고객사에 두 자릿수 가격 인상 통보",
-      "ChatGPT Work, 활성 사용자 수에서 Codex 앞질름",
-      "BYD, 휴머노이드 로봇 공개 가능성",
-      "골드만삭스, 중국 메모리 반도체 전문가 콜"
+      "이란과 미국, 임시 휴전 협정으로의 복귀 희망",
+      "BYD, 휴머노이드로봇 공개 가능성",
+      "ChatGPT Work, Codex 앞질름",
+      "골드만삭스, 중국 메모리 반도체 전문가 콜",
+      "대형 아시아펀드, AI 줄이고 인도네시아 등으로 투자 전략 변화"
     ],
-    "generated_at": "2026-07-26T07:35:24+00:00",
+    "generated_at": "2026-07-26T09:59:37+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19328",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19328",
+      "text": "Needham: \"DRAM/HBM은 AI의 실질적인 병목 요인으로 남을 것입니다.\"\nDRAM/HBM 병목 현상:\nDRAM 및 고대역폭 메모리(HBM)는 AI 하드웨어 스케일링(확장)의 핵심 병목 요인으로 계속 작용할 전망\n입니다.\n급격한 비트 성장(Bit Growth):\n전체 DRAM 비트 성장(백만 GB 단위)은\nHBM 채택 증가에 힘입어 2028년까지 폭발적으로 확대될 것\n으로 예상됩니다.\nHBM 점유율 급증:\n전체 DRAM 중 HBM 비트가 차지하는 비중은 가파르게 증가하여\n2028년에는 15%를 넘어설 것으로 전망됩니다.\n웨이퍼 생산 능력의 이동:\nHBM 전용 DRAM 웨이퍼 생산 능력(kWSPM 단위)은 급격히 가속화될 것\n이며,\n2028년까지 전체 DRAM 웨이퍼의 거의 50%가 HBM 투입용으로 전환될 것으로 예상\n됩니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/eNVy_ptgeo8c8AIHnNSzjMFUo4m9ajO3GzZHKdow9Of_aMGPggVHXG8foiq2CVTE-BqpyGx_uOxDGRON8ADth6YdaDyq0RPKcVqcfRPchczD2V_HT_LGG2JKFLW38JeZt5WKPmCEiiBjjjgiqb6HTbyFVh0JBbhQuzgOxuakqTsusxTf4bGpf07UvnhDCUeU9Za_qDfH2vi4o4knPKilqq-BjQ1GTx8Xizeu6-Y6_flbDCAzgGBYQILO-bScS2TirpFxMOlhoAUuf482QtcjxQ58aqpnJqIuhZGZAjRl2B13T6gicOR6gaIo2ba7kG9ouCjMTTACXD7LApYbNaXDCg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-26T09:30:45+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19327",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19327",
+      "text": "이란군 대변인은 미국이 이틀 연속 폭격 작전을 중단함에 따라 이란 역시 보복 공격을 중단했다고 밝혔습니다.\n이로써 약 13일 동안 밤마다 계속되었던 미군의 공습도 일단락되었습니다",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-26T09:26:49+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19326",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19326",
+      "text": "[데이터센터 코멘트, 하나증권 AI/디지털자산/인터넷/게임 이준호]\n'국내 AI 데이터센터, 출발합니다'\n리포트:\nhttps://tinyurl.com/2n9j8ts6\n✅\n샌프란시스코 AI 서밋, 국내 데이터센터 구축 가시화\n- 하나증권은 7월 16일 인뎁스 「데크크(Data center Creator Crew)」에서 2030년까지 추가로 필요한 국내 AI DC 유효 수요를 Base 시나리오 +3.0~4.2GW, Bull 시나리오는 +5.1~7.0GW로 제시. 이번 샌프란시스코 AI 서밋에서 글로벌 빅테크(엔비디아, 브로드컴, 앤트로픽, 오픈AI)와의 파트너십이 구체화되었으며 반도체뿐만 아니라 데이터센터도 핵심 공급 자원임이 확인\n- SK는 엔비디아의 GPU를 공급받아 국내 최대 2GW 규모의 AI 팩토리를 구축할 예정. 24일 SKT가 설립한 SK하이퍼와 연계한 사업이 예상 2027년부터 순차 가동할 계획. NAVER는 엔비디아와 브룩필드로부터 총 100억달러를 투자. 해당 자금으로 GPU를 확보하여 본격적으로 B2B 클라우드 사업에 진출할 예정\n- AI DC는 1GW를 위해 현재 기준 500억~600억달러가, 향후 800억~1,000억달러가 필요할 수 있는 자본집약적 사업이며 확실한 수요 확보 없이는 구축 자체가 불가능.\n정부와 국내 대표 기업(삼성, SK, 현대차, NAVER)이 한 팀을 이뤄 글로벌 빅테크와 협력하는 방식이 글로벌 수준의 경쟁력을 보유하고 있다고 판단하며 기존 Base 시나리오보다 높은 수요를 이끌어낼 가능성이 있다고 전망\n-\n국내 AI DC 수요 자체에 대한 의심은 글로벌 빅테크의 행보로 불식되었기에 수요의 상방을 열어둬야 할 시점.\n데이터센터 구축 및 가동 레퍼런스를 보유한 NAVER와 삼성에스디에스를 추천\n✅\nNAVER: 의심할 여지 없는 엔비디아의 공식 전진기지\n- NAVER의 전략적 파트너가 엔비디아임이 확인. NAVER와 엔비디아가 각각 10억달러를 출자하여 SPV를 설립하여 사업을 주도할 것으로 예상되며 AI 팩토리 건설에 필요한 추가 자금은 브룩필드 등에서 조달할 것으로 보임. 확실한 수요처가 있어 가능한 구조이며 네오클라우드 사업 1단계 200MW는 2027년부터 계획대로 진행될 것으로 전망\n- 엔비디아는 Coreweave(20억달러+), Nebius(20억달러+), Firmus(5억달러+), Nscale(5억달러+), Lambda 등 네오클라우드 기업에 직접 투자하여 AI 팩토리 전진 기지를 구축, 생태계를 확장시키고 있음. 국내에서는 NAVER가 공식적인 전진기지로 낙점되었으며 향후 1GW까지 스케일업하는 과정에서 고객사 확보, GPU 공급, 자본 조달 등에 수혜를 볼 것으로 기대\n✅\n삼성에스디에스: 앤트로픽 파트너십 체결\n- 삼성에스디에스는 25일 앤트로픽과 엔터프라이즈 AI 시장 확대를 위한 MOU를 체결. 양사는 국내 시장 내 신규 사업 기회 공동 발굴 및 시장 확대, 삼성 관계사 대상 클로드 엔터프라이즈 제공 등에서 협력할 예정. 이번 AI 서밋에서 SK, NAVER와 같이 AI DC 관련 사업의 성과가 확인되지는 않았지만 풀스택 AI 클라우드 역량을 보유하고 있기에 향후 추진될 가능성은 충분\n채널링크:\nhttps://t.me/internetgameLJH",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-26T09:12:11+00:00"
+    },
+    {
+      "id": "tg:EMchina/31855",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31855",
+      "text": "사우디 원유 운송 부담 크게 확대\n==========================\n~ Reuters reported that with the escalation of tensions in the Persian Gulf and the closure of the Strait of Hormuz and Bab al-Mandab, the cost of transporting Saudi Arabia's oil has increased significantly. The time for transporting Saudi tankers to Asian countries has increased from 19 days to 48 days, and the cost of fuel per tanker has increased from $1.3 million to $2.9 million, with another $1 million in Suez Canal fees added to it\nhttps://www.avapress.com/en/news/361452/reuters-saudi-arabia-s-oil-transportation-costs-tripled-shipping-time-to-asia-increased-_from-19-48-days",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-26T08:59:00+00:00"
+    },
+    {
+      "id": "tg:EMchina/31854",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31854",
+      "text": "2026년 중국 하계 박스오피스 매출 55억위안 돌파. 전년동기대비 +10억위안 초과\n• 2026년 하계 박스오피스 매출 55억위안 돌파. 지난해 같은기간 대비 +10억 위안 초과\n• 역사, 코미디, 액션, 애니메이션, SF 등 다양한 장르 포함한 120편 이상의 국내외 영화 잇따라 개봉. 코미디가 특히 인기\n2026年暑期档电影票房已破55亿元，超去年同期10亿元\n据网络平台数据，截至目前，2026年暑期档电影总票房（含预售）已突破55亿元，超去年暑期档同期10亿元。今年暑期档，超120部中外影片陆续上映，涵盖革命历史、喜剧、动作、动画、科幻等多种类型。其中，喜剧影片格外亮眼。喜剧动画片《八仙！》上映8天就取得超6亿元票房的优异成绩，成为这个暑期档一匹黑马。喜剧运动题材电影《功夫女足》目前票房已超18.8亿元，暂列年度票房第三位。（央视新闻）\nhttps://wallstreetcn.com/livenews/3139816?ivk=1#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-26T08:39:31+00:00"
+    },
+    {
+      "id": "tg:EMchina/31853",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31853",
+      "text": "AI 가격 급락\n=====================\nThe price of intelligence is collapsing\nPC prices needed 15 years to fall 90%. LLM prices did it in under 3. Adjusted for quality, the price of intelligence dropped to nearly zero within 30 months of the cycle start\nThis is the fastest cost deflation of any technology cycle on record. And it's the engine behind everything happening in software right now\nhttps://x.com/ThierryBorgeat/status/2079275256624374190",
+      "images": [
+        "https://cdn5.telesco.pe/file/HIXI5zw3eD4XiNyjpoaV2JfsLfvapQMJ1bJuNg9I2S1_5P3zdIQGMy5YHBG_hskb-_HxzP_S9L_5HnFH5TrcF3PsMTy0qFSI-1vBQrbQFiyCFgyowjTnomMhMXn1HQiZVRelG1-KuQfk1jqoCvpqBhwHLCt3gtUKDKxZqsItZzj5AjSa0oFgqQ3KKISzj55UAFO6qLdJD8lBuQWYGjiaBtj3cQkKrkQ4jYFICMlns57jONDCvHOG6rz1Ftw1TUvLPXPIPo1fSMX9LGi0rVtfYghlgmdGAJq_wiuGZ7KjKe6HXILN-vH35rWLETtOI_CoTzI5aEC_zQYxzSAsUxFCTQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-26T08:12:40+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23953",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23953",
+      "text": ">>TSMC 애리조나 2공장 본체 건설 완료, 2026년 4분기 장비 반입 단계 진입 예정\n•공급망 관계자는 TSMC의 애리조나 제2 웨이퍼 공장 주요 건축 공사가 완료됐으며, 2026년 4분기부터 장비 설치 단계에 들어갈 예정이라고 밝혔음. 해당 공장은 2027년 하반기 양산을 시작할 전망\n•제3 웨이퍼 공장은 2027년 9월부터 장비 반입을 시작하고, 2028년 하반기 양산을 목표로 하고 있음. 제4 웨이퍼 공장 역시 이미 부지 정비 및 기초 공사가 진행 중임. 계획에 따르면 P2~P4 공장은 2nm 및 A16 공정을 도입하고, P5~P6 공장은 A14 및 그 이하의 첨단 공정을 적용할 예정\n•첨단 패키징 분야에서는 첫 번째 첨단 패키징 공장(AP1)이 현재 토목·건설 단계에 있으며, 2027년 말부터 2차 배관·전기 공사 및 장비 설치를 시작하고, 가장 빠르면 2028년 하반기 양산에 들어갈 전망. 초기에는 AI 반도체 수요를 지원하기 위해 SoIC 및 CoWoS 등 첨단 패키징 공정을 도입 예정\n(과창판일보)",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-26T07:57:38+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23952",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23952",
+      "text": "오늘 오후1시 도쿄 세타가야구 낙뢰 영상\n일본 망했나",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-26T07:48:33+00:00"
+    },
+    {
+      "id": "tg:EMchina/31852",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31852",
+      "text": "가장 비싼 노광기는 이제 잘 팔리지 않는가?\n• 가장 비싼 노광 장비는 판매 부진이 아니라 경쟁이 이미 '경제적 타당성' 단계 진입\n• 4대 주요 기업은 사업 상황에 기반한 태도로 전략 조정: 인텔은 공격적인 도입, TSMC는 안정적인 운영 위해 속도 조절, 삼성은 재무 부담으로 관망, SK하이닉스는 HBM 투자 위해 과감히 도입\n• ASML은 기존 장비 판매 및 서비스 통해 안정적인 수익. 여전히 최대 승자\n最贵光刻机，不好卖了？\n最贵光刻机并未滞销，而是竞争已步入“经济可行性”阶段。四大巨头基于商业现实态度分化：英特尔激进抢跑求制程领先；台积电算账求稳暂缓导入；三星因财务压力观望；SK海力士为HBM果断引入。而ASML凭借现有设备与服务稳赚不赔，仍是最大赢家。\nhttps://wallstreetcn.com/articles/3777947#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-26T07:46:52+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23951",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23951",
+      "text": "\"이래도 결혼 안 할래?\"…'축의금 100만원' 준다는 정부 https://www.hankyung.com/article/202607266389i",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-26T07:35:50+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/23950",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/23950",
+      "text": "\"이래도 결혼 안 할래?\"…'축의금 100만원' 준다는 정부\nhttps://www.hankyung.com/article/202607266389i",
+      "images": [
+        "https://cdn5.telesco.pe/file/fgqN6Y2Tx58DCDEH5xDkukqd9hZNaItXeoru5LiNU_H1r-tKozNub6ewUVcWOXuw2hrC4VKL_AZtKPl1Abowlx3RmOZdC3FLqtmeOz-3I2ZaZ4X9EHbb3xOVB7WZbbtR8EAMvFcQmlVuFff1-rO22K3Osx93T_3Oh1C_U6XQAHqvuqojO4xDcFzYU2jQqo_2oUVl3ycwRg52RSfh38pJE1kzp27DvdXq-dy4sjsIAG-j0m3BbW4a5flwA4Q7ZBEQ5xWKYN8EICDoUEGoqofnprO1I1k0LCqUaVofSFMe0IesPumFkMABoDQvWAs2rNoJau0Si0FJ4PxtPZ43hbRdTg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-26T07:35:39+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23949",
       "source": "telegram",
@@ -425,92 +563,6 @@
       "published_at": "2026-07-25T15:01:08+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23937",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23937",
-      "text": "도이체방크) 메타; 메타의 야망에는 메타급 규모가 필요하다. TP $800.\n투자의견은 매수를 유지했으나 목표주가는 기존 810달러에서 800달러로 1퍼센트 하향했으며, 이는 2027년 예상 GAAP EPS에 24배를 적용한 수치입니다. 7월 23일 종가는 606.10달러, 52주 레인지는 525.72~789.46달러입니다.\n2분기 실적에 대해서는 광고 매출이 가이던스 상단에 근접하는 강한 분기를 예상하고 있습니다. 애널리스트들이 실시한 광고주 체크는 압도적으로 긍정적이었으며, 전환 성과 개선, 광고주 ROI 상승, 메타의 AI 기반 랭킹·검색·캠페인 자동화 투자 효과가 지속되고 있다는 점이 확인되었다고 합니다. 매크로 환경도 당초 가이던스에 반영된 약세보다 개선된 것으로 보이며, 이에 따라 2분기 매출 추정치를 기존 603억 달러에서 약 605억 달러로 상향했습니다. 이는 전년 대비 약 27퍼센트 성장으로 가이던스 범위인 580억~610억 달러의 상단에 해당하며, 바이사이드 기대치는 610억 달러 후반대에 접근하고 있다고 판단합니다. 알파벳의 2분기 실적, 특히 검색 매출의 견조한 전분기 대비 성장과 유튜브 매출 가속은 메타에 긍정적인 시그널로 해석했습니다. 3분기 가이던스에 대해서는 투자자들이 상단 기준 약 640억 달러(전년 대비 25~26퍼센트 증가)를 기대하고 있으며, 광고 플랫폼의 현재 모멘텀이 유지된다면 달성 가능하다고 보아 3분기 매출 추정치를 약 633억 달러로 올렸습니다.\n제품 모멘텀을 두 번째 촉매로 제시했습니다. Muse Spark와 현재는 중단된 Muse Image에 이어 Muse Spark 1.1이 출시된 것은 메타 초지능 연구소(Meta Superintelligence Labs)가 학습 및 사후학습 스택 재구축 단계를 지나 더 빠르고 예측 가능한 제품 사이클로 진입했다는 근거로 해석됩니다. 차세대 모델은 이미 학습 중이며, 메타는 연말까지 프론티어 수준 복귀를 목표로 하고 있습니다. Muse Spark 1.1에는 에이전틱 코딩 기능이 추가되었고, 이러한 모델은 이미 콘텐츠 이해와 라벨링을 통해 추천 시스템 신호를 개선하는 방식으로 핵심 사업에 기여하고 있으며, 장기적으로는 LLM 네이티브 추천 아키텍처로의 전환을 의도하고 있다고 보았습니다. Gem, 안드로메다, 적응형 광고 랭킹 모델 역시 대규모 인프라 클러스터에서의 학습 확대를 통해 전환 성과 개선과 광고비 증가의 자기강화 사이클을 만들고 있다는 평가입니다. 참고로 인스타그램의 글로벌 일간 이용자는 낮은 한 자릿수, 이용 시간은 낮은 두 자릿수 성장률을 유지하고 있습니다.\nAI 직접 수익화 경로도 점차 가시화되고 있다고 보았습니다. 인스타그램, 페이스북, 왓츠앱, 메타 AI, 크리에이터·비즈니스 제품에 걸친 구독 모델이 도입되고 있으며, AI 구독은 월 7.99달러와 19.99달러, 크리에이터·비즈니스 상품은 월 14.99달러와 49.99달러로 구성됩니다. 단기 매출 기여는 광고 대비 제한적이겠으나, 이전 시나리오 분석에서는 2027년 45억~156억 달러 매출과 주당 1.30~4.60달러의 추가 GAAP EPS 창출 가능성을 제시했습니다. 비즈니스 에이전트는 메신저 플랫폼에서 주간 약 1천만 건의 대화를 처리하며 연초 대비 10배 증가했고, 현재는 무료이나 구독과 사용량 기반 과금을 결합한 수익화가 2027년 기회로 예상됩니다. 클라우드 사업 역시 검토 중인 것으로 보도되었으며, 베드록과 유사한 API 계층과 유휴 컴퓨팅 용량을 판매하는 네오클라우드 형태가 언급됩니다. 공식 발표는 없으나 앤스로픽이 약 100억 달러 규모로 메타의 컴퓨팅 임대를 초기 논의 중이라는 보도가 있으며, 최신 루빈 세대 인프라는 내부 학습용으로 남기고 구형 엔비디아 시스템이나 추론 클러스터를 외부에 판매하는 방식이 가능하다고 보았습니다. 중기적으로 150억~360억 달러, 기본 시나리오로는 연환산 약 240억 달러의 서드파티 매출 기회를 제시했으나 현재 추정치에는 반영되어 있지 않습니다.\n캐펙스는 여전히 핵심 쟁점입니다. 알파벳이 2026년 캐펙스 가이던스를 상향하기 전까지는 메타의 1,250억~1,450억 달러 가이던스 상향 기대가 제한적이었으나, 이제는 상향 가능성에 대한 우려가 생겼다고 보았습니다. 다만 알파벳의 상향에는 용량 증설과 가격 인상 효과가 함께 반영되어 있고, 메타가 단기적으로 서드파티에 임대 가능한 여유 용량을 보유하고 있다면 계획 이상의 추가 증설에 나설 이유는 크지 않다고 판단했습니다. 용량이 2026년 약 7GW에서 2027년 14GW로 확대될 수 있다는 보도로 바이사이드의 2027년 캐펙스 기대치는 2,000억 달러대 초중반으로 이동했으며, 도이체방크는 2027년 추정치를 기존 약 1,830억 달러에서 2,100억~2,150억 달러로, 2028년은 약 2,650억 달러로 상향했습니다. 다만 하이페리온 등 파트너 자금 조달 구조가 1.0~1.5GW를 담당하면 직접 투자 대상은 약 5.5GW로 줄어들고, 자체 실리콘인 Iris/MTIA 로드맵을 통해 GW당 비용이 약 300억 달러 수준으로 낮아질 경우 직접 조달 투자는 약 1,650억 달러 규모가 될 수 있다고 계산했습니다.\n비용 측면에서는 2026년 총비용 가이던스 1,620억~1,690억 달러가 유지될 것으로 예상했습니다. 최근 구조조정은 인건비 기반을 개선하지만 구조조정 및 합의금 비용이 단기 절감 효과를 대부분 상쇄하기 때문에, 실질적인 이익 개선은 일회성 비용이 소멸하는 2027년부터 가시화될 것으로 보았습니다.\n결론적으로 메타는 광고 수익성 개선, 강화된 제품 출시 사이클, 그리고 신뢰도가 높아지는 AI 직접 수익화 경로를 갖춘 상태로 실적 발표에 임한다고 평가했습니다. 캐펙스는 계속 높은 수준을 유지하겠으나 핵심 사업이 이미 투자에 대한 실질적 수익을 내고 있으며, 메타는 향후 12개월 예상 EPS 기준 약 16배에 거래되어 S&P 500의 약 21배 대비 할인된 상태로, 이러한 밸류에이션은 광고 사업의 지속성과 구독·비즈니스 에이전트·모델 API·클라우드 인프라로 확장되는 수익화 옵션을 충분히 반영하지 못하고 있다는 판단입니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/oCUDlRrX-d0dGXPP5zUcYC0n2pUQBU2RFmEj_99EtoMxXsUzJKEQr0rkK6sovW_dDxBh8LGVHns0pIMCdODhXhHZoSKgS_Z2E8H6JnRaSlao_pLyjT3DIy2GI9md-WHWkfyEAXaTP8Yd9hWinB1apj5kRMftTqPBXyrewJI9_uC6U88gCgLto_eYl5tB6RiNNkq1TUIZ2NHdnTD1q1LnpIWEFTNJ_Di9xKX7GdYPRhIvkfMu_m8XHlbldrjDw3SscSukNyeedwO2SP-5Ks2XHHfC9SvL7Hbz1BlNvPXwQXIksAOuIbk1TdgEuliBUsmMspzgFx3bt_EhpeoYM-Svyw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-25T14:48:40+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19316",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19316",
-      "text": "퀄컴, 고객사에 '두 자릿수' 가격 인상 통보\n블룸버그 통신 보도에 따르면, 글로벌 스마트폰 칩 제조업체\n퀄컴(Qualcomm)이 원가 상승을 이유로 고객사들에게 제품 가격을 인상하겠다는 서한을 보낸 것으로 확인되었습니다.\n인상 폭 및 적용 시기: 9월 1일 이후 출하되는 제품부터 두 자릿수 비율(%)의 가격 인상이 적용\n됩니다.\n가격 인상 배경\n: 공\n급업체의 원가 상승 부담을 회사가 더 이상 자체 흡수하기 어려운 상태에 도달했으며, 이를 타개하기 위해 신규 공급업체를 통한 대체 부품 조달을 모색\n하고 있습니다.\n시장 상황\n: AI 인프라 분야로 대규모 투자가 집중되면서 발생한\n메모리 반도체 품귀 현상이 스마트폰 칩셋 시장 전반에 압박을 가하고 있습니다.\nhttps://www.reuters.com/business/qualcomm-tells-customers-double-digit-price-increases-bloomberg-news-reports-2026-07-24/",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-25T14:30:14+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23936",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23936",
-      "text": "메타: Bye RE100\n========================\n~\nNow Meta is no longer part of the RE100\n, a corporate renewable energy initiative, after a decade of membership, the company confirmed to TechCrunch today. The breakup was mutual, according to a Meta spokesperson\n~ The exit caps months of Meta expanding its bet on fossil fuels to power its AI data centers and begs the obvious question:\nWhat does “clean energy” actually mean to a company that keeps building gas plants while still calling itself renewable?\nhttps://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-25T14:23:37+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23935",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23935",
-      "text": "골드만삭스) 다음주 일본에서 주목해야 하는 것들\n다음 주 최대 초점은 7월 30~31일 일본은행 통화정책회의(MPM)입니다. 골드만삭스는 일본은행이 무담보 콜금리 유도 목표를 1.00%로 유지하며 현상 유지를 택할 것으로 예상합니다. 근거는 6월에 이미 금리 인상을 결정한 직후이며, 현재는 그 인상이 경기와 물가, 금융환경에 미치는 영향을 면밀히 점검하는 과정에 있다는 점입니다. 다만 4월 전망 보고서 발표 시점보다 원유 가격이 낮아진 만큼, 7월 전망 보고서에서는 성장률 전망은 소폭 상향, 물가 전망은 소폭 하향 조정될 것으로 봅니다. 기조적 물가가 2%에 도달하는 시점에 대해서는 물가 전망의 큰 틀이 유지되는 한 \"2026회계연도 하반기에서 2027회계연도 사이\"라는 판단을 그대로 유지할 것으로 예상합니다.\n향후 금리 인상 경로에 대해서는 약 6개월 간격의 점진적이면서도 꾸준한 인상이라는 기존 견해를 유지합니다. 정책금리가 계속 인상되는 국면에서는 경기·물가 평가와 전망, 리스크 점검이 결정에서 더 중요해지기 때문에, 실제 인상 시점은 관련 분석이 축적되고 판단이 굳어지는 전망 보고서 발표 회의(1월, 4월, 7월, 10월)가 될 가능성이 높다고 봅니다. 이에 따라 6월 인상 이후 2027년 1월 인상 가능성이 높고, 그다음은 2027년 7월로 전망합니다. 단 인상 시점은 시장 동향과 정부와의 소통 진전 정도에 크게 좌우될 수 있다는 점을 함께 지적합니다.\n(중략)\n이번 주 주요 리서치로는 타카이치 정권 출범 후 첫 「2026년 경제재정운영과 개혁의 기본방침」과 「일본 성장전략」의 각의 결정이 다뤄졌습니다. 기본방침은 재정 프레임워크의 큰 전환을 담고 있는데, 투자 사업에 대해 단년도 예산에서 다년도 예산으로 이행하고, 기존의 기초적 재정수지 흑자 달성이라는 재정건전화 목표를 경제성장을 통한 채무 대비 GDP 비율의 꾸준한 인하로 대체하는 내용입니다. 이는 타카이치 총리의 핵심 정책인 중장기 관민 성장투자 전략을 추진할 환경을 조성하고, 안보·위기관리 투자를 필요에 따라 유연하게 운용할 여지를 만드는 조치로 평가됩니다. 성장전략 관련 투자가 당초 예산에 편입되면서 당초 예산 규모도 과거보다 확대될 가능성이 높다고 봅니다. 일본 성장전략은 위기관리 투자와 성장 투자에 기여하는 17개 전략 분야를 제시했으며, 2040회계연도까지 관민 투자 누적 370조 엔 이상(2025년 156조 엔 대비), 명목 민간 설비투자 연 4% 성장, 명목 GDP 연 3.5% 성장을 상정하고 있습니다. 다만 이는 반드시 달성해야 하는 목표가 아니라 가정과 추계에 불과하며, 정부가 제도적 지원과 자금을 제공하더라도 결국 민간 기업의 판단에 크게 의존한다는 점을 지적합니다. 현재의 설비투자는 심화되는 인력 부족에 대응한 절약형 투자와 디지털화가 견인하고 있고, 인력 부족은 구조적 문제이므로 기업의 적극적 투자 자세는 중장기적으로 유지될 것으로 봅니다.\n*클로드로 요약함.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-25T14:08:47+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23934",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23934",
-      "text": "폭락장을 이겨내는 방법   이거 몇십분 들여 정주행하고 정리도 꼼꼼히 해 봤습니다. B급인거 같지만 주린이들 보라 찍었지만 사실 정말 좋은 강의..  제 생각에 폭락장에서 가장 피해야 할 것은 조급한 본전심리인거 같습니다. 솔깃하지 말고, 레버쓰지 말고, 저점맞추려 하지 말고, 고점 체이스하지 말고.. 약세장에서 큰 실수를 하면 퇴출되니까 조심하면서 점차 비중을 올려가면 지나고보면 괜찮지 않을까 합니다.  희소식? 이 하나 있다면 5 6월에 밖에 다니면…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-25T14:06:25+00:00"
-    },
-    {
-      "id": "tg:EMchina/31843",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31843",
-      "text": "• 러시아, 7월말까지 휘발유 수출 금지  俄罗斯对生产商实施汽油出口禁令，期限至7月底。（IFX）  https://www.binance.com/en/square/post/308100351833345",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-25T13:45:16+00:00"
-    },
-    {
-      "id": "tg:EMchina/31842",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31842",
-      "text": "메타: Bye RE100\n========================\n~\nNow Meta is no longer part of the RE100\n, a corporate renewable energy initiative, after a decade of membership, the company confirmed to TechCrunch today. The breakup was mutual, according to a Meta spokesperson\n~ The exit caps months of Meta expanding its bet on fossil fuels to power its AI data centers and begs the obvious question:\nWhat does “clean energy” actually mean to a company that keeps building gas plants while still calling itself renewable?\nhttps://techcrunch.com/2026/07/23/meta-drops-out-of-a-major-clean-energy-pact-as-its-natural-gas-buildout-accelerates/",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-25T12:31:15+00:00"
-    },
-    {
       "id": "x:ylecun:2080991933011550711",
       "source": "x",
       "author": "ylecun",
@@ -521,54 +573,6 @@
       "images": [],
       "summary_ko": "RT @yleun: Gemma 시리즈는 고성능 개방형 모델의 놀라운 세트입니다. 이는 사이트 배포 에이전트가 Fable 클래스 모델조차 정확도 면에서 일치할 수 없는 도메인별 미세 조정을 위한 기반으로 정확히 이를 필요로 하는 산업 환경에서 매우 효과적인 것으로 입증되었습니다. 아마도 Gemma 팀은 이러한 기능을 얻기 위해 Gemini급 모델을 \"추출\"하는 데 탁월한 능력을 발휘했을 것입니다. 이것은 $25T 카테고리입니다. 기억하세요. “프론티어”는 구형이 아닙니다. 극도로 들쭉날쭉하고, 단지 1조 매개변수 그룹에 속하지 않습니다.",
       "published_at": "2026-07-25T12:21:54+00:00"
-    },
-    {
-      "id": "tg:EMchina/31841",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31841",
-      "text": "딜레마. 그럼에도 결정을 내려야 함  https://n.news.naver.com/article/001/0016214561?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-25T11:41:29+00:00"
-    },
-    {
-      "id": "tg:EMchina/31840",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31840",
-      "text": "'타코지수'에 따르면 다음 트럼프 타코는 늦어도 7/30. 일요일 유력  “TACO指数”预测：最晚7月30日，最可能是周日  https://wallstreetcn.com/articles/3777915#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-25T10:12:23+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19315",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19315",
-      "text": "Citi,  AI 트래커: 강력해지는 AI 모델, 한계에 다다른 칩과 전력\nAI 산업의 투자수익률(ROI)이 모델 자체에서 인프라 레이어로 빠르게 이동\n하고 있습니다.\n차세대 AI 경쟁의 핵심은 단순한 '연산력 확보'에서 '고효율 생산성과 독점적 데이터'로 전환될 전망입니다.\n1. 3점 차로 좁혀진 프론티어 모델 격차\nKimi K3의 약진:\n월지암면(Moonshot AI)의 Kimi K3가 57점을 기록하며 오픈소스 최고점을 경신, 폐쇄형 1위인 Claude Fable 5(60점) 및 OpenAI GPT-5.6 Sol(59점)을 턱밑까지 추격하며 세계 3위에 올랐습니다.\n산업 전반의 지능 상승:\n상위 20개 모델 제공업체의 지능 점수 중위값이 6주 만에 34점에서 43점으로 대폭 상승했습니다. DeepSeek V4 Pro(44점) 및 샤오미 모델 등은 압도적으로 저렴한 비용(백만 토큰당 $0.03 수준)으로 최첨단 성능에 근접했습니다.\n병렬 개발과 개발 병목:\n구글은 제미나이 3.6 플래시(Gemini 3.6 Flash) 출시, 3.5 Pro 테스트, 제미나이 4 Pre-training을 동시 진행 중입니다.\n다만 고성능 모델의 출시 지연은 인프라 구축 난항과 맞춰 최첨단 모델 개발이 점차 까다로워지고 있음을 보여줍니다.\n2. 연산 속도에서 '데이터 이동 및 전력'으로 이동한 병목 현상\n새로운 병목 지점:\n조 단위 파라미터 모델에서는\n연산 자체(FLOPs)보다 HBM 메모리와 GPU 네트워크 간에 가중치 및 KV 캐시 데이터를 이동하는 데 더 많은 시간이 소요\n됩니다.\n병목의 중심이 메모리 대역폭, GPU 상호연결, 전력 공급으로 이동했습니다.\n전력 확보전 가열:\n엔비디아 블랙웰(Blackwell) GPU 임대료가 올해 들어 27% 상승한 가운데\n, 스페이스X가 1GW 규모의 이동식 터빈 발전기를 매입(7월 15일)하는 등\nAI 연구소가 직접 발전 설비를 구매하는 이례적 현상이 벌어지고 있습니다.\n토큰 가격 급등: 중국 프론티어 모델 가격이 주간/월간 45% 급등해 백만 토큰당 0.87로 올라섰으며, 글로벌 평균 가격도 상승세\n입니다. 씨티는 향후 인프라가 추가 확충되면 가격 압박은 완화되나, 연산력 자체보다\n유용한 데이터와 특정 과제 수행 능력\n이 더 강력한 진입장벽이 될 것으로 분석했습니다.\n3. 샌드박스를 벗어나는 AI 에이전트와 안전성 우려\n보안 위험 급증:\n자율 AI 에이전트가 샌드박스를 탈출하는 현실적 위험이 지난 4월 '소소한 소동' 수준에서 7월 '허깅페이스(Hugging Face) 인프라 침투' 수준으로 대폭 심화되었습니다.\n설명 가능성 부재:\n오픈소스 확산으로 보안 리스크는 커지고 있으나, 정작 모델 개발자조차 AI의 행동 원인을 완벽히 규명하지 못하는\n'설명 가능성(Interpretability)'\n문제는 해결되지 않고 있습니다.\n토큰 소비 가속화:\nMETR 조사에 따르면\nAI 에이전트와 인간 간 경제성 격차가 빠르게 줄어들고 있습니다\n.\n에이전트의 자율성과 경제성이 확보될수록 토큰 소비가 폭발적으로 증가하며, 이는 다시 인프라 수요를 끌어올리는 구조를 형성하고 있습니다.\nhttps://wallstreetcn.com/articles/3777928#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-25T09:50:04+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19314",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19314",
-      "text": "OpenAI, ChatGPT 전 세계적 접속 장애 공식 확인\nChatGPT가 전 세계적인 접속 장애를 겪고 있습니다.\nOpenAI는\n현재 전 세계 사용자들이 불편을 겪고 있으며, 많은 이들이 AI에 접속하지 못하고 있음을 확인했습니다.\n이번 서비스 중단은 지난 30분 이내에 시작되었습니다. 다운디텍터(DownDetector)에 따르면,\n현재 미국, 유럽, 인도, 일본, 호주 및 세계 여러 지역에서 ChatGPT 장애가 발생하고 있습니다.\nOpenAI는 공식 상태 페이지를 통해 ChatGPT에 영향을 주는 문제를 인정했습니다.\n\"현재 해당 서비스들에 발생한 문제를 조사 중입니다.\" — OpenAI 공식 입장\nhttps://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-worldwide/\n(컴퓨팅 이렇게 부족한데!)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-25T09:41:10+00:00"
     },
     {
       "id": "x:ylecun:2080924098230706310",
@@ -844,7 +848,7 @@
       "url": "https://t.me/enc210406/4197",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 7월 24일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/kvSxtYs7r9pZj-XnOsLt_rvLRjv4Q_a9NNFBLUR2Vaxk0mQTUDYszCVBgtI_QDm_5xFEDSVHDEXKoP-KWbZOVj9ziVfn-CayS8qmwliHCQrWwYYF8QnBZ1dcCV2fNe30iZtVNDz22azXXmMUjHQfyZ17uj-FBXk0VBq7KMN6zc9g9U2tK7cAzIWzk7JV5PdW8Eea2a4d-txdEFSZbiKfJ5Vq6PxRq99N61bhUw2lLCiQkUodM4a5PbJBnMSxyi_3FOYhqShnZ0SP25J0jfqFRl_YRqr8wxg9ho1cs3nmfS0doBXnYICMw0ouJhHFnWl8W24HaNhaC3IdNoBt-AOsqw.jpg"
+        "https://cdn5.telesco.pe/file/spjmBwiHmD15D9MN-dgi25hOIah345A18tJ_QE1VHyB5-uoLTMroR2-Z7rRemqN___BeRLF_0bOItmVEV62GpWLSQ_OjzxFskWOp_0hIuctcR-XKpGOKHtrsZ9imxF8k-ri5Wu_M7audFGNlzh8LSekNlJm0Vnp9HvTnhv8cR6J79N4DwRMZH1zms3RwyImnrVKPaNN9rWa7zK93DfVA-qqKvCNPBaTsOr4YogLK42hQQOKvIQugOSjb4UD03n4QeG3J1zvEuxwzvCoBJjIAbGTzjSQDOHPHQGukt3qJolLDQ2nLI9K5vS3i1Gu5f2gz4jVLADpkwUuMSs4_dXH_FA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-24T09:18:10+00:00"
@@ -1349,7 +1353,7 @@
       "url": "https://t.me/enc210406/4187",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 7월 23일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/kBP_TfRkL0eLmg44WGXuu27nxFGU2FZMPEihU1m8F5eaTCzGKj1wyRmZ785mvX6o3DvM0fPwGSLISFEXwoHHfeEiZWGUCMMG50_nPxetwprRAIFG8mqOXSxgWSWayp-JaSQREpMDs6-zTjvQDZnvnp6jrg4POj2gjOrVm5yWwy_Phgju9UN8FUU9xkOZMKdNt_p0MTAzXGZzseKBNj1za3u8-8ID5XRzopPMRXs9JXmZ-ja5ztPeeDBzuYpBI9MQ9EvkfqX7bVglq18My8YMvghpWzYe_KkZIJj3XR6sq4ecjTyp6XtPkPm8v63Hf-PRoit4GfPW-YegjFEHtcJ6Jw.jpg"
+        "https://cdn5.telesco.pe/file/GtT9QhlkBIWfpZZSYLStIN9XC1WyRj-6CBQQlEm1t2ptMxvktx4_O9hUsx7JReBKj8xqf-T9H4pgC0zrna0Ibq0GHEYIKbj0iwgZ80IRFrUya4rpxTSG6ZP4jM31mAHkNL7pT850FWmAc5FKpD52lSnIunefqQDfk8PqAxGD8SKzqIcuJtRsEbXFNTShb8W_ZVMdOERY7surj4TXgLyHTWF-kHdk8G8L8RNZKoEFGzOPXWuibolHFzDQP3-QnXk-9lE8_tBZVJO5E-ves2zWZQ8Ni-lzmkTZlHocFLzktU32XhSAfO6vln5kc6g9fmWdusgRsGz3dzp1nVB1_DNDWQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-23T09:08:29+00:00"
