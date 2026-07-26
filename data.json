@@ -1,22 +1,48 @@
 {
-  "updated_at": "2026-07-26T19:10:13+00:00",
+  "updated_at": "2026-07-26T20:57:53+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 9
+    "new_this_run": 2
   },
   "briefing": {
-    "headline": "메타 수석 AI 과학자 얀 르쿤, 트럼프 정책에 대한 여론 조사 결과",
+    "headline": "IMF: 지난 10년 국부펀드 가치 2배 이상 증가",
     "bullets": [
-      "삼성전자·SK하이닉스, 메모리 반도체 매수 유지",
-      "AI 인프라 시대는 이미 지나갔다",
-      "이란과 미국, 임시 휴전 협정으로의 복귀 희망",
-      "TSMC, 애리조나 2공장 본체 건설 완료",
-      "ChatGPT Work, 활성 사용자 수에서 Codex 앞질름"
+      "골드만삭스: 'AI 인프라'만 보던 시대는 이미 지남",
+      "TSMC 애리조나 2공장 본체 건설 완료",
+      "Needham: 'DRAM/HBM은 AI의 실질적인 병목 요인으로 남을 것입니다.'",
+      "ChatGPT Work가 활성 사용자 수에서 공식적으로 Codex를 앞질렀습니다.",
+      "이란과 미국, 임시 휴전 협정으로의 복귀를 희망"
     ],
-    "generated_at": "2026-07-26T19:10:13+00:00",
+    "generated_at": "2026-07-26T20:57:53+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/31863",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31863",
+      "text": "IMF: 지난 10년 국부펀드 가치 2배 이상 증가\n国际货币基金组织（IMF）：一系列主权财富基金的价值在过去十年超过翻倍。",
+      "images": [
+        "https://cdn5.telesco.pe/file/q_nerEI9c1Urp7loy1piGzKmg2i020Hy9B8oy8vbG6QLM-Nll-Aqy9s5GsbsOk8EkPuasNDpMzuaA--5MYw0u1WrLeQYWc8VbLkDdutTESUX753-HvNWE_rda4UGOkSi0b6RnQYoQqX0jHw800LOzxEdDgzv2x7ZprRug8CyK7-g00ulm6rdnP1iRNWUrNjr--evbMBSSZgefKi2CVmthZbdcoPZkazm1hCgQ7pJpbGQseOMrwHuV2kwUFM6uH8rSlgGnW1YkpJlOT8ZEPkJOxMMOBYbukQxoWqRvls-FvKTVEfqFcCPw3R79tS8Z1XDxtE3Txr7I8IrFIwnydyLyA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-26T20:50:39+00:00"
+    },
+    {
+      "id": "tg:EMchina/31862",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31862",
+      "text": "자주 언급되는 미국 무기 고갈 리스크  =========================  ~ NYT에 따르면 댄 케인 합동참모의장은 회의에서 '군사적으로는 대규모 작전 재개가 가능하지만, 중부사령부(CENTCOM)의 요격 미사일 재고를 위험한 수준으로 고갈시킬 수 있다'는 취지로 발언한 것으로 전해졌다  ~ NYT는 \"군 수뇌부가 요르단, 쿠웨이트, 바레인, 아랍에미리트(UAE) 등에 주둔한 미군기지를 방어할 탄약이 빠르게 줄어들고 있다고 평가한 것이 트럼프…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-26T19:18:54+00:00"
+    },
     {
       "id": "x:ylecun:2081402147434815884",
       "source": "x",
@@ -451,30 +477,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-26T04:28:35+00:00"
-    },
-    {
-      "id": "tg:EMchina/31851",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31851",
-      "text": "예고된 관세 파티  https://n.news.naver.com/article/001/0016212266?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-26T04:20:28+00:00"
-    },
-    {
-      "id": "tg:EMchina/31850",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31850",
-      "text": "마이클버리 종말론  ========================  ~ 1일 CNBC에 따르면 버리는 자신의 서브스택을 통해 \"오늘날의 주가 상승의 직접적인 원인은 한국에서 발표된 대규모 지출이다\"며 \"하지만 이것은 종말의 시작이라고 보며, 이제 시간 문제일 뿐이다\"고 말했다  https://news.einfomax.co.kr/news/articleView.html?idxno=4422710",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-26T04:15:41+00:00"
     },
     {
       "id": "tg:bornlupin/19322",
