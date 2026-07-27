@@ -1,22 +1,48 @@
 {
-  "updated_at": "2026-07-27T16:57:28+00:00",
+  "updated_at": "2026-07-27T18:26:39+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 6
+    "new_this_run": 9
   },
   "briefing": {
-    "headline": "중국 CXMT, 자국산 DUV 반도체 제조 장비 양산 개시",
+    "headline": "ChatGPT Voice의 GPT-Live 전 세계 출시",
     "bullets": [
       "아마존, 모바일 서비스용 위성 컨스텔레이션 개발",
-      "트럼프, 이란 공습 중단 결정",
-      "애플, CXMT에 대한 미국 제재 우려",
-      "한화오션, 2분기 실적 발표",
-      "엔비디아 CEO, 젠슨 황"
+      "중국, 자국산 DUV 반도체 제조 장비 양산 개시",
+      "앤드류 응, Nvidia 편지 읽을 가치 있음",
+      "루팡, 앤스로픽과 오픈AI의 연간 반복 매출 1,200억 달러",
+      "CXMT, 중국 허페이에 본딩 D램 파일럿 라인 구축"
     ],
-    "generated_at": "2026-07-27T16:57:28+00:00",
+    "generated_at": "2026-07-27T18:26:39+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:OpenAI:2081794871795589485",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2081794871795589485",
+      "text": "GPT-Live in ChatGPT Voice is now available to Edu, Business, and Enterprise plans globally.",
+      "images": [
+        "https://pbs.twimg.com/media/HMuNB0WboAE_A7s.jpg"
+      ],
+      "summary_ko": "ChatGPT Voice의 GPT-Live는 이제 전 세계적으로 Edu, Business 및 Enterprise 요금제에서 사용할 수 있습니다.",
+      "published_at": "2026-07-27T17:32:29+00:00"
+    },
+    {
+      "id": "x:AndrewYNg:2081787106062746002",
+      "source": "x",
+      "author": "AndrewYNg",
+      "author_name": "Andrew Ng(앤드류 응) · AI 교육자",
+      "author_url": "https://x.com/AndrewYNg",
+      "url": "https://x.com/AndrewYNg/status/2081787106062746002",
+      "text": "Good move by @JensenHuang. The Nvidia letter is well written and worth reading. As we saw with the OpenAI-Hugging Face hack, we need open models and harnesses for defense. Lets stop believing the PR that closed models are safer. - that's just regulatory capture.",
+      "images": [],
+      "summary_ko": "@JensenHuang의 좋은 움직임입니다. Nvidia 편지는 잘 작성되었으며 읽을 가치가 있습니다. OpenAI-Hugging Face 해킹에서 살펴본 것처럼 방어를 위해서는 개방형 모델과 하네스가 필요합니다. 폐쇄형 모델이 더 안전하다는 PR을 믿지 말자. - 그것은 단지 규제 캡처입니다.",
+      "published_at": "2026-07-27T17:01:38+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/23997",
       "source": "telegram",
@@ -278,6 +304,18 @@
       "published_at": "2026-07-27T11:50:33+00:00"
     },
     {
+      "id": "x:ylecun:2081706092585713914",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2081706092585713914",
+      "text": "RT by @ylecun: If multiple Mythos level models are out there in the hands of attackers, now or in a few years, then US builders and software developers need strong, open defenses. They cannot have gated, crippled defenses that refuse to help while attackers run roughshod. We need to patch our systems not bury our heads in the sand and hope that nobody had powerful offensive AI. That's abusrd. The answer is powerful AI patching our systems, not refusing the patch our systems. Let developers find issues and secure them at the source. And if you imagine that some kind of magical legislation in the US will somehow prevent the rest of the world, APTs and hackers fine tuning or training models or attacking closed models to use them in attack, then you are beyond delusional. We must have power tools widely distributed and widely available to all, not central Soviet style controls and steering committees.",
+      "images": [],
+      "summary_ko": "RT(@yleun): 여러 Mythos 레벨 모델이 현재 또는 몇 년 내에 공격자의 손에 들어간다면 미국 빌더와 소프트웨어 개발자는 강력하고 개방적인 방어가 필요합니다. 그들은 공격자들이 난폭하게 공격하는 동안 도움을 거부하는 폐쇄적이고 무력한 방어를 가질 수 없습니다. 우리는 시스템을 패치해야 하며, 누구도 강력한 공격 AI를 갖지 않기를 바라지 않아야 합니다. 그건 말도 안되는 일이에요. 대답은 우리 시스템 패치를 거부하는 것이 아니라 강력한 AI가 우리 시스템을 패치하는 것입니다. 개발자가 문제를 찾아 소스에서 보호할 수 있도록 하세요. 그리고 미국의 마법 같은 법안이 전 세계의 나머지 지역, APT 및 해커가 모델을 미세 조정하거나 훈련하거나 폐쇄형 모델을 공격하여 공격에 사용하는 것을 어떻게든 막을 것이라고 상상한다면, 당신은 망상을 넘어서는 것입니다. 우리는 할 수 있는 힘이 있어야 합니다.",
+      "published_at": "2026-07-27T11:39:43+00:00"
+    },
+    {
       "id": "tg:EMchina/31883",
       "source": "telegram",
       "author": "EMchina",
@@ -316,6 +354,20 @@
       "published_at": "2026-07-27T11:13:05+00:00"
     },
     {
+      "id": "x:ylecun:2081698060330250294",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2081698060330250294",
+      "text": "RT by @ylecun: Attackers have frontier AI. Defenders need a frontier AI ecosystem—the best open and closed models, force-multiplied by a global community. During the Hugging Face incident, closed AI blocked essential forensics. An open-weight frontier model helped contain the intrusion. That’s why we created the Open Secure AI Alliance.",
+      "images": [
+        "https://pbs.twimg.com/media/HOOQxJYXkAASp1y.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 공격자는 개척지 AI를 보유하고 있습니다. 방어자에게는 글로벌 커뮤니티에 의해 강화된 최고의 개방형 및 폐쇄형 모델인 최첨단 AI 생태계가 필요합니다. Hugging Face 사건 당시 폐쇄형 AI가 필수 포렌식을 차단했습니다. 개방형 프론티어 모델은 침입을 억제하는 데 도움이 되었습니다. 이것이 바로 우리가 Open Secure AI Alliance를 만든 이유입니다.",
+      "published_at": "2026-07-27T11:07:48+00:00"
+    },
+    {
       "id": "tg:EMchina/31882",
       "source": "telegram",
       "author": "EMchina",
@@ -326,6 +378,20 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-27T08:39:23+00:00"
+    },
+    {
+      "id": "x:ylecun:2081659005529964851",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2081659005529964851",
+      "text": "RT by @ylecun: Music-JEPA: Learning a World Model of Sound from Action \"we propose to learn a world model of piano sound using JEPA by framing music as an action-conditioned system: the audio is treated as the state, and the pianoroll as the instrument action.\" \"Experiments show that the learned model captures the relationships between musical actions and their resulting sound. The resulting representations support downstream tasks, including beat tracking, composer identification, and key estimation, and enable piano transcription via planning, by searching for actions that best explain a target sound.\"",
+      "images": [
+        "https://pbs.twimg.com/media/HOOJ1CCbQAAfrHG.jpg"
+      ],
+      "summary_ko": "RT by @yleun: Music-JEPA: 동작에서 소리의 세계 모델 학습 \"우리는 음악을 동작 조건 시스템으로 구성하여 JEPA를 사용하여 피아노 소리의 세계 모델을 학습할 것을 제안합니다. 오디오는 상태로 처리되고 피아노롤은 악기 동작으로 처리됩니다.\" \"실험에 따르면 학습된 모델은 음악적 동작과 그에 따른 결과 사운드 사이의 관계를 포착합니다. 결과 표현은 비트 추적, 작곡가 식별 및 키 추정을 포함한 다운스트림 작업을 지원하고 목표 사운드를 가장 잘 설명하는 동작을 검색하여 계획을 통해 피아노 녹음을 가능하게 합니다.\"",
+      "published_at": "2026-07-27T08:32:36+00:00"
     },
     {
       "id": "tg:EMchina/31881",
@@ -937,6 +1003,20 @@
       "published_at": "2026-07-26T22:52:43+00:00"
     },
     {
+      "id": "x:ylecun:2081510897562898703",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2081510897562898703",
+      "text": "RT by @ylecun: Right now we are defending open source (or open weights) models' right to exist. The debate is not about forcing anyone to open-source their models, whatever some other Julian might imply. However, what if we did just that? Last year, I explored that scenario.",
+      "images": [
+        "https://pbs.twimg.com/media/HOMDA69XYAE16Lm.png"
+      ],
+      "summary_ko": "RT by @yleun: 현재 우리는 오픈 소스(또는 오픈 웨이트) 모델의 존재 권리를 옹호하고 있습니다. 논쟁은 다른 줄리안이 암시하는 것이 무엇이든 누구에게나 자신의 모델을 오픈 소스로 강요하는 것이 아닙니다. 하지만 만약 우리가 그렇게 했다면 어떨까요? 작년에 저는 그 시나리오를 탐구했습니다.",
+      "published_at": "2026-07-26T22:44:05+00:00"
+    },
+    {
       "id": "x:ylecun:2081434036619112790",
       "source": "x",
       "author": "ylecun",
@@ -1100,33 +1180,6 @@
       "published_at": "2026-07-25T07:52:21+00:00"
     },
     {
-      "id": "x:ylecun:2080894479934845335",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2080894479934845335",
-      "text": "RT by @ylecun: January: Trump’s account buys $1–5 million of Nvidia in a single trade. April: He bans Nvidia from selling its chips to China. The stock craters, Nvidia takes a $4.5 billion write-down. Through the spring: his accounts keep buying the dip, over a dozen Nvidia purchases. August: He reverses his own ban. Nvidia can sell to China again, if it pays the U.S. government 15% of the revenue. A deal he cut personally. August 18: his account buys $5–25 million of Nvidia, the single biggest stock purchase of his entire year. December: He greenlights the even more powerful H200 chips for China, now at a 25% cut. The President banned the stock, bought the crash, un-banned the stock, then made his biggest purchase of the year. He controls the switch. He owns the stock. He flips the switch.",
-      "images": [],
-      "summary_ko": "RT @yleun: 1월: Trump의 계좌는 단일 거래로 Nvidia 주식 100만 ~ 500만 달러를 매입합니다. 4월: 그는 Nvidia가 중국에 칩을 판매하는 것을 금지했습니다. 주식 분화구인 Nvidia는 45억 달러의 손실을 입었습니다. 봄 내내 그의 계정은 Nvidia에서 12건이 넘는 구매를 계속해서 하락세를 보이고 있습니다. 8월: 그는 자신의 금지 조치를 취소했습니다. 엔비디아는 미국 정부에 수익의 15%를 지불하면 다시 중국에 제품을 판매할 수 있습니다. 그가 개인적으로 끊은 거래. 8월 18일: 그의 계좌는 500만~2,500만 달러의 Nvidia 주식을 매입했는데, 이는 그의 1년 전체 주식 매입 중 최대 규모입니다. 12월: 그는 중국을 위해 훨씬 더 강력한 H200 칩을 승인했습니다. 현재 가격은 25%입니다. 대통령은 주식을 금지하고, 붕괴된 주식을 매입하고, 주식 금지를 해제한 후 올해 최대 규모의 매입을 했습니다. 그는 스위치를 조종합니다. 그는 주식을 소유하고 있습니다. 그는 스위치를 켰다",
-      "published_at": "2026-07-25T05:54:39+00:00"
-    },
-    {
-      "id": "x:ylecun:2080861634961326279",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2080861634961326279",
-      "text": "RT by @ylecun: Wonderful to have a broad base acknowledgement of the need for open weights. We are delighted to support as signatories. Open weights is the key to ensuring security, research, innovation and competition. And let's not confuse misappropriation with openness.",
-      "images": [
-        "https://pbs.twimg.com/media/HN_qDVsa4AAI6XJ.jpg",
-        "https://pbs.twimg.com/media/HN_qDV1a8AARQwg.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: 오픈 웨이트의 필요성에 대한 광범위한 인식을 갖게 되어 기쁩니다. 우리는 서명자로서 지원하게 된 것을 기쁘게 생각합니다. 개방형 가중치는 보안, 연구, 혁신 및 경쟁을 보장하는 열쇠입니다. 그리고 남용과 개방성을 혼동하지 맙시다.",
-      "published_at": "2026-07-25T03:44:08+00:00"
-    },
-    {
       "id": "x:sama:2080861203010568232",
       "source": "x",
       "author": "sama",
@@ -1163,35 +1216,6 @@
       ],
       "summary_ko": "AMD가 CUDA 해자를 깰 수 있을까요? AMD 고급 AI 2026\n\n에이전트 커널 생성, 소프트웨어 품질 개선, 불안정한 내부 개발 클러스터, Helios MI455X 생산 램프 지옥, 금융 엔지니어링 최대 105% 할인",
       "published_at": "2026-07-25T00:33:23+00:00"
-    },
-    {
-      "id": "x:ylecun:2080782086907281409",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2080782086907281409",
-      "text": "RT by @ylecun: Preparation in progress for the San Francisco Open Weights mini-march tomorrow. Hope all these big tech CEOs won’t show up otherwise I might end up in jail (haven’t had time to ask for a permit 😅)",
-      "images": [
-        "https://pbs.twimg.com/media/HOBsQiEaUAA74B_.jpg"
-      ],
-      "summary_ko": "RT by @yleun: 내일 샌프란시스코 오픈 웨이트 미니 행진 준비가 진행 중입니다. 이 모든 거대 기술 CEO들이 나타나지 않기를 바랍니다. 그렇지 않으면 감옥에 갈 수도 있습니다(허가를 요청할 시간이 없었습니다 😅).",
-      "published_at": "2026-07-24T22:28:03+00:00"
-    },
-    {
-      "id": "x:ylecun:2080733191237771648",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2080733191237771648",
-      "text": "RT by @ylecun: Open source is a positive and important force for both empowering people and preventing centralization. Proud to support this.",
-      "images": [
-        "https://pbs.twimg.com/media/HN_vsqtbgAAJ73S.jpg",
-        "https://pbs.twimg.com/media/HN_vuJZaMAAdRVT.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: 오픈 소스는 사람들에게 권한을 부여하고 중앙 집중화를 방지하는 데 긍정적이고 중요한 힘입니다. 이것을 지원하게 된 것을 자랑스럽게 생각합니다.",
-      "published_at": "2026-07-24T19:13:45+00:00"
     },
     {
       "id": "x:AnthropicAI:2080699495453528290",
@@ -1629,20 +1653,6 @@
         "https://pbs.twimg.com/media/HNxaQNgaIAEnl0R.jpg"
       ],
       "summary_ko": "R에서 @OpenAI로: 보상 해킹이 묻습니다. 모델이 보상을 활용했습니까? 보상 추구 질문: 모델 선택의 동기는 등급자의 승인이었습니까? 두 번째는 일반화에 잠재적으로 더 중요합니다. 왜냐하면 채점자에 대한 믿음이 바뀌면 행동도 바뀔 수 있기 때문입니다.",
-      "published_at": "2026-07-21T19:18:37+00:00"
-    },
-    {
-      "id": "x:OpenAI:2079647251677536324",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2079647251677536324",
-      "text": "We’re sharing new research with @apolloresearch on reward-seeking—when models follow what they believe a grader rewards rather than what users or developers want—and a new method, Contrastive SDF, for measuring how strongly such beliefs shape behavior. https://alignment.openai.com/measuring-reward-seeking/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2079628151785930752/mSVQe3jk?format=jpg&name=800x419"
-      ],
-      "summary_ko": "우리는 보상 추구(모델이 사용자나 개발자가 원하는 것보다 채점자가 보상한다고 믿는 것을 따를 때)에 대한 새로운 연구와 그러한 신념이 행동을 얼마나 강력하게 형성하는지 측정하기 위한 새로운 방법인 Contrastive SDF를 공유하고 있습니다. https://alignment.openai.com/measuring-reward-seeking/",
       "published_at": "2026-07-21T19:18:37+00:00"
     },
     {
@@ -2527,20 +2537,6 @@
       "images": [],
       "summary_ko": "하버드 대학교는 학부 수업에서 A 학점을 전체 수업의 약 20%로 제한하기로 투표했습니다. 나는 이것에 찬성하지 않습니다. 이는 교육이 어떠해야 한다고 제가 믿는 방식과 크게 반대됩니다. 우리는 높은 기준을 유지해야 하지만, 일부가 아닌 100% 학습자의 성공을 지원하기 위해 열심히 노력해야 합니다. 하버드 행정부는 성적 인플레이션에 대응하기 위해 학생 단체의 대다수의 반대에도 불구하고 이 조치를 취했습니다. 성적 인플레이션은 현실입니다. 많은 대학에서 훨씬 더 많은 학생에게 A 및 B 등급을 부여하고 있으며, 이로 인해 평점 평균(GPA)이 학생의 능력을 나타내는 신호로 덜 유용해졌습니다. 동시에 우리는 학생들이 성공하기를 원합니다. 문제의 핵심은 교육기관의 역할이다. 우리의 목표는",
       "published_at": "2026-05-22T17:19:35+00:00"
-    },
-    {
-      "id": "x:AndrewYNg:2057146565500998024",
-      "source": "x",
-      "author": "AndrewYNg",
-      "author_name": "Andrew Ng(앤드류 응) · AI 교육자",
-      "author_url": "https://x.com/AndrewYNg",
-      "url": "https://x.com/AndrewYNg/status/2057146565500998024",
-      "text": "New course: Build AI agents that generate images and videos -- an under-explored frontier. A key to performance is having the agent evaluate its own output, and iterate to improve quality. This short course is built together with @googlecloudtech and taught by Katie Nguyen and Wafae Bakkali. You'll learn three evaluation techniques and combine them in an agent: image-text similarity scoring to check the output matches the prompt, an LLM judge that scores against custom criteria like brand consistency, and structured rubrics that break a prompt into verifiable yes/no questions like \"is the subject in the frame?\" and \"does the camera motion match?\" Skills you'll gain: - Learn image and video prompt engineering - Build an image agent that turns brand guidelines into UI mockups - Build a video agent that plans multi-scene explainers and animates reference frames with synchronized audio Join and build agents that create images and video! https://www.deeplearning.ai/courses/ai-agents-for-image-and-video-generation",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2057145895007989760/img/eJ5DVwRXZDyifNYW.jpg"
-      ],
-      "summary_ko": "새로운 과정: 아직 개척되지 않은 영역인 이미지와 비디오를 생성하는 AI 에이전트를 구축하세요. 성능의 핵심은 에이전트가 자체 출력을 평가하고 품질을 개선하기 위해 반복하도록 하는 것입니다. 이 짧은 과정은 @googlecloudtech와 함께 제작되었으며 Katie Nguyen과 Wafae Bakkali가 가르칩니다. 세 가지 평가 기술을 배우고 이를 에이전트에서 결합합니다. 즉, 출력이 프롬프트와 일치하는지 확인하기 위한 이미지-텍스트 유사성 점수, 브랜드 일관성과 같은 사용자 정의 기준에 대해 점수를 매기는 LLM 심사위원, 프롬프트를 \"프레임에 있는 주제가 있습니까?\"와 같은 확인 가능한 예/아니요 질문으로 나누는 구조화된 루브릭입니다. 그리고 \"카메라 움직임이 일치합니까?\" 습득할 수 있는 기술: - 이미지 및 비디오 프롬프트 엔지니어링 학습 - 브랜드 지침을 UI 모형으로 바꾸는 이미지 에이전트 구축 - 비디오 구축",
-      "published_at": "2026-05-20T17:08:55+00:00"
     },
     {
       "id": "x:karpathy:2056753169888334312",
