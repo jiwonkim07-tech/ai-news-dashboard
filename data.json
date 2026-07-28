@@ -1,21 +1,270 @@
 {
-  "updated_at": "2026-07-28T00:02:17+00:00",
+  "updated_at": "2026-07-28T04:09:25+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 22
+    "new_this_run": 25
   },
   "briefing": {
-    "headline": "미중 300억달러 관세 인하 프레임워크 구축",
+    "headline": "엔비디아, OpenAI 데이터센터 주요 공급사",
     "bullets": [
-      "엔비디아, 그래픽카드 가격 최대 30% 인상",
-      "BlackRock, 메타 AI 데이터센터 프로젝트 자금 조달",
-      "CXMT, 글로벌 주식 시총 24위",
-      "KF-21 보라매, 인도네시아에 1대 1억2500만달러에 판매"
+      "샤오미, 스마트폰 출하량 목표 1.1억대로 상향",
+      "중국 2분기 경제성장률 4.3%, 시장 기대치 하회",
+      "미국 최대 전력망, 전력 공급 목표 달성 실패",
+      "삼성전자·SK하이닉스 레버리지 손실 국가배상 검토"
     ],
-    "generated_at": "2026-07-28T00:02:17+00:00",
+    "generated_at": "2026-07-28T04:09:25+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/24015",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24015",
+      "text": "JP모건 APAC테크 관련 코멘트  (1) 반도체 매도세 지속… SOX 지수 -2% (고점 대비 현재 -21%). (i) 엔비디아는 OpenAI의 주요 데이터센터 프로젝트에 2,500억 달러 규모의 백스톱을 제공할 수 있다는 헤드라인에 -5% 하락했습니다. 이는 순환 출자성 자금조달(circular financing) 우려를 키우는 동시에, 엔비디아가 자본지출(capex) 수혜자에서 하이브리드 형태의 자본지출 집행자로도 그 경계가 흐려지고 있는 것 아니냐는…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-28T04:01:00+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24013",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24013",
+      "text": "Evercore ISI) AI FOMO 리스크 바로미터 – 구조적 강세장은 아직 진행 중 (7/26)\n■ 핵심 요약\nEvercore ISI 전략팀은 중동 긴장 재고조로 유가가 위험 구간에 근접하고 미국 30년물 금리가 신고점을 경신하는 가운데서도, 구조적 강세장이 여전히 유효하다는 견해를 유지했습니다. 경기침체 부재, 인상에 소극적인 워시 연준, 4.75% 이하로 억제된 10년물 금리, 그리고 과도한 AI FOMO의 부재가 그 근거입니다. 이번 리포트에서 새로 도입한 AI FOMO 리스크 바로미터는 10개 지표 중 4개만 적색 신호를 보이고 있어(7개 이상이면 리스크/리워드 매력 상실 신호), 연말 S&P 500 7,750 전망을 뒷받침한다고 평가했습니다.\n■ AI FOMO 리스크 바로미터 (현재 4/10)\n바로미터는 기업과 투자자 양측의 AI 관련 위험 감수 성향의 지속적 변화를 포착하기 위한 프레임워크로, 단기 가격 변동이 아닌 자본지출, 지수 집중도, 레버리지, 시장 폭 등을 추적합니다. 따라서 단기 마켓 타이밍 신호가 아닌 기저 리스크 레짐의 측정 지표로 해석해야 한다고 강조했습니다.\n적색 신호 4개는 다음과 같습니다. 첫째, S&P 500 상위 10개 종목 비중이 38%로 닷컴 버블 당시 정점인 27%를 크게 상회하고 있습니다. 둘째, 가계 순자산 대비 주식 비중이 35%로 닷컴 시기 30% 정점을 넘어 사상 최고 수준입니다. 셋째, 신용융자 잔고가 1.5조 달러로 장기 추세와 기존 1조 달러 정점을 크게 웃돌고 있습니다. 넷째, 구글의 7/22 실적 발표 이후 하이퍼스케일러 12개월 선행 잉여현금흐름이 -380억 달러로 마이너스 전환되며 수요를 앞지르는 과잉 지출 리스크가 부각되었습니다.\n반면 나머지 6개 지표는 상대적으로 건전한 상태입니다. 시장 참여의 경우 NYSE 등락주선(A/D Line)이 1990년대 후반과 달리 광범위한 상승 참여를 나타내고 있으며, 밸류에이션 측면에서도 Y2K 정점 직전과 달리 지수 수익률이 멀티플 확장이 아닌 펀더멘털(이익)에 의해 주도되고 있습니다. 하이퍼스케일러 레버리지는 순부채/시가총액 1%, 이자보상배율 33배로 S&P 500 중앙값(10%, 10배) 대비 여전히 건전합니다. 기업 간 상호출자는 미국 전체 주식의 3%로 닷컴 정점 10%에 크게 못 미치고, IPO 발행 규모는 OpenAI 600억 달러와 앤트로픽 650억 달러 조달 가정을 포함해도 S&P 500 시가총액의 0.4% 수준으로 과거 정점 기준선인 0.75%(1999년 0.75%, 2007년 0.91%, 2021년 0.88%)에 미달합니다. FOMO 구간 진입에는 연간 4,730억 달러의 IPO가 필요한데 이는 전망치 대비 약 80% 높은 수준입니다. 주식 리스크 프리미엄도 약 40bp로 아직 플러스를 유지하고 있어 닷컴 정점 직전의 마이너스 전환과는 다른 상황입니다.\n■ 자본지출과 M&A 동향\n하이퍼스케일러 5개사는 향후 12개월간 9,000억 달러의 설비투자가 예상되며, 이는 ChatGPT 등장 이전 투자 규모의 5배를 상회합니다. M&A는 2025년 하반기부터 가뭄 이후 반등해 2021년 기록을 재시험하고 있으나, 시가총액 대비로는 여전히 억제된 수준(과거 정점 시기에는 14% 수준)이어서, 전략팀은 M&A보다 IPO/시가총액 비율을 FOMO 게이지로 선호한다고 밝혔습니다.\n■ 리스크 요인과 투자 전략\n미국/이란 전쟁 재격화로 유가가 12개월 선행 주식 수익률이 제로에 수렴하는 93~97달러 구간에 근접했고, 10년물 금리가 4.75%를 넘으면 단기 부담, 5% 상회 시 의미 있는 역풍이 될 수 있다고 경고했습니다. 3월 저점 이후 6월 고점까지 S&P 500 21%, 나스닥 35%, SOX 107% 급등에 따른 차익실현 변동성도 지속될 전망입니다.\n전략팀은 AI 중심 비중확대 섹터인 IT, 커뮤니케이션 서비스, 경기소비재에 대한 오버웨이트를 유지하며, 변동성이 부담스러운 투자자에게는 두 가지 대안을 제시했습니다. 첫째는 SPY 10월물 700 풋 매수(9월 말까지 FOMC 2회, 공화당 중간선거 전당대회, 트럼프/시진핑 회담 등 변동성 이벤트 포함)이고, 둘째는 전략팀이 선호하는 \"우아한 해법\"으로 에너지, 필수소비재, 헬스케어, 유틸리티, 보험 등 가치주 중심의 네거티브 베타 종목 바스켓 매수입니다. 이 바스켓은 AI 포트폴리오의 변동성을 완화하면서도 연초 이후 절대수익률 기준 플러스를 기록하고 있습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/BtllW80-1sPEgS4wSsr8v2CBAzUUpXZEeLqnTJQx-pd7W2Y7aurrfoHs6NkIO7-1ORKfO0IbBDOCjRxeVgexx2h7us6t0JEg6xTME3X2yNj2qaPU0cnQAfYLtEPLBbg0Cz20hRjlOWoqjxRzrzvHkOgesLAgfqJNZYYd5tb6wbtwIAqWdNEy4kERjXw4RRxhZwV0nFiCDgrXjgjrrzwfhho3pFL0IOKa47L35ydiOxvTpXZEGZ5ZprU8VjG1P74Xp_4pnU2AFHx7dVgRwD4jfO-5HPebEWjhbXAOga9eN2vzpm7CYbjNENyD8P17WLY2zbcn492Fx6sxV8n_FTNL3w.jpg",
+        "https://cdn5.telesco.pe/file/HXwKIcWvUkoCSrcI1UHsS60k2elts8tQq_YdoBgU1CHeeteP69T0z2AlGDQrXF3hi2SlgvCFphgc-2tpteMjsR44JO2qIYB926hbzdZJIOzBtsgtBvrIfoi9F5L1LRe4OrYYnOqeQPsk7LX3EQZQuxZ-wdnVQcQP6uQ52QPg-yrwgBi0vmIxgfxC4D-6sJq7YoYkQu_bwYwEIa-cVRP1ohIedU-VneIZT3OV2V_FLn6gmVLvh44PXPcrrEKhK8MQrrxjWMXsCK3TyuDYlW9ddsdWUani-tzrAlRJnrnDUcA1o4Pvw8dC2rBQ4_SzcxbGM32iVX895wi_Oux6BQWADw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-28T03:58:05+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24012",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24012",
+      "text": "이억원 \"레버리지 진정 안되면 추가조치\"…'20% 투자한도' 거론 | 연합뉴스 https://www.yna.co.kr/view/AKR20260728043900002",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-28T03:23:34+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24011",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24011",
+      "text": "이억원 \"레버리지 진정 안되면 추가조치\"…'20% 투자한도' 거론 | 연합뉴스\nhttps://www.yna.co.kr/view/AKR20260728043900002",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-28T03:23:08+00:00"
+    },
+    {
+      "id": "tg:EMchina/31903",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31903",
+      "text": "오늘 중국 본토/홍콩 모두 반도체 최하위\nCXMT -2.8%",
+      "images": [
+        "https://cdn5.telesco.pe/file/L_JmZhrl3tvTiT7yS2A53QlrIkvqVHx5oUvTqN7FhcSPxIFASyZkmt7K-L0wScvx_-ZeBA5_EII0zIfFlL49uiB711EsRlFRW7_HzNDLc4Q9ENlO2pwug_AIaqnUFFuNj1tPp-7NMvbISFCmUiAPrEST6yataesdpTloloyd8_TdOsI5liVdRKsc_wkbc-XcVIu3EtjpkfuYdlhp3IW3yhIS0ermVVxfvr-niiizjCc_irhL8tRuxMWS1gCrrel6exp8tk1jVjpxVj2iGOER64z6j0ENWq8fReKQBzU_i-9GxKw68hdHYCsHakoHdWofWi1BCtPUSFfkrEZBKTbbYg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-28T03:04:55+00:00"
+    },
+    {
+      "id": "tg:EMchina/31902",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31902",
+      "text": "중국 탄산리튬 현물가격 145800위안/톤. 전일대비 +100위안 상승\n上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报145800元/吨，较上日16:30价格上涨100元/吨。\nhttps://wallstreetcn.com/livenews/3140663?ivk=1#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-28T02:50:51+00:00"
+    },
+    {
+      "id": "tg:EMchina/31901",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31901",
+      "text": "샤오미, 휴대폰 출하량 목표 기존 9000만대에서 1.1억대로 상향 조정  • 샤오미는 2026년 연간 스마트폰 출하 목표 약 9000만대에서 1.1억대로 상향 조정. 이는 약 16% 증가한 수치. 상향 조정의 일부는 주로 저가 모델 기반   • 샤오미와 가까운 한 관계자에 따르면 이번 목표 상향 조정에 대해 샤오미 내부에서는 현재의 메모리 시장의 반전 가능성 전망  • 메모리 반도체 가격 상승으로 샤오미는 올해 두 차례 출하 목표 하향 조정한바 있음 …",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-28T02:34:54+00:00"
+    },
+    {
+      "id": "tg:EMchina/31900",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31900",
+      "text": "[한투증권 중국/신흥국 정정영]  • 2Q GDP: '불균형' 성적표 확인  >> 2026년 2분기 중국 경제성장률은 4.3%로 시장 기대(4.5%)와 1분기(5.0%)를 모두 하회했습니다. '불균형'한 경제 성적표가 확인됐습니다. 글로벌 AI 투자 사이클에 동참한 첨단 제조업은 견조한 반면, 내수 회복은 더딥니다. 기업 대비 가계 심리는 상대적으로 약합니다. 이는 중국 정부가 추구하는 방향과는 다른 흐름입니다. 하반기 'K자형 경제'에 균형을 맞추려는…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-28T02:14:59+00:00"
+    },
+    {
+      "id": "tg:EMchina/31899",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31899",
+      "text": "한계 임박. 미국 최대 전력망, 전력 공급 목표 달성 실패. AI로 전력비용 60% 급등  • 미국 최대 전력망 PJM, 세번째 용량 경매 신뢰성 목표 미달성  • 2028/2029년도 전력 공급 부족은 6.8GW. 약 7개의 원전설치 용량 수준  • AI 데이터센터 수요로 PJM 전력 공급 비용 60% 이상 상승. 올해 1분기 전기 요금은 전년동기대비 76%. 가격 상한선 없다면 전기요금은 현재대비 약 70% 더 비싸지는 상황  >> 잊지말자 전력. 전기요금…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-28T02:09:04+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24010",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24010",
+      "text": "[단독] 국힘, ‘삼전·닉스 레버리지’ 손실 국가배상 검토…정부 책임론 국회로 - 이투데이 국민의힘 김은혜 의원이 삼성전자·SK하이닉스 단일종목 레버리지 상장지수펀드(ETF) 투자자들의 손실과 관련해 정부를 상대로 한 국가배상 청구 가능성을 검토 중인 것으로 확인됐다. 금융당국이 고위험 상품의 도입 시기와 시장 충격을 충분히 검증하지 않은 채 출시를 서둘렀는지를 따져 국회 차원의 책임 규명과 피해 구제 방안을 함께 추진하겠다는 구상이다.  https:/…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-28T01:49:18+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24009",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24009",
+      "text": "[단독] 국힘, ‘삼전·닉스 레버리지’ 손실 국가배상 검토…정부 책임론 국회로 - 이투데이\n국민의힘 김은혜 의원이 삼성전자·SK하이닉스 단일종목 레버리지 상장지수펀드(ETF) 투자자들의 손실과 관련해 정부를 상대로 한 국가배상 청구 가능성을 검토 중인 것으로 확인됐다. 금융당국이 고위험 상품의 도입 시기와 시장 충격을 충분히 검증하지 않은 채 출시를 서둘렀는지를 따져 국회 차원의 책임 규명과 피해 구제 방안을 함께 추진하겠다는 구상이다.\nhttps://m.etoday.co.kr/news/view/2608139",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-28T01:49:12+00:00"
+    },
+    {
+      "id": "tg:enc210406/4219",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4219",
+      "text": "[한화오션의 미국 외 국가 군함 수주 기회]\n(태국)\n- 우선 한화오션은 태국 해군이 추진하는 차세대 호위함 사업의 유력 후보로 꼽힌다.\n- 이 사업은 4000톤(t)급 호위함 1척을 건조할 사업자를 정하는 약 8000억원 규모 프로젝트다.\n- 향후 후속함 3척이 추가 발주되면 전체 사업비는 최대 4조원에 달할 것으로 추산된다.\n- 한화오션은 과거 대우조선해양 시절에 태국에 3700t급 호위함을 성공적으로 인도한 경험도 있다.\n(칠레)\n- 남미에서도 새로운 해양 방산 기회를 찾을 전망이다.\n- 이재명 대통령의 칠레 국빈 방문에 맞춰 한화오션에서는 정인섭 사장, 박성우 상무 등 고위 임원 7명이 경제사절단으로 동행한다.\n- 현재 한화오션은 칠레 해군의 전력 현대화 사업 수주에 총력을 기울이고 있는데, 이 대통령의 방문은 우호적 수출 환경에 기여할 것으로 전망된다.\n- 칠레는 1980년대에 취역한 노후 잠수함 2척을 대체할 신형 잠수함을 도입하려는 중이며, 다목적 호위함 건조도 추진하고 있다.\n- 이와 관련해 한화오션은 올해 4월 산티아고 방산전시회에서 칠레 맞춤형 잠수함 ‘오션 2000’과 호위함 ‘오션 4500’을 선보였으며, 현지 기관과는 업무협약을 맺은 바 있다.\n(사우디아라비아)\n- 사우디아라비아는 해군 전력 증강을 위해 잠수함 4~6척(약 5조원)과 6000t급 호위함 5척(약 3조원) 도입을 검토 중인 것으로 알려졌다. 한화오션은 이 중 잠수함 사업 참여를 검토하는 것으로 전해진다.\n(그리스)\n- 그리스에서는 현재 최소 4척의 잠수함 조달을 추진하고 있다.\n- 한화오션은 지난 3월 현지 조선·방산기업 오넥스(ONEX) 그룹과 전략적 협업을 체결했으며, 그리스 해경 및 해군이 발주하는 잠수함 사업 등에 파트너로 참여하기로 했다.\nhttps://n.news.naver.com/article/016/0002676018?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-28T01:41:43+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19357",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19357",
+      "text": "[단독]SK하이닉스, LPDDR6 하반기 양산…샤오미 첫 공급\n차세대 저전력 모바일 D램\n3월 개발완료 후 하반기 양산 출하\n샤오미 차세대 플래그십 스마트폰 탑재\n1c 공정으로 데이터 처리 속도·전력 효율 개선\n소캠 경쟁 본격화 전망\nSK하이닉스가 차세대 저전력 모바일 D램인 LPDDR(저전력 더블데이터레이트)6 제품을 올해 하반기 양산 출하할 계획이다.\n지난 3월 이 제품을 개발 완료한 SK하이닉스는\n이 제품을 중국 샤오미에 모바일 제품용으로 첫 공급할 방침이다.\n이번 출하를 계기로 LPDDR 기반 차세대 AI(인공지능) 서버용 저전력 메모리 모듈인 소캠(SOCAMM)에 대한 메모리 3사(삼성전자·SK하이닉스·마이크론)의 경쟁이 한층 뜨거워질 전망이다.\n28일 업계에 따르면\nSK하이닉스는 올 하반기 LPDDR6를 본격 양산에 나선다. 첫 공급처는 샤오미가 될 것으로 보인다.\n샤오미의 차세대 플래그십 휴대폰에 탑재될 예정이다.\nSK하이닉스의 LPDDR6는 10나노급 6세대(1c) 공정을 적용해 전작 대비 데이터 처리 속도와 전력 효율을 개선했다.\n앞서 지난 3월 SK하이닉스는 LPDDR6의 세계 최초 제품 개발 인증 완료를 발표하며 “상반기 내 양산 준비를 마치고, 하반기부터 제품을 공급할 예정”\n이라고 밝힌 바 있다. 다만 이번 샤오미 공급에 대해서는 “고객사 관련 내용은 확인해 줄 수 없다”고 말했다.\nSK하이닉스는 2013년 일부 모델에 LPDDR3를 공급하면서 샤오미와 거래를 시작했고, 최근 제품인 LPDDR5X까지 꾸준히 모바일용 D램을 공급해온 것으로 알려졌다.\n현재 모바일 D램 시장은 삼성전자와 SK하이닉스가 선두를 달리고 있으며, 이번에 증시에 입성한 중국 최대 메모리 기업인 CXMT(창신메모리)가 치고 올라오면서 3위인 미국의 마이크론과 점유율이 비슷해진 상황이다. 삼성전자는 글로벌 안드로이드 휴대폰에 LPDDR을 공급하고 있고, SK하이닉스는 중국 스마트폰에서 강세를 보이고 있다.\n이번 공급을 계기로 비보, 오포 등 중국 스마트폰 제조사에 LPDDR6 공급이 확대될 것으로 보인다\n. 중국 스마트폰 시장의 경우 보급형 라인업에는 CXMT 등 자국 메모리 채택이 늘고 있지만,\n고성능이 필요한 플래그십 모델에는 여전히 메모리 3사의 LPDDR에 의존하고 있다.\nLPDDR은 주로 스마트폰, 태블릿 PC 등 모바일 기기에 탑재되는 메모리다\n. 전력 소비를 줄여주면서 고성능을 보장해 최근 AI 서버 중심으로 수요가 폭발적으로 늘고 있고, 이에 HBM(고대역폭메모리) 이후의 메모리 시장 성장을 주도할 것이라는 관측이 나온다.\n최근 LPDDR의 공급 단가는 천정부지로 치솟고 있는 D램과 맞먹을 정도로 높아지고 있다\n. 메모리 제조사들이 범용 D램과 HBM 생산에 집중하는 바람에 공급에 병목이 발생하고 있기 때문이다.\n수요처가 다양해지는 동시에 계약 가격도 지속적으로 인상, 메모리사들은 LPDDR에 힘입어 지난 1분기 사상 최고 매출을 기록했다\n. 시장조사업체 트렌드포스는 “모바일 D램 매출은 올해 1분기 64.5% 증가했다”며 “계약 가격의 지속적인 상승에 힘입어 모바일 D램 매출은 2분기에도 계속 증가할 것”이라고 분석했다.\n특히 SK하이닉스와 삼성전자는 마이크론을 제치고 최신 제품인 LPDDR6 양산 준비에 먼저 들어가면서 주도권을 잡았다는 분석이다.\n삼성전자도 지난 1월 업계 최초로 10나노급 5세대(1b) D램 기술을 적용한 LPDDR6를 발표하며 CES(세게계 최대 IT·가전 전시회)에서 혁신상을 수상했다.\nSK하이닉스의 LPDDR6 양산으로 소캠 시장 선점을 위한 레이스도 본격화될 것이라는 관측이다.\n소캠은 LPDDR을 AI 서버용 모듈 형태로 묶은 제품으로, AI 시장이 학습에서 추론 중심으로 바뀌면서 차세대 AI 서버용 메모리로 급부상하고 있다.\n젠슨 황 엔비디아 최고경영자(CEO)는 올해 6월 아시아 최대 규모 정보기술(IT) 전시회 ‘컴퓨텍스 2026’에 마련된 SK하이닉스 부스에 방문해 192GB(기가비트) 소캠에 ‘소캠 사랑해(LOVE SOCAMM)’라는 문구를 남기기도 했다.\n최근 엔비디아는 처음으로 자체 AI 서버용 CPU(중앙처리장치) ‘베라(Vera)’를 공개하기도 했다. HBM이 GPU(그래픽처리장치)와 단짝이라면 LPDDR은 CPU와 커플이다. AI시장이 고도화되면서 CPU 수요도 가파르게 증가하는 만큼 소캠 수요도 더 강해질 것으로 보인다.\nhttps://biz.heraldcorp.com/article/10822453?ref=naver",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-28T01:05:14+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24008",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24008",
+      "text": "🔍\n[단독]SK하이닉스, LPDDR6 하반기 양산…샤오미 첫 공급",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-28T01:02:18+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24007",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24007",
+      "text": "현 정부 판도라의 상자 기금위 회의록.\n전국민 노후자금 운용 투명성을 위해 이듬해에 공개해왔는데 정권 끝나고 공개 예정.\nhttps://m.mk.co.kr/amp/11944336",
+      "images": [
+        "https://cdn5.telesco.pe/file/h-xsbU2qnldx6cXou8-YbRd0OsrnhrAAFSSIK2Y1_C2eFCI0j_PN-SR0t3yREvYhx9RzMpw-uuUZyVs3kFml2zb_cag3C_Yojuidzud9AP5KJNtzwbuwxZJ9-SRTv-n4_5HKnGhpuIV9hbbLjDIrZ6N4t1IAgmcnndIVsJAG7wfm5hujRwjcH-qJSjQItnmt77-aJG2PXZmfu5PgrN08Obzj_dzPOYD23mHDM2hUmZ3Fb8I-dQ8nQ973RurbWbNfT6Qz9rgWOsRnaUbZ2Fsc18aewgAH37nDsATOGpUMjnaDd5RRzV9-ZNkdRluOOncACb-LU5S5IoLfT9ob4xg_VQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-28T00:58:54+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19356",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19356",
+      "text": "중국DUV는 정해진 방향성이지만 AI사이클과 구분할 필요가 있다\n[삼성증권 반도체, IT/이종욱]\n7/27(어제밤) 복수의 언론에서 국가 지원 기업의 immersion DUV 노광장비의 양산 가능성을 언급했습니다. SMIC, CXMT를 상대로 26년 5대, 27년 20대 생산 목표이며 아직은 양산성 검증이 필요한 수준입니다. ASML은 25년 131대의 immersion DUV 제품을 출하했습니다. 이 장비는 주로 7nm, 14nm, 28nm등의 반도체를 생산하는데 사용됩니다.\n아주 새로운 이야기는 아닙니다. 25년 화웨이와 연계된 상하이 위량성에서 193nm Immersion DUV 개발중이라는 이야기가 있었고 이번 양산도 위량성 개발팀이 주도한 프로젝트로 보입니다. 다만 중국이 Immersion 플랫폼을 국산화한 첫번째 사례로 성능 차이를 논외로 하고 나면 ASML의 2008년 기술 수준까지 확보했다는 점에서 의미가 있습니다.\n중국 반도체 생태계는 장기적으로 한국 반도체 산업에 위협 요인인 것은 사실입니다. 또한 중국 반도체의 자립도가 높아지는 것도 불가피한 방향성입니다. 앞으로 반도체 업황이 좋을때나 안 좋을 때나 중국 반도체는 상시적으로 한국 반도체의 위협이 될 것입니다. ASML 등 글로벌 장비 업체에 부정적 뉴스임은 분명해 보입니다.\n그러나 적어도 중국 반도체가 이번 AI 반도체 사이클에 미치는 영향은 제한적입니다. 왜냐하면 이번 사이클의 본질은 미국 하이퍼스케일러들과 엔비디아의 데이터센터 생태계에 있기 때문입니다. AI 반도체와 서버디램은 균질한 커머디티가 아닙니다. 품질과 필드 불량률이 직접적인 TCO 차이로 드러나며 검증에는 많은 시간이 필요합니다. 게다가 중국 반도체는 지정학 리스크로부터 자유로울 수 없습니다. 따라서 중국 AI반도체와 중국 디램이 미국 데이터센터 생태계에 진출하는 상황은 상상하기 힘들고, 중국 반도체의 발전 정도에 따라 구글의 Capex가 변화할 가능성도 당분간은 없어 보입니다.\n우리는 중국 DUV가 노광장비 기업을 넘어 미국 반도체 주가 하락으로 이어지는 것이 꼬리가 몸통을 흔드는 전형적인 현상이라고 생각합니다. 이를 통해 현재 반도체의 취약한 주식 센티멘트를 재확인하고 있을 뿐입니다. 중국 변수는 이번 사이클의 peak-out 시점에 대한 것이 아닌 다음 사이클 저점의 깊이에 대한 논쟁이며 현재 약 5배 내외에 거래되는 메모리 3사 P/E 멀티플에 상당히 반영되어 있습니다. 그러나 우리가 지금 필요한 것은 이번 사이클이 peak-out했냐의 증거를 찾는 것이고 AI 데이터센터 투자 지속성 논란에 중국 반도체의 영향은 제한적입니다. 이번 사이클의 본질인 AI 데이터센터 투자의 지속성 논란을 정면돌파하는 이벤트가 나올지가 핵심이며 이것에 주목하고 있습니다.\n감사합니다.\n(2026/7/28 공표자료)",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-28T00:54:40+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24006",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24006",
+      "text": "JP모건) 중국의 이머전 DUV 장비에 관한 언론 보도는 중기적으로 ASML의 실적 궤도에 영향을 미칠 가능성이 낮습니다\n뉴스 내용: The Information의 미확인 기사에 따르면, 익명의 중국 국영 지원 제조업체가 자국에서 개발한 이머전 심자외선(DUV) 리소그래피 장비 생산을 시작했다고 하며, 이는 ASML이 지배하고 있는 영역입니다. 초기 생산량은 제한적일 것으로 보이며, 올해 약 5대, 2027년에 약 20대 수준입니다. 인도는 2026년에 SMIC, 화홍반도체(Hua Hong Semiconductor), 창신메모리테크놀로지(ChangXin Memory Technologies)를 포함한 주요 국내 칩 제조사들을 대상으로 이루어질 것으로 예상됩니다. 이머전 DUV는 수출 규제로 EUV 시스템이 차단된 이후 중국 기업들이 여전히 접근할 수 있는 가장 앞선 리소그래피 범주이며, 자국산 EUV 장비는 여전히 프로토타입 단계에 머물러 있는 것으로 전해집니다. 해당 보도는 이 장비들이 성능과 신뢰성 면에서 여전히 뒤처져 있으며, 양산에 앞서 추가 테스트가 필요하다고 언급합니다. ASML 주가는 8% 이상 하락하며, 약 3.5% 하락한 광범위한 SOX 지수를 하회하고 있습니다.\n우리의 견해: 우리는 시장의 반응이 보도에서 제시된 내용에 비해 과도해 보인다고 판단합니다. 소수의 이머전 DUV 장비를 생산하는 것은, 수천 회의 웨이퍼 런에 걸쳐 수율, 오버레이, 처리량, 신뢰성이 관건이 되는 고량 양산에 사용될 수 있는 장비를 생산하는 것과 같지 않습니다. 중국은 이미 수년간 저사양의 i-line 리소그래피 장비를 제조해 왔으나, 전공정 생산에서 ASML의 시장 점유율에는 아무런 영향을 미치지 못했습니다. 이는 유용한 참조점인데, \"작동하는 장비\"에서 \"양산에 적합한 장비\"로 가는 데에는 오랜 시간이 걸리기 때문입니다. 중국 제조사들이 자국산 프로토타입 장비를 구매하기는 하겠지만, ASML 장비를 이러한 장비로 대체하는 것은 생산 역량에 매우 부정적일 것이며, 우리는 이들 기업이 앞서 언급한 핵심 지표에서 ASML 장비와 경쟁력을 갖추지 않는 한 그렇게 할 가능성은 낮다고 봅니다. 우리는 ASML 자신도 2000년대 후반에 \"작동하는\" EUV 장비를 보유했지만, 양산에 사용할 수 있는 장비는 2018년에야 나왔고, 의미 있는 고량 양산에 사용된 것은 2020년대에 들어서였다는 점을 강조하고자 합니다. 다만 이는 중국의 장비 자급자족 스토리에서 또 하나의 데이터 포인트이며, ASML의 중국 매출에 대한 장기적 리스크를 높이는 요인입니다. 그러나 우리는 증착, 금속화, 에피택시 등에서 ASML의 장비 업계 동종 기업들이 이미 중국에서 실질적인 현지 경쟁자를 두고 있다는 점도 강조하고자 합니다. 그럼에도 선단 공정에서는 이들 동종 기업 중 어느 곳도 유의미한 점유율을 잃지 않았으며, 이들 기업은 직전 반도체 사이클 당시의 밸류에이션 대비 프리미엄에 거래되고 있습니다. 따라서 우리는 ASML이 미국/일본 동종 기업들과 다르게 취급되어야 할 이유가 없다고 봅니다. 우리는 이번 주가 움직임을 ASML의 실적 궤도 변화라기보다는 헤드라인에 따른 센티먼트 주도의 디레이팅으로 봅니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-28T00:45:20+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24005",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24005",
+      "text": "JP모건 APAC테크 관련 코멘트\n(1) 반도체 매도세 지속… SOX 지수 -2% (고점 대비 현재 -21%). (i) 엔비디아는 OpenAI의 주요 데이터센터 프로젝트에 2,500억 달러 규모의 백스톱을 제공할 수 있다는 헤드라인에 -5% 하락했습니다. 이는 순환 출자성 자금조달(circular financing) 우려를 키우는 동시에, 엔비디아가 자본지출(capex) 수혜자에서 하이브리드 형태의 자본지출 집행자로도 그 경계가 흐려지고 있는 것 아니냐는 의문을 제기합니다. (ii) ASML은 The Information의 기사 이후 -6% 하락했는데, 해당 기사는 (익명의) 중국 국영기업이 이머전 DUV 리소그래피 장비 생산을 시작했으며, SMIC 및 CXMT와 같은 내수 고객을 위해 26년에 5대, 27년에 20대의 시스템을 생산할 계획이라고 전했습니다. 이는 어제 CXMT의 대성공적인 IPO 이후, AI 공급망에서의 \"중국발 경쟁\"에 대한 의문을 한층 더 키웁니다. 다만 해당 기사에 대해서는 상당한 반박이 제기되었으며, EMEA 테크 스페셜리스트 세일즈인 Scott Silver가 이를 상세히 다루고 있습니다(링크). 애널리스트 Sandeep은 이번 조정이 과도하다고 보면서, \"소수의 이머전 장비를 생산하는 것과, 수천 회의 웨이퍼 런에 걸쳐 수율, 오버레이, 처리량, 신뢰성이 관건이 되는 고량 양산에 사용될 수 있는 장비를 생산하는 것은 같지 않다\"고 지적했습니다.\n(2) 반도체 논쟁… 핵심 강세/약세 논거 5가지. 어느 편에 서 있든, 반대편의 시각을 아는 것이 중요합니다. 그래서 정리해보면… 약세론자들은 다음과 같이 주장합니다. (i) 업종이 사이클 후반부에 있어 실적이나 가이던스와 같은 좋은 뉴스에도 주가가 더 이상 긍정적으로 반응하지 않습니다. (ii) 최근 하이퍼스케일러들의 자본지출 상향이나 엔비디아의 2,500억 달러 데이터센터 보증조차 주가를 끌어올리지 못합니다. (iii) 자본지출의 정점에서 자본지출의 지속 기간으로 초점이 이동하는 것은 흔히 사이클 후반부이며 자본지출 성장이 둔화되기 시작할 때 일어납니다. (iv) 설령 이번 사이클이 28년까지 이어지는 연장된 강세 사이클이라 하더라도, 시장은 그것을 오늘 가격에 반영할 만한 확신을 갖기 어려울 것입니다. (v) 업종의 이익률이 과도한 수준이며 언젠가는 정상화될 것입니다. 한편 강세론자들은 다음과 같이 주장합니다. (i) 업종의 EPS 성장은 26/27년 모두 여전히 매우 강력하며, AI 자본지출 성장도 계속 상승하고 있습니다. (ii) 공급 대응은 28년 초까지는 실질적으로 나타나지 않기 때문에, 실리콘의 수급 부족은 내년에 더욱 심화될 것입니다. (iii) EPS 추정치 상향이 강력합니다. (iv) 지난 1개월간의 조정은 포지셔닝 청산(워시아웃)이며, 여기에 펀더멘털 내러티브를 덧씌워서는 안 됩니다. (v) 다수의 종목이 이미 -50% 하락했습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-28T00:42:43+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24004",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24004",
+      "text": "번스타인: 글로벌 메모리, 엔비디아·브로드컴 — 전략적 파트너십에 대한 단상 (7/27)\n지난 금요일 샌프란시스코에서 한국 정부 주최로 열린 AI 서밋에서 삼성전자, SK하이닉스, 엔비디아, 브로드컴이 메모리·파운드리·AI 데이터센터에 걸친 파트너십을 발표했습니다.\nSK하이닉스와 엔비디아는 7월 7일 발표 내용에 대한 의향서(LOI)를 체결하고 세부 사항을 공개했습니다. 파트너십 규모는 메모리를 포함해 미화 5,000억 달러 이상이며, 2027년 SK텔레콤을 위해 가동 예정인 2GW 규모의 베라 루빈 DSX AI 팩토리가 포함됩니다. 번스타인은 이번 메모리 파트너십에 차세대 AI 메모리(HBM4 및 그 이후?)의 장기 기술 개발과 안정적 공급이 포함되어 SK하이닉스가 \"성장의 기반을 확장\"할 수 있게 한다는 점에 주목했습니다. 또한 SK그룹이 향후 5년간 다른 글로벌 테크 기업들과 2,500억 달러 규모의 메모리 공급 협력을 추가로 진행할 것으로 보도된 점도 언급했습니다.\n삼성전자와 브로드컴은 2030년까지 5년간 HBM을 포함한 메모리와 파운드리 서비스에 대해 2,000억 달러 규모의 MOU를 체결했습니다. 파운드리 서비스는 무선 광대역 통신 솔루션 등 제품을 위한 2nm 이하 공정에 집중하며(다만 AI ASIC은 어떻게 될지 의문), \"AI 및 네트워킹\" 실리콘을 위한 2.3D(Cube-E 및 -R, TSMC CoWoS-L 및 -R과 유사) 및 2.5D(Cube-S, TSMC CoWoS-S와 유사) 첨단 패키징 기술도 포함됩니다.\n번스타인은 이번 발표가 AI에서 메모리의 중요성을 부각시킨다고 평가했습니다. 발표된 금액의 대부분은 메모리를 위한 것으로, 엔비디아와 브로드컴이 메모리 공급 확보의 필요성을 느끼고 있음을 시사한다고 봤습니다. 발표의 영향을 정밀하게 계량화할 수는 없지만, 투자자들의 이해를 돕기 위해 컨센서스 기준 메모리 산업 연간 매출이 2027년과 2028년 모두 약 1조 3,000억 달러에 이를 것으로 전망된다는 점을 참고로 제시했습니다. 참고로 2026년은 약 9,000억 달러입니다.\nTSMC에 대한 영향은 미미할 것으로 봤습니다. 브로드컴이 삼성에서 AI ASIC의 웨이퍼 또는 첨단 패키징을 생산할지는 불분명하나, TSMC 캐파에 대한 수요 대기열이 존재하는 만큼 삼성이나 인텔로의 점유율 이탈이 있더라도 TSMC의 가시적 실적에는 영향이 없을 것이라는 판단입니다.\n번스타인은 메모리에 대해 건설적 시각을 유지하며 최근 조정을 좋은 진입 시점으로 평가했습니다. 메모리가 로직 반도체보다 AI에 더 중요하다고 보며 수요에 긍정적이나, NAND에서의 중국발 장기 위협을 우려해 키옥시아는 Underperform으로 평가합니다. DRAM에서는 중국이 EUV 없이 경쟁하기 어려울 것으로 보여 위협이 훨씬 낮으며, 이에 따라 삼성전자, SK하이닉스, 마이크론은 Outperform을 유지합니다.\n이번 딜들은 NVDA와 AVGO의 공급 우려를 완화하는 데 도움이 될 수 있다고 봤습니다. 양사 모두 강한 AI 성장을 가이던스로 제시했으며(NVDA는 CY25-27 합산 약 1조 달러로 내년 5,000억 달러 근접 시사, AVGO는 내년 1,000억 달러 이상), 두 회사 모두 Outperform입니다.\n투자 시사점으로는 삼성전자 Outperform 목표주가 440,000원, SK하이닉스 Outperform 목표주가 3,300,000원, NVDA Outperform 목표주가 315달러(데이터센터 기회는 거대하며 아직 초기 단계로 추가 상승 여력 존재), AVGO Outperform 목표주가 550달러(강한 2026년 AI 궤적이 2027년 이후 가속화될 전망이며 소프트웨어, 현금 활용, 우수한 마진과 FCF가 뒷받침)를 제시했습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/d23qw7YiC-2MzTjmuEKHVcLSPbN8VHbdK7MychiY8IXwBWtcY8Kh5T7ZqgZ-Ke8AnYsYk4OR_uCYu-K_B8KQgfOWxsZWo3cVONmbVbyCbhpE1Y0uRH5s3aqwp6Qh0k9eOn5xiMlTU0WD5JD7yNt_oGiFdXn3zrrJvhbdKDAekV-4q8_qpbWHu8R0o1ax6DDEvT-pQaTtsFnm_WfbSRJ6nFtXuWpf1EzPu7MgbPjpZL492tRz0G_wNN4V4bA3g5duR2IKwKug53GAITQr-GQHZYRrwn_cFJ3q_-NRjjCRBewPvXwU74ApAJmycmSXPZ34W8X312wJAA3oHZUF5hK4eQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-28T00:39:00+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24003",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24003",
+      "text": "[속보] 코스피 급락에 매도 사이드카 발동 | 연합뉴스\nhttps://www.yna.co.kr/view/AKR20260728034300008",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-28T00:08:31+00:00"
+    },
     {
       "id": "tg:EMchina/31898",
       "source": "telegram",
@@ -139,47 +388,6 @@
       "published_at": "2026-07-27T23:10:00+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23999",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23999",
-      "text": "현지 내용을 조사해보면, 이는 중국 교통대학교 교수가 6월 내부 회의에서 언급한 내용으로, 해외 언론이 이를 기사로 지금 발간한 것으로 보입니다.\n정확히 어느 회사인지 밝히지 않아, 실제 진도는 좀 더 확인이 필요해 보입니다.\nhttps://news.einfomax.co.kr/news/articleView.html?idxno=4427124",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-27T23:09:32+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24000",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24000",
-      "text": "현지 내용을 조사해보면, 이는 중국 교통대학교 교수가 6월 내부 회의에서 언급한 내용으로, 해외 언론이 이를 기사로 지금 발간한 것으로 보입니다.   정확히 어느 회사인지 밝히지 않아, 실제 진도는 좀 더 확인이 필요해 보입니다.   https://news.einfomax.co.kr/news/articleView.html?idxno=4427124",
-      "images": [
-        "https://cdn5.telesco.pe/file/d_H6Ko70n6yxzEdmJ5riXaNpMNp-ypWuBoMRN1jMvgSDVzWwwKz6lxoEHegA4mvdZ1Sm41H5buOFnGxR7IAs2W7GUOxmTVGtgLdzLx0HI_cTxpLD0Lp_rmuvyRxbVuVzTSnRliL402wdgrIQNN0eX06FHXOhkWtnNjSfEBbluja7UFgJwTiv9ExPlRIqTYba2TWnEPGwjkIl6YkkNmjDHl24O4ltp582ZEimq_8skUHSlvTbyCodNRgXC2XIKzGWcA9e2s3K0RSHxwoBIjDmVD3QiNrcn07xjfWV_5w-psbXF9WZ8SyeJLE_6NV178VMYk97bgdXBuTlH_h1X7cpyg.jpg",
-        "https://cdn5.telesco.pe/file/kqq_jdcAP83p8vWVsqSYzx8RI1P6ypiLaGD4l8fLhbCawF0ij22PXOKJUsV0DcJlXtOoxSlZbSsUWf57IaxQXxemYTKewBgo_r-c6DX07DUyolTKo8apel29bRK7MedWKz3nVuasgj1RSaznkM-Z1J9XStweh6d0DksqCHmQvZeaovrTFAXTu7HJG9NwgjL8UYCq6PkIKw0dwY-CGvVDZrxdXct0EzcYQqPOIXcpGtP0a-9gECKUAtIdwGW8EV1QZGS3bWaywZUcp3Sk35L_pWl3fifSqJK7rzIcWt_LPADvbewbBW5cchszqZ3v8mAODC9BIA3JrHruqxDHarbJcw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-27T23:09:32+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23998",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23998",
-      "text": "하닉 하한가 1주 매도 누구지",
-      "images": [
-        "https://cdn5.telesco.pe/file/uriL1fGgVi4JXLXxoRlD8HDYh_LUvB5UVfl__4nVEd3dLt4eNqdUMNaP5NnBwoLJ9FUPo0cBtRbPsVfodRaPbuYhNnSc-jH3yjqckj9KokwhPkeuMk9KK-7rK0FyFwKwwJ6QiyU4jC5CcDU1jhJL8XZ-77PE9jXJcro8OmBk9VUOft8U-mZ8Q_K1K0KTp78V1Cnld48_orwGW-_7V9gvLfLHw3yOXDmExjP5ME5bTg1D5cQGcPizogyZXGl7OkidRCYu9isY05eklVaFImQC0_k319dIxP74vOIH6N3SWx1BqQrq8-fH00m-Qtlk_R38y4oQTG_3naekpPaBAfq_yA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-27T23:05:49+00:00"
-    },
-    {
       "id": "tg:bornlupin/19348",
       "source": "telegram",
       "author": "bornlupin",
@@ -245,6 +453,20 @@
       "published_at": "2026-07-27T23:00:08+00:00"
     },
     {
+      "id": "x:OpenAI:2081877298538746165",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2081877298538746165",
+      "text": "RT by @OpenAI: Last week, we made ChatGPT Work available to enterprises. It's an awesome product. So for ChatGPT Enterprise customers, enroll by August 21, and each teammate who tries Work for the first time within two weeks gets up to $200 in credits, valid for 14 days. Already a customer? Ask your account team. New to Enterprise? Get in touch. https://openai.com/contact-sales/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2079943544844988416/2oWkrmHN?format=jpg&name=800x419"
+      ],
+      "summary_ko": "@OpenAI의 RT: 지난주 우리는 ChatGPT Work를 기업에 제공했습니다. 정말 멋진 제품입니다. 따라서 ChatGPT Enterprise 고객의 경우 8월 21일까지 등록하면 2주 이내에 처음으로 Work를 시도하는 각 팀원은 14일 동안 유효한 최대 $200의 크레딧을 받게 됩니다. 이미 고객이신가요? 계정팀에 문의하세요. 엔터프라이즈를 처음 사용하시나요? 연락하세요. https://openai.com/contact-sales/",
+      "published_at": "2026-07-27T23:00:02+00:00"
+    },
+    {
       "id": "tg:EMchina/31895",
       "source": "telegram",
       "author": "EMchina",
@@ -296,6 +518,20 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-27T22:26:42+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2081864750296658008",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2081864750296658008",
+      "text": "There’s been a lot of speculation about where we stand on open-weights models. We’ve outlined our views in full here: https://www.anthropic.com/news/position-open-weights-models",
+      "images": [
+        "https://pbs.twimg.com/card_img/2081861292126576640/GeaIdRKp?format=png&name=800x419"
+      ],
+      "summary_ko": "오픈 웨이트 모델에 대한 우리의 입장에 대해 많은 추측이 있었습니다. 우리는 여기에 우리의 견해 전체를 설명했습니다: https://www.anthropic.com/news/position-open-weights-models",
+      "published_at": "2026-07-27T22:10:10+00:00"
     },
     {
       "id": "tg:enc210406/4217",
@@ -372,42 +608,6 @@
       "published_at": "2026-07-27T21:26:05+00:00"
     },
     {
-      "id": "tg:EMchina/31891",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31891",
-      "text": "이란 외무부 대변인: 이란-미국 정보 교환 유지. 중재자 노력 지속  伊朗外交部发言人：伊朗与美国之间仍在交换讯息，调解方也在持续开展斡旋工作。  https://n.news.naver.com/article/001/0016215634?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-27T21:11:46+00:00"
-    },
-    {
-      "id": "tg:EMchina/31890",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31890",
-      "text": "SemiAnalysis: 키미 K3, 엔비디아 최강 오픈소스 모델 압도. 미국 위원회 모드의 실패  • Kimi K3가 벤치마크 테스트에서 엔비디아 오픈소스 모델 Nemotron3 Ultra 넘어섬  • 엔비디아의 '위원회 모델'이 집단 사고 및 내부 소모 초래. 중국 AI 실험실의 자유 시장 경쟁 메커니즘이 뚜렷한 우위  SemiAnalysis：Kimi K3碾压英伟达最强开源模型，美国委员会模式失灵 SemiAnalysis发文指出，月之暗面Kimi K3在基准…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-27T20:55:50+00:00"
-    },
-    {
-      "id": "tg:EMchina/31889",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31889",
-      "text": "중국 AI모델 통한 비용 절감 효과 기대  ========================  ~ GIC의 브라이언 여 최고투자책임자(CIO)는 23일(현지시간) 파이낸셜타임스(FT)와 인터뷰에서 \"중국을 비롯한 여러 국가에서 오픈웨이트(가중치 공개형) AI모델이 점점 더 많이 등장하고 있다\"며 \"이는 비용 절감을 가져와 글로벌 AI 생태계에 긍정적인 영향을 미칠 것으로 예상한다\"고 말했다  ~ 그는 \"비용이 줄면 더 많은 기업과 산업 분야에서 더 빠르고 광범위하게…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-27T20:52:17+00:00"
-    },
-    {
       "id": "x:OpenAI:2081833351678406878",
       "source": "x",
       "author": "OpenAI",
@@ -448,30 +648,6 @@
       "published_at": "2026-07-27T20:02:25+00:00"
     },
     {
-      "id": "tg:EMchina/31888",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31888",
-      "text": "유가 -5%대",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-27T19:53:44+00:00"
-    },
-    {
-      "id": "tg:EMchina/31887",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31887",
-      "text": "[한투증권 중국/신흥국 정정영]   • 7월: ‘K자형 회복’에 균형을 맞출 시도   >>7월 월보를 작성했습니다. 불편한 K자형 경제/주식 흐름이 지속되고 있습니다. 글로벌 AI 투자 사이클과 함께 첨단 제조업 및 대외 수요 중심의 회복세가 나타나고는 있으나 내수를 설명하는 투자와 소비는 상대적으로 부진합니다. 본토 증시 하드웨어 테크 주식이 강세를 보인 반면, 가계 상황을 더 가깝게 반영하고 있는 홍콩 증시는 반등 탄력이 미미합니다. 1분기 대비 둔화될…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-27T19:47:51+00:00"
-    },
-    {
       "id": "x:OpenAI:2081794871795589485",
       "source": "x",
       "author": "OpenAI",
@@ -498,32 +674,6 @@
       "published_at": "2026-07-27T17:01:38+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23997",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23997",
-      "text": "닉스ADR도 오늘 신저가 찍었네요.",
-      "images": [
-        "https://cdn5.telesco.pe/file/NmqqV-seqSJJVJbQ9fjHgXyTx_IO11OuheMV25pYniGG4IYsxZLnmO7lY1yG6md6rBP3Sf6ePvwJK-kndSLj3rqm0xwCAaryVB_DVjfgpiv4W6jC90hIY7Ji1LH6ZgIutp-0CXXPXl1R5rrIeX5Xa5G5wq4QdZk-e3EhoeuRGIcjbBfZ5oZ8bNCpFwwhLF0DwctCqcyTPZyiDpcqjDl2eUN8iqS2aeJ74ad5MDkRE2886UzPW9kiBAEiWnxUrE-SYBs4yx_UZBMugVfd9NJvv07e7QwbZJ-XNrqxNThCNQRpX-I1XCqYJUIh43rGGaIP-BPhqsYjonG2uYMrIvmTrQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-27T15:58:38+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23996",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23996",
-      "text": "트럼프 대통령이 월요일 악시오스와의 인터뷰에서 이란에 대한 미국의 공습을 일시 중단하기로 한 것은 협상에 한 번 더 기회를 주기 위한 결정이었다고 밝히면서도, 외교가 실패할 경우 확대된 군사작전으로 돌아갈 것을 명령할 수 있다고 강조했습니다.\nhttps://www.axios.com/2026/07/27/trump-interview-iran-bombing-pause",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-27T15:49:04+00:00"
-    },
-    {
       "id": "x:ylecun:2081764152192696804",
       "source": "x",
       "author": "ylecun",
@@ -538,30 +688,6 @@
       "published_at": "2026-07-27T15:30:25+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/23995",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23995",
-      "text": "FT) 아마존, 모바일 서비스용 위성 컨스텔레이션으로 머스크의 스타링크 겨냥\n거대 기술기업, 글로벌 소비자 서비스 제공 위해 5,000기 이상의 위성 발사 신청\n아마존이 일론 머스크의 스타링크에 맞서려는 노력을 강화하는 가운데, 전 세계 소비자들에게 휴대전화 서비스를 제공하기 위해 5,000기가 넘는 위성으로 구성된 컨스텔레이션을 발사할 계획입니다. 이 거대 기술기업은 월요일, 2028년까지 해당 컨스텔레이션을 배치하기 위한 허가를 미국 연방통신위원회(FCC)에 신청했다고 밝혔습니다. 회사 측은 이 시스템이 음성, 메시징, 데이터 및 긴급 서비스를 제공하게 될 것이라고 말했습니다. 아마존은 신청서에서 \"아마존은 오늘날 기존 네트워크가 닿지 않는 곳에서 생활하고, 이동하고, 일하는 수백만 명의 사람들을 포함해 D2D(direct-to-device) 연결의 가능성을 실현하기를 기대하고 있습니다\"라고 밝혔습니다.\n이번 신청은 그동안 스페이스X의 스타링크 서비스가 지배해 온 위성 모바일 연결 시장으로 아마존이 내딛는 첫걸음입니다. 머스크의 그룹은 T-모바일 US, 영국의 버진 미디어 O2와 같은 기존 통신사업자들과 제휴를 맺고, 이들의 기존 네트워크가 도달하지 않는 지역에서 고객들에게 전화 서비스를 제공해 왔습니다.\n스타링크는 150개가 넘는 국가에서 운영되며, 자사 위성 컨스텔레이션을 통해 고속 인터넷 연결을 제공하고 있습니다. 지난달 파이낸셜타임스는 스타링크가 여기서 한 걸음 더 나아가 미국 소비자를 대상으로 직접 모바일 서비스를 출시할 수 있으며, 이는 미국의 수십억 달러 규모 이동통신 시장을 뒤흔들 조치가 될 것이라고 보도한 바 있습니다. 아마존의 이번 움직임은 보다폰과 제휴한 AST 스페이스모바일 등이 참여하고 있는 \"다이렉트 투 디바이스\" 모바일 시장의 경쟁을 한층 격화시킬 전망입니다. 아마존은 최근 경쟁사 글로벌스타를 116억 달러에 인수하면서 확보한 전파 스펙트럼을 활용할 것이라고 밝혔습니다.\n시애틀에 본사를 둔 이 회사는 광대역 서비스를 위해 390기 이상의 위성을 궤도에 올려놓았으나, 추가 배치 노력은 지연에 시달려 왔으며, 스타링크의 모회사인 스페이스X가 운용하는 10,000기 이상의 활동 위성에 비하면 그 규모가 미미한 수준입니다. 아마존은 지난 6월 FCC로부터 이달 말까지 약 1,600기의 위성을 발사해야 하는 기한에 대해 연장을 승인받았습니다.\nhttps://www.ft.com/content/83e93ce0-1ebd-4b04-a70c-82ff7b64a5f4?syn-25a6b1a6=1",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-27T15:12:43+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23994",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23994",
-      "text": "중국 DUV 관련 개인생각\n아직 뉴스의 팩트체크는 되지 않아 사실인지는 모르겠으나 큰 이슈인 것은 사실\n미국의 대중 반도체 장비규제는 지금까지 반도체 기술격차를 유지시켜주는 하나의 장벽이었음\n대표적인것이 고선택비 식각 장비와 EUV 장비\nDUV 장비 양산이 크리티컬하지 않다고 볼 수 있으나 기존 중국의 DUV 장비 기술 완성 시점이 예상보다 빨라짐에 따라 ASML이 가진 기술적 이점이 이제는 쓰루풋 빠른 EUV 와 HIGH NA EUV 밖에 남지 않았다는 것은 주가 하락의 명분이 될 수 있음\nDUV 멀티패터닝으로 4나노와 1B까지는 가능하다는것이 현재의 기술적 정설이니 중국의 증설에 대해서 다시 한번 고민해봐야 할 것 같음",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-27T15:05:58+00:00"
-    },
-    {
       "id": "tg:globaletfi/20790",
       "source": "telegram",
       "author": "globaletfi",
@@ -572,75 +698,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-27T15:01:08+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23993",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23993",
-      "text": "유럽 반도체 장비사 동반 하락\nAsml, Besi는 거래 일시 중단",
-      "images": [
-        "https://cdn5.telesco.pe/file/HPmDBzTplwKGpeFkgZBuqwxZzR9xMaPoBkaBaUgz3d3oRz53t58AudXfpMeZU_piE-7_4aZCp7gQ5IutGzA7JxlyE87MbIhd0j7j7kXG6gwGp3dMY1zE58A83uJ6sWGZdfcEn5_asyu97Q48fUNZUpxx4clRCwt5n51TFa9sQyH5-xB2Iz2rETW3Sn_oDaKK6lk7Ffwk_6vgkjeUZLG1A5YkJBd2Lqsyu6iZwf-p9gg2D9AYD4i09wft1xmSMd5g9DrWz_wWcJxRFmAYUSMUVOFy0w8kxr2sbxQLaVpusoR57IJHgP9X1uvj7CXfTPkMJiX0ILeBkgVDGcPu3GQrNA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-27T14:51:21+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23992",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23992",
-      "text": "더 인포메이션) 중국, 자국산 DUV 반도체 제조 장비 양산 개시… 자국 반도체 산업의 진전 https://www.theinformation.com/articles/china-starts-mass-producing-homegrown-duv-chipmaking-tools-advance-local-chip-industry",
-      "images": [
-        "https://cdn5.telesco.pe/file/gCCgsJVqGAanekj5z4qwLlsjRCOfg7xaXiJuVvPoTZNoTKCMtM3AICHFkguBgCkgY7S4TaDHsZ1JHe21lpqf8v0EVc-JnET3icnQsI7wYfbRKNIbHFgWz_SKy2rV2U00wjMGoFuaX8wCBD8A02LKi5yDc1x4-6nR3iNfahom1Lp46rCuOBBKKoirqdpuiYfVw2KpnGU3e5HI_-K6ssyNQEVq3Cvn83v5O0ElY4YcryMamq2kLX1ETwG-xRH8SXmtjnUc6Z11P6vHs5UjXIekb538sUw_svBarAMFvNBU3SSIskcs_AmeBStzCfudH16qeITOW-sat3oV6Xp0BA29TQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-27T14:18:45+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23990",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23990",
-      "text": "TD코웬) 주간 자금 흐름 (7월 24일) — 투자자들이 아시아 신흥국 주식 펀드로 몰려들다\nTD 매크로 리서치 인사이트\n글로벌 채권 자금 유입이 계속 둔화되는 가운데, 이번 주에는 아시아 신흥국(EM) 자금 흐름이 선두 자리를 차지했습니다. 중국에서는 국가 지원 펀드들이 돌아왔으며, 중국 주식 자금 유입은 지난 3주간 총 460억 달러에 달했습니다. 한국과 대만에서는 투자자들이 최근의 매도세(코스피 고점 대비 -26%, 대만 가권지수 -8%)에 역행하는 모습을 보이는 듯하며, 4주 누계 유입액은 각각 160억 달러와 120억 달러에 이르렀습니다.\n글로벌 채권 펀드로의 자금 유입은 2주 연속 진정되었습니다(150억 달러, 전주 200억 달러). 유입 감소는 어느 한 주요 지역에 국한되지 않았으며, 글로벌 밸런스드, 미국, 유럽 채권 펀드 모두 전주 대비 유입액이 감소했습니다. 미국에서는 국채 펀드만이 비슷한 수준의 유입을 유지한 반면(36억 달러, 전주 38억 달러), 투자등급(IG) 회사채와 하이일드는 모두 더 낮은 합계를 기록했습니다. 이러한 둔화는 4월 이후 높은 유입 모멘텀을 보여 온(주당 평균 19억 달러) 지방채(Muni) 자금 흐름(3억 달러)에까지 확대되었습니다. 유럽에서는 총 11억 달러 가운데 9억 6,000만 달러가 국채 펀드로 유입되었습니다.\n글로벌 주식 자금 흐름은 이번 주 신흥국 펀드를 크게 선호했습니다. 미국에서 -70억 달러의 자금 유출이 발생하면서 선진국(DM) 유입액은 총 8억 달러에 그쳤습니다. 반면 신흥국은 중국(210억 달러), 대만(50억 달러), 한국(10억 달러) 주식 펀드로의 강한 유입에 힘입어 290억 달러를 기록했습니다. 중국에서는 확실히 국면이 전환되었습니다. 2026년 상반기 자금 유출이 거의 2,000억 달러에 달한 이후, 중국은 기술주 주도의 증시 급락을 막기 위해 국가대표팀(National Team)을 비롯한 국가 지원 펀드와 보험사들을 동원했습니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/TRAXFy4BlsncACnqMP5Slcqrlm4jtmVeq4LYrl1zS1C2LMKjXfpuCW4AMAS-v4KZOxffxjp5T4qxQCYffBNH19sN25_l4rGV_6uRYZw3JPpI0cq9aYG117LT_FTdDO1hMZAK9iIvX55uSkqnRN7AvdQdlwgkDozNJqVW4DAK7G6VTd3XOq5lRAUf-mX5D5qhgsRLMu74ve-FwjBe9PCAf4JMtECXwgXILZCn7MIqcPWwJHhD526jBenlaWuLm2xIngom4Nc_gJXOmnURw_dr5OF2Z90PxCTc716PkkNON70VhqIGN0Y-iBH_Z-8WV_u_7tJbXndiqvvjetWvyxbNeg.jpg",
-        "https://cdn5.telesco.pe/file/CG0Y1TJuh5lp3UUfiTcv4w_gDq5jiR1CjjQXQFNY0cF_WkYP6H4JaPdQgSasD-spfjPEVtCh_ds5ka5RmXBVh7yYxX3kmZx3PT481_FcvRkjca-EY1moMgwm5UAqUbbaVLLGNC3ZEqg9LEIwvIInru6zxuP30ZLomgJ6xKsrbUuAVMDowJNhi_ntph5bujS0dyGi8xIBKwkSkcs5ykmh_D4-4m8EgRN05Q6QWRHOz-9GKX7mkPuwvfyDc3n1-RPpEFp_oXOwkH3mfludrviD7I-bdtwVpYbSOctmRnCnYzRuG4MEBxT30biZTWfiMRJQ85saTsQMqEP4thVScRFl-Q.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-27T14:08:18+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23989",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23989",
-      "text": "더 인포메이션) 중국, 자국산 DUV 반도체 제조 장비 양산 개시… 자국 반도체 산업의 진전 https://www.theinformation.com/articles/china-starts-mass-producing-homegrown-duv-chipmaking-tools-advance-local-chip-industry",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-27T14:06:19+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/23988",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/23988",
-      "text": "신저가 기록중인 SPCX\n아직 이 가격도 비싸다 숏 홀딩",
-      "images": [
-        "https://cdn5.telesco.pe/file/fQ1DJ66K1r1eB21Dpqpw0jyAX9JhtPAmaFGNLrrVc9Su5YwgmGMXLrCTOIeKnofweocfm5VxyKYViquCcAR15xdlz6AGeduu_6rmmnik_eP2XAD5J7R59l9-NwCkUj1KrEI7RlAWKQjittm8q1Q3sbio8VcXzf5-mfipFulr34wP0fBNgV69NK99I06AbcYu7MMQkpADVld1eHI6ZVE0C4xnyUGAIY3QKHdFEVQkRBTUQvMw7Daj6EM4YgaD5tlTbraWfenPrf1yUbIeiOyXStswX_FaOeYso380kKSd6VEjTprC87jhtP2TPNhbchTsSUvOqvRSqjv3sQNwzGIAPQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-27T13:59:19+00:00"
     },
     {
       "id": "tg:globaletfi/20789",
@@ -735,18 +792,6 @@
       "published_at": "2026-07-27T11:22:18+00:00"
     },
     {
-      "id": "tg:bornlupin/19344",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19344",
-      "text": "번스타인, AI 파트너십 발표 후 메모리 반도체주 '매수' 의견 재확인\n삼성전자, SK하이닉스, 마이크론에 대해 Outperform 등급,  매수 의견을 부여\n최근\n메모리 섹터의 주가 조정을 \"좋은 매수 시점(entry point)\"으로 보았으며, AI 분야에서 메모리가 로직 반도체보다 더 중요\n하다고 강조\n번스타인(Bernstein)이\n금요일 샌프란시스코에서 한국 정부 주최로 열린 AI 서밋 이후 메모리 반도체 제조업체에 대한 낙관적인 전망을 재확인\n했습니다. 이번 서밋에서 삼성전자, SK하이닉스, 엔비디아(Nvidia), 브로드컴(Broadcom)은 메모리, 파운드리, AI 데이터센터를 아우르는 수십억 달러 규모의 신규 협약을 공개했습니다.\n주요 파트너십 내용\nSK하이닉스 & 엔비디아:\nSK하이닉스와 엔비디아는 메모리 공급 및 2027년 SK텔레콤을 위해 가동될 예정인 2GW 규모의 '\n베라 루빈 DSX AI 팩토리(Vera Rubin DSX AI Factory)'를 포함해 총 5,000억 달러(약 690조 원) 이상 규모의 파트너십을 담은 의향서(LOI)에 서명\n했습니다. 마크 리(Mark Li)가 이끄는 번스타인 분석팀은\n이번 메모리 파트너십에 SK하이닉스의 \"성장 기반 확장\"을 돕기 위한 \"차세대 AI 메모리의 장기적 기술 개발 및 안정적 공급\"이 포함\n되어 있다고 지적했습니다. 또한, SK그룹은\n향후 5년간 다른 글로벌 테크 기업들과도 2,500억 달러 규모의 메모리 공급 협력을 추가 추진 중인 것\n으로 알려졌습니다.\n삼성전자 & 브로드컴:\n이와 별개로\n삼성전자와 브로드컴은 고대역폭 메모리(HBM)를 포함한 메모리 물량과 2030년까지의 파운드리 서비스를 포함해 2,000억 달러(약 276조 원) 규모의 양해각서(MOU)를 체결\n했습니다. 파운드리 부문은\n2나노미터 이하 공정 기술\n과 TSMC의 CoWoS(Chip-on-Wafer-on-Substrate)에 비견되는 첨단 패키징 기술에 초점을 맞출 예정입니다.\n시장 영향 분석 및 시각\n\"\n발표된 금액의 대부분은 메모리 분야에 해당하며, 엔비디아와 브로드컴이 메모리 공급을 확보해야 할 필요성\n을 보여줍니다.\"\n메모리 수요 증대:\n애널리스트들은 이번 발표가\nAI 인프라에서 메모리의 높아진 위상을 보여준다고 평가했습니다.\n발표 영향의 정확한 수치화는 어렵지만,\n2027년과 2028년 연간 메모리 매출에 대한 시장 컨센서스 전망치가 각각 약 1조 3,000억 달러에 달한다고 짚었습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-27T11:13:05+00:00"
-    },
-    {
       "id": "x:ylecun:2081698060330250294",
       "source": "x",
       "author": "ylecun",
@@ -773,18 +818,6 @@
       ],
       "summary_ko": "RT by @yleun: Music-JEPA: 동작에서 소리의 세계 모델 학습 \"우리는 음악을 동작 조건 시스템으로 구성하여 JEPA를 사용하여 피아노 소리의 세계 모델을 학습할 것을 제안합니다. 오디오는 상태로 처리되고 피아노롤은 악기 동작으로 처리됩니다.\" \"실험에 따르면 학습된 모델은 음악적 동작과 그에 따른 결과 사운드 사이의 관계를 포착합니다. 결과 표현은 비트 추적, 작곡가 식별 및 키 추정을 포함한 다운스트림 작업을 지원하고 목표 사운드를 가장 잘 설명하는 동작을 검색하여 계획을 통해 피아노 녹음을 가능하게 합니다.\"",
       "published_at": "2026-07-27T08:32:36+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19343",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19343",
-      "text": "이재용·최태원, 이번엔 시칠리아行…구글 캠프서 AI 협력 넓힌다\n샌프란 이어 글로벌 테크 CEO들과 연쇄 회동\n이재용 삼성전자 회장과 최태원 SK그룹 회장이 미국 샌프란시스코에 이어 이탈리아 시칠리아에서 다시 글로벌 빅테크 최고경영자(CEO)들과 만난다.\n인공지능(AI) 시대 핵심 기업들이 한자리에 모이는 ‘구글 캠프(Google Camp)’에 나란히 참석해 글로벌 협력 확대에 나설 것으로 알려졌다.\n27일 재계에 따르면 이 회장과 최 회장은 이달 말 이탈리아 시칠리아에서 열리는 구글 캠프에 참석할 것으로 전해졌다.\n구글 캠프는 구글 공동 창업자인 래리 페이지와 세르게이 브린이 매년 여름 주최하는 비공개 행사다.\n이탈리아 시칠리아 남부 로코 포르테 베르두라 골프 리조트에서 열리며, 참석자 명단과 행사 내용은 외부에 공개되지 않는다.\n국내 기업 총수 가운데서는 이 회장이 행사 초기부터 꾸준히 참석해 왔으며, 최 회장도 지난 2024년 행사에 참석한 것으로 알려졌다. 다만 지난해에는 한미 관세 협상이 막바지에 이르면서 국내 주요 기업 총수들이 잇달아 미국을 방문해 두 사람 모두 행사에 참석하지 못한 것으로 전해졌다.\n재계는 두 총수가 이번 행사에서 구글을 비롯한 글로벌 테크 기업 CEO들과 AI와 반도체를 중심으로 협력 방안을 논의하고 네트워크를 확대할 것으로 보고 있다\n. 특히 최신 기술 동향과 AI 인프라 투자, 반도체 공급망 등을 놓고 다양한 의견을 교환할 것으로 예상된다.\n앞서 삼성전자와 SK그룹은 두 총수가 참석한 미국 샌프란시스코 AI 서밋에서 엔비디아와 브로드컴 등 글로벌 기업들과 메모리 반도체와 AI 데이터센터 분야를 중심으로 총 9천500억달러 규모의 협력에 합의한 바 있다.\n이번 구글 캠프에서는 이를 바탕으로 협력 범위를 한층 확대하는 방안도 논의될 가능성이 제기된다.\nAI 확산으로 고대역폭 메모리(HBM)를 비롯한 메모리 반도체 수요가 급증하는 가운데 글로벌 빅테크들의 안정적인 공급망 확보 움직임도 이어지고 있다.\n이에 따라 삼성전자와 SK하이닉스의 메모리 공급 확대와 차세대 AI 인프라 구축을 둘러싼 협력 논의도 이뤄질 수 있다는 관측이 나온다.\n재계에서는 두 총수가 미국에 이어 이탈리아까지 글로벌 행보를 이어가는 것은 AI 산업에서 한국 기업의 위상이 한층 높아졌음을 보여주는 상징적인 장면이라는 평가도 나온다.\n앞서 젠슨 황 엔비디아 최고경영자(CEO)는 샌프란시스코 AI 서밋에서\n“삼성전자와 SK하이닉스의 고대역폭 메모리(HBM) 혁신이 없었다면 엔비디아는 슈퍼컴퓨터를 만들지 못했을 것”이라며 “지금이야말로 한국의 황금기”라고 평가\n한 바 있다.\nhttps://n.news.naver.com/mnews/article/029/0003039202?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-27T08:30:35+00:00"
     },
     {
       "id": "tg:enc210406/4216",
@@ -1038,18 +1071,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-27T00:51:46+00:00"
-    },
-    {
-      "id": "tg:enc210406/4203",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4203",
-      "text": "금일 수주와 관련해\n대한조선 IR팀에서 공유해 주신\nLetter입니다.\n글로벌 최상위 수에즈막스 플랫폼\n이라는 것을 다시 한 번\n증명하게 됩니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-27T00:10:55+00:00"
     },
     {
       "id": "x:sama:2081513071135346814",
@@ -1651,18 +1672,6 @@
       "published_at": "2026-07-21T19:44:38+00:00"
     },
     {
-      "id": "x:OpenAI:2079647256941412817",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2079647256941412817",
-      "text": "R to @OpenAI: We had guessed reward seeking might increase over the course of capabilities-focused RL training, but had no way of measuring it until now. We’re continuing to collaborate with Apollo Research to improve how reward-seeking is measured during training—and better detect whether models are doing the right thing for the right reason.",
-      "images": [],
-      "summary_ko": "R에서 @OpenAI로: 우리는 기능 중심의 RL 교육 과정에서 보상 추구가 증가할 수 있다고 추측했지만 지금까지는 이를 측정할 방법이 없었습니다. 우리는 훈련 중에 보상 추구를 측정하는 방법을 개선하고 모델이 올바른 이유로 올바른 일을 수행하는지 더 잘 감지하기 위해 Apollo Research와 계속 협력하고 있습니다.",
-      "published_at": "2026-07-21T19:18:38+00:00"
-    },
-    {
       "id": "x:GoogleAI:2079617029473182132",
       "source": "x",
       "author": "GoogleAI",
@@ -2030,18 +2039,6 @@
       ],
       "summary_ko": "R에서 @AnthropicAI로: 한 번에 3,000개의 값을 비교하여 패턴을 찾아내는 것이 어렵기 때문에 유사한 값을 함께 묶은 다음 모델 간에 Claude의 값이 다른 4가지 핵심 축(예: 존중 vs. 주의, 따뜻함 vs. 엄격함, 깊이 vs. 간결함, 솔직함 vs. 실행)을 식별했습니다.",
       "published_at": "2026-07-13T17:24:57+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2076719540785012872",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2076719540785012872",
-      "text": "In previous research, we found that Claude expresses over 3,000 values, like honesty and warmth. In new work, we asked how the values Claude expresses vary between Claude models and across languages. We analyzed 300K+ anonymized conversations to find out.https://www.anthropic.com/research/claude-values-models-languages",
-      "images": [],
-      "summary_ko": "이전 연구에서 우리는 클로드가 정직과 따뜻함과 같은 3,000가지가 넘는 가치를 표현한다는 것을 발견했습니다. 새로운 작업에서 우리는 Claude가 표현하는 가치가 Claude 모델과 언어에 따라 어떻게 다른지 물었습니다. 우리는 알아내기 위해 30만 개 이상의 익명화된 대화를 분석했습니다.https://www.anthropic.com/research/claude-values-models-언어s",
-      "published_at": "2026-07-13T17:24:56+00:00"
     },
     {
       "id": "x:GoogleAI:2075609303029776872",
