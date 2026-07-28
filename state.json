@@ -1,4 +1,32 @@
 {
+  "x:AnthropicAI": [
+    "x:AnthropicAI:2082153309553463600",
+    "x:AnthropicAI:2082153311189225927",
+    "x:AnthropicAI:2082153297670992134",
+    "x:AnthropicAI:2081864750296658008",
+    "x:AnthropicAI:2080699495453528290",
+    "x:AnthropicAI:2079979809606664564",
+    "x:AnthropicAI:2079256626771665098",
+    "x:AnthropicAI:2077452649000042614",
+    "x:AnthropicAI:2077452646303006927",
+    "x:AnthropicAI:2077047278078931243",
+    "x:AnthropicAI:2077026346375540870",
+    "x:AnthropicAI:2076719549060382802"
+  ],
+  "x:OpenAI": [
+    "x:OpenAI:2082152075778293831",
+    "x:OpenAI:2082152074071228702",
+    "x:OpenAI:2082146058017321257",
+    "x:OpenAI:2082146059271417879",
+    "x:OpenAI:2081877298538746165",
+    "x:OpenAI:2081833351678406878",
+    "x:OpenAI:2081833350323720219",
+    "x:OpenAI:2081794871795589485",
+    "x:OpenAI:2080815626113954288",
+    "x:OpenAI:2080392280549253392",
+    "x:OpenAI:2080378182469857576",
+    "x:OpenAI:2080339986717790394"
+  ],
   "telegram:aetherjapanresearch": [
     "tg:aetherjapanresearch/24053",
     "tg:aetherjapanresearch/24052",
@@ -14,6 +42,9 @@
     "tg:aetherjapanresearch/24042"
   ],
   "telegram:EMchina": [
+    "tg:EMchina/31921",
+    "tg:EMchina/31920",
+    "tg:EMchina/31919",
     "tg:EMchina/31918",
     "tg:EMchina/31917",
     "tg:EMchina/31916",
@@ -28,6 +59,11 @@
     "tg:EMchina/31907"
   ],
   "telegram:bornlupin": [
+    "tg:bornlupin/19371",
+    "tg:bornlupin/19370",
+    "tg:bornlupin/19369",
+    "tg:bornlupin/19368",
+    "tg:bornlupin/19367",
     "tg:bornlupin/19366",
     "tg:bornlupin/19365",
     "tg:bornlupin/19364",
@@ -96,42 +132,6 @@
     "tg:HI_GS/6779",
     "tg:HI_GS/6778",
     "tg:HI_GS/6777"
-  ],
-  "x:OpenAI": [
-    "x:OpenAI:2082152075778293831",
-    "x:OpenAI:2082152074071228702",
-    "x:OpenAI:2082146058017321257",
-    "x:OpenAI:2082146059271417879",
-    "x:OpenAI:2081877298538746165",
-    "x:OpenAI:2081833351678406878",
-    "x:OpenAI:2081833350323720219",
-    "x:OpenAI:2081794871795589485",
-    "x:OpenAI:2080815626113954288",
-    "x:OpenAI:2080392280549253392",
-    "x:OpenAI:2080378182469857576",
-    "x:OpenAI:2080339986717790394",
-    "x:OpenAI:2080339982288568709",
-    "x:OpenAI:2080339983962181983",
-    "x:OpenAI:2079916436232036614",
-    "x:OpenAI:2079658951264920020"
-  ],
-  "x:AnthropicAI": [
-    "x:AnthropicAI:2082153309553463600",
-    "x:AnthropicAI:2082153311189225927",
-    "x:AnthropicAI:2082153297670992134",
-    "x:AnthropicAI:2081864750296658008",
-    "x:AnthropicAI:2080699495453528290",
-    "x:AnthropicAI:2079979809606664564",
-    "x:AnthropicAI:2079256626771665098",
-    "x:AnthropicAI:2077452649000042614",
-    "x:AnthropicAI:2077452646303006927",
-    "x:AnthropicAI:2077047278078931243",
-    "x:AnthropicAI:2077026346375540870",
-    "x:AnthropicAI:2076719549060382802",
-    "x:AnthropicAI:2076719546954825769",
-    "x:AnthropicAI:2076719544727716287",
-    "x:AnthropicAI:2076719542404018631",
-    "x:AnthropicAI:2076719540785012872"
   ],
   "x:sama": [
     "x:sama:2081832600591892712",
@@ -215,8 +215,7 @@
     "x:GoogleAI:2064366505630802081",
     "x:GoogleAI:2064366504112505266",
     "x:GoogleAI:2062942864288387430",
-    "x:GoogleAI:2061544208289132791",
-    "x:GoogleAI:2060043029835116826"
+    "x:GoogleAI:2061544208289132791"
   ],
   "x:karpathy": [
     "x:karpathy:2079610838143623371",
