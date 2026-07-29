@@ -1,22 +1,85 @@
 {
-  "updated_at": "2026-07-29T15:16:24+00:00",
+  "updated_at": "2026-07-29T17:14:44+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 17
+    "new_this_run": 5
   },
   "briefing": {
-    "headline": "미 정부, 자국 반도체기업에 3억달러 지원",
+    "headline": "SK하이닉스, 목표주가 3,000만 원으로 하향 조정",
     "bullets": [
-      "SMH 반도체 ETF, 지난 한달간 약 -20% 하락",
-      "트럼프 대통령, 이란에 대한 군사 공격 가능성 언급",
-      "JP모건, 어드밴테스트 1분기 실적 기대치 상회",
-      "골드만삭스, 중국 DUV 마켓 코멘트 요약",
-      "정부, 단일종목 레버리지 상품 개인별 투자한도 설정"
+      "JP모건, HD현대일렉트릭 목표주가 1,375,000원으로 설정",
+      "하이닉스, 6월 고점 대비 53% 하락",
+      "미 정부, 자국 반도체기업에 3억달러 지원",
+      "글로벌 반도체 ETF, 지난 한달간 약 20% 하락"
     ],
-    "generated_at": "2026-07-29T15:16:24+00:00",
+    "generated_at": "2026-07-29T17:14:44+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/24123",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24123",
+      "text": "UBS) SK하이닉스의 최근 매도세는 펀더멘털과 동떨어진 것처럼 보입니다. TP 3,000,000원으로 하향(기존 320만)\nQ: 메모리 공급 부족이 2028년까지 지속될 것인가?\n그렇다고 봅니다. 에이전틱 AI가 HBM을 넘어 여러 방면에서 메모리 수요를 추가로 끌어올리고 있으며, 여기에는 일반 서버 및 AI 서버의 CPU 헤드 노드용 DDR5/LPDDR5, 그리고 KV 캐시 및 스토리지용 NAND 플래시가 포함됩니다. 당사는 이제 2027년으로의 메모리 수요 성장 가속을 전망하며, DRAM 비트 최종 소비는 2026년 예상치 22% 대비 전년 대비 36% 성장하고, NAND 플래시는 20%에서 23%로 성장할 것으로 예상합니다. DRAM의 증분 웨이퍼 생산능력 추가분의 거의 전부가 HBM으로 향하고 있고, 중국을 제외하면 NAND에 신규 생산능력이 추가되지 않고 있어, 공급이 수요를 따라잡지 못하고 있습니다. 주된 리스크는 여전히 구매 여력(affordability)이며, 메모리 산업 매출은 2027년 예상 기준 1.8조 달러에 근접하고 있습니다.\nQ: SK하이닉스가 2026년과 2027년에도 HBM 선두를 유지할 것인가?\n당사는 HBM용으로 투입되는 생산능력이 2026년 말 230k wpm, 2027년 말 270k wpm에 도달할 것으로 추정합니다. 이에 따라 HBM 출하량을 2026년 17.2십억 Gb(전년 대비 +37%), 2027년 23.0십억 Gb(전년 대비 +34%)로 전망합니다. 당사는 SK하이닉스가 2026년 산업 비트 출하량의 48%를 차지하며 HBM 시장점유율 1위를 유지할 것으로 예상하나, 2027년에는 산업 비트 출하량의 39%로 삼성에 소폭 뒤처질 것으로 전망합니다(삼성 41%, 마이크론 20%).\nQ: SK하이닉스가 의미 있는 주주환원에 나설 것인가?\n그렇습니다. 지속적인 설비투자 전망 상향에도 불구하고, 당사는 SK하이닉스가 2026/2027/2028년 예상 기준 각각 188조 원/320조 원/374조 원의 FCF를 창출할 것으로 예상합니다. 당사는 SK하이닉스가 2026년 하반기에 자사주 매입을 개시할 수 있으며(UBS 추정 1조 원), 회사의 주주환원 정책에 대한 보다 포괄적인 업데이트(3Q26 컨퍼런스 콜에서 발표될 가능성)가 동반될 것으로 봅니다. 장기적으로는 SK하이닉스가 배당과 자사주 매입을 결합해 FCF의 50%를 주주에게 환원하는 방향으로 나아갈 것이라는 견해를 유지합니다.\nSK하이닉스 주가는 현재 6월 22일 고점 대비 52% 하락한 상태입니다. 그러나 최근의 급락에도 불구하고, 당사는 에이전틱 AI가 메모리 수요를 크게 끌어올리면서 펀더멘털이 여전히 견조하다고 판단합니다. 현재 밸류에이션에서, 당사는 SK하이닉스 주가가 구조적으로 높아진 메모리 수익성, 강화된 FCF 창출력, 그리고 크게 확대된 주주환원을 충분히 반영하지 못하고 있다고 봅니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-29T16:38:32+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24122",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24122",
+      "text": "BofA가 정리한 AI 및 반도체 전반의 가장 큰 지속적 우려 사항:\n1. 포지셔닝이 여전히 깨끗하지 않음\n하드웨어는 뜨내기 투자자(tourist trade)들의 거래 대상이 되었으며, 심지어 헬스케어 버스 투어에서도 SNDK가 논의되었다는 이야기가 있음. 뒤늦게 MU를 매수한 투자자들은 여전히 씻겨 나가야 할 수 있으며, 급격한 일일 변동은 확신을 가진 강세론자들조차 매도하게 만들고 있음.\n2. 좋은 뉴스가 더 이상 통하지 않음\nTSM, ASML, INTC는 좋은 실적에도 불구하고 하락했으며, 장중 반등은 계속 매도로 이어지고 있음. 하이퍼스케일러 CapEx가 낮아지면 AI 공급업체에 타격을 주고, CapEx가 높아지면 잉여현금흐름이 압박받으며, 자금 조달은 펀딩 우려를 키움. 평범한 실적 상회로는 충분하지 않을 수 있음.\n3. 투자자들은 AI 랩에는 약세이지만 그 인프라에는 여전히 롱 포지션\nOpenAI와 Anthropic의 지출은 이미 공급업체의 수주잔고와 재무제표에 반영되어 있음. 오픈 웨이트 모델이 궁극적으로 컴퓨팅 수요를 늘릴 수 있으나, 그 전환 과정이 순탄하지는 않을 것.\n4. 토큰 디플레이션은 양날의 검\n더 저렴한 토큰은 도입을 가속화할 수 있지만, 랩의 마진을 압박하고 하드웨어 및 전력 최적화를 심화시킴. 컴퓨팅이 늘어난다고 해서 모든 공급업체의 이익이 자동으로 늘어나는 것은 아님.\n5. 메모리는 추정치 하향이 필요할 수 있음\n멀티플이 낮아지는 것만으로는 충분하지 않을 수 있음. 수정되지 않은 추정치 기준으로 싸 보이는 종목은 실제로는 싸지 않을 수 있음.\n6. 크레딧이 주식 논쟁에 들어옴\n생태계 전체의 자금 조달은 \"수조 달러 규모의 치킨 게임\"이 되었음. 이에 대한 반론은 하이퍼스케일러들이 수익성 있는 핵심 사업을 보유하고 있고, 현금을 소진하고 있지 않으며, CapEx 다이얼을 스스로 통제하고 있다는 것.\n7. 단일한 펀더멘털 붕괴는 없을 수도 있음\n이번 조정은 단순히 포지셔닝 또는 팩터 언와인드일 수 있으며, 투자자들이 나중에 오픈 웨이트, ROI, 펀딩, 최적화 내러티브를 가격 움직임에 끼워 맞추는 것일 수 있음.\nhttps://x.com/wallstengine/status/2082481077994869223?s=20",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-29T16:18:30+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24121",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24121",
+      "text": "Citi) 투자자들은 언제 다시 테크로 돌아올까요?\n어제 반도체 급락장에서 여러 장기 투자자들에게 연락해 이렇게 물었습니다.\n\"언제 또는 무엇이 있어야 테크에 진입하시겠습니까?\"\n1) 나쁜 가격 움직임이 미지의 것에 대한 공포로 이어졌기 때문에, 더 나은 가격 움직임을 확인하기를 기다리고 있음 (어제 CLS +10%는 좋은 출발로 언급됨).\n2) 큰 폭의 조정에도 불구하고 진입하기에는 너무 이름. 차트에 너무 많은 손상이 가해졌기 때문. 지속 가능한 반등을 시도하기 전에 회복할 시간이 필요함.\n3) 2028년을 잠재적 피크 연도로 보고 있으며, 그 기준으로 보면 일부 종목은 비싸 보임 (LITE가 예시로 언급됨).\n4) 견조한 종목은 견조했음 (TSM, ASML, TXN). 하지만 너무 많은 투자자들이 미국/아시아의 낮은 퀄리티의 파생적 종목들을 플레이하고 있었고, 이 종목들이 매도되면서 변동성을 키움.\n5) 이번 매도세에서 베타의 급격한 상승은 나쁜 신호. PM들이 매도할 수밖에 없게 만듦 (예: SNDK).\n6) 테크 전반에 걸친 광범위한 손상을 감안하면, 센티먼트를 반전시키려면 하나의 큰 헤드라인 이상이 필요함 (연준이 금리를 인상하지 않거나, MSFT가 이번 주 Capex를 삭감하지 않는다면 가능할 수도).\n7) 하이퍼스케일러의 자금 조달이 초점이므로, 유상증자를 마무리 짓는 것이 청산 이벤트(clearing event)가 될 수 있음. 주식시장이 공급을 흡수할 여력이 더 클 수 있다는 점을 감안하면 부채보다 주식이 나을 수 있음.\n8) 초점은 2027/28년에 성장이 가속화될 수 있는 곳이며, 이런 종목들이 가장 먼저 매수될 것.\n9) 몇 주 전에 저가 매수를 고려했으나, 지난 한 주간의 변동성으로 인해 물러남 (매수자 파업, Buyer's Strike).",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-29T15:43:08+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24120",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24120",
+      "text": "JP모건) HD현대일렉트릭; 2분기 실적 발표 이후 약 15% 하락은 과도한 수준으로 판단. 저가 매수 추천. TP 1,375,000원\nHD현대일렉트릭 2분기 실적 발표 이후 주가가 코스피 6% 하락 대비 15% 급락했으나, JP모건은 이러한 하락이 과도하며 저가 매수 기회라고 판단합니다. 투자자들의 주요 우려는 신규 수주가 전분기 대비 20% 감소한 점, 고전압 제품의 증설이 제한적이라는 점, 2분기 마진 개선이 전분기 대비 20bp에 그친 점, 그리고 변동성이 큰 한국 증시에서 밸류에이션 바닥을 예측하기 어렵다는 점 등입니다.\n그러나 신규 수주 감소에 대해서는 수주에 강한 계절성이 존재하며 2024년 2분기와 2025년 2분기에도 각각 전분기 대비 40%, 25% 감소한 바 있어 이번 감소가 전력기기 사이클의 정점을 의미하지 않는다고 봅니다. 리드타임이 여전히 길고, 회사 측도 2분기 신규 수주의 마진이 전분기 대비 계속 확대되었다고 언급했습니다. GE버노바의 전력화 부문 수주 호조와 블룸에너지의 실적 서프라이즈 역시 미국 전력기기 수요가 여전히 강하다는 점을 보여줍니다.\n증설과 관련해서는 회사가 하이퍼스케일러와 장기계약을 추가로 확보할 경우 증설을 검토하겠다고 밝혀, 경영진이 증설을 배제한 것이 아니라 신중한 관망 기조를 취하고 있다고 해석합니다. 고전압 변압기 증설이 없더라도 변압기와 유사한 마진을 지닌 미국 시장 고전압 개폐기 수주 확대, 그리고 AI 데이터센터향 저전압 전력기기 수주를 통해 이익 상승 여력이 있다고 봅니다. 저전압 기기의 영업이익률은 20% 이상으로 고전압 변압기의 30% 이상보다는 낮지만 증설이 상대적으로 용이하고, 미국 시장에서의 평판을 바탕으로 점유율 확대가 가능하다는 판단입니다.\n밸류에이션 측면에서는 현재 12개월 선행 P/E 17배로 글로벌 전력기기 업체 대비 크게 저렴하고 최근 2년 평균 대비 1표준편차 이상 낮은 수준이며, 2026~2028년 예상 이익 연평균 성장률이 25%를 상회하는 점을 감안하면 매력적인 진입 시점이라고 평가합니다. 2025년 초 딥시크 등장 당시에도 주가가 크게 조정받은 바 있으며 현재 밸류에이션은 2년래 최저 수준으로 회귀했습니다. 비중확대(OW) 의견을 유지합니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/vgh4KtUr_3mqD95pETIhHqCBkgAVssDk6JwBQmp-HRcg4h8NUIe82lWUuDq8yCeDhBEoXiddKm9v5zPyTzfxMgGsmLUqXsu6I7eHksGh7Q2Q8Sgl9Xy3XPh4M922AraIJpJC066kLP3smbtYBpb5vHLAYga75QtXw6KFpEhx6BOI_eSYI3fUqKesKGNXr3rPlYBW8BA-sEDwue4MV7NN0l2CLhUuInq-d8VVUhustdqGaFM3lQrRPoHxoxcjUby6wksEGdkd3TiWxr55i9CD0cwCdAlA4Y52alprPL458I6NbPYM8n7x5IV4dsXyYWqT7ogPgmhnSb0wKuSGyInPvw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-29T15:41:44+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24119",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24119",
+      "text": "하이닉스는 지금 6월 고점대비 53%하락, 삼전은 44%하락이니 하닉/삼전은 메모리 슈퍼사이클 종료되었네요.",
+      "images": [
+        "https://cdn5.telesco.pe/file/EB4nyewDLS8K7uVjA2tLauIUOUKQhnbVyFNkSZ6wrFf8KpdSB1p8T4UXh8Jx1za8-12LAj5TNqaNT9jP0mhhZhrsiNgJZZl1_-WK4_0hdIdoE817LMj3tjcUTXqazqrTqK1sOkMZpuITp71Fur2n4L9WssfrFjDULzznzjxtidzSjfal8aZBqrC7xt-ek_xS4Uq-XiFtIEYulYCF6FiA8ZkfhIkjm8g_3DSbUqsilPsM-akDRWKjCvsWgBOYLBCqk4uz-WrVCAc5g2yK29PRpIwzlP4clBsgoQbIg4tB_sI4q8xzT_JwPXrcOJmXr8SnVZRvR-kYYEJuJ5PSEDZzvQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-29T15:36:00+00:00"
+    },
     {
       "id": "tg:globaletfi/20822",
       "source": "telegram",
@@ -351,18 +414,6 @@
       "published_at": "2026-07-29T12:25:44+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24111",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24111",
-      "text": "TRUMP TO FOX: WE'LL BE HITTING IRAN HARD. ...",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-29T12:25:36+00:00"
-    },
-    {
       "id": "tg:EMchina/31948",
       "source": "telegram",
       "author": "EMchina",
@@ -387,20 +438,6 @@
       "published_at": "2026-07-29T12:17:45+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24109",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24109",
-      "text": "Citi) Bloom Energy Corp (BE.N); 견조한 단기 실적으로 장기 목표에 대한 신뢰 제고. 중립/고위험/TP $281.\nCITI'S TAKE\n긍정적입니다. BE는 2분기 기대치를 크게 상회했으며, 앞서 강조한 바와 같이 가이던스를 상향했습니다. 다만 상향 폭이 예상보다 컸고 영업 레버리지도 추가로 개선되었습니다. 서프라이즈와 가이던스 상향 외에도 몇 가지 긍정적인 요소가 있었습니다. 첫째, 미국 주요 하이퍼스케일러들이 모두 BE의 솔루션을 검증하고 승인함에 따라 수주잔고가 매출보다 빠르게 증가하고 있습니다. 둘째, BE는 고객사에 병목이 되지 않을 것임을 확인했으며 충분한 스칸듐과 함께 여유 캐파를 보유하고 있습니다. 셋째, 가이던스는 특정 단일 고객에 의존하지 않습니다. 마지막으로, 회사는 매출 가이던스의 추가 상향을 위한 여유 캐파를 더 보유하고 있는 것으로 보입니다. 당사는 이번 서프라이즈와 2030년 5GW 이상 인도에 대한 가시성 제고에 주가가 긍정적으로 반응해야 한다고 봅니다. 다만 터미널 밸류에 대한 논쟁은 여전히 남아 있습니다. 이 점이 데이터센터/AI 센티먼트, 그리고 26년 하반기 분기 매출의 횡보 전망과 맞물리면서, 그 외에는 견조했던 분기 실적에 대한 긍정적 반응을 제한할 수 있습니다.\n2Q26 실적 — 회사는 총매출 약 10억 7000만 달러를 발표했으며, 이는 Citi/컨센서스 9억 4450만 달러/8억 3430만 달러 대비 상회하는 수준으로, 주로 제품 매출 9억 3540만 달러(전년 대비 +215%)가 견인했습니다. 서비스 매출은 6900만 달러(전년 대비 +27%)를 기록했습니다. Non-GAAP 매출총이익률은 34.3%로 Citi/컨센서스 33.9%/32.9%를 각각 상회했으며, 이는 우호적인 믹스와 제품 및 서비스 부문 전반의 마진 개선을 반영합니다. 구체적으로 제품/서비스 매출총이익률(Non-GAAP)은 37.2%/22.0%였으며, 후자는 플릿 성능, 스택 수명 연장, 규모의 효과가 견인했습니다. Non-GAAP 영업비용 1억 2570만 달러는 시장 추정치 대비 약 3% 낮았습니다. 조정 EBITDA 2억 5340만 달러는 당사 추정치 1억 7190만 달러와 컨센서스 1억 5300만 달러를 크게 상회했습니다. Non-GAAP 희석 EPS 0.78달러는 Citi/컨센서스 추정치 0.47달러/0.43달러를 상회했습니다.\nFY26 가이던스 — 총매출은 이제 40억 5000만 달러(중간값)에 이를 것으로 예상되며, 이는 기존 36억 달러에서 상향된 수치입니다. Non-GAAP 매출총이익률은 약 34%로 유지되었습니다. Non-GAAP 영업이익은 8억 5000만 달러(중간값)로 제시되었으며, 이는 전 분기 6억 7500만 달러에서 상향된 수치입니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/IkT53i6ppxAuhVjCr6yCw12rTJJoI58_jMms4908weQ4PddR5yytoF8kD8pP6BUsM6Ix_-MjKFN9yyhyUhEl8thCtrp0x7aRsBfMlm4mS5g5nqZIu6ASC-DEtS66LBY8020B-YY0efbwd4u7bC_C29Ps17FHKvwUVr1FN-40SDVISI7pMW71fOhDZ_LrnLtYGZXw7jVWjm2s07pWbuPLZhx5taKcZMyqcb_Mlxbgn5fCJ1KSXwmxLdOx77ahRWo7EcaZHqeYNPhiXVCHsatbqstQ3A_mN019DDH0IT3bpYcvenGH-g5kLKrDN3R623Nme3NSDJ0wa3JitNeaazpB6Q.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-29T12:17:23+00:00"
-    },
-    {
       "id": "tg:bornlupin/19397",
       "source": "telegram",
       "author": "bornlupin",
@@ -411,18 +448,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-29T12:10:46+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24108",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24108",
-      "text": "JP모건) KLA Corporation; CY26 WFE 상향($1500억)에 따라 CY26 매출 성장률/실적 전망 상향, CY27 \"상당한\" 성장 지속에 대한 가시성 확보, OW 유지\nKLAC는 강력한 서프라이즈 및 가이던스 상향을 시현했으며 CY26 WFE 전망을 1400억 달러에서 1500억 달러 초반대로 상향했는데, 이는 총매출 기준 20% 초반대 이상의 성장과 당사 추정으로 장비 시스템 사업 기준 28~30%의 성장을 시사합니다. 이번 실적과 강화된 향후 전망의 기반이 된 것은 선단 파운드리/로직(3nm 캐파 구축, 2nm 램프 가속, sub-2nm 가시성), 신규 DRAM 그린필드 증설, 어드밴스드 패키징(CoWoS 확대, SoIC 부상, 하이브리드 본딩 채택 확대) 전반에 걸친 광범위한 모멘텀이며, 여기에 하이퍼스케일러 커스텀 실리콘 설계 착수 가속, AI 가속기 다이 사이즈 확대, 그리고 CY27/CY28 캐파 구축을 뒷받침하는 신규 그린필드 팹 건설의 다년간 물결이 더해졌습니다. 올해 상반기 동안 모든 사업 부문(프로세스 컨트롤, EPC, 서비스)이 전년 대비 두 자릿수 성장했습니다. 경영진은 또한 CY26 WFE 전망을 기존 실적 발표 당시의 1400억 달러에서 1500억 달러 초반대 이상으로 상향했는데, 이번 상향 조정은 신규 팹 구축을 둘러싼 고객사들의 절박함 가속, 선단 노드 투자의 지속적 강세, 어드밴스드 패키징 기여도 확대를 반영합니다. 나아가 팀은 CY27에도 \"상당한\" 성장이 지속될 것이라는 가시성을 밝혔으며, CY27에 대해 보수적인 1900억 달러 WFE(전년 대비 +25%) 기준 전망까지 제시했습니다(KLA가 차기 CY WFE 전망을 이처럼 이른 시점에 수치화한 것은 처음입니다). 6월 말 기준 강력한 수주잔고(125억~126억 달러)는 전년 대비 60% 증가했으며(북투빌 1.4배), 이는 견조한 향후 성장 프로파일과 가시성을 반영합니다. 어드밴스드 패키징 프로세스 컨트롤 제품 포트폴리오 역시 이제 CY25 약 6억 3500만 달러에서 CY26 약 11억 달러(70% 이상 성장)로 성장할 것으로 예상되는데, 이는 수요 가속, 2.5D에서 3.5D로의 전환, 의미 있는 점유율 확대에 힘입어 50% 이상 성장이라는 KLAC의 기존 전망을 크게 상회하는 수준입니다. 매출총이익률과 관련해서는 DRAM 원가 역풍이 소폭 악화되었으나(현재 100bps 이상), 팀은 물량 증가와 원가 효율화로 그 영향을 부분적으로 상쇄하고 있습니다. CY27를 내다보면, 당사는 팀이 지속적인 물량 증가, 원가 효율화, 그리고 검사·계측·어드밴스드 패키징 시스템 전반의 신규 시스템/업그레이드 출시에 따른 플랫폼 가격 인상을 바탕으로 63% 이상의 매출총이익률을 달성할 수 있다는 자신감을 갖고 있다고 봅니다. 내년 고객사 파이프라인은 견조해 보이며, TSMC, 인텔, 삼성 파운드리, TeraFab, 라피더스, 마이크론, 하이닉스, 삼성이 모두 탄탄한 성장 프로파일에 기여하고 있습니다. 당사는 OW 등급을 유지합니다. KLAC는 구조적인 프로세스 컨트롤 집약도 변곡, 확대되는 경쟁 해자, 가속화되는 어드밴스드 패키징 기여, 서비스 플라이휠, 그리고 경영진 스스로 현재의 가시성 하에서는 보수적일 가능성이 높다고 인정한 장기 재무 프레임워크에 힘입어 반도체 장비 섹터 내 당사의 톱픽으로 유지됩니다. 당사는 강화되는 전망을 반영해 향후 추정치를 상향하며, 이에 따라 Dec-27 목표주가를 기존 200달러에서 238달러로 상향합니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-29T12:07:05+00:00"
     },
     {
       "id": "tg:bornlupin/19396",
@@ -499,20 +524,6 @@
       "published_at": "2026-07-29T11:28:20+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24107",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24107",
-      "text": "JP모건) 히타치 (6501 JP) 1QFY26 First Glance: 전 부문 서프라이즈 및 가이던스 상향\n2QFY26 실적 - 서프라이즈: 히타치는 1QFY26 매출 2조 7300억 엔(JPMe/컨센서스 대비 9.6%/9.3% 상회)과 조정 EBITA 2943억 엔(JPMe/컨센서스 대비 17.7%/17.4% 상회)을 발표했습니다. 매출 성장률은 전년 대비 +20%, 환율 효과 제외 시 전년 대비 +12%였습니다. 중동(ME) 영향은 기존 가이던스보다 작았습니다. 매출/영업이익 기준 -160억 엔/-70억 엔으로, 예상치였던 -400억 엔/-200억 엔 대비 축소되었습니다.\n4개 전 부문이 JPMe/컨센서스 대비 매출/영업이익 모두 상회했습니다. DSS 부문은 컨센서스 매출/영업이익 대비 5.1% 상회, 에너지 부문은 컨센서스 매출 대비 6.2%, 컨센서스 영업이익 대비 25.1% 상회했습니다.\n수주: DSS 전년 대비 +7%, 에너지 +87%, 모빌리티 +25%, CI +25%였습니다. 에너지 부문 수주 증가세의 가속이 전분기 대비 +50%, 전년 대비 +87%로 두드러졌습니다.\n연간 가이던스 상향: 매출 11.1조 엔 → 11.7조 엔(컨센서스 대비 3% 상회), 조정 EBITA 1조 4200억 엔 → 1조 5200억 엔(컨센서스 대비 11% 상회). 이번 수정은 4개 전 부문의 견조한 실적, 우호적인 환율, 예상보다 작았던 중동 영향에 따른 것입니다. 에너지 조정 EBITA 마진 가이던스는 14.2%(1QFY26의 14.2%와 동일)입니다. 자사주 매입(5500억 엔)과 배당(2500억 엔)에는 변경이 없습니다.\nJPM 밸류에이션: 당사 애널리스트 준야 아야다는 히타치를 OW로 평가하며 목표주가는 6000엔으로, 당사 FY27 전망에 기반한 SPT 모델에서 도출된 이론 주가 대비 10% 높게 설정했습니다.\n6501 JP 공매도 잔고 추정: 유동주식의 1.53%, DTC 1.8배\n초기 피드백: 서프라이즈 폭에 대해서는 긍정적이나, 투자자들은 이번 실적이 주식의 에퀴티 내러티브를 크게 바꾸지는 않는다는 점에서 오늘 발표를 계기로 한 리레이팅은 기대하지 않았으며, 다만 이익 전망 상향(신규 조정 영업이익 가이던스가 현 컨센서스 대비 11% 상회)에 맞춰 주가가 움직일 것으로 예상했습니다. 주요 긍정적 피드백은 전 부문에 걸친 서프라이즈 폭과 에너지 수주 증가세 가속에 관한 것이었습니다. 부정적 피드백은 투자자들이 가장 중요하게 보는 에너지 마진 가정이 보수적이라는 점이었습니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/hrORschBuWGslXpkBEFnTnQ2fS7WrbVTyft3-Z7I_5KJfgZ0yI8hJo_4kXm-DKHFEsKh1s52LwbT6S5dZtrXkMM_wJBN8-f4PFYGebeA9vvsWIrgQ0TQdN8N6tOYwoQM4kmkHQ1lO14xvWaZUTlLmT9P9DQeoBD7Xy24lafTbmAN_wMSWR1K7xOCVef6kD7C8aDmx5StbQKWxfNGtRqj4Le6A-pJ_g1sS9KJaqxbszLWG2xQo9nEQ4IScUxy7zz6sMQr4YXS5FKqX0HkCAIomUU675K-zrJ-86bIyj5oXMNN2WPU9n2WqIGwXMt4gdXLXakPs9OtB4nsB1o0CylY0Q.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-29T11:16:53+00:00"
-    },
-    {
       "id": "tg:bornlupin/19392",
       "source": "telegram",
       "author": "bornlupin",
@@ -523,20 +534,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-29T11:14:39+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24106",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24106",
-      "text": "13호 태풍 돌핀, 8월 8일 큐슈에 영향줄 수 있어\n쿠마모토 지진 복구도 힘들겠네...",
-      "images": [
-        "https://cdn5.telesco.pe/file/SB_YlaUO6d17LtnD72PKZd2xkRX8YxJRIullis2ev_77WJX-iaJIQ3lVFyQ3gRZG5aB0xyB-s6fUnHW0c5rf9l4Wls2KqgzSK11ekjrHfuJTiXhzbHuYIG2xsWv1Rj3TYD-0gR_kxRykrFknudXmsURdlKt4nyGMXstFQmR0BuAA6h8Rsd8RRm0qIo9NxBxIVvn4bpCtnnLIomMDjfJFJLk51l6UdSkQFlN7Bd_8NVY3Vg_uPGzwhi2vUKJ_n7rj3OgwyyVNls6MU3nZsnL2I_gSFp56JlCEm1UVVZU_A6L9ZGHEyI4bk8-wU4zNSxbGzJ0orwHGuKXwrKRDsBuQWQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-29T11:03:25+00:00"
     },
     {
       "id": "tg:EMchina/31945",
@@ -1959,20 +1956,6 @@
       "published_at": "2026-07-16T17:44:37+00:00"
     },
     {
-      "id": "x:demishassabis:2077803351392268314",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2077803351392268314",
-      "text": "RT by @demishassabis: 3 years ago we started as a tiny experiment with the goal of helping you learn faster. Since then, we grew to bring audio, video, and interactivity to your sources, transitioning from a passive workspace to your true research companion. And now, notebooks have even become an entire ecosystem: you can already access them in the @GeminiApp and soon in Google Search So, with these advancements, it’s time for us to evolve once again: NotebookLM is now Gemini Notebook ✨📓 The same app you know and love isn’t going anywhere, we just have an updated name that reflects our role in Google's AI portfolio. And our mission stays exactly the same: helping you learn, faster. Thank you for believing in us— this wouldn't have been possible without your passion (and feature requests...) Big things to come (yes, even folders📂!) so stay tuned. Sincerely, The Project Tailwind team",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2077803235314896896/img/p59_jo3Rjk99bb7_.jpg"
-      ],
-      "summary_ko": "@demishassabis의 RT: 3년 전 우리는 여러분이 더 빨리 배울 수 있도록 돕기 위한 작은 실험으로 시작했습니다. 그 이후로 우리는 오디오, 비디오 및 상호 작용 기능을 소스에 제공하여 수동적인 작업 공간에서 진정한 연구 동반자로 전환했습니다. 이제 노트북은 전체 생태계가 되었습니다. @GeminiApp과 곧 Google 검색에서 이미 액세스할 수 있습니다. 따라서 이러한 발전을 통해 우리는 다시 한 번 진화해야 할 때입니다. NotebookLM은 이제 Gemini Notebook입니다 ✨📓 여러분이 알고 사랑하는 동일한 앱은 더 이상 사라지지 않을 것입니다. Google의 AI 포트폴리오에서 우리의 역할을 반영하는 업데이트된 이름만 갖게 되었습니다. 그리고 우리의 사명은 똑같습니다. 즉, 여러분이 더 빨리 배울 수 있도록 돕는 것입니다. 저희를 믿어주셔서 감사합니다. 이는 여러분의 열정과 기능 요청이 없었다면 불가능했을 것입니다.",
-      "published_at": "2026-07-16T17:11:37+00:00"
-    },
-    {
       "id": "x:GoogleAI:2077803351392268314",
       "source": "x",
       "author": "GoogleAI",
@@ -1984,6 +1967,20 @@
         "https://pbs.twimg.com/amplify_video_thumb/2077803235314896896/img/p59_jo3Rjk99bb7_.jpg"
       ],
       "summary_ko": "@GoogleAI의 RT: 3년 전 우리는 여러분이 더 빨리 배울 수 있도록 돕기 위한 작은 실험으로 시작했습니다. 그 이후로 우리는 오디오, 비디오 및 상호 작용 기능을 소스에 제공하여 수동적인 작업 공간에서 진정한 연구 동반자로 전환했습니다. 이제 노트북은 전체 생태계가 되었습니다. @GeminiApp과 곧 Google 검색에서 이미 액세스할 수 있습니다. 따라서 이러한 발전을 통해 우리는 다시 한 번 진화해야 할 때입니다. NotebookLM은 이제 Gemini Notebook입니다 ✨📓 여러분이 알고 사랑하는 동일한 앱은 더 이상 사라지지 않을 것입니다. Google의 AI 포트폴리오에서 우리의 역할을 반영하는 업데이트된 이름만 갖게 되었습니다. 그리고 우리의 사명은 똑같습니다. 즉, 여러분이 더 빨리 배울 수 있도록 돕는 것입니다. 저희를 믿어주셔서 감사합니다. 이는 여러분의 열정과 기능 요청이 없었다면 불가능했을 것입니다.",
+      "published_at": "2026-07-16T17:11:37+00:00"
+    },
+    {
+      "id": "x:demishassabis:2077803351392268314",
+      "source": "x",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2077803351392268314",
+      "text": "RT by @demishassabis: 3 years ago we started as a tiny experiment with the goal of helping you learn faster. Since then, we grew to bring audio, video, and interactivity to your sources, transitioning from a passive workspace to your true research companion. And now, notebooks have even become an entire ecosystem: you can already access them in the @GeminiApp and soon in Google Search So, with these advancements, it’s time for us to evolve once again: NotebookLM is now Gemini Notebook ✨📓 The same app you know and love isn’t going anywhere, we just have an updated name that reflects our role in Google's AI portfolio. And our mission stays exactly the same: helping you learn, faster. Thank you for believing in us— this wouldn't have been possible without your passion (and feature requests...) Big things to come (yes, even folders📂!) so stay tuned. Sincerely, The Project Tailwind team",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2077803235314896896/img/p59_jo3Rjk99bb7_.jpg"
+      ],
+      "summary_ko": "@demishassabis의 RT: 3년 전 우리는 여러분이 더 빨리 배울 수 있도록 돕기 위한 작은 실험으로 시작했습니다. 그 이후로 우리는 오디오, 비디오 및 상호 작용 기능을 소스에 제공하여 수동적인 작업 공간에서 진정한 연구 동반자로 전환했습니다. 이제 노트북은 전체 생태계가 되었습니다. @GeminiApp과 곧 Google 검색에서 이미 액세스할 수 있습니다. 따라서 이러한 발전을 통해 우리는 다시 한 번 진화해야 할 때입니다. NotebookLM은 이제 Gemini Notebook입니다 ✨📓 여러분이 알고 사랑하는 동일한 앱은 더 이상 사라지지 않을 것입니다. Google의 AI 포트폴리오에서 우리의 역할을 반영하는 업데이트된 이름만 갖게 되었습니다. 그리고 우리의 사명은 똑같습니다. 즉, 여러분이 더 빨리 배울 수 있도록 돕는 것입니다. 저희를 믿어주셔서 감사합니다. 이는 여러분의 열정과 기능 요청이 없었다면 불가능했을 것입니다.",
       "published_at": "2026-07-16T17:11:37+00:00"
     },
     {
