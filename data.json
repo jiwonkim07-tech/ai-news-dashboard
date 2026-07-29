@@ -1,21 +1,90 @@
 {
-  "updated_at": "2026-07-29T17:14:44+00:00",
+  "updated_at": "2026-07-29T19:16:10+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 5
+    "new_this_run": 8
   },
   "briefing": {
-    "headline": "SK하이닉스, 목표주가 3,000만 원으로 하향 조정",
+    "headline": "美 연준, 5회 연속 금리동결 결정",
     "bullets": [
-      "JP모건, HD현대일렉트릭 목표주가 1,375,000원으로 설정",
-      "하이닉스, 6월 고점 대비 53% 하락",
-      "미 정부, 자국 반도체기업에 3억달러 지원",
-      "글로벌 반도체 ETF, 지난 한달간 약 20% 하락"
+      "OpenAI, 프론티어 모델 무료 액세스 제공",
+      "SK하이닉스, 매도세에도 TP 3,000,000원으로 하향",
+      "HD현대일렉트릭, 2분기 실적 발표 이후 약 15% 하락",
+      "美 정부, 자국 반도체기업 글로벌파운드리스에 3억달러 지원",
+      "정부, 단일종목 레버리지 상품 개인별 투자한도 설정·모의거래 도입 추진"
     ],
-    "generated_at": "2026-07-29T17:14:44+00:00",
+    "generated_at": "2026-07-29T19:16:10+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:GoogleDeepMind:2082541871612449180",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2082541871612449180",
+      "text": "Pinned: Video",
+      "images": [
+        "https://pbs.twimg.com/media/HOas49ka4AAIdt_.jpg"
+      ],
+      "summary_ko": "고정됨: 동영상",
+      "published_at": "2026-07-29T19:00:48+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20823",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20823",
+      "text": "» 연준은 5회 연속 금리동결 결정. 연준의 9명이 동결 찬성, 3명은 인상 주장",
+      "images": [
+        "https://cdn5.telesco.pe/file/L17TsA2AKygZn6iZuAGXlB05cjxLU-anIF-rPKCsRdVPdhyyVdbr_LCmpVZVZxeeG4UfROT36WOZBMhvECrAhlQhOzC-KYpG2cxEMhPDWN0OK-B0vSbgz71mbR3VF2kD5hhO401e7AlDnRW6n_lF0MYCWdlMneCJj4KaT55c2VkfOR_xBmYI85OxzewTCWtoWqAZrsYpIlaDxV8xlPbfPmqTLhuxsc4-ZPE73fjKn68PsoWSaT8_hAaIuTo9CNn1kJMmX2H3QOQ6JsSXNdyjqyaB1fGOtaWtxFSx0kPlHiDj3ee8iquN112LYIjvm3xHCBxZBmIm3_rkJ4fidcD3Hw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-29T18:20:24+00:00"
+    },
+    {
+      "id": "x:OpenAI:2082516372656111654",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2082516372656111654",
+      "text": "R to @OpenAI: We believe the benefits of frontier AI should not be concentrated in a few companies and well-resourced labs. Researchers know their fields best. Our role is to put powerful tools in their hands and help accelerate their work. The program will help researchers take on the hardest problems, accelerate discovery, and improve productivity across their work, from preparing grant applications to testing hypotheses.",
+      "images": [],
+      "summary_ko": "R에서 @OpenAI로: 우리는 프론티어 AI의 이점이 소수의 회사와 자원이 풍부한 연구실에 집중되어서는 안 된다고 믿습니다. 연구자들은 자신의 분야를 가장 잘 알고 있습니다. 우리의 역할은 이들의 손에 강력한 도구를 제공하고 작업 속도를 높이는 데 도움을 주는 것입니다. 이 프로그램은 연구자들이 가장 어려운 문제를 해결하고, 발견을 가속화하며, 보조금 신청서 준비부터 가설 테스트에 이르기까지 작업 전반에 걸쳐 생산성을 향상시키는 데 도움이 될 것입니다.",
+      "published_at": "2026-07-29T17:19:29+00:00"
+    },
+    {
+      "id": "x:OpenAI:2082516374010974228",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2082516374010974228",
+      "text": "R to @OpenAI: Participants will receive access to our frontier models, including our GPT-5.6 family of models. Each workspace includes business-grade privacy and security protections. Researcher data is not used to train our models by default, and participants can invite up to four collaborators. The program also includes training, hands-on support, and opportunities to learn from other researchers. https://openai.com/index/chatgpt-for-academic-researchers/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2082513397934120962/FjPwevNe?format=jpg&name=800x419"
+      ],
+      "summary_ko": "R에서 @OpenAI로: 참가자는 GPT-5.6 모델 제품군을 포함한 프론티어 모델에 액세스할 수 있습니다. 각 작업 공간에는 비즈니스급 개인 정보 보호 및 보안 보호 기능이 포함되어 있습니다. 연구원 데이터는 기본적으로 모델을 훈련하는 데 사용되지 않으며 참가자는 최대 4명의 공동 작업자를 초대할 수 있습니다. 이 프로그램에는 교육, 실습 지원, 다른 연구자로부터 배울 수 있는 기회도 포함됩니다. https://openai.com/index/chatgpt-for-academic-researchers/",
+      "published_at": "2026-07-29T17:19:29+00:00"
+    },
+    {
+      "id": "x:OpenAI:2082516370949062989",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2082516370949062989",
+      "text": "We’re giving scientists, mathematicians, and engineers free access to our frontier models—starting with 10,000 researchers and expanding to 100,000 through 2027. ChatGPT for Academic Researchers is built to accelerate discovery across disciplines.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2082514978586963969/img/j4oDUO_KrYXiGmEn.jpg"
+      ],
+      "summary_ko": "우리는 과학자, 수학자, 엔지니어에게 우리의 개척 모델에 대한 무료 액세스를 제공합니다. 처음에는 10,000명의 연구원으로 시작하여 2027년까지 100,000명으로 확장됩니다. 학술 연구원을 위한 ChatGPT는 여러 학문 분야에서 발견을 가속화하도록 구축되었습니다.",
+      "published_at": "2026-07-29T17:19:28+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24123",
       "source": "telegram",
@@ -39,6 +108,20 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-29T16:18:30+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2082496617664413721",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2082496617664413721",
+      "text": "RT by @GoogleDeepMind: Meet Lyria 3.5, the newest music model from @GoogleDeepMind, now powering Flow Music: 🎤 Vocals: More expressive, dynamic singing 🎸 Musicality: Richer arrangements with tracks that flow naturally. 🎛️ Controls: Better at following creative directions - now featuring BPM control and exportable stems for full-length songs! Try it now at http://flowmusic.google! 🧵",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2082496506184040451/img/89W8uRE8v04iqwyy.jpg"
+      ],
+      "summary_ko": "@GoogleDeepMind의 RT: 이제 Flow Music을 지원하는 @GoogleDeepMind의 최신 음악 모델인 Lyria 3.5를 만나보세요. 🎤 보컬: 더욱 표현력이 풍부하고 역동적인 노래 🎸 음악성: 자연스럽게 흐르는 트랙으로 더욱 풍부해진 편곡. 🎛️ 컨트롤: 창의적인 방향을 더 잘 따라갈 수 있습니다. 이제 BPM 컨트롤과 정규곡을 위한 내보내기 가능한 스템 기능이 제공됩니다! 지금 http://flowmusic.google에서 사용해 보세요! 🧵",
+      "published_at": "2026-07-29T16:00:59+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/24121",
@@ -734,22 +817,6 @@
       "published_at": "2026-07-29T06:34:44+00:00"
     },
     {
-      "id": "tg:globaletfi/20808",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20808",
-      "text": "» 미국 주요 빅테크 기업들의 CDS 추이",
-      "images": [
-        "https://cdn5.telesco.pe/file/nc5GHoeJ0FpEuCBW5RZdmTNk0KQ2amKnpdXZ3_nqiBpE5dJERu3_m0CliAZyN-WC6TzDHxB5wsAkaaRg4IkV4FZqaAbzs9rPsYheGsZ8c9d8ftfEqRwXiHgkRc0jzy4uXnuNZWjlrXuY4POom3qvFSdaEK9e3_91CG305OiBgipT6-i2NRnFlMtTjLw8rNuAU3CO6YJYQRUaWr2lYkg0LjUDolinB2nHhnP0QHMIS69M59JoT1v9VnkjpZ87CSdC_qTvBAdkhKycDolDVqEnNXdlikIWj14lQMndf8I7e3bEVFNyszVD-_bki8C2N5UfmfWb-IpX2HAQyFoJiPZDjw.jpg",
-        "https://cdn5.telesco.pe/file/N0bhRwe55klazlIzSL19E9BzYlC09prIXanqtsqKqipmPHnXbtQ0xDHC0Nz3kBU0wItCYBPHmByKW-sBM-R_-Jh3TGcZjLbsSdVlD_4OHbhTYDJXv4HOB_JsZNQmMeDHNl8FK13BN3vBcdLb-oa_SiymHOvaPclpqgobhhqmP8aUfk1CWm3Bl4w0lFuUAM6ED9e5LVFBWslT_MF1z76Z0rvzmSerHv3Q4ENniaEwXFFo036kCuiVayOf0BnUxccSkjnWDxcnpMqJlDmSKVPfimiuEKfHlSXfSwN6FsJbGgQsvOWSNpwZLNeyXIH3En-bFwWgyqMzuxHTB3EuGGlDdw.jpg",
-        "https://cdn5.telesco.pe/file/RhU1KOVLwVzCdPdrv4ow_79pEUfFN7X7UNouuanT2nKgK3pWvSUTPw-9bBmpYy5cTflaqYBa3wVrM5xd45wwAtRA-UtWn9-sO0RUoBYx7IHuwjCFs4yOeMurYIipBdr12Q7IXnvxU0g_3hXMM8bvoSqzG_0XXIsreT_W6VVgMuRVyvZ0egiEjJcqppdlu6ZgcHZy6sOA2bp4t_CJY_3zMD0JlLqRoV1isOpkdC6FUCAArUw10hqNVaPGviaxWuPVcuqtfYu08LC0HNsewGClPC-ZNEw5m0C_YcYY9Ily1x7y96IG9f6-ApH91F4cSax4zYBWr1Rm_bzCOh5Xhw5t-A.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-29T06:01:11+00:00"
-    },
-    {
       "id": "tg:enc210406/4244",
       "source": "telegram",
       "author": "enc210406",
@@ -1020,6 +1087,20 @@
       "published_at": "2026-07-28T22:17:32+00:00"
     },
     {
+      "id": "x:ylecun:2082210027826188404",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2082210027826188404",
+      "text": "RT by @ylecun: Laser focused on reducing the cost of living, from day one.",
+      "images": [
+        "https://pbs.twimg.com/media/HOV-_I5XoAAb33d.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: Laser는 처음부터 생활비 절감에 중점을 두었습니다.",
+      "published_at": "2026-07-28T21:02:10+00:00"
+    },
+    {
       "id": "x:OpenAI:2082208694142730340",
       "source": "x",
       "author": "OpenAI",
@@ -1161,9 +1242,7 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2082146059271417879",
       "text": "R to @OpenAI: Apply here: https://openai.com/student-collective/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2082143711979515904/PfMdLRD0?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "R에서 @OpenAI로: 여기에서 신청하세요: https://openai.com/student-collective/",
       "published_at": "2026-07-28T16:47:59+00:00"
     },
@@ -1189,7 +1268,9 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2081877298538746165",
       "text": "RT by @OpenAI: Last week, we made ChatGPT Work available to enterprises. It's an awesome product. So for ChatGPT Enterprise customers, enroll by August 21, and each teammate who tries Work for the first time within two weeks gets up to $200 in credits, valid for 14 days. Already a customer? Ask your account team. New to Enterprise? Get in touch. https://openai.com/contact-sales/",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2079943544844988416/G4ctGsf6?format=jpg&name=800x419"
+      ],
       "summary_ko": "@OpenAI의 RT: 지난주 우리는 ChatGPT Work를 기업에 제공했습니다. 정말 멋진 제품입니다. 따라서 ChatGPT Enterprise 고객의 경우 8월 21일까지 등록하면 2주 이내에 처음으로 Work를 시도하는 각 팀원은 14일 동안 유효한 최대 $200의 크레딧을 받게 됩니다. 이미 고객이신가요? 계정팀에 문의하세요. 엔터프라이즈를 처음 사용하시나요? 연락하세요. https://openai.com/contact-sales/",
       "published_at": "2026-07-27T23:00:02+00:00"
     },
@@ -1208,34 +1289,6 @@
       "published_at": "2026-07-27T22:10:10+00:00"
     },
     {
-      "id": "x:OpenAI:2081833351678406878",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2081833351678406878",
-      "text": "R to @OpenAI: openai.com/index/how-ai-is-e…",
-      "images": [
-        "https://pbs.twimg.com/card_img/2081689309481238528/yT-tCjju?format=jpg&name=800x419"
-      ],
-      "summary_ko": "R에서 @OpenAI로: openai.com/index/how-ai-is-e…",
-      "published_at": "2026-07-27T20:05:24+00:00"
-    },
-    {
-      "id": "x:OpenAI:2081833350323720219",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2081833350323720219",
-      "text": "At a small business, the person closest to a problem is often the one who has to solve it—even when it falls outside their job description. We studied how AI is becoming powerful generalist tool for small teams, helping them work across functions.",
-      "images": [
-        "https://pbs.twimg.com/media/HOQoSItbYAA8Hsm.jpg"
-      ],
-      "summary_ko": "소규모 기업에서는 문제에 가장 가까운 사람이 문제를 해결해야 하는 경우가 많습니다. 심지어 해당 문제가 자신의 업무 범위에 해당하지 않는 경우에도 마찬가지입니다. 우리는 AI가 어떻게 소규모 팀을 위한 강력한 범용 도구가 되어 다양한 기능에 걸쳐 작업할 수 있도록 돕는지 연구했습니다.",
-      "published_at": "2026-07-27T20:05:23+00:00"
-    },
-    {
       "id": "x:sama:2081832600591892712",
       "source": "x",
       "author": "sama",
@@ -1246,20 +1299,6 @@
       "images": [],
       "summary_ko": "잘못된",
       "published_at": "2026-07-27T20:02:25+00:00"
-    },
-    {
-      "id": "x:OpenAI:2081794871795589485",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2081794871795589485",
-      "text": "GPT-Live in ChatGPT Voice is now available to Edu, Business, and Enterprise plans globally.",
-      "images": [
-        "https://pbs.twimg.com/media/HMuNB0WboAE_A7s.jpg"
-      ],
-      "summary_ko": "ChatGPT Voice의 GPT-Live는 이제 전 세계적으로 Edu, Business 및 Enterprise 요금제에서 사용할 수 있습니다.",
-      "published_at": "2026-07-27T17:32:29+00:00"
     },
     {
       "id": "x:AndrewYNg:2081787106062746002",
@@ -1286,6 +1325,20 @@
       ],
       "summary_ko": "@yleun의 RT: 잘못된 AI 예측 카탈로그. 합리주의 코스프레 커뮤니티의 파멸자들은 제외되는데, 아마도 그들의 예측이 거의 100% 실패율을 보이기 때문일 것입니다. 사람들이 뭔가 불가피하기 때문에 '지금 행동해야 한다'거나 법을 제정해야 한다고 자랑스럽게 주장할 때, 그렇지 않기 때문에 이 목록을 가리키고 큰 소리로 두드리십시오. https://boyswhocriedai.lovable.app/archive",
       "published_at": "2026-07-27T15:30:25+00:00"
+    },
+    {
+      "id": "x:ylecun:2081748804706218337",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2081748804706218337",
+      "text": "RT by @ylecun: Elon’s missed promises 😳",
+      "images": [
+        "https://pbs.twimg.com/media/HOPbgGYakAAnfPZ.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: Elon의 놓친 약속 😳",
+      "published_at": "2026-07-27T14:29:26+00:00"
     },
     {
       "id": "x:ylecun:2081706092585713914",
@@ -1352,34 +1405,6 @@
       ],
       "summary_ko": "RT by @yleun: 현재 우리는 오픈 소스(또는 오픈 웨이트) 모델의 존재 권리를 옹호하고 있습니다. 논쟁은 다른 줄리안이 암시하는 것이 무엇이든 누구에게나 자신의 모델을 오픈 소스로 강요하는 것이 아닙니다. 하지만 만약 우리가 그렇게 했다면 어떨까요? 작년에 저는 그 시나리오를 탐구했습니다.",
       "published_at": "2026-07-26T22:44:05+00:00"
-    },
-    {
-      "id": "x:ylecun:2081434036619112790",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2081434036619112790",
-      "text": "RT by @ylecun: A federal appeals court rejects Trump's efforts to limit mail-in voting. Trump sees that Republicans are likely to lose big time in the midterms because of his abysmal rule, so he is trying to game the election. https://trib.al/8XfYZFX",
-      "images": [
-        "https://pbs.twimg.com/card_img/2081124760155549696/ocJhPi6Y?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@yleun의 RT: 연방 항소 법원은 우편 투표를 제한하려는 트럼프의 노력을 거부했습니다. 트럼프는 자신의 형편없는 통치 때문에 공화당이 중간선거에서 크게 패할 가능성이 높다고 보고 선거를 조작하려 하고 있다. https://trib.al/8XfYZFX",
-      "published_at": "2026-07-26T17:38:40+00:00"
-    },
-    {
-      "id": "x:ylecun:2081402147434815884",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2081402147434815884",
-      "text": "RT by @ylecun: CBS/YouGov poll: Trump's policies are making you Worse off-58% Better off-13%",
-      "images": [
-        "https://pbs.twimg.com/media/HOKgOL6WUAAuaXL.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: CBS/YouGov 여론 조사: Trump의 정책은 당신을 더 나쁘게 만들고 있습니다 - 58% 더 좋게 만듭니다 - 13%",
-      "published_at": "2026-07-26T15:31:57+00:00"
     },
     {
       "id": "x:sama:2081396796174282900",
@@ -1857,20 +1882,6 @@
       "published_at": "2026-07-21T15:29:55+00:00"
     },
     {
-      "id": "x:GoogleDeepMind:2079527699157008775",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2079527699157008775",
-      "text": "RT by @GoogleDeepMind: Fascinating application of @GoogleDeepMind's AlphaFold in protein engineering! 🧬 As we approach 5 years since the AlphaFold Database was launched, it’s great to see it being used to fill in structural blind spots. While still early, it’s a brilliant example of how open access to AI-predicted structures is empowering experimental biologists to target complex health challenges.",
-      "images": [
-        "https://pbs.twimg.com/media/HNXKpydbwAAu3Vw.png"
-      ],
-      "summary_ko": "@GoogleDeepMind의 RT: @GoogleDeepMind의 AlphaFold를 단백질 공학에 적용한 놀라운 사례입니다! 🧬 AlphaFold 데이터베이스가 출시된 지 5년이 다가오면서 구조적 사각지대를 채우는 데 사용되는 모습을 보니 반갑습니다. 아직 초기 단계이지만, AI 예측 구조에 대한 개방형 접근이 어떻게 실험 생물학자들이 복잡한 건강 문제를 목표로 삼을 수 있는지 보여주는 훌륭한 예입니다.",
-      "published_at": "2026-07-21T11:23:33+00:00"
-    },
-    {
       "id": "x:sama:2079258683884917013",
       "source": "x",
       "author": "sama",
@@ -1926,20 +1937,6 @@
       ],
       "summary_ko": "새로운 과정: 빠른 추론을 위해 설계된 하드웨어에서 실행하여 사용자 요청에 신속하게 응답하는 LLM 응용 프로그램을 구축합니다. 이 짧은 코스는 @Cerebras와 함께 제작되었으며 @zhennydez, @duerr_seb 및 @MilksandMatcha가 가르쳤습니다. 모델이 텍스트를 생성할 때 가중치를 메모리에서 계산 단위로 이동하는 데 많은 시간이 소요됩니다. 추론 최적화 하드웨어는 이러한 움직임을 최소화하여 일반적인 GPU 설정보다 토큰 생성을 몇 배 더 빠르게 만듭니다. 이 과정에서 사용하게 될 하드웨어는 모델의 가중치를 계산 단위에 가깝게 유지하여 빠른 추론을 위해 설계된 Cerebras의 웨이퍼 스케일 엔진입니다. 빠른 추론을 통해 긴 에이전트 워크플로가 더 빨라지고 실시간 번역 및 음성 에이전트와 같이 대기 시간에 민감한 실시간 애플리케이션이 잠금 해제됩니다. 스키",
       "published_at": "2026-07-17T15:47:30+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2078132675332755933",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2078132675332755933",
-      "text": "RT by @GoogleDeepMind: We're announcing a major update to Weather Lab, our interactive website for sharing Google’s AI weather models from @GoogleDeepMind and @GoogleResearch: https://deepmind.google.com/science/weatherlab",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2078126186476007424/img/rTCXDfTtb3PA53U6.jpg"
-      ],
-      "summary_ko": "@GoogleDeepMind의 RT: @GoogleDeepMind 및 @GoogleResearch의 Google AI 날씨 모델을 공유하기 위한 대화형 웹사이트인 Weather Lab의 주요 업데이트를 발표합니다: https://deepmind.google.com/science/weatherlab",
-      "published_at": "2026-07-17T15:00:14+00:00"
     },
     {
       "id": "x:demishassabis:2077811657385079045",
@@ -2046,7 +2043,7 @@
       "url": "https://x.com/AnthropicAI/status/2077026346375540870",
       "text": "We’re committing $10 million CAD and partnering with leading AI institutions in Canada to help fund new AI research. https://www.anthropic.com/news/canadian-ai-research",
       "images": [
-        "https://pbs.twimg.com/card_img/2080005471675531264/fpECDy7I?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2082542277361307648/_JelxH-X?format=jpg&name=800x419"
       ],
       "summary_ko": "우리는 1,000만 달러의 CAD를 투자하고 캐나다의 주요 AI 기관과 협력하여 새로운 AI 연구 자금을 지원하고 있습니다. https://www.anthropic.com/news/canadian-ai-research",
       "published_at": "2026-07-14T13:44:04+00:00"
@@ -2415,7 +2412,9 @@
       "author_url": "https://x.com/GoogleAI",
       "url": "https://x.com/GoogleAI/status/2064366505630802081",
       "text": "R to @GoogleAI: Read the blog to learn more: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2081088148843708416/p7_eVBUE?format=jpg&name=800x419"
+      ],
       "summary_ko": "R에서 @GoogleAI로: 자세한 내용은 블로그를 읽어보세요. https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
       "published_at": "2026-06-09T15:18:23+00:00"
     },
