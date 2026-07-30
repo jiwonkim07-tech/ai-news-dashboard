@@ -1,22 +1,192 @@
 {
-  "updated_at": "2026-07-30T20:13:50+00:00",
+  "updated_at": "2026-07-30T22:05:58+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 3
+    "new_this_run": 20
   },
   "briefing": {
-    "headline": "OpenAI, GPT-5.6 Luna 가격 80% 인하",
+    "headline": "애플 서비스 매출 컨센 하회, 아마존 호실적",
     "bullets": [
-      "테슬라, 전세계 첫 1000만대 전기차 생산",
-      "삼성전자, 되감기의 되풀이 과정",
-      "Gemini Robotics 2 출시",
-      "마이크로소프트, Azure 가속으로 성장",
-      "일본&미국 리서치, 삼성전기 주가 변동성 속 인상적인 성장"
+      "아마존 AWS 성장률 가속화",
+      "애플 시간외 -4%대, 아마존 +9%대",
+      "중국 상무부, 미중 300억달러 규모 관세 인하 프레임워크 구축",
+      "OpenAI, GPT-5.6 Luna 가격 80% 인하",
+      "JP모건, 삼성전자 주가 목표치 하향"
     ],
-    "generated_at": "2026-07-30T20:13:50+00:00",
+    "generated_at": "2026-07-30T22:05:58+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:globaletfi/20849",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20849",
+      "text": "애플은 제품 매출이 긍정적이었지만 서비스매출은 컨센 하회했네요\neps는 컨센 수준입니다\n아이패드 제외한 제품 전반의 성장이 있었고 중국 매출이 크게 성장한 점도 좋았네요\n서비스는 애플 생태계라는 밸류에이션과 이익 안정성의 큰 축인데,..\n이익단에서도 관세 환급 효과 감안하면 이번 매출과 이익의 질적인 성장은 다소 아쉬운 실적입니다",
+      "images": [
+        "https://cdn5.telesco.pe/file/FAvsjGfH-LJBxlzE3qDE3zJsP1saJnXua7naRl6IB13FQRAvsNyf9Xt_p_tvvKTRkKcfSgTtPDeOU4lsGUz7ZSsl7gnyO-diqTQhE-j8xzf01SYm-bx7g0eCVhLddiAe-yWtYi7D8q7C5e7HIIXn-e-ia0Gs7rnabTbJ8LpIWFA7tKeCCZjkFRPaUOWmvlPQalQLjuopsGMHfocMaR3TT2H36NZiLxj3i2XaQ-9PubX4xt5ZpAzr5-pxPZYEX3T2cvJ3TkKULE0Z_3BwY_M74b59Og2QlzVF_ektqnRkFGuYnY9veirQGYYIKZeOpJE967clJRlgX6kjbTzUzH7DHw.jpg",
+        "https://cdn5.telesco.pe/file/TRFM18XSosX0cloGj513M-Qgj5BU-z0zUNHWMkhH1CpWWtxHEncH_BK3HtZSUJmY4vDzmOhyDMGpD27OJV-MsMwaW0lYvdUTzlwFP7ZlCMflUUJDcYP7q2XyHvpZnn5scg7tU44ngbmnwn74X0afd7VyN6oNp8W87baqygh1SRp23rRVxUd3PSoDFEVhxHNDxDIq4nwbUtQZxhWYRaR5cOiFZW1SqTOvp1OvkKhQGviILSvbjQL2od1c4w-CD8dytf2lJoReJusVbpYrYtKH-2zky0t0oYyk7pLOC1bhD7qz-lJ80LHJjVzqe6l7SttFm5d6X3XnnoX-KztUv3ziOg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-30T21:43:08+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20847",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20847",
+      "text": "아마존도 호실적 발표했네요\nAWS의 고성장으로 AI수요 재차 확인했고\n영업이익도 성장하며\n외형성장과 수익성 모두 좋았습니다\n일회성비용(앤트로픽 평가익) 제외해도 EPS는 컨센서스를 상회합니다\n다음 분기 실적 가이던스가 컨센보다 약한 건 프라임데이가 2분기에 잡힌 영향입니다\n다음 분기에도 공격적 자본지출이 예상됩니다",
+      "images": [
+        "https://cdn5.telesco.pe/file/lmwgjGD-Iw6w4VFTEmpo5kpy9SIqZnf5zi3InL-MfT5-ylvK98v_Tiy2tlvHEVjV4V58necWp0P3Ocmp81qkcOZ98HbNxxm2A6vdCLyh0A9YTtn40vqpLEhAtbRkodlQ3tQTX-l7uGuGXTaJZkVbNkht_2jTdXFPxA3eeqmUihFT6Oyacjc1kplqaa9Ur5VpAFWs3SWLYPEZ8vdwSC2XzCnuHlCEyCpYQ4xmLqpM2qprnmYYcQDHHOoVSJJ_sp45hYlM2pa8vU4Kx8qGcH-41xHYWZRySBO8-TcloyBFYkp8jiE5oSMHxxiQdUg-in069UffngauIMPpMu6tRDBaoQ.jpg",
+        "https://cdn5.telesco.pe/file/dYcSOvOti10fvEyDcRgSwLjcsH9Qx49HOtaKqd_vJo9YyUB8-8a_Pin0M-miPcJYgneZiYSWAWJPx_Ty3W9Vcb5pzm67JD_eJMVnQK386z0nbgc6CUd-tnYU11QUDNIzCBI8A-BoiCHn8QvDrS61awv-lVQmsdZs98Li7mu21GFmwloQV_7t5MuaPzRvnIEjVHo846U_PchdRHt9HyNjAYEKLjjUuq4RGcjg3PdgeLZbXuUS8KEOkTijuUifucaDlenZzhHW6-TsBVkEPVMqqAyzB8z8c7MzTN0HdMbaoT7vGHHyW8-S0bswvN8qqAh0A7ffc6FXYW9WEBeZqxfkXQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-30T21:43:02+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19438",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19438",
+      "text": "아마존(\n$AMZN\n) 2026년 CapEx를 2,200억 달러로 상향\n​“\n메모리 비용 상승으로 인해 기존 예상치였던 약 2,000억 달러에서 이 수치가 더 늘어났습니다.”\n​“그 정도 금액을 투자하더라도\n2026년의 모든 수요를 충족하기에는 여전히 공급 용량(Capacity)이 부족할 것\n입니다.\n이러한 흐름은\n2027년에도 마찬가지일 것으로 봅니다.”\n​“이미 확보된 2028년 수요 역시 놀라운 수준입니다.”\n​“우리는 보통 서버와 네트워크 장비를 실제 서비스에 투입하기 몇 달 전에 구매하므로, 지출을 집행하기 전에 고객 수요에 대한 명확한 가시성(Visibility)을 확보할 수 있습니다.”\n​“만약 수요가 뒷받침되지 않는다면, 서버 및 네트워크 장비에 자금을 집행하지 않을 것입니다.”",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-30T21:34:02+00:00"
+    },
+    {
+      "id": "tg:enc210406/4267",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4267",
+      "text": "[Distributed Shipbuilding, 분산 조선]\n- 헌팅턴잉걸스가\n- 분산 조선(Distributed Shipbuilding)’ 공정을\n- 수송 상륙함에 확대 적용할 계획이라고 발표했다.\n- 조선소 한 곳에서 배를 처음부터 끝까지 다 만드는 게 아니라,\n- 여러 조선소에서 선체를 구성하는 대형 구조물(블록)을 동시에 나눠서 만들어\n- 건조 속도와 효율을 동시에 높이는 방식이다.\n- 미 해군도\n- 현재 약 10%인 해군 함정의 분산 생산 비율을\n- 장기적으로 50%까지 높이겠다고 발표했다.\n[한국 조선소의 분산 조선 대비]\n- 한국 조선소는 이미 미국의 분산 조선 체계에 대비하고 있다.\n- (HD현대중공업) 지난해 10월 헌팅턴잉걸스와 분산 조선 공동 추진에 합의했다.\n- (삼성중공업) 미 조선사 비거마린그룹·제너럴다이내믹스 나스코와 협력 협약을 맺었다.\n- (한화오션) 필리조선소를 인수한 데 이어 올해 4월 방산업체 레이도스와 분산형 공급망 구축에 나섰다.\n- (HD한국조선해양) 미국 중견 조선사 프레이저 인더스트리와 조선소 현대화 협약을 맺었다. 군함 수주를 넘어 한국식 조선소 운영 시스템 자체를 ‘상품화’한 것이란 평가다.\nhttps://n.news.naver.com/article/023/0003990577?cds=news_my",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-30T21:21:13+00:00"
+    },
+    {
+      "id": "tg:EMchina/31987",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31987",
+      "text": "오랜만에 만나는 100 아래의 달러지수",
+      "images": [
+        "https://cdn5.telesco.pe/file/WXZAkpvqJvef_WZTV62SOk4p4OngTKAndX0xYp64Z6StmJTNS8qMvnMWw_YAQPmquNFqId7nz6ycOmJod9Yz2FlPpXL6iHy9XCGyeq4PEH3RILaUgLus7WGHZ7ChKOzmTGKdT_LZs-coSREjOTeQYWKtBhDmzKGOKgeGskOwy_BDiHWFXwiTh86WFia5O2ZyLL6cfDm7GzIidsrjNo_AxpS941hZ9zWEC6kk_XAOLYtq24t_PoefbgYBBmr0WE9ZUk4Tr4AgQFWpM8HHIQCZIVDlQGQE6OKNsj49EZkfwLbSK7j4qlbuTnBg_Cq8LxPTzm2WL-4iGsu7Pq8BKKAkdw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-30T21:10:26+00:00"
+    },
+    {
+      "id": "tg:EMchina/31986",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31986",
+      "text": "미국 모기지 금리 약 1년만에 최고치로\n========================\n~ The average interest rate on a 30-year fixed mortgage in the US rose to 6.76% last week, reaching its highest level since August 2025, according to data released Wednesday\nhttps://www.aa.com.tr/en/americas/us-30-year-mortgage-rate-hits-highest-since-august-2025/4013126",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-30T21:06:46+00:00"
+    },
+    {
+      "id": "tg:EMchina/31985",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31985",
+      "text": "애플 시간외 -4%대",
+      "images": [
+        "https://cdn5.telesco.pe/file/oFB1FoHRch6t25Z4mmdpE954V7sbOItUNN5uH6IGUACSYuMemPJlGF9_xD_b3e300hSMRUpWZe6WdUMS6RVrzMZ8yF4iOHlcsD6NHRxxO0pAdvR5Fb8WXPZuOY-gwK4mtm4LUkjOqljZ9nUd-ap81uP6kkaUhoFdTmjUGJ6CvNFL1Q4VMU7E4TS-dr8Oqg9doK0N7yaFc45ESAEw7b9nyAZZuTdnr5MFsi5Ao1Nx9zYxyErCJxsvGFt6u3_7ibLt-n8aD4wjpGs3Z0XMOrMR2nTX2qRYk8LBj6q02gK7EFxJ3pWGtLGI4jNXgDd_eP7S0pjuFvsC1qvlQtDheQnNjA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-30T20:52:02+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19437",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19437",
+      "text": "애플 (Apple,\n$AAPL\n) 2026 회계연도 3분기 실적 (시간외 -4%)\n매출액 (Revenue):\n$109.42B (전망치 $108.85B) ; 전년 동기 대비 +16.4%\n주당순이익 (EPS):\n$2.02 (전망치 $1.89) ; 전년 동기 대비 +28.7%\n중화권 매출 (Greater China):\n$18.82B (전망치 $19.58B) ; 전년 동기 대비 +22.4%\n부문별 매출 (Segment Revenue)\n아이폰 (iPhone):\n$54.25B (전망치 $53.6B) ; 전년 동기 대비 +21.7%\n서비스 (Services):\n$30.74B (전망치 $31.36B) ; 전년 동기 대비 +12.1%\n제품 전체 (Products):\n$78.68B (전망치 $77.25B) ; 전년 동기 대비 +18.1%\n맥 (Mac):\n$10.35B (전망치 $8.62B) ; 전년 동기 대비 +28.7%\n아이패드 (iPad):\n$6.19B (전망치 $6.89B) ; 전년 동기 대비 -5.9%\n웨어러블, 홈 & 악세서리 (Wearables, Home & Accessories):\n$7.88B (전망치 $7.87B) ; 전년 동기 대비 +6.5%\n지역별 매출 (Geographic Revenue)\n미주 (Americas):\n$45.78B (전망치 $45.42B) ; 전년 동기 대비 +11.1%\n유럽 (Europe):\n$29.4B ; 전년 동기 대비 +22.4%\n중화권 (Greater China):\n$18.82B (전망치 $19.58B) ; 전년 동기 대비 +22.4%\n일본 (Japan):\n$6.55B ; 전년 동기 대비 +13.4%\n기타 아시아 태평양 (Rest of Asia Pacific):\n$8.87B ; 전년 동기 대비 +15.6%\n재무 지표 (Financials)\n매출총이익 (Gross Margin):\n$54.77B ; 전년 동기 대비 +25.3%\n총 영업비용 (Total Operating Expenses):\n$19.08B (전망치 $18.96B) ; 전년 동기 대비 +22.9%\n영업이익 (Operating Income):\n$35.7B (전망치 $33.34B) ; 전년 동기 대비 +26.6%\n순이익 (Net Income):\n$29.79B (전망치 $27.67B) ; 전년 동기 대비 +27.1%\n영업활동 현금흐름 (9개월 누적 / Operating Cash Flow 9M):\n$117.0B ; 전년 동기 대비 +43.1%\n자본 환원 (Capital Return)\n배당금 (Dividend):\n주당 $0.27의 현금 배당 선언\n경영진 코멘트 (Comments)\n“WWDC26에서 애플의 최신 소프트웨어 혁신과 중요한 신규 아동 안전 기능은 물론, 완전히 새로워진 Siri AI를 선보이게 되어 매우 기뻤습니다.”\n“당사의 활성 기기 설치 기반(Installed base of active devices) 또한 모든 주요 제품 카테고리와 지역 부문에서 역대 최고치를 기록했습니다.”",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-30T20:46:09+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19436",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19436",
+      "text": "AXT  (\n$AXTI\n) 2026년 2분기 실적  (시간외 +29%)\nEPS:\n$0.19 (예상 $0.07)\n매출액:\n$4,759만 달러 (예상 $3,408만 달러)\nGAAP 매출총이익률:\n44.9% (전년 동기 8.0%, 전분기 29.6%)\nNon-GAAP 매출총이익률:\n45.0% (전년 동기 8.2%, 전분기 29.9%)\nNon-GAAP 영업이익:\n$1,119만 달러 (전년 동기 -$611만 달러)\n매출액 YoY 성장률:\n+164.8% (전년 동기 $1,797만 달러 → $4,759만 달러)\nGAAP 순이익:\n$1,113만 달러 (전년 동기 -$701만 달러)\n현금 및 현금성 자산:\n$4억 1,217만 달러 (전분기 말 $1억 2,027만 달러)\nInP(인듐 인화물) 웨이퍼 역대 최고 매출:\n데이터센터 광연결(Optical Interconnect)을 향한 강력한 고객 수요가 성장을 견인하며 InP 웨이퍼의 분기 매출이 역대 최고치를 기록\n했습니다.\nGAAP 매출총이익률이 전년 동기 8.0%에서 44.9%로 비약적으로 상승. 생산 능력 확대와 생산성 향상이 기여\n미래 성장을 위한 투자를 지속:\nAI 및 광인프라 시장의 수요 확대를 예상하여 제조 캐파(생산능력), 기술, 수직계열화 공급망에 대한 적극적인 투자를 계속하고 있습니다.\n현재 6인치 웨이퍼 개발 및 CPO(Co-Packaged Optics) 대응도 추진 중입니다.\nCEO (Morris Young) 코멘트\n\"AXT에게 있어 매우 흥미진진한 시기입니다.\n데이터센터 광연결에 대한 강력한 고객 수요와 제조 생산능력 확대 및 지속적인 생산성 향상의 성공이 어우러져 매출의 계단식(Step-function) 성장을 견인\n하고 있습니다.\n2분기 InP 매출은 역대 최고치를 기록했습니다.\n당사는 직속 고객 및 주요 최종 고객과 긴밀히 협력하여 수요 예측과 로드맵 파악에 힘쓰고 있습니다.\nAXT가 회사 역사상 가장 중요한 장(Chapter)에 진입하고 있다고 확신합니다.\n생산능력, 기술, 그리고 독자적인 수직계열화 공급망에 대한 투자가 광통신 및 AI 인프라 시장 전반에서 높아지는 경이로운 수요에 대응할 수 있는 입지를 구축해 주었습니다.\"",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-30T20:41:03+00:00"
+    },
+    {
+      "id": "tg:EMchina/31984",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31984",
+      "text": "7월 정치국회의 개최  • 5중전회 개최 결정 • 경제상황 및 업무 분석/연구  中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作。中共中央总书记习近平主持会议。（新华社）  • 거시정책 강화 & 효율 제고 • 재정지출 및 채권자금 사용 가속화 촉진  中共中央政治局 会议：宏观政策要发力提效，加快财政支出和债券资金使用进度，有力推进“两重”建设和“两新”工作。  https://wallstreetcn.com/livenews/3142198?ivk=1#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-30T20:37:46+00:00"
+    },
+    {
+      "id": "tg:EMchina/31983",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31983",
+      "text": "중국 상무부: 미중은 300억달러 규모 상호 관세 인하 관련 프레임워크 구축 방안 모색  >> 9월 시진핑 주석 미국 국빈방문 이전 마무리 예상  商务部：中美探讨推进各自300亿美元规模的对等降税框架安排   https://wallstreetcn.com/articles/3777771#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-30T20:28:35+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19435",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19435",
+      "text": "아마존 AWS 성장률 가속화\n아마존 2분기 AWS 순매출 +37%, (추정치 +31.3%)\n최근 18개 분기 중 가장 빠른 성장세",
+      "images": [
+        "https://cdn5.telesco.pe/file/f2PNJZaWpIyVzgWyH6-bmZPmukGm-mGd4nmbJ9LPYF3FvURRtcTUHIof4Bql0EK3d1sI3VTgdxxt2ydow6CBwF_kyibrdhBsNrfR5srM7D0x8GNNg0ATwzfN7C-isefghv0D2dm2t0FE4GSCoOveTs3E4-NIe2Qo7j8u4e3nDV_GTDq_eg2kWYjF1JHn0BFIlLkGISVVWAyCy1kIf28tTF1XGyiVpk9gXSXaPX2YK0ZJq3thF1nY3_MWh6_yHyFXyKOOUt2cP9Bii-t1w8oAgijMEGBS_HytKx7CLn4NujZ3WcHNb0q_QqN8s-I3l2L-IP4BY2J-B_YJM4h6QUhyig.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-30T20:27:41+00:00"
+    },
+    {
+      "id": "tg:EMchina/31982",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/31982",
+      "text": "아마존 시간외 +9%대",
+      "images": [
+        "https://cdn5.telesco.pe/file/sRVMa3vbs5bGEAlm3IU69n4MbkyM6ZoKNg__AdkhzMxDnN2ymSMg6DA0RkwpiElWVRiBYcpfbrEYOqOz9VrPjDZQ8Juh_E87zPFU971sT0YZovLZ7Wi072uyl8V_CYxPgAcjlfl-diVCRvGqA50IMMxOIKkNowJ-cUQa6wfdm9hCm2yLhZlr8SnQZIktgDPhf-hpNQ25oyDc2KijHMTy0QIm4tcB8rTgWGPDyrfP4xEOivelERRHkCiUxM421rbCKKCDWkV8Hvc9IGuXiF5f1uEehNHDSQUBYMo8LchLSO8YWKbZoFsDdW4dWago5dsudgRZtgQOD6nNl1cDvH-JEg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-30T20:24:12+00:00"
+    },
     {
       "id": "tg:bornlupin/19434",
       "source": "telegram",
@@ -52,6 +222,62 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-30T19:21:59+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2082904278461469091",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2082904278461469091",
+      "text": "R to @GoogleDeepMind: To be truly useful, a robot needs the dexterity that humans take for granted. But asking AI models to coordinate these motions is incredibly complicated. In this demo, we pushed Apollo 2 to master fine motor skills and complete tricky kitchen chores ↓",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2082903401789001729/img/ERGitghxwfO99T7u.jpg"
+      ],
+      "summary_ko": "R에서 @GoogleDeepMind로: 로봇이 진정으로 유용하려면 인간이 당연하게 여기는 손재주가 필요합니다. 그러나 AI 모델에 이러한 동작을 조정하도록 요청하는 것은 엄청나게 복잡합니다. 이 데모에서 우리는 Apollo 2를 사용하여 미세한 운동 능력을 익히고 까다로운 주방 집안일을 완료했습니다 ↓",
+      "published_at": "2026-07-30T19:00:53+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2082904281838227562",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2082904281838227562",
+      "text": "R to @GoogleDeepMind: Teamwork makes the dream work. To test multi-robot collaboration with Gemini Robotics 2, we challenged our Apollo and Duo robots to tidy up a messy garage. The high-level reasoning model breaks down what to do, where to go, and identifies the exact moment to hand over control ↓ https://goo.gle/4h5N7CQ",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2082903814575722496/img/RzOUp4Pq4ILqwCf6.jpg"
+      ],
+      "summary_ko": "R에서 @GoogleDeepMind로: 팀워크가 꿈을 현실로 만듭니다. Gemini Robotics 2를 사용한 다중 로봇 협업을 테스트하기 위해 Apollo 및 Duo 로봇에게 지저분한 차고를 정리하도록 도전했습니다. 고수준 추론 모델은 무엇을 해야 할지, 어디로 가야 할지 세분화하고, 통제권을 넘겨야 할 정확한 순간을 식별합니다 ↓ https://goo.gle/4h5N7CQ",
+      "published_at": "2026-07-30T19:00:53+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2082904276293062994",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2082904276293062994",
+      "text": "This is how Gemini Robotics 2 helps @Apptronik’s Apollo 2 use whole body intelligence to pack for a sports game ↓",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2082902922375901184/img/JqcG5DgO4rpNBmL-.jpg"
+      ],
+      "summary_ko": "이것은 Gemini Robotics 2가 @Apptronik의 Apollo 2가 전신 지능을 사용하여 스포츠 게임을 포장하도록 돕는 방법입니다 ↓",
+      "published_at": "2026-07-30T19:00:52+00:00"
+    },
+    {
+      "id": "x:GoogleAI:2082902334984609936",
+      "source": "x",
+      "author": "GoogleAI",
+      "author_name": "Google AI(구글 AI)",
+      "author_url": "https://x.com/GoogleAI",
+      "url": "https://x.com/GoogleAI/status/2082902334984609936",
+      "text": "What if you could see a city as it looked 100 years ago, or visualize a new basketball court at your local community center? Starting today, we're bringing our latest image generation capabilities to @GoogleEarth on the web. Powered by Nano Banana 2, you can combine rich satellite and 3D imagery with text prompts to reimagine your favorite place around the globe. Just zoom in, tap “create image,” and type whatever you want to see! Available now for everyone to start creating: http://goo.gle/4fNJGyt",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2082902124187262977/img/H36suhVKpKLir-WV.jpg"
+      ],
+      "summary_ko": "100년 전 도시의 모습을 볼 수 있거나 지역 커뮤니티 센터의 새로운 농구 코트를 시각화할 수 있다면 어떨까요? 오늘부터 웹의 @GoogleEarth에 최신 이미지 생성 기능을 제공합니다. Nano Banana 2로 구동되는 풍부한 위성 및 3D 이미지를 텍스트 프롬프트와 결합하여 전 세계에서 가장 좋아하는 장소를 재구성할 수 있습니다. 확대하고 '이미지 만들기'를 탭한 후 보고 싶은 내용을 입력하세요! 이제 누구나 창작을 시작할 수 있습니다. http://goo.gle/4fNJGyt",
+      "published_at": "2026-07-30T18:53:09+00:00"
     },
     {
       "id": "x:demishassabis:2082883806323728416",
@@ -206,7 +432,7 @@
       "author_name": "Google AI(구글 AI)",
       "author_url": "https://x.com/GoogleAI",
       "url": "https://x.com/GoogleAI/status/2082844740446253125",
-      "text": "Pinned: For decades, we’ve dreamed of robots that can seamlessly step into our world and lend a hand. Today, we take a major stride toward making that dream a reality: Introducing Gemini Robotics 2 from @GoogleDeepMind, the intelligence layer powering the next generation of truly adaptable robots. This major advance unlocks intelligent whole-body control, advanced dexterity, and even multi-robot collaboration 🤯. Ok but... how does a robot actually \"think\"? Real-world tasks take time and planning. To manage that complexity, our new embodied reasoning model, Gemini Robotics ER 2, acts as the robot’s high-level brain, enhancing the robot’s capabilities to: — Observe the environment — Reason about the actions needed to complete the task — Coordinate with the vision-language-action model to carry out actions — Track progress until the job is done This setup allows robots to execute complex multi-step workflows, self-correct if a step fails, and adapt to completely novel situations. Learn more about Gemini Robotics ER 2 (and our two other brand new models) here: http://goo.gle/4x4E8q6",
+      "text": "For decades, we’ve dreamed of robots that can seamlessly step into our world and lend a hand. Today, we take a major stride toward making that dream a reality: Introducing Gemini Robotics 2 from @GoogleDeepMind, the intelligence layer powering the next generation of truly adaptable robots. This major advance unlocks intelligent whole-body control, advanced dexterity, and even multi-robot collaboration 🤯. Ok but... how does a robot actually \"think\"? Real-world tasks take time and planning. To manage that complexity, our new embodied reasoning model, Gemini Robotics ER 2, acts as the robot’s high-level brain, enhancing the robot’s capabilities to: — Observe the environment — Reason about the actions needed to complete the task — Coordinate with the vision-language-action model to carry out actions — Track progress until the job is done This setup allows robots to execute complex multi-step workflows, self-correct if a step fails, and adapt to completely novel situations. Learn more about Gemini Robotics ER 2 (and our two other brand new models) here: http://goo.gle/4x4E8q6",
       "images": [
         "https://pbs.twimg.com/amplify_video_thumb/2082844194066870272/img/2E81BSRVREM2nzSa.jpg"
       ],
@@ -486,18 +712,6 @@
       "published_at": "2026-07-30T11:48:58+00:00"
     },
     {
-      "id": "tg:EMchina/31974",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31974",
-      "text": "테슬라, 전세계 첫 1000만대 전기차 생산. 상하이 기가팩토리 상반기 생산량 사상 최고치 경신\n• 7/30 테슬라 전세계 최초로 전기차 생산 1000만대를 달성한 기업\n• 테슬라 주문의 절반 이상은 상하이 기가팩토리에서 인도\n• 2026년 상반기 상하이 기가팩토리 인도 대수는 약 46.8만대. 전년동기대비 +28.4% 증가\n特斯拉全球第1000万辆电动车下线，上海超级工厂上半年产量创新高\n7月30日，特斯拉成为全球首家累计生产1000万辆电动车的企业。全球热销的特斯拉订单，一半以上由特斯拉上海超级工厂交付。2026年上半年，上海超级工厂交付量近46.8万辆，同比增长28.4%。\nhttps://wallstreetcn.com/articles/3778323#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-30T11:24:00+00:00"
-    },
-    {
       "id": "tg:bornlupin/19432",
       "source": "telegram",
       "author": "bornlupin",
@@ -558,42 +772,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-30T09:06:54+00:00"
-    },
-    {
-      "id": "tg:EMchina/31973",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31973",
-      "text": "시장은 여전히 디레버리징 충격. 리스크는 아직 해소되지 않음. 방어적 대응 필요(골드만삭스 트레이딩팀)\n• 시장 디레버리징 거의 막바지. 그러나  기관 레버리지는 여전히 높은 수준. 실질적인 위험 완화는 아직 끝나지 않음\n• 8월 미국 증시는 자금유출, CTA 비대칭 매도 등 다수 역풍에 직면. 단기적으로 박스권 횡보. 기업 자사주 매입이 가장 신뢰할 만한 지지 요인\n• 상관관계 급등하는 등 극단적 위험 확대. 현재는 방어적 포지션(풋옵션 등) 적극 매수하기에 좋은 기회\n高盛：市场仍处\"后去杠杆废墟\"，但风险尚未出清，建议主动买入保护\n高盛交易团队警告，市场去杠杆虽近尾声，但机构杠杆仍处高位，实质降险未完成。8月美股面临资金流出、CTA不对称抛售等多重逆风，短期呈区间震荡，企业回购成最可靠支撑。随着相关性骤升等极端风险升温，当前是主动买入保护性头寸（如看跌期权）的绝佳窗口。\nhttps://wallstreetcn.com/articles/3778309#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-30T08:47:58+00:00"
-    },
-    {
-      "id": "tg:EMchina/31972",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31972",
-      "text": "반도체장비가 막혀 있는데 이걸 줄 이유가 있나요  https://n.news.naver.com/article/001/0016143392?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-30T08:19:14+00:00"
-    },
-    {
-      "id": "tg:EMchina/31971",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31971",
-      "text": "7월 정치국회의 개최  • 5중전회 개최 결정 • 경제상황 및 업무 분석/연구  中共中央政治局召开会议，决定召开二十届五中全会，分析研究当前经济形势和经济工作。中共中央总书记习近平主持会议。（新华社）  • 거시정책 강화 & 효율 제고 • 재정지출 및 채권자금 사용 가속화 촉진  中共中央政治局 会议：宏观政策要发力提效，加快财政支出和债券资金使用进度，有力推进“两重”建设和“两新”工作。  https://wallstreetcn.com/livenews/3142198?ivk=1#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-30T08:16:12+00:00"
     },
     {
       "id": "tg:enc210406/4266",
@@ -658,32 +836,6 @@
       "published_at": "2026-07-30T07:16:18+00:00"
     },
     {
-      "id": "tg:EMchina/31970",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31970",
-      "text": "CXMT 추이  1일차 +465.82% 음봉 2일차 -4.08% 양봉 3일차 +12.66% 양봉",
-      "images": [
-        "https://cdn5.telesco.pe/file/SLqaOaYayu0Y289whIW1o0ajIUmCI53Zve5samcCGuNX6Zez4pC_7HhkMgkDWTjYk4DAnf9Cj2nxFNQl6q5VlJMiM609kyzvPouyFN__4h7Yd52CDe_YFx0S3ONUTyfxxal5yjo8M0jwzp_99s9BW2cfofbTGA4kgL_mzWLiYuLs9KPy3koOb4I2M-tq5oIhM3C3GYqJs1nCjSknuAm3JyLf41PHADZtvLAZXEsWfFZDTm_cZ2e9-MnzSoQJIQLU2ULtHlZ3k8U-pgKsD3adZUa-tVmqqpKFiFg1yRQF3XdAjqnSEq3kvckx8EzMBJEaVALf-vjT7nxkl_CkTPN7og.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-30T07:03:23+00:00"
-    },
-    {
-      "id": "tg:EMchina/31969",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31969",
-      "text": "[한투증권 중국/신흥국 정정영]  • 2Q GDP: '불균형' 성적표 확인  >> 2026년 2분기 중국 경제성장률은 4.3%로 시장 기대(4.5%)와 1분기(5.0%)를 모두 하회했습니다. '불균형'한 경제 성적표가 확인됐습니다. 글로벌 AI 투자 사이클에 동참한 첨단 제조업은 견조한 반면, 내수 회복은 더딥니다. 기업 대비 가계 심리는 상대적으로 약합니다. 이는 중국 정부가 추구하는 방향과는 다른 흐름입니다. 하반기 'K자형 경제'에 균형을 맞추려는…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-30T06:37:10+00:00"
-    },
-    {
       "id": "tg:enc210406/4261",
       "source": "telegram",
       "author": "enc210406",
@@ -704,7 +856,7 @@
       "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
       "author_url": "https://t.me/enc210406",
       "url": "https://t.me/enc210406/4260",
-      "text": "[대한조선 2Q26 실적발표 컨콜_Q&A]\nQ. 일회성 요인 여부 및 내업 공장 중대재해 영향\n▶\n2분기 특별한 일회성 요인은 없었음(조업 일수 정상 반영)\n▶\n1분기 내외 공장 중대재해로 인한 2주 휴업 여파는 매출 약 104억원, 영업이익 약 28억원 수준\n▶\n지연되었던 물량은 2분기에 대부분 캐치업 완료\nQ. 3분기 여름 휴가 일정\n▶\n다음 주 1주일간 본사 공장 여름 휴가 실시(5일간 휴업)\nQ. 최근 선가 흐름 및 수주 실적 추이\n▶\n6월 1일 공시(9.4천만 달러)는 단납기 특수 케이스였음\n▶\n구체적 사양 제외 시 호가는 지속 상승 중\n▶\n매출 반영 선가 추이: 2026년 8.69천만 달러(15척) -> 2027년 8.7천만 달러(14척) -> 2028년 8.78천만 달러(15척)로 상승 흐름\n▶\n최근 LOI 협상 건들은 9.2천만 달러 대비 더 높은 가격으로 진행 중\nQ. 순현금 활용방안\n▶\n상반기 말 순현금 8,000억원 육박하여 매우 우수한 재무 구조 유지 중\n▶\n주주환원율(작년 배당성향 20%)은 후퇴하지 않을 것\n▶\nCAPEX 및 주주환원을 포함한 밸류업 프로그램은 내부 확정 후 3분기 실적 발표 시점(10월 말)에 시장 커뮤니케이션 예정\n▶\n실질적 집행은 4분기 또는 내년 상반기 목표\nQ. 대주주(KHI, 안다H) 지분 오버행 우려\n▶\nKHI 1년 락업 해제 공시는 안내 목적의 테크니컬 공시이며, 시장 매각 가능성은 극히 낮음(2년 락업분 고려 등의 목적)\n▶\n향후 시장 직접 풀기보다는 전략적 투자자(SI) 유치 등 방식 활용할 것으로 예상 중\n▶\n안다H 지분(2월 락업 해제) 역시 아직 시장 매출 물량으로 나오지 않고 있음\nQ. 수에즈막스 운임 및 선가 시황\n▶\n운임 지수 같은 것들은 흘러내리다가 최근 다시 반등하고 있음\n▶\n특히 아프라막스가 많이 좋으면서 수에즈막스까지 같이 밀어 올리는 상황\n▶\n신조 선가는 2분기 반등 후 강보합 유지, 5년 중고 선가는 지속적인 강세 흐름\n▶\n중동 노이즈가 운임이든 신조 선가든 중고 선가든 되게 긍정적인 영향 미치는 중\nQ. 수에즈막스 친환경(DF) 선박 수요\n▶\n최근 LOI 협상 고객은 유럽 신규 선주들로, 발주 수요가 다변화되고 견조하게 유지됨\n▶\n해운사들이 코로나 때부터 돈을 많이 벌어서 20년 넘은 노후선뿐만 아니라 15년 된 배도 바꾸는 상황\n▶\n친환경(DF) 엔진 인콰이어리가 확 늘어난다고 말씀드리기는 힘들지만, IMO 규제 이슈가 딜레이되면서 1년 전 대비 모텀은 살짝 꺾인 상태\n▶\n탱커 선주들은 ROI를 따지기 때문에 비싼 친환경 엔진보다는 기존 디젤 엔진 속도를 낮춰서(감속 운항) 규제 맞추는 것을 선호\n▶\n속도를 낮추게 되면 톤마일이 줄어들어 실질적으로 필요한 배 척수가 늘어나므로 당사 입장에서는 직접적인 수혜가 큼\n▶\n당사도 이미 DF 선박 2척 건조 경험이 있고 늘 준비는 되어 있음\n▶\n슬롯 확장을 통한 물량(Q) 성장이 2030년부터 한계에 도달하면 가격(P)을 올리기 위해 똑같은 수에즈막스 내에서도 더 부가가치 높은 선박을 수주하도록 노력할 계획",
+      "text": "[대한조선 2Q26 실적발표 컨콜_Q&A]\nQ. 일회성 요인 여부 및 내업 공장 중대재해 영향\n▶\n2분기 특별한 일회성 요인은 없었음(조업 일수 정상 반영)\n▶\n1분기 내업 공장 중대재해로 인한 2주 휴업 여파는 매출 약 104억원, 영업이익 약 28억원 수준\n▶\n지연되었던 물량은 2분기에 대부분 캐치업 완료\nQ. 3분기 여름 휴가 일정\n▶\n다음 주 1주일간 본사 공장 여름 휴가 실시(5일간 휴업)\nQ. 최근 선가 흐름 및 수주 실적 추이\n▶\n6월 1일 공시(9.4천만 달러)는 단납기 특수 케이스였음\n▶\n구체적 사양 제외 시 호가는 지속 상승 중\n▶\n매출 반영 선가 추이: 2026년 8.69천만 달러(15척) -> 2027년 8.7천만 달러(14척) -> 2028년 8.78천만 달러(15척)로 상승 흐름\n▶\n최근 LOI 협상 건들은 9.2천만 달러 대비 더 높은 가격으로 진행 중\nQ. 순현금 활용방안\n▶\n상반기 말 순현금 8,000억원 육박하여 매우 우수한 재무 구조 유지 중\n▶\n주주환원율(작년 배당성향 20%)은 후퇴하지 않을 것\n▶\nCAPEX 및 주주환원을 포함한 밸류업 프로그램은 내부 확정 후 3분기 실적 발표 시점(10월 말)에 시장 커뮤니케이션 예정\n▶\n실질적 집행은 4분기 또는 내년 상반기 목표\nQ. 대주주(KHI, 안다H) 지분 오버행 우려\n▶\nKHI 1년 락업 해제 공시는 안내 목적의 테크니컬 공시이며, 시장 매각 가능성은 극히 낮음(2년 락업분 고려 등의 목적)\n▶\n향후 시장 직접 풀기보다는 전략적 투자자(SI) 유치 등 방식 활용할 것으로 예상 중\n▶\n안다H 지분(2월 락업 해제) 역시 아직 시장 매출 물량으로 나오지 않고 있음\nQ. 수에즈막스 운임 및 선가 시황\n▶\n운임 지수 같은 것들은 흘러내리다가 최근 다시 반등하고 있음\n▶\n특히 아프라막스가 많이 좋으면서 수에즈막스까지 같이 밀어 올리는 상황\n▶\n신조 선가는 2분기 반등 후 강보합 유지, 5년 중고 선가는 지속적인 강세 흐름\n▶\n중동 노이즈가 운임이든 신조 선가든 중고 선가든 되게 긍정적인 영향 미치는 중\nQ. 수에즈막스 친환경(DF) 선박 수요\n▶\n최근 LOI 협상 고객은 유럽 신규 선주들로, 발주 수요가 다변화되고 견조하게 유지됨\n▶\n해운사들이 코로나 때부터 돈을 많이 벌어서 20년 넘은 노후선뿐만 아니라 15년 된 배도 바꾸는 상황\n▶\n친환경(DF) 엔진 인콰이어리가 확 늘어난다고 말씀드리기는 힘들지만, IMO 규제 이슈가 딜레이되면서 1년 전 대비 모텀은 살짝 꺾인 상태\n▶\n탱커 선주들은 ROI를 따지기 때문에 비싼 친환경 엔진보다는 기존 디젤 엔진 속도를 낮춰서(감속 운항) 규제 맞추는 것을 선호\n▶\n속도를 낮추게 되면 톤마일이 줄어들어 실질적으로 필요한 배 척수가 늘어나므로 당사 입장에서는 직접적인 수혜가 큼\n▶\n당사도 이미 DF 선박 2척 건조 경험이 있고 늘 준비는 되어 있음\n▶\n슬롯 확장을 통한 물량(Q) 성장이 2030년부터 한계에 도달하면 가격(P)을 올리기 위해 똑같은 수에즈막스 내에서도 더 부가가치 높은 선박을 수주하도록 노력할 계획",
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-30T06:13:19+00:00"
@@ -796,56 +948,6 @@
       "published_at": "2026-07-30T02:06:29+00:00"
     },
     {
-      "id": "tg:bornlupin/19426",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19426",
-      "text": "Q. 메모리 다년 공급 계약에 대한 디테일 공유 요망\n메모리 공급 부족 장기화를 시장이 인식함에 따라 많은 고객사들이 다년 공급 계약을 요청 중\n다년 공급 계약에 대한 고객 요청은 당사의 미래 리스크 헷지와 이해관계가 일치, 확정적 미래 수요를 기반으로 계약 이행에 대한 상호 구속력을 수용할 수 있는 고객을 중심으로 계약 체결 중\n그러나 LTA 고객은 물론 non-LTA 고객까지 모두 디램, 낸드 추가 공급 요청 중, 시장 가격 상승도 지속 중인 상황에서 거의 모든 고객들이 다년 계약 요청 중으로 당사는 주어진 capa 내 모든 요청을 대응하기에는 어려움을 겪고 있음\n다년 계약 고객 외 고객 수요에도 대응하기 위해 공급 유연성 확보 차원에서 전체 capa의 60~70% 선에서 다년 계약 계획 중\n이미 계약 완료된 고객들도 추가적인 공급 증량을 요청 중임\n당사는 5년을 기본으로 하는 다년 계약을 체결 중이며, 이는 계약 상 매년 협상을 더해 추가 1년을 더해 나가는 롤링 형태\n당사는 이런 5개년 중장기 롤링 계약 기반 구조를 정착시켜 향후 중장기 수주사업 비중을 일정 수준 이상 확보해 ,메모리 사업구조를 안정적으로 변화시킬 것\n주요 5대 글로벌 하이퍼스케일러와 이미 계약 완료, 추가적으로 AI와 연관된 대형 5개 고객사와 협상 완료 단계에 있음\n다년 공급 계약을 원하는 고객이 추가적으로 있어 시간이 지날수록 다년 공급 계약의 고객 수는 늘어날 것\n협상 진행 중인 계약이 완료되면 디램, 낸드 공히 중장기 생산 계획 기준 당사가 계획 중인 capa의 60~70% 수준 충분히 달성 가능할 것\n추가적인 계약 요청 건에 대해 고객과 논의 예정, 중장기 증산 가능 시나리오와 연계하여 다각도로 검토할 것임\n다년 공급 계약의 이행 관련, 구속력을 높이기 위해 다년간 보유하는 예치금 성격의 선수금을 상당 규모로 계약에 포함, 그 중 1/4을 이미 수취함.\n추가 계약 진행에 따라 전체 선수금 규모는 늘어날 것. 단, 고객과의 NDA 준수를 위해 선수금 규모는 언급 불가\n계약가격 모델 관련, 당사는 일정 수준 미래 투자 리스크를 상쇄하기 위한 수준의 가격 모델을 계약에 반영하는 것이 목표\n고객군 및 제품군에 따라 상이한 가격 모델을 적용, 고객과 향후 협의할 계획에 있음\n범용 제품의 경우 시장 가격 등락에 따른 미래 투자 리스크를 헷지할 수 있는 수준의 하한가격이 설정됨\n당사는 이러한 다년공급계약을 통해 중장기 안정적 사업구조 확보, AI 생태계의 큰 축인 고객사에게 중장기 공급 가시성을 제공, 전체 AI 산업의 건전한 성장을 지원하고자 함\n특정 고객에 지나치게 편중되지 않은 균형적인 고객 포트폴리오 운영 원칙을 갖고 있음, 이러한 원칙을 다년 계약에도 반영할 것\n특히 메모리 시장은 과거 소비자향 응용 중심으로 업황 등락이 반복되었던 문제 있었음. 다년 공급계약에 기반한 수주산업 기반 확대 통해 사업 안정성과 가시성 확연히 개선할 수 있을것\n중장기 수요 가시성이 높은 AI 응용이 높은 사업의 포트폴리오 비중 높여나가며 메모리 리더십 강화를 지속하겠음",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-30T02:06:14+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19425",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19425",
-      "text": "삼성전자 2Q26 C/C Q/A (1)\n1) 3개년 주주환원 정책의 마지막 해인 상반기가 지나간 시점에서 차기 정책 방향성?\n- 약속대로 이행할 계획. 특별배당을 포함한 주주환원 정책과 차기 정책 관련 논의 지속 중. 다만 고객사 LTA 선수금 및 임직원 자사주보상이 FCF에 영향을 줄 수 있다는 점을 사전고지. 믿고 기다려주신 주주 여러분께 곧 좋은 결과 보여드릴 것\n2) 중장기 메모리 수요 전망?\n- 신규 팹 건설부터 웨이퍼 생산까지 3년반이 넘는 긴 리드타임 감안 시 28년까지는 큰 폭의 공급확대 기대하기 어려움. 수요 상황 감안 시 올해 미충족 수요가 내년으로 이연되면서 추가 공급 부담으로 이어짐.\n따라서 27년 공급부족 올해보다 심화되고 28년에도 지속될 것. 29년 이후는 아직 확신할 수 없지만 대형 고객사의 다년 공급계약 요청 지속되고 있어 중장기 수요 가시성 확보\n3) HBM과 컨벤셔널 DRAM의 믹스 기조가 어떤지? HBM4 사업 현황 디테일은?\n- 수익성 차이와는 별개로 균형적인 공급 믹스 운영하겠다고 지난 분기에 언급. HBM 수요 증가에 대해서도 동일한 기조 적용. HBM4 고객 과제 하반기 램프업 속도에 맞춰 수요 증가중.\nHBM4 매출은 3분기 전분기 대비 3배 이상 증가. 하반기에는 HBM4가 HBM 전체 매출의 60%를 넉넉히 상회할 것. DRAM 시장점유율과 동등한 수준의 HBM 시장점유율 확보할 것\n4) 2분기 성과급 충당금 반영 규모와 향후 계획?\n- 상반기 누계로 충당금 반영하였음. 반기 누적 영업이익의 10.5% 충당하였음. 충당금 설정 시점과 손익계산서 반영 시점은 회계적으로 차이가 있음. 일정 부분은 제조원가 및 노무비로 포함. 따라서 실제 2분기 손익계산서 상 비용 인식된 것은 전체 충당금 비용보다 적음\n5) 미국 ADR 상장 가능성?\n- 필요성도 없고 검토하고 있지 않음. 다양한 방안 중 하나로 오픈해두고 추후 검토는 가능하다",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-30T01:46:28+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19424",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19424",
-      "text": "키옥시아 +15.29%\n7월 31일 실적발표 예정",
-      "images": [
-        "https://cdn5.telesco.pe/file/CO1oOAIYU_zTcTpZ1qSXsBpSn77KvHaN2zsYOBapQFIyS08N4UcsIq97U7G0CE0PB8z3ifSaCT7bgc0BbU9Vfr_7uEFdxIRor8UtWK-I7EyifDNX0agewcnt6mPIRPmSpnAYevowRqNOy3bk4GJ-h1V0Rr4FNpZzsHlzCg9pNQLEfEJMkx1Lgdw3lY-HT34tbbobZVz4BxSl1TMP7-VGokT8pr-X05w3MjrluyhNujVCVxTbM0K71BiVg-sCSbXZMCgiIJetYsQNmVTVkxXGBBQ3v27ecsYKhyHI_ZXbVOXas1THqUER6pGAob-nQVa6MWdALHmZjKUh0KG42JQogA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-30T01:40:58+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19423",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19423",
-      "text": "2분기 B/G와 ASP 모두 잠정실적 발표 당시 추정했던 것보다도 더 좋았고, 3분기 빗 가이던스도 예상보다 더 높아서 하반기 추정치 올라가야 될 거 같은데요\n파운드리도 충당금 반영 제외하면 큰 폭으로 개선됐고, 하반기 매출 두 자릿수 이상 확대…. 좋은데 너무 좋은데!!!",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-30T01:33:09+00:00"
-    },
-    {
       "id": "tg:enc210406/4255",
       "source": "telegram",
       "author": "enc210406",
@@ -904,18 +1006,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-30T01:20:26+00:00"
-    },
-    {
-      "id": "tg:enc210406/4252",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4252",
-      "text": "HD한국조선해양은\nHD현대 그룹의 M.A.S.G.A 구심점입니다.\n동일한 포인트로\n지난해 3~4분기에 보인 주가 상승세를\n재현할 것을 전망합니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-30T01:02:35+00:00"
     },
     {
       "id": "tg:globaletfi/20842",
@@ -1086,33 +1176,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-29T23:33:30+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20834",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20834",
-      "text": "[하나 Global ETF Daily (7/30)]\n▶️\n하나 Global ETF 박승진(T.3771-7761)\n▶️\nRA 신민건(T.3771-3269)\n▶️\n텔레그램:\nhttps://t.me/globaletfi\n🔹\n주요 ETF Daily 수익률\n(2026.7.29 종가 기준)\n» 주요 시장 ETF\nSPY -1.54%\nQQQ -2.04%\nDIA -2.18%\nIWM -1.64%\n» 주요 국채 ETF\nSHY 0.06%\nIEF -0.42%\nTLT -1.65%\n» 주요 섹터/테마 ETF\n에너지(XLE) 1.88%\n중국 테크(KWEB) 1.79%\n천연자원(GNR) 0.57%\n🔹\nETF News\n[Yahoo Finance] 유가 급등 속 빛난 에너지 ETF, AI 투자 우려에 기술주는 조정\n-\nhttps://buly.kr/BIXJz9R\n- 중동 지역의 지정학적 긴장 재고조와 국제유가 급등 속에서 뉴욕증시가 전반적으로 하락세를 나타냄\n- S&P 500 지수가 0.6% 하락하고 나스닥 지수가 2.1% 급락한 가운데, 원유 수송 요충지인 호르무즈 해협의 통행량 급감과 후티 반군의 공격 지속으로 원유 공급망 리스크가 고조\n- 이에 따라 브렌트유 가격을 추종하는 BNO가 한 주 동안 8% 급등\n- 이러한 지정학적 불안 속에서도 미국 대형 은행들은 활발한 트레이딩 실적, 견조한 소비 지출, 건강한 대출 수요, 자본시장 회복 및 IB 수수료 증가에 힘입어 견정한 실적을 거둔 것으로 파악\n- 반면 기술주 시장은 AI 투자 과열 및 수익성 논란에 휩싸이며 약세를 면치 못함\n- 빅테크 7개 기업에 투자하는 MAGS가 지난주 약 6% 하락했으며, 특히 Alphabet과 Tesla가 하락세를 주도\n- Alphabet은 호실적 발표에도 불구하고 AI 인프라 관련 자본 지출(CapEx) 대폭 증가에 대한 우려로 매도세에 직면\n- Tesla 역시 휴머노이드 로봇 옵티머스의 상업화까지 장기간이 소요될 것이며 당장 의미 있는 매출 창출이 어렵다는 분석 속에 주가가 하락\n- 빅테크의 막대한 AI 투자가 단기 수익성 훼손 우려로 이어지며 증시 전반에 부담을 준 것으로 분석\n- 하락장 속에서 원유 선물에 투자하는 에너지 원자재 ETF는 압도적인 수익률을 기록하며 주간 상승률 상위권을 기록\n- 특히 WTI 선물 기반 지수를 추종하는 DBO가 한 주 동안 10.5% 급등하며 강세를 보임\n- DBO는 규칙 기반 펀드로 운용보수는 0.73% 수준임. 결과적으로 지난주 시장은 지정학적 리스크로 인한 에너지 자산의 강세와 AI 실질 수익화 검증 요구에 따른 기술주 조정이라는 선별적 흐름이 뚜렷하게 나타난 것으로 판단\n[Morningstar] 영국 중형주에 투자하는 최고의 FTSE 250 ETF 4선 분석\n-\nhttps://buly.kr/AF2m6Bh\n- FTSE 250 지수는 대형주 중심의 FTSE 100 지수를 넘어 영국의 고성장 중형 기업에 투자할 수 있는 대표적인 경로\n- 영국의 중형주 펀드들은 총자산의 75% 이상을 영국 주식에 투자해야 하며, 동일 지수를 추종하더라도 운용 전략과 수수료에 따라 성과 차이가 발생\n- 모닝스타는 메달리스트 레이팅 '브론즈' 등급 이상을 획득하고 우수한 성과를 기록한 FTSE 250 추종 ETF 4종을 선정\n- 첫째, HMCX는 펀드 규모 5,760만 파운드, 총보수 0.26% 수준으로 지난 12개월간 13.02% 상승하며 동일 카테고리 평균 수익률(9.99%)을 크게 웃돎. 최근 3년 및 5년 수익률은 각각 11.17%, 3.69%를 기록\n- 둘째, XMCX는 2,950만 파운드의 순자산을 보유하고 있으며 총보수는 0.15%로 저렴함. 지난 12개월간 12.96% 상승해 카테고리 평균을 상회했으며 3년 및 5년 수익률은 각각 11.30%, 3.83%를 기록\n- 셋째, S250은 펀드 규모 2,700만 파운드로, 선정된 펀드 중 가장 낮은 0.12%의 총보수를 부과. 지난 12개월간 11.69%의 수익률을 올렸으며 3년 및 5년 수익률은 각각 10.96%와 3.93%를 기록해 저비용 효율성을 입증\n- 넷째, VMID는 21억 파운드 규모의 거대한 순자산을 자랑하는 대표 상품으로, 총보수는 0.35%이나 지난 12개월간 13.16% 상승해 가장 뛰어난 1년 성과를 거둠\n- 이들 4종의 ETF는 모두 동일 카테고리 평균을 상회하는 견조한 성과를 올리며 영국 중형주 시장의 우수한 접근성을 제공\n- 거대한 순자산과 풍부한 유동성을 선호할 경우 VMID가 최적의 선택이 될 수 있으며, 비용 효율성을 극대화하려는 투자자에게는 0.12%~0.15%의 낮인 보수를 부과하는 S250이나 XMCX가 유효한 대안이 될 것으로 판단\n- 결과적으로 FTSE 250 ETF는 영국 중형 기업의 성장에 장기 투자하려는 투자자들에게 전략적인 포트폴리오 다변화 수단을 제공 중",
-      "images": [
-        "https://cdn5.telesco.pe/file/rOlvRG2GCekBboUXl-zGgl4yJtkXf8PDUAY2-3_SwWV49tirem6T2yfMby3kR72zVXo_1eZH2u9-LYuHOUgag1kxygH3EM7iHO-rNUOIQaaHwMSFdlarxnQ7Wpue-c2i92MnNg1rIoMRmefbn9fUmTlSzI6zJwgyCuvgwCS1hQ_gx5W1FT5SG8E2EhsnD0aHdZ_Scyf86QtuJnOT0NrTb0sCMjg2Pne_kwpS4tfF_gC2shYcif6ft6qiNc6pDOFtgOLioDV96GpfGammUPM5z8rIKbcDjfFbgj6Wmm2fJikKjDUA0VlmFrB2pAhjRGOw_FZz4gEqONaZGjMgK9Q06Q.jpg",
-        "https://cdn5.telesco.pe/file/MQxDVGbYloOJhp0fSBXC8w4u4Ilf_UC61a1GcnCZ6YHRPOKHFqnQgFa2yUYSAOYJpG-0YkBjDeXG6rhGP-Ri98LGqUHe5vwfz96kZZomdma-I5XT3fu_sPyq4KX4bVMTE3Ti_w-UZCLDHbtEYjYr-Ojbz9n3ExLgj1lYo6f2xiYri28mViWleVesT9uzQuQsQ6uLYgw0FdHQL-wZf0CYAD63h3VH6YQrNAQwPYDwAThiEcwawqFguzqy03kpktHO7-e2R6_IIoKfHsdAyAj9PKOSZWDW7sUGnNWSKAIlXry9Ounqqhj5j6M3-fpP7u6-7sBtyeQnauEn0rzaydcMvQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-29T23:33:15+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20832",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20832",
-      "text": "하나증권 중국기업분석\n[중국 Spot News]\n▶\n전기차: 7/29 중국 공업정보화부(MIIT)가 스마트 커넥티드 신에너지차 산업을 위한 15차 5개년 계획의 수립 및 발표를 앞당기겠다고 밝힘. 이로 인해 전일 홍콩 상장 전기차 기업 주가가 일제히 급등. 리오토(\n2015.HK\n) +10%, 립모터 10%, 광저우자동차(\n2238.HK\n) +7%, 지리자동차(\n0175.HK\n) +6%, BYD(\n1211.HK\n) +4%, 샤오펑(\n9868.HK\n) +4% 상승.\n▶\n모멘타(\n6880.HK\n): 7/29 중국 자율주행 기업 모멘타는 독일 연방자동차청(KBA)으로부터 독일 전역의 도시도로에서 L4 자율주행 시험을 진행할 수 있는 허가를 획득. 중국 기업 최초로 독일 전국 단위 L4 테스트 라이선스를 확보했으며, 이번 허가로 도시별 별도 시험 허가 없이 독일 전역에서 테스트를 진행할 수 있게 됨. 모멘타는 우버와 협력해 독일 뮌헨을 유럽 최초의 로보택시 서비스 도시로 만들 계획.\n▶\n유니트리(비상장): 7/28 유니트리의 아시아태평양 총괄 Irving Chen은 2026년 자사 휴머노이드 로봇 출하량이 최소 2배, 최대 3배 수준까지 증가할 것으로 전망, 이에 대응하기 위해 유니트리의 연간 생산능력은 최대 3만대까지 확대될 수 있다고 언급. 또한, 해외 수요 증가에 따라 향후 해외에서 로봇을 조립하는 방안도 검토하고 있다고 밝힘.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-29T23:32:48+00:00"
     },
     {
       "id": "tg:HI_GS/6803",
@@ -1841,35 +1904,6 @@
       "published_at": "2026-07-22T02:41:34+00:00"
     },
     {
-      "id": "x:GoogleDeepMind:2079653801502380543",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2079653801502380543",
-      "text": "R to @GoogleDeepMind: It even outperforms 3 Flash on many agentic and coding benchmarks. 3.5 Flash-Lite is rolling out in the @GeminiApp and @Google Search, with API access in @GoogleAIStudio and @AndroidStudio. Find out more → https://goo.gle/4yyNkoi",
-      "images": [
-        "https://pbs.twimg.com/media/HNxpE8VXMAA_psJ.png",
-        "https://pbs.twimg.com/media/HNxpE8kW0AA4cP1.png"
-      ],
-      "summary_ko": "R에서 @GoogleDeepMind로: 많은 에이전트 및 코딩 벤치마크에서 3 Flash보다 성능이 뛰어납니다. 3.5 Flash-Lite는 @GoogleAIStudio 및 @AndroidStudio에서 API 액세스를 통해 @GeminiApp 및 @Google 검색에서 출시됩니다. 자세히 알아보기 → https://goo.gle/4yyNkoi",
-      "published_at": "2026-07-21T19:44:39+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2079653799602368604",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2079653799602368604",
-      "text": "Gemini 3.5 Flash-Lite is our fast, cost-effective model for scaling repetitive use cases like sorting tickets and extracting data. Watch how it performs against 3.5 Flash on a series of high volume tasks ↓",
-      "images": [
-        "https://pbs.twimg.com/media/HNxqPHHW4AAvNdq.jpg"
-      ],
-      "summary_ko": "Gemini 3.5 Flash-Lite는 티켓 정렬 및 데이터 추출과 같은 반복적인 사용 사례를 확장하기 위한 빠르고 비용 효율적인 모델입니다. 일련의 대용량 작업에서 3.5 Flash에 대해 어떻게 수행되는지 확인하세요 ↓",
-      "published_at": "2026-07-21T19:44:38+00:00"
-    },
-    {
       "id": "x:GoogleAI:2079617029473182132",
       "source": "x",
       "author": "GoogleAI",
@@ -1882,20 +1916,6 @@
       ],
       "summary_ko": "AI 모델은 이제 우리가 수정하는 것보다 더 빨리 취약점을 찾아내고 있으므로 소프트웨어 보안에 대한 우리의 접근 방식은 매우 효율적이고 유능한 모델을 기반으로 구축되어야 합니다. 오늘의 세 번째(!) 모델 출시는 다음과 같습니다: Gemini 3.5 Flash Cyber ​​⚡🛡️ 3.5 Flash를 기반으로 구축된 CodeMender(코드 보안용 AI 에이전트)는 최전선에서 경쟁력 있는 성능을 제공합니다. CyberGym과 같은 벤치마크에서 사용되며 저렴한 비용으로 규모에 맞게 사이버 보안 취약성을 찾아 수정하는 데 최적화되어 있습니다. 이 기술의 이중 용도 특성을 고려하여 우리는 배포에 대해 의도적인 접근 방식을 취했습니다. 이 모델은 제한된 액세스 파일럿 프로그램의 일환으로 곧 CodeMender를 통해 정부 및 신뢰할 수 있는 파트너에게만 독점적으로 제공될 예정입니다.",
       "published_at": "2026-07-21T17:18:31+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2079615466356580535",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2079615466356580535",
-      "text": "Gemini 3.6 Flash builds directly on feedback from 3.5 Flash. Watch how it compares on quality and token usage ↓",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2079614096748564480/img/pE7EXoMbaLW-5bI1.jpg"
-      ],
-      "summary_ko": "Gemini 3.6 Flash는 3.5 Flash의 피드백을 직접 기반으로 구축되었습니다. 품질과 토큰 사용량을 비교해보세요 ↓",
-      "published_at": "2026-07-21T17:12:19+00:00"
     },
     {
       "id": "x:karpathy:2079610838143623371",
@@ -2427,20 +2447,6 @@
         "https://pbs.twimg.com/card_img/2081088148843708416/p7_eVBUE?format=jpg&name=800x419"
       ],
       "summary_ko": "R에서 @GoogleAI로: 자세한 내용은 블로그를 읽어보세요. https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
-      "published_at": "2026-06-09T15:18:23+00:00"
-    },
-    {
-      "id": "x:GoogleAI:2064366504112505266",
-      "source": "x",
-      "author": "GoogleAI",
-      "author_name": "Google AI(구글 AI)",
-      "author_url": "https://x.com/GoogleAI",
-      "url": "https://x.com/GoogleAI/status/2064366504112505266",
-      "text": "Today, we released Gemini 3.5 Live Translate, our latest audio model for live speech-to-speech translation. It supports over 70 languages and starts translating as soon as you start talking, streaming translations while listening to what you say next. No awkward pauses or choppy audio, just real connection without language barriers. So, how does it work? 🤔 The model is able to make split-second decisions to juggle speed and translation quality so conversations actually feel fluid, human, and natural. In order to do this, the model must receive and contextualize the input while simultaneously outputting the translated speech. Through this process, Gemini 3.5 Live Translate manages to stay mere seconds behind each speaker and can even maintain pacing, pitch, and intonation across extended sessions. See it in action below, or try it yourself in the Google Translate app on iOS & Android.",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2064364990404997120/img/LtXo1rvetU4Kr3Yt.jpg"
-      ],
-      "summary_ko": "오늘 우리는 실시간 음성 대 음성 번역을 위한 최신 오디오 모델인 Gemini 3.5 Live Translate를 출시했습니다. 70개 이상의 언어를 지원하며 말하기 시작하자마자 번역을 시작하고 다음에 말하는 내용을 들으면서 번역을 스트리밍합니다. 어색한 일시정지나 끊어지는 오디오가 없으며 언어 장벽 없이 실제 연결이 가능합니다. 그렇다면 어떻게 작동하나요? 🤔 이 모델은 속도와 번역 품질을 조정하기 위해 순간적인 결정을 내릴 수 있으므로 대화가 실제로 유동적이고 인간적이며 자연스럽게 느껴집니다. 이를 위해 모델은 입력을 수신하고 맥락화하는 동시에 번역된 음성을 출력해야 합니다. 이 프로세스를 통해 Gemini 3.5 Live Translate는 각 스피커 뒤에 단 몇 초만 머물 수 있으며 확장된 환경에서도 속도, 피치 및 억양을 유지할 수 있습니다.",
       "published_at": "2026-06-09T15:18:23+00:00"
     },
     {
