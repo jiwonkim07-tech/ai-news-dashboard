@@ -1,22 +1,114 @@
 {
-  "updated_at": "2026-07-30T16:26:22+00:00",
+  "updated_at": "2026-07-30T18:16:01+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 2
+    "new_this_run": 16
   },
   "briefing": {
-    "headline": "최태원 회장, SK하이닉스 주식 3620주 매입",
+    "headline": "OpenAI, GPT-5.6 Luna 가격 80% 인하",
     "bullets": [
+      "Gemini Robotics 2 출시",
       "테슬라, 전세계 첫 1000만대 전기차 생산",
+      "최태원 SK 회장, SK하이닉스 주식 3620주 매입",
       "미국 2분기 GDP 성장률 +1.5% 기록",
-      "중국 2분기 경제성장률 4.3%로 시장 기대 하회",
-      "삼성전자 TP 40만원으로 하향 조정",
-      "마이크로소프트, Azure 가속으로 성장"
+      "마이크로소프트, 성장과 마진 균형으로 전망 상향"
     ],
-    "generated_at": "2026-07-30T16:26:22+00:00",
+    "generated_at": "2026-07-30T18:16:01+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:demishassabis:2082883806323728416",
+      "source": "x",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2082883806323728416",
+      "text": "Gemini Robotics 2 is here, with our new suite of models, robots can now reason through every movement to manage tasks that weren’t possible before, like tying delicate knots - and even team up to solve complex workflows. Huge congrats to the robotics team on this great milestone!",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2082842377991933952/img/sR12pig4K7ksJ1FC.jpg"
+      ],
+      "summary_ko": "Gemini Robotics 2가 출시되었습니다. 새로운 모델 제품군을 통해 로봇은 이제 모든 움직임을 통해 추론하여 섬세한 매듭을 묶는 것과 같이 이전에는 불가능했던 작업을 관리할 수 있으며 심지어 팀을 구성하여 복잡한 작업 흐름을 해결할 수도 있습니다. 이 위대한 이정표를 달성한 로봇팀에게 큰 축하를 전합니다!",
+      "published_at": "2026-07-30T17:39:32+00:00"
+    },
+    {
+      "id": "x:sama:2082881262679642281",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2082881262679642281",
+      "text": "good job little bro",
+      "images": [],
+      "summary_ko": "잘했어 동생",
+      "published_at": "2026-07-30T17:29:25+00:00"
+    },
+    {
+      "id": "x:sama:2082880884525482061",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2082880884525482061",
+      "text": "R to @sama: we want to offer the best price/intelligence tradeoff at every level",
+      "images": [],
+      "summary_ko": "R에서 @sama로: 우리는 모든 수준에서 최고의 가격/지능 절충안을 제공하고 싶습니다.",
+      "published_at": "2026-07-30T17:27:55+00:00"
+    },
+    {
+      "id": "x:sama:2082880720989532597",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2082880720989532597",
+      "text": "major price cuts today: *80% drop for GPT-5.6 Luna, now $0.20 per million input tokens and $1.20 per million output *20% drop for GPT-5.6 Terra, to $2/$12 *GPT-5.6 Sol gets Fast mode in the API, up to 2.5x the speed for 2x the price, same intelligence",
+      "images": [
+        "https://pbs.twimg.com/media/HOfg3rSWsAACTkR.png"
+      ],
+      "summary_ko": "오늘 주요 가격 인하: *GPT-5.6 Luna의 경우 80% 인하(현재 입력 토큰 백만 개당 $0.20 및 출력 백만 달러당 $1.20) *GPT-5.6 Terra의 경우 20% 인하($2/$12) *GPT-5.6 Sol은 API에서 고속 모드를 얻습니다. 가격은 2배, 가격은 최대 2.5배, 인텔리전스는 동일합니다.",
+      "published_at": "2026-07-30T17:27:16+00:00"
+    },
+    {
+      "id": "x:OpenAI:2082879614532370847",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2082879614532370847",
+      "text": "R to @OpenAI: openai.com/index/advancing-t…",
+      "images": [
+        "https://pbs.twimg.com/card_img/2082876897927827456/MgGf1-vA?format=jpg&name=800x419"
+      ],
+      "summary_ko": "R에서 @OpenAI로: openai.com/index/advancing-t…",
+      "published_at": "2026-07-30T17:22:52+00:00"
+    },
+    {
+      "id": "x:OpenAI:2082878192390689147",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2082878192390689147",
+      "text": "R to @OpenAI: Making advanced intelligence more abundant and affordable is central to our mission to ensure AGI benefits all of humanity. With the help of GPT-5.6 Sol, we have made leaps in efficiency. Today, we are passing those gains on in the API with lower prices for Luna and Terra, and providing faster performance to Sol. These updates help everyone get more useful work from every dollar and move faster when time matters. https://x.com/OpenAI/status/2082577277246972300",
+      "images": [],
+      "summary_ko": "R에서 @OpenAI로: 고급 지능을 더욱 풍부하고 저렴하게 만드는 것은 AGI가 모든 인류에게 혜택을 줄 수 있도록 보장하는 우리의 사명의 핵심입니다. GPT-5.6 Sol의 도움으로 효율성이 크게 향상되었습니다. 현재 우리는 API의 이러한 이점을 Luna 및 Terra의 저렴한 가격으로 전달하고 Sol에 더 빠른 성능을 제공하고 있습니다. 이러한 업데이트를 통해 모든 사람이 적은 비용으로 더 유용한 작업을 수행하고 시간이 중요한 경우 더 빠르게 이동할 수 있습니다. https://x.com/OpenAI/status/2082577277246972300",
+      "published_at": "2026-07-30T17:17:13+00:00"
+    },
+    {
+      "id": "x:OpenAI:2082878156483219672",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2082878156483219672",
+      "text": "We are committed to pushing the model frontier across cost efficiency, capability, and speed. Starting today, we are reducing prices for GPT-5.6 Luna by 80% and GPT-5.6 Terra by 20% , and offering a faster option for GPT-5.6 Sol in the API. Luna and Terra’s lower prices are reflected in how usage is counted in Codex and ChatGPT Work, so your usage goes further.",
+      "images": [
+        "https://pbs.twimg.com/media/HOfepUra4AAUEZi.png"
+      ],
+      "summary_ko": "우리는 비용 효율성, 기능 및 속도 측면에서 모델의 한계를 뛰어넘기 위해 최선을 다하고 있습니다. 오늘부터 GPT-5.6 Luna의 가격을 80%, GPT-5.6 Terra의 가격을 20% 인하하고 API에서 GPT-5.6 Sol에 대한 더 빠른 옵션을 제공합니다. Luna와 Terra의 저렴한 가격은 Codex 및 ChatGPT Work에서 사용량이 계산되는 방식에 반영되므로 사용량이 더 늘어납니다.",
+      "published_at": "2026-07-30T17:17:05+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24186",
       "source": "telegram",
@@ -42,6 +134,90 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-30T15:51:26+00:00"
+    },
+    {
+      "id": "x:sama:2082855170296205719",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2082855170296205719",
+      "text": "RT by @sama: one of the most beautiful things about OpenAI is that every employee really has a voice. i wanted to capture what it feels like to work here, what our mission means to me, and why you should join us. so i made this video with Codex, shared it with the team, and they felt it was worth producing and sharing with the world. this is our mission. and it’s why i’m here.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2082847297700777984/img/vnek_Bg-PNRBh6G7.jpg"
+      ],
+      "summary_ko": "@sama의 RT: OpenAI의 가장 아름다운 점 중 하나는 모든 직원이 실제로 목소리를 낼 수 있다는 것입니다. 저는 여기서 일하는 것이 어떤 느낌인지, 우리의 사명이 나에게 어떤 의미인지, 그리고 왜 우리와 함께해야 하는지를 포착하고 싶었습니다. 그래서 이 영상을 Codex로 제작해서 팀과 공유했더니, 제작해서 전 세계와 공유할 가치가 있다고 느꼈어요. 이것이 우리의 사명입니다. 그게 내가 여기 있는 이유야.",
+      "published_at": "2026-07-30T15:45:44+00:00"
+    },
+    {
+      "id": "x:OpenAI:2082855170296205719",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2082855170296205719",
+      "text": "RT by @OpenAI: one of the most beautiful things about OpenAI is that every employee really has a voice. i wanted to capture what it feels like to work here, what our mission means to me, and why you should join us. so i made this video with Codex, shared it with the team, and they felt it was worth producing and sharing with the world. this is our mission. and it’s why i’m here.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2082847297700777984/img/vnek_Bg-PNRBh6G7.jpg"
+      ],
+      "summary_ko": "@OpenAI의 RT: OpenAI의 가장 아름다운 점 중 하나는 모든 직원이 실제로 목소리를 낼 수 있다는 것입니다. 저는 여기서 일하는 것이 어떤 느낌인지, 우리의 사명이 나에게 어떤 의미인지, 그리고 왜 우리와 함께해야 하는지를 포착하고 싶었습니다. 그래서 이 영상을 Codex로 제작해서 팀과 공유했더니, 제작해서 전 세계와 공유할 가치가 있다고 느꼈어요. 이것이 우리의 사명입니다. 그게 내가 여기 있는 이유야.",
+      "published_at": "2026-07-30T15:45:44+00:00"
+    },
+    {
+      "id": "x:GoogleAI:2082844740446253125",
+      "source": "x",
+      "author": "GoogleAI",
+      "author_name": "Google AI(구글 AI)",
+      "author_url": "https://x.com/GoogleAI",
+      "url": "https://x.com/GoogleAI/status/2082844740446253125",
+      "text": "Pinned: For decades, we’ve dreamed of robots that can seamlessly step into our world and lend a hand. Today, we take a major stride toward making that dream a reality: Introducing Gemini Robotics 2 from @GoogleDeepMind, the intelligence layer powering the next generation of truly adaptable robots. This major advance unlocks intelligent whole-body control, advanced dexterity, and even multi-robot collaboration 🤯. Ok but... how does a robot actually \"think\"? Real-world tasks take time and planning. To manage that complexity, our new embodied reasoning model, Gemini Robotics ER 2, acts as the robot’s high-level brain, enhancing the robot’s capabilities to: — Observe the environment — Reason about the actions needed to complete the task — Coordinate with the vision-language-action model to carry out actions — Track progress until the job is done This setup allows robots to execute complex multi-step workflows, self-correct if a step fails, and adapt to completely novel situations. Learn more about Gemini Robotics ER 2 (and our two other brand new models) here: http://goo.gle/4x4E8q6",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2082844194066870272/img/2E81BSRVREM2nzSa.jpg"
+      ],
+      "summary_ko": "고정됨: 수십 년 동안 우리는 세상에 원활하게 들어와 도움을 줄 수 있는 로봇을 꿈꿔왔습니다. 오늘 우리는 그 꿈을 현실로 만들기 위한 큰 진전을 이루었습니다. 진정한 적응력을 갖춘 차세대 로봇을 지원하는 지능 계층인 @GoogleDeepMind의 Gemini Robotics 2를 소개합니다. 이 중요한 발전으로 지능형 전신 제어, 고급 민첩성, 심지어 다중 로봇 협업까지 가능해졌습니다 🤯. 좋습니다. 하지만... 로봇은 실제로 어떻게 \"생각\"합니까? 실제 작업에는 시간과 계획이 필요합니다. 이러한 복잡성을 관리하기 위해 새로운 구체화된 추론 모델인 Gemini Robotics ER 2는 로봇의 상위 두뇌 역할을 하여 로봇의 기능을 향상시킵니다. — 환경 관찰 — 작업을 완료하는 데 필요한 행동에 대한 추론 — 비전-언어-행동 모델을 자동차에 맞게 조정",
+      "published_at": "2026-07-30T15:04:18+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2082844170998182350",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2082844170998182350",
+      "text": "R to @GoogleDeepMind: To be genuinely useful in our homes and workplaces, robots need finesse. Gemini Robotics 2 equips different hardware platforms with high dexterity. It can control a five-fingered hand to tie a knot or screw in a lightbulb - while also managing parallel grippers for complex packing tasks. We’re additionally introducing multi-robot collaboration so completely different types of robots can communicate and work together to solve problems a single robot couldn’t do alone. 🤝 Find out more → https://goo.gle/3Tvi61l",
+      "images": [
+        "https://pbs.twimg.com/media/HOe_LfAWwAA__0J.jpg"
+      ],
+      "summary_ko": "R에서 @GoogleDeepMind로: 로봇이 집과 직장에서 진정으로 유용하려면 기교가 필요합니다. Gemini Robotics 2는 다양한 하드웨어 플랫폼에 뛰어난 민첩성을 제공합니다. 다섯 손가락의 손을 제어하여 전구의 매듭이나 나사를 묶는 동시에 복잡한 포장 작업을 위한 평행 그리퍼도 관리할 수 있습니다. 우리는 또한 다중 로봇 협업을 도입하여 완전히 다른 유형의 로봇이 서로 소통하고 협력하여 단일 로봇으로는 해결할 수 없는 문제를 해결할 수 있습니다. 🤝 자세히 알아보기 → https://goo.gle/3Tvi61l",
+      "published_at": "2026-07-30T15:02:02+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2082844168154435957",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2082844168154435957",
+      "text": "R to @GoogleDeepMind: Gemini Robotics 2 moves physical AI beyond tabletop tasks, enabling intelligent whole-body control for humanoids. Watch @Apptronik's Apollo 2 process a single prompt to reach, bend, and pick up a watering can ↓",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2082842601078591489/img/rlI7CM0wsswsnLM6.jpg"
+      ],
+      "summary_ko": "R에서 @GoogleDeepMind로: Gemini Robotics 2는 물리적 AI를 테이블 작업을 넘어 휴머노이드의 지능형 전신 제어를 가능하게 합니다. @Apptronik의 Apollo 2가 물뿌리개에 닿고, 구부리고, 집는 단일 프롬프트를 처리하는 모습을 시청하세요 ↓",
+      "published_at": "2026-07-30T15:02:01+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2082844162928381956",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2082844162928381956",
+      "text": "One brain. For any robot. 🤖 We’re launching Gemini Robotics 2: our next-generation physical AI bringing full body intelligence to humanoids, advanced dexterity, multi-robot teamwork and more.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2082842377991933952/img/sR12pig4K7ksJ1FC.jpg"
+      ],
+      "summary_ko": "뇌는 하나입니다. 모든 로봇에 적용됩니다. 🤖 Gemini Robotics 2를 출시합니다. 차세대 물리적 AI로 휴머노이드에 전신 지능, 고급 민첩성, 다중 로봇 팀워크 등을 제공합니다.",
+      "published_at": "2026-07-30T15:02:00+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/24184",
@@ -867,7 +1043,9 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2082616643394703682",
       "text": "R to @OpenAI: We hope these experiments serve as a reminder that evals rarely measure models in isolation—they also measure a bundle of less visible choices about API settings, harness design, and prompting. If you’re an API developer trying to maximize performance, we recommend using the same settings that we deploy in our own products: - Use our Responses API, not our legacy Chat - Completions API - Retain reasoning - Use compaction If you want to test your own mettle against frontier models, try the public games yourself at http://arcprize.org/tasks",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2079578789248647168/Xa9awXNy?format=jpg&name=800x419"
+      ],
       "summary_ko": "R에서 @OpenAI로: 이 실험이 평가에서 모델을 단독으로 측정하는 경우는 거의 없으며 API 설정, 하네스 설계 및 프롬프트에 대해 눈에 띄지 않는 여러 가지 선택 항목도 측정한다는 점을 상기시키는 역할을 하기를 바랍니다. 성능을 최대화하려는 API 개발자라면 자체 제품에 배포한 것과 동일한 설정을 사용하는 것이 좋습니다. - 레거시 Chat이 아닌 Responses API 사용 - Completions API - 추론 유지 - 압축 사용 프론티어 모델에 대해 자신의 역량을 테스트하고 싶다면 http://arcprize.org/tasks에서 직접 공개 게임을 시도해 보세요.",
       "published_at": "2026-07-29T23:57:55+00:00"
     },
@@ -997,7 +1175,7 @@
       "author_name": "Google DeepMind(딥마인드)",
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2082541871612449180",
-      "text": "Pinned: Video",
+      "text": "Video",
       "images": [
         "https://pbs.twimg.com/media/HOas49ka4AAIdt_.jpg"
       ],
@@ -1093,7 +1271,7 @@
       "author_name": "Google AI(구글 AI)",
       "author_url": "https://x.com/GoogleAI",
       "url": "https://x.com/GoogleAI/status/2082466336228122711",
-      "text": "Pinned: Mapping the Brain with Connectomics",
+      "text": "Mapping the Brain with Connectomics",
       "images": [
         "https://pbs.twimg.com/media/HOWosB8WIAAbXv1.jpg"
       ],
@@ -1169,46 +1347,6 @@
       "published_at": "2026-07-29T02:50:32+00:00"
     },
     {
-      "id": "x:OpenAI:2082263720777101505",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2082263720777101505",
-      "text": "R to @OpenAI: Source + docs: http://github.com/openai/codex-security",
-      "images": [
-        "https://pbs.twimg.com/card_img/2082316514892668928/hlE3U-ag?format=jpg&name=800x419"
-      ],
-      "summary_ko": "R에서 @OpenAI로: 소스 + 문서: http://github.com/openai/codex-security",
-      "published_at": "2026-07-29T00:35:32+00:00"
-    },
-    {
-      "id": "x:OpenAI:2082263717916586117",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2082263717916586117",
-      "text": "We quietly released the open-source Codex Security CLI, but Hacker News found it before we had a chance to share it here... You can now use it to scan repositories, track findings across runs, verify fixes, and add security checks to CI/CD. This is an early release, and we're listening to your feedback as we continue improving it.",
-      "images": [
-        "https://pbs.twimg.com/media/HOWvAa-bAAAw2hd.jpg"
-      ],
-      "summary_ko": "우리는 오픈 소스 Codex Security CLI를 조용히 출시했지만 여기서 공유할 기회가 있기 전에 Hacker News에서 이를 발견했습니다... 이제 이를 사용하여 저장소를 스캔하고, 실행 전반에 걸쳐 결과를 추적하고, 수정 사항을 확인하고, CI/CD에 보안 검사를 추가할 수 있습니다. 이는 초기 릴리스이며, 지속적으로 개선하면서 여러분의 피드백을 듣고 있습니다.",
-      "published_at": "2026-07-29T00:35:31+00:00"
-    },
-    {
-      "id": "x:OpenAI:2082263719460094127",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2082263719460094127",
-      "text": "R to @OpenAI: Install the open-source Codex Security CLI,: npm install @OpenAI/codex-security Or start with: npx @OpenAI/codex-security@latest --help NPM: http://npmjs.com/package/@openai/codex-security",
-      "images": [],
-      "summary_ko": "R에서 @OpenAI로: 오픈 소스 Codex Security CLI를 설치합니다. npm install @OpenAI/codex-security 또는 시작: npx @OpenAI/codex-security@latest --help NPM: http://npmjs.com/package/@openai/codex-security",
-      "published_at": "2026-07-29T00:35:31+00:00"
-    },
-    {
       "id": "x:AnthropicAI:2082228994653696371",
       "source": "x",
       "author": "AnthropicAI",
@@ -1235,20 +1373,6 @@
       ],
       "summary_ko": "@yleun의 RT: Laser는 처음부터 생활비 절감에 중점을 두었습니다.",
       "published_at": "2026-07-28T21:02:10+00:00"
-    },
-    {
-      "id": "x:OpenAI:2082208694142730340",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2082208694142730340",
-      "text": "At the core of our mission is working through how to ensure increasingly powerful AI benefits everyone. We believe that, at some point in the future, AI acceleration for frontier model development may be so high that the world will need to pace the rate of AI advancement. We hope to contribute to work led by the U.S. government, alongside other labs and the open-source community, to develop the tools and mechanisms that could make that possible. http://pacingthefrontier.com",
-      "images": [
-        "https://pbs.twimg.com/card_img/2082104365939081216/MCEgDjJo?format=jpg&name=800x419"
-      ],
-      "summary_ko": "우리 임무의 핵심은 점점 더 강력해지는 AI가 모든 사람에게 혜택을 줄 수 있도록 하는 방법을 모색하는 것입니다. 우리는 미래의 어느 시점에서는 프론티어 모델 개발을 위한 AI 가속화가 너무 높아서 세계가 AI 발전 속도에 보조를 맞춰야 할 것이라고 믿습니다. 우리는 이를 가능하게 하는 도구와 메커니즘을 개발하기 위해 다른 연구소 및 오픈 소스 커뮤니티와 함께 ​​미국 정부가 주도하는 작업에 기여하기를 희망합니다. http://pacingthefrontier.com",
-      "published_at": "2026-07-28T20:56:52+00:00"
     },
     {
       "id": "x:AndrewYNg:2082199333920027009",
@@ -1555,48 +1679,6 @@
       "published_at": "2026-07-24T15:54:47+00:00"
     },
     {
-      "id": "x:sama:2080378182469857576",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2080378182469857576",
-      "text": "RT by @sama: ChatGPT Voice is now in the desktop app. Control your computer and direct multiple agents running in ChatGPT Work or Codex, using just your voice. It's powered by GPT-Live, so it can speak, listen, and coordinate work in the app at the same time. Rolling out globally today on macOS and Windows to Plus, Pro, Business, Edu, and Enterprise plans.",
-      "images": [
-        "https://pbs.twimg.com/media/HN7_xzbb0AAl2Kw.jpg"
-      ],
-      "summary_ko": "@sama의 RT: ChatGPT Voice가 이제 데스크톱 앱에 있습니다. 음성만으로 컴퓨터를 제어하고 ChatGPT Work 또는 Codex에서 실행 중인 여러 에이전트를 안내하세요. GPT-Live로 구동되므로 앱에서 동시에 말하고 듣고 업무를 조정할 수 있습니다. 오늘 macOS 및 Windows에서 Plus, Pro, Business, Edu 및 Enterprise 요금제로 전 세계적으로 출시됩니다.",
-      "published_at": "2026-07-23T19:43:04+00:00"
-    },
-    {
-      "id": "x:sama:2080354753473835461",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2080354753473835461",
-      "text": "RT by @sama: A billion users can now create and publish websites from their phones with ChatGPT Work. But most people don’t really grasp the full extent of the capabilities here. From your phone, you also have access to: - Cloud computer (15 GB RAM) - Persistent workspace & files - Terminal and code execution - Remote browser - Connected plugins (Slack, Gmail, GitHub, etc.) - All your personal finances, transactions, bank statements - Scheduled tasks - Git clone & PR creation - Build & deploy websites - Create docs, sheets, and slides - Inbox/calendar summarization - Website monitoring & alerts All at your fingertips, using a simple chat interface, no laptop required. All you have to do is switch to the Work tab on your ChatGPT app.",
-      "images": [
-        "https://pbs.twimg.com/media/HN4WrcgbEAAGDd2.jpg"
-      ],
-      "summary_ko": "@sama의 RT: 이제 10억 명의 사용자가 ChatGPT Work를 사용하여 휴대폰에서 웹사이트를 만들고 게시할 수 있습니다. 그러나 대부분의 사람들은 여기서 기능의 전체 범위를 실제로 파악하지 못합니다. 휴대폰에서 다음 항목에도 액세스할 수 있습니다. - 클라우드 컴퓨터(15GB RAM) - 영구 작업 공간 및 파일 - 터미널 및 코드 실행 - 원격 브라우저 - 연결된 플러그인(Slack, Gmail, GitHub 등) - 모든 개인 재정, 거래, 은행 명세서 - 예약된 작업 - Git 복제 및 PR 생성 - 웹 사이트 구축 및 배포 - 문서, 시트 및 슬라이드 생성 - 받은 편지함/캘린더 요약 - 웹 사이트 모니터링 및 알림 노트북 없이도 간단한 채팅 인터페이스를 사용하여 모든 작업을 손끝에서 할 수 있습니다. 필수. ChatGPT 앱에서 작업 탭으로 전환하기만 하면 됩니다.",
-      "published_at": "2026-07-23T18:09:59+00:00"
-    },
-    {
-      "id": "x:sama:2080343306731761927",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2080343306731761927",
-      "text": "RT by @sama: We're rolling out Health in ChatGPT to all U.S. users. ♥️ More than 300 million people come to ChatGPT every week with health questions. Today, ChatGPT can bring together the health info you choose to connect to make conversations more personal and useful.",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2080341697972883456/img/SpyOgULCexEXiV5c.jpg"
-      ],
-      "summary_ko": "@sama님의 RT: ChatGPT의 건강 기능을 모든 미국 사용자에게 출시할 예정입니다. ♥️ 매주 3억 명이 넘는 사람들이 건강 관련 질문으로 ChatGPT를 방문합니다. 이제 ChatGPT는 귀하가 연결하기로 선택한 건강 정보를 모아 더욱 개인적이고 유용한 대화를 만들 수 있습니다.",
-      "published_at": "2026-07-23T17:24:29+00:00"
-    },
-    {
       "id": "x:AndrewYNg:2080333504446108104",
       "source": "x",
       "author": "AndrewYNg",
@@ -1643,7 +1725,7 @@
       "author_name": "Google DeepMind(딥마인드)",
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2080321519952056441",
-      "text": "By combining speed and efficiency, 3.5 Flash Cyber lets defense specialists check significantly more code paths. In testing on our own codebases – including @googlechrome and @Android – it consistently caught complex, unique vulnerabilities that standard models missed.",
+      "text": "R to @GoogleDeepMind: By combining speed and efficiency, 3.5 Flash Cyber lets defense specialists check significantly more code paths. In testing on our own codebases – including @googlechrome and @Android – it consistently caught complex, unique vulnerabilities that standard models missed.",
       "images": [
         "https://pbs.twimg.com/media/HN7JKNPWUAAYqbM.jpg"
       ],
@@ -1675,20 +1757,6 @@
       ],
       "summary_ko": "@demishassabis의 RT: Gemma 4가 방금 3억 다운로드를 넘었습니다. 우리와 함께 구축한 개발자, 연구원 및 오픈 소스 커뮤니티에 감사드립니다. 귀하의 작업과 피드백이 이 프로젝트를 발전시키는 원동력이 됩니다. 계속해서 건물을 짓자!",
       "published_at": "2026-07-23T15:44:37+00:00"
-    },
-    {
-      "id": "x:sama:2080179310204461545",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2080179310204461545",
-      "text": "RT by @sama: already in bed. couldn’t remember if my laptop was plugged in. asked codex. good night",
-      "images": [
-        "https://pbs.twimg.com/media/HN5IDsfbkAAc2Zj.jpg"
-      ],
-      "summary_ko": "@sama님의 RT: 이미 침대에 있어요. 내 노트북이 연결되어 있는지 기억이 나지 않습니다. codex에 물었습니다. 안녕히 주무세요",
-      "published_at": "2026-07-23T06:32:50+00:00"
     },
     {
       "id": "rss:semianalysis:vera-rubin-nvl72-vs-gb200-nvl72-inference",
@@ -1830,20 +1898,6 @@
       "published_at": "2026-07-21T17:12:19+00:00"
     },
     {
-      "id": "x:GoogleDeepMind:2079615468294320365",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2079615468294320365",
-      "text": "R to @GoogleDeepMind: It’s much better at writing production-ready code faster without getting stuck in loops. Plus, it excels at multimodal tasks like analyzing charts, understanding documents, and report drafting. 3.6 Flash is rolling out in the @GeminiApp and developers can start building in @Antigravity, with API access in @GoogleAIStudio and @AndroidStudio. Find out more → https://goo.gle/4yyNkoi",
-      "images": [
-        "https://pbs.twimg.com/media/HNxGPRPXQAAI4AX.png"
-      ],
-      "summary_ko": "R에서 @GoogleDeepMind로: 루프에 갇히지 않고 프로덕션 준비 코드를 더 빠르게 작성하는 것이 훨씬 더 좋습니다. 또한 차트 분석, 문서 이해, 보고서 초안 작성과 같은 다중 모드 작업에 탁월합니다. 3.6 Flash는 @GeminiApp에서 출시되며 개발자는 @GoogleAIStudio 및 @AndroidStudio의 API 액세스를 통해 @Antigravity에서 구축을 시작할 수 있습니다. 자세히 알아보기 → https://goo.gle/4yyNkoi",
-      "published_at": "2026-07-21T17:12:19+00:00"
-    },
-    {
       "id": "x:karpathy:2079610838143623371",
       "source": "x",
       "author": "karpathy",
@@ -1880,32 +1934,6 @@
       ],
       "summary_ko": "고정됨: 오늘 우리는 프로덕션 AI 에이전트를 구축할 수 있도록 효율성과 품질 사이의 균형을 맞추는 하나가 아닌 두 개의 새로운 모델을 소개합니다. — Gemini 3.6 Flash: 코딩, 지식 작업 및 다중 모달 작업을 더 빠르고 정확하게 업그레이드하고 작업당 훨씬 적은 토큰을 사용하여 Gemini 3.5 Flash에서 받은 효율성 피드백을 처리합니다. — Gemini 3.5 Flash-Lite: 에이전트 워크플로용으로 제작된 가장 빠르고 비용 효율적인 3.5 클래스 모델로 향상된 코딩 및 전반적인 품질로 초당 최대 350개의 출력 토큰을 달성합니다. 지금 바로 @GoogleAIStudio의 Gemini API를 통해 구축을 시작해 보세요. 또는 @GeminiApp에서 사용해 보세요.",
       "published_at": "2026-07-21T15:30:06+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2079589701795627317",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2079589701795627317",
-      "text": "R to @GoogleDeepMind: Gemini 3.6 Flash and 3.5 Flash-Lite are rolling out now in the @GeminiApp. Developers can start building via the API in @GoogleAIStudio and @AndroidStudio. Gemini 3.5 Flash Cyber will be exclusively available via CodeMender soon as part of a limited-access pilot program. Find out more → https://goo.gle/4yyNkoi",
-      "images": [
-        "https://pbs.twimg.com/media/HNwoi28W8AE97NR.jpg"
-      ],
-      "summary_ko": "R에서 @GoogleDeepMind로: Gemini 3.6 Flash 및 3.5 Flash-Lite가 이제 @GeminiApp에서 출시됩니다. 개발자는 @GoogleAIStudio 및 @AndroidStudio의 API를 통해 구축을 시작할 수 있습니다. Gemini 3.5 Flash Cyber는 제한된 액세스 파일럿 프로그램의 일부로 곧 CodeMender를 통해 독점적으로 제공될 예정입니다. 자세히 알아보기 → https://goo.gle/4yyNkoi",
-      "published_at": "2026-07-21T15:29:56+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2079589698490572961",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2079589698490572961",
-      "text": "We’re rolling out three new models to make AI agents faster, smarter, and cheaper at scale: 🔵 Gemini 3.6 Flash: It uses fewer tokens than 3.5 Flash to deliver higher quality work at the exact same cost. 🔵 Gemini 3.5 Flash-Lite: A fast, cost-effective option for everyday tasks like processing documents and agentic search. 🔵 Gemini 3.5 Flash Cyber: A cybersecurity model built to find and patch critical software vulnerabilities.",
-      "images": [],
-      "summary_ko": "우리는 AI 에이전트를 더 빠르고, 더 스마트하고, 더 저렴하게 만들기 위해 세 가지 새로운 모델을 출시할 예정입니다. 🔵 Gemini 3.6 플래시: 3.5 플래시보다 적은 토큰을 사용하여 정확히 동일한 비용으로 더 높은 품질의 작업을 제공합니다. 🔵 Gemini 3.5 Flash-Lite: 문서 처리 및 에이전트 검색과 같은 일상적인 작업을 위한 빠르고 비용 효율적인 옵션입니다. 🔵 Gemini 3.5 Flash Cyber: 중요한 소프트웨어 취약점을 찾아 패치하기 위해 구축된 사이버 보안 모델입니다.",
-      "published_at": "2026-07-21T15:29:55+00:00"
     },
     {
       "id": "x:AnthropicAI:2079256626771665098",
@@ -2058,20 +2086,6 @@
       ],
       "summary_ko": "우리는 1,000만 달러의 CAD를 투자하고 캐나다의 주요 AI 기관과 협력하여 새로운 AI 연구 자금을 지원하고 있습니다. https://www.anthropic.com/news/canadian-ai-research",
       "published_at": "2026-07-14T13:44:04+00:00"
-    },
-    {
-      "id": "x:demishassabis:2076957440109625718",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2076957440109625718",
-      "text": "Pinned: A Framework for Frontier AI and the Dawning of a New Age",
-      "images": [
-        "https://pbs.twimg.com/media/HNLLt2GXMAAAPF0.jpg"
-      ],
-      "summary_ko": "Pinned: 프론티어 AI를 위한 프레임워크와 새로운 시대의 시작",
-      "published_at": "2026-07-14T09:10:16+00:00"
     },
     {
       "id": "x:GoogleAI:2075609303029776872",
@@ -2428,18 +2442,6 @@
       ],
       "summary_ko": "오늘 우리는 실시간 음성 대 음성 번역을 위한 최신 오디오 모델인 Gemini 3.5 Live Translate를 출시했습니다. 70개 이상의 언어를 지원하며 말하기 시작하자마자 번역을 시작하고 다음에 말하는 내용을 들으면서 번역을 스트리밍합니다. 어색한 일시정지나 끊어지는 오디오가 없으며 언어 장벽 없이 실제 연결이 가능합니다. 그렇다면 어떻게 작동하나요? 🤔 이 모델은 속도와 번역 품질을 조정하기 위해 순간적인 결정을 내릴 수 있으므로 대화가 실제로 유동적이고 인간적이며 자연스럽게 느껴집니다. 이를 위해 모델은 입력을 수신하고 맥락화하는 동시에 번역된 음성을 출력해야 합니다. 이 프로세스를 통해 Gemini 3.5 Live Translate는 각 스피커 뒤에 단 몇 초만 머물 수 있으며 확장된 환경에서도 속도, 피치 및 억양을 유지할 수 있습니다.",
       "published_at": "2026-06-09T15:18:23+00:00"
-    },
-    {
-      "id": "x:GoogleAI:2062942864288387430",
-      "source": "x",
-      "author": "GoogleAI",
-      "author_name": "Google AI(구글 AI)",
-      "author_url": "https://x.com/GoogleAI",
-      "url": "https://x.com/GoogleAI/status/2062942864288387430",
-      "text": "Here’s this week’s shipping recap 👇 — Nano Banana 2 & Nano Banana Pro are now GA and available via the Gemini Enterprise Agent Platform, Gemini API, and in @GoogleAIStudio —Co-Scientist, our new multi-agent system for structured scientific thinking, generates and refines novel hypotheses to solve complex scientific problems — dreambeans from @GoogleLabs works overnight to curate a personalized daily collection of topics that are relevant to you based on your connected Google apps — @GoogleGemma 4 12B, our unified encoder-free model, brings powerful multimodal intelligence straight to your laptop fully offline — Gemma 4 models and their drafters are now optimized with Quantization-Aware Training (QAT) to cut memory requirements and maximize on-device performance — @GoogleMagenta RealTime 2 is our open-weights live music model that you can play like an instrument using a MIDI keyboard, text prompts, and gestures",
-      "images": [],
-      "summary_ko": "이번 주의 배송 요약은 다음과 같습니다 👇 — Nano Banana 2 및 Nano Banana Pro는 이제 정식 출시되었으며 Gemini Enterprise Agent Platform, Gemini API 및 @GoogleAIStudio를 통해 사용할 수 있습니다. 구조화된 과학적 사고를 위한 당사의 새로운 멀티 에이전트 시스템인 Co-Scientist는 복잡한 과학적 문제를 해결하기 위해 새로운 가설을 생성 및 개선합니다. @GoogleLabs의 dreambeans는 연결된 Google 앱을 기반으로 귀하와 관련 있는 맞춤형 일일 주제 컬렉션을 선별하기 위해 밤새 작업합니다. — @GoogleGemma 인코더가 필요 없는 통합 모델인 4 12B는 강력한 멀티모달 인텔리전스를 노트북에 완전히 오프라인으로 바로 제공합니다. Gemma 4 모델과 그 초안 작성자는 이제 QAT(Quantization-Aware Training)로 최적화되어 메모리 요구 사항을 줄이고 기기 내 성능을 극대화합니다. — @GoogleMagenta RealTime 2",
-      "published_at": "2026-06-05T17:01:21+00:00"
     },
     {
       "id": "x:AndrewYNg:2062576164657664469",
