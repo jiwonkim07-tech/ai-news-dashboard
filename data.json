@@ -1,22 +1,70 @@
 {
-  "updated_at": "2026-07-31T21:04:00+00:00",
+  "updated_at": "2026-07-31T22:59:56+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 11
+    "new_this_run": 4
   },
   "briefing": {
-    "headline": "OpenAI, 200만 기업에서 사용",
+    "headline": "이란, 호르무즈 해협 통행 중단 발표",
     "bullets": [
-      "메타 수석 AI 과학자 얀 르쿤, 트럼프의 약속과 대조",
-      "NVIDIA에 의존하는 중국 Moonshot AI",
-      "삼성전자·SK하이닉스, NAND 시장 기술 업그레이드 주력",
-      "애플, AI 많이 쓰면 돈 더 받는 상위 요금제 시사",
-      "중국시장감독총국, 태양광 산업 가격 준법 지도 활동 예정"
+      "미국 30년물 국채 금리 5.20% 돌파",
+      "OPENAI, 200만개 기업에서 모델 사용",
+      "엔비디아, 중국에서 GPU 가격 인상 예정",
+      "중국, 태양광 산업 가격 준법 지도 활동 전개",
+      "레이 달리오, AI 자산 버블 경고"
     ],
-    "generated_at": "2026-07-31T21:04:00+00:00",
+    "generated_at": "2026-07-31T22:59:56+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32012",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32012",
+      "text": "달러지수 & 엔화환율 급락",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-31T22:02:57+00:00"
+    },
+    {
+      "id": "tg:EMchina/32011",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32011",
+      "text": "트럼프는 이란에 대한 추가 공격 명령  ========================  ~ President Trump has ordered a fresh attack on Iran aimed at getting Tehran to surrender that could begin as soon as this weekend and would last a few days, U.S. officials said  https://www.wsj.com/world/middle…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-31T21:58:18+00:00"
+    },
+    {
+      "id": "tg:EMchina/32010",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32010",
+      "text": "이란 ‘페르시아만 해협청’, 호르무즈 해협 통행 중단 발표  • 이란 페르시아만 해협청 성명 발표. 미군의 침략적 행동으로 현재 호르무즈 해협은 정상 통행 불가. 해당 지역 정세 안정 & 평온 회복 이후 신청 순서에 따라 재평가. 통행 허가 순차 발급 예정  伊朗“波斯湾海峡管理局”宣布霍尔木兹海峡暂停通行 当地时间7月31日，伊朗“波斯湾海峡管理局”发布声明称，由于美军在相关海域持续采取侵略性行动，目前霍尔木兹海峡已无法正常通行。声明指出，待地区局势恢复稳定与平静后，官方将…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-31T21:27:38+00:00"
+    },
+    {
+      "id": "tg:EMchina/32009",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32009",
+      "text": "미국 30년물 국채 금리 5.20% 돌파. 2007년 이후 처음  美国30年期国债收益率自2007年以来首次突破5.20%。  https://n.news.naver.com/article/001/0016222935?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-31T21:26:04+00:00"
+    },
     {
       "id": "x:ylecun:2083290542956224643",
       "source": "x",
@@ -596,20 +644,6 @@
       "published_at": "2026-07-31T07:33:17+00:00"
     },
     {
-      "id": "tg:EMchina/32000",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32000",
-      "text": "CXMT 추이  1일차 +465.82% 음봉 2일차 -4.08% 양봉 3일차 +12.66% 양봉 4일차 -0.15% 양봉",
-      "images": [
-        "https://cdn5.telesco.pe/file/TLmOwHyLvQgIt_Iw623sBiFZAHpMINvdcplNR4RJvg7kWzqtQesQV1wcccBrjmqm88QpKGGxNalEPIkzYIZntXETqEWOtrZR0wYLaa2kC_LUmBV-VHTbTsdHl5V9kP3areioLaecYLcsTeEZSRqOow-i-EbT93wQj9KL-tqOKPplyP7vSg92htFQ-ZXiJ0hv7gzaMFCLPndKkmYsDy_Rck4F3ODwsuQ2rY2XeYqUqdcuxDPtx-IH1U3JxTRXRLu_NVlfxRKL37FhHDU-daO7kDaL45IDigz86V7S0aoV1JxgVO9zyCx0AMk9KWYkPpzctc715lFJRT_zPTfEHS1wQQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-31T07:32:25+00:00"
-    },
-    {
       "id": "tg:bornlupin/19453",
       "source": "telegram",
       "author": "bornlupin",
@@ -674,18 +708,6 @@
       "images": [],
       "summary_ko": "@yleun의 RT: 그들은 모두 생물학적 보안을 좋아하고 그것을 AI 사람들에게 겁을 주기 위해 사용하기 때문에 만약 BSL에서 그런 일이 일어난다면 연구실이 거의 즉시 폐쇄될 것이라는 점을 그들이 알았으면 좋겠습니다.",
       "published_at": "2026-07-31T06:40:03+00:00"
-    },
-    {
-      "id": "tg:EMchina/31999",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31999",
-      "text": "키옥시아 1분기 실적쇼크\n• 영업이익 1.27조엔 vs. 예상 1.37조엔\n•  순이익 8421.7억엔 vs. 예상 9738.1억엔\n• 주식분할(1:3) & 자사주 매입 계획\n铠侠第一季度净利润不及市场预期\n铠侠（Kioxia）第一季度营业利润1.27万亿日元，上年同期449.0亿日元，市场预估1.37万亿日元。第一季度净利润8,421.7亿日元，上年同期182.8亿日元，市场预估9,738.1亿日元。铠侠将进行1股拆3股的股票分。\n拆并宣布股票回购计划。\nhttps://n.news.naver.com/article/092/0002432714?sid=105",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T06:38:32+00:00"
     },
     {
       "id": "tg:globaletfi/20863",
@@ -778,18 +800,6 @@
       "published_at": "2026-07-31T04:55:49+00:00"
     },
     {
-      "id": "tg:EMchina/31998",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31998",
-      "text": "[한투증권 중국/신흥국 정정영]  • 7월 정치국회의: 더 강한 의지 확인  >> 7월 정치국회의가 개최됐습니다. 서프라이즈를 기록한 1분기 GDP 확인하고 진행된 4월 회의와 달리 경제 회복 장애물에 대해 경계감을 드러냈습니다. 하반기 정부의 정책 지원이 강해질 수 있음을 시사합니다. 거시정책으로는 1) 적시에 신규 정책(증량) 출시, 2) 재정지출 및 채권 사용 가속화, 3) 통화정책 운용/조정 등 3가지를 제시했습니다. 하반기 중국 경제는 둔화 우려보다…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T04:52:41+00:00"
-    },
-    {
       "id": "tg:bornlupin/19448",
       "source": "telegram",
       "author": "bornlupin",
@@ -800,18 +810,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-31T04:48:11+00:00"
-    },
-    {
-      "id": "tg:EMchina/31997",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/31997",
-      "text": "미중은 안 친해집니다  =========================  ~ 30일 닛케이아시아는 복수의 업계 관계자 발언을 인용해 스페이스X가 협력사를 대상으로 공급망 감사를 실시하며 중국산 부품과 장비를 사용하지 말라고 요청했다고 보도했다  ~ 협력사의 공장에 중국 기업의 감시용 장비나 네트워크 장비가 설치되어 있으면 교체를 요구하는 사례도 전해졌다  ~ 스페이스X용 부품을 생산하는 설비에는 중국 국적 직원을 배치해서는 안 된다는 지침도 내린 것으로 파악됐다.…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T04:45:13+00:00"
     },
     {
       "id": "tg:enc210406/4272",
@@ -1457,7 +1455,7 @@
       "url": "https://t.me/HI_GS/6803",
       "text": "🛫\n#한국항공우주\n「양산 증가, 보라매 수출 기대감 모두 유효」\n☞\nhttps://bit.ly/KAI2Q26RE\n▶️\nIssue: 2Q26 LAH 양산 차질과 환율 상승으로 부진. 그러나\n▶️\nPitch:\n> 2Q26 실적은 실망스러웠지만, 하반기에 LAH 문제 해결, 환율 하락, 양산 대수 증가로 전기대비 증익 사이클 유효\n> 가장 중요한 모멘텀인 KF-21 수출도 연내 기대\n▶️\nRationale: 보고서 참조\n---------------------------------------------------------------\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n✅\n컴플라이언스 승인을 득한 보고서입니다.\n---------------------------------------------------------------",
       "images": [
-        "https://cdn5.telesco.pe/file/Ve0fWhoIFZc9iSuxa4ZQy2rVStGJCCZYOT90VQwPMNZ4IFZmCC89tt7Tifr7zUiotxOPzBOqXS38LdkEOQ1q97hwKAcmRPAM6dHvW8T0M_l-YwViQMUknZq9tdEthuZTvS9mj0dl2u9Vp9iUDs-iqFbdRXaMVCrWID4ay5nEJRSApwkVjNChaNeT9xgUtibN04slDz9r22wVessXFdEnhR8lT6ibB-JOLCyanmBIrJBkm4UM_tXfiDFVtddXh0eG3w6PrBp0A3e1KTFfLZOoeae9K40sie62y0raGrb0V0nsbLaRac2-QPFlOEp4epbGFKYzf7aw9EJOS9vA8HPfJQ.jpg"
+        "https://cdn5.telesco.pe/file/KOKGDB1bT5t4ndbYUa_K_tejftmNcw9KViiFALMb4af_axoBzO5SXagIGlP3GBDKM4RByRRod69KZSKmfnfpdKRhqvtMv4eP0Pu_hyAMtwQK5kfeGluaIHfalGH-9d1KlXeelSlkLHNMKYgv_5WNfXAINb1zSlYKCgMK6HAlSXTLKxdRvee7dwCcys7TINOu3Aa7MHDqrlcXmVMoDx7lqX-dLitf2t7K3sL6tgdu2NoeU9DU4nWMaBnwVthIehxhzuKaRuYbILOuZ1lowEYrv3DVO1oOOtJyPHy8FPq80hglhlqDn1lI4BQAndzBJLPlswmaMapV5XF9-AazyeXGgQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-29T22:30:40+00:00"
