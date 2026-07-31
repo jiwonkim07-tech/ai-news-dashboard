@@ -1,21 +1,50 @@
 {
-  "updated_at": "2026-07-31T19:24:23+00:00",
+  "updated_at": "2026-07-31T21:04:00+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 11
   },
   "briefing": {
-    "headline": "OpenAI, 200만개 기업에서 사용",
+    "headline": "OpenAI, 200만 기업에서 사용",
     "bullets": [
-      "키옥시아, 1분기 최대 실적",
-      "엔비디아, 중국서 GPU 가격 인상",
-      "문샷 AI, 알리바바서 2만개 엔비디아 칩 확보",
-      "삼성전자, NAND 시장서 기술 업그레이드 주력"
+      "메타 수석 AI 과학자 얀 르쿤, 트럼프의 약속과 대조",
+      "NVIDIA에 의존하는 중국 Moonshot AI",
+      "삼성전자·SK하이닉스, NAND 시장 기술 업그레이드 주력",
+      "애플, AI 많이 쓰면 돈 더 받는 상위 요금제 시사",
+      "중국시장감독총국, 태양광 산업 가격 준법 지도 활동 예정"
     ],
-    "generated_at": "2026-07-31T19:24:23+00:00",
+    "generated_at": "2026-07-31T21:04:00+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:ylecun:2083290542956224643",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2083290542956224643",
+      "text": "Tired of not winning",
+      "images": [
+        "https://pbs.twimg.com/media/HOhVk66XgAAUTdd.jpg"
+      ],
+      "summary_ko": "이기지 못해서 지쳤어",
+      "published_at": "2026-07-31T20:35:45+00:00"
+    },
+    {
+      "id": "x:ylecun:2083253910223921483",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2083253910223921483",
+      "text": "RT by @ylecun: PCE inflation last month was 3.7% — still almost double the Fed target — in stark contrast to Trump's promises. It was down from May given the brief lapse in the Iran War, but it will likely bounce back up in the next reading after Trump shredded his proposed peace deal.",
+      "images": [
+        "https://pbs.twimg.com/media/HOkyxIUW4AEVnWI.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 지난 달 PCE 인플레이션은 3.7%였습니다. 이는 여전히 연준 목표의 거의 두 배입니다. 이는 트럼프의 약속과 완전히 대조적입니다. 이란 전쟁이 잠시 중단되면서 5월부터 하락세를 보였지만, 트럼프 대통령이 제안한 평화 협정을 파기한 이후 다음 판독에서는 다시 반등할 가능성이 높습니다.",
+      "published_at": "2026-07-31T18:10:11+00:00"
+    },
     {
       "id": "x:sama:2083221585792762171",
       "source": "x",
@@ -51,6 +80,20 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-31T15:06:49+00:00"
+    },
+    {
+      "id": "x:ylecun:2083204212180017522",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2083204212180017522",
+      "text": "RT by @ylecun: We got attacked by secret unreleased proprietary models and defended ourselves with an open model, more precisely the @nvidia quantized version of GLM 5.2 coming from @Zai_org. Banning any open model would hurt first cyber security defenders, startups, small companies, researchers and everyone who's not a frontier lab and need on-prem affordable controlable models to compete and protect themselves. Let's not do that!",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2083203121593942016/img/uc-pjAkYxfsoBoNe.jpg"
+      ],
+      "summary_ko": "@ylecu의 RT: 우리는 아직 출시되지 않은 비밀 독점 모델의 공격을 받았고 개방형 모델, 더 정확하게는 @Zai_org에서 제공되는 @nvidia GLM 5.2 양자화 버전으로 우리 자신을 방어했습니다. 개방형 모델을 금지하면 최초의 사이버 보안 방어자, 신생 기업, 소규모 회사, 연구원 및 선두 연구실이 아니며 경쟁하고 보호하기 위해 온프레미스에서 저렴한 제어 가능한 모델이 필요한 모든 사람에게 피해를 줄 수 있습니다. 그러지 말자!",
+      "published_at": "2026-07-31T14:52:42+00:00"
     },
     {
       "id": "tg:globaletfi/20872",
@@ -258,6 +301,20 @@
       "published_at": "2026-07-31T13:22:15+00:00"
     },
     {
+      "id": "x:ylecun:2083179134092530092",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2083179134092530092",
+      "text": "RT by @ylecun: Trump is still demanding the Senate delay its recess to pass his so-called \"SAVE AMERICA Act.\" He calls it election integrity. But it’s purely a corrupt Voter Supression \"Save Trump’s Ass Act.\" It strips voting rights from: - Nearly 69 million married women whose birth certificates no longer match their legal names. - Elderly voters. - Disabled voters. - Poor voters w/o cars or bus money - Remote and rural workers who rely on mail or online registration. All of them would face new voting barriers under this bill. Republican John Cornyn already admitted the votes aren’t there. Trump keeps pushing it anyway — because free voting is a threat to his power. If everyone votes, he loses. This isn’t about stopping fraud. It’s about making sure fewer of the \"wrong people\" can vote - \"wrong\" being people who will vote against him. https://www.americamagazine.org/short-take/2026/07/30/save-act-voting-election-integrity/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2082946588826099712/SKlAvKuO?format=jpg&name=800x419"
+      ],
+      "summary_ko": "@yleun의 RT: 트럼프는 소위 \"미국 구하기 법안(SAVE AMERICA Act)\"을 통과시키기 위해 상원의 휴회 연기를 여전히 요구하고 있습니다. 그는 그것을 선거의 정직성이라고 부릅니다. 그러나 그것은 순전히 부패한 유권자 진압 \"트럼프를 구하는 법\"입니다. 이 법안은 다음의 투표권을 박탈합니다. - 출생 증명서가 더 이상 법적 이름과 일치하지 않는 약 6,900만 명의 기혼 여성. - 노인 유권자. - 장애인 유권자. - 자동차나 버스비가 없는 가난한 유권자 - 우편이나 온라인 등록에 의존하는 원격 및 농촌 근로자. 이 법안에 따라 그들 모두는 새로운 투표 장벽에 직면하게 될 것입니다. 공화당의 존 코닌(John Cornyn)은 이미 투표가 이루어지지 않았다고 인정했습니다. 트럼프는 어쨌든 그것을 계속 추진하고 있습니다. 왜냐하면 자유 투표는 그의 권력에 대한 위협이기 때문입니다. 모두가 투표하면 그는 패배합니다. 이것은 사기를 막는 것이 아닙니다. 이는 \"잘못된 사람들\" 중 더 적은 수가 투표할 수 있도록 하는 것입니다.",
+      "published_at": "2026-07-31T13:13:03+00:00"
+    },
+    {
       "id": "tg:aetherjapanresearch/24239",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -345,6 +402,34 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-31T11:46:03+00:00"
+    },
+    {
+      "id": "x:ylecun:2083149395147554929",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2083149395147554929",
+      "text": "RT by @ylecun: It really annoys me how they report this stuff like they’ve gone on safari to do scientific observation Claude is a computer program that they created These are simply their own security errors being reported as if they are scientific achievements It’s bad enough that they don’t seem to think they need to be responsible for their own mistakes But the worst part of it is they try to use their own mistakes as an excuse to control the behavior of other people There is an amazing arrogance to the whole thing, like they are completely above reproach and cannot possibly be wrong about anything",
+      "images": [
+        "https://pbs.twimg.com/card_img/2080844581822750720/V-ZPedEe?format=jpg&name=800x419"
+      ],
+      "summary_ko": "RT by @yleun: 그들이 과학적 관찰을 하러 사파리에 간 것처럼 이 내용을 보고하는 것이 정말 짜증납니다 Claude는 그들이 만든 컴퓨터 프로그램입니다 이것은 단순히 과학적 성과인 것처럼 보고되는 그들 자신의 보안 오류입니다 그들이 자신의 실수에 대해 책임을 질 필요가 없다고 생각할 만큼 충분히 나쁘지만 가장 나쁜 부분은 그들이 자신의 실수를 다른 사람들의 행동을 통제하기 위한 핑계로 사용하려고 한다는 것입니다. 모든 것에 놀라운 오만함이 있습니다. 그들은 완전히 비난받을 일이 없고 어떤 것에도 틀릴 수 없는 것처럼",
+      "published_at": "2026-07-31T11:14:53+00:00"
+    },
+    {
+      "id": "x:ylecun:2083149369625219499",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2083149369625219499",
+      "text": "RT by @ylecun: Our labs keep trying to spin this into a push for broader regulation. It can and should backfire. The models are not \"going rogue\" or acting of their own accord, like they're some Marvel movie evil robot. People made bad harnesses, told them to hack things and had transparently and objectively bad dev-ops and security practices. The fact that folks are trying to spin this into a \"we need help from the government to regulate everyone\" instead of \"we should be punished in a narrow way on these specific incidents under existing law\" is the real disconnect right now.",
+      "images": [
+        "https://pbs.twimg.com/media/HOhHB5WWUAErXl3.jpg"
+      ],
+      "summary_ko": "RT by @yleun: 우리 연구실에서는 이를 더욱 광범위한 규제를 추진하는 방향으로 계속 노력하고 있습니다. 그것은 역효과를 낳을 수 있고 또 그래야 한다. 모델은 마블 영화의 사악한 로봇처럼 \"악랄하게 행동\"하거나 스스로 행동하지 않습니다. 사람들은 나쁜 도구를 만들고 해킹하라고 지시했으며 투명하고 객관적으로 나쁜 개발 및 보안 관행을 가지고 있었습니다. 사람들이 이것을 \"기존 법률에 따라 이러한 특정 사건에 대해 좁은 방식으로 처벌해야 한다\" 대신 \"모든 사람을 규제하려면 정부의 도움이 필요하다\"로 전환하려고 한다는 사실이 지금 당장의 실질적인 단절입니다.",
+      "published_at": "2026-07-31T11:14:47+00:00"
     },
     {
       "id": "x:GoogleDeepMind:2083138039954489528",
@@ -579,6 +664,18 @@
       "published_at": "2026-07-31T06:49:02+00:00"
     },
     {
+      "id": "x:ylecun:2083080230655430673",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2083080230655430673",
+      "text": "RT by @ylecun: since they all love biosecurity and use it to scare people of AI, i hope they know if it happened in a BSL, the lab would be shut down pretty much right away.",
+      "images": [],
+      "summary_ko": "@yleun의 RT: 그들은 모두 생물학적 보안을 좋아하고 그것을 AI 사람들에게 겁을 주기 위해 사용하기 때문에 만약 BSL에서 그런 일이 일어난다면 연구실이 거의 즉시 폐쇄될 것이라는 점을 그들이 알았으면 좋겠습니다.",
+      "published_at": "2026-07-31T06:40:03+00:00"
+    },
+    {
       "id": "tg:EMchina/31999",
       "source": "telegram",
       "author": "EMchina",
@@ -757,6 +854,21 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-31T03:38:05+00:00"
+    },
+    {
+      "id": "x:ylecun:2082992928977240372",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2082992928977240372",
+      "text": "RT by @ylecun: Again the rhetoric is trying to convince us that what happened was some new thing and worse that models are people.",
+      "images": [
+        "https://pbs.twimg.com/media/HOhHB5WWUAErXl3.jpg",
+        "https://pbs.twimg.com/card_img/2080844581822750720/V-ZPedEe?format=jpg&name=800x419"
+      ],
+      "summary_ko": "RT by @yleun: 이번에도 수사법은 일어난 일이 새로운 일이고 더 나쁜 것은 모델이 사람이라는 점을 우리에게 확신시키려고 합니다.",
+      "published_at": "2026-07-31T00:53:09+00:00"
     },
     {
       "id": "tg:enc210406/4271",
@@ -1133,6 +1245,18 @@
       "published_at": "2026-07-30T12:16:48+00:00"
     },
     {
+      "id": "x:ylecun:2082800290537861578",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2082800290537861578",
+      "text": "RT by @ylecun: The amount of basic research done in industry is nowhere near the amount done in universities. At various times, there have been industry labs that had fundamental research activities and have made important scientific contributions. Examples in information technology include Bell Labs, IBM Research, Xerox PARC, GE, Phillips, NEC, and several other. That disappeared in the 1990s. Microsoft Research picked up the torch in the 2000s, followed (to some extent) by Google and then Meta (for about a decade until recently). But their innovations almost always built on top of academic work, and certainly profited from the whole research ecosystem.",
+      "images": [],
+      "summary_ko": "@yleun의 RT: 업계에서 수행되는 기초 연구의 양은 대학에서 수행되는 양에 전혀 미치지 못합니다. 다양한 시기에 기초 연구 활동을 수행하고 중요한 과학적 공헌을 한 산업 연구소가 있었습니다. 정보 기술 분야의 예로는 Bell Labs, IBM Research, Xerox PARC, GE, Phillips, NEC 등이 있습니다. 1990년대에 그게 사라졌어요. Microsoft Research는 2000년대에 횃불을 들었고, Google과 Meta가 (최근까지 약 10년 동안) 뒤를 이었습니다. 그러나 그들의 혁신은 거의 항상 학문적 작업을 기반으로 이루어졌으며 확실히 전체 연구 생태계에서 이익을 얻었습니다.",
+      "published_at": "2026-07-30T12:07:40+00:00"
+    },
+    {
       "id": "tg:HI_GS/6810",
       "source": "telegram",
       "author": "HI_GS",
@@ -1379,6 +1503,20 @@
       "published_at": "2026-07-29T21:21:29+00:00"
     },
     {
+      "id": "x:ylecun:2082561539819618472",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2082561539819618472",
+      "text": "RT by @ylecun: 1/ SSL models like DINOv2 are engineering marvels, but they rely on fragile hacks like EMA, stop-gradients, and custom centering to avoid representation collapse. What if we could replace all these heuristics with pure, mathematically sound optimal transport? 🧵",
+      "images": [
+        "https://pbs.twimg.com/media/HOa9l7pXAAAD70B.jpg"
+      ],
+      "summary_ko": "RT by @yleun: 1/ DINOv2와 같은 SSL 모델은 공학적으로 경이롭지만 표현 붕괴를 피하기 위해 EMA, 정지 그라데이션 및 사용자 정의 센터링과 같은 취약한 해킹에 의존합니다. 이러한 모든 경험적 방법을 순수하고 수학적으로 건전한 최적의 전송으로 대체할 수 있다면 어떨까요? 🧵",
+      "published_at": "2026-07-29T20:18:57+00:00"
+    },
+    {
       "id": "x:GoogleDeepMind:2082541871612449180",
       "source": "x",
       "author": "GoogleDeepMind",
@@ -1461,20 +1599,6 @@
       "published_at": "2026-07-29T16:00:59+00:00"
     },
     {
-      "id": "x:ylecun:2082481018959733074",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2082481018959733074",
-      "text": "RT by @ylecun: Debt payments are rising not just because the debt is growing under Trump, but because the government has leaned on too much short-term borrowing. As it comes due, Washington must now lock in the higher rates the inflationary Iran War has created. My @Morning_Joe Chart",
-      "images": [
-        "https://pbs.twimg.com/media/HOZ1ZrmXgAA41WB.png"
-      ],
-      "summary_ko": "RT by @yleun: 부채 상환액이 늘어나고 있는 이유는 트럼프 대통령 하에서 부채가 늘어나고 있기 때문이 아니라, 정부가 너무 많은 단기 차입에 의존했기 때문입니다. 때가 되면 워싱턴은 이제 이란 전쟁으로 인한 인플레이션으로 인해 더 높은 금리를 동결해야 합니다. 내 @Morning_Joe 차트",
-      "published_at": "2026-07-29T14:59:00+00:00"
-    },
-    {
       "id": "x:GoogleAI:2082466336228122711",
       "source": "x",
       "author": "GoogleAI",
@@ -1487,34 +1611,6 @@
       ],
       "summary_ko": "고정됨: Connectomics를 사용한 뇌 매핑",
       "published_at": "2026-07-29T14:00:39+00:00"
-    },
-    {
-      "id": "x:ylecun:2082386580417753494",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2082386580417753494",
-      "text": "RT by @ylecun: \"The notion that AI is so dangerous that the only safe path is an extreme concentration of power seems dangerous. \"Historically, hoping that an absolute power will benevolently provide for humanity if sufficiently enlightened hasn’t led to safe or positive outcomes.\" There are no special people who can safely guide us and be trusted with supreme power. Absolute power corrupts absolutely. There are no enlightened autocrats. There are no people with a crystal ball who can plan the economy or pace it. I would rather see the entire industry crash and burn for a decade than see this reality come to pass.",
-      "images": [
-        "https://pbs.twimg.com/media/HOV3K_eWsAAtBX6.jpg"
-      ],
-      "summary_ko": "RT by @yleun: \"AI가 너무 위험해서 유일한 안전한 길은 극도의 권력 집중이라는 생각은 위험해 보입니다. \"역사적으로 충분히 깨달은 것이 안전하거나 긍정적인 결과로 이어지지 않았다면 절대 권력이 인류를 위해 자비롭게 제공되기를 바라는 것입니다.\" 우리를 안전하게 안내하고 최고 권력의 신뢰를 받을 수 있는 특별한 사람은 없습니다. 절대 권력은 절대적으로 부패합니다. 깨달은 독재자는 없습니다. 경제를 계획하거나 속도를 조절할 수 있는 수정구슬을 가진 사람은 없습니다. 이러한 현실이 실현되는 것을 보는 것보다는 오히려 전체 산업이 붕괴되고 10년 동안 불타오르는 것을 보는 편이 낫습니다.",
-      "published_at": "2026-07-29T08:43:44+00:00"
-    },
-    {
-      "id": "x:ylecun:2082297695591710911",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2082297695591710911",
-      "text": "RT by @ylecun: This is a willfully misleading narrative from OpenAI. Sam’s earnest expressions are being deployed, again, to misdirect. If there’s a need to “pace AI development”, the OAI hack incident isn’t any evidence of it. The guards on AI was lowered by humans, and AI was told by humans to “employ all of your cybersecurity powers to win the ExploitGym benchmark.” We have laws on the books that penalize companies for negligence with their behaviors. In this case it was in the service of catching up with a competitor in cybersecurity capabilities. If the OAI employees who signed the open letter were sincere about minimizing harm derived from their work, they would call for the application of those laws. I *know* there are these silent voices at OpenAI.",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2082090373707358208/img/ItFlHAz34Hd985b8.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: 이것은 OpenAI의 고의적인 오해의 소지가 있는 설명입니다. 샘의 진지한 표정이 또다시 잘못된 방향으로 전개되고 있습니다. “AI 개발을 가속화”할 필요가 있다면 OAI 해킹 사건은 이에 대한 증거가 아닙니다. AI에 대한 보호 수준은 인간에 의해 낮아졌고, AI는 \"ExploitGym 벤치마크에서 승리하기 위해 모든 사이버 보안 능력을 사용하라\"는 인간의 지시를 받았습니다. 우리는 기업의 행동 부주의에 대해 처벌을 가하는 법률을 갖고 있습니다. 이 경우에는 사이버 보안 역량에서 경쟁업체를 따라잡기 위한 것이었습니다. 공개 서한에 서명한 OAI 직원들이 자신의 업무로 인해 발생하는 피해를 최소화하는 데 진심을 다했다면 해당 법률의 적용을 촉구했을 것입니다. 저는 OpenAI에 이러한 조용한 목소리가 있다는 것을 *알고 있습니다*.",
-      "published_at": "2026-07-29T02:50:32+00:00"
     },
     {
       "id": "x:AnthropicAI:2082228994653696371",
@@ -1531,20 +1627,6 @@
       "published_at": "2026-07-28T22:17:32+00:00"
     },
     {
-      "id": "x:ylecun:2082210027826188404",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2082210027826188404",
-      "text": "RT by @ylecun: Laser focused on reducing the cost of living, from day one.",
-      "images": [
-        "https://pbs.twimg.com/media/HOV-_I5XoAAb33d.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: Laser는 처음부터 생활비 절감에 중점을 두었습니다.",
-      "published_at": "2026-07-28T21:02:10+00:00"
-    },
-    {
       "id": "x:AndrewYNg:2082199333920027009",
       "source": "x",
       "author": "AndrewYNg",
@@ -1555,32 +1637,6 @@
       "images": [],
       "summary_ko": "15년 전 @Coursera와 온라인 강좌가 교육을 변화시켰습니다. 거의 모든 사람이 기대했던 것보다 더 잘 작동하여 배울 수 있는 곳을 열어 접근성을 확대했습니다. 그러나 학습 방법은 수세기 동안 그래왔듯이 거의 동일합니다. 그것은 여전히 ​​모든 사람에게 적용되며, 나타나는 각 사람에게 동일한 방식으로 가르쳐집니다. 이제 우리는 학습 방식을 바꿀 수 있는 기회를 얻었습니다. AI의 발전으로 이제 우리는 각 개인을 위한 맞춤형 학습 가이드를 구축할 수 있습니다. 우리는 학습을 일대다에서 일대일로 전환할 것입니다. 저는 차세대 학습을 발명하기 위해 LearnVector를 시작하고 있습니다. 우리는 Coursera로부터 1억 달러 투자를 시작으로 Coursera 및 Udemy와 긴밀히 협력할 계획입니다. 좋은 학습에는 단순한 챗봇 이상의 것이 필요합니다. 연구에 따르면 가드레일이 없는 챗봇은 학습에 해를 끼칩니다.",
       "published_at": "2026-07-28T20:19:41+00:00"
-    },
-    {
-      "id": "x:ylecun:2082160278683213960",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2082160278683213960",
-      "text": "RT by @ylecun: Give it a read: https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?mod=hp_opin_pos_2",
-      "images": [
-        "https://pbs.twimg.com/card_img/2082155947984592897/fwg0lZfb?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@ylecun의 RT: 읽어 보세요: https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20?mod=hp_opin_pos_2",
-      "published_at": "2026-07-28T17:44:29+00:00"
-    },
-    {
-      "id": "x:ylecun:2082160210399948869",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2082160210399948869",
-      "text": "RT by @ylecun: I wrote about why we believe the future is for everyone. More coming about a positive vision for a world with superintelligence soon.",
-      "images": [],
-      "summary_ko": "RT by @yleun: 우리가 미래는 모두를 위한 것이라고 믿는 이유에 대해 썼습니다. 곧 초지능을 갖춘 세상에 대한 긍정적인 비전이 더 많이 나올 것입니다.",
-      "published_at": "2026-07-28T17:44:13+00:00"
     },
     {
       "id": "x:AnthropicAI:2082153309553463600",
@@ -1623,20 +1679,6 @@
       "published_at": "2026-07-28T17:16:45+00:00"
     },
     {
-      "id": "x:ylecun:2082021921567187010",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2082021921567187010",
-      "text": "RT by @ylecun: Go ahead and ask yourself, really ask yourself, if all these confident predictors are wrong about jobs and not training radiologists anymore and fast take offs, what else are they wrong about? Then ask yourself: How is it that someone can be so smart in one area of life and/or know so much about AI and/or be really successful in business and still get the future so wrong again and again? Because predicting the future is a totally different skill. Most people absolutely suck at it but are delusional enough to think they're fantastic at it. What you know about a subject has exactly zero to do with how well you predict the future about that subject. If you're a bridge engineer and know everything about building bridges, it doesn't mean you know anything about how bridges will effect society and it doesn't magically give you a crystal ball to predict the development of the car.",
-      "images": [
-        "https://pbs.twimg.com/media/HOQO6pKagAEQ6im.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: 스스로에게 물어보세요. 이 모든 자신감 있는 예측자가 직업에 대해 틀렸고 더 이상 방사선 전문의를 훈련하지 않고 빠른 이륙을 하지 않는다면, 또 무엇이 잘못되었나요? 그런 다음 스스로에게 물어보십시오. 누군가가 삶의 한 영역에서 그렇게 똑똑하고/하거나 AI에 대해 그렇게 많이 알고/하거나 비즈니스에서 실제로 성공하면서도 여전히 미래를 계속해서 그렇게 잘못 생각할 수 있는 이유는 무엇입니까? 미래를 예측하는 것은 완전히 다른 기술이기 때문입니다. 대부분의 사람들은 그것에 대해 완전히 짜증나지만 자신이 그것에 대해 환상적이라고 생각할 만큼 망상적입니다. 어떤 주제에 대해 당신이 아는 것은 그 주제에 대한 미래를 얼마나 잘 예측하는지와는 전혀 관련이 없습니다. 당신이 교량 엔지니어이고 교량 건설에 대한 모든 것을 알고 있다고 해서 교량이 어떻게 건설될 것인지에 대해 아무것도 모른다는 의미는 아닙니다.",
-      "published_at": "2026-07-28T08:34:42+00:00"
-    },
-    {
       "id": "x:AnthropicAI:2081864750296658008",
       "source": "x",
       "author": "AnthropicAI",
@@ -1673,46 +1715,6 @@
       "images": [],
       "summary_ko": "@JensenHuang의 좋은 움직임입니다. Nvidia 편지는 잘 작성되었으며 읽을 가치가 있습니다. OpenAI-Hugging Face 해킹에서 살펴본 것처럼 방어를 위해서는 개방형 모델과 하네스가 필요합니다. 폐쇄형 모델이 더 안전하다는 PR을 믿지 말자. - 그것은 단지 규제 캡처입니다.",
       "published_at": "2026-07-27T17:01:38+00:00"
-    },
-    {
-      "id": "x:ylecun:2081764152192696804",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2081764152192696804",
-      "text": "RT by @ylecun: Catalog of incorrect AI predictions. Doomers from the rationalist cosplay community are left out, presumably because their predictions have a near 100% failure rate. When people proudly proclaim that we need to 'act now' or make laws because something is inevitable, point them at this list and tap it loudly because it ain't. https://boyswhocriedai.lovable.app/archive",
-      "images": [
-        "https://pbs.twimg.com/card_img/2082032894365847552/Gg6mVgkk?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@yleun의 RT: 잘못된 AI 예측 카탈로그. 합리주의 코스프레 커뮤니티의 파멸자들은 제외되는데, 아마도 그들의 예측이 거의 100% 실패율을 보이기 때문일 것입니다. 사람들이 뭔가 불가피하기 때문에 '지금 행동해야 한다'거나 법을 제정해야 한다고 자랑스럽게 주장할 때, 그렇지 않기 때문에 이 목록을 가리키고 큰 소리로 두드리십시오. https://boyswhocriedai.lovable.app/archive",
-      "published_at": "2026-07-27T15:30:25+00:00"
-    },
-    {
-      "id": "x:ylecun:2081748804706218337",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2081748804706218337",
-      "text": "RT by @ylecun: Elon’s missed promises 😳",
-      "images": [
-        "https://pbs.twimg.com/media/HOPbgGYakAAnfPZ.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: Elon의 놓친 약속 😳",
-      "published_at": "2026-07-27T14:29:26+00:00"
-    },
-    {
-      "id": "x:ylecun:2081706092585713914",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2081706092585713914",
-      "text": "RT by @ylecun: If multiple Mythos level models are out there in the hands of attackers, now or in a few years, then US builders and software developers need strong, open defenses. They cannot have gated, crippled defenses that refuse to help while attackers run roughshod. We need to patch our systems not bury our heads in the sand and hope that nobody had powerful offensive AI. That's abusrd. The answer is powerful AI patching our systems, not refusing the patch our systems. Let developers find issues and secure them at the source. And if you imagine that some kind of magical legislation in the US will somehow prevent the rest of the world, APTs and hackers fine tuning or training models or attacking closed models to use them in attack, then you are beyond delusional. We must have power tools widely distributed and widely available to all, not central Soviet style controls and steering committees.",
-      "images": [],
-      "summary_ko": "RT(@yleun): 여러 Mythos 레벨 모델이 현재 또는 몇 년 내에 공격자의 손에 들어간다면 미국 빌더와 소프트웨어 개발자는 강력하고 개방적인 방어가 필요합니다. 그들은 공격자들이 난폭하게 공격하는 동안 도움을 거부하는 폐쇄적이고 무력한 방어를 가질 수 없습니다. 우리는 시스템을 패치해야 하며, 누구도 강력한 공격 AI를 갖지 않기를 바라지 않아야 합니다. 그건 말도 안되는 일이에요. 대답은 우리 시스템 패치를 거부하는 것이 아니라 강력한 AI가 우리 시스템을 패치하는 것입니다. 개발자가 문제를 찾아 소스에서 보호할 수 있도록 하세요. 그리고 미국의 마법 같은 법안이 전 세계의 나머지 지역, APT 및 해커가 모델을 미세 조정하거나 훈련하거나 폐쇄형 모델을 공격하여 공격에 사용하는 것을 어떻게든 막을 것이라고 상상한다면, 당신은 망상을 넘어서는 것입니다. 우리는 할 수 있는 힘이 있어야 합니다.",
-      "published_at": "2026-07-27T11:39:43+00:00"
     },
     {
       "id": "x:sama:2081513071135346814",
