@@ -1,21 +1,45 @@
 {
-  "updated_at": "2026-07-31T15:19:57+00:00",
+  "updated_at": "2026-07-31T17:36:41+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 15
+    "new_this_run": 6
   },
   "briefing": {
-    "headline": "OPENAI, 200만 기업에서 사용",
+    "headline": "OpenAI, 200만개 기업에서 사용",
     "bullets": [
-      "미 국채 금리 상승",
-      "중동 긴장으로 유가 상승",
-      "키옥시아, 사상 최대 이익",
-      "엔비디아, 중국에서 GPU 가격 인상"
+      "키옥시아, 1분기 사상 최대 이익",
+      "엔비디아, 중국에서 GPU 가격 인상",
+      "문샷 AI, 알리바바로부터 2만개 규모 엔비디아 칩 클러스터 확보",
+      "삼성전자, NAND 시장 기술 업그레이드와 SSD 비중 확대 주력"
     ],
-    "generated_at": "2026-07-31T15:19:57+00:00",
+    "generated_at": "2026-07-31T17:36:41+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:sama:2083221585792762171",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2083221585792762171",
+      "text": "cool use case of chatgpt work i heard last night: connect your family calendars and explain your kids' interests. every morning for the drive to school, have it make a podcast that talks about one kid's soccer game that afternoon, one kid's upcoming birthday, some news, etc.",
+      "images": [],
+      "summary_ko": "어젯밤에 들었던 chatgpt 작업의 멋진 사용 사례: 가족 캘린더를 연결하고 자녀의 관심사를 설명하세요. 매일 아침 학교에 운전해서 갈 때, 그날 오후 한 아이의 축구 경기, 한 아이의 다가오는 생일, 뉴스 등에 대해 이야기하는 팟캐스트를 만들도록 하세요.",
+      "published_at": "2026-07-31T16:01:45+00:00"
+    },
+    {
+      "id": "x:GoogleAI:2083221445375668654",
+      "source": "x",
+      "author": "GoogleAI",
+      "author_name": "Google AI(구글 AI)",
+      "author_url": "https://x.com/GoogleAI",
+      "url": "https://x.com/GoogleAI/status/2083221445375668654",
+      "text": "It’s been a busy couple of weeks! ICYMI, here’s the recap ⬇️ — Gemini Robotics 2 from @GoogleDeepmind brings whole-body intelligence to robots — Gemini 3.5 Flash-Lite is our fastest, most cost-effective model optimized for high-speed agentic workflows — Gemini 3.6 Flash delivers faster, more accurate performance across tasks while using significantly fewer tokens — Gemini 3.5 Flash Cyber is our new, cost-effective model optimized for finding and fixing software vulnerabilities at scale, available exclusively to governments and trusted partners — Nano Banana 2 in @GoogleEarth lets you reimagine places and generate custom images using satellite, aerial, and 3D imagery — Lyria 3.5 is the newest music model from Google Deepmind, now powering @googleflowmusic — @Gemini_Notebook (formerly NotebookLM) launched Collections, a new way to organize your notebooks",
+      "images": [],
+      "summary_ko": "몇 주 동안 바빴어요! ICYMI의 요약은 다음과 같습니다 ⬇️ — @GoogleDeepmind의 Gemini Robotics 2는 로봇에 전신 지능을 제공합니다. — Gemini 3.5 Flash-Lite는 고속 에이전트 워크플로에 최적화된 가장 빠르고 비용 효율적인 모델입니다. — Gemini 3.6 Flash는 훨씬 적은 수의 토큰을 사용하면서 작업 전반에 걸쳐 더 빠르고 정확한 성능을 제공합니다. — Gemini 3.5 Flash Cyber는 대규모 소프트웨어 취약점을 찾아 해결하는 데 최적화된 새롭고 비용 효율적인 모델입니다. 정부와 신뢰할 수 있는 파트너에게만 제공됩니다. — @GoogleEarth의 Nano Banana 2를 사용하면 위성, 항공 및 3D 이미지를 사용하여 장소를 재구성하고 맞춤 이미지를 생성할 수 있습니다. — Lyria 3.5는 Google Deepmind의 최신 음악 모델로 이제 @googleflowmusic을 지원합니다. — @Gemini_Notebook(이전의 Notebo)",
+      "published_at": "2026-07-31T16:01:11+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24249",
       "source": "telegram",
@@ -41,6 +65,18 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-31T14:51:16+00:00"
+    },
+    {
+      "id": "x:sama:2083203642975502640",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2083203642975502640",
+      "text": "i see your moore's law and i raise you 20x",
+      "images": [],
+      "summary_ko": "난 네 무어의 법칙을 보고 너를 20배로 키울 거야",
+      "published_at": "2026-07-31T14:50:27+00:00"
     },
     {
       "id": "tg:globaletfi/20870",
@@ -106,6 +142,18 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-31T14:32:00+00:00"
+    },
+    {
+      "id": "x:sama:2083198135812383197",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2083198135812383197",
+      "text": "it could be faster",
+      "images": [],
+      "summary_ko": "더 빠를 수도 있어요",
+      "published_at": "2026-07-31T14:28:34+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/24245",
@@ -881,6 +929,20 @@
       "published_at": "2026-07-30T18:53:09+00:00"
     },
     {
+      "id": "x:demishassabis:2082902334984609936",
+      "source": "x",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2082902334984609936",
+      "text": "RT by @demishassabis: What if you could see a city as it looked 100 years ago, or visualize a new basketball court at your local community center? Starting today, we're bringing our latest image generation capabilities to @GoogleEarth on the web. Powered by Nano Banana 2, you can combine rich satellite and 3D imagery with text prompts to reimagine your favorite place around the globe. Just zoom in, tap “create image,” and type whatever you want to see! Available now for everyone to start creating: http://goo.gle/4fNJGyt",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2082902124187262977/img/H36suhVKpKLir-WV.jpg"
+      ],
+      "summary_ko": "@demishassabis의 RT: 100년 전의 도시를 볼 수 있거나 지역 커뮤니티 센터에 새로운 농구 코트를 시각화할 수 있다면 어떨까요? 오늘부터 웹의 @GoogleEarth에 최신 이미지 생성 기능을 제공합니다. Nano Banana 2로 구동되는 풍부한 위성 및 3D 이미지를 텍스트 프롬프트와 결합하여 전 세계에서 가장 좋아하는 장소를 재구성할 수 있습니다. 확대하고 '이미지 만들기'를 탭한 후 보고 싶은 내용을 입력하세요! 이제 누구나 창작을 시작할 수 있습니다. http://goo.gle/4fNJGyt",
+      "published_at": "2026-07-30T18:53:09+00:00"
+    },
+    {
       "id": "x:demishassabis:2082883806323728416",
       "source": "x",
       "author": "demishassabis",
@@ -1364,7 +1426,9 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2082516374010974228",
       "text": "R to @OpenAI: Participants will receive access to our frontier models, including our GPT-5.6 family of models. Each workspace includes business-grade privacy and security protections. Researcher data is not used to train our models by default, and participants can invite up to four collaborators. The program also includes training, hands-on support, and opportunities to learn from other researchers. https://openai.com/index/chatgpt-for-academic-researchers/",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2082513397934120962/FjPwevNe?format=jpg&name=800x419"
+      ],
       "summary_ko": "R에서 @OpenAI로: 참가자는 GPT-5.6 모델 제품군을 포함한 프론티어 모델에 액세스할 수 있습니다. 각 작업 공간에는 비즈니스급 개인 정보 보호 및 보안 보호 기능이 포함되어 있습니다. 연구원 데이터는 기본적으로 모델을 훈련하는 데 사용되지 않으며 참가자는 최대 4명의 공동 작업자를 초대할 수 있습니다. 이 프로그램에는 교육, 실습 지원, 다른 연구자로부터 배울 수 있는 기회도 포함됩니다. https://openai.com/index/chatgpt-for-academic-researchers/",
       "published_at": "2026-07-29T17:19:29+00:00"
     },
@@ -1704,18 +1768,6 @@
       "published_at": "2026-07-25T15:31:24+00:00"
     },
     {
-      "id": "x:sama:2080861203010568232",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2080861203010568232",
-      "text": "RT by @sama: stories like this should be told more",
-      "images": [],
-      "summary_ko": "@sama님의 RT: 이런 이야기는 더 많이 알려야 합니다",
-      "published_at": "2026-07-25T03:42:25+00:00"
-    },
-    {
       "id": "rss:semianalysis:can-amd-break-the-cuda-moat-amd-advancing",
       "source": "rss",
       "author": "semianalysis",
@@ -1742,33 +1794,6 @@
       ],
       "summary_ko": "@AnthropicAI의 RT: Claude Opus 5를 소개합니다. 절반 가격으로 Fable 5의 첨단 지능에 근접한 사려 깊고 적극적인 모델입니다.",
       "published_at": "2026-07-24T16:59:51+00:00"
-    },
-    {
-      "id": "x:sama:2080683363174945065",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2080683363174945065",
-      "text": "i want the US to win in AI both in open source and proprietary models, and i am glad to see this",
-      "images": [
-        "https://pbs.twimg.com/media/HN_qDVsa4AAI6XJ.jpg",
-        "https://pbs.twimg.com/media/HN_qDV1a8AARQwg.jpg"
-      ],
-      "summary_ko": "저는 미국이 오픈 소스 모델과 독점 모델 모두에서 AI 분야에서 승리하기를 원하며 이를 보게 되어 기쁩니다.",
-      "published_at": "2026-07-24T15:55:45+00:00"
-    },
-    {
-      "id": "x:sama:2080683119959757243",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2080683119959757243",
-      "text": "let us know what you think of pro-ultra-superhard",
-      "images": [],
-      "summary_ko": "프로울트라슈퍼하드에 대해 어떻게 생각하는지 알려주세요.",
-      "published_at": "2026-07-24T15:54:47+00:00"
     },
     {
       "id": "x:AndrewYNg:2080333504446108104",
@@ -1817,7 +1842,7 @@
       "author_name": "Google DeepMind(딥마인드)",
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2080321519952056441",
-      "text": "By combining speed and efficiency, 3.5 Flash Cyber lets defense specialists check significantly more code paths. In testing on our own codebases – including @googlechrome and @Android – it consistently caught complex, unique vulnerabilities that standard models missed.",
+      "text": "R to @GoogleDeepMind: By combining speed and efficiency, 3.5 Flash Cyber lets defense specialists check significantly more code paths. In testing on our own codebases – including @googlechrome and @Android – it consistently caught complex, unique vulnerabilities that standard models missed.",
       "images": [
         "https://pbs.twimg.com/media/HN7JKNPWUAAYqbM.jpg"
       ],
@@ -2055,20 +2080,6 @@
       ],
       "summary_ko": "@demishassabis의 RT: 3년 전 우리는 여러분이 더 빨리 배울 수 있도록 돕기 위한 작은 실험으로 시작했습니다. 그 이후로 우리는 오디오, 비디오 및 상호 작용 기능을 소스에 제공하여 수동적인 작업 공간에서 진정한 연구 동반자로 전환했습니다. 이제 노트북은 전체 생태계가 되었습니다. @GeminiApp과 곧 Google 검색에서 이미 액세스할 수 있습니다. 따라서 이러한 발전을 통해 우리는 다시 한 번 진화해야 할 때입니다. NotebookLM은 이제 Gemini Notebook입니다 ✨📓 여러분이 알고 사랑하는 동일한 앱은 더 이상 사라지지 않을 것입니다. Google의 AI 포트폴리오에서 우리의 역할을 반영하는 업데이트된 이름만 갖게 되었습니다. 그리고 우리의 사명은 똑같습니다. 즉, 여러분이 더 빨리 배울 수 있도록 돕는 것입니다. 저희를 믿어주셔서 감사합니다. 이는 여러분의 열정과 기능 요청이 없었다면 불가능했을 것입니다.",
       "published_at": "2026-07-16T17:11:37+00:00"
-    },
-    {
-      "id": "x:demishassabis:2077721122116640969",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2077721122116640969",
-      "text": "RT by @demishassabis: The biosecurity landscape is rapidly evolving. To stay ahead of future outbreaks, we’re partnering with @IsomorphicLabs to outline our approach to bioresilience. Here’s how we’re deploying frontier AI to build proactive defenses for global health → https://goo.gle/4wKHXk2",
-      "images": [
-        "https://pbs.twimg.com/media/HNWMNtnXcAAYtNy.jpg"
-      ],
-      "summary_ko": "@demishassabis의 RT: 생물보안 환경은 빠르게 진화하고 있습니다. 향후 발병에 앞서 나가기 위해 우리는 @IsomorphicLabs와 협력하여 생체 회복력에 대한 접근 방식을 간략하게 설명하고 있습니다. 글로벌 건강을 위한 사전 예방적 방어를 구축하기 위해 우리가 프론티어 AI를 배포하는 방법은 다음과 같습니다 → https://goo.gle/4wKHXk2",
-      "published_at": "2026-07-16T11:44:52+00:00"
     },
     {
       "id": "x:AnthropicAI:2077452649000042614",
@@ -2437,20 +2448,6 @@
       ],
       "summary_ko": "이것은 매우 흥미로운 릴리스입니다. Claude Fable 5는 Mythos와 동일한 기본 모델이지만 보호 기능이 추가되었습니다. 벤치마크는 훌륭하고 모든 것에 대해 약간의 SOTA이지만 *질적으로* 또한 덧붙일 것입니다. 이것은 앞으로의 메이저 버전 향상에 합당한 단계 변경입니다(11월에 Claude 4.5가 있었던 것과 동일한 순서입니다). 특히 매우 어려운 문제에 대한 긴 문제 해결 세션에서 최고조에 달했습니다. 익숙한 것보다 훨씬 더 야심찬 작업을 제공할 수 있습니다. 모델은 \"이해\"하고 그대로 진행되며, 코드를 보는 것을 전혀 중단하고 싶은 유혹을 느끼지 않습니다(그러나 프로덕션에서는 이렇게 하지 마십시오!). 이 모델에는 사람들이 직면하게 될 문제가 여전히 남아 있으며 안전 장치는 출시하기에 너무 만족스러울 정도로 구성되어 있어 시간이 지남에 따라 조정될 수 있기를 바랍니다. 만약에",
       "published_at": "2026-06-09T18:10:00+00:00"
-    },
-    {
-      "id": "x:GoogleAI:2064366505630802081",
-      "source": "x",
-      "author": "GoogleAI",
-      "author_name": "Google AI(구글 AI)",
-      "author_url": "https://x.com/GoogleAI",
-      "url": "https://x.com/GoogleAI/status/2064366505630802081",
-      "text": "R to @GoogleAI: Read the blog to learn more: https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2081088148843708416/p7_eVBUE?format=jpg&name=800x419"
-      ],
-      "summary_ko": "R에서 @GoogleAI로: 자세한 내용은 블로그를 읽어보세요. https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-live-3-5-translate/",
-      "published_at": "2026-06-09T15:18:23+00:00"
     },
     {
       "id": "x:AndrewYNg:2062576164657664469",
