@@ -1,22 +1,74 @@
 {
-  "updated_at": "2026-07-31T22:59:56+00:00",
+  "updated_at": "2026-08-01T00:08:44+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 4
+    "new_this_run": 8
   },
   "briefing": {
-    "headline": "이란, 호르무즈 해협 통행 중단 발표",
+    "headline": "7월 수출 989억달러, 62.8%↑…반도체 179%↑",
     "bullets": [
       "미국 30년물 국채 금리 5.20% 돌파",
-      "OPENAI, 200만개 기업에서 모델 사용",
-      "엔비디아, 중국에서 GPU 가격 인상 예정",
-      "중국, 태양광 산업 가격 준법 지도 활동 전개",
-      "레이 달리오, AI 자산 버블 경고"
+      "OPENAI 모델, 200만개 기업에서 사용",
+      "엔비디아 중국에서 GPU 가격 인상 예정",
+      "중국 Moonshot AI, 알리바바로부터 20,000개 규모 엔비디아 칩 클러스터 확보"
     ],
-    "generated_at": "2026-07-31T22:59:56+00:00",
+    "generated_at": "2026-08-01T00:08:44+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19458",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19458",
+      "text": "[속보]7월 수출 989억달러, 62.8%↑…반도체 179%↑\nhttps://biz.heraldcorp.com/article/10827691?ref=naver\n( 한국 7월 수출 전년 대비 62.8% 급증, 전망치 59.0% 상회)",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T00:04:39+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20875",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20875",
+      "text": "» 케빈워시 연준 의장은 Core PCE가 관세, 에너지, 보험료 등 일시적인 가격 충격의 영향을 크게 받는 만큼, 통화정책 판단 기준으로는 한계가 있다고 지적하며 극단치를 제거한 Trimmed Mean PCE와 Multivariate Core Trend(MCT) PCE 등의 물가 지표 활용 비중을 높여야 한다고 주장\n» 최근 Core PCE 12개월 상승률은 3%를 상회하고 있지만, Dallas 연은의 Trimmed Mean PCE 12개월 상승률은 약 2.2% 수준까지 하락. 월간 연율 기준 Trimmed Mean도 1%대까지 낮아져 기조적인 물가 압력이 빠르게 완화되는 모습\n» 뉴욕 연은의 Multivariate Core Trend(MCT) PCE 역시 2.5% 수준으로 하락하며 Core PCE보다 낮은 수준을 유지. 다양한 경제지표를 반영한 결과, 인플레이션 압력이 완화되고 있음을 시사\n» Core PCE는 관세 등 일회성 요인의 영향으로 높게 나타나고 있지만, 극단적인 가격 변동을 제거하거나 다양한 거시지표를 반영한 기조 물가는 연준의 2% 목표를 향해 점진적으로 둔화되고 있는 상황\n» 워시 의장은 Core PCE만을 근거로 정책을 결정할 경우 불필요한 긴축이라는 정책 오류를 초래할 수 있다고 주장\n» 의사결정까지는 시간이 필요하겠으나, 연준이 향후 Trimmed Mean PCE와 MCT 등 기조 물가지표를 정책 판단에 더 적극 반영할 경우, 추가 금리 인상 가능성은 낮아지고 금리 인하 기대가 재개될 가능성. 현실화된다면 미국 장기 국채와 AI 중심의 성장주에 우호적인 요인",
+      "images": [
+        "https://cdn5.telesco.pe/file/UAxP-65snQUrF0FkXOa1aAPUZuvLJ04vJgyd9r8DsrMDvWMf4QjPbfdqt3fY8yZgsHF9lxTVqrtzL-wdDBy4dHEbVuKNai6AjikaRJ5KiOeXp447NEcFcaPdLw0vyjFiZTIPYYOA7brQU_PWxmOTdZtnH9K8_ftClmzbO8VbccAyDtOgcnlZoqrSUNjFlR_6mDqSAe9k-dvNnoHVAdYr2itJO0xsIOzBjPuN8mFtVuweP8N6i-eR5UiDQKY0BGCudNdPmuqeaJDz3wYOuoVvEtgnrfVVZPfnThQphRa95_Mjd0sVCHHxa5w_dIoejj8cyzAIaKIeRuWYUgmSqxy-mg.jpg",
+        "https://cdn5.telesco.pe/file/Rj_s70Y0_7DFPm9OvCxleD31FbP3u3edBKs5SXhFFql9S15mwyre00EeqkcflAzLPmD-NqXrfkGwLYGCaV38yGknDIaNk7Tr1CHMvaOIxY6GjjYIsgmpKcWYJgheNWAJ8AgPg_pjyPw7lfuGgIyWG0U38L18rMyhigXbJM3Lx8Zj7fqKZ_-VkX9fxlvT5JhlbmddSKCB8zhn1RoEa32JDuAUSODPb9K_1eyj31c3RpLiTGVijxY4bqABtnt7S0gEPjfdCrMIzcs4_r3po0oO0QMNpv800-kOm5bhE9YXHM0xKj9UiHqVqyAHqTwPh7uaxecMGfDu4XKyh6h8Zz_Q0w.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-01T00:02:58+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20874",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20874",
+      "text": "» FOMC 횟수를 줄이려는 케빈 워시. 미국 연방법안 기준으로 최소 4회까지 축소 가능\nNYT \"워시, 1년에 8번 열어온 연준 금리결정 회의 축소 검토\"\n- \"이번 주 FOMC 회의서 빈도 변경안 거론\"…확정시 45년 만의 변화\n- 시장 정보 접근성·투명성 후퇴 우려…연준은 논평 거부\n회의 횟수가 줄어들 경우 통화정책 결정 기회가 감소해 물가와 고용 여건 변화에 대한 대응이 지금보다 늦어질 수 있다는 우려가 나온다.\nhttps://n.news.naver.com/article/001/0016228014?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-07-31T23:48:13+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20873",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20873",
+      "text": "» 미국 증시에서 SK하이닉스 ADR은 -3.54% 하락 마감",
+      "images": [
+        "https://cdn5.telesco.pe/file/LnMUOQicwL5qOwCI5j5HShlTEI8asQoEmcDKkk1yvFMQvIf8h8Fvu-KfdtfmFcuwS6YfMkw11MA9qqAiuWuxXDrfNCnzegpS7EZsWnREv_F73qm0R0PqkHfurGmC8YkArwh2wnt5Em0U4PiJQGjMBrbYE64hyxEZPs9SAtqMRz9ZoiP45KShKKMVbHXvY8N4B6oA0t-z53chk1tyqcvjijBB_Kd0XmDhdWg2sNZU7fmFF-3AXZj7aXnnmOi09Vg9eBDdUs_x55dyvCIfd8AlbF99MEL-EH8e6qD4v2p2FCkw7dvdLeKef2-K_G8Nwu20ceDHol8xO8OEtxIXZY9u3g.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-07-31T23:45:00+00:00"
+    },
     {
       "id": "tg:EMchina/32012",
       "source": "telegram",
@@ -36,7 +88,7 @@
       "author_name": "한투증권 중국/신흥국 정정영",
       "author_url": "https://t.me/EMchina",
       "url": "https://t.me/EMchina/32011",
-      "text": "트럼프는 이란에 대한 추가 공격 명령  ========================  ~ President Trump has ordered a fresh attack on Iran aimed at getting Tehran to surrender that could begin as soon as this weekend and would last a few days, U.S. officials said  https://www.wsj.com/world/middle…",
+      "text": "트럼프는 이란에 대한 추가 공격 명령  ========================  ~ 미국과 이스라엘이 이번 주말(8월 1∼2일) 이란의 에너지 인프라를 대상으로 역대 가장 강력한 공습 작전 중 하나를 계획 중이라고 미 CBS 방송이 31일(현지시간) 보도했다  ~ 다수의 소식통을 인용한 이 보도에 따르면 이번 공습은 미국뿐 아니라 글로벌 경제에 미칠 영향에 대한 우려 탓에 3일 금융 시장 개장 전에 종료하려는 논의가 있었으나, 아직 구체적 종료 시점은…",
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-31T21:58:18+00:00"
@@ -78,6 +130,18 @@
       ],
       "summary_ko": "이기지 못해서 지쳤어",
       "published_at": "2026-07-31T20:35:45+00:00"
+    },
+    {
+      "id": "x:ylecun:2083268072157462744",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2083268072157462744",
+      "text": "RT by @ylecun: The midterms are this simple: Biden and Democrats inherited a poorly managed pandemic, massive job loss, and a ruined economy from Trump in 2021. They added jobs every month, the pandemic recovery went better than in peer nations, and by 2024 the US economy was dubbed the Envy of the World and was so strong it improved the entire global outlook. That was what Republicans and Trump inherited. Then, they slammed the brakes on the economy, killed job growth, drove up inflation, made healthcare far more expensive, kicked one million children off of food assistance, started an illegal war, angered our allies, and made the nation sick from cuts to health inspections and disease monitoring, not to mention the rampant corruption that has enriched the president and his family with billions of dollars. The midterms are your chance to change this. It is time to vote those who have failed us out of power.",
+      "images": [],
+      "summary_ko": "RT by @yleun: 중간고사는 이렇습니다. 바이든과 민주당은 2021년 트럼프로부터 제대로 관리되지 않은 전염병, 막대한 일자리 감소, 파멸된 경제를 물려받았습니다. 그들은 매달 일자리를 추가했고, 전염병 회복은 동료 국가들보다 더 좋았으며, 2024년까지 미국 경제는 세계의 부러움으로 불렸고 너무 강해 전체 글로벌 전망이 개선되었습니다. 그것이 공화당원과 트럼프가 물려받은 것이었습니다. 그런 다음 그들은 경제에 제동을 걸고, 일자리 증가를 죽이고, 인플레이션을 높이고, 의료 비용을 훨씬 더 비싸게 만들고, 백만 명의 어린이에게 식량 지원을 중단하고, 불법 전쟁을 시작하고, 우리 동맹국들을 화나게 하고, 대통령과 그의 가족을 부유하게 만든 만연한 부패는 말할 것도 없고, 건강 검사 및 질병 모니터링에 대한 삭감으로 국가를 병들게 했습니다.",
+      "published_at": "2026-07-31T19:06:28+00:00"
     },
     {
       "id": "x:ylecun:2083253910223921483",
@@ -361,6 +425,21 @@
       ],
       "summary_ko": "@yleun의 RT: 트럼프는 소위 \"미국 구하기 법안(SAVE AMERICA Act)\"을 통과시키기 위해 상원의 휴회 연기를 여전히 요구하고 있습니다. 그는 그것을 선거의 정직성이라고 부릅니다. 그러나 그것은 순전히 부패한 유권자 진압 \"트럼프를 구하는 법\"입니다. 이 법안은 다음의 투표권을 박탈합니다. - 출생 증명서가 더 이상 법적 이름과 일치하지 않는 약 6,900만 명의 기혼 여성. - 노인 유권자. - 장애인 유권자. - 자동차나 버스비가 없는 가난한 유권자 - 우편이나 온라인 등록에 의존하는 원격 및 농촌 근로자. 이 법안에 따라 그들 모두는 새로운 투표 장벽에 직면하게 될 것입니다. 공화당의 존 코닌(John Cornyn)은 이미 투표가 이루어지지 않았다고 인정했습니다. 트럼프는 어쨌든 그것을 계속 추진하고 있습니다. 왜냐하면 자유 투표는 그의 권력에 대한 위협이기 때문입니다. 모두가 투표하면 그는 패배합니다. 이것은 사기를 막는 것이 아닙니다. 이는 \"잘못된 사람들\" 중 더 적은 수가 투표할 수 있도록 하는 것입니다.",
       "published_at": "2026-07-31T13:13:03+00:00"
+    },
+    {
+      "id": "x:ylecun:2083174287897207220",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2083174287897207220",
+      "text": "RT by @ylecun: New newsletter: THE FOUR HORSEMEN OF THE AI BUBBLE APOCALYPSE I am neither anti-AI nor certain that AI is a bubble. But the last four weeks have made clear that the AI buildout now faces a very clear quadruple-headed risk hydra. 1. A spending risk, as the hyperscalers run low on cash and take on $170b in annual debt—which is more than the projected UK deficit. 2. A revenue risk, as open-weight models threaten to compress the margins of frontier labs ... and as AI become the sort of internationally competitive asset-heavy industry requiring stable and determined long-term policy consistency, which is arguably China's competitive advantage. 3. A political risk, as anti-AI populism becomes one of the easiest applause lines, even as AI becomes a more and more foundational pillar of US economic growth 4. A technological risk, as the frontier labs bear down on RSI, which I think could significantly change the basic business model of the labs, as compute costs rise and rise for a set of super-advanced models that are fit for, and affordable to, a small minority of users (in, eg, cyber security) In one sentence: The capabilities of AI are becoming more powerful, while some economic underpinnings of the AI buildout—and, as we’ll discuss, the political support for AI—are becoming more vulnerable. Today's (long, 5k word) piece deeply considers each risk and also—because over-confidence in this space is typically a sign that you're not thinking hard enough—I offer the strongest reason to think each risk might be overblown. https://www.derekthompson.org/p/the-four-horsemen-of-the-ai-bubble",
+      "images": [
+        "https://pbs.twimg.com/media/HOjrhjkXQAAc-UC.jpg",
+        "https://pbs.twimg.com/media/HOjrhjpX0AAZLGD.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 새 뉴스레터: AI 버블 종말의 네 명의 말 나는 AI에 반대하지도 않고 AI가 버블이라고 확신하지도 않습니다. 그러나 지난 4주 동안 AI 구축이 이제 매우 분명한 4중 위험 히드라에 직면해 있음이 분명해졌습니다. 1. 하이퍼스케일러의 현금이 부족하고 연간 1,700억 달러의 부채를 떠맡게 되면서 지출 위험이 발생합니다. 이는 영국의 예상 적자보다 더 큰 규모입니다. 2. 개방형 모델이 개척 연구실의 마진을 압박할 위협을 가하면서 수익 위험이 발생하고 AI가 안정적이고 단호한 장기 정책 일관성을 요구하는 일종의 국제적으로 경쟁력 있는 자산 중심 산업이 되면서 이는 틀림없이 중국의 경쟁 우위입니다. 3. AI가 점점 더 기초적인 기둥이 되고 있음에도 불구하고 AI 반대 포퓰리즘이 가장 쉬운 박수 대사 중 하나가 됨에 따른 정치적 위험",
+      "published_at": "2026-07-31T12:53:48+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/24239",
@@ -762,30 +841,6 @@
       "published_at": "2026-07-31T05:05:47+00:00"
     },
     {
-      "id": "tg:globaletfi/20861",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20861",
-      "text": "하나증권 중국기업분석 백승혜, 송예지 (T.02-3771-7521)\n*텔레그램 채널:\nhttps://t.me/hanaglobalbottomup\n[Hana China Weekly] 중국산 AI의 부상과 견제 강화하는 미국\n▶\n자료:\nhttps://buly.kr/5UKK4B6\n◆업데이트 산업&기업: AI/테크, 반도체, AI 인프라, 이차전지, 산업재, 전기차, 로보틱스\n◆주요 기업 이슈\n- 휴머노이드 로봇: 미국 연방통신위원회, 중국 신규 로봇 수입 금지\n- CXMT(\n688825.SH\n): A주 시가총액 1위 등극, 9월 STAR50 지수 편입 유력한 상황\n- Moonshot AI(비상장): 기업가치 350억달러까지 급등, 연내 홍콩 상장 예정\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T05:05:41+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20860",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20860",
-      "text": "하나증권 중국기업분석 송예지\n선도지능(\n300450.CH\n): ESS와 전고체 배터리가 여는 새로운 성장\n자료:\nhttps://buly.kr/GP5Ipue\n◆ 배터리 CAPEX 둔화 우려로 주가 조정\n선도지능은 글로벌 1위 리튬이온 배터리 장비 업체로 CATL, Tesla 등 글로벌 주요 배터리 및 완성차 업체를 고객사로 확보. 중국 배터리 업체들의 CAPEX 회복 기대감으로 선도지능 주가는 2025년 하순부터 큰 폭으로 상승했으나, 최근에는 배터리 CAPEX 피크아웃 우려와 밸류에이션 부담이 부각되며 조정. 실제로 CATL, CALB, EVE 에너지, 고션하이테크 등 주요 배터리 제조사의 CAPEX는 2025년 YoY +22%에서 2026/27년 YoY +13%/-4%로 둔화 전망.\n◆ ESS 및 전고체 중심의 수주 확대 기대\nEV 중심이던 배터리 투자 구조가 ESS와 전고체 배터리로 이동, 해당 분야에서 경쟁력을 보유한 선도지능은 업계 전체 CAPEX 증가율을 상회하는 수주 성장이 가능. 경영진에 따르면 2025년 신규 수주에서 ESS 장비 비중은 2026년 50%까지 확대 예상. 전고체 배터리 역시 중장기 핵심 성장 동력. 선도지능은 전고체 배터리 생산 전 공정을 대응할 수 있는 글로벌 소수의 장비 업체 중 하나, 현재 미국·유럽·일본·한국 등 글로벌 주요 배터리 업체를 대상으로 공급을 확대. 전고체 장비 수주는 2025년 10억위안에서 2026년 20억위안으로 증가 전망. 전고체 장비는 기존 리튬이온 배터리 장비(2025년 GPM 35%) 대비 높은 약 50%의 GPM이 기대, 전고체 장비 매출 비중이 확대에 따라 전사 수익성 개선이 기대.\n◆ 주가는 PER 밴드 하단, 수주 회복에 따른 밸류에이션 정상화 기대\n2026년 수주 확대를 견인할 핵심 분야는 유럽 가정용 ESS와 중국 AI 데이터센터용 ESS가 될 전망. 이러한 수요 확대를 바탕으로 선도지능의 연간 신규 수주 증가율은 YoY +40~50%까지 확대될 것으로 예상. 최근 두 달간 주가는 33% 조정 받으며 역사적 PER 밴드 하단 수준까지 하락. 신규 수주 회복과 신사업 성과가 확인될 경우 밸류에이션 정상화가 가능할 것으로 판단.\n*텔레그램 채널:\nhttps://t.me/hanaglobalbottomup\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T05:05:34+00:00"
-    },
-    {
       "id": "tg:enc210406/4275",
       "source": "telegram",
       "author": "enc210406",
@@ -840,20 +895,6 @@
       "published_at": "2026-07-31T03:38:12+00:00"
     },
     {
-      "id": "tg:bornlupin/19446",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19446",
-      "text": "●키옥시아 상한가\n• 상한가 매수 특별 호가\n• 상한가에 주문이 대거 몰려 아직 체결이 되지 않은 상태\n• 키옥시아는 오늘 15시 30분 실적발표 예정",
-      "images": [
-        "https://cdn5.telesco.pe/file/OrpE-sG1Z9U8UdBDRUtS1r16G0wKTgG08itw5mikyQkpRfLWQA-6O61DXqCrpea6HTmkvS8nQi7dLyNcFg00WBOO3FRqzIxYleaWdgHZ5kI5sqND5raDnuOFKRc4NY3ntLy0j_Q3XEJEdoixXC1odEPNJ_N7rp3qkcbAmnNsxl6ODmy0p7idVjgMHXB4p2vGc7g7XkIrEKjXRuUmZ-lymRnS7dzL7YPXvapPj1E44cXoNGr-V6CihoJl87QNE-7VaQJ30pKNbPC93AaQezEJtf0q9ao2mzXfXkj6CiWDQ2BBZMy2__koJ21ZGKnuxQDzTEFaWzCN68qpB_L8EmK07A.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-31T03:38:05+00:00"
-    },
-    {
       "id": "x:ylecun:2082992928977240372",
       "source": "x",
       "author": "ylecun",
@@ -905,18 +946,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-31T00:10:42+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20859",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20859",
-      "text": "◈하나증권 해외주식분석◈\n미국/선진국 기업분석 김재임/송종원\n★아마존 실적 발표 코멘트\n-주요 실적지표가 컨센을 상회하고 AWS 매출 성장이 37%로 전분기 28%에서 큰 폭으로 가속화확인 (시장 컨센 32%)\n-AWS 영업이익률도 39.4%로 전분기 37.7%에서 상승. 2분기에 주식보상비용 계상으로 통상적으로 1분기대비 하락하는데 이번 분기는 강력한 매출 성장을 바탕으로 수익성 개선\n- AWS AI 사업과 자체 칩 사업의 연환산 매출 각각 250억 달러 초과, YoY 각각 세자릿수 성장도 고무적. AWS 전체 사업뿐만 아니라 AI와 자체칩 매출 규모가 독립적으로 상당한 규모에 도달\n-2026년 capex 2,200억 달러로 기존대비 10% 상향조정. 메모리 가격 상승과 AI 수요 대응 목적\n-2분기 FCF 76억 달러로 적자 전환, Capex 추가 상향 고려하면 단기적으로 FCF 압박은 기존 예상보다 확대\n-클라우드와 AI 사업의 수익화 가속화 속도가 시장 예상보다 빠르게 진행된다는 점이 확인되면서AI 투자 확대와 관련된 우려 완화. Capex 확대 보다는 AI 수익화쪽으로 시장의 관심이 돌려지며 실적 발표 후 주가 상승\n주요 실적 지표\n-전체 매출 2,006억 달러(+20% yoy), 컨센 2% 상회,\n-영업이익 275억 달러(+43%, 영업이익률 11.4%), 컨센 16% 상회\n-순이익 626억 달러(+245%), 앤트로픽 투자 관련 기타 이익 534억 달러 포함\n클라우드 & AI\n-AWS 성장률이 37%까지 가속화되고 수익성도 크게 개선\n-AWS 매출 422억 달러, 37% 성장, 전분기 28%에서 큰 폭으로 가속화, 시장 컨센은 32% 성장 예상\n-AWS 영업이익률, 39.4%로 전분기 37.7% 대비 상승. 주식보상비용을 2분기에 대거 계상하기에 전분기 대비 클라우드 마진 하락 전망과 달리 오히려 마진 확대\n-AWS AI 사업과 자체 칩 사업의 연환산 매출이 각각 250억 달러 초과, YoY 각각 세자릿수 성장\n-AWS 전체 사업뿐만 아니라 AI와 자체입 규모가 독립적으로 상당한 매출 규모에 도달\n-AI 투자의 매출 전환이 가시화\n-앤트로픽과 오픈AI가 Trainium 칩에 대해 다년간 멀티 기가와트 규모 사용을 약정\n-2026년 Capex 기존 200bn에서 220bn 으로 상향조정. 메모리 가격 상승과 AI 수요에 대응하기 위해 데이터센터 및 인프라 투자 확대\n- AI 투자 확대로 2Q26 FCF는 76억 달러 적자 전환\n-Capex 가이던스 추가 상향된 만큼 단기 FCF 압박은 기존 예상보다 커질 것으로 보이나 AI, AWS 투자에 상당한 고객 약정 확보.\n-이번 실적을 통해 AI 투자의 수익화 속도가 시장 우려를 완화시킨다는 점에서 시장에서 긍정적으로 반응 전망\n리테일\n-북미 매출 1162억 달러(+16%), 영업이익률 7.9% 달성, 각각 시장 컨센(1,147억, 7.7%) 상회\n--해외 매출 422억 달러(+15%), 영업이익률 4.1%, 매출은 컨센 부합, OPM은 컨센 상회\n3분기 가이던스\n-중간값 기준, 매출 1995억 달러, 영업이익 245억 달러, 각각 컨센을 2.4%, 1.3% 하회\n- 전년과 달리 프라임데이 행사를 올해는 2분기 진행 고려하여 보수적 산정\n-프라임데이 영향을 제외하면, 실질적인 매출 성장률은 가이던스보다 4%p 높게 예상",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-30T23:33:00+00:00"
     },
     {
       "id": "tg:enc210406/4269",
@@ -1145,6 +1174,20 @@
       "published_at": "2026-07-30T17:17:05+00:00"
     },
     {
+      "id": "x:ylecun:2082877458924065269",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2082877458924065269",
+      "text": "RT by @ylecun: Can AI agents conduct open-ended AI research? Most evaluations of agents conducting AI research focus on narrow, verifiable tasks. But AI research is often open ended. Researchers pick hypotheses, decide what evidence is appropriate, and recognize a failing approach. We gave agents research questions from two unpublished papers, six days, and thousands of dollars of API credits and compute. The authors of the original papers then reviewed the AI-generated papers. They unambiguously rejected agents' outputs. https://arxiv.org/pdf/2607.27191 We call these \"shadow evaluations\", since the agents are shadowing the original research effort by the authors. Agents were fluent at most *engineering* tasks They conducted serious literature reviews, debugged GPU environments, ran hundreds of experiments, and turned in camera-ready LaTeX without human help. We also found no evidence of reward hacking. If anything, we found the opposite: the agents started with marketable claims and walked them back to negative results as the evidence came in. Neither agent output was close to the bar of a top conference paper Both papers suffered from similar failures: poor judgment about the bar for an AI paper submitted to a top conference, the lack of creative problem solving and ineffective backtracking, poor awareness of resources, and instruction drift. 1) Lack of judgment about the bar for a top conference. The agents had a poor model of the bar for an AI paper submitted to a top conference. We allowed agents to self review their papers. Despite the poor paper quality, their reviews predominantly labeled the papers \"weak rejects\". 2) Lack of creative problem-solving to address feedback. When they received negative reviews, the agents typically narrowed their hypothesis and claims, rather than working out creative ways to address these concerns. 3) Ineffective backtracking. The agents dropped their most ambitious hypotheses within the first fifteen hours of carrying out the experiment and never changed course afterwards. 4) Poor resource awareness. Both runs ended with over half the API budget unspent. One agent declared itself done seven hours before the deadline, right after its own self-reviewer returned another reject. 5) Instruction drift. They did not follow explicit instructions on minimum exploration time, incorporating feedback for reviews, and on paper length (the outputs exceeded the page limits in both cases). This research design has many limitations Limitations include the small sample size, non-blind reviews, and the reviewers knowing that the work was AI-generated. We also couldn't test Anthropic's strongest model, because Fable 5 is deliberately limited on frontier AI research tasks, so ended up using OpenClaw with Opus 4.8 (extra-high) for our main experiments and Codex with Sol 5.6 (ultra) for a robustness check. But we think the research design is still helpful in assessing AI agents' ability to conduct research, and it is complementary to evaluations on verifiable tasks, as well as blinded reviews of AI outputs. Our results show early evidence that even though agents are proficient on verifiable research tasks, they do not make genuine progress on open-ended ones. It is worth understanding if this is a fundamental limit, or if better models, scaffolds, and more compute could help close it. As the evidence for the gap between open-ended and verifiable tasks firms up, it is also worth understanding how much progress in AI depends on open-ended research rather than hill-climbing on well-specified objectives. In follow-up studies, we are expanding the set of non-public papers we evaluate. If you are an AI researcher with unpublished papers, we would love to collaborate with you on our next shadow evaluation. Expression of interest: https://forms.gle/CEcA4JmYhDWXQGot8 Conducting shadow evaluations involves a lot of researcher degrees of freedom. In many places, our coauthors disagreed with our interpretation of the findings, and we have surfaced those disagreements in the paper. (This is one reason why having a group of coauthors with different priors is important for open-ended research.) We also release the agent logs, one of the AI-generated papers (the other original paper is still not public), and all the code and data, so that others can conduct their own analyses of our results: https://cruxevals.com/crux/can-ai-agents-conduct-research Finally, we plan to conduct shadow evaluations regularly, and are hiring a senior researcher to help lead these efforts. Apply here: https://cruxevals.com/careers/senior-researcher-july-2026 I'm grateful for the core team leading this effort: @PKirgis, Andrew Schwartz, @steverab, and @random_walker, and to our collaborators who reviewed AI papers, analyzed agents logs, and gave feedback on the paper: @DavidDAfrica, @KozzyVoudouris, Viet Nguyen, Toby Pilditch, @DubMagda, @HarryCoppock, @CUdudec, @nityndg, Matilda Orona, @tilmanbayer, Derrick Chan-Sew, Yue Ling, Abhishek Shetty, @hlntnr, @ghadfield, @sethlazar, @snewmanpv, @shostekofsky, @RishiBommasani",
+      "images": [
+        "https://pbs.twimg.com/media/HOfVJPvW4AA5dgV.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: AI 에이전트가 개방형 AI 연구를 수행할 수 있나요? AI 연구를 수행하는 에이전트에 대한 대부분의 평가는 좁고 검증 가능한 작업에 중점을 둡니다. 그러나 AI 연구는 종종 개방형입니다. 연구자들은 가설을 선택하고, 어떤 증거가 적절한지 결정하고, 실패한 접근 방식을 인식합니다. 우리는 미발표 논문 2개, 6일, 수천 달러의 API 크레딧 및 컴퓨팅을 통해 에이전트 연구 질문을 제공했습니다. 그런 다음 원본 논문의 저자는 AI가 생성한 논문을 검토했습니다. 그들은 요원의 결과를 명백히 거부했습니다. https://arxiv.org/pdf/2607.27191 에이전트가 저자의 원래 연구 노력을 섀도잉하고 있기 때문에 우리는 이를 \"섀도우 평가\"라고 부릅니다. 에이전트는 대부분의 *엔지니어링* 작업에 능숙했습니다. 그들은 진지한 문헌 검토를 수행하고, GPU 환경을 디버깅하고, 수백 번의 실행을 수행했습니다.",
+      "published_at": "2026-07-30T17:14:18+00:00"
+    },
+    {
       "id": "x:sama:2082855170296205719",
       "source": "x",
       "author": "sama",
@@ -1241,18 +1284,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-30T12:16:48+00:00"
-    },
-    {
-      "id": "x:ylecun:2082800290537861578",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2082800290537861578",
-      "text": "RT by @ylecun: The amount of basic research done in industry is nowhere near the amount done in universities. At various times, there have been industry labs that had fundamental research activities and have made important scientific contributions. Examples in information technology include Bell Labs, IBM Research, Xerox PARC, GE, Phillips, NEC, and several other. That disappeared in the 1990s. Microsoft Research picked up the torch in the 2000s, followed (to some extent) by Google and then Meta (for about a decade until recently). But their innovations almost always built on top of academic work, and certainly profited from the whole research ecosystem.",
-      "images": [],
-      "summary_ko": "@yleun의 RT: 업계에서 수행되는 기초 연구의 양은 대학에서 수행되는 양에 전혀 미치지 못합니다. 다양한 시기에 기초 연구 활동을 수행하고 중요한 과학적 공헌을 한 산업 연구소가 있었습니다. 정보 기술 분야의 예로는 Bell Labs, IBM Research, Xerox PARC, GE, Phillips, NEC 등이 있습니다. 1990년대에 그게 사라졌어요. Microsoft Research는 2000년대에 횃불을 들었고, Google과 Meta가 (최근까지 약 10년 동안) 뒤를 이었습니다. 그러나 그들의 혁신은 거의 항상 학문적 작업을 기반으로 이루어졌으며 확실히 전체 연구 생태계에서 이익을 얻었습니다.",
-      "published_at": "2026-07-30T12:07:40+00:00"
     },
     {
       "id": "tg:HI_GS/6810",
@@ -1501,20 +1532,6 @@
       "published_at": "2026-07-29T21:21:29+00:00"
     },
     {
-      "id": "x:ylecun:2082561539819618472",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2082561539819618472",
-      "text": "RT by @ylecun: 1/ SSL models like DINOv2 are engineering marvels, but they rely on fragile hacks like EMA, stop-gradients, and custom centering to avoid representation collapse. What if we could replace all these heuristics with pure, mathematically sound optimal transport? 🧵",
-      "images": [
-        "https://pbs.twimg.com/media/HOa9l7pXAAAD70B.jpg"
-      ],
-      "summary_ko": "RT by @yleun: 1/ DINOv2와 같은 SSL 모델은 공학적으로 경이롭지만 표현 붕괴를 피하기 위해 EMA, 정지 그라데이션 및 사용자 정의 센터링과 같은 취약한 해킹에 의존합니다. 이러한 모든 경험적 방법을 순수하고 수학적으로 건전한 최적의 전송으로 대체할 수 있다면 어떨까요? 🧵",
-      "published_at": "2026-07-29T20:18:57+00:00"
-    },
-    {
       "id": "x:GoogleDeepMind:2082541871612449180",
       "source": "x",
       "author": "GoogleDeepMind",
@@ -1527,20 +1544,6 @@
       ],
       "summary_ko": "고정됨: 동영상",
       "published_at": "2026-07-29T19:00:48+00:00"
-    },
-    {
-      "id": "x:ylecun:2082530916119797965",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2082530916119797965",
-      "text": "RT by @ylecun: I cannot think of any group of people less qualified to overhaul this",
-      "images": [
-        "https://pbs.twimg.com/media/HOZjlLxXcAASuqJ.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: 이 문제를 점검할 자격이 부족한 사람들은 어떤 그룹도 생각할 수 없습니다.",
-      "published_at": "2026-07-29T18:17:16+00:00"
     },
     {
       "id": "x:OpenAI:2082516372656111654",
