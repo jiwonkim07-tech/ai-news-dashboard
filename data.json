@@ -1,22 +1,110 @@
 {
-  "updated_at": "2026-08-01T09:59:16+00:00",
+  "updated_at": "2026-08-01T11:24:45+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 8
+    "new_this_run": 9
   },
   "briefing": {
-    "headline": "엔화 반등, 무라타제작소 실적 상향",
+    "headline": "BYD, 7월 41.9만 대 자동차 판매",
     "bullets": [
-      "미중 첨단기술 분쟁 지속",
-      "립모터 7월 전기차 인도량 10만대",
       "키옥시아 1분기 영업이익 1.27조엔",
-      "오픈AI 상장 연기, 하드웨어 주식 하락",
-      "7월 수출 62% 증가, 반도체 2개월 연속 400억弗 돌파"
+      "CXMT LPDDR6 샘플링 돌입",
+      "샤오미 5월 전기차 인도량 3만 대 돌파",
+      "미중 첨단기술 분쟁 지속",
+      "오픈AI 상장 연기"
     ],
-    "generated_at": "2026-08-01T09:59:16+00:00",
+    "generated_at": "2026-08-01T11:24:45+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19467",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19467",
+      "text": "Global Memory Tech: LTA 확대와 AI 투자 확대로 메모리 슈퍼사이클 장기화 전망 (Bofa)\n1. 삼성전자의 LTA 확대는 메모리 사이클을 구조적으로 변화시키는 핵심 요인\n• 삼성전자는 메모리 매출의 약 60~70%를 LTA로 운영하고 있다고 설명\n• 과거 LTA는 단순 물량 확보 목적이었지만\n최근 계약은 가격 구조 자체가 크게 개선.\n예를 들면 가격 하락 시에는 분기당 가격 인하폭을 약 5% 이내로 제한\n•\n반대로 공급 부족 시에는 시장가격을 대부분 반영 가능\n• 결과적으로 메모리 업체 입장에서는\nDownside는 제한되고 Upside는 그대로 확보하는 구조\n• 특히 미국 빅테크와 체결한 계약은 대부분 5년 Rolling 계약\n• 계약 종료 전에 신규 5년 계약을 추가할 수 있어 사실상 장기간 안정적인 공급 관계 유지 가능\n• BofA는 이러한 구조가 과거 메모리 산업의 극심한 가격 변동성을 크게 줄여줄 것으로 평가\n2. AI 서버 부품은 이제 메모리뿐 아니라 MLCC와 FC-BGA까지 공급 부족\n• 삼성전기와 LG이노텍 모두 AI 서버용 부품 수요가 예상보다 훨씬 강하다고 언급\n• 특히\nAI GPU 기판과 고사양 서버에는 고성능 FC-BGA와 MLCC 사용량이 크게 증가\n• 고객사들이 단순 주문이 아니라 장기 계약을 통해 생산능력을 선점하는 상황\n•\n신규 생산라인 확보를 위해 고객들이 대규모 선급금까지 지급. 이는 신규 공장 투자비를 고객이 사실상 일부 부담하는 구조\n• 하반기뿐 아니라 2027년까지 계약가격 인상 가능성도 언급\n• 현재 영업이익은 이미 전년 대비 2배 이상 증가했지만\n아직 마진은 사이클 최고 수준이 아니라고 설명. 즉 향후 ASP 상승과 생산량 증가가 동시에 나타날 가능성이 높다고 판단\n• 특히 베트남 신규 FC-BGA 공장은 2027년부터 Big Tech 수요를 기반으로 가동 예정\n3. 메모리 현물가격은 아직 상승 사이클 진행 중\n• BofA는\n8월에도 가격 상승이 이어질 가능성을 높게 전망\n1) 고객들의 Restocking 시작 : AI 서버뿐 아니라 일반 PC·스마트폰 업체들도 재고 확보 시작\n2) 메모리 가격이 높음에도 중저가 OEM들이 신제품 출시를 재개 : 9월 이후 신제품 판매를 위해 메모리 구매 확대\n3) 중국 스마트폰 시장이 바닥을 통과 : 6월 출하는 1,710만대로 낮았지만 정상적인 월 출하량은 2,500~3,000만대 수준. 유통 재고가 매우 낮아 향후 생산 증가 가능성이 높음\n• 이러한 흐름은 이미 계약가격에도 반영. 7월 DRAM 계약가격은 전월 대비 Low-Teen% 상승, 분기 기준으로는 30~50% 상승\n4. 중국 메모리 증설은 시장을 무너뜨릴 수준이 아니라는 판단\n•\n시장에서 가장 우려하는 부분은 중국 업체들의 생산 확대. 하지만 영향이 제한적이라고 판단\n• 중국산 메모리는 글로벌 Spot 시장에서 거래 비중이 매우 낮음\n• White-box OEM들도 여전히 한국·미국·일본 제품을 선호\n• 따라서 중국 증설이 글로벌 가격을 크게 낮출 가능성은 제한적\n•\n공급 증가보다 AI 수요 증가 속도가 훨씬 빨라\n5. AI 투자 확대는 메모리 업황을 수년간 지지\n• 빅테크의 CapEx는 계속 확대\n•\n중요한 점은 AI 투자 속도가 아직 둔화되지 않는다는 것\n• 클라우드 매출 성장률은 26~28년 35~45% 수준 유지 예상\n• 영업이익률은 AWS 35% 이상, Azure 40% 이상, Google Cloud도 35% 이상 전망\n• 일부 기업은 AI 투자 때문에 FCF가 일시적으로 감소하지만, 이는 투자 확대 때문이며 수익성 악화 때문은 아니라고 설명\n• 결국 AI 인프라 투자 확대는 HBM, DDR5, 서버 DRAM 수요를 계속 확대시키는 핵심 동력으로 평가\n6. 중국 스마트폰 시장은 최악을 지나 회복 국면 진입\n• 6월 스마트폰 출하는 전월 대비 36% 감소. 전년 대비로도 17% 감소.\n• 그러나 채널 재고는 매우 낮은 수준.\n• 해외 브랜드 출하는 오히려 전년 대비 66% 증가.\n현재를 수요 붕괴가 아니라 재고조정 종료 과정으로 해석\n• 하반기 신제품 출시와 함께 메모리 수요 회복 가능성이 높다고 전망\n7. DRAM 가격은 역사상 최고 수준 유지\n• 가격 상승의 원인은 HBM 생산 확대 때문에 일반 DRAM 공급 감소, DDR4 생산 축소, 서버용 수요 급증, AI GPU 증가\n•\n흥미로운 점은 DDR4 부족이 심해지면서 DDR5 프리미엄이 사실상 사라짐\n• 계약가격 역시 DDR4, DDR5 모두 7월에 10~15% 상승. 하반기에도 추가 가격 상승 가능성을 전망\n8. NAND 역시 상승세는 지속\n• Spot 가격은 연초 대비 50% 이상 상승. 2025년 저점 대비 약 8배 상승\n• 계약가격은 약 26달러, 2025년 저점인 2.5달러 대비 약 10배 상승\n• 최근 상승률은 둔화됐지만 가격 수준 자체는 최고 수준 유지. SSD 가격도 급등\n• 가격 조정이 아니라 강세 속 숨고르기 국면으로 판단\n9. 메모리 기업들의 밸류에이션은 여전히 저평가\n• 최근 메모리 주가는 실적 우려로 조정\n• 그러나 높은 수익성, AI 성장, 장기 계약 확대를 고려하면 밸류에이션은 여전히 낮다고 평가\n•\n실적보다 투자심리가 주가를 억누르고 있는 상황\n으로 분석\n10. 한국 ETF 시장 변화도 메모리주에 긍정적\n• 한국 ETF 시장은 약 500조원 규모.\n• KOSPI 거래대금의 30% 이상을 ETF가 차지\n•\n연금자금은 패시브 ETF보다 액티브 ETF 비중 확대\n. 액티브 ETF는 성장성, 밸류에이션, 주주환원 등 펀더멘털 중심으로 종목을 선정\n• 반면\n레버리지 ETF는 단기 변동성을 확대. 정부 규제 강화와 연금 자금 유입으로 시장 변동성은 점차 감소할 것으로 전망\n• BofA는\n이러한 환경이 저평가된 메모리주와 금융주의 리레이팅으로 이어질 가능성이 높다고 평가",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T11:08:29+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24258",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24258",
+      "text": "iPhone 18 Pro, 시작 가격 1,399달러로 출시될 수 있다는 보도\niPhone 18 Pro가 곧 출시될 예정이며, 전작보다 훨씬 비싸질 수 있습니다. 이제 두 번째 보도가 약 1,399달러의 시작 가격을 예측하고 있습니다.\n지난달 애플이 제품 가격 인상이 다가오고 있다고 경고했을 때, 월스트리트저널은 iPhone 18 Pro의 시작 가격을 1,399달러로 예측했습니다.\n이 수치는 RAM, 스토리지, 그리고 이 기기의 값비싼 새 카메라 시스템의 부품 비용 급등에 근거한 것이었습니다.\n그리고 오늘, 애널리스트 제프 푸가 iPhone 18 Pro 가격에 대한 자신의 전망을 공유했는데, 그 내용이 놀라울 정도로 유사합니다.\n9to5Mac이 확인한 리서치 노트에서 푸는 iPhone 18 Pro와 Pro Max가 각각 250~300달러 인상될 것으로 예측합니다.\n이는 iPhone 18 Pro의 시작 가격이 1,349~1,399달러, Pro Max는 1,449~1,499달러가 된다는 의미입니다.\n보도는 이러한 인상의 원인을 A20 Pro 칩, LPDDR5X 메모리, NAND 스토리지의 비용 상승으로 돌리고 있습니다. 뒤의 두 가지는 애플에게 작년 대비 약 3배 오른 비용을 안길 것으로 예상됩니다.\n애플은 가격을 낮게 유지하기 위해 마진 손실을 감수하는 선택을 할 수도 있습니다. 다만 최근 다른 제품들의 가격 인상을 감안하면 그럴 가능성은 낮아 보입니다.\n지금은 부품 비용에 있어 전례 없는 시기이지만, 애플의 역사적인 마진 패턴에 근거하면 iPhone 18 Pro가 1,399달러 근처에서 시작하는 것은 충분히 가능해 보입니다.\nhttps://9to5mac.com/2026/07/31/iphone-18-pro-may-launch-at-1399-starting-price-per-report/",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T11:05:25+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24257",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24257",
+      "text": "BYD, 7월 41.9만 대 자동차 판매… 해외 판매량 약 18만 대로 다시 역대 최고치 경신",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T11:01:48+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24256",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24256",
+      "text": "CXMT(창신) LPDDR6, 관건적 돌파를 맞이하다\n제일재경(第一财经)이 오늘 업계 인사의 소식을 인용해 전한 바에 따르면, 창신스토리지(长鑫存储)의 LPDDR6가 연구개발 검증 마무리 단계에 근접했으며, 이는 양산 전의 중요한 한 걸음입니다.\n일찍이 올해 3월에 이미 시장에서는 창신스토리지가 LPDDR6 제품의 실현을 적극 추진하고 있고, 핵심 고객에게 샘플을 송부했으며, 2026년 하반기에 발표하고 양산 도입을 실현할 가능성이 있다는 소식이 있었습니다.\n관련 정보에 따르면, 창신의 첫 LPDDR6 제품은 설계 규격 속도가 12800Mbps이고, SoC와 협동하는 운용 기초 속도는 10667Mbps이며, 다이 용량은 16Gb이고, 1295 Ball(솔더볼)의 POP(적층) 패키징을 채택했으며, 저전력 설계와 RAS(신뢰성·가용성·유지보수성) 기능에서 LPDDR5X 제품 대비 뚜렷한 최적화 향상이 있습니다.\nhttps://news.qq.com/rain/a/20260801A03WSE00?pullappbar=1\nhttps://www.ithome.com/0/984/482.htm",
+      "images": [
+        "https://cdn5.telesco.pe/file/HcVshcAxAgs04sIvZkVXHdNedwdadB1w4biun83s1tiYPbD38A2eV2BspVHGPEt_1ztmCtzriIe9mdMSX4mydXreDDdi5HyadNtyXV9oS2YV_aJOE6xpQA9cmSqjiAMMN_YfwbWKbPw0ftplo-9rzVeBGTJNbkyOSRSZGtibRSSmIcFfZX3sFSk7dPrLLLay0dYoK1SqpzahufweZGRpPL7I-4SwL9fZxmWyMO8JGvOw-OoQwcBD0JQnPUIenDMtZztPuQNc0MAzs_Ydc3p8eSI8Q_x0y2OvKK_G0fjerBsSnaPbQhz_2CgiYW75vhOrv6kRG-6doQ8hk-JMLcEn_w.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-01T11:00:03+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20882",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20882",
+      "text": "미·이란 대치 속 호르무즈 입구서 유조선 잇따라 불길\n- 오만쪽 항로서 미확인 발사체에 피격…곧이어 다른 한척엔 원인미상 폭발\nUKMTO는 해당 유조선이 공격받아 기관실이 손상됐으며 현재 자체 항해가 불가능한 상태라고 설명했다. 관련 인명 피해는 보고되지 않았다.\n뒤이어 UKMTO는 이날 오만 카사브에서 북동쪽으로 약 39㎞ 떨어진 해상에서 별도의 폭발 사고가 발생했다는 신고도 접수했다.\nhttps://n.news.naver.com/article/001/0016228354?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T10:24:53+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20881",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20881",
+      "text": "» 최근의 주요 일본 외환시장 개입 사례",
+      "images": [
+        "https://cdn5.telesco.pe/file/HygngZKj78D9_l3jGJ0-ew8oWYKDUhvynvpzyLpTpTLaMOZhQ6UJH2tx7uHGCiaTcSgyCgNyBwbGWzLLOM3e7ncP6h-bRtzRLH8LclmOhfconIvpYD30HF0KjBoGXRKfKI5d1NkHSpcNENB6K7-sHbpzJ-wBJo_dA3wA8y5cWqGIK075W1wiK3Ba-wl1pKjWOjVJXBrzo-7AY0RoWlnHAaWOhKtYBuo5QERu8biQbT44QNytLm_8DCBmOSH1SRMnRdnOvdnHydWm-WBVT1LAMj1X95x6y4PIJpf9F-gF7HQw1IM2wqIPsEgLnz_zFeNoc8pB1Dhzp3fSkK21q6ow7Q.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-01T10:23:33+00:00"
+    },
+    {
+      "id": "tg:EMchina/32026",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32026",
+      "text": "BYD 해외판매 호조 효과\nhttps://cnevpost.com/2026/08/01/byd-jul-2026-sales/",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T10:15:49+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24254",
       "source": "telegram",
@@ -308,18 +396,6 @@
       "published_at": "2026-08-01T01:05:08+00:00"
     },
     {
-      "id": "tg:EMchina/32014",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32014",
-      "text": "신흥시장 증시, 2008년 이후 최대 일일 상승폭. 한국 급등하며 최대 상승폭 경신\n• 금요일 MSCI EM은 6.6% 상승. 2008년 이후 최고의 일일 성과 기록. 7월 하락폭은 3.3%로 축소\n• 한국 코스피는 18% 오르며 역대 최대 상승폭 기록. 분석에 따르면 금요일의 반등은 숏커버링 가능성. 레버리지 아직 완전히 정리되지 않아 변동성이 지속될 수 있음\n新兴市场股市创2008年以来最大单日涨幅，韩股创纪录飙升\nMSCI新兴市场指数周五上涨6.6%，创2008年以来最佳单日表现，7月跌幅收窄至3.3%；韩国KOSPI综指周五创纪录大涨18%。分析指出，周五反弹或是空头回补，杠杆尚未完全出清，波动可能持续。\nhttps://wallstreetcn.com/articles/3778471#from=ios",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-01T01:04:24+00:00"
-    },
-    {
       "id": "tg:enc210406/4278",
       "source": "telegram",
       "author": "enc210406",
@@ -604,20 +680,6 @@
       "published_at": "2026-07-31T14:28:34+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24245",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24245",
-      "text": "채권자경단의 힘은 강력했다",
-      "images": [
-        "https://cdn5.telesco.pe/file/TNGP3Ku6c82ptnmsFkA1-upNNlyrAM1Y5tH_zM8KxrcK8biPCFXLpJmPmxBFFtTc-ROkg9neXfeoffnHKpB9lxS5M5tP8ohr8xAOeqod9dH_4HZDHyntAhvEdN4Q1492HSidukRAGpZveOo4GVAyARy3jY7CMBZ36Wnq5lVDD_TL2Dip7Q_H3k9tYyoBnrNzF1NdEyrFSxz7wMFnHe6AQb5BI1TkKe_t7xUS6ceavUVjMOIvrg8ENjZOAieH7MeTw54Qe_XNllIhXz0wtH_R_JrEMKOX84Blmy-1lIjyzSk4rxbfQidfnGFR9HAeJ95tq9D3_9yf_obQYDXNSyC7Jg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-31T14:24:15+00:00"
-    },
-    {
       "id": "tg:globaletfi/20867",
       "source": "telegram",
       "author": "globaletfi",
@@ -630,44 +692,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-31T14:20:19+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20866",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20866",
-      "text": "🔹\nNVIDIA에 의존하고 있는 중국 Moonshot AI(Kimi3)\n» Moonshot AI가 Alibaba와의 컴퓨팅 계약을 맺고 약 2만 개의 NVIDIA GPU를 활용해 Kimi 모델을 학습·운영 중\n» 해당 GPU는 Moonshot AI 전체 AI 연산능력의 상당 부분을 차지. 중국 AI 기업들이 여전히 NVIDIA 생태계에 크게 의존하고 있음을 보여주는 사례\n» Alibaba Group은 Moonshot AI의 투자자이자 클라우드 인프라 제공업체인 동시에, 자체 AI 모델 Qwen과는 경쟁 관계. Kimi가 일부 성능에서 Qwen을 앞선 것으로 알려진 상황\n» 현재 Moonshot AI가 사용하는 약 2만 개 GPU는 최신 Blackwell이 아니라 Hopper 계열(H200)인 것으로 추정. Alibaba는 H200 제공 여부는 부인했지만 2만 개 규모의 NVIDIA GPU 컴퓨팅 자원을 제공한다는 사실 자체는 부인하지 않음\n» Moonshot AI는 동남아시아를 통해 Blackwell GPU에 접근 가능한 채널도 확보한 것으로 알려졌으며, 차세대 모델 학습을 위해 추가 Blackwell 확보도 추진 중\n» 미국 정부는 Moonshot AI가 태국 등을 통한 컴퓨트 임대 방식으로 규제를 우회했을 가능성과 Anthropic 모델을 활용한 Distillation 기법을 사용했을 가능성을 제기했지만, 현재까지 구체적인 증거는 공개 X\n» 중국 클라우드 기업들이 해외 데이터센터의 NVIDIA GPU를 클라우드 형태로 임대하는 방식으로 미국 수출 규제를 우회하는 사례가 증가\n🔹\n투자 시사점\n» 가장 중요한 내용은 Kimi K3의 경쟁력이 결국 NVIDIA GPU 위에서 만들어졌다는 부분. 중국 AI가 발전할수록 NVIDIA GPU와 AI 인프라 수요도 함께 증가하는 상황을 시사\n» Moonshot AI가 약 2만 개 GPU를 사용하고 있으며, 차세대 모델을 위해 추가 Blackwell 확보를 추진 중이라는 점은 AI 컴퓨팅 수요가 여전히 확대되고 있음을 보여주는 모습\n» AI 경쟁 심화는 NVIDIA GPU → SK하이닉스 HBM → TSMC 첨단 공정 → 네트워크·서버 인프라로 이어지는 AI 공급망 전반의 구조적 수요 증가 요인\n» 다만 상기 사례는 미국의 대중국 반도체 규제가 GPU 판매뿐 아니라 해외 클라우드 컴퓨팅 서비스 및 컴퓨트 임대까지 확대될 가능성을 높였다는 점에서 정책 리스크도 함께 부각\n» 향후 모니터링 포인트는 ① Blackwell 공급 확대 속도, ② 미국의 추가 규제 여부, ③ 중국 AI 기업들의 GPU 확보 방식 변화, ④ AI 인프라 투자(CapEx) 지속 여부가 될 전망\n» 종합적으로는 중국 AI의 경쟁력 강화가 NVIDIA의 지위를 약화시키기보다는 오히려 글로벌 GPU와 HBM 수요를 확대하는 방향으로 작용하고 있으며, 단기 주가 변수는 기술 경쟁보다 미국의 규제 정책 변화가 될 가능성\nhttps://www.bloomberg.com/news/articles/2026-07-31/moonshot-s-kimi-built-on-20-000-nvidia-chip-cluster-from-alibaba",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T14:06:55+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24244",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24244",
-      "text": "안녕? 나는 야선이야!\n🤗",
-      "images": [
-        "https://cdn5.telesco.pe/file/I4fFSH-atER_PwGvurOo0T4TBHGcyvQkLSctaalNtxlmy98-FP0oh9YWGvoZNsE7uEIPq9r2iSxZbWroWWP8Z8LhUoXoVulz26widHETpd4h5cE2vH0porNojKl8WD5KyVfEiDZyghNqUGJ5yM_g31RY_g03WjM2lLIU28PUR_NPHLJWPwXhxoYpY79c9ypOB5HsJz2YG3wwVZ00htyTcQEPB7ka14Kjq_2qz81f0yPrL9ZObDcVYu681W-28I28y7vPdZO_eYh_DsjTkpVGpIqf1zEyAWdbXhSipr2sD8Gr88KbS6rVwPyTShFU1aAipIxmfGVy5lF2OW5cZgZ7zA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-31T13:51:14+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24243",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24243",
-      "text": "엔비디아 중국에서 GPU가격 인상예정",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T13:30:50+00:00"
     },
     {
       "id": "x:ylecun:2083179134092530092",
@@ -719,7 +743,7 @@
       "url": "https://x.com/ylecun/status/2083149395147554929",
       "text": "RT by @ylecun: It really annoys me how they report this stuff like they’ve gone on safari to do scientific observation Claude is a computer program that they created These are simply their own security errors being reported as if they are scientific achievements It’s bad enough that they don’t seem to think they need to be responsible for their own mistakes But the worst part of it is they try to use their own mistakes as an excuse to control the behavior of other people There is an amazing arrogance to the whole thing, like they are completely above reproach and cannot possibly be wrong about anything",
       "images": [
-        "https://pbs.twimg.com/card_img/2080844581822750720/fGJXBd34?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2083391254587396096/2Q73fmpd?format=jpg&name=800x419"
       ],
       "summary_ko": "RT by @yleun: 그들이 과학적 관찰을 하러 사파리에 간 것처럼 이 내용을 보고하는 것이 정말 짜증납니다 Claude는 그들이 만든 컴퓨터 프로그램입니다 이것은 단순히 과학적 성과인 것처럼 보고되는 그들 자신의 보안 오류입니다 그들이 자신의 실수에 대해 책임을 질 필요가 없다고 생각할 만큼 충분히 나쁘지만 가장 나쁜 부분은 그들이 자신의 실수를 다른 사람들의 행동을 통제하기 위한 핑계로 사용하려고 한다는 것입니다. 모든 것에 놀라운 오만함이 있습니다. 그들은 완전히 비난받을 일이 없고 어떤 것에도 틀릴 수 없는 것처럼",
       "published_at": "2026-07-31T11:14:53+00:00"
@@ -751,18 +775,6 @@
       ],
       "summary_ko": "@GoogleDeepMind의 RT: FR3 Duo에서 @GoogleDeepMind가 제공한 Gemini Robotics 2의 첫 번째 모습입니다. 20분 동안 중단 없이 실시간 툴킷팅이 가능합니다. 긴급 회복 동작에 주목하세요. 완전히 새로운 수준의 일반화된 손재주와 정확성입니다. 앞으로 더 많은 데모가 공개될 예정입니다! 계속 지켜봐 주시기 바랍니다!",
       "published_at": "2026-07-31T10:29:46+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20865",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20865",
-      "text": "» 지수형 레버리지 ETF로 이동하는 투자 수요\n» KOSPI200 지수도 결국 삼전닉스 비중이 58.1% 수준\n단일종목 레버리지 상장지수펀드(ETF) 투자 문턱이 높아지면서 개인투자자의 자금이 지수형 레버리지 ETF로 대거 옮겨가는 '풍선효과'가 나타날 것이라는 우려가 커지고 있다.\n31일 한국거래소에 따르면 이날 'KODEX 레버리지'가 총 3조611억원어치 거래되며 'KODEX 200'에 이은 거래대금 2위에 올랐다. 이날부터 단일종목 레버리지 예탁금 기준이3000만원으로 상향되면서 단일종목 레버리지 거래는 눈에 띄게 감소했다.\n전날 거래대금 1·2위였던 'SOL SK하이닉스선물단일종목인버스2X'(5조213억원)와 'KODEX SK하이닉스단일종목레버리지'(3조6254억원)는 이날 각각 5648억원, 1조1967억원어치 거래되는 데 그쳤다. 향후 단일종목 레버리지의 투자 한도를 20% 이내로 제한하는 추가 규제까지 시행되면 거래가 더 줄어들 전망이다.\n'하이닉스 2배' 막았더니…전투개미 뭉칫돈 3조 몰린 곳이\nhttps://n.news.naver.com/article/015/0005316059?cds=news_edit",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T10:08:05+00:00"
     },
     {
       "id": "tg:bornlupin/19456",
@@ -867,20 +879,6 @@
       "published_at": "2026-07-31T07:12:25+00:00"
     },
     {
-      "id": "tg:bornlupin/19451",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19451",
-      "text": "* 키옥시아, 실적발표하며 동시에 두가지 주주환원 발표\n1) 액면분할: 1:3 비율로 분할해 주주 접근 강화\n2) 자사주매입: 8,000억엔 규모. 주주같이 제고 목적",
-      "images": [
-        "https://cdn5.telesco.pe/file/vvrFaeyppo62aQXKZih_IKfQCxSaq09HogtQZypyB8n7ug3XLQ79zhUxwcTeMM3T8KmGvrHyQn4jXNfsUvUnqCPHRxJIMzt2SncUWzz4XzWPKVTLOGzXbPXG1vyvprHciR4NjXhb-goN-7sr6uVlNrp5SRzYWY3_mmRFn7LpPjoqpAccM1s1I7XkZ6QEmHS40C6B0Le59cYhstQfu3cw8xczAMb5pUovmpSDXcgOo1Wci-dwp4LkjzSRAWbJ011e8X65dZkqiNm8wiR_06j631lYmrkyngH55_wNfApIP-mxAk76kVgmZI5uJpw6s2hFrThpFW-uvbHCSVtCpovXsQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-31T06:52:39+00:00"
-    },
-    {
       "id": "x:ylecun:2083080230655430673",
       "source": "x",
       "author": "ylecun",
@@ -942,7 +940,7 @@
       "text": "RT by @ylecun: Again the rhetoric is trying to convince us that what happened was some new thing and worse that models are people.",
       "images": [
         "https://pbs.twimg.com/media/HOhHB5WWUAErXl3.jpg",
-        "https://pbs.twimg.com/card_img/2080844581822750720/fGJXBd34?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2083391254587396096/2Q73fmpd?format=jpg&name=800x419"
       ],
       "summary_ko": "RT by @yleun: 이번에도 수사법은 일어난 일이 새로운 일이고 더 나쁜 것은 모델이 사람이라는 점을 우리에게 확신시키려고 합니다.",
       "published_at": "2026-07-31T00:53:09+00:00"
@@ -1006,7 +1004,7 @@
       "url": "https://x.com/AnthropicAI/status/2082965101083320543",
       "text": "In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Our post describes what happened, how it happened, and what we’re changing. We encourage other AI developers to perform similar reviews. We conducted this review together with @Irregular, one of our evaluation partners, and thank them for the joint investigation and their collaboration on this post. This type of collaboration is increasingly critical to safe, rigorous evaluation of models, and we look forward to continuing to work together on security. https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
       "images": [
-        "https://pbs.twimg.com/card_img/2080844581822750720/fGJXBd34?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2083391254587396096/2Q73fmpd?format=jpg&name=800x419"
       ],
       "summary_ko": "사이버 보안 평가를 검토한 결과, Claude 모델이 제3자 평가 환경 내에서 또는 제3자 평가 환경과 상호 작용하는 동안 인터넷에 접속한 후 서로 다른 세 조직의 실제 시스템에 무단으로 액세스한 사건 세 건을 발견했습니다. 우리 게시물에서는 무슨 일이 일어났는지, 어떻게 일어났는지, 그리고 우리가 무엇을 바꾸고 있는지 설명합니다. 우리는 다른 AI 개발자도 유사한 검토를 수행하도록 권장합니다. 이번 리뷰는 평가 파트너 중 하나인 @Irregular와 함께 진행되었으며, 본 게시물에 대한 공동 조사와 협력에 감사드립니다. 이러한 유형의 협업은 모델을 안전하고 엄격하게 평가하는 데 점점 더 중요해지고 있으며 보안을 위해 계속해서 협력할 수 있기를 기대합니다. https://www.anthropic.com/news/investigating-incidents-cybers",
       "published_at": "2026-07-30T23:02:34+00:00"
@@ -1660,7 +1658,7 @@
       "url": "https://x.com/AnthropicAI/status/2082153311189225927",
       "text": "R to @AnthropicAI: We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities. https://arxiv.org/abs/2607.18538",
       "images": [
-        "https://pbs.twimg.com/card_img/2081932888870674432/x2jrGS44?format=jpg&name=420x420_2"
+        "https://pbs.twimg.com/card_img/2081932888870674432/zo6pSyya?format=jpg&name=420x420_2"
       ],
       "summary_ko": "R에서 @AnthropicAI로: 우리는 취리히 연방공과대학(ETH Zurich), 텔아비브 대학교(Tel Aviv University), 하이파 대학교(University of Haifa)의 학자들과 협력하여 LLM의 암호 분석 능력을 연구하기 위한 벤치마크인 CryptanalyticBench를 구축했습니다. https://arxiv.org/abs/2607.18538",
       "published_at": "2026-07-28T17:16:48+00:00"
@@ -1845,7 +1843,7 @@
       "author_name": "Google DeepMind(딥마인드)",
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2080321519952056441",
-      "text": "R to @GoogleDeepMind: By combining speed and efficiency, 3.5 Flash Cyber lets defense specialists check significantly more code paths. In testing on our own codebases – including @googlechrome and @Android – it consistently caught complex, unique vulnerabilities that standard models missed.",
+      "text": "By combining speed and efficiency, 3.5 Flash Cyber lets defense specialists check significantly more code paths. In testing on our own codebases – including @googlechrome and @Android – it consistently caught complex, unique vulnerabilities that standard models missed.",
       "images": [
         "https://pbs.twimg.com/media/HN7JKNPWUAAYqbM.jpg"
       ],
