@@ -1,22 +1,34 @@
 {
-  "updated_at": "2026-08-01T20:09:16+00:00",
+  "updated_at": "2026-08-01T21:56:15+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 4
   },
   "briefing": {
-    "headline": "미·이란 대치 속 호르무즈 입구서 유조선 불길",
+    "headline": "중국 GDP 대비 부채비율 5년만에 하락",
     "bullets": [
-      "BYD, 7월 41.9만 대 자동차 판매",
-      "CXMT, LPDDR6 샘플링 돌입",
-      "키옥시아 1분기 실적ショック",
-      "미중 첨단기술 분쟁 지속",
-      "립모터 7월 전기차 인도량 10만대"
+      "미·이란 대치 속 호르무즈 입구서 유조선 불길",
+      "BYD, 7월 41.9만 대 자동차 판매…海外 판매량 역대 최고치",
+      "키옥시아 1분기 실적쇼크, 영업이익 1.27조엔",
+      "CXMT LPDDR6, 애플 공급망 노리는 中 CXMT…차세대 LPDDR6 메모리 샘플링 돌입",
+      "도이체방크, 아마존 목표가 325달러로 상향"
     ],
-    "generated_at": "2026-08-01T20:09:16+00:00",
+    "generated_at": "2026-08-01T21:56:15+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32031",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32031",
+      "text": "중국 GDP 대비 부채비율 약 5년만에 하락\n• 경제규모 커진 가운데 가계/기업 디레버리징\n======================\n~ China’s debt-to-gross domestic product ratio fell in the second quarter for the first time in four and a half years,\nmainly as a result of GDP growth\n~ However, the NIFD cautioned that while higher nominal GDP growth eased passive upward pressure on the macro leverage ratio,\nhousehold and business balance sheets generally tended toward deleveraging\nhttps://www.yicaiglobal.com/news/chinas-macro-leverage-ratio-posts-first-quarterly-drop-since-early-2022-in-second-quarter",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T21:20:44+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24263",
       "source": "telegram",
@@ -498,18 +510,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-01T02:35:51+00:00"
-    },
-    {
-      "id": "tg:EMchina/32018",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32018",
-      "text": "미중은 안 친해집니다  근데 아직 안 막았군요  ========================  ~ FCC는 이날 홈페이지를 통해 인간형(휴머노이드) 로봇, 4족 보행 로봇 등 이동이 가능한 로봇과, 재생에너지·배터리를 전력망이나 데이터센터에 연결하는 전력 인버터를 '커버드 리스트(금지 목록)'에 올린다고 밝혔다. 커버드 리스트는 미국 국가안보에 위협이 되는 통신 장비·서비스를 모아둔 명단이다. 이 명단에 오른 기업은 신규 제품의 미국 내 수입·판매에 필요한 FCC 인증을…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-01T01:48:22+00:00"
     },
     {
       "id": "tg:bornlupin/19461",
@@ -1498,7 +1498,9 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2082616641834422740",
       "text": "R to @OpenAI: A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has already learned. https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2082601651047698432/3ht2GCz3?format=jpg&name=800x419"
+      ],
       "summary_ko": "R에서 @OpenAI로: 벤치마크 점수는 모델뿐만 아니라 이를 실행하는 데 사용된 하네스 및 설정을 반영합니다. 장기 실행 에이전트의 경우 추론을 유지하고 컨텍스트를 압축하면 모델이 이미 학습한 내용을 기반으로 구축할 수 있습니다. https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
       "published_at": "2026-07-29T23:57:55+00:00"
     },
@@ -1510,7 +1512,9 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2082616643394703682",
       "text": "R to @OpenAI: We hope these experiments serve as a reminder that evals rarely measure models in isolation—they also measure a bundle of less visible choices about API settings, harness design, and prompting. If you’re an API developer trying to maximize performance, we recommend using the same settings that we deploy in our own products: - Use our Responses API, not our legacy Chat - Completions API - Retain reasoning - Use compaction If you want to test your own mettle against frontier models, try the public games yourself at http://arcprize.org/tasks",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2082888285249249280/kSqIQ_EO?format=jpg&name=800x419"
+      ],
       "summary_ko": "R에서 @OpenAI로: 이 실험이 평가에서 모델을 단독으로 측정하는 경우는 거의 없으며 API 설정, 하네스 설계 및 프롬프트에 대해 눈에 띄지 않는 여러 가지 선택 항목도 측정한다는 점을 상기시키는 역할을 하기를 바랍니다. 성능을 최대화하려는 API 개발자라면 자체 제품에 배포한 것과 동일한 설정을 사용하는 것이 좋습니다. - 레거시 Chat이 아닌 Responses API 사용 - Completions API - 추론 유지 - 압축 사용 프론티어 모델에 대해 자신의 역량을 테스트하고 싶다면 http://arcprize.org/tasks에서 직접 공개 게임을 시도해 보세요.",
       "published_at": "2026-07-29T23:57:55+00:00"
     },
@@ -2173,9 +2177,7 @@
       "author_url": "https://x.com/karpathy",
       "url": "https://x.com/karpathy/status/2074973674332123157",
       "text": "RT by @karpathy: Rewriting Bun in Rust https://bun.com/blog/bun-in-rust",
-      "images": [
-        "https://pbs.twimg.com/card_img/2082600161549950977/VPyAvabh?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "@karpathy의 RT: Rust에서 Bun 다시 작성 https://bun.com/blog/bun-in-rust",
       "published_at": "2026-07-08T21:47:29+00:00"
     },
