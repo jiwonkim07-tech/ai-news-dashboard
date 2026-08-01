@@ -1,21 +1,174 @@
 {
-  "updated_at": "2026-08-01T00:08:44+00:00",
+  "updated_at": "2026-08-01T04:21:10+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 8
+    "new_this_run": 12
   },
   "briefing": {
-    "headline": "7월 수출 989억달러, 62.8%↑…반도체 179%↑",
+    "headline": "샤오미, 5월 전기차 인도량 3만대 돌파",
     "bullets": [
+      "중국 CXMT, 애플 공급망 노린다",
+      "키옥시아, 2026년 1분기 최대 이익",
       "미국 30년물 국채 금리 5.20% 돌파",
-      "OPENAI 모델, 200만개 기업에서 사용",
-      "엔비디아 중국에서 GPU 가격 인상 예정",
-      "중국 Moonshot AI, 알리바바로부터 20,000개 규모 엔비디아 칩 클러스터 확보"
+      "오픈AI 상장 연기, 하드웨어 주식 하락",
+      "중국 달러지수 및 엔화환율 급락"
     ],
-    "generated_at": "2026-08-01T00:08:44+00:00",
+    "generated_at": "2026-08-01T04:21:10+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32019",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32019",
+      "text": "CXMT LPDDR6  ======================  애플 공급망 노리는 中 CXMT…차세대 LPDDR6 메모리 샘플링 돌입  ~ 외신에 따르면 CXMT는 DDR6 시대를 대비해 LPDDR6 메모리 샘플 공급을 시작했으며, 2026년 하반기 양산을 목표로 생산 체계를 구축하고 있다. 이를 위해 해성DS를 새로운 패키징 기판 공급업체로 추가하고, 기존 릴투릴 공정에서 패널 레벨 패키징 방식으로 전환을 추진 중인 것으로 알려졌다   https:…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T03:05:48+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19466",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19466",
+      "text": "키옥시아(Kioxia) 2026 회계연도(FY2026) 1분기 어닝콜 Q&A\nQ: 1분기에서 2분기로 이월(slipped)된 출하량의 규모와 배경에 대해 설명해 주시겠습니까?\nA:\n1분기에서 2분기로 이월된 출하 물량은\n원래 분기 말 인도 예정이었으나, 물류 관련 사유로 연기되었습니다.\nQ: 2분기 가이던스의 세부 내역을 설명해 주시겠습니까?\nA: 2분기 매출은 전분기 대비(QoQ) 약 35% 증가한 2조 3,900억 엔을 기록할 것으로 예상합니다. 평균판매단가(ASP)가 매출 성장에 가장 크게 기여할 것\n으로 보입니다. GB(기가바이트) 기준 출하량 역시 증가할 것으로 예상되며, 환율 전제치는 1분기 160엔 대비 162엔으로 설정했습니다.\n응용처별로는 데이터센터 및 엔터프라이즈 향 물량이 지속적으로 성장할 것으로 기대\n됩니다. 아울러 스마트 디바이스 물량도 계절적 수요에 힘입어 증가할 것으로 보입니다.\n하반기를 전망해 보면, 생산 계획에는 큰 변화가 없으며 견조한 수요에 지속적으로 대응할 계획입니다.\nQ: 장기공급계약(LTA, Long-Term Agreements) 추진 현황에 대해 업데이트해 주시겠습니까?\nA:\n당사는 장기 수요 가시성 확보, 성장 투자 지원, 그리고\n엔터프라이즈 및 하이퍼스케일 고객과의 비즈니스 및 기술적 협력 강화를 목적으로 LTA를 추진\n하고 있습니다. 개별 계약의 세부 사항을 공개할 수는 없으나,\n2028 달력연도(CY2028)까지 LTA 물량 비중 50% 달성을 목표로 순항\n하고 있습니다. 또한\n더 장기적인 계약에 대한 고객들의 관심이 이어지고 있어 이러한 기회들을 긍정적으로 검토하고 있습니다.\nQ: AI 추론(Inference) 수요에 대한 전망은 어떠한가요? 아울러 중국을 비롯한 오픈소스 AI 모델의 채택 확대가 NAND 수요에 미칠 영향은 어떻게 보십니까?\nA: 당사는 AI 추론, 특히 에이전틱 AI(Agentic AI)의 도입이 아직 초기 단계에 있다고 봅니다.\n에이전틱 AI 응용 프로그램이 더욱 확산됨에 따라 스토리지에 대한 의존도가 지속적으로 높아지고 있으며, 이는\n추론 서버에서 더 큰 SSD 용량 요구사항과 높은 랜덤 액세스 성능을 갖춘 SSD 수요를 견인하고 있습니다.\n나아가\n오픈소스 AI 모델이 AI 이용 비용을 낮춘다면, 더 광범위한 AI 채택이 데이터 생성 및 활용 증가로 이어져 궁극적으로 플래시 메모리 수요를 늘릴 것으로 기대\n합니다.\nQ: 주요 고객들과는 얼마나 자주 소통하십니까?\nA:\n당사는\n미국 실리콘밸리를 포함한 주요 글로벌 지역에 뛰어난 영업 및 영업 엔지니어링 팀을 두고 있으며, 고객들과 매일 소통\n하고 있습니다. 구매 담당 부서뿐만 아니라 고객사의 엔지니어링 조직과도 긴밀히 협력하며 프로젝트 개발 현황 및 수요 동향에 대한 정보를 지속적으로 교환하고 있습니다.\nQ: 설비투자(CapEx)와 관련하여, 경쟁사들이 공격적으로 생산 능력을 확대할 경우 키옥시아(Kioxia)도 점유율 유지를 위해 이를 따라갈 것입니까, 아니면 제품 차별화와 고부가가치 솔루션에 우선순위를 둘 것입니까?\nA: 당사의 최우선 과제는 기술적 우위를 강화하는 것입니다.\n당사는 성능 향상, 저전력화, 제품 품질 등 핵심 경쟁력 분야에 투자를 지속적으로 집중할 것입니다.\n현재 2026 회계연도(FY2026)에 약 4,500억 엔, 향후 3년간 연평균 약 4,700억 엔의 설비투자를 계획하고 있습니다. 동시에 시장 상황에 따라 투자 수준을 유연하게 조정할 수 있는 태세를 유지\n할 것입니다.\nQ: 2027 달력연도(CY2027)에 수요가 공급을 초과할 것이라고 믿는 이유는 무엇이며, 중국 업체를 포함한 경쟁 환경은 어떻게 보고 계십니까?\nA:\n생성형 AI 및 AI 추론 관련 수요는 지속적으로 확대될 것이며, 현재 시장 전망치에 아직 완전히 반영되지 않았을 수 있다고 생각\n합니다. 또한\n키옥시아는 광범위한 글로벌 고객 기반을 갖추고 있으며, AI 관련 수요의 견조함과 LTA의 진전은 당사의 경쟁적 입지를 반영\n한다고 봅니다. 당사는\n기술 리더십, 신뢰성, 그리고 강력한 고객 협업을 통해 경쟁력을 지속적으로 강화\n해 나갈 것입니다.\nQ: 스마트폰 및 PC 수요 둔화 위험에 대해서는 어떻게 평가하십니까?\nA:\n부품원가(BOM 비용) 상승은 특히 중저가 스마트폰과 PC 부문에서 출하량 감소의 원인이 되었습니다. 그러나\n한편으로는 가격이 정상화되면 이연된 교체 수요와 수요 회복 가능성이 존재한다고 봅니다.\n또한\n엣지 단에서의 AI 처리(Edge AI)에 대한 논의가 가속화되고 있어 소비자용 기기의 NAND 수요를 늘릴 수 있습니다\n. 당사는\n온디바이스 AI 애플리케이션을 위한 UFS 5.0을 포함해 더 높은 성능의 제품 개발을 지속\n하고 있으며, 고객과의 긴밀한 기술적 협력을 통해 이러한 기회를 포착하고자 합니다.\nQ: 자사주 매입 이후의 주주환원 정책에 대해 자세히 설명해 주시겠습니까?\nA:\n당사의 기본적인 자본 배분 정책에는 변화가 없습니다. 설비투자, R&D 투자, 인적 자본 투자 및 필요한 운전자본을 확보한 후,\n잉여현금흐름(Excess Cash Flow)의 약 절반을 주주환원에 배분할 계획입니다. 향후 현금흐름 창출에 기반하여 배당 및 자사주 매입을 포함한 주주환원책을 지속적으로 검토할 것입니다.\nQ: 배당에 앞서 자사주 매입을 먼저 실시하기로 결정한 이유는 무엇이며, 향후 주주환원 정책은 어떻게 되나요?\nA:\n당사는\n배당 개시 가능성을 지속적으로 검토하고 있으며, 이번 회계연도 하반기에 실시하는 방안을 고려\n할 수 있습니다.\n자사주 매입을 실시하기로 한 결정은 최근 주가 하락을 고려할 때 자본 효율성을 제고하기 위한 유효한 조치라는 판단에 따른 것\n입니다.\n상대적으로 짧은 매입 기간은 민첩하고 유연하게 대응하려는 당사의 의도를 반영한 것\n입니다.\n자사주 매입은 배당과 마찬가지로 주주환원의 중요한 요소이며, 잉여현금흐름을 주주에게 환원한다는 당사의 정책에는 변화가 없습니다.\nhttps://x.com/DrNHJ/status/2083381018967658810?s=20",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T02:35:51+00:00"
+    },
+    {
+      "id": "tg:EMchina/32018",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32018",
+      "text": "미중은 안 친해집니다  근데 아직 안 막았군요  ========================  ~ FCC는 이날 홈페이지를 통해 인간형(휴머노이드) 로봇, 4족 보행 로봇 등 이동이 가능한 로봇과, 재생에너지·배터리를 전력망이나 데이터센터에 연결하는 전력 인버터를 '커버드 리스트(금지 목록)'에 올린다고 밝혔다. 커버드 리스트는 미국 국가안보에 위협이 되는 통신 장비·서비스를 모아둔 명단이다. 이 명단에 오른 기업은 신규 제품의 미국 내 수입·판매에 필요한 FCC 인증을…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T01:48:22+00:00"
+    },
+    {
+      "id": "tg:EMchina/32017",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32017",
+      "text": "예고된 관세 파티  https://n.news.naver.com/article/001/0016212266?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T01:35:32+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19461",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19461",
+      "text": "🕳\n반도체 수출 | 2026년 7월 31일\n[수출금액]\n- 디램(모듈제외): 수출액 $13,545mn, Y/Y +467%, M/M +21%\n- 디램(모듈포함): 수출액 $21,226mn, Y/Y +394%, M/M -3%\n- 플래시메모리(낸드): 수출액 $1,781mn, Y/Y +280%, M/M -28%\n- SSD: 수출액 $4,512mn, Y/Y +500%, M/M -13%\n- MCP(HBM): 수출액 $10,083mn, Y/Y +140%, M/M -20%\n[수출단가]\n- DRAM(모듈 제외)수출단가는 $91,931/kg로 전년 대비 +517%, 전월 대비 +23%\n- DRAM(모듈 포함)수출단가는 $67,970/kg로 전년 대비 +525%, 전월 대비 +14%\n- 플래시메모리 수출단가는 $61,751/kg로 전년 대비 +411%, 전월 대비 -1%\n- SSD 수출단가는 $25,072/kg로 전년 대비 +513%, 전월 대비 +19%\n- MCP(HBM) 수출단가는 $98,686/kg로 전년 대비 +134%, 전월 대비 +5%",
+      "images": [
+        "https://cdn5.telesco.pe/file/gl3XW9d1chjGD0wnGI0fegL35rtIyEPhEgG6XJMKLCbtkxEUOTH1vviseozeiIpigUV5ywDp7ChWC2dqNXjk0uRAxihYDxWI5JZA6pIzD9Sjk0xRP9xoVyd035Ww46Cf-GaPNCoEQSXlbXGr8_GTvChSbnBnPryW3VGkfRLP93oKzY7SvS805VKX6FQ7vNc4-a0zGUqM0NTC--5toAejavDiZcXI8KQVN6mNiWVEgziKUyVqSPN0qCfqVZlk97zlorQoNVkpuSv8HOs2cBVLq2EL2YBTwImUqzIc8LPgFdFqF8OKS_MF3cIHOqIDIBbiYQ7Fa2eEENvzSANZps4xHg.jpg",
+        "https://cdn5.telesco.pe/file/hNVoi2-CibD14Bs2OkP5RwjN_lthpGX9_hlcFcHxmuOAI81nfzCgJfyv9Aly4Te6PshZD4SO2Ro2HNL30SODQPLj20F4tUq8wre7xSQQcBBzpHeb5LzqkFFJ--Zo7BZt2g6ztpVqBLHlm0yENKzCX9Yp8LcqbKUQVcLPeajD4fnsF-FXBnCMZLnzL51jxVqCzS8Ql2Db-K28Dc_lBPloGbN-U36xdgiMqhznaRnLaEr5n7Qb4iDlSDcjPRLPH5jRwnO-MgSckU2vLNgD7_xe7Nhg9ot2CMzmqpSmGVXoCG0EuzK__Ih1F0cljFbk09-GEAFg4KI3WVBseSZCHzIfHg.jpg",
+        "https://cdn5.telesco.pe/file/qAqVJRa1higR-lRKQZtyk2DAahMMDfMhjcbWAH_BbaafpZI212MLGzokdCdu9N5aAxb-WVhR9weHYcmdTLbGaIyCul6rGMc7qQCjokv-RhwOfP8hRrpWGNyTkrxL0ZB4C7GUZpAv_F6gpy8UxsBG9uEapmN9gSOSMIrwW6LahTTXxM03lqMkfQ8y7r16JLkMjWm_AQLgZ804yXsatWejejF3qGKmQrDR8_1zFbhsgdShudnfm_1Xg6RsTfj9fHZdDMyc71Tn-sdJY1rfjF1EzZeVt0ymLHqvHYPq7bkQvKdCdUDVPtrt19X9WPWdmilXVIqq2l-h1MGgluSfreiSCw.jpg",
+        "https://cdn5.telesco.pe/file/LM9cmO0a9BdjoGczT6eMp3__nMy2LwerOa8_yf4EJ4Pw-Mb7c0lEH8nup1P0tJZE7stqQbjYnndemMJqga7tGs4IkICAV0Vv0juYfxJ358Fj44lZF6sj-bKXRq5EKH_jIVwamM5_H8v21-jr9FvCSM1VurjLJI0Ap3xU1s8pLmFjkUPzLnU3crWq_3zSe1B3M4v_NAGJd5ryp0gv_yoN_f-ButvzAj9cPj3u4K7DDO9zFFlknyBb5t1QFMr9eucsVUPb3Sskg39pBjF7SanHEFY8bdgD6_K1cWq6Kx9WOHSbRlOVF4ovLgciObthMIyAuPZdvO0Av2ViBxEZ27whcw.jpg",
+        "https://cdn5.telesco.pe/file/FvQWLN-aVnPH3WiHLhTd1jr2edjjtgoK-o8agWu5OUUXWWBN-6CK1F7mf0a32tlVuygQvOIDyyDonyJ1-gkwe35ALSUrDy3dkFkGOjFIEsRJZcxVOLdCbWJPVNDu8o9ONGFYHHMuVpOA0qtuLddp2zWP-IV0fv55NDsbmN7yMXvExMwgPcAqk_xAM_yjXQJ1vzmQk90xaXv9gelrb9aVlhqmydUUalUCQGXd_sltnKa6rnQ285AY6tG7Y-Qns24EeH1RMPGGAuLix-PFeZggZvBdl4D_kdrpDTKHT-szgPukh6Q9Hwq8lhgQzcJ8kHQa1pCTZSY56KDFrWXwWURuMg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-01T01:18:07+00:00"
+    },
+    {
+      "id": "tg:EMchina/32016",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32016",
+      "text": "• 샤오미: 5월 전기차 인도량 30000대 돌파  小米汽车：5月交付量超过30000台 6月1日，@小米汽车 发文称，2026年5月，小米汽车交付量持续超过30000台。  https://cnevpost.com/2026/06/01/xiaomi-ev-delivers-over-30000-cars-may-2026/",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T01:06:56+00:00"
+    },
+    {
+      "id": "tg:EMchina/32015",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32015",
+      "text": "오픈AI 상장 연기: 오라클 & Nebius 등 하드웨어 주식 하락. ServiceNow & Workday 등 소프트웨어 주식 전반 급등  • 오픈AI의 재정적 어려움으로 IPO 연기 가능성. 시장의 AI 재평가 충격 야기  • 소프트웨어 주식 ServiceNow & Workday 9% 이상 상승. Figma +10% 이상. 과거 ‘주요 피해 부문‘이 상승 주도  • 분석가들은 기업이 AI로 소프트웨어를 전면 대체한다는 주장은 비현실적 & 가장 비관적인…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T01:05:08+00:00"
+    },
+    {
+      "id": "tg:EMchina/32014",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32014",
+      "text": "신흥시장 증시, 2008년 이후 최대 일일 상승폭. 한국 급등하며 최대 상승폭 경신\n• 금요일 MSCI EM은 6.6% 상승. 2008년 이후 최고의 일일 성과 기록. 7월 하락폭은 3.3%로 축소\n• 한국 코스피는 18% 오르며 역대 최대 상승폭 기록. 분석에 따르면 금요일의 반등은 숏커버링 가능성. 레버리지 아직 완전히 정리되지 않아 변동성이 지속될 수 있음\n新兴市场股市创2008年以来最大单日涨幅，韩股创纪录飙升\nMSCI新兴市场指数周五上涨6.6%，创2008年以来最佳单日表现，7月跌幅收窄至3.3%；韩国KOSPI综指周五创纪录大涨18%。分析指出，周五反弹或是空头回补，杠杆尚未完全出清，波动可能持续。\nhttps://wallstreetcn.com/articles/3778471#from=ios",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T01:04:24+00:00"
+    },
+    {
+      "id": "tg:EMchina/32013",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32013",
+      "text": "~ 특히 가격 경쟁력을 앞세운\n리튬인산철(LFP) 배터리가 전체 생산능력의 약 80%를 차지\n할 것으로 예상된다. IBC 측은 이미 LFP 배터리 잠재 고객을 확보했으며, 일본 등 해외 시장 공급을 목표로 하고 있다. 이와 함께\n니켈 기반의 삼원계(NCM) 배터리는 독일을 비롯한 유럽 시장 수출을 추진할 계획\n이다\nhttps://www.theguru.co.kr/mobile/article.html?no=105222",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T00:58:24+00:00"
+    },
+    {
+      "id": "tg:enc210406/4278",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4278",
+      "text": "2026년 7월 31일 기준\n클락슨 신조선가 지수는\n185.49pt로\n전주 대비 0.10pt(0.05%)\n‘상승‘했습니다.\n[최근 4주 간 지수]\n185.39pt (26년 7월 24일)\n185.39pt (26년 7월 17일)\n185.39pt (26년 7월 10일)\n185.37pt (26년 7월 3일)\n[주목할 선종과 선형]\n> 탱커(유조선): 보합\n@ VLCC(315-320K DWT)\n- 26년 7월 24일: 130.50백만달러\n- 26년 7월 31일: 130.50백만달러\n@ Suezmax(156-158K DWT)\n- 26년 7월 24일: 89.50백만달러\n- 26년 7월 31일: 89.50백만달러\n@ Aframax(113-115K DWT)\n- 26년 7월 24일: 75.00백만달러\n- 26년 7월 31일: 75.00백만달러\n> 탱커(원유제품선-P/C): 보합\n@ LR1(73-75K DWT)\n- 26년 7월 24일: 61.50백만달러\n- 26년 7월 31일: 61.50백만달러\n@ MR(47-51K DWT)\n- 26년 7월 24일: 51.50백만달러\n- 26년 7월 31일: 51.50백만달러\n> 컨테이너선: Feeder선 상승\n@ Neo-panamax(13-14K TEU, LNG D/F)\n- 26년 7월 24일: 173.00백만달러\n- 26년 7월 31일: 173.00백만달러\n@ Feeder(1,800-2,100 TEU)\n- 26년 7월 24일: 33.00백만달러\n- 26년 7월 31일: 33.50백만달러\n> LNG 운반선: 보합\n@ Conventional(174K cbm)\n- 26년 7월 24일: 248.50백만달러\n- 26년 7월 31일: 248.50백만달러\n> LPG, 암모니아 운반선: 보합\n@ VLGC(88-91K cbm)\n- 26년 7월 24일: 113.50백만달러\n- 26년 7월 31일: 113.50백만달러\n@ VLAC(88-93K cbm)\n- 26년 7월 24일: 115.00백만달러\n- 26년 7월 31일: 115.00백만달러",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T00:19:44+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19460",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19460",
+      "text": "7월 수출 62% 증가 988.9억弗…반도체 2개월 연속 400억弗 돌파(1보)\n산업부, 7월 수출입 동향 발표\n수출 전기간 중 역대 2위 달성\n무역수지 흑자 303.2억 달러\n지난달 수출이 62.8% 증가하며 월 기준 역대 최대치를 기록했다. 반도체 수출이 지난달 사상 처음으로 400억 달러를 넘어선 이후 이달에도 400억달러를 웃돌며 수출 호조를 이끌었다.\n1일 산업통상부가 발표한 '7월 수출입 동향'에 따르면, 수출은 1년 전보다 62.8% 증가한 988억9000만 달러(142조8268억원)였다.\n수출 전 기간 중 역대 2위 실적이면서, 14개월 연속 해당 월 역대 최대치를 경신한 것이다.\n조업일수를 고려한 일평균 수출은 69.6% 증가한 41억2000만 달러(5조9505억원)로 3개월 연속 40억 달러를 넘어섰다.\n수출을 견인한 건 반도체다. 지난달 반도체 수출은 178.8% 증가한 410억1000만 달러(59조2307억원)였다.\n반도체 외 품목도 26%로 높은 증가율을 보였다.\n지난달 수입은 26.5% 증가한 685억6000만 달러(99조212억원)였다.\n이에 우리나라 무역수지는 303억2000만 달러(43조7911억원) 흑자를 기록했다.\n지난달까지 누적 무역흑자 규모는 1680억 달러(242조6424억원)로 지난해 동기간 대비 1341억 달러 증가했다.\nhttps://www.newsis.com/view/NISX20260801_0003732422",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T00:12:35+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19459",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19459",
+      "text": "다음주 일정\n3일: 미국 7월 ISM 제조업 PMI,\n팔란티어 실적(장후)\n4일: 미국 7월 구인이직보고서, 6월 무역수지, 화이자, CAT, 맥도날드, HUT, 머크 실적(장전),\nAMD, 스페이스X,\nANET, ALAB, ZETA 실적(장후)\n5일: 미국 7월 ADP 민간고용, 7월 ISM 서비스업 PMI,\n노보 노디스크, 일라이 릴리\n, 쇼피파이, 디즈니, 우버, 써클, U 실적(장전),\n샌디스크, 웨스턴디지털\n, 앱러빈, 엘프 뷰티, MELI, AXON, ALB 실적(장후)\n6일: DDOG, UUUU, HIMX, QBTS 실적(장전),\nAAOI,\nRGTI, RCAT, MP, ABNB, DKNG, TTD 실적(장후)\n7일:\n미국 7월 고용보고서,\nOKLO, VST, UAA 실적(장전)",
+      "images": [
+        "https://cdn5.telesco.pe/file/qT7RyM_vpuV_fwmzU3fqZUI7ttnc1n0aicdYPBTwM5mpdLAuTp6pALbZVVtL4foVxc1pc85iCUdk_H5KDbLzW4AydcTLwVj8ZGqdWXTTUcH-vKfeVQXKgFNmcoNbZP4h8i7hqPZ3m5SzL3q9Anuu_cBNeyiorQVnFX-FhEPq0_wiR9_3y028Di8QZ7wrebYC9Azf1sIAVEojTM3G_o6XOxVhw6T1R3cLJLRROcYaeOPYxJtKMpCb7RbbT3XBURpWJn906KynR9tZcHYYSmx7mqKaHoYWzL8c-GWWK9-TrejuJtXEFzUTxywUQAQy8tEwpIXPT6ZJa4AYSGDSBTl7og.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-01T00:09:28+00:00"
+    },
     {
       "id": "tg:bornlupin/19458",
       "source": "telegram",
@@ -35,7 +188,7 @@
       "author_name": "[하나 Global ETF] 박승진",
       "author_url": "https://t.me/globaletfi",
       "url": "https://t.me/globaletfi/20875",
-      "text": "» 케빈워시 연준 의장은 Core PCE가 관세, 에너지, 보험료 등 일시적인 가격 충격의 영향을 크게 받는 만큼, 통화정책 판단 기준으로는 한계가 있다고 지적하며 극단치를 제거한 Trimmed Mean PCE와 Multivariate Core Trend(MCT) PCE 등의 물가 지표 활용 비중을 높여야 한다고 주장\n» 최근 Core PCE 12개월 상승률은 3%를 상회하고 있지만, Dallas 연은의 Trimmed Mean PCE 12개월 상승률은 약 2.2% 수준까지 하락. 월간 연율 기준 Trimmed Mean도 1%대까지 낮아져 기조적인 물가 압력이 빠르게 완화되는 모습\n» 뉴욕 연은의 Multivariate Core Trend(MCT) PCE 역시 2.5% 수준으로 하락하며 Core PCE보다 낮은 수준을 유지. 다양한 경제지표를 반영한 결과, 인플레이션 압력이 완화되고 있음을 시사\n» Core PCE는 관세 등 일회성 요인의 영향으로 높게 나타나고 있지만, 극단적인 가격 변동을 제거하거나 다양한 거시지표를 반영한 기조 물가는 연준의 2% 목표를 향해 점진적으로 둔화되고 있는 상황\n» 워시 의장은 Core PCE만을 근거로 정책을 결정할 경우 불필요한 긴축이라는 정책 오류를 초래할 수 있다고 주장\n» 의사결정까지는 시간이 필요하겠으나, 연준이 향후 Trimmed Mean PCE와 MCT 등 기조 물가지표를 정책 판단에 더 적극 반영할 경우, 추가 금리 인상 가능성은 낮아지고 금리 인하 기대가 재개될 가능성. 현실화된다면 미국 장기 국채와 AI 중심의 성장주에 우호적인 요인",
+      "text": "» 케빈워시 연준 의장은 Core PCE가 관세, 에너지, 보험료 등 일시적인 가격 충격의 영향을 크게 받는 만큼, 통화정책 판단 기준으로는 한계가 있다고 지적하며 극단치를 제거한 Trimmed Mean PCE와 Multivariate Core Trend(MCT) PCE 등의 물가 지표 활용 비중을 높여야 한다고 주장\n» 최근 Core PCE 12개월 상승률은 3%를 상회하고 있지만, Dallas 연은의 Trimmed Mean PCE 12개월 상승률은 약 2.2% 수준까지 하락. 월간 연율 기준 Trimmed Mean도 1%대까지 낮아져 기조적인 물가 압력이 빠르게 완화되는 모습\n» 뉴욕 연은의 Multivariate Core Trend(MCT) PCE 역시 2.5% 수준으로 하락하며 Core PCE보다 낮은 수준을 유지. 다양한 경제지표를 반영한 결과, 인플레이션 압력이 완화되고 있음을 시사\n» Core PCE는 관세 등 일회성 요인의 영향으로 높게 나타나고 있지만, 극단적인 가격 변동을 제거하거나 다양한 거시지표를 반영한 기조 물가는 연준의 2% 목표를 향해 점진적으로 둔화되고 있는 상황\n» 워시 의장은 Core PCE만을 근거로 정책을 결정할 경우 불필요한 긴축이라는 정책 오류를 초래할 수 있다고 강조\n» 의사결정까지는 시간이 필요하겠으나, 연준이 향후 Trimmed Mean PCE와 MCT 등 기조 물가지표를 정책 판단에 더 적극 반영할 경우, 추가 금리 인상 가능성은 낮아지고 금리 인하 기대가 재개될 가능성. 현실화된다면 미국 장기 국채와 AI 중심의 성장주에 우호적인 요인",
       "images": [
         "https://cdn5.telesco.pe/file/UAxP-65snQUrF0FkXOa1aAPUZuvLJ04vJgyd9r8DsrMDvWMf4QjPbfdqt3fY8yZgsHF9lxTVqrtzL-wdDBy4dHEbVuKNai6AjikaRJ5KiOeXp447NEcFcaPdLw0vyjFiZTIPYYOA7brQU_PWxmOTdZtnH9K8_ftClmzbO8VbccAyDtOgcnlZoqrSUNjFlR_6mDqSAe9k-dvNnoHVAdYr2itJO0xsIOzBjPuN8mFtVuweP8N6i-eR5UiDQKY0BGCudNdPmuqeaJDz3wYOuoVvEtgnrfVVZPfnThQphRa95_Mjd0sVCHHxa5w_dIoejj8cyzAIaKIeRuWYUgmSqxy-mg.jpg",
         "https://cdn5.telesco.pe/file/Rj_s70Y0_7DFPm9OvCxleD31FbP3u3edBKs5SXhFFql9S15mwyre00EeqkcflAzLPmD-NqXrfkGwLYGCaV38yGknDIaNk7Tr1CHMvaOIxY6GjjYIsgmpKcWYJgheNWAJ8AgPg_pjyPw7lfuGgIyWG0U38L18rMyhigXbJM3Lx8Zj7fqKZ_-VkX9fxlvT5JhlbmddSKCB8zhn1RoEa32JDuAUSODPb9K_1eyj31c3RpLiTGVijxY4bqABtnt7S0gEPjfdCrMIzcs4_r3po0oO0QMNpv800-kOm5bhE9YXHM0xKj9UiHqVqyAHqTwPh7uaxecMGfDu4XKyh6h8Zz_Q0w.jpg"
@@ -469,18 +622,6 @@
       "published_at": "2026-07-31T12:43:44+00:00"
     },
     {
-      "id": "tg:EMchina/32007",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32007",
-      "text": "[한투증권 중국/신흥국 정정영]  • 중국이 낮아지면 사는 것   >> 중국 인민은행은 20개월 연속 금 보유를 늘려가고 있습니다. 특히 최근 4개월동안은 매월 증가폭이 확대되는 흐름입니다. 역사적으로 가격 조정 국면에서 어느때보다 적극적으로 사들이는 패턴을 보여왔습니다. 올해 신규 확보한 금 규모는 2025년 연간 규모의 1.5배에 달합니다. 금 뿐만 아닙니다. 원유도 유가 조정 구간에서 수입량이 늘어나는 사이클이 여전히 지속되고 있습니다  =====…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T12:38:19+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/24238",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -507,30 +648,6 @@
       "published_at": "2026-07-31T12:30:31+00:00"
     },
     {
-      "id": "tg:EMchina/32006",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32006",
-      "text": "딥시크, 대규모 AI데이터센터 투자 계획  https://n.news.naver.com/article/018/0006340787?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T11:52:27+00:00"
-    },
-    {
-      "id": "tg:EMchina/32005",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32005",
-      "text": "중국시장감독총국, 태양광 산업 가격 준법 지도 활동 전개 예정  • 업계 관계자에 따르면, 7/31 중국국가시장감독관리총국은 태양광 산업 가격 준법 지도 활동 실시 예정. 참가 기관은 중국태양광산업협회와 관련 태양광 기업  • 이번 회의는 태양광 산업 원가계산 강화 지도 및 <태양광 산업 원가계산 모델 통칙> 이행, 비이성적인 경쟁 억제 위함  知情人士：市场监管总局将开展光伏行业价格合规指导活动 从业内人士处获悉，国家市场监督管理总局价格监督检查和反不正当竞争局定…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T11:46:03+00:00"
-    },
-    {
       "id": "x:ylecun:2083149395147554929",
       "source": "x",
       "author": "ylecun",
@@ -539,7 +656,7 @@
       "url": "https://x.com/ylecun/status/2083149395147554929",
       "text": "RT by @ylecun: It really annoys me how they report this stuff like they’ve gone on safari to do scientific observation Claude is a computer program that they created These are simply their own security errors being reported as if they are scientific achievements It’s bad enough that they don’t seem to think they need to be responsible for their own mistakes But the worst part of it is they try to use their own mistakes as an excuse to control the behavior of other people There is an amazing arrogance to the whole thing, like they are completely above reproach and cannot possibly be wrong about anything",
       "images": [
-        "https://pbs.twimg.com/card_img/2080844581822750720/V-ZPedEe?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2080844581822750720/fGJXBd34?format=jpg&name=800x419"
       ],
       "summary_ko": "RT by @yleun: 그들이 과학적 관찰을 하러 사파리에 간 것처럼 이 내용을 보고하는 것이 정말 짜증납니다 Claude는 그들이 만든 컴퓨터 프로그램입니다 이것은 단순히 과학적 성과인 것처럼 보고되는 그들 자신의 보안 오류입니다 그들이 자신의 실수에 대해 책임을 질 필요가 없다고 생각할 만큼 충분히 나쁘지만 가장 나쁜 부분은 그들이 자신의 실수를 다른 사람들의 행동을 통제하기 위한 핑계로 사용하려고 한다는 것입니다. 모든 것에 놀라운 오만함이 있습니다. 그들은 완전히 비난받을 일이 없고 어떤 것에도 틀릴 수 없는 것처럼",
       "published_at": "2026-07-31T11:14:53+00:00"
@@ -583,42 +700,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-31T10:08:05+00:00"
-    },
-    {
-      "id": "tg:EMchina/32004",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32004",
-      "text": "미국 증시 빅테크 실적 시즌이 남긴 의문: '자본지출'과 'AI 매출' 모두 성장. 누가 스토리를 이끌어갈 것인가\n• 4대 빅테크 2분기 총 자본지출은 1,700억달러로 전년동기대비 78% 급증\n• 돈을 썼는데 얼마를 벌었나? AWS AI 연간 매출 250억달러 돌파. Azure는 370억달러로 클라우드 사업이 가장 확실한 증거 되는 중\n• 그러나 4사 잉여형금흐름은 10년래 최저 수준인 70억달러로 감소. 알파벳은 사상 처음으로 마이너스 전환\n• 이번 자본지출과 AI 매출의 생존을 건 질주에서는 답은 결정되지 않음\n美股科技巨头财报季留下的悬念：“资本开支”与“AI收入”都在增长，谁会赢得叙事？\n科技四巨头二季度合计资本开支达1700亿美元，同比暴增78%。钱花出去了，赚回来多少？AWS AI年化收入突破250亿、Azure达370亿，云业务正成为最硬的变现证明；但四家合并自由现金流跌至十年低点约70亿美元，Google史上首现单季负值。这场资本开支与AI收入的生死赛跑，答案悬而未决。\nhttps://wallstreetcn.com/articles/3778408#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T09:26:22+00:00"
-    },
-    {
-      "id": "tg:EMchina/32003",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32003",
-      "text": "레이 달리오의 중대 판단: 교과서식 AI 자산 버블, 80년에 한번인 ‘대형 사이클' 이미 막바지\n• 현재 시장은 \"교과서적인 AI 자산 버블\". 밸류에이션 급등이 레버리지 자금 유입 촉발. 금리 급등 혹은 부채 압박이 야기할 매도 사이클이 버블을 터뜨릴 것\n• 인류는 1945년에 시작된 ‘80년 대형 사이클’의 침체 말기에 위치. 막대한 부채/재정적자, 빈부격차, 미국의 지정학적 통제력의 쇠퇴 공존\n达利欧重大判断：教科书式AI资产泡沫，80年一次的“大周期”已进入尾声\n达利欧警告，当前市场正经历“教科书式的AI资产泡沫”，其逻辑在于纸面估值暴涨引发杠杆资金入局，一旦利率飙升或债务承压，抛售潮将刺破泡沫。同时，人类正处于始于1945年的“80年大周期”的衰退末端，巨额债务赤字、贫富悬殊与美国地缘掌控力的衰退正在共振。\nhttps://wallstreetcn.com/articles/3778421#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T09:17:55+00:00"
-    },
-    {
-      "id": "tg:EMchina/32002",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32002",
-      "text": "바이두 로보택시 해외확장 지속  https://cnevpost.com/2026/07/28/baidu-apollo-go-robotaxi-road-tests-london/",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T09:05:03+00:00"
     },
     {
       "id": "tg:bornlupin/19456",
@@ -669,20 +750,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-31T08:15:46+00:00"
-    },
-    {
-      "id": "tg:EMchina/32001",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32001",
-      "text": "유가 하락",
-      "images": [
-        "https://cdn5.telesco.pe/file/QBCuDJzUtuRi5bBLYV3KyYmCZffr3YxWSOYDv5eg1dw5SzuevNUIX9gvUVuszShiNkoBHJNYSgNpEdqKhgMvY6UGu0BOJDtpGe13bUsNBUaRR2rlb2yG0xWEHa0tY6waUmVsY_sGO2rxgVYJ0FJ4V8hOdCZzineERiH0Fckl6TxcvL1qOHr1VZxo5kckcws2c0ZLfMqNM2DHPaz0e7UygaGksdR4SER44Z5JkBEZ2tl_vw_ig2pOe51jEFGgU5cfxMlf3mQCADO2UFYE-VVzNTyJYTEXyFw1MiGp32uDnVCBdOypHfAvmY_QMoVcRhLkLMIseBdSDABQKROl7MrocQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-31T08:10:22+00:00"
     },
     {
       "id": "tg:HI_GS/6814",
@@ -763,20 +830,6 @@
       "published_at": "2026-07-31T06:52:39+00:00"
     },
     {
-      "id": "tg:bornlupin/19450",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19450",
-      "text": "키옥시아 2Q26\n1Q FY27\n= USD/JPY : 160 (Prev. 155)\n= 매출 ¥1.767B (est. ¥1.840B)\n= OPM 75.0% (est. 74.3%)\n= EPS ¥1540 (est. ¥1770)\n2Q FY27 Guidance\n= 매출 ¥2.390B (est. ¥2.464B)\n= OPM 79.5% (est. 78.7%)\n= EPS ¥2167 (est. ¥2550)\nAfter +8%",
-      "images": [
-        "https://cdn5.telesco.pe/file/e5lhjS0zfNy_na1zSXbF1PwrVkj82cn9jRk4tMWOGuu-WANo23_PKcd6dI9Qk4W_06NGiiGHl565GuExWyXaJ4ejJ7fNIj2H1KMjLTHy0x-ieTnnxxY818eymFS6B-9aATGTDdsIDuQjN9I-gLY8jcoyPh0e8aHirJOumrlhflqicaCkQicMNXNldIc8lNLTwbaWLFbUSuOCXABoOBSN2bqmYSOdV0QngCcdjECPXNrHWLWLtY6whBCEN9LiwFh0MEd_90mCJVbfUhbukR_GhKCXQmUF636e0QkfgvZ3gVK78skIapHyTb3kOm3UNR3mwESUgmKThGBOAT9vuXUsSQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-31T06:49:02+00:00"
-    },
-    {
       "id": "x:ylecun:2083080230655430673",
       "source": "x",
       "author": "ylecun",
@@ -815,20 +868,6 @@
       "published_at": "2026-07-31T05:16:40+00:00"
     },
     {
-      "id": "tg:bornlupin/19449",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19449",
-      "text": "SK하이닉스 상한가!!!",
-      "images": [
-        "https://cdn5.telesco.pe/file/mYiU2VCyFudmHxBsy2nAS8PBKtShDTGnTHrwICh6Bl745GKbCysNAyGDBs5h13dYJK1_2FCzK1dfnpCz0Rdv2FvLkFZiG5XpOiH7_vQpyRXcjgVwqapAsgIEi_I3e2RT2_OxOy5vVnzcV9b3t1neejOEyM_DK0EwSwPXVqeNCg_-tVh3-8S7ICpq3NoToDbIz1nLT54usJcyOrem8xJaZCYFUus-EyGvgI3-2-6xlNWbMsnOdlLJrFbPguJkKglbtN12T9C6bXUDJH5aOfKa5m75g3_mOKQXTvuaBF5S8qPc29oCaT0PiaxuakknqiqIYqX0fwrcsWvwv5ZENIRUpQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-31T05:11:17+00:00"
-    },
-    {
       "id": "tg:globaletfi/20862",
       "source": "telegram",
       "author": "globaletfi",
@@ -855,18 +894,6 @@
       "published_at": "2026-07-31T04:55:49+00:00"
     },
     {
-      "id": "tg:bornlupin/19448",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19448",
-      "text": "한국 정부, 20조 원 규모 AI·첨단 인프라 국부펀드 조성\n한국 정부가 한국투자공사(KIC)에 20조 원(약 139억 달러) 규모의 특별 계정을 신설하여 국내 AI, 데이터센터, 인프라 분야에 집중 투자하겠다는 계획을 발표\n했습니다.\n주요 핵심 내용\n펀드 규모\n: 최소\n20조 원\n(정책은행 등 공공기관 출자 등을 통해 마련)\n투자 대상\n:\n인공지능(AI), 데이터센터, 첨단 인프라 등 전략 산업\n역대 최초 변화\n: 기존 해외 자산 전용이었던 한국투자공사(KIC)의 운용 범위를\n국내 자산까지 확장\n운용 독립성\n:\n기존 외환보유액 포트폴리오와 엄격히 분리되어 독립적인 투자 결정을 내림\n추진 배경 및 목적\n증시 유동성 불안 해소\n:\n주요 반도체 기업에 대한 투자 심리 약화로 7월 코스피가 34% 급락(역대 최악의 월간 하락률)함에 따라 시장 안정화 조치 필요성 증대.\n해외 자본 유인 (앵커 투자자 역할)\n: 한국 AI 생태계에 관심 있는 해외 국부펀드 및 자산운용사의 자금을 끌어들이기 위해 정부가 마중물(Anchor Investor) 역할 수행.\n경제 안보 강화\n: 미래 세대를 위한 수익 창출 및 국가 경제 안보, 외환·자산 시장의 완충 장치(Buffer) 역할 도모.\n향후 일정\n2026년 8월\n: 한국투자공사법 개정안 국회 제출\n2027년\n: 신설 계정 및 펀드 공식 운용 개시\nhttps://www.bloomberg.com/news/articles/2026-07-30/korea-plans-14-billion-for-wealth-fund-s-ai-bets-after-rout",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T04:48:11+00:00"
-    },
-    {
       "id": "tg:enc210406/4272",
       "source": "telegram",
       "author": "enc210406",
@@ -875,24 +902,10 @@
       "url": "https://t.me/enc210406/4272",
       "text": "[현대건설 2Q26 잠정 실적 공시]\n컨센서스 대비\n@ 매출액: 부합\n@ 영업이익: 22.4% 상회",
       "images": [
-        "https://cdn5.telesco.pe/file/dhStohGtFuF-lFarMzCTmJEaGt6qosiss8QvTBhQyqy3igpz8Od4a0Rdupf6AeOSGyobQCAP-zh0zCBU7qJBZPU9OyAXRPKO73k16T4HRlKFaklX8um7RZcYUKs5i6wa1KnDDPtF7acsIwrqwSC-uHrc2QGdAVHFVcOjJE6vpR3ud-Zf-NqSeIRBOiHx-AZ3N3x-16LaUO8VzleayN1qk6DWuRxe5UNg4t84vtWvIYCJUu1GmwQDsXkNb5OLQOs9KIY8eXaHBvfGendFiACFHXjHLVuOq9a92HeZn_IixY9BAToAOYCvAZ9immxO-ybjezDI6AshQSQffo6H4n75gQ.jpg"
+        "https://cdn5.telesco.pe/file/TFibUdLL8rVDywTgp9NUzYN1SIYFgmmADouRRwDvOdk8IVhHwlVVgqFH0yzmzOfmy6Kjpwzkad9vKHrcgbvC-XQlOClYOhZfyX7OCmaBBY4z2WoR2V3c_NOTy95RIB-_NpGcI90tUFdvQjip_53buxGcOuGBlRN8ju3V2kSmic9vv4NWKTIjCP9M3srDhWR_LPVT5AXwUXdHTm2LrG8E10bq68h5G2riXi6nEvOjpxbdcSJczbZz_xQm7GIL05QwjdVqWlWr0tCaMSOhW4uA_o-R4R73r1Zh1MLdRKY2uE1Bi9iDqYkAibSNkXJrujmXXAAXpPHzqUVp3BKwOt3k9g.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-31T04:27:28+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19447",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19447",
-      "text": "키옥시아  미국 OTC는 +31.8% 였음",
-      "images": [
-        "https://cdn5.telesco.pe/file/SAphTlEkIeZx37NU-Fp5hMmTcq2g-lI48EbzrdLlS3vCr8eq6z5CzSmjWufYhc6WcYZN8mX73J4Lxm_SZ8_NtRuPhP-YHZphArRuzR7WIFnTZcgtT02t_sPQNCCQZTW5f4BrD8oLpaiBIt_tqZa1ki-GCx9TGjmaAuVpWtAgw0NBzST0WguhoAywjI2EI2OXxhdHIxRpVE8QbObv612RwqO0ZKJXtzrDR3AyGpfCYTPy5mzozdIzjI4KzovgxBvkLIu04ji3d9cpi423xlnhGnoacP4J8KHx_54FJQ_KE4u1ZRhGiKV8Vg9cm3rZQwcGfF3fpwcd3kjniWRp3ZcHKQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-31T03:38:12+00:00"
     },
     {
       "id": "x:ylecun:2082992928977240372",
@@ -904,7 +917,7 @@
       "text": "RT by @ylecun: Again the rhetoric is trying to convince us that what happened was some new thing and worse that models are people.",
       "images": [
         "https://pbs.twimg.com/media/HOhHB5WWUAErXl3.jpg",
-        "https://pbs.twimg.com/card_img/2080844581822750720/V-ZPedEe?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2080844581822750720/fGJXBd34?format=jpg&name=800x419"
       ],
       "summary_ko": "RT by @yleun: 이번에도 수사법은 일어난 일이 새로운 일이고 더 나쁜 것은 모델이 사람이라는 점을 우리에게 확신시키려고 합니다.",
       "published_at": "2026-07-31T00:53:09+00:00"
@@ -918,7 +931,7 @@
       "url": "https://t.me/enc210406/4271",
       "text": "한화오션 군함 수주 공시\n@ 함종: 구축함(KDDX)\n@ 수량: 1척(선도함 상세설계, 건조)\n@ 발주: 방위사업청\n@ 선가: 8,380억원",
       "images": [
-        "https://cdn5.telesco.pe/file/cE-_vwJOuAoYPIZpsUHl2xoXO_G5GVbFP1LE8E67gvcrkcJ_BBFu55etjKZcxghToX05bPmCJ55MjMcU5p-1Vpr5AutJLOlBXjzSHoktLYJJsp8bQcV_pQyQKbGq9xgPlnqnRmUFachSVifELhJgNj-kbs1TFQyMMj-P0eUQkXPNqT6G3nSRMakY4GJUat2LmresEWce2AlZ4q4x56I6tDd_tsPzC2GmiZejXTNMuHC4p4tz0YP5IZ0U51OEp6fIRMt3ytynURuVUyFsjB8XFdSVOLYZMN2NJUIS_cMifdu0pZN7aOq0odp6O1S1jJGcGLRM36XvsvYpiJ9eBZvjtQ.jpg"
+        "https://cdn5.telesco.pe/file/G6dPRL3jo_HUZ0qeUdKhdPXcvlHwScTQVKolaJzmeVY_OzylfRRjhVgl2_OTQW_n8x44BFQ5HiXD7AgUrlmSKVnKRlM_tvnhsR99SOC4Js_t6RG3y4XKzRVKqSLbHrMAw5gj4FDBwXrHwfavo8upj3GGSeKB8Az8-xHpO6H8kiaI0DvMRY1tg76BTkfYnEvbN7Qx2CrRqJkUKGU0y9biXDp9jSc7ur-zl4GT_whS9XwkmyFScCHBvk3t-q67inet34VI0zqICE6PX1tbfvRkcwbNQLAU5vplBN-U9x_BRW4D2CkowaTq42YgRnSt5isfpbh2wl3JyOEafmsRzyflcg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-31T00:44:57+00:00"
@@ -968,7 +981,7 @@
       "url": "https://x.com/AnthropicAI/status/2082965101083320543",
       "text": "In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Our post describes what happened, how it happened, and what we’re changing. We encourage other AI developers to perform similar reviews. We conducted this review together with @Irregular, one of our evaluation partners, and thank them for the joint investigation and their collaboration on this post. This type of collaboration is increasingly critical to safe, rigorous evaluation of models, and we look forward to continuing to work together on security. https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
       "images": [
-        "https://pbs.twimg.com/card_img/2080844581822750720/V-ZPedEe?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2080844581822750720/fGJXBd34?format=jpg&name=800x419"
       ],
       "summary_ko": "사이버 보안 평가를 검토한 결과, Claude 모델이 제3자 평가 환경 내에서 또는 제3자 평가 환경과 상호 작용하는 동안 인터넷에 접속한 후 서로 다른 세 조직의 실제 시스템에 무단으로 액세스한 사건 세 건을 발견했습니다. 우리 게시물에서는 무슨 일이 일어났는지, 어떻게 일어났는지, 그리고 우리가 무엇을 바꾸고 있는지 설명합니다. 우리는 다른 AI 개발자도 유사한 검토를 수행하도록 권장합니다. 이번 리뷰는 평가 파트너 중 하나인 @Irregular와 함께 진행되었으며, 본 게시물에 대한 공동 조사와 협력에 감사드립니다. 이러한 유형의 협업은 모델을 안전하고 엄격하게 평가하는 데 점점 더 중요해지고 있으며 보안을 위해 계속해서 협력할 수 있기를 기대합니다. https://www.anthropic.com/news/investigating-incidents-cybers",
       "published_at": "2026-07-30T23:02:34+00:00"
@@ -1322,18 +1335,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-30T07:52:49+00:00"
-    },
-    {
-      "id": "tg:enc210406/4264",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4264",
-      "text": "[DL이앤씨 2Q26 실적발표_요약]\n1. 실적 요약\n(1) 수주\n- 신규 수주: 5조 2,454억원(+11.7% YoY)\n- 수익성 검증 중심의 선별 수주 기조 속 도시정비, 데이터센터, 청정에너지 등 포트폴리오 다각화 영향\n(2) 실적\n- 매출액: 3조 5,282억원(-7.1% YoY)\n- 전반적인 착공 물량 감소 영향\n- 영업이익: 3,168억원(+52.9% YoY)\n- 주택 부문의 지속적인 원가 개선, 도급 증액 반영, 전사적 비용 효율화 노력 결실\n- 세전이익: 3,846억원(+472.2% YoY)\n- 투자 및 자산 평가 이익 등 비정상적 일회성 요인 반영\n- 당기순이익: 2,899억원(+652.2% YoY)\n- 투자 및 자산 평가 이익 등 비정상적 일회성 요인 반영\n(3) 재무상태\n- 자산: 10조 2,521억원\n- 부채: 4조 7,529억원\n- 자본: 5조 4,992억원\n- 부채비율: 86.4%\n- 급변하는 시장 환경 및 경기 변동선 선제 대응으로 업계 최고 수준의 재무 건전성 유지\n- 현금 및 현금성 자산: 2조 1,334억원\n- 총차입금: 9,386억원\n- 현금성 자산이 차입금을 크게 상회하는 안정적 유동성 확보\n2. 신규 수주 및 수주 잔고(누적)\n(1) 연결\n- 신규 수주: 5조 2,447억원(+110.7% YoY)\n- DL이앤씨 및 DL건설 양사 모두 수익성 중심 선별 수주 속 괄목할 실적 개선\n- 수주 잔고: 28조 8,545억원(+2.4% vs 2025년 말)\n(2) 별도 + 해외 법인\n- 신규 수주: 4조 7,445억원(+110.6% YoY)\n- 주택: 3조 6,284억원\n- 도시정비 2조 6,839억원, 일반도급 9,445억원 / 연간 목표 5.7조, 시공권 포함 10조 목표\n- 토목: 4,027억원\n- 기술형 사업지 수의계약 진행 및 교량·항만 해외 수주 가시화로 연간 목표 1.8조 기확보 평가\n- 플랜트: 7,134억원\n- 1Q 엑스에너지(X-Energy)와 국내 최초 SMR 표준화 설계 계약 체결\n- 2Q 5천억 규모 제주 청정 LNG 복합화력 발전소 수주\n(3) DL건설\n- 신규 수주: 5,002억원(+111.9% YoY)\n- 건축: 2,852억원\n- 공공 부문 및 AI·데이터센터 등 분양 리스크가 제거된 고수익 사업 중심 선별 수주\n- 하반기 데이터센터 2개와 복수의 민참사업 입찰 준비 중. 7월 0.4조 규모 민참 사업 수주 완료\n- 토목: 2,150억원\n3. 매출 및 원가율 현황(누적)\n(1) 매출\n연결 매출: 3조 5,282억원(-7.1% YoY)\n별도 + 해외 법인: 2조 7,875억원(-4.0% YoY)\n- 주택: 1조 3,207억원(+7.1% YoY)\n- 2024~2025년 평균 약 3조 원 규모 착공 물량 효과로 외형 턴어라운드 및 성장세 유지\n- 토목: 3,492억원(-8.7% YoY)\n- GTX-A 등 대형 현장 순차 준공과 신규 착공 현장 매출 본격화 사이의 일시적 시차 영향\n- 플랜트: 1조 1,186억원(-13.0% YoY)\n- 주요 신규 프로젝트의 하반기 수주 이연 및 전년도 공정 호조에 따른 기저효과 영향\nDL건설: 7,466억원(-17.4% YoY)\n- 선별 수주 기조에 따른 착공 시점 조정 등 내실 강화 중심 사업 재편(연초 가이드 1.3조 대비 57% 달성)\n- 건축: 6,297억원\n- 토목: 1,169억원\n(2) 원가율\n연결 원가율: 83.7%(-4.5%p YoY)\n별도 + 해외 법인: 83.9%(-4.0%p YoY)\n- 주택: 78.1%(-10.8%p YoY)\n- 고수익 우량 사업 매출 인식 본격화\n- 토목: 89.8%\n- 플랜트: 88.9%(+2.5%p YoY)\n- 전년 4분기 도급 협상 원가 선제 반영 영향\n- 2분기 연속 하향 안정화 추세이며, 도급 증액 타결 및 고마진 신규 수주 반영 시 회복 전망\nDL건설: 82.9%(-6.5%p YoY)\n- 건축: 80.3%(-5.9%p YoY)\n- 과거 고원가율 현장 비중 축소, 준공 현장 도급 증액 반영, 도시정비 사업비 절감 효과\n- 토목: 96.7%(-10.2%p YoY)\n- 빠르게 정상화 진행 중이며 신규 사업지 매출화로 추가 개선 예정\n4. 영업이익(누적)\n연결 영업이익: 3,169억원(+52.9% YoY)\n- 수익성 중심의 질적 성장 기조가 재무 성과로 가시화\n별도 + 해외 법인: 2,416억원(+48.6% YoY)\nDL건설: 753억원(+68.8% YoY)\n- 민간 PF 사업 부실 제로화 및 데이터센터/민참 수주 진행에 따라 상반기 만에 지난해 연간 영업이익 초과 달성",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-30T07:52:41+00:00"
     },
     {
       "id": "tg:HI_GS/6809",
