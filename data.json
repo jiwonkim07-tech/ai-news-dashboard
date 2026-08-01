@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-08-01T16:59:08+00:00",
+  "updated_at": "2026-08-01T18:05:49+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 5
+    "new_this_run": 3
   },
   "briefing": {
     "headline": "미·이란 대치 속 호르무즈 입구서 유조선 불길",
     "bullets": [
-      "BYD, 7월 41.9만 대 자동차 판매",
-      "CXMT LPDDR6, 관건적 돌파",
       "도이체방크, 아마존 목표가 325달러로 상향",
-      "키옥시아 1분기 영업이익 1.27조엔",
-      "립모터 7월 전기차 인도량 10.1만대"
+      "BYD, 7월 41.9만 대 자동차 판매",
+      "CXMT, LPDDR6 샘플링 돌입",
+      "키옥시아, 1분기 실적ショック",
+      "미중 첨단기술 분쟁 지속"
     ],
-    "generated_at": "2026-08-01T16:59:08+00:00",
+    "generated_at": "2026-08-01T18:05:49+00:00",
     "model": "groq"
   },
   "items": [
@@ -647,6 +647,20 @@
       "published_at": "2026-07-31T19:06:28+00:00"
     },
     {
+      "id": "x:ylecun:2083268008055615869",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2083268008055615869",
+      "text": "RT by @ylecun: Reactions to this tweet reveal the lack of understanding of sources of American economic dynamism among the political right. Saying “we’ve always had the best American workers before” ignores how many of our top firms came from immigrants. That’s always been our advantage.",
+      "images": [
+        "https://pbs.twimg.com/media/HOfupngWUAASOo0.jpg"
+      ],
+      "summary_ko": "RT by @yleun: 이 트윗에 대한 반응은 정치적 우파 사이에서 미국 경제 역동성의 원천에 대한 이해가 부족함을 드러냅니다. “우리는 이전에도 항상 최고의 미국 근로자를 고용해 왔습니다”라고 말하는 것은 우리의 최고 기업 중 얼마나 많은 수가 이민자 출신인지를 무시하는 것입니다. 그것은 항상 우리의 장점이었습니다.",
+      "published_at": "2026-07-31T19:06:13+00:00"
+    },
+    {
       "id": "x:ylecun:2083253910223921483",
       "source": "x",
       "author": "ylecun",
@@ -1253,20 +1267,6 @@
       "published_at": "2026-07-30T17:17:05+00:00"
     },
     {
-      "id": "x:ylecun:2082877458924065269",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2082877458924065269",
-      "text": "RT by @ylecun: Can AI agents conduct open-ended AI research? Most evaluations of agents conducting AI research focus on narrow, verifiable tasks. But AI research is often open ended. Researchers pick hypotheses, decide what evidence is appropriate, and recognize a failing approach. We gave agents research questions from two unpublished papers, six days, and thousands of dollars of API credits and compute. The authors of the original papers then reviewed the AI-generated papers. They unambiguously rejected agents' outputs. https://arxiv.org/pdf/2607.27191 We call these \"shadow evaluations\", since the agents are shadowing the original research effort by the authors. Agents were fluent at most *engineering* tasks They conducted serious literature reviews, debugged GPU environments, ran hundreds of experiments, and turned in camera-ready LaTeX without human help. We also found no evidence of reward hacking. If anything, we found the opposite: the agents started with marketable claims and walked them back to negative results as the evidence came in. Neither agent output was close to the bar of a top conference paper Both papers suffered from similar failures: poor judgment about the bar for an AI paper submitted to a top conference, the lack of creative problem solving and ineffective backtracking, poor awareness of resources, and instruction drift. 1) Lack of judgment about the bar for a top conference. The agents had a poor model of the bar for an AI paper submitted to a top conference. We allowed agents to self review their papers. Despite the poor paper quality, their reviews predominantly labeled the papers \"weak rejects\". 2) Lack of creative problem-solving to address feedback. When they received negative reviews, the agents typically narrowed their hypothesis and claims, rather than working out creative ways to address these concerns. 3) Ineffective backtracking. The agents dropped their most ambitious hypotheses within the first fifteen hours of carrying out the experiment and never changed course afterwards. 4) Poor resource awareness. Both runs ended with over half the API budget unspent. One agent declared itself done seven hours before the deadline, right after its own self-reviewer returned another reject. 5) Instruction drift. They did not follow explicit instructions on minimum exploration time, incorporating feedback for reviews, and on paper length (the outputs exceeded the page limits in both cases). This research design has many limitations Limitations include the small sample size, non-blind reviews, and the reviewers knowing that the work was AI-generated. We also couldn't test Anthropic's strongest model, because Fable 5 is deliberately limited on frontier AI research tasks, so ended up using OpenClaw with Opus 4.8 (extra-high) for our main experiments and Codex with Sol 5.6 (ultra) for a robustness check. But we think the research design is still helpful in assessing AI agents' ability to conduct research, and it is complementary to evaluations on verifiable tasks, as well as blinded reviews of AI outputs. Our results show early evidence that even though agents are proficient on verifiable research tasks, they do not make genuine progress on open-ended ones. It is worth understanding if this is a fundamental limit, or if better models, scaffolds, and more compute could help close it. As the evidence for the gap between open-ended and verifiable tasks firms up, it is also worth understanding how much progress in AI depends on open-ended research rather than hill-climbing on well-specified objectives. In follow-up studies, we are expanding the set of non-public papers we evaluate. If you are an AI researcher with unpublished papers, we would love to collaborate with you on our next shadow evaluation. Expression of interest: https://forms.gle/CEcA4JmYhDWXQGot8 Conducting shadow evaluations involves a lot of researcher degrees of freedom. In many places, our coauthors disagreed with our interpretation of the findings, and we have surfaced those disagreements in the paper. (This is one reason why having a group of coauthors with different priors is important for open-ended research.) We also release the agent logs, one of the AI-generated papers (the other original paper is still not public), and all the code and data, so that others can conduct their own analyses of our results: https://cruxevals.com/crux/can-ai-agents-conduct-research Finally, we plan to conduct shadow evaluations regularly, and are hiring a senior researcher to help lead these efforts. Apply here: https://cruxevals.com/careers/senior-researcher-july-2026 I'm grateful for the core team leading this effort: @PKirgis, Andrew Schwartz, @steverab, and @random_walker, and to our collaborators who reviewed AI papers, analyzed agents logs, and gave feedback on the paper: @DavidDAfrica, @KozzyVoudouris, Viet Nguyen, Toby Pilditch, @DubMagda, @HarryCoppock, @CUdudec, @nityndg, Matilda Orona, @tilmanbayer, Derrick Chan-Sew, Yue Ling, Abhishek Shetty, @hlntnr, @ghadfield, @sethlazar, @snewmanpv, @shostekofsky, @RishiBommasani",
-      "images": [
-        "https://pbs.twimg.com/media/HOfVJPvW4AA5dgV.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: AI 에이전트가 개방형 AI 연구를 수행할 수 있나요? AI 연구를 수행하는 에이전트에 대한 대부분의 평가는 좁고 검증 가능한 작업에 중점을 둡니다. 그러나 AI 연구는 종종 개방형입니다. 연구자들은 가설을 선택하고, 어떤 증거가 적절한지 결정하고, 실패한 접근 방식을 인식합니다. 우리는 미발표 논문 2개, 6일, 수천 달러의 API 크레딧 및 컴퓨팅을 통해 에이전트 연구 질문을 제공했습니다. 그런 다음 원본 논문의 저자는 AI가 생성한 논문을 검토했습니다. 그들은 요원의 결과를 명백히 거부했습니다. https://arxiv.org/pdf/2607.27191 에이전트가 저자의 원래 연구 노력을 섀도잉하고 있기 때문에 우리는 이를 \"섀도우 평가\"라고 부릅니다. 에이전트는 대부분의 *엔지니어링* 작업에 능숙했습니다. 그들은 진지한 문헌 검토를 수행하고, GPU 환경을 디버깅하고, 수백 번의 실행을 수행했습니다.",
-      "published_at": "2026-07-30T17:14:18+00:00"
-    },
-    {
       "id": "x:sama:2082855170296205719",
       "source": "x",
       "author": "sama",
@@ -1510,9 +1510,7 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2082616643394703682",
       "text": "R to @OpenAI: We hope these experiments serve as a reminder that evals rarely measure models in isolation—they also measure a bundle of less visible choices about API settings, harness design, and prompting. If you’re an API developer trying to maximize performance, we recommend using the same settings that we deploy in our own products: - Use our Responses API, not our legacy Chat - Completions API - Retain reasoning - Use compaction If you want to test your own mettle against frontier models, try the public games yourself at http://arcprize.org/tasks",
-      "images": [
-        "https://pbs.twimg.com/card_img/2082888285249249280/kSqIQ_EO?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "R에서 @OpenAI로: 이 실험이 평가에서 모델을 단독으로 측정하는 경우는 거의 없으며 API 설정, 하네스 설계 및 프롬프트에 대해 눈에 띄지 않는 여러 가지 선택 항목도 측정한다는 점을 상기시키는 역할을 하기를 바랍니다. 성능을 최대화하려는 API 개발자라면 자체 제품에 배포한 것과 동일한 설정을 사용하는 것이 좋습니다. - 레거시 Chat이 아닌 Responses API 사용 - Completions API - 추론 유지 - 압축 사용 프론티어 모델에 대해 자신의 역량을 테스트하고 싶다면 http://arcprize.org/tasks에서 직접 공개 게임을 시도해 보세요.",
       "published_at": "2026-07-29T23:57:55+00:00"
     },
@@ -1848,7 +1846,7 @@
       "author_name": "Google DeepMind(딥마인드)",
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2080321519952056441",
-      "text": "By combining speed and efficiency, 3.5 Flash Cyber lets defense specialists check significantly more code paths. In testing on our own codebases – including @googlechrome and @Android – it consistently caught complex, unique vulnerabilities that standard models missed.",
+      "text": "R to @GoogleDeepMind: By combining speed and efficiency, 3.5 Flash Cyber lets defense specialists check significantly more code paths. In testing on our own codebases – including @googlechrome and @Android – it consistently caught complex, unique vulnerabilities that standard models missed.",
       "images": [
         "https://pbs.twimg.com/media/HN7JKNPWUAAYqbM.jpg"
       ],
