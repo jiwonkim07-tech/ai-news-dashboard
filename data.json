@@ -1,22 +1,62 @@
 {
-  "updated_at": "2026-08-01T13:20:13+00:00",
+  "updated_at": "2026-08-01T15:00:45+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 4
+    "new_this_run": 6
   },
   "briefing": {
-    "headline": "BYD, 7월 41.9만 대 자동차 판매…海外 판매량 약 18만 대로 다시 역대 최고치 경신",
+    "headline": "아마존 목표가 325달러 상향",
     "bullets": [
-      "미중 첨단기술 분쟁 지속",
+      "BYD 7월 판매량 41.9만대",
+      "Kimi 시리즈F 투자 35억달러 유치",
+      "iPhone 18 Pro 시작 가격 1,399달러",
       "CXMT LPDDR6 샘플링 돌입",
-      "키옥시아 1분기 실적쇼크",
-      "립모터 7월 전기차 인도량 101267대",
-      "미국과 일본이 엔화 약세를 되돌리기 위해 정책 공조"
+      "미중 첨단기술 분쟁 지속"
     ],
-    "generated_at": "2026-08-01T13:20:13+00:00",
+    "generated_at": "2026-08-01T15:00:45+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:globaletfi/20883",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20883",
+      "text": "🔹\nOpenAI의 AI 시장 주도권 상실과 반격\n» OpenAI가 ChatGPT를 중심으로 소비자 시장 확대와 Sora, AI 디바이스 등 다양한 신규 프로젝트에 집중하는 동안, Anthropic은 Claude Code를 앞세워 기업용 AI와 개발자 시장에 집중하며 AI 코딩 분야의 주도권을 확보\n» OpenAI의 Codex는 초기 기대와 달리 실제 개발 환경에서 속도와 사용성이 부족하다는 평가를 받았으며, 초기 추론 모델 역시 코딩 대회 수준에는 강점을 보였지만 기업의 실제 소프트웨어 개발 업무에는 충분히 최적화되지 못했던 것으로 평가\n» 반면 Anthropic은 처음부터 '실제 기업 업무(Real-world tasks)' 중심으로 모델을 개발하며 개발자들의 높은 만족도를 확보했고, Claude Code가 빠르게 확산되면서 기업 고객과 개발자 시장에서 우위를 구축\n» OpenAI는 Meta의 인재 영입 경쟁, Microsoft와의 관계 조정, Sora 등 여러 프로젝트 대응으로 핵심 제품 경쟁력 개선이 늦어졌고, 내부에서도 본업보다 '사이드 프로젝트'에 집중하면서 Anthropic에 뒤처졌다는 반성이 제기\n» 전략의 차이는 사업 성과로 연결. Anthropic은 매출 성장률이 OpenAI를 추월했고 기업가치는 1조 달러에 근접했으며, 일부 투자자들은 OpenAI의 높은 현금 소모를 우려해 Anthropic에도 동시에 투자하는 움직임을 보이기 시작\n» OpenAI는 최근 Codex를 ChatGPT와 웹브라우저에 통합한 새로운 플랫폼을 출시하고 GPT-5.6 Sol을 공개하는 등 기업용 AI와 개발자 생태계 중심으로 전략을 전환하며 시장 점유율 회복 타진\n🔹\n투자 시사점\n» AI 산업의 경쟁축이 범용 LLM 경쟁에서 AI 에이전트와 기업용 AI 플랫폼 경쟁으로 이동\n» AI 기업의 가치평가 기준도 모델 성능과 사용자 수(MAU) 중심에서 기업 고객 확보, 반복 매출(ARR), 개발자 생태계, 업무 생산성 중심으로 빠르게 변화하는 모습\n» 최근 AI 모델 성능이 상향 평준화되면서 차별화 요소는 AI 에이전트와 업무 자동화로 이동하고 있으며, 기업용 AI 시장이 향후 가장 빠르게 성장할 가능성\n» OpenAI와 Anthropic의 경쟁 심화는 여전히 GPU·HBM·네트워크·데이터센터 투자 확대를 지속시키는 요인. NVIDIA, AMD, Broadcom, Arista Networks, TSMC, SK hynix, Micron 등 중장기적으로 AI 인프라 기업에 우호적인 환경\n» 최근 하이퍼스케일러들의 대규모 AI 투자와 회사채 발행 확대를 고려하면, AI 투자 사이클은 둔화보다 애플리케이션 경쟁에서 인프라 경쟁으로 확산되는 국면으로 해석하는 것이 적절\n» IPO 시장에서도 AI 기업의 평가는 기술력보다 기업 고객 기반, ARR, 현금창출 능력, AI 에이전트 경쟁력이 핵심 지표로 자리잡을 가능성이 높으며, 이는 향후 AI 플랫폼 기업들의 밸류에이션 기준에도 영향을 미칠 전망\n🔹\nIPO 관점의 시사점\n» 현재 IPO 시장의 평가 기준은 '최고의 AI 모델'이 아닌 '매출 성장과 기업 고객 확보 능력'\n» Anthropic은 OpenAI보다 빠른 기업 고객 확대와 높은 매출 성장률을 바탕으로 IPO에서 높은 프리미엄을 받을 가능성이 커지고 있으며, 기업가치 1조 달러 역시 이러한 기대를 반영\n» 반면 OpenAI는 높은 현금 소모와 기업 고객 확보 속도에 대한 우려가 남아 있어, 상장 이전까지 기업 고객 확대, AI 에이전트 경쟁력 강화, 현금창출 능력 개선을 입증하는 것이 핵심 과제로 부각\n» 이는 최근 IPO 시장이 기술력 자체보다 반복 매출(ARR), 시장 지배력, 현금창출 능력, 수익화 가능성을 더욱 중요하게 평가하고 있음을 보여주는 사례\n» 향후 AI 기업 IPO에서는 단순히 LLM 성능이 아니라 기업용 AI 플랫폼 구축 능력과 AI 에이전트 시장 점유율이 밸류에이션을 결정하는 핵심 요소가 될 것\nHow OpenAI Lost Its AI Crown—and the Fight to Win It Back\nhttps://www.wsj.com/tech/ai/how-openai-lost-its-ai-crownand-the-fight-to-win-it-back-7d069695?st=isTzjh",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-01T14:49:41+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24260",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24260",
+      "text": "도이체방크) 아마존(AMZN) — 투자 수익을 입증하다 (Buy, 목표가 325달러로 상향)\n도이체방크는 아마존에 대해 매수 의견을 유지하고 목표주가를 315달러에서 325달러로 3% 상향했습니다. 목표가는 SOTP 모델과 2027년 GAAP EPS 30배 멀티플을 혼합한 방식으로 산출했으며, AWS가 생성형 AI 컴퓨팅 패러다임 전환의 확실한 승자인 만큼 멀티플에 이를 반영해야 한다는 판단입니다. 현재 주가는 235.50달러(7월 30일 기준)입니다.\n2분기 실적은 AWS가 어닝 서프라이즈를 주도했습니다. AWS 매출은 전년비 37% 증가한 422억 달러로 1분기의 28%에서 가속되며 5개 분기 연속 성장률이 상승했고, 도이체방크 추정치 33%, 컨센서스 31%, 바이사이드 기대치 35~36%를 모두 상회했습니다. 분기 매출 증가분 46억 달러는 종전 최대 기록을 약 80% 웃도는 수준입니다. AWS 영업이익은 추정치를 21% 상회했으며, 약 6억 달러의 에너지 계약 일회성 이익을 제외해도 마진이 약 38%로 예상치 34%를 크게 넘어섰습니다. AWS 마진은 보고 기준 전년비 약 650bp, 일회성 제외 시 약 520bp 개선되었고, 경영진은 현재 수익성이 규율 있는 효율성 개선, 용량 최적화, 고정비 관리에 의해 뒷받침되고 있다고 강조했습니다. 북미 영업이익 약 91억 달러에는 6억 달러의 관세 환급이 포함되어 있으며, 이를 제외하면 약 85억 달러로 추정치와 대체로 부합합니다.\nAWS 수주잔고는 1분기 말 3,640억 달러에서 4,960억 달러로 급증해 전년비 세 자릿수 성장을 기록했으며, 증가분 중 1,000억 달러는 4월 Anthropic 딜과 연관된 것입니다. 2027년 용량의 상당 부분이 이미 예약되었고 2028년 용량도 의미 있는 규모로 확약된 상태입니다. AI 매출은 연환산 250억 달러 이상으로 전분기 대비 66% 증가하며 전년비 세 자릿수 성장을 지속하고 있고, Trainium과 Graviton을 포함한 자체 칩 사업도 연환산 매출 250억 달러를 돌파해 전분기 대비 25% 성장했습니다. AWS는 2분기 말 기준 연환산 매출 1,690억 달러로, 독립 기업이라면 포춘 500 중 24위에 해당하는 규모이며, 회사는 장기적으로 AWS가 연매출 1조 달러를 창출할 것으로 내다보고 있습니다. AI 워크로드가 포스트 트레이닝, 강화학습, 에이전틱 툴 사용을 통해 CPU, 스토리지, 데이터베이스 등 코어 인프라 수요까지 견인하면서 훨씬 균형 잡힌 성장 프로필이 형성되고 있다는 점도 긍정적으로 평가했습니다.\n커스텀 실리콘 측면에서는 Trainium 채택이 Anthropic과 OpenAI의 다년·멀티 기가와트 약정을 넘어 AI 스타트업과 대기업으로 확산되고 있으며, AWS 인프라와 별도로 Trainium을 구매하려는 고객 수요도 나타나 회사가 이 기회를 적극 검토 중입니다. Graviton은 AWS 상위 1,000개 EC2 고객의 98%가 사용 중이고 매출 약정이 전분기 대비 거의 세 배로 늘었으며, Graviton5는 이전 세대 대비 최대 25% 높은 연산 성능으로 Graviton4의 같은 시기 대비 두 배 가까운 속도로 성장하고 있습니다. 아마존은 프론티어 모델 없이도 성공적인 AI 사업이 가능하다는 입장이나, 비용·모델 우선순위·개발 속도에 대한 통제력 확보를 위해 자체 프론티어 모델을 개발 중이며, 2분기 Bedrock 고객 지출은 과거 전체 분기 합계를 넘어섰습니다.\n3분기 가이던스는 매출 1,970억~2,020억 달러(보고 기준 성장률 9~12%)로 프라임데이가 3Q25에서 2Q26으로 이동한 데 따른 약 400bp 역풍을 반영했으며, 이는 도이체방크의 프리뷰와 부합합니다. 영업이익 가이던스는 225억~265억 달러로 전년 174억 달러에서 크게 늘었고 상단 기준 컨센서스를 6% 상회해, 투자 확대에도 이익 궤적이 견고함을 시사합니다. 북미 부문은 Amazon LEO 관련 연간 약 10억 달러의 역풍과 높은 운송비를 계속 흡수해야 하나, 풀필먼트 생산성과 FBA 연료·물류 할증료가 이를 부분 상쇄할 전망입니다.\nFY26 캐펙스 가이던스는 2,000억 달러에서 2,200억 달러로 상향되었는데, 경영진은 이것이 증설이 아닌 메모리 가격 상승에 따른 것임을 강조했습니다. 투자 수익 프로필과 관련해 데이터센터 자본은 통상 수익화 약 2년 전에 투입되지만 시설 수명은 30년을 넘고, 서버·네트워킹 장비는 3년 미만에 손익분기에 도달하며 수명은 최소 5~6년입니다. 현재 AI 용량 대부분이 최소 5년 계약으로 확보되어 장비 지출 집행 전에 매출 가시성이 확보되며, AI 마진과 수익률은 같은 단계의 코어 AWS 사업 궤적을 소폭 상회하고 있다는 설명입니다.\n기타 사업에서는 광고 매출이 1분기 22%에서 26%로 가속되었는데 프라임데이 시점 이동이 주요 기여 요인으로 판단됩니다. 스폰서 프롬프트를 클릭한 쇼핑객은 전환율이 48% 높고 평균 지출이 21% 많았으며, Ads Agent 타겟팅을 사용한 광고주는 노출당 비용이 8%, 획득당 비용이 6% 낮았습니다. Amazon Now는 9개국 250개 이상 도시로 확장되어 총매출과 판매량이 전분기 대비 80% 이상 증가했고, Amazon LEO는 약 400기의 위성으로 연내 초기 인터넷 서비스 개시가 가능한 수준이며 1~2분기 각각 북미 영업이익에 약 10억 달러의 역풍으로 작용했으나 4분기부터 비용 자본화로 완화될 전망입니다.\n결론적으로 도이체방크는 아마존이 AI 역량의 폭발적 성장에서 수혜를 볼 다각화된 사업 포트폴리오를 갖춘 소수 기업 중 하나라고 평가합니다. 단기 캐펙스가 다소 늘었지만, 투자 자산이 칩·네트워킹 기준 5~6년에서 데이터센터 셸 기준 30년에 걸쳐 수익을 창출하고, 코어 사업의 매출 성장이 이미 개선되고 있으며, 새로운 TAM으로의 확장이 가능하고, 대부분 내부 영업현금흐름으로 조달되어 부채 리스크가 완화된다는 점에서 강세 관점을 유지합니다. 리스크 요인으로는 이커머스 수요를 압박할 수 있는 거시경제 둔화와 클라우드 사업의 공급 제약 지속을 꼽았습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/EhtrH7pYxQfEndeymp660H63e3E0IrGCvOZnz5kLWaTU3WKmvTQygcGDu_FcAHmxIryZ_kXNUAuemYRcvuump5K2neHIZqS-Bi43828CT93U7VOGxZNHo_Zi9jp1XcLFem34TbQLw2OFFp0mlgZm69WI6rePhDGezfNg4Um8VozFRs__OEFVUHUfjT5256aeMEpHq1k7lV4jIq4-dVlb1aY56jrTsvGGH2KnPHWmr1A51dI1MhpM_0lMdI8IolkJUjsAARXmdRKXMVHDUOlDWJuYMgtL64jjdCPC-hw_WBjtquuQEefLhsy0R3vMw4TraGgcnnrSDJJqHMKrBGgpQw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-01T14:48:07+00:00"
+    },
+    {
+      "id": "x:sama:2083560847889023219",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2083560847889023219",
+      "text": "team humanity",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2082847297700777984/img/vnek_Bg-PNRBh6G7.jpg"
+      ],
+      "summary_ko": "팀 인류",
+      "published_at": "2026-08-01T14:29:51+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24259",
       "source": "telegram",
@@ -248,6 +288,20 @@
       "published_at": "2026-08-01T08:38:51+00:00"
     },
     {
+      "id": "x:sama:2083467194663571701",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2083467194663571701",
+      "text": "RT by @sama: An internal version of Astra, @OpenAI’s next major model family, solved 10 major open problems in mathematics, quantum complexity, and theoretical computer science. We believe it will be a major step for scientific reasoning. https://openai.com/index/ten-advances-in-mathematics/",
+      "images": [
+        "https://pbs.twimg.com/media/HOn2XyYasAA_rAp.jpg"
+      ],
+      "summary_ko": "RT by @sama: @OpenAI의 차세대 주요 모델 제품군인 Astra의 내부 버전은 수학, 양자 복잡성 및 이론적 컴퓨터 과학 분야의 10가지 주요 공개 문제를 해결했습니다. 우리는 이것이 과학적 추론을 위한 중요한 단계가 될 것이라고 믿습니다. https://openai.com/index/ten-advances-in-mathematics/",
+      "published_at": "2026-08-01T08:17:42+00:00"
+    },
+    {
       "id": "tg:HI_GS/6816",
       "source": "telegram",
       "author": "HI_GS",
@@ -258,6 +312,20 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-01T07:51:34+00:00"
+    },
+    {
+      "id": "x:sama:2083456300692979886",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2083456300692979886",
+      "text": "RT by @sama: yes, nonsofic groups exist: this statement is one of many new beautiful results proved by Astra, our next major model. We're releasing 10 such Astra proofs, complete with lean certificates and CoT walkthroughs for each of them. The results are wide-ranging, from von Neumann algebras (disproof of Connes' Rigidity Conjecture) to better bounds for high dimensional sphere packing, for circuit complexity, for monochromatic triangles in multicolored graphs, and more. More thoughts here: https://openai.com/index/ten-advances-in-mathematics/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2083456780362002432/3RoQk0Sv?format=jpg&name=800x419"
+      ],
+      "summary_ko": "@sama의 RT: 예, 비특색적인 그룹이 존재합니다. 이 진술은 우리의 차세대 주요 모델인 Astra가 입증한 새롭고 아름다운 결과 중 하나입니다. 우리는 각각에 대한 Lean 인증서와 CoT 연습을 갖춘 10가지 Astra 증명을 출시할 예정입니다. 결과는 von Neumann 대수학(Connes의 강성 추측에 대한 반증)부터 고차원 구 채우기에 대한 더 나은 경계, 회로 복잡성, 여러 색상 그래프의 단색 삼각형 등에 이르기까지 광범위합니다. 더 많은 생각은 여기에 있습니다: https://openai.com/index/ten-advances-in-mathematics/",
+      "published_at": "2026-08-01T07:34:25+00:00"
     },
     {
       "id": "tg:EMchina/32025",
@@ -350,7 +418,7 @@
       "author_name": "한투증권 중국/신흥국 정정영",
       "author_url": "https://t.me/EMchina",
       "url": "https://t.me/EMchina/32020",
-      "text": "미중 첨단기술 분쟁 지속  ========================  ~ China's commerce ministry on Thursday called for the withdrawal of the statement, and threatened retaliation  https://www.cnbc.com/2026/07/30/china-us-robot-humanoid-ban-trump-visit.html",
+      "text": "미중 첨단기술 분쟁 지속  ========================  ~ 현지시간 29일 CNBC에 따르면 중국 상무부는 온라인 성명을 통해 \"FCC의 중국산 제품에 대한 규제 강화는 미중 경제 및 무역 안정에 심각한 악영향을 미친다\"고 비판했다. 이어 \"미국에 해당 결정을 철회할 것을 촉구했으며 철회하지 않을 경우 보복 조치를 취할 것\"이라고 경고했습니다  https://n.news.naver.com/article/374/0000524870?sid=104",
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-01T04:46:29+00:00"
@@ -599,7 +667,7 @@
       "url": "https://t.me/globaletfi/20872",
       "text": "» 미 국채 금리가 전 구간에서 상승 중",
       "images": [
-        "https://cdn5.telesco.pe/file/TZ-vb5NzJqhFjfldsh8tZFWQWpDh1MzhqNHyNYte5JXDwJ59lXAfKgdiYer_GEW5huncOVSj7HO0UlE6emNSPkUgx41hWwWae4n1Da5hdsWgdO05wsBa1OnFCFg5BrftJEKB45qaS4IWoGhMa_uhKIwnu2YZEHw1UytIl8xso0TuN4yftB_lLVw9nzWWhhFD3fN70BGbDq94UBa8vrx-Lb1iiw0f0Ue1zQAvghUgs-56rxH0vjUMHkM1Vcb556nY_pRgTkgLf5ZzKhCRLse6XEhArAK14LLJdB6WdzpJwUinbkkDknXidP6gh38FnwFdftkDORks5GKWdF2ZqeRNaA.jpg"
+        "https://cdn5.telesco.pe/file/QWdK70SF-ZYEvynfE5G2faYkRrmCun6olqmKQM7s-qDDro17F93TPZJBAEi_i7VPtHDXI-8_wZxZw_LCD_viYfvY3YuxitpRVYPhuXV5zvsqxo56Ec2TeJxElrvSty_OTGU5LskoRJwnYO8MuSQpjo7INw1wTK3teD9X2vXDFfdJt9co3nD-mIdkLTkKDhV3G8jBE0K47Io1hsOtI8E-S-Lol_56AUgd1C9znxDqE7D50h1yL_y2ZAyjn5Db1jNL-edXkWGodACBAzPfDpsjywkJClkY3qRTn83dK0dblIVRoGP4-RvgnqRWajixJYJK_DM9DXkF4_oidNhlBOG3JA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-31T14:51:16+00:00"
@@ -625,8 +693,8 @@
       "url": "https://t.me/globaletfi/20870",
       "text": "» 중동의 긴장이 지속되면서 유가 상승\n» 이란은 호르무즈 해협을 통과하려한 유조선 두 척을 공격했다고 주장\n» 트럼프 대통령의 주장과 달리 하마스는 이스라엘 철군 및 살상 중단 약속이 선행되어야 무장을 해제할 것이라고 언급",
       "images": [
-        "https://cdn5.telesco.pe/file/ey6y_BO3-DEEH0SQD-zrMl31SeFSlZqAMB5hugEI93HlpOFAyEPsJ4wKWPT0rTP9BTCnSgYVY-Inx80yMtV1-vkf3Vm48N40BGUuNPOcVKbeNjra5tyGw_M_E501WADDU16tWFU-dAsK5puoYmqb9mWEQ0wyy5zQ2GO13rFYlOfZxqhySB5jAdmhixAYa_MjIpTb62ETw19PLDFeOlwSukqsgL28SkvcoLlNIUYdKv7jYyWWs2mUUrILf2u1MmGd4Oy8uamgvQYY3Bus8YCWBY32RBzZ4osoKVR7jWF5e4TRqnA2Um73cPMK5Sv1rWnmbNN0kOBbvGE_FslqSmeKbg.jpg",
-        "https://cdn5.telesco.pe/file/YThAbxpO_TPGlgbzQ4p6_3zCEcMbQ-DHkAxh2jjFG0-bdgh7mfSW-xdrpVctS5N7hsP72hr5OaKVfOPXaoncpIUNPbUmoGpKREm3wroOXhliIwrRdls4LjoB3hc9uMI_9FcUfNduKotBrEgMdynQ4M95hKhev9x0AHY4pk1K59bpJkv80wAtIdMRmhD2K4R-R8dp_MLfVA3FUVogNomn-mNSMLnMwjyLsHJ5CL56ZiSvswvODDCYX2rXuPmyJ8A-25ARMaYrAT2c13enKkLOwHDHG5dxSdZUuyu9xcJ04U6fg1IyxT0PA8vGKM2SQqT4wrWly3_oTvpUN-HsiWvHcw.jpg"
+        "https://cdn5.telesco.pe/file/OGIpH9eQnLMrEKa2q8rMKTO4493l9fGacK4fHXTRUYtt4pLeQGwlYsUTXJV6Ye1VAO9GZVPKkycu_tC4_xsPWndKiOuuVYX6l2gI34UD60TqGmKu777Gic2Ad962GMftSPFmzXzCgzWxcwn54phX-fGsaYfIX17io_pfZsXw4ohH17eKrDiCyaPYta5BWu-L5eZ_qAw651IJB_eFwxyCOAohJY6IXGMyqP74A4Beojrvpfw6qcp6t2cKo1YEeWxAZ3FO_IVWUD_fIi8Tq3IUO9QpI-dRAQTKsNhhq3ItOe0ZFINCUypiXPMVXrmZBJkzP2Hui_M7Ki5eOxyTTZB4sQ.jpg",
+        "https://cdn5.telesco.pe/file/RSPH1CFlDq8OytaQ8TtlMqoY3i93V4AtWb8di5d9BL_IlzOoXiNRuSrMSm1QD7DYmRn1ngQvy974kYhbXG1feh0juRzFPiDkY0kJeN_ZfukzDQMsXQFxgS89yZLXTHaIMEnoaTylQd6sjxe5I1-IfJe0OiM9qN2NpvjOaWDAEGgLc5UHugfzLaT8PIvhSP28lJM3qpL-NWvrlEql9YLswSmLoi_ooNJmOTnRKaWP6ip5vPtBzkzjlb631yaeiprhQQuYeG53H03vFWbEp6lPizBWm0nreg6U2kSesXXe6Xd5AcH7VP9uiQRFk5KcGwa3M5JAHERuoAKati2Ycis35w.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-31T14:49:25+00:00"
@@ -656,20 +724,6 @@
       "published_at": "2026-07-31T14:36:35+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24247",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24247",
-      "text": "대-곰-탕",
-      "images": [
-        "https://cdn5.telesco.pe/file/W5GssAgS-uNOFF3tQtAXobOaGzuQMp-Rb3zhnr4Om52gHJHJD4Qs_kB1poTNJmYfM3lLHqg5zAqRJ7b556IVyfgLOY04gK7D7yKk-ui2HkU4CSfQ8seULdtgn8An_wEvHfdk_X096lfYOlcc3jZytWjMrZsVkhWdbllz2IQpQlbephD06koCnwpIwD-tIsma6oZ8yH61X5Hm7tosAcPYC8W80b8z720JuvmDs4-5vJ8NINlnuNekl59gIEFp6e0zqDjtnNXSfgD2oZy5UQ5RxquVqnG6LckZvHTmmydelkKXV082nhDcF4DjA0pmuj6Uy2VjNOCa9BBgUR8kREUguQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-31T14:33:21+00:00"
-    },
-    {
       "id": "x:sama:2083198135812383197",
       "source": "x",
       "author": "sama",
@@ -680,20 +734,6 @@
       "images": [],
       "summary_ko": "더 빠를 수도 있어요",
       "published_at": "2026-07-31T14:28:34+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20867",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20867",
-      "text": "» KOSPI 지수가 오늘 기록한 +17.9%의 상승률은 지수 산출 이후 최대 수준의 일간 등락률",
-      "images": [
-        "https://cdn5.telesco.pe/file/JE0Y1wHusHcl4NsvNXc6roZh5__VCfpEW7O5HvOKHe0HppbBKWW11pgBnK3dbL3ZWxCWxUUslPDR6PQ5wUhciexVQTr0Hxj3acg1g4Jf-uGc-1DWIPW-G2BiPbeQAoCFCZwrBbEhU6oWAckJ7CucKbZYTVJV-C7tPEH6oW6RwTo8ZmegFSfUJo0BRbYEOZaWVYvNvhPWokl0g-tmj5mCY10NDQRsEPHhtli0SjrjF36_10hEwEjEjbaKxCwQkvapwXHLvERdaZAV5MormOvi2dNwA7HHzZQsvsM8LjkceuVo4N8OrV1GIagRmJXsLzxE2V1rSbx1j7L59O8jeYQKiw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-31T14:20:19+00:00"
     },
     {
       "id": "x:ylecun:2083179134092530092",
@@ -1457,9 +1497,7 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2082616641834422740",
       "text": "R to @OpenAI: A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has already learned. https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2082601651047698432/3ht2GCz3?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "R에서 @OpenAI로: 벤치마크 점수는 모델뿐만 아니라 이를 실행하는 데 사용된 하네스 및 설정을 반영합니다. 장기 실행 에이전트의 경우 추론을 유지하고 컨텍스트를 압축하면 모델이 이미 학습한 내용을 기반으로 구축할 수 있습니다. https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
       "published_at": "2026-07-29T23:57:55+00:00"
     },
@@ -1472,7 +1510,7 @@
       "url": "https://x.com/OpenAI/status/2082616643394703682",
       "text": "R to @OpenAI: We hope these experiments serve as a reminder that evals rarely measure models in isolation—they also measure a bundle of less visible choices about API settings, harness design, and prompting. If you’re an API developer trying to maximize performance, we recommend using the same settings that we deploy in our own products: - Use our Responses API, not our legacy Chat - Completions API - Retain reasoning - Use compaction If you want to test your own mettle against frontier models, try the public games yourself at http://arcprize.org/tasks",
       "images": [
-        "https://pbs.twimg.com/card_img/2079578789248647168/Xa9awXNy?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2082888285249249280/kSqIQ_EO?format=jpg&name=800x419"
       ],
       "summary_ko": "R에서 @OpenAI로: 이 실험이 평가에서 모델을 단독으로 측정하는 경우는 거의 없으며 API 설정, 하네스 설계 및 프롬프트에 대해 눈에 띄지 않는 여러 가지 선택 항목도 측정한다는 점을 상기시키는 역할을 하기를 바랍니다. 성능을 최대화하려는 API 개발자라면 자체 제품에 배포한 것과 동일한 설정을 사용하는 것이 좋습니다. - 레거시 Chat이 아닌 Responses API 사용 - Completions API - 추론 유지 - 압축 사용 프론티어 모델에 대해 자신의 역량을 테스트하고 싶다면 http://arcprize.org/tasks에서 직접 공개 게임을 시도해 보세요.",
       "published_at": "2026-07-29T23:57:55+00:00"
@@ -1694,18 +1732,6 @@
       "published_at": "2026-07-27T22:10:10+00:00"
     },
     {
-      "id": "x:sama:2081832600591892712",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2081832600591892712",
-      "text": "wrong",
-      "images": [],
-      "summary_ko": "잘못된",
-      "published_at": "2026-07-27T20:02:25+00:00"
-    },
-    {
       "id": "x:AndrewYNg:2081787106062746002",
       "source": "x",
       "author": "AndrewYNg",
@@ -1716,30 +1742,6 @@
       "images": [],
       "summary_ko": "@JensenHuang의 좋은 움직임입니다. Nvidia 편지는 잘 작성되었으며 읽을 가치가 있습니다. OpenAI-Hugging Face 해킹에서 살펴본 것처럼 방어를 위해서는 개방형 모델과 하네스가 필요합니다. 폐쇄형 모델이 더 안전하다는 PR을 믿지 말자. - 그것은 단지 규제 캡처입니다.",
       "published_at": "2026-07-27T17:01:38+00:00"
-    },
-    {
-      "id": "x:sama:2081513071135346814",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2081513071135346814",
-      "text": "agreed feels big, i want a new kind of computer",
-      "images": [],
-      "summary_ko": "동의했어요, 저는 새로운 종류의 컴퓨터를 원해요",
-      "published_at": "2026-07-26T22:52:43+00:00"
-    },
-    {
-      "id": "x:sama:2081396796174282900",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2081396796174282900",
-      "text": "chatgpt work is remarkable, and \"work\" undersells it. from my phone i sent: \"use all my chat history to figure out ideas for a long weekend trip with 8 friends, plan the best three options, make a full-stack site where the 9 of us can coordinate on what we would want to do in each place and decide where to go, and then after we get to group agreement make reservations. draft an email in my gmail i can send out to my friends when the site is ready.\" it...just worked.",
-      "images": [],
-      "summary_ko": "chatgpt 작업은 놀랍고 \"작업\"은 그것을 덜 팔립니다. 내 전화에서 나는 다음과 같은 메시지를 보냈습니다. \"내 모든 채팅 기록을 사용하여 8명의 친구와 함께하는 긴 주말 여행에 대한 아이디어를 파악하고, 가장 좋은 세 가지 옵션을 계획하고, 우리 9명이 각 장소에서 무엇을 하고 싶은지 조정하고 어디로 갈지 결정할 수 있는 풀 스택 사이트를 만들고, 그룹 합의에 도달한 후 예약을 합니다. 사이트가 준비되면 내 Gmail에서 이메일 초안을 작성하여 친구에게 보낼 수 있습니다.\" 그건...그냥 효과가 있었어.",
-      "published_at": "2026-07-26T15:10:41+00:00"
     },
     {
       "id": "x:demishassabis:2081075346208600103",
