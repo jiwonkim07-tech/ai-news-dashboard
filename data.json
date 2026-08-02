@@ -1,22 +1,192 @@
 {
-  "updated_at": "2026-08-01T23:59:38+00:00",
+  "updated_at": "2026-08-02T03:42:16+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 17
   },
   "briefing": {
-    "headline": "딥시크, 대규모 AI데이터센터 투자 계획",
+    "headline": "골드만삭스, 2026년 7월 31일 코스피 역대 최대 외국인 자금 유입",
     "bullets": [
-      "중국 GDP 대비 부채비율 5년만에 하락",
-      "Roundhill의 DRAM ETF에 CXMT 추가",
-      "도이체방크, 아마존 목표가 325달러로 상향",
-      "문샷 Kimi, 시리즈F 투자에서 35억달러 이상 유치",
-      "BYD, 7월 41.9만 대 자동차 판매"
+      "중동 美대사관, 자국민에 '출국 준비' 권고",
+      "BYD, 7월 41.9만 대 자동차 판매… 해외 판매량 약 18만 대로 다시 역대 최고치 경신",
+      "도이체방크) 아마존(AMZN) — 투자 수익을 입증하다 (Buy, 목표가 325달러로 상향)",
+      "JP모건) 무라타제작소(6981); 1분기 실적: 데이터센터 애플리케이션을 중심으로 가이던스 상향",
+      "UBS는 2027년 하이퍼스케일러 CAPEX의 70%를 메모리 지출에 투입할 것으로 전망"
     ],
-    "generated_at": "2026-08-01T23:59:38+00:00",
+    "generated_at": "2026-08-02T03:42:16+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32037",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32037",
+      "text": "빅테크는 얼마나 더 돈을 쓸수 있을까\n• 실적 발표 이후 미국 5대 빅테크의 2027년 자본지출 전망은 이미 1조달러 상회. GDP의 2.8% 수준\n• 2025년 5천억달러 미만의 자본지출에서도 이미 시장 집중. 2년만에 두 배로 불어난 규모는 빅테크 현금흐름 마이너스 야기\n科技巨头还能烧多久？\n本周财报之后，美国五大科技巨头对2027年的资本开支预测已超1万亿美元，达到GDP的2.8%。\n而2025年不到5000亿美元的资本开支已经让市场侧目，而两年翻倍的规模直接让科技巨头现金流转负。\nhttps://wallstreetcn.com/charts/41959497",
+      "images": [
+        "https://cdn5.telesco.pe/file/Or8rvQ6Wz5wQ5w7MAexe9bFpppOIieOoxraTa7NO90GI0sRjEMMgnAU1TV8d7cXBwiMCPNxjNYGi7Q3VfCWWodRYI0FgSbU4cZ6rUqGIgT3oHYKwvI2z4OVfIBauN5xX9U0FjzekxlJoEhGwjT4bTqQhSor5qKoZvFuPlLI7PIWh0HaLXgXqUl75tvf7WVuKCxnbV0rt-nhk2eUUd_oMenFO-tsaqV2Te0GWdbQFExHmaK80Ne7xOqWqThMYi77U6eVN7IMWc4dCeafKWUHfXeYemLxucI8xIWcWC3UU1p_QP9tcrW9svU1RSHnUWGHGz89fr4COBNDWm5XdznlkPA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-02T03:06:24+00:00"
+    },
+    {
+      "id": "tg:EMchina/32036",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32036",
+      "text": "시타델의 AI 저가매수. 시장에 좋은일인가\n• 시타델은 10% 이상의 할인율로 Situation Fund의 160억달러 규모 주식 포트폴리오 인수 & 시장 최대의 ‘강제 매도자’ 정리. AI 주식의 연쇄 하락 멈추며 기술주 반등 지지\n• 한 네티즌은 sns 통해 \"시타델 같은 헤지펀드는 대규모 거래 시 이러한 AI을 장기적으로 좋게 보고 사는 것이 아님. 15%~35% 수준의 수익에서 매도할 것\"이라고 평가\nCitadel抄底“AI股神”，对市场是好事吗？\nCitadel以逾10%折价接盘Situational基金160亿美元股票组合，清除了市场最大的“被迫卖家”，止住AI股连环踩踏并推动中美韩科技股大幅反弹。\n有网友在社媒上评论：\n像Citadel这样的对冲基金，做大规模交易不是看好这些AI持仓，赚15%-35%就会卖。\nhttps://wallstreetcn.com/charts/41959498",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-02T03:03:11+00:00"
+    },
+    {
+      "id": "x:karpathy:2083749667410727319",
+      "source": "x",
+      "author": "karpathy",
+      "author_name": "Andrej Karpathy(안드레이 카파시) · AI 연구자",
+      "author_url": "https://x.com/karpathy",
+      "url": "https://x.com/karpathy/status/2083749667410727319",
+      "text": "We're starting to leave the territory where you'd test an LLM by e.g. \"create an svg of pelican on a bicycle\". As one idea to generalize it, I was interested what Opus 5 would do if I gave it the first paragraph of the Lord of the Rings, a 1M token budget (~$10) and asked for three js render of it. Opus went off for ~2 hours and wrote 5500 lines of code that (procedurally) rendered the story. It's kind of janky but fun. But it's a bit mindboggling that the LLM has to place and orchestrate various polygon assets in (x,y,z) coordinates and write code that animates it all, and that it even does anything at all. I also like this kind of examples because no one in their right mind would ever spend the time to write something this custom but LLMs have all the stamina and patience in the world, so it's an example where we go from \"no one would ever do this\" to \"sure, why not, it's ~free\". There might be a lot more. But I'm excited about creating hyper custom worlds that you can imagine dropping players into, e.g. here to participate in the LoTR story as a spectator NPC, or one of the characters, or etc. Something like an ephemeral GTA of X on demand. Last thought is that the domain of worlds/games exposes a weakness in LLMs: they can't easily audit their work because they aren't able to efficiently and natively perceive videos or play games within them. Here, Opus 5 had to very slowly and painstakingly take screenshots at different points, and it messed up a few times and created a bunch of jank. An example of raw capability (multimodal, gameplay) that I think is still quite lacking.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2083744791876292608/img/tWEKnM_bdE_nlfYD.jpg"
+      ],
+      "summary_ko": "예를 들어 LLM을 테스트할 영역을 떠나기 시작했습니다. \"자전거를 타고 펠리컨의 SVG를 만듭니다\". 이를 일반화하기 위한 한 가지 아이디어로, Opus 5에 반지의 제왕의 첫 번째 문단, 1M 토큰 예산(~$10)을 제공하고 3개의 js 렌더링을 요청하면 어떻게 될지 관심이 있었습니다. Opus는 약 2시간 동안 작동하여 스토리를 (절차적으로) 렌더링하는 5500줄의 코드를 작성했습니다. 좀 엉뚱하지만 재미있습니다. 그러나 LLM이 (x,y,z) 좌표에 다양한 다각형 자산을 배치 및 조정하고 모든 것을 애니메이션화하는 코드를 작성해야 하며 심지어 모든 작업을 수행한다는 점은 다소 놀랍습니다. 나는 또한 이런 종류의 예를 좋아합니다. 올바른 정신을 가진 사람은 누구도 이런 관습을 작성하는 데 시간을 할애하지 않을 것이지만 LLM은 세상에서 가장 체력과 인내심을 갖고 있기 때문입니다.",
+      "published_at": "2026-08-02T03:00:09+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24265",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24265",
+      "text": "TACO",
+      "images": [
+        "https://cdn5.telesco.pe/file/PnejiCiKxiP-MiviFLcsToB5JmDnsbvFfNx4LL8L0VPNbTlA886ZuiUxTo9HzgH4svfX74c81Xzr_C7UsdQQCm0cyxqtktB9zxpbuyxsLQNN7Bz_Sw7paJbpzReYe1jw6A-rxa4L0hDAV0eH2u0QfxBECqPySzYk4r7i7CMUcrlz4ltgLo6dAg2VbLMROn6OYEZsG5L_iUQqQZIAojjWVLi1rGzoSmGwNxVOFUBjvUpeuXvm56xsTNcfMnb8JbSD8wfRTWCW1pZj1iTeqYLcrdPPhWKWs5eqbjkDPxpkhhx1mvYWnsJISXXNC-p7uFDshf7i1DWTWyRMLLwX8UjKQA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-02T02:39:25+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19471",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19471",
+      "text": "골드만삭스, 2026년 7월 31일, 코스피 역대 최대 외국인 자금 유입에 힘입어 가장 강력한 일간 상승률 기록",
+      "images": [
+        "https://cdn5.telesco.pe/file/hMiE-vHPS-UEgdFZk56sxw4F9wfy9xuzEikIXNicJA6t8f_h0svynPohP-G3DRADcxQqBa2ex2Fc2SHUFGs365r4xpeB1oPviEGdEqdgJGdJ0oNBGpHCUwxIVdXvYK2UmOZH156obCiHZI6lGBc8ujjnkRpdxVHTd9f1hdI9fTS2tfiy_GLLbTY383wsoIOvAMSS2HHc-gCa4RSGArIhhrv3tFyTraQtp6aqfhfrKtafkImizqoNwfjuVrk1L9cMFItYfULfLcRh89tPvlNDVaA2RJdzuXLkj-ixWPyP1qX9vXOC0aIfb9YawKIK6UMDcqhLysYjjb2T6ddLgFydJg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-02T02:25:34+00:00"
+    },
+    {
+      "id": "tg:EMchina/32035",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32035",
+      "text": "사우디는 미국에 이란 총공격 우려 표명  ===========================  ~ Saudi Crown Prince Mohammed bin Salman spoke to President Trump on Saturday and expressed concern over his plans for massive new strikes against Iran, according to two U.S. officials and a third source…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-02T02:16:12+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19470",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19470",
+      "text": "도널드 J. 트럼프\n미국은 제2차 세계대전 이후 볼 수 없었던 수준의 군사적 위압감, 힘, 그리고 파워로 이란 이슬람 공화국에 맞설 만반의 준비를 마치고 출격 대기 상태에 있습니다.\n그럼에도 불구하고, 우리는 방금 이란 및 다른 중동 국가들로부터 합의의 기본 틀에 동의하였으니 어떠한 공격도 보류해 달라는 요청을 받았습니다.\n이 합의에는\n호르무즈 해협의 즉각적이고 완전하며 전면적인 개방과 이란의 핵 위협 종식이 포함될 것입니다.\n이러한 요청에 따라 본인은 전 세계의 미래 이익과, 마찬가지로 성공적이고 번영하는\n이란의 생존을 위해 신속하게 합의(DEAL)를 성사시키는 것을 조건으로 공격을 취소하는 데 동의했습니다.\n이스라엘 국가 역시 이러한 약속에 본인과 뜻을 함께하고 있습니다. 모두 일에 착수하여 반드시 마무리 지으십시오. 이 사안에 관심을 가져주셔서 감사합니다!",
+      "images": [
+        "https://cdn5.telesco.pe/file/CMH7mly0tm6ZNcucsK8_qKfGBiv_NzT_-T1Df2wwd6yQYrN-OydR3gtNEwxr5T_MceDAHMm0QwyCNq7N1h62CbFy93rgxm0wju72qrBxzq_5y7wzfn807OlwkHvQPEKkoytHndG6QuohyHcbqL6ECNDdCq21SRSILTVeVdsjLhBy9um9-mntpkDa9x37sqMjqr3QknHxGGepJ5DYW3YKicQo0S_tKHsjXNSO07P61Sl7h7aPqQ5BIpYrf2dni9Na-rBWjUX8RTjMsv6pS4vIH_uytAvK4N1Il0S5HOVDcghdwLqhbzkR3OXaOYBunLJMcCv88hT60bNKHyUH-o8iCg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-02T02:13:54+00:00"
+    },
+    {
+      "id": "tg:HI_GS/6817",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/6817",
+      "text": "[미군, 패트리어트 재고 절반 소진…납기는 2~4년 걸린다]\n• 중동 분쟁 장기화로 패트리어트·사드 요격탄 등 핵심 방공 무기 초기 재고의 절반 소진\n• 토마호크 및 함대공 미사일 재고도 3분의 1 감소해 유럽사령관이 구축함 추가 배치 요청\n• 계약 후 무기 인도까지 2~4년 소요되어 동맹국 제조 역량을 활용한 공급망 결합 시급\n❗️\n미국 방산 생산 능력 한계로 2~4년 전력 공백 우려되며 동맹국 방산 공급망의 중요성 증대\n출처: [글로벌이코노믹]\nURL:\nhttp://m.g-enews.com/article/Global-Biz/2026/08/202608020842189227fbbec65dfb_1\n─────────────────────\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n🎴\n패트리어트 새로이 살\n수가 없다\n…\n리그의 사이클은 길것이다. 다음은 화나에어로의 L-SAM도 덧붙는다",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-02T01:56:14+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19469",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19469",
+      "text": "미들 이스트 스펙테이터:\n미국이 카타르를 통해 이란에 막판 평화 제안을 전달했으며, 이란은 현재 이를 검토하고 있다.\n(이란 친화 채널에서 나온 내용인거 같고 아직 주요 뉴스에서 확인은 안된 내용인듯 합니다)",
+      "images": [
+        "https://cdn5.telesco.pe/file/d0nt-vvBKYFuobhmYk806qAwrNea2m6OuK_gdNj5V2m79LeQp_5zE7uLNaI_4UIdAXXjS4xdA4vA6Wi2FsYq2ksH83GFs2dA7QipjlPjRccZI1OCO1fjquTtWWjZlcrpsuYKrTs8pFDjSpwDgE3fEm540SBglxQ_YtPoO1hWu6p7H6FHRMGc4tFo0H-_q1K0Q3Oin8mVyYKmIG5w_k1DlcP8SxUtLH3lS508BLRy9OnlJWZqkQ8__YMI1NxJdXU48EXIH2WbmudqrI2oUC4SltRrUf-qEDEpRDAagx_p9g3_s2qebK7v4Z4x4GJHt0ZsgEZbF-ZkadaoMcHO2AC8aA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-02T01:11:01+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19468",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19468",
+      "text": "카타르 중재단은 이란 외교장관, 스티브 위트코프 백악관 특사, 오만 당국자들과 별도 회담을 갖고 호르무즈 해협 재개방 협상을 진행\n무함마드 빈 살만(MBS) 사우디아라비아 왕세자가 도널드 트럼프 미국 대통령과의 통화에서 미국의 대규모 이란 공격 계획에 대해 깊은 우려를 표명하고 긴장 완화를 촉구\nhttps://www.axios.com/2026/08/01/saudi-crown-prince-trump-iran-attacks?utm_source=chatgpt.com",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-02T01:07:30+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24264",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24264",
+      "text": "UBS는 2027년 하이퍼스케일러 CAPEX의 70%를 메모리 지출에 투입할 것으로 전망.\nQ: 메모리 지출은 지속 가능한가, 그리고 충분한 캐파를 배치할 수 있는가?\nA: 하이퍼스케일러와 AI GPU 벤더들이 메모리 수요를 계속 끌어올리며 메모리 가격 강세에 강하게 기여하고 있습니다. 갈수록 증가하는 메모리 요구 사양이 가격 인상과 맞물리면서, AI/DC 고객들의 메모리 반도체 소비는 기하급수적으로 증가하고 있습니다. 당사는 하이퍼스케일러의 총 메모리 지출이 2026E/2027E에 3,360억 달러/7,610억 달러에 이르고(2025년은 730억 달러), 총 지출의 38%/73%를 차지할 것으로 추정합니다(2025년은 14%). 이는 전체 하이퍼스케일러 캐펙스의 업사이드를 시사하지만, 동시에 이것이 얼마나 지속 가능한지에 대한 의문도 제기합니다. 이를 위해서는 메모리 제조 캐파 성장의 가속이 요구되지만, 플로어 스페이스(공간), 장비 리드타임, 그리고 장비 설치 팀에 가해지는 부담은 고려해야 할 병목 요인입니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/ltgiii93mrmWj7j5cDmGkLDRpVyJl66FGuKLtTTT4xYHtsgyPQ7ypZGvtIXhk2YUDrd365nTP2gq01JiKnyu30LHkSl9mr-7bffYOIfpPGlksHXygbt1foMcU1yDHovAJ5ABf53Yo7PnWUd5Ft-hal3mCQYWKmIROk-00plSqKn2AXFx978VopVhaBO9WO69_TAy7DLYCbWvFGPFLraYTZqq2YvpDY2YAzSCP8UKiK2WdduBIkih1JWsTXsxm_AU00MbqQX4RB_L-CZYHov5bTrsHwSE-dxvIIp7OWhDUidVs6KHH0vb8rLOixpmfcLUETQOJ6sfIKHY8_nkjCbWxQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-02T00:59:57+00:00"
+    },
+    {
+      "id": "tg:EMchina/32034",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32034",
+      "text": "~ 요르단, 이라크, 이스라엘, 이집트 등 중동 주요국 주재 미국 대사관들은 1일(현지시간) 긴급 안보 경보를 SNS 등을 통해 공지하며 \"중동에 체류 중인 미국 시민권자들은 각별한 주의와 경계를 유지하고 항공편 취소, 주기적 영공 폐쇄, 여행 차질 가능성에 즉각 대비해야 한다\"고 전했다  ~ 이번 조치는 미국과 이스라엘이 이번 주말(1∼2일) 이란의 핵심 에너지 및 전력 인프라를 겨냥한 대규모 공습에 나설 것이라는 보도가 잇따른 직후 나왔다  http…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-02T00:36:33+00:00"
+    },
+    {
+      "id": "tg:EMchina/32033",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32033",
+      "text": "자주 언급되는 미국 무기 고갈 리스크  =========================  ~ NYT에 따르면 댄 케인 합동참모의장은 회의에서 '군사적으로는 대규모 작전 재개가 가능하지만, 중부사령부(CENTCOM)의 요격 미사일 재고를 위험한 수준으로 고갈시킬 수 있다'는 취지로 발언한 것으로 전해졌다  ~ NYT는 \"군 수뇌부가 요르단, 쿠웨이트, 바레인, 아랍에미리트(UAE) 등에 주둔한 미군기지를 방어할 탄약이 빠르게 줄어들고 있다고 평가한 것이 트럼프…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-02T00:12:27+00:00"
+    },
     {
       "id": "tg:EMchina/32032",
       "source": "telegram",
@@ -350,32 +520,6 @@
       "published_at": "2026-08-01T09:17:55+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24252",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24252",
-      "text": "Citi) 무라타; Q1은 계획선상, 경영진은 일부 제품에 대해 가격 전략을 조정할 수 있다고 언급\nCITI'S TAKE\n4-6월 영업이익은 985억엔으로 컨센서스를 상회했고, 무라타는 연간 계획의 상향 수정을 발표했지만, 시장 기대치도 비슷한 수준까지 높아져 있었다는 인상을 받습니다. 긍정적인 요인으로는 1) AI 데이터센터 관련 매출의 상승 추세 지속, 2) 가격 인하 폭이 당초 계획보다 억제되고 있다는 점을 들 수 있습니다. 다만 에너지 가격, 귀금속 가격, 인건비에 따른 비용 증가도 가시화되고 있습니다. 무라타는 비용 전가를 실시하지 않았기 때문에, 신계획상의 영업이익률(OPM)은 당사의 기존 전망을 하회했습니다. 설명회에서 경영진은 MLCC 가격 전략과 관련해, 기존 고객과의 장기적 관계를 감안하여 전략을 유지하겠지만, 유통업체(디스트리뷰터)에서 발생하고 있는 가격 인상에 대해서는 조정을 실시할 수 있다고 언급했습니다. 주가는 매력적인 수준에 있지만, 당사는 회사가 상당한 업사이드로 이어질 수 있는 전략 방향의 변화를 실행할지 여부를 확인하고자 합니다.\n시사점 — MLCC BB율은 1.47에 달해 엔화 약세를 감안하더라도 높은 수준이지만, 신계획상 7-9월 MLCC 매출은 4-6월 수준에 머물러 있습니다. 당사는 회사와의 논의 및 기타 리서치를 통해 무라타가 신계획을 얼마나 보수적으로 설정하고 있는지 파악하고자 합니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-01T08:43:00+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24251",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24251",
-      "text": "Citi 트레이딩 전략) 다시 코스피200 숏에 나설 시점인가? 데드캣 바운스는 동력을 소진하는 중  한국 주식시장의 변동성이 지속되고 있습니다. 수요일 코스피200 선물이 Citi가 5월 8일부터 제시해 온 888 타깃을 하회했을 때 풋 롤다운을 권고하며 \"KM1 기준 840 아래에서는 공격적인 숏커버 랠리\"가 나올 것이라고 예상했는데, 저점 823에서 이틀도 안 되어 26.4% 반등한 이번 랠리는 \"공격적\"이라는 정의에 부합한다는 평가입니다.  코스피…",
-      "images": [
-        "https://cdn5.telesco.pe/file/YK1pBIMHAoir7StE6d_48i9DBYomlv34hQW0Ear9LDFL9SkkLwdZYusXbHSHPgtRYiBkEctJjRpvNwsF0FPwILZfCZvR5UZAQh8zsgfz4OPJBu755WnrGnPocsM2lp2-bl_8w0R2cfg9gDle8FXiPlzVjfVqCQ4RDsrpFsG4MqDYHonFU131oovFr45RCE4aIkKXpvG-pkHbCFQAHhv_xuOHLMbhuv3d8wH-_RdrTjyfaaIRt5G6Ka8zWKkY5jgQTBWPOMvR_JosD62SHU1LXrwbzqrH7R-ncnWJABvVjEabBvW8DvBPaUwEvZ8HP2nQRaYLs1dYe-TVc4zrEdDFnw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-01T08:38:51+00:00"
-    },
-    {
       "id": "x:sama:2083467194663571701",
       "source": "x",
       "author": "sama",
@@ -428,18 +572,6 @@
       "published_at": "2026-08-01T07:22:45+00:00"
     },
     {
-      "id": "tg:EMchina/32024",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32024",
-      "text": "‘검은 7월’은 2거래일 연속 상승으로 마무리. 'AI 거래’ 저점 지났나\n• 다수 애널리스트들은 모멘텀 종목 큰 폭의 조정과 AI 선두 기업들의 밸류에이션 일부 회복 거치면서 순환매의 가장 격렬한 단계는 지났다고 평가\n• 그러나 저점이 정확하게 확인되었다는 뜻은 아님\n• JP모건은 퀄리티 비중 확대 권고. 골드만삭스는 장기 금리 리스크 제시 & 높은 유동성 및 낮은 혼잡도 유지 권고\n“黑色7月”以“两连涨”收尾，“AI交易”见底了吗？\n多数分析师认为经历动量股的大幅回调以及AI龙头估值有所修复后，轮动最剧烈轮动阶段已过。但同时强调并不意味着精确底部已经确认。摩根大通建议增配质量因子，高盛提示长端利率风险，建议维持高流动性、低复杂度持仓。\nhttps://wallstreetcn.com/articles/3778474#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-01T07:16:22+00:00"
-    },
-    {
       "id": "tg:HI_GS/6815",
       "source": "telegram",
       "author": "HI_GS",
@@ -450,54 +582,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-01T07:16:01+00:00"
-    },
-    {
-      "id": "tg:EMchina/32023",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32023",
-      "text": "월드컵 때문에  ========================  ~ Macau’s gross gaming revenue fell to MOP$18.5 billion (US$2.29 billion) in June, down 12.1% year-on-year according to information from the Gaming Inspection and Coordination Bureau (DICJ)  ~ The figure was also down 18.1%…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-01T05:11:55+00:00"
-    },
-    {
-      "id": "tg:EMchina/32022",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32022",
-      "text": "립모터 7월 전기차 인도량 101267대. 전기차 스타트업 월간 최대 인도량 기록\n零跑汽车7月交付突破10万台，创造车新势力单月交付新高\n8月1日，零跑汽车公布7月交付数据，单月交付量达101267台，同比增长102%，成为国内首个月交付破10万台的造车新势力品牌。\n产品层面，零跑A10单月销量接近3万台，旗舰SUV D19单月交付破万台，MPV D99平均成交价超过30万元。依靠全域自研与成本控制能力，零跑已实现6万至30万元全价位段覆盖。此外，公司计划于8月发布全新车型A05，并于9月技术日推出升级版无高算力依赖的智驾世界模型。\nhttps://cnevpost.com/2026/08/01/leapmotor-tops-100000-monthly-deliveries/",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-01T05:08:02+00:00"
-    },
-    {
-      "id": "tg:EMchina/32021",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32021",
-      "text": "키옥시아 1분기 실적쇼크  • 영업이익 1.27조엔 vs. 예상 1.37조엔  •  순이익 8421.7억엔 vs. 예상 9738.1억엔  • 주식분할(1:3) & 자사주 매입 계획  铠侠第一季度净利润不及市场预期 铠侠（Kioxia）第一季度营业利润1.27万亿日元，上年同期449.0亿日元，市场预估1.37万亿日元。第一季度净利润8,421.7亿日元，上年同期182.8亿日元，市场预估9,738.1亿日元。铠侠将进行1股拆3股的股票分。 拆并宣布股票回购计划。  https://n…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-01T05:06:05+00:00"
-    },
-    {
-      "id": "tg:EMchina/32020",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32020",
-      "text": "미중 첨단기술 분쟁 지속  ========================  ~ 현지시간 29일 CNBC에 따르면 중국 상무부는 온라인 성명을 통해 \"FCC의 중국산 제품에 대한 규제 강화는 미중 경제 및 무역 안정에 심각한 악영향을 미친다\"고 비판했다. 이어 \"미국에 해당 결정을 철회할 것을 촉구했으며 철회하지 않을 경우 보복 조치를 취할 것\"이라고 경고했습니다  https://n.news.naver.com/article/374/0000524870?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-01T04:46:29+00:00"
     },
     {
       "id": "tg:bornlupin/19466",
@@ -520,10 +604,10 @@
       "url": "https://t.me/bornlupin/19461",
       "text": "🕳\n반도체 수출 | 2026년 7월 31일\n[수출금액]\n- 디램(모듈제외): 수출액 $13,545mn, Y/Y +467%, M/M +21%\n- 디램(모듈포함): 수출액 $21,226mn, Y/Y +394%, M/M -3%\n- 플래시메모리(낸드): 수출액 $1,781mn, Y/Y +280%, M/M -28%\n- SSD: 수출액 $4,512mn, Y/Y +500%, M/M -13%\n- MCP(HBM): 수출액 $10,083mn, Y/Y +140%, M/M -20%\n[수출단가]\n- DRAM(모듈 제외)수출단가는 $91,931/kg로 전년 대비 +517%, 전월 대비 +23%\n- DRAM(모듈 포함)수출단가는 $67,970/kg로 전년 대비 +525%, 전월 대비 +14%\n- 플래시메모리 수출단가는 $61,751/kg로 전년 대비 +411%, 전월 대비 -1%\n- SSD 수출단가는 $25,072/kg로 전년 대비 +513%, 전월 대비 +19%\n- MCP(HBM) 수출단가는 $98,686/kg로 전년 대비 +134%, 전월 대비 +5%",
       "images": [
-        "https://cdn5.telesco.pe/file/gl3XW9d1chjGD0wnGI0fegL35rtIyEPhEgG6XJMKLCbtkxEUOTH1vviseozeiIpigUV5ywDp7ChWC2dqNXjk0uRAxihYDxWI5JZA6pIzD9Sjk0xRP9xoVyd035Ww46Cf-GaPNCoEQSXlbXGr8_GTvChSbnBnPryW3VGkfRLP93oKzY7SvS805VKX6FQ7vNc4-a0zGUqM0NTC--5toAejavDiZcXI8KQVN6mNiWVEgziKUyVqSPN0qCfqVZlk97zlorQoNVkpuSv8HOs2cBVLq2EL2YBTwImUqzIc8LPgFdFqF8OKS_MF3cIHOqIDIBbiYQ7Fa2eEENvzSANZps4xHg.jpg",
+        "https://cdn5.telesco.pe/file/lCcFB2WfHd1P-75hrBdp3mNJc928zHTFoaMBzvHO9J35mKb-iS6G_8aPtjb_YCjO_TitlBKy_lYCBBSbjq0AqE5tYzdhQJ8QVUQy-ilovCXJMmwXxMFZYI3txi0k4MXxuguLS29P-ZSTsQPbq0YinnnMemFlcYXH4BOFJQRwKXDEBbrBwPqx9o0nY_gcRsGh0m-OBzcVlP3ssb2eB7zpuNGFLX0HyuvXh8e17NXKkDi031dhDxm8KV7LN33pKFscRH9G-tnlsD1Fi8K5bfIubUSzRl_TqbHtKvjkJI7OC789TOVNdKY6PfURaQnRnXipB9Y1L5x-z9r85fzP7mP1QA.jpg",
         "https://cdn5.telesco.pe/file/GTAgKZrCRbHoHljkx-ioWOaDEfVg7LppU_STbIMve96ES2WX_o-ubYDo_uYUN17XPTpiGbcw5sn8T859OGnh1SZ6nv7rqECXXzaiBz25pwaj14V6zVr4AIZjOo7qMjSrU0zviSleI0DtHldRsF5pZdz-SA5v1332xquon4i60I4p4GqLmZnRONw44jku5VOWNY0Jstc7LULXTocsuI-hqK3aen2T3a6JJVG0ATjADufb2etkxiwbINRm8RBPeRs3-lwkDqPp93prMXQ4f__JxFo7KRsO4S_zXIyE3RzLB4lwZdGfvW7eMJZ9hsyDLKkJb6VK_U-KBAQUlk-2Cdn3Pg.jpg",
         "https://cdn5.telesco.pe/file/J-OV8rlRm_9PlWaqQ47w-4vRWWxmCaUDWoBoGqSOuc_65jekeJKO2CBMIHHLr34kDZwmEOAcNl6fZ7SHKGtSF54a4emjmpn7yD2JQG1ji50HDwoCXM2NTplhWbZf4uy_mONQI3kV26qyDGK8X8rAxzT44_kYcGCGBNxcihJTLuLsTmsy3D5eIqVPh1lj8Xh3NbxPTHLgl636JerdmuyCFjSxToU5hyKELISJ7kpTXgkAaL_PPSKiPn5IbAS13l22UthO1Zo71veD_KJXtvMsm5lLHRmu9jI5WMtfXB4AW4o5b1LoU1WdttEoWPabxstfO1DJMOz_Y4jvGNg7L1eSUw.jpg",
-        "https://cdn5.telesco.pe/file/LM9cmO0a9BdjoGczT6eMp3__nMy2LwerOa8_yf4EJ4Pw-Mb7c0lEH8nup1P0tJZE7stqQbjYnndemMJqga7tGs4IkICAV0Vv0juYfxJ358Fj44lZF6sj-bKXRq5EKH_jIVwamM5_H8v21-jr9FvCSM1VurjLJI0Ap3xU1s8pLmFjkUPzLnU3crWq_3zSe1B3M4v_NAGJd5ryp0gv_yoN_f-ButvzAj9cPj3u4K7DDO9zFFlknyBb5t1QFMr9eucsVUPb3Sskg39pBjF7SanHEFY8bdgD6_K1cWq6Kx9WOHSbRlOVF4ovLgciObthMIyAuPZdvO0Av2ViBxEZ27whcw.jpg",
+        "https://cdn5.telesco.pe/file/WeUHWGnV-svIF7hxh11v6F5c2e3mUEWG8X9_CpVa_1tFOax9Zx9GEc5to36otO8c7Uy-7JvjzHqlCSyN7nTYxmBzQfcxh8XqT6IWD8YUmb5KVnqRnq-FpFW315JXTcfICkGEZ5iOVlckNU-rbZ2kvYVUCZS3Pm58i9wVvnEocbo79F6LmMHANPpz8KexYDOala_kDE7Drs6Os3SpugdHUwlMReJaDIJMvSnkMXUQlPK0bMfh_atQeB3cos8H9WpEznjO4_SnP2xm490bjP7mBBQGcSY4oKDecAJQORgR0J6len4kkp0tWJUu9I1-CA-NrTYHmqojFRJdqYAaDxS4Zw.jpg",
         "https://cdn5.telesco.pe/file/bk7NiTnh3fPOFn8F_TAE7zTypwrZ7htXNn9rqXXZK4fTEJJ6NIKEpLXR1Qn3sL5wFKjoEGWBWxxspaY-DbjZsW_bKOGjfgjtpPjRnMRif2RfO9vfzb0NacdicDMJB2QpHUfmEQi5BUQbsMAkt1E_YcrVU0IXey_cZ-EsYIt46e2eHY0JG0xw4SLerE0qlUrG2oh4d76OVbl7f2eFzTNN9R3k1zUWX1kNiotWjq48n_2sslVmXHFID90U7yGKsh0iXAyNLDx5rXmuTF09v60bT-MEqnQo4LNboB8RX0Lq666ikmqOBkT0BRUer62UaZC2Db877qkyFM7psF0pEd5JBg.jpg"
       ],
       "summary_ko": "",
@@ -633,6 +717,20 @@
       ],
       "summary_ko": "이기지 못해서 지쳤어",
       "published_at": "2026-07-31T20:35:45+00:00"
+    },
+    {
+      "id": "x:ylecun:2083286349239513196",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2083286349239513196",
+      "text": "RT by @ylecun: OPENAI IS GOING TO TAKE THIS ENTIRE MARKET DOWN WITH IT And you don't have to own a single share to get hurt. What I'm about to explain should worry anybody who thinks they're diversified: OpenAI is a LOAD-BEARING company. Pull it out and the whole structure comes down. They spent $17.2 billion on Microsoft Azure in calendar 2025, which is 69% of Microsoft's entire year-over-year growth. Take that one customer out and Azure grew 8%, which barely beats inflation. Now look at what Microsoft just reported: The backlog everyone is celebrating came in at $678 billion, up 84%, and the stock ripped. Sounds fantastic until you realize that when you exclude OpenAI the backlog grew only 25%. Back in January, when that number was $625 billion, roughly $281 billion of it was owed by one private company nobody can audit. And Oracle is in even WORSE shape. Something like $300 billion of its backlog, more than half, rides on the same counterparty. So you think you own Microsoft, Oracle, Amazon, CoreWeave, Nvidia and SoftBank? What you actually own is the same trade 6 different ways, and every leg of it runs back to one company that burns cash and still cannot go public. The people with real money are already backing out. Julien Garran pointed out that Masayoshi Son could not get a $10 billion bridge loan against his own OpenAI shares. Think about that for a second, because nobody says no to that man. Blue Owl walked away from a $10 billion Oracle financing. Three months ago the banks were dancing near the door and now they are walking through it. Then there is Julien's depreciation work, which makes this even worse: Run the capex schedule out and hyperscaler net income falls 98% by 2033. To break even they would need to build 20 killer apps inside 6 years. Another Google Search. Another YouTube. Another Office. They have not built ONE. If OpenAI cannot go public in the next 8 months, they are dead. Whenever you see hubris and debt in the same room, run, don't walk.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2083285979452878848/img/0U4O_DqP4W-JqGh6.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: OPENAI는 이 전체 시장을 무너뜨릴 것입니다. 단 한 주라도 소유할 필요는 없습니다. 제가 설명하려는 내용은 자신이 다양하다고 생각하는 사람이라면 누구나 걱정할 것입니다. OpenAI는 부하를 견디는 회사입니다. 잡아당기면 전체 구조물이 내려옵니다. 그들은 2025년에 Microsoft Azure에 172억 달러를 지출했는데, 이는 Microsoft 전체 전년 대비 성장의 69%에 해당합니다. 그 고객 한 명만 빼면 Azure는 8% 성장했는데, 이는 인플레이션을 거의 능가하지 못하는 수치입니다. 이제 Microsoft가 방금 보고한 내용을 살펴보십시오. 모두가 축하하는 백로그는 84% 증가한 6,780억 달러에 달했고 주가는 폭락했습니다. OpenAI를 제외하면 백로그가 25%만 증가했다는 사실을 깨닫기 전까지는 환상적으로 들립니다. 지난 1월 그 수치가 6,250억 달러였을 때, 그 중 약 2,810억 달러가 개인의 빚이었습니다.",
+      "published_at": "2026-07-31T20:19:05+00:00"
     },
     {
       "id": "x:ylecun:2083268072157462744",
@@ -758,9 +856,7 @@
       "author_url": "https://x.com/ylecun",
       "url": "https://x.com/ylecun/status/2083179134092530092",
       "text": "RT by @ylecun: Trump is still demanding the Senate delay its recess to pass his so-called \"SAVE AMERICA Act.\" He calls it election integrity. But it’s purely a corrupt Voter Supression \"Save Trump’s Ass Act.\" It strips voting rights from: - Nearly 69 million married women whose birth certificates no longer match their legal names. - Elderly voters. - Disabled voters. - Poor voters w/o cars or bus money - Remote and rural workers who rely on mail or online registration. All of them would face new voting barriers under this bill. Republican John Cornyn already admitted the votes aren’t there. Trump keeps pushing it anyway — because free voting is a threat to his power. If everyone votes, he loses. This isn’t about stopping fraud. It’s about making sure fewer of the \"wrong people\" can vote - \"wrong\" being people who will vote against him. https://www.americamagazine.org/short-take/2026/07/30/save-act-voting-election-integrity/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2082946588826099712/SKlAvKuO?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "@yleun의 RT: 트럼프는 소위 \"미국 구하기 법안(SAVE AMERICA Act)\"을 통과시키기 위해 상원의 휴회 연기를 여전히 요구하고 있습니다. 그는 그것을 선거의 정직성이라고 부릅니다. 그러나 그것은 순전히 부패한 유권자 진압 \"트럼프를 구하는 법\"입니다. 이 법안은 다음의 투표권을 박탈합니다. - 출생 증명서가 더 이상 법적 이름과 일치하지 않는 약 6,900만 명의 기혼 여성. - 노인 유권자. - 장애인 유권자. - 자동차나 버스비가 없는 가난한 유권자 - 우편이나 온라인 등록에 의존하는 원격 및 농촌 근로자. 이 법안에 따라 그들 모두는 새로운 투표 장벽에 직면하게 될 것입니다. 공화당의 존 코닌(John Cornyn)은 이미 투표가 이루어지지 않았다고 인정했습니다. 트럼프는 어쨌든 그것을 계속 추진하고 있습니다. 왜냐하면 자유 투표는 그의 권력에 대한 위협이기 때문입니다. 모두가 투표하면 그는 패배합니다. 이것은 사기를 막는 것이 아닙니다. 이는 \"잘못된 사람들\" 중 더 적은 수가 투표할 수 있도록 하는 것입니다.",
       "published_at": "2026-07-31T13:13:03+00:00"
     },
@@ -848,30 +944,6 @@
       "published_at": "2026-07-31T08:52:42+00:00"
     },
     {
-      "id": "tg:bornlupin/19455",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19455",
-      "text": "Kioxia CY2Q26 Review\n헤드라인만 보면 컨센서스 미스였지만 컨퍼런스콜 내용을 포함하면\n내용은 예상보다 훨씬 강한 실적\n으로 평가됩니다.\n시장도 초기 실적 미스보다 차분기 ASP 추가 상승 전망과 Capex 절제, 장기 공급계약 확대 가능성에 주목하며 주가는 실적 발표 후 애프터에서 14-17%까지 상승했습니다.\n특히\nNAND 가격 사이클이 아직 끝나지 않았다는 점을 회사가 직접 확인해준 것\n이 가장 큰 의미입니다.\n1)\n실적\n- 매출:\n1.767조엔\n(컨센 -3.7%)\n- 영업이익:\n1.270조엔\n(컨센 -7.3%)\n- Non-GAAP 영업이익:\n1.326조엔\n(회사 가이던스 상회)\n*시장 컨센서스는 소폭 하회했지만 절대적인 실적은 사상 최대 수준\n2) 3분기 가이던스\n- 매출:\n2.390조엔\n(+35.2% QoQ)\n- Non-GAAP 영업이익:\n1.900조엔\n(+43.3% QoQ)\n- 영업이익률:\n79.5%\n*매출 가이던스는 컨센서스를 약간 밑돌았지만,\n영업이익 가이던스는 사실상 컨센서스에 부합\n3)\nSSD 사업이 실적 견인\n- SSD·Storage 매출\n1.175조엔 (+95.7% QoQ)\n- 전체 매출의\n66% 차지\n- 이 중 데이터센터·엔터프라이즈 SSD 비중이\n60% 이상\n- 데이터센터 SSD 출하량은\n사상 최대\n4)\nNAND ASP 추가 상승 전망\n2분기\n- ASP 약\n+70% QoQ\n- Bit 출하량 Low Single Digit 증가\n- 3분기 가이던스를 역산하면 Bit 출하 증가폭이 제한적일 경우\nASP는 약 +20~30% QoQ 추가 상승\n전망\n5)\n하반기 업황 자신감\n-\n2028년 생산능력의 약 50%를 장기 공급계약으로 확보할 가능성\n- 시장점유율 확보를 위한\n과도한 CAPEX 확대에는 반대\n입장을 표명\n컨센 미스는 실적이 나빴기 때문이라기보다\n시장 기대치가 지나치게 높았기 때문\n으로 보여짐",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T08:20:04+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19454",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19454",
-      "text": "📌\n삼성전자(시가총액: 1,534조 6,481억)\n#A005930\n📁\n임원ㆍ주요주주특정증권등소유상황보고서\n2026.07.31 17:02:55 (현재가 : 262,500원, +26.81%)\n보고자 : 노태문(68년생)/등기임원/대표사장\n보고전 : 0.00%\n보고후 : 0.00%\n변동률 : 0.0%\n날짜/사유/변동/주식종류/비고\n2026-07-30/ 장내매수(+)/ 3,045주/ 보통주/-\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260731000755\n회사정보:\nhttps://finance.naver.com/item/main.nhn?code=005930",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T08:15:46+00:00"
-    },
-    {
       "id": "tg:HI_GS/6814",
       "source": "telegram",
       "author": "HI_GS",
@@ -908,32 +980,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-31T07:33:17+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19453",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19453",
-      "text": "키옥시아(Kioxia)\n1. AI 수요에 따른 성장의 가속화\n1분기 역대 최대 매출 및 영업이익 달성\n, 이러한 추세는 2분기에도 지속됨\n에이전틱 AI(Agentic AI)의 광범위한 도입\n이\n견조한 NAND 수요 성장을 견인 중 (아직 초기 단계)\n주요 고객과의 CY28(2028년) 50% LTA(장기공급계약) 수량 확보 목표를 차질 없이 진행 중\n이며\n, 장기적인 매출 가시성을 확보하고 고부가가치 고객 군과의 긴밀한 협력 유지\n확대되는 AI 수요에 대응하기 위해\n제조 인프라를 지속적으로 고도화 및 확장 중\n2. 미래 성장 투자를 뒷받침하는 재무적 건전성\n역대 최대 핵심 잉여현금흐름(Core Free Cash Flow) 달성\n순현금(Net Cash) 상태 달성\n으로 재무적 유연성을 대폭 개선\n3. 전략적 우선순위에 기반한 지속적인 가치 창출\n성장 투자, 자본 효율성, 주주 환원 등 다양한 이니셔티브 검토 중\n주식분할\n분할 비율:\n1:3\n권리확정일:\n2026년 9월 30일\n효력발생일:\n2026년 10월 1일\n자사주 매입\n매입 한도:\n최대 3,000만 주 / 최대 8,000억 엔\n매입 기간:\n2026년 8월 3일 ~ 2026년 10월 30일",
-      "images": [
-        "https://cdn5.telesco.pe/file/HWMbLDU4GTUgqA4F3sC1f14ZpLu-EOVgTE7oEkXqc_jSrkOdS0_3-1sPX4eu5CkcT0s56Qx70nCxqIh_ZObmpbPIDiPn4OqOS9VnMfei1_vVnjJX9-h3OSNnFHrLJ1vf0b9zXCjYn8n-FOrH7Bndeof4-Kn1LpAn0YhGBwHQk8AEDUDKThZIHK2O-i4Cq4ghPLcA04xGI35yBFuTLC6tvMu7LHsgFeWJH-0FAbH8BTszYF01INCWXcrsDdyxME3TFOZv5eMN_2u6Y7yzL7b0kW636nqUQ8O-bHfMcqbSuNrJZTHvYAbv3RB5O1Jd9VWNMlq1fY9tBD-txQHE6OUjhw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-31T07:19:05+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19452",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19452",
-      "text": "키옥시아(Kioxia)\n데이터센터 매출 폭증\n:\n데이터센터용 매출은 전년 동기 대비 5배 이상 증가한 1조 1,747억 엔을 기록\n, 단 3개월 만에 2026년 3월기 연간 매출에 맞먹는 실적을 올렸습니다.\n가격 급등 및 2027년 전망\n:\n공급 부족이 계속되면서 평균 판매 단가(ASP)가 전 분기 대비 70% 상승\n했습니다.\n키옥시아는 이 같은 NAND 수급 경색 상태가 2027년까지 이어질 것으로 예상하고 있습니다.\nhttps://www.nikkei.com/article/DGXZQOUB309KI0Q6A730C2000000/",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T07:12:25+00:00"
     },
     {
       "id": "x:ylecun:2083080230655430673",
@@ -1011,7 +1057,7 @@
       "url": "https://t.me/enc210406/4271",
       "text": "한화오션 군함 수주 공시\n@ 함종: 구축함(KDDX)\n@ 수량: 1척(선도함 상세설계, 건조)\n@ 발주: 방위사업청\n@ 선가: 8,380억원",
       "images": [
-        "https://cdn5.telesco.pe/file/G6dPRL3jo_HUZ0qeUdKhdPXcvlHwScTQVKolaJzmeVY_OzylfRRjhVgl2_OTQW_n8x44BFQ5HiXD7AgUrlmSKVnKRlM_tvnhsR99SOC4Js_t6RG3y4XKzRVKqSLbHrMAw5gj4FDBwXrHwfavo8upj3GGSeKB8Az8-xHpO6H8kiaI0DvMRY1tg76BTkfYnEvbN7Qx2CrRqJkUKGU0y9biXDp9jSc7ur-zl4GT_whS9XwkmyFScCHBvk3t-q67inet34VI0zqICE6PX1tbfvRkcwbNQLAU5vplBN-U9x_BRW4D2CkowaTq42YgRnSt5isfpbh2wl3JyOEafmsRzyflcg.jpg"
+        "https://cdn5.telesco.pe/file/WC3Qz-2f77n-hgKEbo8wcRRgCYiy1guQV9tF2Mt8pfwKbGe3G2d61TVah9C359lWyG75sxX8Tkutx29ZW7VkTrb8LHGK1zfLioprfnVu6z0mptBEHhrnQyPKKhK7LbMgFd8T1SBYiw7POTiV9Q4isshFLl6ZMkD6zIri1fYzUpfX8P2ioTE8ZuYbvoe5JONTxes4dByuqZ3XhG6cE3dAIBQvBK2zXCvIKgFgM77zWOUp35C5jc2kh9EQHhxaGBfeoThTZS7PbqcZKL-RnpW0AXXHlpeN8ves3j5eaNbQTaXunzSB7PRJrVXZN4N_NWct1S5LuiCFgoSc9P6HzoPLSw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-31T00:44:57+00:00"
@@ -1089,20 +1135,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-30T21:21:13+00:00"
-    },
-    {
-      "id": "x:ylecun:2082929308910391771",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2082929308910391771",
-      "text": "RT by @ylecun: The narrative: Blame the Agent, instead of the Agency that told him to “apply all your powers and told to achieve this win.” Ironically, many forefront members of the AI-Safety community, in their fervor for proof that AI (the weights) have jumped the fence, are actively helping to absolve companies of the responsibility of building systems with guards and constraints OUTSIDE of models to control agentic behavior. They are too eager to exclaim, “I was right with my worries and here is proof of it!” that they are working against what should be their own #1 objective: requiring people who build these systems to do so with safety constraints, around and outside AI models—and holding them accountable when they do not act responsibly. We are in the weird pre-seat-belt moment when safety advocates are arguing that momentum is dangerous instead of holding auto makers accountable for adding harnesses with restraint.",
-      "images": [
-        "https://pbs.twimg.com/media/HOgNKtLaUAAGC1J.jpg"
-      ],
-      "summary_ko": "RT by @yleun: 내러티브: \"모든 힘을 다해 이 승리를 달성하라고 지시한 에이전시 대신 에이전트를 비난하세요.\" 아이러니하게도 AI 안전 커뮤니티의 많은 최전선 구성원은 AI(가중치)가 울타리를 뛰어넘었다는 증거에 열성적으로 에이전트 행동을 제어하기 위해 모델 외부에 가드와 제약 조건을 갖춘 시스템을 구축하는 책임을 회사에서 면제하도록 적극적으로 돕고 있습니다. 그들은 “내 걱정이 옳았고 여기에 그 증거가 있습니다!”라고 외치고 싶어합니다. 즉, 이러한 시스템을 구축하는 사람들에게 AI 모델 주변 및 외부에서 안전 제약 조건을 적용하도록 요구하고 책임감 있게 행동하지 않을 경우 책임을 묻는 것입니다. 우리는 안전벨트를 미리 매는 이상한 순간에 있습니다.",
-      "published_at": "2026-07-30T20:40:20+00:00"
     },
     {
       "id": "x:GoogleDeepMind:2082904278461469091",
@@ -1451,18 +1483,6 @@
       "published_at": "2026-07-30T01:22:10+00:00"
     },
     {
-      "id": "tg:HI_GS/6805",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/6805",
-      "text": "[HD현대중공업, 외국인 근로자 부실 계약 논란에 처우 개선 '약속'…대내외 악재 속 리스크 관리 사활]\n• 외국인 근로자 임금 체계 개편 및 계약 강요 논란 관련 국제인권단체(BHRRC)에 공식 답변서 전달\n• 종합 보상 체계 전환으로 총 보상 증대를 주장하는 한편 식비 무상 제공 및 기존 부담분 전액 환급 조치\n• 5월 직고용 이주노동자 1600여 명 대상 기본급 삭감 개편 추진으로 노동계 반발 및 집단 노조 가입 발생\n• 최근 울산조선소 20대 외국인 노동자 사망 사고 등 대내외 악재 악화 속 리스크 관리 대응\n❗️\n임금 개편 논란과 안전사고 악재 속 식비 환급 등 전향적 처우 개선책으로 인권·노동 리스크 진화 시도\n출처: [더구루]\nURL:\nhttps://www.theguru.co.kr/news/article.html?no=105104\n─────────────────────\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n🎴\n잘해줍시다.. 다들 고생인데.\n..",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-30T01:20:26+00:00"
-    },
-    {
       "id": "x:sama:2082628413769003269",
       "source": "x",
       "author": "sama",
@@ -1714,9 +1734,7 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2082153297670992134",
       "text": "New Anthropic research: Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has helped our researchers find weaknesses in cryptographic algorithms—the mathematical methods that are used to keep data private. Read more: https://anthropic.com/research/discovering-cryptographic-weaknesses",
-      "images": [
-        "https://pbs.twimg.com/card_img/2082152739665063938/v6b5hx3c?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "새로운 인류학 연구: 클로드와 함께 암호화 약점 발견. Claude Mythos Preview는 우리 연구원들이 데이터를 비공개로 유지하는 데 사용되는 수학적 방법인 암호화 알고리즘의 약점을 찾는 데 도움이 되었습니다. 더 읽어보세요: https://anthropic.com/research/discovering-cryptographic-weaknesses",
       "published_at": "2026-07-28T17:16:45+00:00"
     },
@@ -2177,7 +2195,9 @@
       "author_url": "https://x.com/karpathy",
       "url": "https://x.com/karpathy/status/2074973674332123157",
       "text": "RT by @karpathy: Rewriting Bun in Rust https://bun.com/blog/bun-in-rust",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2082600161549950977/VPyAvabh?format=jpg&name=800x419"
+      ],
       "summary_ko": "@karpathy의 RT: Rust에서 Bun 다시 작성 https://bun.com/blog/bun-in-rust",
       "published_at": "2026-07-08T21:47:29+00:00"
     },
@@ -2546,20 +2566,6 @@
       "images": [],
       "summary_ko": "개인 업데이트: 저는 Anthropic에 가입했습니다. 나는 LLM의 최전선에서 앞으로 몇 년이 특히 형성될 것이라고 생각합니다. 저는 여기 팀에 합류하여 다시 R&D로 돌아가게 되어 매우 기쁩니다. 나는 교육에 대해 깊은 열정을 갖고 있으며, 제 시간에 맞춰 작업을 재개할 계획입니다.",
       "published_at": "2026-05-19T15:05:42+00:00"
-    },
-    {
-      "id": "x:karpathy:2053872850101285137",
-      "source": "x",
-      "author": "karpathy",
-      "author_name": "Andrej Karpathy(안드레이 카파시) · AI 연구자",
-      "author_url": "https://x.com/karpathy",
-      "url": "https://x.com/karpathy/status/2053872850101285137",
-      "text": "This works really well btw, at the end of your query ask your LLM to \"structure your response as HTML\", then view the generated file in your browser. I've also had some success asking the LLM to present its output as slideshows, etc. More generally, imo audio is the human-preferred input to AIs but vision (images/animations/video) is the preferred output from them. Around a ~third of our brains are a massively parallel processor dedicated to vision, it is the 10-lane superhighway of information into brain. As AI improves, I think we'll see a progression that takes advantage: 1) raw text (hard/effortful to read) 2) markdown (bold, italic, headings, tables, a bit easier on the eyes) <-- current default 3) HTML (still procedural with underlying code, but a lot more flexibility on the graphics, layout, even interactivity) <-- early but forming new good default ...4,5,6,... n) interactive neural videos/simulations Imo the extrapolation (though the technology doesn't exist just yet) ends in some kind of interactive videos generated directly by a diffusion neural net. Many open questions as to how exact/procedural \"Software 1.0\" artifacts (e.g. interactive simulations) may be woven together with neural artifacts (diffusion grids), but generally something in the direction of the recently viral https://x.com/zan2434/status/2046982383430496444 There are also improvements necessary and pending at the input. Audio nor text nor video alone are not enough, e.g. I feel a need to point/gesture to things on the screen, similar to all the things you would do with a person physically next to you and your computer screen. TLDR The input/output mind meld between humans and AIs is ongoing and there is a lot of work to do and significant progress to be made, way before jumping all the way into neuralink-esque BCIs and all that. For what's worth exploring at the current stage, hot tip try ask for HTML.",
-      "images": [
-        "https://pbs.twimg.com/media/HHz_ftzaIAAwkQs.jpg"
-      ],
-      "summary_ko": "이것은 정말 잘 작동합니다. 쿼리가 끝나면 LLM에게 \"응답을 HTML로 구성\"하도록 요청한 다음 브라우저에서 생성된 파일을 봅니다. 또한 LLM에 출력을 슬라이드쇼 등으로 표시하도록 요청하는 데 성공했습니다. 보다 일반적으로 imo 오디오는 인간이 선호하는 AI 입력이지만 비전(이미지/애니메이션/비디오)은 AI에서 선호하는 출력입니다. 우리 뇌의 약 1/3은 시각 전용의 대규모 병렬 프로세서로, 정보가 뇌로 전달되는 10차선 초고속도로입니다. AI가 향상됨에 따라 다음과 같은 이점을 활용하는 발전이 있을 것이라고 생각합니다. 1) 원시 텍스트(읽기 어렵거나 읽기 어려움) 2) 마크다운(굵게, 기울임꼴, 제목, 표, 눈에 좀 더 편함) <-- 현재 기본값 3) HTML(기본 코드는 여전히 절차적이지만 그래픽에서는 훨씬 더 유연함)",
-      "published_at": "2026-05-11T16:20:21+00:00"
     }
   ]
 }
