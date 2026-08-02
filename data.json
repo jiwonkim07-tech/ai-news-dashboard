@@ -1,22 +1,34 @@
 {
-  "updated_at": "2026-08-02T18:05:22+00:00",
+  "updated_at": "2026-08-02T20:10:27+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 5
   },
   "briefing": {
-    "headline": "샤오미, 휴대폰 출하량 목표 1.1억대로 상향",
+    "headline": "이란, 호르무즈 해협 주권 관할 계획 통과",
     "bullets": [
-      "중국 인민은행, 20개월 연속 금 보유량 증가",
+      "샤오미, 휴대폰 출하량 목표 1.1억대로 상향",
       "OPEC+ 9월 생산쿼터 확대 일시 중단 계획",
+      "한화엔진 2Q26 잠정 실적 발표",
       "골드만삭스, 아마존 Q2'26 리뷰: AWS 매출 성장",
-      "국내 실적 전망: 코스피 26F OP YoY +225% 예상",
-      "한국의 개인 투자자들, 7월 코스피의 가혹한 반전에 흔들림"
+      "한국 투자자, 위험을 마다하지 않는 투자 성향"
     ],
-    "generated_at": "2026-08-02T18:05:22+00:00",
+    "generated_at": "2026-08-02T20:10:27+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32050",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32050",
+      "text": "* 이란 의회, 호르무즈 해협 '주권 관할' 계획 통과  • 이란의 호르무즈 해협 ’주권 관할 ‘계획‘이 곧 의회 승인 & 영구적인 법률 형태로 통과될 가능성  • 이란과 오만 두 국가만이 호르무즈 해협 관리 방식에 대해 결정을 내릴 권리 보유. 이란은 오만과 소통 개시. 오만도 초기 동의 표명  • 관련 방안은 조만간 확정될 전망  伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划 据伊朗媒体30日报道，伊朗议会主席团成员萨利米表示，伊朗对霍尔木兹海峡“实施主权管辖…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-02T19:41:25+00:00"
+    },
     {
       "id": "x:karpathy:2083948654377996480",
       "source": "x",
@@ -430,18 +442,6 @@
       "published_at": "2026-08-02T03:06:24+00:00"
     },
     {
-      "id": "tg:EMchina/32036",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32036",
-      "text": "시타델의 AI 저가매수. 시장에 좋은일인가\n• 시타델은 10% 이상의 할인율로 Situation Fund의 160억달러 규모 주식 포트폴리오 인수 & 시장 최대의 ‘강제 매도자’ 정리. AI 주식의 연쇄 하락 멈추며 기술주 반등 지지\n• 한 네티즌은 sns 통해 \"시타델 같은 헤지펀드는 대규모 거래 시 이러한 AI을 장기적으로 좋게 보고 사는 것이 아님. 15%~35% 수준의 수익에서 매도할 것\"이라고 평가\nCitadel抄底“AI股神”，对市场是好事吗？\nCitadel以逾10%折价接盘Situational基金160亿美元股票组合，清除了市场最大的“被迫卖家”，止住AI股连环踩踏并推动中美韩科技股大幅反弹。\n有网友在社媒上评论：\n像Citadel这样的对冲基金，做大规模交易不是看好这些AI持仓，赚15%-35%就会卖。\nhttps://wallstreetcn.com/charts/41959498",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T03:03:11+00:00"
-    },
-    {
       "id": "x:karpathy:2083749667410727319",
       "source": "x",
       "author": "karpathy",
@@ -520,6 +520,18 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-02T01:07:30+00:00"
+    },
+    {
+      "id": "x:ylecun:2083638373080825886",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2083638373080825886",
+      "text": "RT by @ylecun: maybe i am lucky but across my work (ai+bio research) and relevant hobbies (music, motorsports) there have been 0 model releases where my reaction has been “oh no, the machine is somehow reducing my enjoyment of my craft.”",
+      "images": [],
+      "summary_ko": "RT by @yleun: 운이 좋았을 수도 있지만 내 작업(ai+bio 연구) 및 관련 취미(음악, 모터스포츠) 전반에 걸쳐 \"아 안돼, 기계가 어떻게든 내 기술에 대한 즐거움을 감소시키고 있어\"라는 반응을 보인 모델 출시가 0번 있었습니다.",
+      "published_at": "2026-08-01T19:37:54+00:00"
     },
     {
       "id": "tg:globaletfi/20885",
@@ -1084,21 +1096,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-07-31T04:27:28+00:00"
-    },
-    {
-      "id": "x:ylecun:2082992928977240372",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2082992928977240372",
-      "text": "RT by @ylecun: Again the rhetoric is trying to convince us that what happened was some new thing and worse that models are people.",
-      "images": [
-        "https://pbs.twimg.com/media/HOhHB5WWUAErXl3.jpg",
-        "https://pbs.twimg.com/card_img/2083391254587396096/2Q73fmpd?format=jpg&name=800x419"
-      ],
-      "summary_ko": "RT by @yleun: 이번에도 수사법은 일어난 일이 새로운 일이고 더 나쁜 것은 모델이 사람이라는 점을 우리에게 확신시키려고 합니다.",
-      "published_at": "2026-07-31T00:53:09+00:00"
     },
     {
       "id": "tg:enc210406/4271",
