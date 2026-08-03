@@ -1,22 +1,501 @@
 {
-  "updated_at": "2026-08-03T00:03:07+00:00",
+  "updated_at": "2026-08-03T04:29:56+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 15
+    "new_this_run": 37
   },
   "briefing": {
-    "headline": "키오시아 3월분기 실적: 낸드 업황 호조",
+    "headline": "알리바바, 2.4조 파라미터 Qwen3.8-Max 공개",
     "bullets": [
-      "DRAM 1g당 가격, 금 1g당 가격 넘어서",
-      "7월 DRAM 수출 단가 상승세 지속",
-      "Nvidia, 8월말 시총 1위 예상 기업으로 75% 선정",
-      "트럼프, 이란과의 회담 내일 오후 시작",
-      "중국, 기후 변화와 수요 폭증에 따른 대규모 정전 사고 방지 위해 전력망 신뢰도 끌어올리기"
+      "골드만삭스, 2020년 11월 이후 최대 순매수 기록",
+      "키옥시아, 3월분기 실적 낸드 업황 호조",
+      "삼성중공업, 유조선 2척 수주",
+      "한국 증시, 레버리지 청산 후 36% 추가 상승 여력"
     ],
-    "generated_at": "2026-08-03T00:03:07+00:00",
+    "generated_at": "2026-08-03T04:29:56+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:globaletfi/20909",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20909",
+      "text": "[알리바바, 2.4조 파라미터 Qwen3.8-Max 공개… 중국 AI 모델 경쟁 격화]\n*발표 개요\n-알리바바가 자사 역사상 가장 크고 성능이 높은 AI 모델인 Qwen3.8-Max를 공개\n-Qwen3.8-Max의 전체 파라미터 수는 2.4조개\n-2026년 7월 문샷AI가 공개한 Kimi K3의 2.8조개와 비슷한 수준\n-알리바바는 Qwen3.8-Max를 다음 주 Alibaba Cloud의 Model Studio를 통해 출시할 예정\n*모델 규모\n-Qwen3.8-Max는 2.4조개의 파라미터를 보유\n-Kimi K3의 2.8조개보다는 약 14% 적지만 전체 모델 규모는 유사\n-파라미터는 AI가 데이터에서 학습한 수치 설정으로, 패턴을 인식하고 답변을 생성하며 작업을 수행하는 데 사용\n-다만 파라미터 수가 많다고 반드시 모델 성능이 더 뛰어난 것은 아님\n-파라미터 수는 모델 개발에 투입된 데이터와 컴퓨팅 규모를 보여주는 지표 중 하나\n*Mixture-of-Experts 구조\n-Qwen3.8-Max는 Mixture-of-Experts(MoE) 구조를 적용\n-전체 2.4조개 파라미터를 매번 모두 사용하는 것이 아니라 작업에 적합한 일부 전문가 모델만 활성화\n-한 번의 요청을 처리할 때 실제로 활성화되는 파라미터는 950억개\n-전체 파라미터의 약 4%만 활성화해 연산비용과 응답 지연을 줄이는 구조\n-거대한 모델 규모를 유지하면서도 실제 서비스 비용을 낮추는 것이 핵심\n*텍스트 모델 성능\n-Qwen3.8-Max는 모델 비교 플랫폼 Arena.AI에서 중국산 텍스트 모델 가운데 가장 높은 순위를 기록\n-다만 글로벌 순위에서는 Anthropic의 Claude Fable 5와 3개의 Claude Opus 모델보다 낮은 수준\n-중국 모델 가운데서는 최상위권에 올라섰지만 폐쇄형 최첨단 모델을 완전히 추월한 것은 아님\n*멀티모달 성능\n-이미지와 기타 시각자료를 분석하는\nArena.AI\n순위에서는 글로벌 2위를 기록\n-1위인 Claude Fable 5 변형 모델에 이어 두 번째로 높은 평가\n-텍스트뿐 아니라 이미지와 동영상까지 처리할 수 있는 멀티모달 모델\n-시각정보 처리 분야에서는 글로벌 폐쇄형 모델과의 성능 격차가 상당히 좁아진 것으로 나타남\n*긴 컨텍스트 처리\n-Qwen3.8-Max는 한 번에 최대 100만 토큰을 처리할 수 있음\n-경쟁 모델인 Kimi K3 역시 최대 100만 토큰을 지원\n-긴 법률문서, 대규모 소프트웨어 코드베이스 또는 수백 페이지의 문서를 한 번에 입력해 분석 가능\n-단순한 챗봇보다 복잡한 기업 업무와 장기 작업을 수행하는 AI 에이전트에 적합한 구조\n*소프트웨어 개발 능력\n-알리바바는 Qwen3.8-Max가 하나의 소프트웨어 엔지니어링 프로젝트를 16일 만에 완료했다고 발표\n-단순한 코드 생성이 아니라 장기간에 걸쳐 계획을 세우고 작업을 수행하는 AI 에이전트 능력을 강조\n-구체적인 프로젝트 내용과 인간 개발자의 개입 수준은 기사에서 공개되지 않음\n*오픈웨이트 전략\n-중국 AI 기업들은 글로벌 개발자 커뮤니티에서 채택을 확대하기 위해 모델 파라미터 수를 적극적으로 공개\n-중국산 주요 AI 모델은 학습된 가중치를 다운로드해 개발자가 직접 실행하거나 수정할 수 있는 오픈웨이트 방식을 채택\n-반면 OpenAI, Anthropic, Google 등 미국 기업은 폐쇄형 모델의 파라미터 수를 공개하지 않음\n-중국 기업들은 오픈웨이트와 비용 효율성을 활용해 폐쇄형 미국 모델과 경쟁하는 전략\n*중국 AI 경쟁 구도\n-알리바바와 문샷AI를 비롯한 중국 기술기업들이 더 강력한 모델을 낮은 운영비용으로 개발하기 위해 경쟁\n-Qwen3.8-Max는 모델 규모에서는 Kimi K3에 근접하고 멀티모달 평가에서는 글로벌 최상위권을 기록\n-중국의 AI 경쟁이 단순한 모델 크기 확대에서 MoE 기반 비용 효율성과 AI 에이전트 성능 경쟁으로 이동\n-알리바바는 Qwen 모델을 자사 클라우드 서비스와 결합해 개발자 및 기업 고객을 확대하려는 전략\n*핵심 정리\n-알리바바가 2.4조 파라미터 규모의 Qwen3.8-Max를 공개\n-문샷AI의 Kimi K3 2.8조 파라미터와 규모가 비슷\n-MoE 구조를 통해 요청당 950억개 파라미터만 활성화해 비용과 응답시간을 절감\n-중국 텍스트 모델 중 1위, 글로벌 시각 모델 평가에서는 2위를 기록\n-텍스트, 이미지, 동영상과 최대 100만 토큰을 처리\n-모델 크기와 성능을 높이면서도 실제 추론비용을 낮추려는 중국 AI 업계의 경쟁 방향을 보여주는 사례\n링크:\nhttps://www.reuters.com/business/retail-consumer/alibaba-unveils-its-most-capable-ai-model-date-not-far-behind-moonshots-size-2026-08-03/",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T04:26:22+00:00"
+    },
+    {
+      "id": "tg:EMchina/32063",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32063",
+      "text": "중국 탄산리튬 현물가격 139350위안/톤. 전일대비 -3250위안 하락\n上海钢联发布数据显示，今日MMLC电池级碳酸锂（早盘）中间价报139350元/吨，较上日16:30价格下跌3250元/吨。\nhttps://wallstreetcn.com/livenews/3143866?ivk=1#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T04:00:23+00:00"
+    },
+    {
+      "id": "tg:EMchina/32062",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32062",
+      "text": "헤지펀드 역사상 최대 규모의 디레버리징  이후, 골드만삭스 데스크는 2020년 11월 이후 최대 순매수를 기록\n• 지난주 헤지펀드는 3년래 최대 규모의 디레버리징 경험. 전세계 주식 디레버리징 폭은 2021년 1월 이후 최대\n• 그러나 마이크로소프트/아마존 실적 예상 웃돌면서 시장 빠르게 반전. 골드만삭스 데스크는 2020년 11월 이후 최대 규모의 주간 순매수 기록. 대부분이 숏커버\n• 동시에 골드만삭스는 여전히 1000억달러 이상의 높은 레버리지 반도체 매수 포지션 불확실한 상태 & 강제 청산 위험 아직 완전히 사라지지 않았다고 경고\n对冲基金史上最大去杠杆潮后，高盛交易台录得2020年11月以来最大净买入\n上周，对冲基金经历逾3年来最大规模去杠杆，全球股票去杠杆幅度创2021年1月以来最大。但随着微软、亚马逊财报超预期，市场迅速逆转，高盛交易台录得2020年11月以来最大单周净买入，几乎全部由空头回补驱动。高盛同时警告，市场仍有逾1000亿美元高杠杆芯片多头头寸悬而未决，强制平仓风险尚未完全消散。\nhttps://wallstreetcn.com/articles/3778536#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T03:58:51+00:00"
+    },
+    {
+      "id": "tg:EMchina/32061",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32061",
+      "text": "Qwen 3.8 조기 체험! 정식 버전 곧 출시 및 오픈웨이트 전환  • Qwen3.8 곧 출시 & 오픈웨이트 전환 예정. 새로운 모델 매개변수 2.4T는 ’일‘단위 진화 지속. Fable 5 제외 가장 강력한 모델일 것  • 방금 Qwen3.8-Max 프리뷰 모델이 알리바바 Token Plan, Qoder 및 QoderWork에 처음으로 출시  Qwen3.8抢先体验！正式版即将发布并开源！ Qwen3.8很快将发布并开源，新模型参数2.4T，正在以“天”为单位持续进化，可能是除了Fable…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T03:52:48+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24300",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24300",
+      "text": "“왜 돈 없는 우리만 못 사게 하냐”… 레버리지 막힌 2030의 분노 https://n.news.naver.com/mnews/article/023/0003991035?sid=102",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T03:36:34+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24299",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24299",
+      "text": "“왜 돈 없는 우리만 못 사게 하냐”… 레버리지 막힌 2030의 분노\nhttps://n.news.naver.com/mnews/article/023/0003991035?sid=102",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T03:36:17+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24296",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24296",
+      "text": "BofA) 미국 반도체; Spending More, Growing Faster, path to $1.2T in Cloud Capex\n2026년 8월 2일 / Vivek Arya 외\n▶️\nCY26/27 AI capex 전망 +78%/+35% 상향\nGOOGL, MSFT, AMZN(AWS), META 등 미국 4대 하이퍼스케일러가 지난주 C2Q26 실적을 발표하며 CY26/27 capex 가이던스를 업데이트했습니다. 대부분이 CY26 지출 전망을 상향했고, 다년간의 포워드 capex 전망은 더욱 강했습니다. 현재 컴퓨트는 대체로 공급 제약 상태이며, 고객 커미트먼트(7월 초 약 2.0조 달러에서 현재 약 2.3조 달러로 증가)와 빠르게 가속되는 AI 매출(모두 전년 대비 +80~100% 이상)을 배경으로 하이퍼스케일러의 캐파 투자 의지가 더 강해지고 있다고 판단합니다. BofA는 CY26 하이퍼스케일 capex를 8,600억 달러 이상(+80% YoY), CY27에는 약 1.2조 달러(+38% YoY)에 이르는 경로를 전망합니다. FCF 감소는 여전히 우려 요인이지만, 마이너스 FCF 마진은 CY27~28에 -5~6% 수준에서 정점을 찍은 뒤 AI 투자가 확산되면서 건전한 수익성으로 회복될 것으로 봅니다. 주요 AI 반도체 수혜 영역으로는 컴퓨트, 메모리, 반도체 장비, 전력 반도체, 옵틱스 다섯 가지를 제시합니다.\n▶️\n2.3조 달러 이상의 고객 커미트먼트가 capex를 뒷받침\ncapex는 점점 더 다년간 고객 클라우드 커미트먼트와 백로그에 의해 뒷받침되고 있으며, 이는 수요 가시성과 지속 가능성을 높여줍니다. 상위 4개 CSP 기준 백로그는 전 분기 약 2.0조 달러에서 QoQ +16% 증가한 2.3조 달러 이상입니다. 특히 MSFT는 상업 RPO 6,780억 달러(QoQ +8%)를 보고했는데 이 중 향후 12개월 내 인식 비중은 30%에 불과했고, ORCL은 RPO 6,380억 달러를 공시하면서 1년 내 인식분은 12%, 2~3년 내가 34%라고 밝혔습니다. ORCL이 고객으로부터 받은 선불 하드웨어 계약도 약 750억 달러에 달해 CSP의 초기 자본 및 자금 조달 부담을 줄여주고 있습니다. AWS는 백로그 4,960억 달러(YoY +100% 이상)를, GOOGL 클라우드는 백로그가 1분기 약 4,600억 달러에서 약 5,140억 달러로 증가했음을 공시했습니다. 하이퍼스케일러들은 capex 전망에 메모리, 웨이퍼, 기판 등 투입 비용 상승이 반영되어 있다고 언급했는데, 이는 곧 반도체의 가격 결정력을 의미합니다.\n▶️\nCY28까지 FCF 압박, 그러나 AI 매출과 ROI는 개선\n클라우드 capex가 영업현금흐름의 100~115% 이상까지 상승하면서 CY28까지 하이퍼스케일러 FCF 압박이 이어질 것으로 봅니다. 합산 FCF 마진은 과거 +15~20% 대비 CY26 -1%, CY27~28 -5~6%로 하락할 전망입니다. 단기적으로는 우려 요인이지만 하이퍼스케일 AI 매출은 전년 대비 세 자릿수에 가까운 성장을 지속하고 있고, 클라우드 및 AI 마진은 계획을 앞서 확대되고 있습니다. AWS는 AI와 칩 매출이 각각 연 250억 달러를 넘어섰으며 전년 대비 100% 이상 성장 중이고, 서버 투자는 3년 이내에 손익분기에 도달한다고 밝혔습니다. MSFT와 GOOGL 역시 가동률 개선과 단위 경제성 향상을 통해 AI ROI와 마진이 개선되고 있다고 언급했습니다.\n▶️\n약 2,700억 달러 조달은 문제가 아니며 자본은 충분\n2026년 들어 상위 5개 하이퍼스케일러가 누적 약 2,700억 달러의 자본을 조달했으며(7월 초 집계 2,440억 달러 대비 증가), 대부분 만기 3~40년의 장기 부채와 영구 자본 성격의 자기자본입니다. BofA는 이를 capex나 자금 조달 스트레스의 신호가 아니라 재무구조 최적화 및 유동성 확보 차원으로 해석합니다. 자본시장 접근성은 여전히 우호적이고 만기도 현재 AI 투자 사이클을 훨씬 넘어서며, 그 시점에는 하이퍼스케일러 합산 FCF가 2020~2024년 평균 연 2,000~2,500억 달러를 크게 상회하며 조달 자본을 충분히 상환할 수 있을 것으로 봅니다.\n▶️\n주요 수치\n미국 상위 5개사 capex는 2025년 4,477억 달러에서 2026E 8,184억 달러(+82.8%), 2027E 1조 1,358억 달러(+38.8%), 2028E 1조 3,154억 달러로 전망됩니다. 기업별 2026E는 구글 2,010억 달러, 마이크로소프트 1,812억 달러, 아마존 2,172억 달러, 메타 1,423억 달러, 오라클 767억 달러입니다. 중국 상위 3사는 2026E 403억 달러로 +27.6% 성장이 예상됩니다. NVDA/AMD/AVGO 데이터센터 매출 합계는 2026E 4,716억 달러(+100.8%), 2027E 7,190억 달러로 추정됩니다. 클라우드 capex의 영업현금흐름 대비 비율은 2026E 108.1%, 2027E 113.9%, 2028E 115.7%로, 미국 통신사가 4G/5G 인프라 구축 정점기에 기록한 65~70%를 크게 상회하는 수준입니다.\n▶️\ncapex 지속 가능성: 수요 신호는 갈수록 긍정적\nBofA는 AI capex 사이클이 프론티어 랩 매출 가속, 계약 기반 클라우드 및 백로그 성장, 토큰 집약적 에이전틱 워크로드라는 세 가지 요인에 의해 지속 가능하다고 봅니다. OpenAI는 매출이 2025년 130억 달러에서 2026년 300억 달러, 2027년 620억 달러, 2030년 2,830억 달러로 증가할 것으로 예상하며 2030년까지 누적 컴퓨트 지출을 약 6,650억 달러로 전망하는 것으로 알려졌습니다. Anthropic의 연환산 매출은 2026년 5월 기준 470억 달러를 상회하는 수준까지 급격히 상승했습니다(리포트 본문은 190억 달러 돌파, 전년 대비 170억 달러 증가라는 시점 서술도 병기). 에이전틱 AI 워크플로우는 채팅 대비 워크플로우당 10~1,000배의 토큰을 생성할 수 있으며, 토큰 소비가 컴퓨트 수요의 주된 동인이 되면서 클라우드 수익화 구조가 좌석 기반에서 사용량 기반으로 전환되고 있습니다. 효율성 개선은 단순한 capex 역풍이 아니라 토큰당 비용 하락을 통해 사용량을 확대시키는 요인으로 봐야 한다는 시각입니다. 핵심 리스크는 전력, 데이터센터 건설, 자금 조달, 부품 공급 등 실행 측면이지만, 급증하는 수요가 구축되는 캐파를 앞지르고 있어 중기적으로 수요는 견조할 것으로 판단합니다.\n▶️\n목표주가\nAMD 620달러, AMAT 720달러, ARM 260달러, AVGO 530달러, CRDO 340달러, INTC 160달러, KLAC 260달러, LRCX 385달러, MRVL 365달러, MU 1,550달러, NVDA 350달러입니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/tfBArQ_VGKrlQ1SZpbk0Hty85NePbsXwMeoRuhvytdh5K-sWJfI9bxoWbQLADzSavZeV6C_53MHvYLG88YpjtcbDrXngq7_ML6e99DavQmb7xdFLeXc5hoE7X5ZglwAUoUgoRIHL3ZjtuZEHpEi4sdvUzzMO3hHUevRROGD4g8X2AKzvDHn39vmGTRj16zGDLLwgKZh2REH4q0PNwBO7LE8dnjQs0FQnPCLUUjGjqwhS95LD8vrHFPDmfhHL2rxSqh_oOVKpWmUYTc3pkacK6Ni2hDnbdgoYy8tNqyJNdOlxTT7pSS90XVhCU1ey7xdwRJ0fJc1PLWxGPGwmtYi16Q.jpg",
+        "https://cdn5.telesco.pe/file/CgAhYWhdk_G0kz0WgUQWmNoJKVwqE-lYL0JgWlcbf59uxLg6EIMI_2Vx3ahUW-A6L1wsX3IPrjEQMPJPusZB_tIR8jWxQq8x12AMY6IEIyslrHdFXCkG5flLUONQLfOO5vU_9Qv6k4yRzW899LaQIopx7TVdYO4rpUV7NY578-y2Ex69eqcSfUGTjw-drQQoA_h9zXqeLSrnQbCAqEubAcLGigiPIeCuabuZD25GieSZ5a6MF1EPdYhM2hHtkiZmwNr061dqb8ExI5umMXlBJr0j7HLSiTpWqyojwoeMKE9B7syUO2He9Wj-qOd17CKc0Yc1rnQHNo8-IA-GKQd1jg.jpg",
+        "https://cdn5.telesco.pe/file/VCcflCo-jrtC_guJRLP-W_ZRZYDCzy1x-Ivm6HoFOcSlK-GyqkYKNdsi_MBl_0bnnVwD09Jg7_Ef-3qgYOxfLxghHEV_DYzaaIUH5p76bB5yLxN_5aKROIg7izGk65G_v7fDQCDuVfNKH9lwFJb67aNOJJwNm23CsQU9nQDNewIBs4vr9hRvdxZCqQzrmCnEqhNJk0RgPumlS2efBgCLNiApgiMNYdDocGu2ePcipzUM2ibNnKYxaewKCIxeoiX8z5zfM9HiqdqNJEMi-jcEsWJGzFMvL2pztjkFZH5tb-amTnGRZHQ_B-_wgN54Q-p3XVmL356HzC8oDT77phYCgQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-03T03:35:48+00:00"
+    },
+    {
+      "id": "tg:EMchina/32060",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32060",
+      "text": "7월 레이팅독 제조업PMI 발표 예정  • 시장은 전월대비 개선 기대",
+      "images": [
+        "https://cdn5.telesco.pe/file/QHQ7FuhHf3lktoO4zmSKhPoXSLH9h9NeFCaVPuFTZ1Rcl0jMdnyVzPTOKSL2zlVSnpt3_i8wL2e9Tlc-ZUQWAVdUGy3Ir0QDQsjPJdPxqXi_68QGpgUubSS1jkEwlRi5vJMDdzkuCCxBjtenvxlCRalj8lbF_KmMwfYala63bxoqBlbIyTEc6blul2xDgpuiepNiN0X9neBWFX9vgdmG3NivFKH9L3eOLCdLMVe12PXz5QJi5SrxtiDLiX2Pry7IEkkkS4WQa5ViBOlJkEew7JQa5TQZT0B2c2Vdo_9FbJ9DI6EJUhB5Ck6wKbGMAnuxkLfB2IEA3OgNFhAOKeKJQw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-03T03:29:07+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24295",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24295",
+      "text": "맥북프로, 발열로 딜리트키가 본체 내부에 끼여\n딜리트키가 배기구 바로 옆에 있어서 배기구의 뜨거운 공기로 가열되어 휠 수 있는 상태에서 본체 내부에 끼였을수 있다고 추측되는중.\n보증기간내라서 무상수리되었지만, 보증 끝나면 수리비용 $895라고 함.\n*맥북프로 M5 Max기준",
+      "images": [
+        "https://cdn5.telesco.pe/file/IhOwXI8U6eUaKtQaquV-oFp3xukw5w3NM-ZM4deNuL8gTzng91zQUUBNUDbfKZK4SJJ1ZiJ1towJaiDQtcSYmMd49WjUvE5-t7N36a3K0oZ9W95Riduvr39uLwyFI0S60-4wQChX7jvM11GJQqqN8gqOl6wiIG8aSEneWJphOenRgcMElfz-MfvFoxEbQpDm17Frbofn4fWHNeLWyhkPdwmxaqUVpIqllW3rUlwRNA04WrB18xmzCIWT6tQduK7ZhZ0XibihvmjqWO2xVtyIZvDEpw3UxJ7F-LDlXHKt1fjvvx-QfpYO7bDmqqyHanz2k0el7QnOLo_vdkp77b2n0w.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-03T03:22:50+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24291",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24291",
+      "text": "JP모건) APAC테마; 하이퍼스케일러: 프라이스 액션이 아직 반영되지 않은 것이 무엇인지 말해줍니다. 이외 4개\n(1) 하이퍼스케일러 강세… 프라이스 액션은 수익화 가속이 (아직) 반영되지 않았음을 말해줍니다. 종종 내러티브보다 가격을 보는 것이 더 중요합니다. 프라이스 액션은 시장이 무엇을 알고 있는지 - 혹은 모르고 있는지를 말해줍니다. 더 정확히는 무엇이 반영되어 있고, 무엇이 반영되어 있지 않은지를 말해줍니다. 그리고 최근 실적에 대한 AMZN +14%, MSFT +15%의 가격 반응은 하이퍼스케일러 성장의 가속이 반영되어 있지 않다는 것을 말해줍니다. 그런데 이것이 점점 더 실현 가능성이 높아 보입니다 - 2분기에 매출이 뚜렷하게 가속되었고(양사 모두 바이사이드 기대치를 200bp 상회), 백로그는 그보다 더 빠르게 가속되었습니다(현재 매출 성장률과 캐펙스 성장률 모두를 앞지르고 있습니다). 핵심 수치 하나는 AWS와 Azure 양쪽 모두 2분기 순 ARR이 직전 최고 분기 대비 60% 이상 높았다는 점입니다. AI의 병목이 점차 컴퓨트 가용성을 보유한 쪽으로 옮겨가면서, 가격 결정력도 그에 따라 축적되기 시작하고 있습니다. 실적 발표 이후 Doug Anmuth는 목표주가를 $365, 즉 35% 상승 여력으로 상향했습니다.\n(2) 매수해야 할 3가지 이유… 폭발적인 백로그, 확대되는 자오(jaws), 그리고 캐치업 여력. 저는 금요일 오후에 하이퍼스케일러 매수 논거를 정리한 노트를 발송했습니다… 다만 한여름 금요일 오후였고 반도체가 급등하던 때였기에(한국 반도체 +21%), 놓치셨더라도 탓하지 않겠습니다. 어쨌든 노트는 여기 있으며 , 3가지 주요 포인트는 다음과 같습니다. (i) 백로그 붐 - 빅3 합산 하이퍼스케일러 RPO가 현재 1.7조 달러에 달하며, 백로그는 전년 대비 +152% 증가했습니다. (ii) 하이퍼스케일러 캐펙스 - 2026년이 전년 대비 캐펙스 강도의 정점이 될 가능성이 높으며, 따라서 2027년에는 컴퓨트 매출이 비용보다 빠르게 가속되면서 영업 레버리지가 작동해야 합니다… 은행의 자오 확대와 유사합니다. (iii) 캐치업 여력 - 하이퍼스케일러는 지난 2~3년간 캐펙스 관련 곡괭이·삽 업체들에 크게 뒤처져 왔으며, 포지셔닝은 여전히 가볍고 밸류에이션도 매력적입니다.\n(3) 중국에 대한 함의… 긍정적 리드스루(다만 단서가 있습니다). 미국 하이퍼스케일러를 매수할 시점은 바로 지금입니다 - 이들은 긍정적인 서프라이즈를 내고 있고 실제로 실적을 내고 있습니다. 대형 클라우드 사업을 보유한 중국 인터넷 주식들의 경우 상황이 다소 다릅니다. 이들은 여전히 AI \"쇼미(show me)\" 스토리로 남아 있습니다. 경영진은 중국의 AI 성장이 본업 매출 가속과 EPS 성장률 상승으로 이어질 것이라는 점을 투자자들에게 아직 보여줘야 합니다. 정부가 다음 성장 국면을 견인하기 위해 산업 전반과 소비자 전반으로 AI 도입을 밀어붙이면서 그렇게 될 것으로 예상하지만(JPM의 Alex Yao는 알리바바와 텐센트에 대해 OW 의견을 유지 중입니다), 시장은 수익화 가속의 명확한 신호를 기다리고 있습니다. 텐센트 실적은 다음 주(12일), 알리바바는 이달 말에 발표될 예정입니다. 두 종목 모두 차트는 좋아 보입니다. 예를 들어 아래 BABA가 그렇습니다 - 다만 크게 상승하려면 EPS 성장을 실제로 보여주기 시작해야 합니다.\n(4) 달러/엔에 대하여… 일본과 미국의 공조 개입(1998년 이후 처음). 일본 재무성은 금요일에 다시(이틀째) 엔 매수 개입을 실시했으며, 올해 총 개입 규모는 이미 2024년의 15조 엔을 크게 초과했습니다. 여기에 더해 미국 재무부가 (뉴욕 연은을 통해) 엔 환율에 개입해 유로를 매도하고 엔을 매수했으며, 이는 거의 30년 만의 첫 공조 개입입니다. 트럼프는 이것이 \"우정\"의 신호였다고 말했습니다. 이번 조치는 일본 당국이 달러/엔 160 초과를 \"과도한\" 수준으로 보고 있으며 이를 방지할 방안(예: GPIF 자금 환류, 미국의 개입 등)에 집중하고 있음을 보여줍니다. 다만 지속 가능한 해법임에도 불구하고 일본은 여전히 BOJ 금리의 가속 인상을 허용하고 싶어하지 않는 것으로 보이며, BOJ는 금요일 앞서 금리를 1%로 동결했습니다. JPM FX 전략가 타나세 준야는  엔화의 의미 있는 강세 여지가 제한적이라고 보며, 이러한 개입 조치를 임시방편에 가깝다고 판단합니다 - 특히 일본과 미국 어느 쪽도 달러/엔을 큰 폭으로 끌어내리려는 강한 의도는 없어 보이고(단지 상승을 제한하려는 것일 뿐) \"발표 효과\"도 상대적으로 낮을 가능성이 높기 때문입니다. 따라서 저희는 26년 말 달러/엔 전망치 164를 유지합니다… 다만 엔화에 대한 투기적 숏 포지션이 역사적으로 높은 수준(아래 차트)이라는 점에서, 단기 숏커버링 리스크는 분명합니다.\n(5) 마지막으로 주식 포지셔닝에 대해 한마디… 현재 셋업은 매력적으로 보입니다. 지난주 저희는 APAC의 포지셔닝 디그로싱과 디레버리징이 마무리되었을 가능성이 높다고 보는 이유를 설명했으며, 이는 Mixo(한국 전략가), Nikos(플로우 전략가), Jigar(프라임 인텔리전스)의 시의적절한 리포트를 활용한 것이었습니다. 주말 동안 포지셔닝 총괄 John Schlegel이 최신 견해를 공유했는데, 유사한 판단을 내리고 있습니다. 3가지 포인트는 다음과 같습니다. (i) JPM의 미국 택티컬 포지셔닝 모니터(광범위한 포지셔닝 지표)는 언와인드 이후 단 20%ile, 즉 -0.6z까지 되돌아왔으며, 이는 이란 전쟁 무렵인 26년 3월 말 저점과 유사한 수준입니다. (ii) 미국 TPM의 4주 변화폭이 -1.5z 아래로 하락했는데, 저희는 이를 강세로 전환할 매력적인 포지셔닝 신호로 보는 임계치로 간주합니다. (iii) 헤지펀드 주식 롱숏 순 레버리지의 8주 감소폭이 -2z에 도달했으며, 이 역시 저희가 매력적인 포지셔닝 신호로 보는 임계치입니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/RmUawvnSKi1zfvvUkCeIJ_7cq88opHXGYGhIViV279bO6dChWfsQV7uV_5ZC1vAN2YVMMEqRWluy4URUvKySK_IR_0LjcEHumkFq4w_4_9eiBweZCjixLdWUplFN1DNwugzo2Pp8EGR36lcI9esZYL9Bn0lcMlRbl6295fardIC70TYVj2UR8IlFVb5TF_iLJ1Q3oBJ_EuV3ATwvvJwCYMErg6cVpxOOVfQsoptUmtZf8NXJkCl3M-lngt_5TeHH0KX9h3birRjkxkQhK6QrrIPAodKEzsXFgBrqI3vuI28AbNIzi1Hl90o01cfkmgfQZa0M9z2uLFODTproV4fGiQ.jpg",
+        "https://cdn5.telesco.pe/file/M7QkkXNESoiYly1Ux-Z55zTQU_-CeCZ5wnrXUrJMZvanJroFvQLTo2no8esnoXpXN3toBYlj55fM7wi2ckqgkIDCfti9aaYna1fswbHYjYQy5mccHyV7AkO1c1pLs-YKFs1xM4NvsVf9rDriEYfeK-NStF0BeQUaKy3Yp3iR7Kq5jfa7rErJ7DZ4smN5bLa310T1ZvIG_kXjd6xoq0lllm8tG_3W6JjkpeKvOZxygtr7IpiqGgfJ2cnTi6JdbxRLvRtz0WEgdJJvZAxgb6rAMC_cBMv4wZ9kiHfdMO5cdsY8iKeNtgvFZsJQDOPRFjAXThgn4OMxX7yChTbrCI79cg.jpg",
+        "https://cdn5.telesco.pe/file/FBFxJQ6D9_a-KD3plvnvg8xpS1rQ0UCgJwpSCEbdFgIsWLiA5vBEqfkyH5EEdzWNifTUkYnlevFlAxv1X6LxehtXz9UaJG1ijMACXl2u7A50PsYB7CqEBo1yySDYbu6RlV9v6M8ilKEkhMw0JkYuxAPNyvAhq_1Drj3VF8hDzvJ3o7keKWVWzLLyLZLquy5X108VBbshkaBkAchIz0y0p5OKZ0DU6UrqB-assqq7fBGMS7tPL4k53O3wTIMzOM6f7EMa4fNzDxM7hmVHNNN4RbtRZEcwbm_1dAuh4vz-NqcUfFIpo3lmauaCIISsXEd_3uwUMkwDkNRrDGYi1WzN2g.jpg",
+        "https://cdn5.telesco.pe/file/c6ghNDxkhfiPMPTv6cUYRAgnsIVRoAnOlkvuhMJm9OnOqK-PhSyEJl-FhJ6DQKFqCKpjn7CyaY6buiBpiZ88PkEDfmqpfyEs1-ktLh7svzkOPxzvke_3-N8Jr0GghnIq-I0SEkDU66kSTtjo6SFTzHeR-r7WOJQ_GWkwiCQy83aEZznGS24DCByGrhuZV_plO5M2xPJCzRfsB94fEPqa6UltjjEAlNJUgngcCXjboTEGvE5qFB7r6dxj4IHq4s8ZaT5DrvDN9vfVW8zenp8-Rz66zxDzP__RrwiBXb74Q1ZgWlkebrOU_6z1E5M8PuJgjItVMr5Xtc523hcyUiY2dw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-03T03:17:50+00:00"
+    },
+    {
+      "id": "tg:HI_GS/6826",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/6826",
+      "text": "「삼성중공업, 유조선 2척 수주」\n💲\n2029년 8월 납기, 신조선가 93.0백만달러 ☞ https://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260803800398\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널 https://t.me/HI_GS\n❗\n상선 목표 59억달러에 102% 달성",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T03:10:06+00:00"
+    },
+    {
+      "id": "tg:HI_GS/6825",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/6825",
+      "text": "「삼성중공업, 유조선 2척 수주」\n💲\n2029년 8월 납기, 신조선가 93.0백만달러\n☞\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260803800398\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n❗\n상선 목표 59억달러에 102% 달성",
+      "images": [
+        "https://cdn5.telesco.pe/file/TtjuTrniJDGIr9F41rVP31mhL_H2R-IjN70sz6HFAzVXLFnDRFCkNAo9X1KtWvQJxWUvWgVixJdr2kUDbcZLnnZHbYQqQ0kWnhPqaPDak3aMQ3pIZFKCRkFK8pK1e0kW_BM8giW_Jq4I9OUzwFz-e5fX-_omWZI5B1TO0a-D7-qPgU1kngsmFbkqATa-S7JM6kBSIbfz4qm_yAZkDTU8tzGrZ7MXKOKEmLizRLUnfETYyAdaD--s_TI8BjF-Yjenp8Fi0vbhpsa6NgiANoU2cF9FlWC7PSFtFcGKXk2WI0wIwNmT5srRn82BkxQGGvJSWLVQ9YcSqpEYff8o7LOxeA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-03T03:09:58+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24290",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24290",
+      "text": "트럼프 “70타 우승, 재능”…이란 공습 보류 다음날 골프장 갔다\n[출처:중앙일보]\nhttps://www.joongang.co.kr/article/25450309\n재능이 넘쳐나셔서 부러워요",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T02:49:48+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19490",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19490",
+      "text": "이트론 2분기 EPS 4.81 대만달러… AI 메모리 수요에 힘입어 매출 전분기 대비 79% 증가 (qoq +79%,  yoy +558%)\n대만 이트론(Etron, 5351)은 이사회를 통해 2026년 2분기 재무제표를 승인했습니다. AI 관련 메모리 제품의 출하량이 늘어남에 따라 2분기 매출과 이익이 모두 크게 성장했으며, 단일 분기 주당순이익(EPS)은 4.81 대만달러, 상반기 누적 EPS는 6.69 대만달러를 기록했습니다.\n■ 2분기 실적\n매출액\n: 48억 9,900만 대만달러\n(1분기 27억 3,500만 대만달러 대비 79% 증가, 전년 동기 7억 4,500만 대만달러 대비 558% 증가)\n순이익\n: 15억 8,000만 대만달러\nEPS\n: 4.81 대만달러\n■ 2026년 상반기 누적 실적\n누적 매출액\n: 76억 3,400만 대만달러\n누적 순이익\n: 21억 9,400만 대만달러\n누적 EPS\n: 6.69 대만달러\nAI 서버, 에지 AI, 고성능 연산(HPC) 시장의 수요가 메모리 반도체 경기 회복을 이끌고 있는 가운데, 이트론은 2분기 매출과 이익 모두 뛰어난 성과를 거두며 올해 하반기 실적을 위한 견고한 기반을 마련했습니다.\nhttps://www.ctee.com.tw/news/20260803700499-430501",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T02:37:36+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19489",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19489",
+      "text": "키옥시아가 지난주 금요일 장마감후 실적발표하고 샌디스크, 마이크론 등 하락했는데,\n오히려 현재 키옥시아는 +10% 상승중.\n주주환원이 메모리 주가의 멀티플 상향을 만드는 중 + DRAM보다 NAND의 가격 피크가 먼저 온다는 시각이 있었는데 이를 다소 불식시킬 수 있음.\nSK하이닉스의 주주환원 기대감은 ADR 상장으로 인해 수요일부터 어떤 형태로도 시장으로 흘러나올듯.\n지난주 금요일 SK하이닉스 기관 NDR에서 힌트를 얻었음.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T02:27:48+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19488",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19488",
+      "text": "공모문서 보완 없이 25일 기간 종료 후 발표할 수 있는 최초 날짜\n미국시간: 2026년 8월 4일\n한국시간: 2026년 8월 4일 오후 1시 이후\n장전 기준 최초의 보수적·실무적 발표 가능일:\n2026년 8월 5일",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T02:25:48+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24289",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24289",
+      "text": "하이닉스는 ADR 상장으로 인한 SEC의 Quiet Period기간이 내일로 종료됩니다.\n수요일부터는 ADR 상장시 배포한 투자설명서에 없는 내용도 회사가 공시할 수 있습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T02:19:02+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24288",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24288",
+      "text": "[메리츠증권 전기전자/IT부품 양승수]\n▶\n輝達宣告共同封裝光學進入量產 光通訊打強心針\n- Nvidia 수석부사장 Gilad Shainer는 CPO가 양산 단계에 진입했다고 언급, 향후 광통신 시장의 최대 기회는 Scale-up에서 발생할 것으로 전망\n- Scale-up에 필요한 대역폭 성능이 Scale-out의 10배 이상이 될 것이라고 설명하며 광통신 시장 성장 기대 강화\n- Nvidia와 공급망이 공동 개발한 CPO 기반 스위치는 고객사에 납품되고 있으며 Nvidia 자체 인프라에도 배치 중. 올해부터 전 세계 AI 팩토리에서 CPO 기술을 적용한 스위치의 대규모 도입 시작될 가능성\n- Nvidia는 기술 양산 전 광엔진, 패키징, 광섬유 어레이, 맞춤형 레이저 광원 등 관련 공급망을 선제적으로 구축해왔다고 설명. 산업 기술 표준화에도 긍정적이며 향후 관련 규정 제정에도 공동 참여할 예정\n- Gilad Shainer는 Mellanox 출신으로 Nvidia 인수 이후 AI 플랫폼 네트워크 전송·통신 부문을 담당, TSMC와 COUPE 실리콘 포토닉스 패키징 플랫폼도 공동 개발\n- Nvidia가 CPO 양산 진입을 공식 언급하며 기존 광통신 업그레이드에 대한 시장의 의구심을 완화하고 관련 업체들의 운영 모멘텀 개선 기대 확대\n- Nvidia는 Spectrum-X에 CPO를 우선 적용 중이며, 이는 차세대 AI 플랫폼 Vera Rubin의 대규모 도입에 대응하기 위한 전략\n- Vera Rubin은 GB300 대비 연산 속도가 최소 3배 이상 높아질 것으로 예상되며, 이에 맞춰 네트워크 스위치도 대규모 데이터 처리 속도를 지원해야 하는 상황\n- TrendForce는 CPO/NPO 시장 규모가 2030년 390억달러를 넘어설 것으로 전망, 2028~2029년 Scale-up에 광인터커넥트가 도입되기 시작하면서 CPO/NPO 성장 모멘텀이 급격히 확대될 것으로 예상\nhttps://buly.kr/4Fv2Ds3\n(링크)\n*본 내용은 당사의 코멘트 없이 국내외 언론사 뉴스 및 전자공시자료 등을 인용한 것으로 별도의 승인 절차 없이 제공합니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T02:18:48+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24287",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24287",
+      "text": "코스닥 급등에 매수 사이드카 발동 | 연합뉴스\n그 찐따같던 코스닥이 맞냐... ㄷㄷ\nhttps://www.yna.co.kr/view/AKR20260803059400008",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T02:13:33+00:00"
+    },
+    {
+      "id": "tg:enc210406/4284",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4284",
+      "text": "삼성중공업 상선 수주 공시\n@ 선종: 탱커(유조선, Suezmax)\n@ 수량: 2척\n@ 선가: 93.0백만달러/척",
+      "images": [
+        "https://cdn5.telesco.pe/file/lHKwbnplp9zveFd1iPaBd-kAGhDCTX6if7bX1g5DbiTSVtE4Vl5NDhJfp4R7wEMqEtTMNdS0qc3YmEdVNyo9NkWXHMZOlDTyzgVPGN3EXORvLSBF9qR6Elz1-3JfqJSOLZ4p3n9e-_A99TqLMQpLCSXyIPcu3wzqAqkpYdLgJkSZe4ry_7AKJx5l_BciVAbFHQAgxax40YBYXDKLiQMUH1EK9Tzw-NCJy_IPZd4ySwRsc4pMTGqM7FGsPkaWJZSxpX3uvlB-TJ08VqPWNeunc-zdFdWzfvhmOpMTSAZlk0wFvN1Hk9LZccPUp92WG2j2SKCdT3gfEF9Lrgq08h3LfQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-03T02:11:11+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19487",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19487",
+      "text": "* 키옥시아, 상승폭 +10.2%로 확대\n- [주주환원 실행 기업 vs 그렇지 않은 기업] 격차 지속 확대 중",
+      "images": [
+        "https://cdn5.telesco.pe/file/dx7EsP5N4dziKgawPgIjKXLiP3xig-47gcYhb8C0gYKQtW0aZb-coIj4Aa6Qm0CifszbSioWeedWhyHNOXJZl8l9oCSkewlEcLIbJXaJ9mnf04FJIuzGClfiOpQTexIyzdSa0McpSh1iaeboGBBoipMEDTRBwE7k4MqI7EIcKCKWMO3H_qVBZmWk30vhAW6Am7NWUaKRaX79LkDRdjJ789v5RoJUra3L-2L8dcgp3rjpNpob4ibS2otHMJPfvAM-3vqX4_s0mI6sa-klAXVNQi7KJ02fIqBs8v-7NHdBZisNegnGoOroVUrvYSZn1eTJFicdNCQRSgv1vMh6gMaRUA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-03T02:04:14+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20908",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20908",
+      "text": "[New K-ETF] AI데이터센터 밸류체인, 피지컬AI Top2+ 액티브\n▶️\n하나 Global ETF 박승진(T.3771-7761)\n▶️\n자료:\nhttps://buly.kr/FsL2ysy\n▶️\n텔레그램:\nhttps://t.me/globaletfi\n▣ 신규 상장 ETF(8/4): 마이티 AI데이터센터 밸류체인, WON 피지컬AI TOP2플러스 액티브\n◎ 마이티 AI데이터센터 밸류체인 ETF\n-\nAI 데이터센터 밸류체인의 국내 기업들로 포트폴리오를 구성하는 패시브 ETF\n. AI 데이터센터와 관련하여\n1) 설계 및 건축, 2) AI 반도체 및 스토리지, 3) 네트워크, 4) 에너지 및 발전, 5) 전력인프라 및 냉각 공조 시스템, 6) 운영, 7) 서비스의 7개 세부 섹터에 해당하는 기업들을 선별\n하여 편입\n- 상기 밸류체인 산업과의 키워드 스코어링 작업을 진행한 후, 시가총액과 키워드 스코어링 점수를 7 대 3의 비중으로 가중하여 상위 점수의 최종 편입 대상 기업들이 선정. 개별 종목들의 편입 비중은 동일가중 50%, 유동시총가중 50%의 혼합 방식으로 결정\n◎ WON 피지컬AI TOP2플러스 액티브 ETF\n-\n피지컬 AI 산업을 이끌어 가고 있는 국내 대표기업을 중심으로 포트폴리오를 구성\n하는 ETF. AI의 Brain과 로봇의 Body 부문을 대표하는 국내 기업들인\n삼성전자와 현대자동차를 Top2 포지션에 편입\n하고, 피지컬 AI와 관련성이 높은\n밸류체인 기업들을 함께 채워 넣는 형태\n의 포트폴리오\n- 대표 종목에 비중을 집중시키는 동시에\n로봇의 두뇌와 몸통, 핵심 부품과 전력 인프라까지 피지컬 AI 전반에 투자\n하는 구성. 비교지수와 상관계수 0.7의 유지 조건이 적용되는 액티브 운용 방식의 ETF 종목\n- 유동성 조건을 충족하는 국내 상장 기업들을\nRobotics, Core Parts, Intelligent, Energy의 카테고리로 분류\n한 후, 키워드 스코어링 작업을 통해 편입 대상 종목들을 선정. 액티브 ETF인 만큼\n실제 운용 과정에서는 삼성전자와 현대차 비중을 각각 25%씩, 총 50% 수준으로 편입하는 방향성\n을 추구\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T01:40:35+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24286",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24286",
+      "text": "Citi 인공지능보고서 – Pricing, Financing, Routing, and Securing(7월 31일)\nCiti의 핵심 견해\nAI 랩들의 전략이 벤치마크 점수 극대화에서 벗어나, 가격·기능·속도 전반에 걸쳐 기업의 전체 수요 스택을 겨냥한 모델 스펙트럼 개발로 이동하고 있습니다. 이는 모델 라우팅, 거버넌스, 보안을 위한 오케스트레이션 레이어에 대한 기업 수요를 증폭시키고 있으며, Citi는 이 수요가 자체 구축 솔루션과 전문 상용 제품의 조합으로 충족될 것으로 예상합니다. 주요 차세대 프론티어 모델 출시가 임박한 만큼, 프론티어와 오픈 모델 간 격차가 상당히 재확대되면서 최근 수 주간 형성된 부정적 심리가 반전될 것으로 전망합니다. 또한 보안이 지능과 함께 차별화 요소로 부상하고 있으며, 연방 기관들이 프론티어 모델에 대한 사전 출시 프레임워크를 채택해야 하는 8월 1일 기한이 모델 출시 주기에 영향을 미칠 가능성이 높다고 봅니다.\n프라이싱(Pricing)\n이번 주 프론티어 랩들이 최상위 모델 가격을 인하하면서 가격 경쟁이 가속화되었습니다. 블렌디드 프론티어 가격은 전주 대비 16.2% 하락한 1.34달러를 기록했으며, 동시에 클로즈드-오픈 모델 간 지능 격차는 4포인트로 확대되었습니다. 향후 출시될 모델들은 더 많은 워크로드를 저렴한 모델로 이동시키는 한편, 사이버보안·금융·법률 같은 고부가가치 기업 유스케이스에 지불 의사를 집중시킬 수 있습니다. 공개 벤치마크의 신뢰성은 점점 떨어지고 있는데, 7월 23일 발표된 UK AISI / US CAISI 평가에서 Kimi K3는 ExploitBench 기준 32.2%, GLM-5.2는 24.4%를 기록해 미국 최상위 모델의 76.2%와 큰 격차를 보였습니다. K3 같은 모델이 기존의 확장 가능한 아키텍처 위에 구축되는 경우가 많다는 점을 고려하면 이 격차는 벤치마크 튜닝과 증류(distillation)와 일관된 결과입니다. 중국 모델 평균 가격이 전주 45% 급등 이후 0.87달러에서 유지되는 가운데, 경쟁 우위는 오픈 모델의 비용 우위라기보다 가격 인하와 기업용 기능 확대를 병행하는 프론티어의 역량에 있다고 판단합니다.\n라우팅(Routing)\n실현 가격 하락은 경쟁 못지않게 효율성에 기인할 수 있습니다. 메모리와 인터커넥트 병목을 완화하는 모델 설계가 내부 비용을 낮추고, 라우팅이 이를 복합적으로 증폭시키기 때문입니다. 예를 들어 마이크로소프트의 Project Perception은 프론티어 모델과 특화 모델을 결합해 기존 구성 대비 약 50%의 비용 절감을 달성했습니다. 7월 상위 20개 랩의 모델 출시는 전년 동기 13개에서 35개로 2.7배 가속화되었는데, 이는 독립적인 프론티어 모델보다는 비용-성능 곡선 전반에 걸쳐 특화 변형으로 확장되는 모델 패밀리가 주도했습니다. 아마존과 마이크로소프트의 실적은 이렇게 늘어나는 메뉴를 제공하는 모델 애그노스틱 플랫폼의 논거를 강화했으며, 마이크로소프트는 자사 MAI 모델과 Maia 200 칩의 공동 설계로 40%의 효율성 향상을 언급했습니다. 경쟁 우위는 특정 단일 엔드포인트가 아니라 모델 선택, 하네스, 거버넌스를 통제하는 오케스트레이션 플랫폼으로 이동할 수 있습니다.\n파이낸싱(Financing)\n하이퍼스케일러 매출 성장률이 1분기 39%에서 2분기 48%로 가속화되고 AWS, GCP, Azure의 수주잔고가 1분기 1.45조 달러에서 2분기 1.7조 달러로 증가하면서, 매출 상향 조정이 CapEx 상향 조정을 앞지르기 시작했습니다. 다만 CapEx 조달 비용도 상승하고 있는데, 7월 31일 CoreWeave의 최신 자금 조달은 약 10.5% 수익률로 이루어져 5월의 약 8.7%에서 크게 올랐습니다. 이에 따라 엔비디아는 투자등급 대차대조표의 뒷받침을 활용할 수 있는 데이터센터 프로젝트에 대해 파이낸싱 보증을 논의 중인 것으로 보도되었습니다. 섹터 전반의 차입 비용이 투자등급과 하이일드 모두에서 상승함에 따라, Citi는 가장 강력한 대차대조표와 현금흐름을 보유한 기업들, 그리고 이들이 선택한 대출 파트너들에게 경제적 이익이 계속 집중될 것으로 예상합니다.\n주요 데이터 포인트\n모델 지표를 보면 Anthropic의 Claude Opus 5 (max)가 지능 지수 61로 선두이며, OpenAI의 GPT-5.6 Sol (max)이 59, 오픈 모델 최고인 문샷AI의 Kimi K3가 57로 뒤를 잇습니다. GPU 렌탈 가격은 H100/H200이 시간당 2.90달러로 전주 대비 2.1% 상승했고, (G)B200/(G)B300은 5.19달러로 1.2% 올랐습니다. 미국·유럽 평균 토큰 가격은 백만 토큰당 1.66달러로 전주 대비 20.2% 하락한 반면 중국 평균은 0.87달러를 유지했습니다. 개발자 사용 지표에서는 멀티 프로바이더 SDK 다운로드가 증가세를 보였고, 앱 사용에서는 Kimi 앱 주간활성사용자가 전주 대비 16.5%포인트 급감했습니다. 7월 발표된 전체 해고는 9,420명으로 전월 대비 61.9% 감소했으며 AI 관련 해고도 3,220명으로 85.1% 줄었습니다.\n향후 모델 출시 전망으로는 8월 이후 Gemini 4 시리즈, Grok 4.6~4.9, Kimi K3.1/K3.2, GLM-5.5~5.7, Qwen4, DeepSeek V4.1/V4.2 등이 예정되어 있습니다. 주요 일정으로는 8월 1일 연방 기관의 프론티어 모델 사전 출시 프레임워크 기한, 8월 7일 텍사스 ERCOT의 배치 제로 포함 결정 발표, 9월 8~10일 Citi TMT 컨퍼런스 등이 있습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T01:40:18+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24285",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24285",
+      "text": "Citi) 글로벌 퀀트 인사이트 보고서 \"The Momentum Sell-off: Style Rotation or Crowded Unwind?\"\nCiti의 핵심 견해\n최근 수 주간 모멘텀의 급격한 반전이 시장의 결정적인 팩터 이벤트로 부상했으며, 투자자들은 AI 테크 중심의 승자 종목에서 벗어나 밸류에이션에 민감한 익스포저로 회귀하고 있습니다. 밸류 아웃퍼폼의 확산, 스타일 분산 확대, 상관관계 하락은 리더십의 의미 있는 변화를 시사하지만, 그 증거는 지역별로 불균등합니다. 선진국 시장(DM)은 광범위한 밸류 주도 로테이션의 초기 특징을 보이는 반면, 신흥국 시장(EM)은 과거 모멘텀 주도주에 손실이 집중되는 포지셔닝 주도형 조정의 특징을 지속하고 있습니다. 따라서 Citi는 이를 동시적인 글로벌 체제 전환의 시작이 아니라 DM의 신흥 로테이션과 EM의 조정이 병행되는 국면으로 해석하며, 최근 모멘텀 매도를 성장·모멘텀 사이클의 확정적 종료가 아닌 리더십의 리셋으로 판단합니다.\n모멘텀 급락의 전개와 역사적 비교\n7월은 팩터 리더십의 급격한 반전이 나타난 변곡점이었습니다. 6월 말 글로벌 AI·반도체 복합군의 제한적 반전으로 보였던 움직임이 7월을 거치며 크라우디드 모멘텀 포지션의 광범위하고 지속적인 언와인딩으로 발전했습니다. 상반기 대부분 지역에서 최고 성과를 냈던 모멘텀은 불과 수 주 만에 연초 이후 수익의 대부분을 반납했으며, 특히 AC 아시아(일본 제외)에서 하락이 두드러졌습니다. 국가별로는 AI 주도 사이클의 핵심 수혜국이었던 한국이 6월 말 고점 대비 약 48%, 대만이 7월 초 고점 대비 약 29% 하락하며 불균형적으로 큰 낙폭을 기록한 반면, 다른 대부분의 역내 시장은 비교적 제한적인 조정에 그쳤습니다.\n6월 23일 시작된 프라이스 모멘텀 드로다운은 이미 -19%에 도달해 지난 30년간 7번째로 큰 모멘텀 조정에 해당하며, 2022년 말의 급반전과 유사한 규모이고 팬데믹 시기인 2020년 6월의 언와인드(-23%)보다 소폭 작은 수준입니다. 특히 이번 매도는 단 28거래일 만에 전개되어 리더십 이탈 속도가 매우 빨랐습니다. 다만 1998년, 2009년, 2002~04년처럼 손실이 40%를 넘었던 본격적인 팩터 크래시에는 미치지 못하며, 역사적으로 15~25% 범위의 드로다운은 격렬하지만 결국 일시적인 포지셔닝 리셋에 그친 경우가 많았습니다. 현재의 하락은 이 두 갈림길 사이에 위치하며, 밸류·경기민감주로의 광범위한 스타일 로테이션으로 발전하거나, 모멘텀이 리더십을 재확립하기 전의 또 한 번의 급격한 크라우디드 포지션 언와인딩으로 판명될 수 있습니다.\n시장 내부 지표와 로테이션 신호\n여러 시장 내부 지표는 이번 언와인드가 순수한 기술적 팩터 조정을 넘어 시장 리더십의 광범위한 로테이션으로 진화하고 있음을 시사합니다. 스타일 수익률 분산이 크게 상승하고 스타일 간 상관관계가 하락했으며, 종목 수준 분산도 확대되고 종목 간 상관관계는 2017년 12월 이후 최저 수준에 근접하며 차별화가 시장 전반으로 확산되고 있습니다. 역사적으로 이러한 환경은 지속적인 리더십 전환 국면과 연관되어 왔습니다. 7월 한 달간 퀸타일 기준 모멘텀은 유럽 -13%에서 AC 아시아(일본 제외) -28%에 이르는 손실로 전 지역 최약체 스타일이었고, 섹터·국가·기타 스타일 익스포저를 통제한 순수 팩터 기준으로도 전 지역에서 마이너스를 기록해 이번 매도가 단순한 지역·섹터 리더십 변화가 아닌 진정한 팩터 언와인드임을 보여줍니다. 반면 밸류는 전 지역에서 플러스 수익을 내며 특히 아시아, 일본, EM, 미국에서 강했고, 로우 리스크도 일본과 미국을 중심으로 견조한 성과를 보였습니다.\n롱숏 분해: DM과 EM의 차이\n롱숏 분해 결과, 이번 모멘텀 드로다운은 전면적인 모멘텀 크래시보다는 발전 중인 로테이션으로 규정하는 것이 가장 적절합니다. 미국과 월드 유니버스에서는 모멘텀 승자 종목의 하락과 과거 부진 종목의 급반등이 결합되어 약세를 주도했으며, 이는 밸류 주도 로테이션의 초기 단계와 일치합니다. 반면 선진국 외 시장에서는 롱 포트폴리오의 약세가 하락을 주도했고 숏 진영의 기여는 제한적이어서, 투자자들이 과거 부진 종목으로 적극 재배분하기보다 크라우디드 모멘텀 승자에 대한 익스포저를 축소하는 데 집중하고 있음을 시사합니다. 종합하면 미국은 진정한 스타일 로테이션의 명확한 신호를 보이는 반면, EM과 아시아는 포지셔닝 주도 언와인드에 더 가깝습니다.\n포지셔닝과 크라우딩 현황\n크라우딩 리스크 상승이 매도를 증폭시켰습니다. 미국에서는 테크와 커뮤니케이션 서비스가 가장 크라우디드한 섹터로 나타나며 가장 큰 하락을 겪었고, 가장 덜 크라우디드하고 방어적인 필수소비재는 플러스 성과를 냈습니다. 에너지는 크라우디드해 보이지만 지정학적 리스크 고조에 따른 유가 급등의 수혜를 입었습니다. 팩터 기준으로는 미국 프라이스 모멘텀의 롱 사이드 크라우딩 스코어가 여전히 높은 반면 아시아(일본 제외)는 최근 하락했습니다. 밸류 로테이션은 선진국에서 크라우딩 순풍을 받을 수 있는데, 미국 밸류 팩터의 숏 종목들이 크라우디드한 경향이 있는 반면 아시아(일본 제외)는 보다 혼재된 양상입니다. 포지셔닝 모델상으로는 나스닥과 코스피200의 롱 포지션이 매도되었고 니케이 롱도 감소했으며, 순매도 상태였던 유럽에서는 선별적 재구축과 함께 유로스톡스 숏 커버가 진행되었습니다. 한국에서는 금융당국이 투기 억제를 위해 개별 종목 레버리지 ETF 규제를 도입했습니다.\n스타일 추천\nCiti는 최근 성장주의 부진에도 불구하고 해당 팩터에 대한 중장기 건설적 시각을 유지합니다. 밸류의 급격한 아웃퍼폼과 스타일 분산 확대가 의미 있는 리더십 전환 가능성을 시사하지만, 시장이 지속적인 밸류 주도 체제에 진입했다고 결론짓기는 시기상조라고 판단합니다. 선호 익스포저는 여전히 실현 이익을 보상하는 지표에 편향된 성장주이며, 입증 가능한 이익 성장을 보이는 기업들이 AI 도입, 디지털 인프라 투자, 생산성 향상 기술에서 발생하는 구조적 기회를 포착하는 데 가장 유리하다고 봅니다. 최근 모멘텀 드로다운은 팩터 사이클의 종료가 아닌 잠재적 리셋으로 보며, 현재 환경을 장기적으로 성장주에 우호적인 프레임워크 내의 전술적 밸류 강세 국면으로, 궁극적으로는 모멘텀 체제의 재확립으로 판단합니다. 현재 스타일 추천은 성장 비중확대, 프라이스 모멘텀은 스타일 리더십에 연동한 비중확대, 밸류와 실적 모멘텀은 중립, 퀄리티와 로우 리스크는 비중축소입니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T01:29:58+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19485",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19485",
+      "text": "[SK증권 반도체 한동희]\n7월 반도체 수출액 잠정치\nDRAM 135.5억달러 (+21% MoM, +47% QoQ)\nDRAM 모듈 76.7억달러 (-28% MoM, +25% QoQ)\nNAND 17.8억달러 (-28% MoM, +6% QoQ)\nMCP 100.9억달러 (-20% MoM, +24% QoQ)\nSSD 45.1억달러 (-13% MoM, +18% QoQ)\n* 위 내용은 공개 발표 내용으로 별도의 승인절차 없이 제공합니다.\n* SK증권 리서치 IT팀 채널 :\nhttps://t.me/skitteam",
+      "images": [
+        "https://cdn5.telesco.pe/file/O--GaICHnZUti54wKfPsaHPEn7WQ_F6J9qAhaPBEkuX6S_KGqO9Zx52x7dH7b7ERXcc99WWrRLJtvB_Ku-OA_Q1Ma4cybjiz8S8E9cOy4IBPBmqanHEempHHSKQNov-p62IEj_o00pzJxFTT6NX1bxLTi269ztmU7VzIxNrf2mQ8GCga0tBrLd6xa0Rqca0n5dMQbMlQPL-lqQp0u3opP7pRfefElwvwcTyiLr9RuFwA3QTzaZXl2VqU9l57Bjmeh6d7wPDtotKSRSQNzRgABH2oAy9UUOwivdnbl9RLi6qF4v4YNBj__nykrjfadjwazOUqkeCFfzP3VnBAFSc0hw.jpg",
+        "https://cdn5.telesco.pe/file/KPiIbxQofrxHxK6GYuJruRr7xgcTbznGNHJzhZMRSmNycNNWhGmq0cLmkZ6Nhx9zzU2QRHA2KIpAYQhZYvLuP_Zd9m6dnvvHoGn6rbRdwm5RP1-7vhebQAJgYdBmLW6poFEQ_Bz3SE4nWIHrlebEI55X-_3clKO2DRLp3hMraNLY3ppo_DWIGU1MswC_PoVoslmQIrDgNHkNSWwDaWrZzwIbc1wXXX-n985vd08ykbLyHYULRes5mcfq0jMRR2tfFX-YkFyXshiy5yUuDjBnq4-abcarlDMR-GBfzscrB-X4tBpEbohR7YqUCXl65ZaODHFz1PS-yRIQLzwlO9Jsnw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-03T01:26:06+00:00"
+    },
+    {
+      "id": "tg:EMchina/32059",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32059",
+      "text": "~ 16일 완성차 업계에 따르면 KGM은 체리차 차량을 CKD 방식으로 도입해 평택공장에서 조립하는 위탁생산 모델을 놓고 사업성 등을 살펴보고 있는 것으로 전해졌다. KGM 내부 사정에 밝은 한 업계 관계자는 “양사 간 협의가 상당 부분 진척된 단계에 접어든 것으로 알고 있다”고 말했다  ~ 이번 관측은 최근 완성차 업계 전반으로 확산되고 있는 ‘위탁생산 모델’ 흐름과 맞물려 해석되고 있다. 중국 지리자동차와 협력해 신차를 개발 중인 르노코리아는 지난해…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T00:56:11+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19484",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19484",
+      "text": "2026.08.03 09:53:04\n기업명: 지엔씨에너지(시가총액: 6,481억) A119850\n보고서명: 단일판매ㆍ공급계약체결\n계약상대 : 주식회사 케이티\n계약내용 : SGC AI Infra 군산 데이터센터 발전기\n공급지역 : 국내\n계약금액 : 755억\n계약시작 : 2026-07-31\n계약종료 : 2027-12-31\n계약기간 : 1년 5개월\n매출대비 : 28.75%\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260803900306\n최근계약 :\nhttps://www.awakeplus.co.kr/board/contract/119850\n회사정보:\nhttps://finance.naver.com/item/main.nhn?code=119850",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T00:54:09+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20907",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20907",
+      "text": "» 9월 FOMC의 금리인상 가능성이 현재 64.7% 수준으로 금요일(67.0%) 대비 소폭 하락 [CME FedWatch]",
+      "images": [
+        "https://cdn5.telesco.pe/file/AhcEg7CebaRiN8W6FoyyvA9-mFJImgaG72yngJ5mOQR2BUuqlAjcxJSX3ouHePY5PgMbDJZg_AmJ_CpaOEpUK3_SNwpCxOf9-tcecy0Uq9sSllNVN3JJtbdKPHeMtPVbXQ2qm-DJximP26NfbO8jIJt9Q4ys8maD573Ra544tAOR13iTXJHbNxKj797-smIC_OiPEVG9WxjyP9g6gVtCGd5MVyaRst1qeeswjS2usG28QDMFj8AqzT6_oB_EYHKGoQv6YTWVtEHWYNZmgUUR2AnYl2wOSN7vayFet3g1CJWEFfwxMQ4-U1QCBCeSf68-IWBRyfDbdq0grxP-v_tJug.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-03T00:51:47+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20906",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20906",
+      "text": "» Morgan Stanley는 글로벌 클라우드 서비스 기업(CSP)들의 2027년 클라우드 CapEx 규모가 약 1.3조달러에 이를 것으로 전망. 이는 시장 컨센서스보다 24% 높은 수준\n» 클라우드 CapEx 규모는 지난 2024년 2,930억달러에서 2025년 4,760억달러, 2026년 9,160억달러, 2027년 1조480억달러로 빠르게 증가\n» 특히 2026년 이후 투자의 약 65%가 GPU·AI 서버 등 교체 주기가 짧은 단기 자산(Short-lived Assets)에 집중될 것으로 분석. 이는 AI 컴퓨팅 수요 증가에 따라 지속적인 하드웨어 교체와 추가 투자가 이어질 가능성을 시사\n» 상기 전망은 상장된 글로벌 CSP 14개 기업만을 대상으로 산출한 수치로, 국가 주도의 AI 인프라 투자(Sovereign AI)는 미포함. 따라서 각국 정부의 AI 투자까지 반영될 경우 실제 글로벌 AI 인프라 투자 규모는 이보다 더 커질 가능성\n🔹\n투자 시사점\n» Morgan Stanley의 전망은 AI 투자 사이클이 단기적인 피크가 아니라 2027년 이후까지 이어질 수 있음을 의미. 특히 GPU, HBM, AI 서버, 네트워크 장비, 전력 및 냉각 인프라 등 AI 데이터센터 공급망 전반의 구조적 수요가 예상보다 더 강하게 지속될 가능성을 시사\n» 반면 AI 인프라 투자가 급격히 확대될수록 하이퍼스케일러들의 잉여현금흐름(FCF)과 자금조달 부담은 커질 수 있어, 향후 시장은 투자 규모 자체보다 AI 투자에서 얼마나 빠르게 수익을 창출하는지(ROI)를 더욱 중요하게 평가할 가능성. 현재의 기업 실적과 별개로 주가 변동성이 확대될 수 있는 부분",
+      "images": [
+        "https://cdn5.telesco.pe/file/CbJzhxpCaKpyxiey3PEG00iYAgSKglQaoCT4r_2bxJyD3tsOGO0xzuRXcauS7P8PPDyQRImHNhel1sozdtih7Uzfx96OhCqtcG4KO6jnt0-eTcsNPMGpnieFvN3Ty_yccBVGzIMIKtjDuNavwQPhjeFTy1emLMV9RzjRSDdGfvNi1TEmPJ-8xvFeAfKvLKg6PiLFwxLsilhnh2LB9-GH9BxOL0CCYbS9sDUVNEwKSLA31QDWD_cr8WMqaw1HSpMHOcVBduLFGvfaEa_VnYYO38b5gXpwaWXViI1ZlhN-hKbRjTItOzfc19Quu0xQKV9meXpk7JR6taLUsSdP3QZSJw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-03T00:51:23+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20904",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20904",
+      "text": "» 미·일 당국의 강한 의지 가운데 155엔대까지 하락한 엔달러환율. 원화도 동반 강세 시현",
+      "images": [
+        "https://cdn5.telesco.pe/file/qmRg0GiIjW1JLa2rZOV76IBJMgQL5YVqIcV0PKA04lmQtQF1r_dNsBufO11NIcSuPlAsVIePZxAY9gnrYYlTU5_tRHFlM3N7eoQQu4XV3J21-x1o2CZD2dIUnGzJTZCiclp_F_LnAyoRxBMHfq70l-PVfVIYTBDRrcneL4ZO-NCyv07C2n8DOH2Z-5x4YwqCjNENqh7A-KLeQ6_K22cB5TaXntJbEb9kDbAdm2Av4lU5C9Mpc22s_-amvwUcB3XQhK4kMlm8s48ZJNyontB2t29c5eqmK4j20UeYFtx5-r9X1hx0COfJ4kaTzW-HCeEv6ZpTT76vCDtkxE1UPbtNZg.jpg",
+        "https://cdn5.telesco.pe/file/nFQJToBDdJPtV5Q-_J4thsQ3w0qDy_mMExNAUngTiDrz3sgZ7iTCDoW6zFTrsnjk03jsP4r1wICwlNAagA5irnKZRaF75vIArAScJzz4abajEEhtSaEm3dDAqwKgr4HCijZur9I_NN0rIYo0VbvNWOalJP5HexXRkTB0Ao4Jwld8K3jmGICjkaIjOTHBl1NkQJKUY5DYduTxXIkBoUM8norRMax-GWHqZy-gJYluUG_ISzuEC9KZ5gbsAYCuDUZNf_kItCsmcvHP-0cIn3NCzV-Qc3hRMQny67pOhSGWs58jeTEOfLhxsB-HcQcxZpm4Cqudl7i31Jr0xE5B56KVpg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-03T00:50:37+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20902",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20902",
+      "text": "🍎\n🍎\n일본의 정책 조합:\n점진적 긴축, 환율 개입, 그리고 에너지 보조\n☘\n일본은행(BOJ)은 7월 회의에서 기준금리를 1.00%로 동결했다. 지난 6월 25bp 인상 직후였던 만큼 시장이 예상했던 결과였으며, 성장률과 물가 전망에도 큰 변화는 없었다. 시장은 여전히 10월 추가 인상을 기본 시나리오로 보고 있지만, 우에다 총재가 다음 회의부터 정책 논의를 본격화하겠다고 밝히면서 9월 인상 가능성도 일부 높아졌다.\n☘\n성장 전망은 FY2026~2027을 중심으로 소폭 상향됐지만, 물가의 상방 위험은 여전히 남아 있다. 임금 상승과 에너지 가격, AI 투자 확대에 따른 수요, 엔화 약세가 주요 부담 요인이다. 여기에 정부의 재정지출 확대가 내수와 임금을 지지할 경우, 경기에는 긍정적이지만 수요 측 물가 압력이 예상보다 오래 지속될 가능성도 함께 고려해야 한다.\n☘\n다만 실제 일본의 신선식품 제외 CPI는 현재 약 1.6% 수준 (25년 고점 3.7%)으로 낮아져 있어, 표면적인 물가만 보면 공격적인 긴축이 필요한 상황은 아니라 판단된다. 이 수치에는 전기·가스 등 에너지 가격을 낮춘 정부 보조금 효과가 포함되어 있으며, 보조금 종료 이후에는 CPI가 내년 초 다시 2% 수준으로 올라가 그 부근에 머물 가능성이 높다. BOJ가 지금의 물가보다 향후 경로를 더 경계하는 이유가 여기에 있다.\n☘\n이런 상황에서 지난주 달러·엔이 164엔 부근에서 158엔대로 급락하며 엔화가치가 급등했다. 이후 일본 정부는 미국과 공동으로 외환시장에 개입했다고 공식 확인하며, 필요할 경우 추가 조치도 주저하지 않겠다는 입장을 밝혔다.\n☘\n다만 지금의 엔화 약세는 미·일 금리차와 해외자산 투자 확대 등 구조적인 요인의 영향도 크다. 따라서 이번 개입은 엔화의 장기 추세를 바꾸기보다 환율 변동성과 수입물가 부담을 완화해, BOJ가 임금과 기조물가를 확인하면서 점진적인 긴축 기조를 이어갈 수 있는 시간을 벌기 위한 정책 조합으로 해석할 수 있다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/hIzFXf_Kpp7wVNyX7veDUe3t4kpA-4K0I0T-XlSHRfX9OOD97PksSuqEzOWbF1gH9qO0HIzsRK7pBWDrgzZaZp0NAiK1NfLeULU0PyWSnn3GhertWGgYXlzkX_jlwRMLOOPCG28b7phcFfvNUlHWPK1f73MkZ6ah3YGxJJay_2SdTfqlL_uIbcacyCTEl8X9TM82fJJD1nlIXc8xnOkgEeiV8Ikie1D3eIlmTnWOsyB4Ldth3vrxvENUlU4LlSj437w6iZNNxTx-sqAfLcXrM5rvZoerevwBvOJSs9MYqiPPSeqZKDd0kumdDA111Darua-cLLFhBL4u4m-MZDOZaQ.jpg",
+        "https://cdn5.telesco.pe/file/TsxcaHk5XMvkqugUsGe6EzDW7rkCZUD1ulsk0LacHwefncegZ5T4MbRxqMhRzaVzXVLqsaBp90nRvE5XHEz4LrAtGvXAv5q_OC7jb-hWkeUwzxcHlthkEWYjxhf-DhjYl-uF29Y02boV0x0jV-ha41EPKUElWFwG7NnmILqEaJZesG8kMAwOTZw2J8D_XqwJImen-6DNq391Jld8dOxe48J3eXrchFJkQpUnHjYSdOkBtApJKHs5_MsG1Pk4lfPDaQsBLEIHR7Od0Gf1DAkA_3XrsSWhvud85DYePSyFIByy2dzzocdsugX_v10oCJt2yBeKJklQr4lLxm-VSw3Z3Q.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-03T00:49:17+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19483",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19483",
+      "text": "키옥시아 (Kioxia ) +7.46%",
+      "images": [
+        "https://cdn5.telesco.pe/file/pVUiIuSkkxTwmxXdz5dUGgFSlUuNeWG7ZBsoxgmD6ShSz4l18LJAXcg-wnv-AI_40x0IIbaX3xzP3f_SJNmeDY4EAKce5Kotjw-WVCjcb3ETRqynY_cL1XENFoICmmpcwYnKFHWAxjvQBfDl-p_saxr94fCmDG6J9JwT2OYGr2-D7bYzuva7UtatTixE0JhDqjvhAllkwSV7PpTf5Tge_FwzZRfD6KedhFIM5PnVUr8t4vQ1fF4tE7Ux7JDRyj5C3Lqk3WmBOVhdViQUzHoGnd2pHWbpYaRRU26T-yTefM7fCEEoKLCWrItOiRahJ5XOPg67fqmKdXduWrcqNjB_wg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-03T00:47:21+00:00"
+    },
+    {
+      "id": "tg:EMchina/32058",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32058",
+      "text": "일본 2년물 국채금리 1.54%로 상승. 1995년 이후 처음\n日本两年期国债收益率升至1.54% 为1995年以来首次\n日本2年期国债收益率上升3.5个基点，至1.54%，为1995年以来首次。10年期国债收益率上升1个基点，至2.805%；30年期国债收益率下降1个基点，至3.97%。",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T00:46:06+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19482",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19482",
+      "text": "골드만삭스, 삼성전자, 아시아태평양(APAC) 확신 추천종목 편입\n삼성전자 주요 분석 및 전망\n메모리 수급 불균형\n:\n메모리 수요가 공급을 크게 상회할 것으로 보이며, 수급 격차는 2027년에 더욱 확대되어 2028년까지 이어질 것으로 예상됩니다.\n주가 및 밸류에이션 매력\n: 최근 40%의 주가 조정을 거치면서 위험 대비 보상 비율이 우수해졌습니다.\n2027년 예상 실적 기준 P/E 3.1배, P/B 1.2배(다운사이클 수준에 근접)로 거래 중이며, ROE는 50%에 육박합니다.\n영업이익 추정치\n: 메모리 가격의 견조한 흐름과 AI/서버 관련 수요 강세에 힘입어 영업이익은 2026년 379조 원, 2027년 562조 원, 2028년 650조 원에 달할 것으로 전망됩니다.\n수익성 지표: DRAM 영업이익률은 약 80%의 높은 수준을 유지하고, NAND 영업이익률은 60%를 넘어설 것으로 예상\n됩니다.\n하방 리스크 방어\n:\n전체 생산 능력의 60~70%가 장기공급계약(LTA)으로 체결되어 있으며, 상당한 규모의 선급금 및 최저 보장 가격(floor price) 설정으로 주가 하방 리스크를 보호하고 있습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/P5VrZjatdpYxiRgb_aw8WeTb4LIMZTNHOoJ1H35HLNcT4t9wf3z78ab7tATY86TRg22MmI81_tPQ9osLq_l_X_AMbvpETlENR1s_sz4aOX0yL97JtL-gjMgBRHjJ3oiY7DSmjxhFbSujUqCRtHprMkTeD35w4ko4OAIxD1HltCFBG6a84HAwqYsjIqywubcU65_bmkjSJ-13UK4YSKFR0YSFKNg4bhC8pACAJlsrdgFU_3ZX7qXKe4r4-OM1WIrHGMjhMwTpXCd1Ks5V2gQ8nO-R2wqSxdF2TXhAj-MkTKNx7rNCO9pria7XqXJJJrO1nkOy242etC1exlNqo3ax3A.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-03T00:23:34+00:00"
+    },
+    {
+      "id": "tg:HI_GS/6824",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/6824",
+      "text": "[태국 외교부 차관 한국 찾아 한화와 극비 회동…'4조' 호위함 협력 가시화]\n• 태국 외교부 차관 방한해 한화오션 고위 임원진과 차기 호위함 사업 협력 논의함\n• 4000t급 호위함 1척(약 7400억원) 포함 후속 3척까지 총 4조원 규모 사업임\n• 한화오션은 6개 참여사 중 유일하게 1차 자격·기술 심사 통과해 수주 유력함\n• 4000t급 OCEAN-40F 모델로 기술 이전 및 현지 생산 요건 최고점 확보함\n❗️\n4조원 규모 태국 차세대 호위함 사업에서 한화오션 우선협상대상자 선정 및 최종 수주 유력\n출처: [더구루]\nURL:\nhttps://www.theguru.co.kr/news/article.html?no=105246\n─────────────────────\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n🎴\n거의 다 온거 같다..만",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T00:23:20+00:00"
+    },
+    {
+      "id": "tg:HI_GS/6823",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/6823",
+      "text": "LIG D&A, 필리핀에 대전차 미사일 '현궁' 초도물량 납품 완료\nhttps://tinyurl.com/24vhuda2",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T00:21:57+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19481",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19481",
+      "text": "블룸버그) 모건스탠리 \"한국 증시, '레버리지 청산' 후 36% 추가 상승 여력 있어\"\n모건스탠리가 한국 주식에 대한 투자의견을 '비중확대(Overweight)'로 상향 조정했습니다. 최근의 \"레버리지 청산\"이 투자자들에게 인공지능(AI) 트레이딩 및 산업 슈퍼사이클 테마에 참여할 수 있는 더 좋은 진입 기회를 제공했다고 설명\n했습니다.\n대니얼 K. 블레이크(Daniel K Blake)가 이끄는 전략가 팀은 보고서를 통해, 쏠림 매매와 급격한 레버리지 해소 이후 코스피(Kospi) 지수가 36%의 상승 여력을 지니고 있으며 모건스탠리가 제시한 목표치인 9,000포인트에 도달할 가능성\n이 있다고 밝혔습니다. 해당 증권사는 이전에 한국 증시에 대해 '비중유지(Equal-weight)' 의견을 제시한 바 있습니다.\n아시아 인공지능 수요의 풍향계 역할을 해온 한국 시장에서 트레이더들이 신속하게 물량을 쏟아내면서, 코스피 지수는 지난 6월 고점 대비 약 30% 하락했습니다. 단일 종목 레버리지 ETF의 급증과 지수 내 시가총액 상위 종목 쏠림 현상이 이번 폭락을 한층 심화시켰습니다.\n한국 금융당국은 이후 이러한 상품의 과도한 활용을 제어하기 위해 개입에 나섰습니다. 정부는 개인 투자자의 전체 포트폴리오 중 위험 노출 한도를 일정 비율로 제한하는 방안을 포함해, 개인의 레버리지 상품 참여를 제한할 계획입니다.\n모건스탠리는 단기적으로 코스피 지수가 5,500~10,500포인트 범위 내에서 변동할 것으로 예상하면서, 삼성전자와 SK하이닉스가 시장의 밸류에이션 하단을 지지하고 있다고 지적했습니다. 아울러 산업, 방산, 금융 섹터 주식이 수혜를 입을 것으로 전망했습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T00:06:36+00:00"
+    },
     {
       "id": "tg:bornlupin/19480",
       "source": "telegram",
@@ -56,18 +535,6 @@
       "published_at": "2026-08-02T23:49:52+00:00"
     },
     {
-      "id": "tg:bornlupin/19477",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19477",
-      "text": "『글로벌 주식전략; 시추에이션 어웨어니스와 LTCM 의 공통점』\n글로벌전략 김성환\n☎\n02-3772-2637\n- SA와 LTCM, 특정 플레이어의 유동성 위기가 주가 급락을 야기했다는 공통점\n- 청산 이슈 해소, 거의 다 왔음을 의미 하나 급반등을 위해선 상승 트리거 필요\n※ 원문 확인:\nhttp://bbs2.shinhansec.com/board/message/file.pdf.do?attachmentId=353053\n위 내용은 2026년 08월 03일 08시 14분 현재 조사분석자료 공표 승인이 이뤄진 내용입니다.\n제공해 드린 조사분석자료는 당사 고객에 한하여 배포되는 자료로 어떠한 경우에도 당사의 허락 없이 복사, 대여, 재배포 될 수 없습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T23:49:44+00:00"
-    },
-    {
       "id": "tg:EMchina/32057",
       "source": "telegram",
       "author": "EMchina",
@@ -90,18 +557,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-02T23:36:21+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19476",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19476",
-      "text": "Counterpoint Research) AI가 재편하는 메모리 수급 구조: DRAM 1g당 가격, 금 1g당 가격 넘어서\n1. 핵심 현황\nDRAM 가치 폭등\n:\nAI가 메모리 수급 구조를 근본적으로 바꾸면서 \"DRAM 1g당 가격이 금 1g당 가격을 넘어서는 현상\"이 발생함.\n산업 체질 변화\n:\n메모리 반도체가 과거의 단순 '경기 순환형 범용 상품(Commodity)'에서 'AI 시대의 가장 중요한 핵심 부품'으로 체질을 전환\n하고 있음.\n2. 주요 내용 및 시장 분석\n-\n전방위적 수요 폭발\n단순히\nHBM(고대역폭 메모리)에만 국한되지 않고 DDR5, DDR4, 기업용 SSD(eSSD) 등 메모리 제품 전반의 수요가 동반 상승\n중.\nAI 서버 1대당 탑재되는 메모리 용량이 급증하고 있음 (GPU용 HBM, CPU용 DDR5, 추론 운산용 eSSD 모두 가파른 증가세).\n-\nHBM 쏠림으로 인한 범용 DRAM 공급 난\n메모리 3대 기업(삼성전자·SK하이닉스·마이크론)가\n웨이퍼, 미세 공정, 첨단 패키징 자원을 HBM 생산에 최우선 배정함.\n이로 인해 전통적인 DRAM 생산이 밀려나면서 시장 전체의 메모리 공급 부족 현상이 심화됨.\n전방 산업별 영향 (스마트폰 vs AI 서버)\n스마트폰 제조사\n: 메모리 가격 상승과 물량 부족이라는 이중고에 시달림. 스마트폰 출하가 인상, 탑재 메모리 용량 축소, 제품 라인업 재편 등을 강요받는 상황.\nAI 서버 고객\n: 높은 비용을 기꺼이 지불할 용의가 있어 메모리 제조사로부터 최우선 순위로 물량을 공급받고 있음.\n엔비디아(NVIDIA)의 대응 전략\n엔비디아는\n메모리 구매 단가를 낮추는 데만 집중하지 않음.\n한정된 메모리 공급 상황 속에서 GPU, CPU, HBM의 구성을 최적화하여 전체 AI 플랫폼의 출하량을 극대화하는 방향으로 전략\n을 펼치고 있음.\n3. 향후 전망\n단기 내 수급 불균형 해소 불가\n:\n신규 공장 증설, 장비 입고, 공정 전환에 시간이 소요\n되며, HBM이 더 많은 웨이퍼 면적과 첨단 패키징 생산 능력을 소비하기 때문에 전체 비트(Bit) 공급 증가 속도는 제한적임.\n구조적 성장 단계 진입\n:\n메모리 산업은 과거 공급 과잉과 가격 변동이 반복되던 사이클 산업에서, AI 인프라 구축이 이끄는 '구조적 장기 성장' 모델로 전환되었음.\nhttps://www.ctee.com.tw/news/20260803700140-430501",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T23:26:41+00:00"
     },
     {
       "id": "tg:HI_GS/6822",
@@ -136,36 +591,10 @@
       "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
       "author_url": "https://t.me/enc210406",
       "url": "https://t.me/enc210406/4283",
-      "text": "[한투증권 강경태] 한화엔진(082740)\n텔레그램:\nhttp://t.me/enc210406\n보고서 링크:\nhttps://alie.kr/6XosxRg\n2Q26 Review: 일시적 부진, 3분기부터 즉시 회복\n■ 영업이익은 컨센서스를 32% 하회, 일시적인 판관비 지출액 증가분 및 저속엔진 ASP 하락 효과\n- 일시적인 부진. 2분기 연결 매출액은 3,622억원(+4.9% QoQ), 영업이익은 379억원(-26.2% QoQ, OPM +10.5%)을 기록. 컨센서스와 비교해 매출액은 5.5% 하회, 영업이익은 32.1% 하회하는 것\n- 수익성 악화 요인은 두 가지. 첫째, 판관비 지출 규모가 급증. 2분기 매출액 대비 판관비 지출 비중(이하 판관비율)은 10.3%로 전분기 대비 6.2%p 상승했으며, 전년 동기에 비해 7.2%p 상승. 일회성으로 지출된 관리비 때문인데, 민수용 ESS 영업을 양수하고 노르웨이 Seam 인수, 중국 자회사를 신설하는 등 신규 수익원을 구축하는 과정에서 발생한 비용\n- 2분기 매출총이익률이 20.7%로 1분기에 비해 1.8%p 상승했지만, 같은 기간 동안 영업이익률이 4.4%p 하락한 것은 이 때문\n- 둘째, 저속엔진 ASP 하락폭이 컸음. 2분기에 선적한 저속엔진 29대의 ASP는 97억원으로 1분기 대비 6.2% 하락. 선적한 엔진의 선종별 구성 상, 타 선종 엔진 가격 대비 2.5배 높은 컨테이너선용 대마력 엔진 수량이 2대에 불과(1분기 4대)했기 때문. 2분기 선박엔진 영업이익률 경상치는 13.8%로 추정하며, 판관비 지출액 대부분을 선박엔진에 배부할 경우 11.7%(-2.4%p QoQ)로 낮아질 것\n■ 기저효과로 3분기 저속엔진 ASP 11% 상승, AM 매출액 증가에 3분기 실적 즉시 회복할 것\n- 즉시 회복할 것. 2026년 3분기 매출액은 4,099억원(+13.2% QoQ), 영업이익은 623억원(+64.4% QoQ, OPM +15.2%)으로 추정. 말 그대로 일회성이였던 2분기 판관비 지출 항목들은 3분기에 사라지며, 저속엔진 ASP 상승세에 따라 선박엔진 영업이익률은 정상 궤도대로 성장하게 됨. 3분기 저속엔진 ASP를 107억원(+10.5% QoQ)으로 추정하며, 선박엔진 영업이익률 또한 14.8%로 2분기에 비해 1%p 회복할 것\n- 3분기 AM 매출액은 500억원으로 추정. 상반기 누적 매출액(750억원) 부진에도 불구하고 회사의 연간 AM 매출액 가이던스(1,900억원)는 변함없음. 선주사들의 소모성 부품 지출이 하반기에 증가하기 때문이며, 고마진 AM 매출액이 증가하면서 영업이익 회복에 기여할 것\n■ 2027년 컨센서스는 저속엔진 매출만으로 설명 가능, 컨테이너선 mix 감안하면 수익성도 필시 성장\n- 매수 의견과 목표주가 110,000원을 유지. 목표주가는 적정 기업가치 9조 1,121억원을 유통주식수로 나누어 계산했으며, 적정 기업가치는 2027년 지배주주순이익 추정치 3,645억원에 목표 P/E 25.0배를 적용해서 산출\n- 호실적은 필연이다. 2026년 2분기 말 선박엔진 수주잔고 5조 5,832억원(+11.3% QoQ)의 58%를 고마진 컨테이너선용 엔진이 차지하고 있으며, 증설 후 연간 Capa 기준 저속엔진 생산 물량은 2028년까지 모두 확보돼 있음\n- AM 매출 성장, 중속엔진과 Seam 등 신규 수익원이 외형과 수익성에 기여하는 점을 굳이 강조하지 않아도, 2027년 매출액 컨센서스는 저속엔진만으로 설명 가능. 컨센서스 상향에 따른 밸류에이션 매력 상승, 중속엔진 응용처 확대에 따른 모멘텀을 감안해 적극 매수할 때",
+      "text": "[한투증권 강경태] 한화엔진(082740)\n텔레그램:\nhttp://t.me/enc210406\n보고서 링크:\nhttps://alie.kr/Gvpar0C\n2Q26 Review: 일시적 부진, 3분기부터 즉시 회복\n■ 영업이익은 컨센서스를 32% 하회, 일시적인 판관비 지출액 증가분 및 저속엔진 ASP 하락 효과\n- 일시적인 부진. 2분기 연결 매출액은 3,622억원(+4.9% QoQ), 영업이익은 379억원(-26.2% QoQ, OPM +10.5%)을 기록. 컨센서스와 비교해 매출액은 5.5% 하회, 영업이익은 32.1% 하회하는 것\n- 수익성 악화 요인은 두 가지. 첫째, 판관비 지출 규모가 급증. 2분기 매출액 대비 판관비 지출 비중(이하 판관비율)은 10.3%로 전분기 대비 6.2%p 상승했으며, 전년 동기에 비해 7.2%p 상승. 일회성으로 지출된 관리비 때문인데, 민수용 ESS 영업을 양수하고 노르웨이 Seam 인수, 중국 자회사를 신설하는 등 신규 수익원을 구축하는 과정에서 발생한 비용\n- 2분기 매출총이익률이 20.7%로 1분기에 비해 1.8%p 상승했지만, 같은 기간 동안 영업이익률이 4.4%p 하락한 것은 이 때문\n- 둘째, 저속엔진 ASP 하락폭이 컸음. 2분기에 선적한 저속엔진 29대의 ASP는 97억원으로 1분기 대비 6.2% 하락. 선적한 엔진의 선종별 구성 상, 타 선종 엔진 가격 대비 2.5배 높은 컨테이너선용 대마력 엔진 수량이 2대에 불과(1분기 4대)했기 때문. 2분기 선박엔진 영업이익률 경상치는 13.8%로 추정하며, 판관비 지출액 대부분을 선박엔진에 배부할 경우 11.7%(-2.4%p QoQ)로 낮아질 것\n■ 기저효과로 3분기 저속엔진 ASP 11% 상승, AM 매출액 증가에 3분기 실적 즉시 회복할 것\n- 즉시 회복할 것. 2026년 3분기 매출액은 4,099억원(+13.2% QoQ), 영업이익은 623억원(+64.4% QoQ, OPM +15.2%)으로 추정. 말 그대로 일회성이였던 2분기 판관비 지출 항목들은 3분기에 사라지며, 저속엔진 ASP 상승세에 따라 선박엔진 영업이익률은 정상 궤도대로 성장하게 됨. 3분기 저속엔진 ASP를 107억원(+10.5% QoQ)으로 추정하며, 선박엔진 영업이익률 또한 14.8%로 2분기에 비해 1%p 회복할 것\n- 3분기 AM 매출액은 500억원으로 추정. 상반기 누적 매출액(750억원) 부진에도 불구하고 회사의 연간 AM 매출액 가이던스(1,900억원)는 변함없음. 선주사들의 소모성 부품 지출이 하반기에 증가하기 때문이며, 고마진 AM 매출액이 증가하면서 영업이익 회복에 기여할 것\n■ 2027년 컨센서스는 저속엔진 매출만으로 설명 가능, 컨테이너선 mix 감안하면 수익성도 필시 성장\n- 매수 의견과 목표주가 110,000원을 유지. 목표주가는 적정 기업가치 9조 1,121억원을 유통주식수로 나누어 계산했으며, 적정 기업가치는 2027년 지배주주순이익 추정치 3,645억원에 목표 P/E 25.0배를 적용해서 산출\n- 호실적은 필연이다. 2026년 2분기 말 선박엔진 수주잔고 5조 5,832억원(+11.3% QoQ)의 58%를 고마진 컨테이너선용 엔진이 차지하고 있으며, 증설 후 연간 Capa 기준 저속엔진 생산 물량은 2028년까지 모두 확보돼 있음\n- AM 매출 성장, 중속엔진과 Seam 등 신규 수익원이 외형과 수익성에 기여하는 점을 굳이 강조하지 않아도, 2027년 매출액 컨센서스는 저속엔진만으로 설명 가능. 컨센서스 상향에 따른 밸류에이션 매력 상승, 중속엔진 응용처 확대에 따른 모멘텀을 감안해 적극 매수할 때",
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-02T23:06:51+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19475",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19475",
-      "text": "[SK증권 반도체 한동희, 손 건]\n안녕하세요, SK증권 한동희입니다.\nSK하이닉스와 진행한 NDR 후기 공유드립니다.\n시장 우려와 달리 SK하이닉스의 LTA 비중, 조건은 업계 하위가 될 이유가 전혀 없다고 판단하며, 주주환원 역시 먼 미래의 일은 아닐 것이라 판단합니다.\n정책과 상황의 차이를 본질적 펀더멘털과 의지의 차이로 오해하는 시각을 경계합니다.\n재평가의 핵심과 본질은 ADR이 아닌 주주환원이며,\n주주환원은 LTA의 가치를 인정받게 할 것입니다.\n업황 강세, 메모리 재평가 주장을 유지합니다.\nSK하이닉스 매수 /TP 4,000,000원 유지\n2Q26 NDR 후기: 오해와 본질\n2Q26 NDR Keywords: LTA, 주주환원\n시장 생각: 컨퍼런스 콜 세부 내용 공유 부족\n-> 이는 정책과 상황의 차이 일 뿐\n-> 본질적 펀더멘털, 의지의 차이로 오해되는 것을 경계\nSK하이닉스 전략, LTA, 주주환원 의지, 경쟁력 확인\n-> 지난 11월부터 주장한 재평가 (P/E) 논리 부합\nLTA: 고객마다 조건 상이. 안정, 가시성, 성장 동반 추구\nSK증권은 LTA 조건이 고객별 상이하다는 주장 유지\n-> 일부 LTA가 전체 LTA를 설명할 수 없음\nHBM 경쟁력에 따른 북미 GPU 업체와의 강력한 파트너십, 공급 부족 심화\n-> SK하이닉스의 잠재적 LTA 비중, 조건이 업계 하위가 될 이유 전혀 없음\n70% 미만의 수요 충족: 비중은 조건에 따른 선택 영역\n핵심: 개별 LTA 통한 가격, 물량, 안전망의 최적 조합과 비 LTA 시장을 통한 안정, 성장, 가시성 추구\nLTA의 본질: 고객과의 ‘상호인질구조’ -> 이익 가시성, 지속성, 하단이 구조적으로 월등히 높아질 것\n주주환원: 배당, 자사주 매입소각 등 검토. 재평가 기반\nSK하이닉스는 연내 배당 및 자사주 매입 소각 등 주주환원 방안 소통 강조 구체적 시점은 공유되지 않았지만,\n1. 메모리 업계의 주주환원 본격화 움직임\n2. ADR 상장 등 재평가 위해 업종 내 가장 선도적 행보를 보이고 있다는 점\n3. KIOXIA SPC1 매각에 따른 배당 수익+ADR 발행으로 순현금 100조원 달성 시점 앞당겨짐\n-> 주주환원이 우려처럼 먼 미래의 일은 아닐 것\n메모리 재평가의 핵심은 ADR이 아닌 주주환원\n주주환원 가시화가 LTA의 가치를 인정받게 할 것\n투자의견 매수, 목표주가 4,000,000원 유지\n▶️\nURL:\nhttps://buly.kr/6teOuQu\n* SK증권 리서치 IT팀 채널 :\nhttps://t.me/skitteam",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T22:58:09+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19474",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19474",
-      "text": "* 7월 DRAM 수출 단가 선형적/구조적 상승세 지속\n* 특이점: SRAM 수출 사상 최고치 기록 (삼성전자의 엔비디아 LPX 파운드리 생산 시기와 맞물림)",
-      "images": [
-        "https://cdn5.telesco.pe/file/J2Nx-6gcwdyL4-CdvlNE8D3eRnmox08JvYAUWT3ncXCIGJI4xIwE-X911k73Pd3tYYE4ZQVJoGMel6ZEy1rprzjrhd3dWe9q2SfiJXbjw5wdGdQw0YaSFRdGCbPKEa8gdTMHpyYS0rDpTVGQp1iXtvniQY0lfFpPX-lVFGqGWGCQllrz_Bs3xqryO261AsygLg8EVC9o9xKbBGuCiOn7eMSNXkjbROp-D3gF--0joJecKK0aZFMa_j3weGEe15DTZnSfUH9JOV8gbpiUDV44fXInQQdZOTbcVt0GEkIVsgrn5dJDJYvP1ZFVlpw8Gvyzqo1Rv08disDzdhjCK5bqWg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-02T22:53:29+00:00"
     },
     {
       "id": "tg:EMchina/32056",
@@ -278,20 +707,6 @@
       "published_at": "2026-08-02T22:34:51+00:00"
     },
     {
-      "id": "tg:globaletfi/20893",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20893",
-      "text": "» 트럼프 대통령은 엔화 강세를 이끌어 낸 지난주 외환시장 개입에 대해 일본과의 우정을 기반으로 한 조치라고 설명\n» 시장에서는 추가 개입 가능성을 경계 중인 상황",
-      "images": [
-        "https://cdn5.telesco.pe/file/vCfa_08kTPenbyH-KO3MQlQCzw_Us9B7VrqPxbtfRdVoeG4TDWT8Hlz7vfMnk8OCy1UMtLSd2724s1pxj6rGu0e55Vl3FVGIlFaH9MnEacwvNK9CB_yGA__9fHaRxFgdXHhNJViWc2n07TnCSZHg0ZYdcI256tjk9Ow28fYCmFL689Np3ZB4gCsNxT2SG1UVeQi0dGupCbJ5G1kvyoYmt93uduFl9b2UYiGuZLCkyj8eGcySwa-3V_3I9K2f7XG0drjOPQ7OexVVb3mXz7o6DjxapbgjdAuCoPj5lVmZGv4RR3N1pDTynXc0OcUkarxo7Oby2iKD0uguuwtqWsNZSA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-02T22:18:48+00:00"
-    },
-    {
       "id": "tg:HI_GS/6819",
       "source": "telegram",
       "author": "HI_GS",
@@ -302,30 +717,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-02T22:17:51+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20892",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20892",
-      "text": "챗GPT 개발사 오픈AI가 차세대 모델인 '아스트라'의 출시를 예고했다.\n오픈AI는 내부 시험 중인 차세대 모델 '아스트라'를 활용해 최소 10년 이상 풀리지 않았던 수학 난제 10가지를 해결했다고 2일(현지시간) 밝혔다.\n아스트라가 해결했다고 오픈AI가 소개한 난제들은 고차원 기하학, 대수학의 한 분야인 군론(group theory), 양자 복잡도 등이다.\n오픈AI, 차세대 AI모델 '아스트라' 예고…\"수학 난제 10개 해결\"\n- 올트먼, 워싱턴DC서 직접 시연…트럼프 행정부 새 규제 첫 적용사례 될듯\nhttps://n.news.naver.com/article/001/0016229604?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T22:13:59+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20891",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20891",
-      "text": "[글로벌ETF] 정제마진 ATH일 때 봐야하는 ETF\n▶️\n하나증권 Global ETF 장치영(T.3771-3669)\n▶️\n자료:\nhttps://buly.kr/5JPZtfq\n▶️\n텔레그램:\nhttps://t.me/hanaglobalbottomup\n★ Valero Energy 실적에서 확인된 정유 업계의 높아진 이익 체력\n» Valero Energy 2Q26 조정 EPS 12.54달러(+24%), 매출액 444.76억 달러(+13%)로 컨센서스 상회. 경영진은 현재 업황이 일시적 현상이 아닌 타이트한 공급 환경에 따른 구조적 변화로 평가하며 미드사이클 수준 상향을 언급\n★ 지정학적 리스크가 심화시킨 병목 현상\n» 글로벌 정유시설 노후화 설비 폐쇄가 진행되는 가운데, 호르무즈 해협 정상화 지연과 러시아 정유시설 타격으로 다운스트림 병목 심화. 7월 미국 정유설비 가동률 약 97%로 추가 공급 확대 여력 제한적\n» 타이트한 공급 상황 속에서 드라이빙 시즌과 동절기 수요 증가하는 계절적 성수기 진입함에 따라 정유사들의 수익성을 결정짓는 정제 마진은 유가가 안정화되더라도 높은 수준을 유지할 가능성\n★ 관심 ETF\n» CRAK: 원유 정제 매출 50% 이상인 글로벌 정유사 편입. 정제 마진 확대의 직접적 수혜 구조. 베네수엘라 중질유 공급에 따른 원가 절감 기대되는 미국 Gulf Coast 정유사 비중 높은 편. 국내 정유사 S-Oil, SK이노베이션도 편입\n» XLE: 미국 대형 에너지 기업 대표 ETF. 엑슨모빌·쉐브론 편입 비중 약 35%로 CRAK 대비 유가 민감도 높은 구조\n» KIWOOM 미국원유에너지기업: XLE와 유사한 편입 종목 구성의 국내 상장 ETF. 미국 원유·천연가스 생산 기업 중심 투자\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T22:11:17+00:00"
     },
     {
       "id": "tg:enc210406/4282",
@@ -354,18 +745,6 @@
       "published_at": "2026-08-02T22:03:14+00:00"
     },
     {
-      "id": "tg:bornlupin/19473",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19473",
-      "text": "트럼프 이란 관련 발언\n호르무즈 해협에 관한 합의가 존재하며, 비핵화 협정도 체결될 것이다.\n​협상의 일환으로 논의에 참여하고 있다.\n​내일 오후부터 시작된다.\n​원할 때 언제든 행동에 나설 준비가 되어 있다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T21:50:41+00:00"
-    },
-    {
       "id": "tg:EMchina/32054",
       "source": "telegram",
       "author": "EMchina",
@@ -376,18 +755,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-02T21:49:32+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19472",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19472",
-      "text": "트럼프: \"이란과의 회담 내일 오후 시작, 중단되지 않았다면 대이란 공격은 대규모였을 것\"\n​이란, 사우디아라비아, 카타르, 아랍에미리트(UAE)가 미국에 공격 중단 요청\n​미국 측에 공격을 보류해 달라는 \"매우 강력한\" 요청을 받아",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T21:45:57+00:00"
     },
     {
       "id": "tg:EMchina/32053",
@@ -414,30 +781,6 @@
       "published_at": "2026-08-02T21:05:01+00:00"
     },
     {
-      "id": "tg:EMchina/32051",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32051",
-      "text": "한결같음  ========================  ~ 트럼프 대통령은 이날 소셜미디어 트루스소셜 계정에 올린 글에서 \"이란과 다른 중동 국가들로부터 합의의 틀에 대한 동의가 이뤄졌으니 어떠한 공격도 보류해달라는 요청을 받았다\"며 이같이 발표했다  ~ 트럼프 대통령은 \"이 합의에는 호르무즈 해협의 즉각적이고 완전하며 전면적인 개방, 이란의 핵 위협 종식이 포함된다\"고 전했다  ~ 그러면서 \"이러한 요청에 따라 세계의 미래를 위해, 그리고 동시에 성공적이고…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T20:38:48+00:00"
-    },
-    {
-      "id": "tg:EMchina/32050",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32050",
-      "text": "* 이란 의회, 호르무즈 해협 '주권 관할' 계획 통과  • 이란의 호르무즈 해협 ’주권 관할 ‘계획‘이 곧 의회 승인 & 영구적인 법률 형태로 통과될 가능성  • 이란과 오만 두 국가만이 호르무즈 해협 관리 방식에 대해 결정을 내릴 권리 보유. 이란은 오만과 소통 개시. 오만도 초기 동의 표명  • 관련 방안은 조만간 확정될 전망  伊媒：伊朗议会将通过霍尔木兹海峡“主权管辖”计划 据伊朗媒体30日报道，伊朗议会主席团成员萨利米表示，伊朗对霍尔木兹海峡“实施主权管辖…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T19:41:25+00:00"
-    },
-    {
       "id": "x:karpathy:2083948654377996480",
       "source": "x",
       "author": "karpathy",
@@ -448,21 +791,6 @@
       "images": [],
       "summary_ko": "R to @karpathy: @simonw의 자전거 테스트 펠리칸에 대한 추가 정보: https://simonwillison.net/2025/Jun/6/six-months-in-llms/ 여기에 소스를 업로드하여 브라우저, 포크 등에서 재생할 수 있습니다. https://karpathy.ai/lotr-movie/ GTA VI 이전에 GTA Hobbiton이 떨어지는 것을 조심하세요 :)",
       "published_at": "2026-08-02T16:10:51+00:00"
-    },
-    {
-      "id": "tg:EMchina/32048",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32048",
-      "text": "[한투증권 중국/신흥국 정정영]  • 중국이 낮아지면 사는 것   >> 중국 인민은행은 20개월 연속 금 보유를 늘려가고 있습니다. 특히 최근 4개월동안은 매월 증가폭이 확대되는 흐름입니다. 역사적으로 가격 조정 국면에서 어느때보다 적극적으로 사들이는 패턴을 보여왔습니다. 올해 신규 확보한 금 규모는 2025년 연간 규모의 1.5배에 달합니다. 금 뿐만 아닙니다. 원유도 유가 조정 구간에서 수입량이 늘어나는 사이클이 여전히 지속되고 있습니다  =====…",
-      "images": [
-        "https://cdn5.telesco.pe/file/rYgbBYOpXGrvO09JeK6tx8sgaCDt_h-VwHJyoxBSMdwdOFdklkihC7NuQD1L2T2t7A4BRXjmxzYm2cccl5RWVFQcgbaZD5-EjV_vNPPoz4tPsMIsFUu1K3Uf2OlG6dgOmJcJDwRDrD0tyinaOhCm85zbfGOucw2M-3SYf01uhx0zq_0ryel5mUe2Ww15aSTQPY7G0mZWh439HCx3rFFuZDzL8QaPY124wFCnmUaXqFXlf7NUvIy3LLj-3BYkielibWJXAVyL86EqRbyX74BatamHXi7rm5UmNfKQCllJm_EhTlkj2R5lE1YtwfF0NnZ3vUwS5c5wYx_u8uirrh0jyw.jpg",
-        "https://cdn5.telesco.pe/file/H_ah-rV38rc2mxrzPRJGVbZBzElsYiE1ozB7nqBw0HSZXgR6vVCyU0ORW3QB52KxeE0Hc2EnIBaLBVd0J19B-Bz-drwqxt1OhefmXBweQFDdWRsecyA2K2WOtG7T2Izbo6E9gOlcYaO2VDlmrZ2CeuEAs-lSn2EKji6S3pjTg3ifNbaNoPhc8L9U0djQ7qd7zWYw3H6p6uKSUeQLjtXjDpzKDVKvlOzxoLIDLJELWSFoKfp0EzwMUuC-w85VQme9cw5aZANw0cIO2F7qXVVRT_0cBVmReYvGprLEaPyqepg1x12kiF94tLDHgyfwiKw-Br63mSUIiqLAStUX2YFuZA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-02T14:21:29+00:00"
     },
     {
       "id": "x:ylecun:2083908468285620415",
@@ -477,150 +805,6 @@
       "published_at": "2026-08-02T13:31:10+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24283",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24283",
-      "text": "속보: 이란은 호르무즈 해협을 재개방하기 위해 미국과 합의했다는 보도가 사실이 아니라고 밝혔다고 이란 파르스뉴스가 전했습니다.\n이란은 또한 호르무즈 해협이 이란혁명수비대(IRGC)와 협의하지 않는 모든 선박에 대해 여전히 폐쇄된 상태라고 밝혔습니다.\n트럼프 대통령은 어젯밤 \"합의의 윤곽(perimeters of a deal)\"에 도달했다고 말했습니다.\nhttps://twitter.com/KobeissiLetter/status/2083899817348964690",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T13:17:43+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24279",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24279",
-      "text": "#삼성전자\n#노무라\n1. 2027~2028년 메모리 공급 부족과 LTA 확대\n로 사업 안정성과 밸류에이션 리레이팅을 전망.\n2. LTA가 판매량의 60~70%까지 확대될 전망\n.\n5년 계약·선수금(약 25% 수취)\n구조로 이익과 현금흐름 가시성이 크게 개선될 것으로 분석.\n3. 2027년 공급 부족은 시장 예상보다 심각할 전망\n. AI 서버용 DRAM 수요는\n2026년 +70%, 2027년에도 +70%\n, SSD 수요는\n2026년 +110%, 2027년 +50~60%\n증가하는 반면 범용 DRAM·NAND 공급은\n연 20% 수준\n증가에 그칠 것으로 예상.\n4. 2026~2028년 실적과 현금창출이 급증 전망\n. 영업이익\n391조원→635조원→774조원\n, FCF\n296조원→456조원→563조원\n,\n주주환원수익률은 11.2%→17.6%→22.3%로 확대 전망.",
-      "images": [
-        "https://cdn5.telesco.pe/file/oocfxMlBF2E747P9ADoJb9slS3hOdE8UnaMgKxc-W5Y0dOuC1VsKQibwGCTfNYYJ1vz3pHc1ZKXTDRuaXbGBr4bA4K2_BNZ3p7By09R6wQGShIPNWWmfpoKHNGmbrHjvzu8bbCWtWlrOqIWjs6Ea_iK2QYlhSjKc1MHDrzWlCJZSZiZGp-5OF3N5cGOtVQLdSWQS2cSRUP2pXMBtIOuCW25bjixQmLgg1I-LHHx-gM9xXCinCcZOge1DlccGEIoZyzm2OXhqgVO_AAWroGSLQhuNZqyuF7Expfq4h5odazf-Enu1mtx_CM7qO7zZ99Cuvey7fFRWKXFlhOFtEoE57Q.jpg",
-        "https://cdn5.telesco.pe/file/T2Yio963u-NQZsgoQdUUA_BDooGrRUTATKVJUj3L7ACkeVSHUl0cZKMJuIpvZVdgWHfjYECegqdHNRxHky7-dLdcs7mr7Oxskp2UljvyWZHHWysppSIf_4RHtGKp7N8iFppav-zlIAtmr9vTO-a6lhlPDao60Oah4V2nJFiwHKgahCaoBTdyu8d--WrNncmL49snx_LjMo6Hz3CT-IWyftWnTBBKZNMblCk1cXj8G33TS5KqRtkpEHvjxIWYeWuuq9rg5jSVBuPZM72Wd6AXbAv-XgCIAMxOd7MzsXsylzlOTdbdUCfqLYzxz3aT8FEyLB9d_KmuMmf3MiMrFYh5-A.jpg",
-        "https://cdn5.telesco.pe/file/u4vBx5aDm8g8D7gS6H_Ye2P4rCdfwBXMisWwzChEjEQAs4w9RDaZ9teKnX3pRbyNT5ee8EGYJM1RGYANThY2LnBcxWhz-hzqng_3WDFz9yCugMPY0xbQenRTksB2ezNlciHSSELKSlBpAr4KO42LDqaX5Y2rTwKXa_NG8KMyDCvUmTZtb6hR-80X9VLf-kmUrgP6PSRdaUo3Q2OjnKHIF0I9OtgNWu1AzSnsulV0-_7s_cHHuqXS059Oj8kn7ZxZQ6JAkr-tE-3Pf1u6LWWvDBxz7Bgx_tO-cYFBxHhAJwaw_qGOTznAidY-R1lNQ5dP6FluTz9vETdLIcf4IkLbOg.jpg",
-        "https://cdn5.telesco.pe/file/dkz75nqqfNBTa748Piv-1A_xMd9FmScna19KjqtmW6-1MAbnzHOnYh3I3LJ-HdveVD1jjJbTwU7UB0PDvXrNfsQBU26e0c_KfrKzW3CmDzNYjynZSFsjWnCljZeOrarANjsaHRfysBmNjOzgNrY8ZZa36-XeAbfTTGWKVf_FyEe_MZ-KMJgMqIp2LvmdfdXlj8JwZwKFXQEC2C9UbnJjpJhHWxWlDYjZgfKlKsYkqLLfSgfiwYwbl7bexa1p68SiaRRYVDMa5r7kU_wZQfxIShIuKhnWVzpyJNUrH2wTqDQ1157-QboBUtJVJmLlvG8eNoe3qG5TDKEJ8KUSUvfNAg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-02T13:15:11+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24278",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24278",
-      "text": "뺄 수도 없는데...'20% 손실 보전' 국민성장펀드, 두 달만 마이너스?\n정부가 국민 투자금의 손실을 20%까지 보전해 주기로 한 국민성장펀드가 운용을 시작한 지 두 달도 되지 않아 원금 손실 우려에 휩싸였습니다. 지난달 31일 기준 이 펀드의 기준가격은 961.9원으로 최초설정가격인 1000원을 약 3% 밑돌았는데, 기준가격에는 이미 정부가 후순위로 손실을 먼저 떠안는 효과까지 반영되어 있기 때문에 그럼에도 가격이 1000원 아래로 내려갔다는 것은 일부 자펀드의 실제 손실률이 정부 보전 한도인 20%를 넘어섰을 가능성을 시사한다는 것이 투자자들의 걱정입니다. 이는 운용 개시 이후 코스피가 18.81%, 코스닥이 30.06% 급락한 국내 증시 부진 탓으로 분석되며, 이 펀드가 구조적으로 결성금액의 30% 이상을 비상장기업과 코스닥 기술특례상장사에 투입해야 하는 반면 코스피 투자는 10% 이내로 제한돼 변동성이 큰 자산 비중이 높을 수밖에 없다는 점도 배경으로 지목됩니다. 다만 업계에서는 이 펀드가 5년 뒤에야 환매가 가능한 폐쇄형 상품이고 인프라 투자 부문은 아직 집행조차 되지 않았으며 비상장·메자닌 투자는 자금을 회수해야 비로소 수익이 확정되는 구조인 만큼, 현재 수치만으로 원금 손실을 단정하기는 이르다는 반론도 나오고 있습니다.\nhttps://www.mt.co.kr/stock/2026/08/02/2026073115554976987",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T13:09:38+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24277",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24277",
-      "text": "Citi) US Internet and Software - 2Q26 Cloud Compare: 캐펙스 증가 속 매출 가속 (7/31)\n[핵심 요약]\n상위 4개 클라우드 사업자의 2분기 실적을 종합하면, 산업 전체 성장률이 전분기 대비 약 9%p 가속되어 전년 대비 +50%를 기록했습니다. MSFT, AWS, GCP, OCI 모두 성장률이 상승했습니다. 마이크로소프트 애저는 전분기 +39%에서 4%p 가속된 +43% YoY(환율 불변 기준), 아마존 AWS는 1분기 28%에서 9%p 가속된 +37% YoY, 구글 클라우드는 1분기 63%에서 약 19%p 가속된 +82% YoY, OCI는 11%p 가속된 +92% YoY를 기록했습니다. 점유율 측면에서는 AWS가 41%로 시장 선두를 유지했으나 전분기 대비 130bp 하락하며 점유율 상실이 지속됐고, 애저는 약 30%로 안정적으로 유지, 구글 클라우드는 140bp 상승한 24%, OCI는 10bp 상승한 약 5.6%를 기록했습니다. 전체 캐펙스는 전분기 대비 거의 200억 달러 급증했습니다.\n[매출: 효율성 개선이 성장 견인]\n2분기 클라우드 총매출은 1,038억 달러로 전년 대비 +50% 증가했으며, 1분기 6%p 가속에 이어 9%p 추가 가속됐습니다. 전년 대비 증가분은 350억 달러로 AI 인프라와 솔루션에 대한 수요 지속이 견인했습니다. 마이크로소프트(7/29 발표)의 FY26 4분기 애저 매출은 약 311억 달러로 전년 대비 증가분이 전분기 77억 달러에서 93억 달러로 확대됐으며, 견조한 가속은 컴퓨트 용량을 온라인화하는 효율성 개선에 기인합니다. 아마존 AWS(7/30 발표) 매출은 422억 달러로 전년 대비 증가분이 전분기 83억 달러에서 114억 달러로 확대됐습니다. AI 매출은 ARR 250억 달러(1분기 150억 달러)로 세 자릿수 성장 중이고, 자체 칩 사업 역시 ARR 250억 달러(1분기 200억 달러)로 세 자릿수 성장하고 있으며, 베드록 고객 지출은 과거 모든 분기의 합을 초과했습니다. 구글 클라우드(7/22 발표) 매출은 250억 달러로 전년 대비 증가분이 전분기 78억 달러에서 111억 달러로 확대됐습니다. TPU 판매를 조정해도 코어 GCP 성장이 가속됐으며, 신규 고객 확보 속도가 전년 대비 2배 이상 빨라졌고, 포춘 100대 기업의 약 90%가 제미나이 엔터프라이즈를 사용하며 토큰 사용량은 전분기 대비 +37.5% 증가한 분당 220억 토큰에 달합니다.\n[캐펙스]\n마이크로소프트의 2분기 애저 캐펙스는 약 383억 달러로 분기 중 1GW의 용량을 추가하면서도 용량 온라인화 효율은 개선됐습니다. AWS 캐펙스는 약 400억 달러(+83% YoY)로 아마존 전체 2분기 캐펙스의 74%를 차지하는 것으로 추산되며, 구글 클라우드 캐펙스는 220억 달러(+100% YoY)로 증가했습니다.\n[수주]\n마이크로소프트 상업 부문 수주는 코파일럿 시트가 전분기 대비 +50% 증가한 3,000만에 달했음에도 +11% YoY(오픈AI 제외 시 18%)로 상대적으로 부진했고, 상업 RPO는 오픈AI 제외 기준 +25% YoY 성장했습니다. AWS 백로그는 코어 AWS와 AI의 강세, 그리고 한 AI 랩과의 1,000억 달러 컴퓨트 계약에 힘입어 전년 대비 154% 증가한 4,960억 달러(+3,010억 YoY, +1,320억 QoQ)를 기록했습니다. 구글 클라우드 백로그는 TPU 판매가 일부 견인하며 약 5,140억 달러(+4,080억 YoY, +520억 QoQ)에 달했는데, 대부분 2027년에 이행될 것으로 예상되며 고객들의 실제 사용이 초기 약정을 50% 이상 초과하고 있습니다(1분기 45%, 4분기 30% 대비 상승).\n[마진]\n마이크로소프트 클라우드 매출총이익률은 65%로 가이던스 대비 1%p 상회했으나 AI 인프라 확장 지속으로 전년 대비 3%p 하락했습니다. AWS 영업이익률은 39.4%(에너지 계약 관련 일회성 파생상품 회계 이익 조정 시 38.1%)로 씨티 예상치 33.5%와 1분기 37.7%를 모두 상회했습니다. 구글 클라우드 영업이익률은 전년 대비 +15%p, 전분기 대비 +270bp 상승한 35.6%를 기록했습니다.\n[투자의견 및 목표주가]\n알파벳(매수, 목표가 447달러)은 2027년 GAAP EPS 15.72달러에 약 28배를 적용했으며, TPU와 제미나이 수요로 클라우드 성장이 재가속되고 있어 시장 및 역사적 밸류에이션 대비 프리미엄이 정당하다고 봅니다. 아마존(매수, 목표가 350달러)은 2027년 P/E 약 31.5배 기준으로 EV/EBITDA 약 11배에 해당하며 지난 10년 거래 배수의 하단 수준입니다. 마이크로소프트(매수, 목표가 600달러)는 FY28 GAAP EPS 22.84달러에 약 26배를 적용해 자기자본비용 약 12%로 할인한 값이며, 성장 재가속과 AI 리더십을 감안하면 S&P 500 평균 배수가 적절하다고 판단합니다. 오라클(매수, 목표가 330달러)은 FY30 Non-GAAP EPS 20.75달러에 20배를 적용해 할인한 값으로, AI 인프라 수요와 RPO 급증을 근거로 프리미엄 배수가 정당하다고 봅니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/ISVzRJ6Rc7zlwcGv7bqnrU7oRzYqhQjLZdqXacVjZwINK9y7eO2n3227NZ8JmzO5dhWpDUzm6-CburpKuRTuzzMRLZToPImNAm74mIE1cnAorLrHUNUT2j3WLEfhPF_4P_Q3TgQwnRwQZ0MqEjp1JCHhRKH1s9MOvdBS9A5SJM6sTIFRB3DJzZOPJj34YooznS2nKxMrAe6GSPYkyyfzsHYkufZ5hwsWPJniIfLP7ph9lFB8-ag7zMibOWlIFv_O7Fq0VanPpPUlWnlKTjs-5w827LwQJeDiULLnnMmIROldyd9zy8qPcoTxy8J8-IZAMVcWmemdn3nt-SPNxuXwJQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-02T13:03:48+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24276",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24276",
-      "text": "Citi) US Rates Strategy - 2026 미국 금리 전망 (7/31)  [핵심 뷰] 씨티는 연말까지 금리 하락 전망을 유지하되, 트레이드는 초단기 구간 롱과 스티프너에 집중하고 있습니다. 데이터의 비대칭성 때문에 단기 트레이딩은 어려운 환경인데, 시장이 금리 인상 가능성을 완전히 배제하려면 6월에 더해 두 번의 추가적인 약한 CPI가 필요한 반면, 강한 NFP나 CPI가 한 번만 나와도 상방 리스크가 빠르게 커질 수 있기 때문입니다. 이란…",
-      "images": [
-        "https://cdn5.telesco.pe/file/touu-ZoaaVboGSsmN4yQPwQ1mb8-6FV1KCPEcuH2JjIiwX0zzIy_D9xX-cTM4iE7qRK8B5yXNgnLXVUvbgnzudl4c61zqbU-6t-ygmcGkLgp5U_uuZ6sAK5kdV9RUbvXH5o-kdn5QiL100XGu2AWdrvfc68Wa8_9AyZG3fI0N85gZHRS1AV-VXGzuAgf9x0NZSYYorKdrilzx55ONeTUundclW2Fcu_Ppx-0KJbcZiHR0r2Xj02t_2dz52Uo_U1-mKrXVXK6cLrIw_b_J6C5rSXgNIGQ0bFltfMWb660Vz75Pws_0awJPFpMID1k2jxHgicCj3ITL6NsTuwi2n5dGw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-02T12:05:17+00:00"
-    },
-    {
-      "id": "tg:EMchina/32047",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32047",
-      "text": "AI 회수 가능한가? 이번 빅테크 주가 흐름이 시장에 정답 제시\n• 이번 주 월가는 분명한 신호. AI 투자 수익은 클라우드 컴퓨팅 사업 따라 실현. 마이크로소프트, 아마존, 구글 클라우드 사업 매출 성장세 보이며 주가 큰 폭 상승\n• 반면 클라우드 사업 수익화 채널 부족한 메타는 지속적인 AI 투자 확대에도 직접적인 수익 내지 못해 주가 압박\n• 시장은 AI 승자 가치 재평가. 단순 투입 규모가 아닌 AI 매출, 이익, 현금흐름으로 전환하는 역량에 더 주목\nAI能否回本？科技巨头本周的股价走势，市场给出了答案\n本周华尔街释放出明确信号：AI投资回报正沿着云计算业务加速兑现。微软、亚马逊和谷歌云业务收入强劲增长，带动股价大幅上涨；相比之下，缺乏成熟云业务变现渠道的Meta，虽然持续加码AI投入，却尚未形成直接盈利回报，股价承压。市场正在重新定价AI赢家，不再单纯奖励投入规模，而更关注企业将AI转化为收入、利润和现金流的能力。\nhttps://wallstreetcn.com/articles/3778516#from=ios",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T12:04:46+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24275",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24275",
-      "text": "Citi) US Rates Strategy - 2026 미국 금리 전망 (7/31)\n[핵심 뷰]\n씨티는 연말까지 금리 하락 전망을 유지하되, 트레이드는 초단기 구간 롱과 스티프너에 집중하고 있습니다. 데이터의 비대칭성 때문에 단기 트레이딩은 어려운 환경인데, 시장이 금리 인상 가능성을 완전히 배제하려면 6월에 더해 두 번의 추가적인 약한 CPI가 필요한 반면, 강한 NFP나 CPI가 한 번만 나와도 상방 리스크가 빠르게 커질 수 있기 때문입니다. 이란 분쟁과 유가의 코어 CPI 전이는 제한적이라는 판단을 유지하고 있습니다. 중기 롱 배분으로는 5년 구간을 선호하는데, 기본 시나리오는 연준이 2026년 내내 동결을 유지하는 것이며 이 경우 시장이 2027년 말 기준 더 낮은 중립금리(FF 1y1y 기준 현재 4.1% 대비 3.25~3.5%)로 수렴하면서 5년 구간을 지지할 것으로 봅니다. 7월 FOMC 리시브 포지션은 10월물로 롤했으며, 포워드 가이던스 부재로 인해 시장이 가까운 FOMC에 과도한 리스크 프리미엄을 배분하고 있다고 판단해 2026년 내내 프론트 리시버를 롤링하고 Z6/Z7 플래트너를 헤지로 얹을 계획입니다. 인플레이션 커브는 단기 가솔린 제외 기대인플레이션이 과대 프라이싱되어 있어 스티프닝될 것으로 보며, 2년 BEI 숏(가솔린 롱 헤지)과 5y5y 기대인플레이션 롱을 유지합니다. 스왑 스프레드는 벨리 구간에 강세 뷰를 갖고 있습니다.\n연말 금리 전망(기본/강세/약세)은 2년 3.40/2.95/4.40%, 5년 3.55/3.15/4.45%, 10년 3.90/3.60/4.60%, 30년 4.50/4.20/5.00%입니다.\n[7월 FOMC 평가]\n워시 의장의 기자회견 발언은 도비시하게 해석되며, 이는 씨티의 핵심 포지션인 5s30s 스티프너를 지지합니다. 워시 의장은 높은 정책금리가 \"인플레이션에 대한 지배적이지만 유일하지는 않은 해법\"이라고 언급했고, 코어 PCE가 아닌 더 넓은 인플레이션 지표를 보고 있는 것으로 파악됩니다. 코어 PCE에서 멀어지는 움직임은 2026년 인상 리스크를 제한하며, 30년 BEI 확대와 인플레이션 커브 스티프닝 여지가 있다고 봅니다. 워시 의장은 커브 스티프닝에 대해 편안한 입장으로 보이며, 6월 이후 금리 상승에 대해 \"포워드 가이던스 축소가 한 요인이었을 수 있다\"며 사실상 이를 자신의 성과로 언급했습니다.\n[고용: 7월 NFP의 강세 리스크]\n경제는 저채용·저해고 균형에 머물러 있고, 향후 수개월간 계절적 고용 약세가 예상됩니다. 7~8월 NFP는 연평균 대비 약한 경향이 있고 6월 수치는 하향 수정되는 경향이 있습니다. 씨티 이코노미스트는 7월 NFP +11.5만, 실업률 4.3%를 예상합니다. 채용률은 코로나 저점이었던 2020년 4월 이후 최저로 떨어졌고, 지난 1년간 고용 증가의 대부분을 차지한 헬스케어 채용률이 급락했습니다. 경제활동참가율 상승 가능성도 있어 가벼운 강세(금리 하락) 바이어스를 지지합니다.\n[인플레이션]\n이란 분쟁 이후 향후 1년 코어 CPI 기대가 크게 올라 가솔린 제외 인플레이션이 3%에 가깝게 프라이싱되어 있으나, 에너지 가격 상승의 2차 파급은 제한적일 것으로 봅니다. 항공료를 제외한 대부분의 코어 CPI 구성요소는 최근 수개월간 하락세를 지속했고, 해방일 관세와 에너지 급등에도 지난 12개월 가솔린 제외 인플레이션은 2.7%에 불과했습니다. 이에 따라 2년 BEI 숏과 가솔린 선물 롱 헤지 조합을 선호합니다. 장기 구간은 5y5y 인플레이션 스왑이 이란 분쟁 시작 시점 수준에 머물러 있는 반면 주가는 크게 올라 있어 매력적이며, 30년 BEI는 2023년 여름과 같은 장기물 매수자 파업 가능성에 대한 저렴한 옵션으로도 평가합니다.\n[포워드 가이던스 축소]\n커뮤니케이션 태스크포스는 포워드 가이던스 종료와 점도표 중단을 지지할 것이 거의 확실합니다. 워시 의장은 시장이 성명서를 과도하게 해석해도 개입하지 않을 가능성이 높아 FOMC 회의 자체에 리스크 프리미엄이 추가될 수 있습니다. 연준이 장기간 동결하는 국면에서는 회의에서 얻는 정보가 줄어드는 만큼 데이터의 중요성이 커지며, 금리와 변동성 프라이싱의 리스크 프리미엄은 레짐 의존적이 될 것입니다.\n[연기금 수요와 장기물]\n확정급여형 연기금의 펀딩비율이 사상 최고임에도 연기금 리밸런싱 스토리는 종반에 가까워졌다고 봅니다. 글라이드패스를 따르는 플랜들의 주식 목표 비중이 약 20% 수준이어서 추가 재배분 여지가 거의 없으며, 새로운 수요를 촉발하려면 30년 금리가 5.2~5.3%까지 올라야 한다고 추정합니다. 추가 4% 로테이션을 가정해도 남은 국채 수요는 약 300억 달러에 불과해 연기금 수요가 30년 구간을 방어하기는 어렵다는 판단입니다.\n[스왑 스프레드]\n다음 내러티브는 규제 당국이 은행 지급준비금 수요를 어떻게 줄일 것인가가 될 것으로 봅니다. 약 5,000억 달러의 준비금 수요 감소 여지가 있으며 이는 유동성 주입처럼 작용할 수 있습니다. LCR 산정 시 재할인창구 차입 여력을 HQLA로 인정하는 방안 등이 논의되고 있고, 순서상 먼저 준비금 수요 축소, 다음으로 레포 대비 IORB 하락 등 수요 감소 증거 확인, 그 이후에야 완만한 QT 재개가 가능할 것입니다. 첫 두 단계는 은행 시스템에 유동성을 밀어넣어 향후 수년간 프론트엔드와 벨리 스프레드에 우호적일 것입니다. 프론트엔드 스프레드는 대규모 RMP 덕분에 텀 레포가 앵커될 것으로 보고, 벨리는 3y2y 포워드 스프레드가 과도하게 저렴해 5년 스프레드 롱(-28.5bp)이 핵심 포지션입니다. 장기 구간은 재정과 수급 불균형으로 선호하지 않으나 20년물은 아웃라이트와 스프레드 플라이 모두 예외적으로 저렴해 10s20s 스프레드 스티프너를 회복 트레이드로 접근하며, 8월 리펀딩을 앞두고는 30년 스프레드가 계절적으로 축소되는 경향(2016년 이후 8월 30년 입찰의 90%가 테일, 평균 테일 1.3bp)에 유의해야 합니다.\n[수급: 국채 발행과 부채한도]\n재무부는 2027년 5월에 쿠폰 발행 규모를 늘릴 것으로 예상합니다. T-bill로 2027 회계연도까지 자금 조달이 가능하지만 쿠폰 증액이 없으면 빌 비중이 급격히 상승하게 됩니다. 2026년 11월 선거 이후 분점 정부가 예상되어 2027년에는 특별조치와 TGA 소진이 진행될 것이며, 특별조치는 2027년 5월경 시작되어 약 4,500억 달러 규모, X-date는 2027년 11월로 추정합니다. TGA 소진은 준비금을 끌어올려 시스템에 추가 유동성을 공급하게 됩니다.\n[단기자금시장과 SOFR 클리어링]\n12월 이후 RMP로 준비금이 늘면서 레포금리는 대체로 FF 밴드 하단 부근에서 안정됐습니다. T-bill 발행 증가와 높은 TGA로 8월까지는 자금시장에 상방 압력이 있겠으나, 8월 말 빌 입찰 축소로 9월에는 레포가 다시 완화되고 10~11월 순발행 재개로 4분기 초 재차 상방 압력이 예상됩니다. 국채 레포 의무 클리어링(공식 시한 2027년 6월)이 진행되면 SOFR 픽싱은 2~3bp 상승할 수 있다고 추정합니다.\n[해외 수요와 XCCY]\n2월 해외 공식기관은 장기 국채 250억 달러를 팔고 T-bill 450억 달러를 매수해 듀레이션을 줄였고, 3월에는 4개국이 통화방어 목적으로 장기 국채 260억 달러를 매도했습니다. 일본은 5월 약 600억 달러의 T-bill을 매도했고 7월 30일에도 개입을 단행한 것으로 추정되며, 향후 재무성 개입은 쿠폰이 아닌 T-bill 보유분을 활용할 가능성이 높아 쿠폰 아웃라이트 매도 리스크는 낮다고 봅니다. XCCY에서는 캐리 목적의 1y1y SOFR/TONAR 페이(-24bp)를 유지하며, 준비금 증가와 LCR 규제 완화가 자금시장에 하방 압력을 주고 리스크온 국면에서 베이시스가 회복되는 경향을 근거로 들고 있습니다.\n[변동성 전략]\n미국 6m2y 리스크리버설 스큐는 G4 중 가장 플랫하며, 중동 긴장 추가 고조 시 EUR·UK처럼 페이어 스큐가 스티프닝될 수 있습니다. 코스트리스 3m2y 리시버 래더가 위험 대비 보상 측면에서 매우 매력적이라고 평가합니다. 감마 전략 백테스트 결과 NFP 발표 전일 델타 헤지만으로도 숏볼 전략 성과가 크게 개선되며, CPI 전 헤지 역시 대규모 드로다운을 완화하는 것으로 나타났습니다. 다만 8월은 역사적으로 숏볼 포지션에 불리한 달이었다는 점을 함께 지적하고 있습니다.\n[만약 연준이 인상한다면]\n향후 6개월 내 인상이 있더라도 5y5y 포워드가 반드시 상승하는 것은 아니며, 과거 6번의 첫 인상 사이클 중 3번은 인상 전 6개월간 5y5y가 오히려 하락했습니다. 인상 속도 측면에서는 2015년의 매우 느린 사이클이 현재와 유사한 사례가 될 수 있다고 봅니다. 첫 인하가 약 1년 앞에 있는 경우 5s30s 커브는 통상 스티프닝되지만, 6~12개월 앞 구간에서는 급격한 플래트닝 에피소드가 나타나는 경향이 있다는 점도 함께 언급했습니다.\n*클로드로 요약함.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T12:04:34+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20890",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20890",
-      "text": "◈하나증권 해외주식분석◈\n선진국 기업분석 강재구(T.02-3771-3386)\n*텔레그램 채널:\nhttps://t.me/hana_us_stock\n★ [HANA US Weekly] 강한 AI 수요: 이제는 회수 속도가 중요\n▶\n자료:\nhttps://buly.kr/3jAl0kr\n- MSFT, AMZN, META 실적이 보여준 AI 투자 회수 가시성의 차이\n- 지난주(7월 27일~7월 31일) 리뷰: 초대형 클라우드 중심 상승\n- 이번 주(8월 3일~8월 7일) 프리뷰: 지정학적 리스크, 금리, 고용지표, 기업실적 등\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T11:04:49+00:00"
-    },
-    {
-      "id": "tg:EMchina/32046",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32046",
-      "text": "이란 군 당국: 트럼프의 '이란의 공격 중단 요구'는 거짓말  • 트럼프 대통령의 '이란의 공격 중단 요구'는 거짓말  • 미국의 침략 혹은 후퇴든 이란 군사는 최고 경계 태세. 가능한 모든 상황에 대비. 대항이 불가피해진다면 전장이 모든 것을 결정하게 될 것. 그때가 되면 누가 힘을 쥐고 있는지, 그리고 최종 발언권을 갖게 되는지 모두가 알게 될 것  伊朗军方：特朗普称伊朗要求停止攻击是“谎言” 伊朗迈赫尔通讯社2日援引伊朗军方官员的话报道说，美国总统特朗普称伊…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T10:34:45+00:00"
-    },
-    {
-      "id": "tg:EMchina/32045",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32045",
-      "text": "디램ETF에 유일한 중국기업 기가디바이스  • 과연 CXMT는",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T10:27:29+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24273",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24273",
-      "text": "(이미지/차트 — 원문 참고)",
-      "images": [
-        "https://cdn5.telesco.pe/file/pYv0SvaEUGd3kzGuVwrkjwQqUmFjw5in5cRyRTgSXoadYjm_tMSYD3c_HLA8QKaSKyDdZAD9FCw7E2T1jUDZK3kIPqLM-MndCYnDKKu1Wdf61CEeFboaPPGRy8NG_ahdKG7Ia3beESOirp73QIQk8Ki0EdejOJ21X5FBUNHs7TEcwdLjgp1pjoO3oqyb_AKF1euSJg6NmjNL8VdrhyhWxSozDfJmjAqqMw9_rEGqcVUWv4rESDTcqGjiHkrwiJuq-QIdMfAYGzueZG33qFEbEadXGR3vw5lxeqyKRv21dAcWIefKqp15g5Z7lJ7JqAzOfRMdkzQnDOq08GB1rCD_hA.jpg",
-        "https://cdn5.telesco.pe/file/spsK1v4jEmfsbY7N4B7iyeyLzB-BuBuiCR1xEd4UkgEPpUoe6Ltd4tDPyPG426RGFOiFrsZ5Sk_oaSGvQG5LpHlgVrjUJaXar08PJOaoLWL0JsO9dwIi8yD0zPVas8jWcSfOsjIy8jCxs0qHdeXtvlqPj5eAn3GTWmzUiRHf9zMAHxGDplav8fMXqELwjfx7ucDt8WyTK_Ltw-lsXRFJD4MC6rXuVdmZph_XNktIGu8-zsw80FEJV9Kx4_gbAu5ljIvcFXdmo_nSfOfZDfkf_SM6A0eEombos4UiyYbXgXoSW6tyZGsdXWYI6fiQOcQzv2qkyw3AFo4pV_LoLnm5KQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-02T09:26:28+00:00"
-    },
-    {
       "id": "tg:HI_GS/6818",
       "source": "telegram",
       "author": "HI_GS",
@@ -633,68 +817,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-02T08:11:35+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24272",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24272",
-      "text": "한국의 개인 투자자들은 오랫동안 위험을 마다하지 않는 것으로 명성을 쌓아왔습니다. 그러나 7월 코스피의 가혹한 반전은 이 산전수전 다 겪은 집단마저 뒤흔들며, 이들의 변동성 감내 한계를 드러냈습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T08:00:59+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24271",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24271",
-      "text": "Rip Lee박은 블룸버그",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T08:00:23+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24270",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24270",
-      "text": "Rip Lee박은 블룸버그",
-      "images": [
-        "https://cdn5.telesco.pe/file/pdrfe9NOTYdUOw6Rp1Ah0Rz-KjqpJQpnAdhtlX1X8lPordJHOy4UkK0UhUjLEjgyU8EoOhEwulKugkmmOEolLmqBLqwfe03CpGkzEIX5tOImHVCa1Xj--TXHcOoF7cCUSlLiVSr9evzW9iNVKfkPDQtsc5fj56MfxmgNjhIxGMV93AE2A-_ZADNTguutsKkv-o_7hXAZ69yPQhOcSIBgEC93Rc38WduJu4QSGHjbDcbr6t0_fsZgK6AGME3yCntupxglaz-irVnaQKhxdTijN1_BeeSEQGqdCwqc5j3VC-1LzCnC8HOaUhQ8xRvj5t-t9AexhuKg1ATsZC9Y5oQ3kA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-02T07:55:37+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20889",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20889",
-      "text": "» 레버리지 ETF 배율 조정, 투자한도 제한 등의 조치 준비\n금융당국 '증시 긴급조치권' 도입…레버리지 ETF 정조준\n- 자본시장법 개정안 마련…2배 배율 한시 하향 근거 신설\n- 계좌 자산 20% 투자한도 및 모의거래 의무화 검토\n개정안의 핵심은 시장 불안이나 투자자 보호가 필요한 경우 별도의 상품 변경 절차 없이 단일종목 레버리지 ETF의 배율을 한시적으로 하향 조정할 수 있는 '증시 긴급조치권' 도입이다.\n현재 2배 수익률을 추종하는 국내 단일종목 레버리지 ETF의 배율을 1.5배나 1배 등으로 낮출 수 있도록 법적 기반을 마련하겠다는 취지다.\n추가적인 투자자 보호 방안도 함께 논의되고 있다.\n금융당국은 개인별 레버리지 ETF 투자한도를 계좌 자산의 20% 수준으로 제한하는 방안과 함께, 일정 기간 모의거래 이수를 의무화하는 방안을 검토 중이다.\nhttps://n.news.naver.com/article/015/0005316395?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T07:37:18+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20888",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20888",
-      "text": "» 반복되는 TACO의 패턴\n트럼프 \"이란 공격 취소\" 발표…'주말 대공습' 일단 보류\n- \"이란·중동국이 공격 보류 요청\" 주장…토요일 한밤중 전격 취소\n- '신속한 합의' 조건부 제시…호르무즈 개방·이란 핵위협 종식 거론\n트럼프 대통령은 이날 소셜미디어 트루스소셜 계정에 올린 글에서 \"이란과 다른 중동 국가들로부터 합의의 틀에 대한 동의가 이뤄졌으니 어떠한 공격도 보류해달라는 요청을 받았다\"며 이같이 발표했다.\n트럼프 대통령은 \"이 합의에는 호르무즈 해협의 즉각적이고 완전하며 전면적인 개방, 이란의 핵 위협 종식이 포함된다\"고 전했다.\n그러면서 \"이러한 요청에 따라 세계의 미래를 위해, 그리고 동시에 성공적이고 번영하는 이란의 생존을 위해, 나는 신속하게 합의를 이룰 수 있다는 조건 아래 공격을 취소하기로 동의했다\"며 \"이스라엘도 나와 함께 이러한 약속에 동참한다\"고 덧붙였다.\nhttps://n.news.naver.com/article/001/0016228967?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T07:33:56+00:00"
     },
     {
       "id": "tg:enc210406/4280",
@@ -724,18 +846,6 @@
       "published_at": "2026-08-02T07:01:36+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24269",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24269",
-      "text": "“테슬라 너마저”...국장 피해 미장 갔다 50조원 날린 서학개미\n국내 투자자가 미국 주식 투자를 확대했다. 그러나 최근 두 달간 50조원에 가까운 손실을 봤다. 특히 레버리지 상품에 많은 금액을 투자하며 손실 폭이 커졌다.\n2일 한국예탁결제원 증권정보포털 세이브로에 따르면 7월 1∼31일 개인 미국 주식 순매수액은 46억6862만달러(6조7428억원)로 집계됐다. 1월(50억299만달러) 이후 6개월 만에 가장 컸다.\n다만 미국 증시에서 개인이 잃은 금액은 50조원에 달한다. 개인 미국 주식 보관액(평가액)은 5월 말 2041억달러에서 7월 30일 1704억달러로 줄었다. 두 달간 337억달러(48조6729억원)가 증발한 셈이다. 손실액은 5월 말 평가액 대비 약 16.5%에 달한다. 같은 기간 스탠더드앤드푸어스(S&P)500·나스닥 지수 하락률인 1.88%·6.85%를 크게 웃돌았다.\nhttps://www.mk.co.kr/news/economy/12114390",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T06:18:00+00:00"
-    },
-    {
       "id": "x:karpathy:2083749667410727319",
       "source": "x",
       "author": "karpathy",
@@ -750,34 +860,6 @@
       "published_at": "2026-08-02T03:00:09+00:00"
     },
     {
-      "id": "tg:bornlupin/19471",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19471",
-      "text": "골드만삭스, 2026년 7월 31일, 코스피 역대 최대 외국인 자금 유입에 힘입어 가장 강력한 일간 상승률 기록",
-      "images": [
-        "https://cdn5.telesco.pe/file/hMiE-vHPS-UEgdFZk56sxw4F9wfy9xuzEikIXNicJA6t8f_h0svynPohP-G3DRADcxQqBa2ex2Fc2SHUFGs365r4xpeB1oPviEGdEqdgJGdJ0oNBGpHCUwxIVdXvYK2UmOZH156obCiHZI6lGBc8ujjnkRpdxVHTd9f1hdI9fTS2tfiy_GLLbTY383wsoIOvAMSS2HHc-gCa4RSGArIhhrv3tFyTraQtp6aqfhfrKtafkImizqoNwfjuVrk1L9cMFItYfULfLcRh89tPvlNDVaA2RJdzuXLkj-ixWPyP1qX9vXOC0aIfb9YawKIK6UMDcqhLysYjjb2T6ddLgFydJg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-02T02:25:34+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19470",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19470",
-      "text": "도널드 J. 트럼프\n미국은 제2차 세계대전 이후 볼 수 없었던 수준의 군사적 위압감, 힘, 그리고 파워로 이란 이슬람 공화국에 맞설 만반의 준비를 마치고 출격 대기 상태에 있습니다.\n그럼에도 불구하고, 우리는 방금 이란 및 다른 중동 국가들로부터 합의의 기본 틀에 동의하였으니 어떠한 공격도 보류해 달라는 요청을 받았습니다.\n이 합의에는\n호르무즈 해협의 즉각적이고 완전하며 전면적인 개방과 이란의 핵 위협 종식이 포함될 것입니다.\n이러한 요청에 따라 본인은 전 세계의 미래 이익과, 마찬가지로 성공적이고 번영하는\n이란의 생존을 위해 신속하게 합의(DEAL)를 성사시키는 것을 조건으로 공격을 취소하는 데 동의했습니다.\n이스라엘 국가 역시 이러한 약속에 본인과 뜻을 함께하고 있습니다. 모두 일에 착수하여 반드시 마무리 지으십시오. 이 사안에 관심을 가져주셔서 감사합니다!",
-      "images": [
-        "https://cdn5.telesco.pe/file/CMH7mly0tm6ZNcucsK8_qKfGBiv_NzT_-T1Df2wwd6yQYrN-OydR3gtNEwxr5T_MceDAHMm0QwyCNq7N1h62CbFy93rgxm0wju72qrBxzq_5y7wzfn807OlwkHvQPEKkoytHndG6QuohyHcbqL6ECNDdCq21SRSILTVeVdsjLhBy9um9-mntpkDa9x37sqMjqr3QknHxGGepJ5DYW3YKicQo0S_tKHsjXNSO07P61Sl7h7aPqQ5BIpYrf2dni9Na-rBWjUX8RTjMsv6pS4vIH_uytAvK4N1Il0S5HOVDcghdwLqhbzkR3OXaOYBunLJMcCv88hT60bNKHyUH-o8iCg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-02T02:13:54+00:00"
-    },
-    {
       "id": "tg:HI_GS/6817",
       "source": "telegram",
       "author": "HI_GS",
@@ -788,20 +870,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-02T01:56:14+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19469",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19469",
-      "text": "미들 이스트 스펙테이터:\n미국이 카타르를 통해 이란에 막판 평화 제안을 전달했으며, 이란은 현재 이를 검토하고 있다.\n(이란 친화 채널에서 나온 내용인거 같고 아직 주요 뉴스에서 확인은 안된 내용인듯 합니다)",
-      "images": [
-        "https://cdn5.telesco.pe/file/d0nt-vvBKYFuobhmYk806qAwrNea2m6OuK_gdNj5V2m79LeQp_5zE7uLNaI_4UIdAXXjS4xdA4vA6Wi2FsYq2ksH83GFs2dA7QipjlPjRccZI1OCO1fjquTtWWjZlcrpsuYKrTs8pFDjSpwDgE3fEm540SBglxQ_YtPoO1hWu6p7H6FHRMGc4tFo0H-_q1K0Q3Oin8mVyYKmIG5w_k1DlcP8SxUtLH3lS508BLRy9OnlJWZqkQ8__YMI1NxJdXU48EXIH2WbmudqrI2oUC4SltRrUf-qEDEpRDAagx_p9g3_s2qebK7v4Z4x4GJHt0ZsgEZbF-ZkadaoMcHO2AC8aA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-02T01:11:01+00:00"
     },
     {
       "id": "x:ylecun:2083638373080825886",
@@ -1095,30 +1163,6 @@
       "published_at": "2026-07-31T10:29:46+00:00"
     },
     {
-      "id": "tg:HI_GS/6814",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/6814",
-      "text": "2026.07.31 13:54:34\n기업명: 한화엔진(시가총액: 3조 3,546억) A082740\n보고서명: 연결재무제표기준영업(잠정)실적(공정공시)\n매출액 : 3,622억(예상치 : 3,860억/ -6%)\n영업익 : 379억(예상치 : 561억/ -32%)\n순이익 : 332억(예상치 : 400억/ -17%)\n**최근 실적 추이**\n2026.2Q 3,622억/ 379억/ 332억\n2026.1Q 3,452억/ 514억/ 529억\n2025.4Q 13,711억/ 1,301억/ 1,738억\n2025.3Q 2,973억/ 266억/ 303억\n2025.2Q 3,877억/ 338억/ 216억\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260731800517\n회사정보:\nhttps://finance.naver.com/item/main.nhn?code=082740",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T07:36:38+00:00"
-    },
-    {
-      "id": "tg:HI_GS/6813",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/6813",
-      "text": "2026.07.31 13:06:34\n기업명: 한화에어로스페이스(시가총액: 46조 461억) A012450\n보고서명: 연결재무제표기준영업(잠정)실적(공정공시)\n매출액 : 92,929억(예상치 : 76,128억+/ 22%)\n영업익 : 13,655억(예상치 : 10,011억/ +36%)\n순이익 : 6,364억(예상치 : 6,408억/ -1%)\n**최근 실적 추이**\n2026.2Q 92,929억/ 13,655억/ 6,364억\n2026.1Q 57,510억/ 6,389억/ 5,263억\n2025.4Q 84,212억/ 8,076억/ 9,940억\n2025.3Q 64,865억/ 8,564억/ 7,122억\n2025.2Q 63,110억/ 8,645억/ 2,864억\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260731800455\n회사정보:\nhttps://finance.naver.com/item/main.nhn?code=012450",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T07:36:19+00:00"
-    },
-    {
       "id": "tg:enc210406/4277",
       "source": "telegram",
       "author": "enc210406",
@@ -1153,7 +1197,7 @@
       "url": "https://t.me/enc210406/4275",
       "text": "[한화엔진 2Q26 잠정 실적 공시]\n컨센서스 대비\n@ 매출액: 부합\n@ 영업이익: 32.1% 하회",
       "images": [
-        "https://cdn5.telesco.pe/file/uyX6RdUgebdSzjx6f743E6a2x3a9lSS5vbK5IH3YH2XR7rgZwewevzSz91YJpWH9nk6ygTtoyJtPf7pYaUscwkarGHTaXNi2cTZg5vIFyfTwqMiA6_OL6FA3WE6kbFHA0jRtF7FT4t2V1EFFLZU4OlzAMgC5CTcWI97W-WFt0Q6UUh1_2s76xEgBxvGnL4R-OnKIZX4G1kVmarTQ59k6GdfO1T2J-xMtmqMMUN-VOOevGgb3zFEfJweHAna2u86AjubGo7Rs3NkQb_K3gyCsxMjKxbsSF82QTDiMSqdQ_O6jS33GJYhEyOWNO3_w2QW6JJfpAeEFGn2TCb7jJfyGBw.jpg"
+        "https://cdn5.telesco.pe/file/UzqZvpASdFiEOkds6zVgvFqot5ypxg6Oe4TkOY9oS5pBguLC7GYBDXeeeaqzKfmU9Sv1uhTfFYj5BjhedLtQFjTi93JZUa7u3EScmRXbDj1ItG9pM2fct22wUhU7lAhVuDb6cUeDl0ijPU0yWP5Mp7CiTRWrxcFTDf90q8_JrynXsgGiXC3jHJsbDg4fdvpbAokwfx1PbKyqm7egRuJrF7__j2Sak5wsYy4G5c-TmmJTOsWQWYFLK65VU72wc1wiK6ANGtOXSf7jMb0_4SsazukNVCiXMOFNHZUvV0Q_KXEIyjt2SxaG2MTnaw3epLRlWa_RTy6MWqtPOBZHMUEZ9w.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-31T04:55:49+00:00"
@@ -1167,7 +1211,7 @@
       "url": "https://t.me/enc210406/4272",
       "text": "[현대건설 2Q26 잠정 실적 공시]\n컨센서스 대비\n@ 매출액: 부합\n@ 영업이익: 22.4% 상회",
       "images": [
-        "https://cdn5.telesco.pe/file/K8hegLH6djW27tqGHd5n9gjkloTLQSxAFW1BhRAdF1nvOKEG2Hi1XhxBq2CoVFo1OSGKNYALnBQ6T4mDYzRffoscW67zWE1pzZedFKb6pjYuiv4zdkSM4IDA41i9U_JvT1lWI0mGGMO930tc1dhrKBKAY8w2BjGz2HhlZhdnqoWh5F9rD4Vlenux4gGe_hOmLzU0jvJKlokh0t3-HAgzUBocCRj4k_IJTHd96d9DDcohTDVX5NSrPVFLBcD9YxC9Nyhag4H6wvwh1bs903WLZvn-th9VZEmCRjzKYkcyXaWFiQ-c5KRkv-5SOT3WeWYjP_cqEBE0Pvqsa3Wr1vQLow.jpg"
+        "https://cdn5.telesco.pe/file/iShAG2hi4feq9ojr3q0KPrEtC6sUcqrt1TRuB6Appt2gnXq9SKFEUNUvQmLB5wH5_9lg3jzgfvEM-HV-rNtmTeT38bdp3Glf7WR_zvx_PF3HoPu0YJ0M26p_92TAiu97_8ZeUz3qKzB78IWshRHHncoKbSLSmqSKcIacsZVc9DXNM85u7KVP84mcEBCKuz982IxNN0wgEaLyzXBRQz3i66x2NcAIsnR8I7nY__xcxNA-ckzl3fw0JF_O1xCgGAr_m-9pPNiESthiwEGaPCOrYrqXjd7nxsRaQrfJO_Q0EJYy5aSqdlpxiU8fARaZBtByjpukvfFOXmY-n7XrnJvMqQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-31T04:27:28+00:00"
@@ -1181,7 +1225,7 @@
       "url": "https://t.me/enc210406/4271",
       "text": "한화오션 군함 수주 공시\n@ 함종: 구축함(KDDX)\n@ 수량: 1척(선도함 상세설계, 건조)\n@ 발주: 방위사업청\n@ 선가: 8,380억원",
       "images": [
-        "https://cdn5.telesco.pe/file/WC3Qz-2f77n-hgKEbo8wcRRgCYiy1guQV9tF2Mt8pfwKbGe3G2d61TVah9C359lWyG75sxX8Tkutx29ZW7VkTrb8LHGK1zfLioprfnVu6z0mptBEHhrnQyPKKhK7LbMgFd8T1SBYiw7POTiV9Q4isshFLl6ZMkD6zIri1fYzUpfX8P2ioTE8ZuYbvoe5JONTxes4dByuqZ3XhG6cE3dAIBQvBK2zXCvIKgFgM77zWOUp35C5jc2kh9EQHhxaGBfeoThTZS7PbqcZKL-RnpW0AXXHlpeN8ves3j5eaNbQTaXunzSB7PRJrVXZN4N_NWct1S5LuiCFgoSc9P6HzoPLSw.jpg"
+        "https://cdn5.telesco.pe/file/tkN2lQHahHNVoGCaYQ83_uw-ZQ1uipAMeQXndMa_QxfOfB1KkQGw3XkWVvh5hEAG3u3XalyfiTY36tLd3GqYwHIWAwBkgVb-SmXPTBlzXkWfzg8uJV0gdRYOweQrKu1471n5wTf84jSdjKvSyd6mABnfhXAYJx4y76msBqsLP4h8px_gYx50gTj2Nxi28kYfScKtt3aixi54Nx0jPzNOEnIneozZNFU7wGcgt_iwOLBYgoxSblnNGqtAfnVfwSYM9QIM2S7ML0HeLxze0zabrwgeL7VKCNkB8qV8i7v3RV5o7QY6lL3EjmkiIOYoIUeRhNsUxSKQCkQja1ajphmxWA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-07-31T00:44:57+00:00"
@@ -1197,30 +1241,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-07-31T00:24:55+00:00"
-    },
-    {
-      "id": "tg:HI_GS/6812",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/6812",
-      "text": "[다올투자증권 조선/기계/방산 최광식]\n7/31(금) 데일리뉴스\n🛳\n조선\n[TradeWinds]\nBahri orders LNG dual-fuel newbuildings as profit piles up\nHengli Heavy wins order for six 4,600-teu feeder container ships worth $433m\nd'Amico doubles down on tankers with plans to buy and charter ships\nIndian buyer emerges as Dorian LPG completes third VLGC sale of 2026\nSeanergy rides capesize wave as it boosts dividend and orders on record profit\n[Upstream]\nShipbuilding continues to eclipse offshore business for HHI\nQatarEnergy braves Strait of Hormuz with first LNG shipment in three weeks\nLow European storage to drive tight LNG markets in Q3, says Shell\nTechnipFMC targets $3 billion-plus of new subsea opportunities\nSoutheast Asia drilling contractor takes ownership of its latest jack-up rig\n🚢\n조선\n삼성重 '물 위 데이터센터' 사업 본궤도… 내주 美 M3와 엔지니어링 계약\nhttps://tinyurl.com/27ota6la\n대한조선, 영업이익률 26.8%...7개 분기 연속 20%대\nhttps://buly.kr/Yh6XDA\nHD한국조선해양, 수주 목표 70% 돌파…올해 목표 달성 '순항'\nhttps://tinyurl.com/2aspjcnm\n美 행정부 이어 의회까지, K조선 협력 공감대…\"한화 필리조선소 모델 다수 필요\"\nhttps://tinyurl.com/27volqs2\nHD현대, 미국 조선소 현대화 사업 박차…설계•건설 노하우 전수\nhttps://buly.kr/74Z8pSP\n삼성중공업•아모지, '암모니아 발전 모듈' 출하 전 테스트 시설 착공\nhttps://tinyurl.com/274a8cyy\n🚀\n방산\n李대통령, '1호 韓•칠레 FTA' 개정 논의…'구리•리튬' 핵심광물 협력\nhttps://tinyurl.com/27dog2mn\n한화그룹, 주요 경영진 인사…한화에어로 이부환•한화시스템 양기원 대표 내정\nhttps://tinyurl.com/2885thgo\n美국방부, 패트리엇 주문 78조 더 넣었다…방공망 재고 회복 총력\nhttps://tinyurl.com/25legcep\nKAI, 브라질 엠브라에르와 항공기 구조물 협력\nhttps://tinyurl.com/29ctrd4d\n'36조 국방 예산' 알제리 시장 열린다…K-방산 손잡고 첨단 군사산업 현지화 논의\nhttps://buly.kr/BpHbJSl\n* 위 내용은 보도된 사실의 단순요약으로 별도의 컴플라이언스 절차 없이 제공됩니다",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-31T00:10:42+00:00"
-    },
-    {
-      "id": "tg:enc210406/4269",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4269",
-      "text": "[한투증권 강경태] 대한조선(439260)\n텔레그램:\nhttp://t.me/enc210406\n보고서 링크:\nhttps://alie.kr/NmLXnB\n2Q26 Review: 지금 좋은 것을 앞으로 더 키워낼 수 있길\n■ 영업이익은 컨센서스에 부합, 1분기 매출 기저효과를 모두 극복하고 27%대 영업이익률 유지\n- 외형, 수익성, 신규 수주 성과가 모두 안정적. 2분기 연결 매출액은 3,544억원(+19.7% YoY, +15.0% QoQ), 영업이익은 952억원(+52.4% YoY, +15.2% QoQ, OPM +26.9%)을 기록. 매출액과 영업이익 모두 컨센서스에 부합하는 것\n- 1분기 대비 늘어난 조업일수를 감안해도, 매출액이 전 분기에 비해 큰 폭으로 증가. 기저효과 때문인데, 1분기 내업 공장(후판 전처리, S/C, 소중대블록 제작, 도장) 중대재해로 인한 2주 휴업 여파를 대부분 극복한 영향\n- 지난해 4분기(27.2%)와 올해 1분기(26.8%)에 이어 2분기 영업이익률 또한 26.9%를 기록하며, 3개 분기 연속 OPM 27%를 넘나드는 좋은 수익성을 보임. 2026년 하반기, 2027년 상반기 납기 수에즈막스 선형 유조선과 셔틀탱커를 반복 건조하면서 생산성이 항상 됐고, 에너지 비용 등 직간접비 절감 노력을 병행하면서 만들어 낸 수익성\n- 2027년 7월 누적 상선 수주 성과는 총 17척이며, 모두 수에즈막스 선형 유조선으로만 선가를 높여가면서 수주잔고를 늘려왔음\n■ 영업이익률 2027년까지 27%대 유지, 2028년부터 계단식 상승, 2029년 30% 바라볼 것\n- 수익성은 2027년까지 현상을 유지한 후 2028년부터 계단식으로 상승할 것. 연간 영업이익률은 2027년까지 2026년 수준(26% 후반~27% 초반)을 유지하다, 2028년에 28%대, 2029년에 29%대로 진입할 것\n- 2027년 수익성이 2026년 수준을 유지하는 것은, 2027년 연 평균 수에즈막스 매출 선가(87.0백만USD, +0.1백만USD YoY)에 큰 변화가 없기 때문. 2027년은 수에즈막스 업황 정체기였던 2024~2025년 수주 호선 위주로 매출화되는 시기\n- 원가 구조에 큰 변화 없다는 가정하에, 2026년부터 1척당 80백만USD 후반에서 90백만USD 초반에 수주한 수주한 호선들이 매출 비중을 키워갈수록 영업이익률은 상승할 것이며, 2028년부터 계단식으로 상승하기 시작해 2029년에 30%를 바라보게 될 것\n■ 2028년 P/E 5배 수준 바닥권에서, 플랫폼 확장해 매출액 상한 넓혀 주길 기대\n- 밸류에이션 리레이팅 조건은 플랫폼 확장성. 대한조선 주가와 상관성 높은 수에즈막스 스팟 운임은 2026년 6월부터 강세 전환했으나, 주가는 우하향 추세. 전방 수요가 좋아도, 공급 능력(가용 슬롯)에 한계가 있다면 장기 매출액과 영업이익이 일정 수준에 갇힐 수 밖에 없는 구조적인 한계를 시장에서 냉정하게 평가한 것이라 판단\n- 20% 후반대 영업이익률을 창출하는 수에즈막스 유조선 단일 제품으로 2029년 납기 가용 슬롯까지 모두 판매한 조선사에, 2028년 지배주주순이익 컨센서스 기준 5.3배 수준의 밸류에이션에서 추가 하락 가능성을 논하는 것도 힘듦. 우수한 현금 창출 능력이 조선소 인수, 미 해군 MRO 준비 등의 투자로 이어지고, 이 투자가 새로운 수익원을 창출해 매출액 상한을 넓혀 주길 바람",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-07-30T23:28:00+00:00"
     },
     {
       "id": "x:AnthropicAI:2082965101083320543",
@@ -1481,20 +1501,6 @@
       ],
       "summary_ko": "뇌는 하나입니다. 모든 로봇에 적용됩니다. 🤖 Gemini Robotics 2를 출시합니다. 차세대 물리적 AI로 휴머노이드에 전신 지능, 고급 민첩성, 다중 로봇 팀워크 등을 제공합니다.",
       "published_at": "2026-07-30T15:02:00+00:00"
-    },
-    {
-      "id": "tg:HI_GS/6811",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/6811",
-      "text": "🚢\n#대한조선\n「저평가? 주주환원 확대와 CAPEX 고민」\n☞\nhttps://bit.ly/DH2Q26RE\n▶️\nIssue: 2Q26 리뷰. 저평가 배경과 이를 타개하려는 사측의 노력 가이던스\n▶️\nPitch:\n- 2028 PER 5배로 저평가. 이제 26%대 OPM 실적은 당연해짐. 탑라인이 막혀있다는 점이 그 원인\n- 이에 동사는 VLGC 병렬 건조, 생산설비(도크) 투자 등을 고민 중\n- 확정하고, 공표하고, 실행할 때 저평가를 해소할 수 있을 것으로 판단. 또는 TRS(2025년 20%) 확대도 필요\n▶️\nRationale: 보고서 참조\n---------------------------------------------------------\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n✅\n컴플라이언스 승인을 득한 보고서입니다.\n---------------------------------------------------------",
-      "images": [
-        "https://cdn5.telesco.pe/file/B8x2wLq1tzcheYJxIsivwuy9a9aHt5Cf5ulk9kwYmJA8351mh2lBcdrFqeqytXRX-NKVJc5g6nbpPcD7RffraekjIPqsIBh6WSri2Y0ogsWe9BNQP1_XY51J_WK0lfjTvWpdkrIO4aC9XY8GNGPLVzmQBpVSD22V7xm-J-bwHYhjZeEnIyrJaJjJS7VLgZQ9Y6G63_hnWNuzznX06UuF6TIfVLmZ1Hs5edIMZsQfgxicJp80CLB9oOYUBQYHjopqwd8qSTBHGolPOMNmrQckJ62oqnb9qXmntARt4rfpo0XBB3gQawqEOg8hfrSMSEfr5n7HvjO7rvpNQfmpDiaM_A.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-07-30T12:16:48+00:00"
     },
     {
       "id": "x:sama:2082628413769003269",
