@@ -1,4 +1,18 @@
 {
+  "x:OpenAI": [
+    "x:OpenAI:2084352165464903730",
+    "x:OpenAI:2084352161404920316",
+    "x:OpenAI:2084352164156293460",
+    "x:OpenAI:2082879614532370847",
+    "x:OpenAI:2082878192390689147",
+    "x:OpenAI:2082878156483219672",
+    "x:OpenAI:2082855170296205719",
+    "x:OpenAI:2082616641834422740",
+    "x:OpenAI:2082616643394703682",
+    "x:OpenAI:2082616636989952217",
+    "x:OpenAI:2082577278450676080",
+    "x:OpenAI:2082577277246972300"
+  ],
   "telegram:globaletfi": [
     "tg:globaletfi/20934",
     "tg:globaletfi/20932",
@@ -27,7 +41,26 @@
     "tg:aetherjapanresearch/24306",
     "tg:aetherjapanresearch/24305"
   ],
+  "x:ylecun": [
+    "x:ylecun:2084242435215913234",
+    "x:ylecun:2084182167836410264",
+    "x:ylecun:2084173817471991909",
+    "x:ylecun:2083908468285620415",
+    "x:ylecun:2083638373080825886",
+    "x:ylecun:2083290542956224643",
+    "x:ylecun:2083286349239513196",
+    "x:ylecun:2083268072157462744",
+    "x:ylecun:2083268008055615869",
+    "x:ylecun:2083253910223921483",
+    "x:ylecun:2083204212180017522",
+    "x:ylecun:2083179134092530092"
+  ],
   "telegram:EMchina": [
+    "tg:EMchina/32080",
+    "tg:EMchina/32079",
+    "tg:EMchina/32078",
+    "tg:EMchina/32077",
+    "tg:EMchina/32076",
     "tg:EMchina/32075",
     "tg:EMchina/32074",
     "tg:EMchina/32073",
@@ -56,6 +89,10 @@
     "tg:enc210406/4272"
   ],
   "telegram:bornlupin": [
+    "tg:bornlupin/19496",
+    "tg:bornlupin/19495",
+    "tg:bornlupin/19494",
+    "tg:bornlupin/19493",
     "tg:bornlupin/19492",
     "tg:bornlupin/19491",
     "tg:bornlupin/19490",
@@ -68,24 +105,6 @@
     "tg:bornlupin/19482",
     "tg:bornlupin/19481",
     "tg:bornlupin/19480"
-  ],
-  "x:ylecun": [
-    "x:ylecun:2084242435215913234",
-    "x:ylecun:2084182167836410264",
-    "x:ylecun:2084173817471991909",
-    "x:ylecun:2083908468285620415",
-    "x:ylecun:2083638373080825886",
-    "x:ylecun:2083290542956224643",
-    "x:ylecun:2083286349239513196",
-    "x:ylecun:2083268072157462744",
-    "x:ylecun:2083268008055615869",
-    "x:ylecun:2083253910223921483",
-    "x:ylecun:2083204212180017522",
-    "x:ylecun:2083179134092530092",
-    "x:ylecun:2083174287897207220",
-    "x:ylecun:2083149395147554929",
-    "x:ylecun:2083080230655430673",
-    "x:ylecun:2082877458924065269"
   ],
   "telegram:HI_GS": [
     "tg:HI_GS/6828",
@@ -183,27 +202,10 @@
     "x:demishassabis:2079595879808569534",
     "x:demishassabis:2078160968513704270",
     "x:demishassabis:2077811657385079045",
-    "x:demishassabis:2077803351392268314",
-    "x:demishassabis:2077721122116640969"
-  ],
-  "x:OpenAI": [
-    "x:OpenAI:2084352165464903730",
-    "x:OpenAI:2084352161404920316",
-    "x:OpenAI:2084352164156293460",
-    "x:OpenAI:2082879614532370847",
-    "x:OpenAI:2082878192390689147",
-    "x:OpenAI:2082878156483219672",
-    "x:OpenAI:2082855170296205719",
-    "x:OpenAI:2082616641834422740",
-    "x:OpenAI:2082616643394703682",
-    "x:OpenAI:2082616636989952217",
-    "x:OpenAI:2082577278450676080",
-    "x:OpenAI:2082577277246972300",
-    "x:OpenAI:2082516372656111654",
-    "x:OpenAI:2082516374010974228",
-    "x:OpenAI:2082516370949062989"
+    "x:demishassabis:2077803351392268314"
   ],
   "rss:semianalysis": [
+    "rss:semianalysis:kimi-k3-the-manos-the-mythos-the",
     "rss:semianalysis:the-wild-wild-west-of-lego-datacenters",
     "rss:semianalysis:can-amd-break-the-cuda-moat-amd-advancing",
     "rss:semianalysis:vera-rubin-nvl72-vs-gb200-nvl72-inference",

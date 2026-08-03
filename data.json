@@ -1,22 +1,143 @@
 {
-  "updated_at": "2026-08-03T19:37:03+00:00",
+  "updated_at": "2026-08-03T21:02:23+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 8
+    "new_this_run": 10
   },
   "briefing": {
-    "headline": "OpenAI, 수학 문제 해결을 위한 GPT-5.6 모델 개발",
+    "headline": "트럼프: 호르무즈해협 이미 합의",
     "bullets": [
-      "반도체 ETF, 120억 달러 순유입",
-      "미국 7월 ISM 제조업 지수, 55.6pt 기록",
-      "JP모건, AMAT·AMD·ANET 등에 대한 바이사이드 바",
-      "MORGAN STANLEY, 클라우드 스펜딩 1.2조 달러 예상",
-      "CXMT, 베이징에 두번째 메모리 팹 건설 검토중"
+      "아마존 클라우드 수장: AI 사업 규모 거대하다",
+      "2027년 메모리 생산 능력 조기 완판",
+      "중국 폴리실리콘 선물 상한가(+9%)",
+      "반도체 ETF 주가 약세"
     ],
-    "generated_at": "2026-08-03T19:37:03+00:00",
+    "generated_at": "2026-08-03T21:02:23+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32080",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32080",
+      "text": "트럼프: 호르무즈해협 이미 합의. 비핵화도 합의 도달할 것. 이란과의 대화는 내일 오후 시작  美国总统特朗普表示，霍尔木兹海峡已有协议，无核化也将达成协议。与伊朗的对话明天下午开始。  https://n.news.naver.com/article/629/0000521091?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T21:00:13+00:00"
+    },
+    {
+      "id": "tg:EMchina/32079",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32079",
+      "text": "트럼프: 월마트는 정부 요청에 따라 가격 대폭 인하할 것  • 인생은 트럼프처럼  美国总统特朗普：我刚刚得知，美国零售商沃尔玛将在我政府的要求下大幅降价。  https://naver.me/GArmxBvM",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T20:57:36+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19496",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19496",
+      "text": "2027년 연간 메모리 생산 능력 조기 완판… 구매자들 \"소문낼라\" 물량 부족 우려\n1. 2027년 메모리 물량 조기 매진\nDRAM & HBM 전량 완판:\n글로벌 메모리 3대 제조사(삼성전자, SK하이닉스, 마이크론)의\n2027년 DRAM 및 고대역폭메모리(HBM) 생산 능력이 이미 사전 예약으로 전량 매진되었습니다.\nNAND 플래시 상황:\n삼성, 마이크론, 샌디스크의 2027년 NAND 물량도 완판되었으며, 키옥시아와 SK하이닉스 역시 2026년 8월 말 전으로 수급 협상이 마무리될 예정\n입니다.\n구매자들의 '쉬쉬' 분위기: 고객사들은 추가 경쟁자가 들어와 자사의 배정 물량(Quota)이 줄어들 것을 우려해 물량 확보 사실을 외부에 알리지 않고 숨기는 분위기\n입니다.\n2. \"2027년, 역사상 가장 심각한 메모리 기근의 해\"\n2026년의 공급 부족 여파가 누적되면서 2027년이 메모리 공급 부족이 가장 심각한 시기가 될 것\n으로 보입니다.\nSK그룹 최태원 회장 발언: 2027년 AI 반도체 수요가 2026년 대비 60~100% 급증하고 전체 메모리 수요도 50~60% 늘어나며, 역대 최악의 수급 불균형과 공급 부족에 직면할 것\n이라 경고했습니다.\n3. AI·클라우드 쏠림 현상… PC·모바일 물량 직격탄\n메모리 제조사들은 빅테크 및 클라우드 서비스 제공업체(CSP)에 물량을 최우선 배정하고 있습니다.\n에이데이터(ADATA) 체인리바이 회장:\n2027년 DRAM 생산 능력의\n약 70%가 HBM 및 AI 서버용\n으로 할당될 것으로 보았습니다.\n이에 따라\nPC 및 스마트폰 제조업체가 할당받을 수 있는 DRAM 물량은 2026년 대비 대폭 감소\n할 전망입니다.\n4. 가격 및 거래 구조의 변화\n3~5년 장기 계약(LTA) 및 선급금 체제:\n메모리가 단순 범용 상품에서 벗어나\n제조사 우위의 '장기 판매자 시장'으로 개편되었습니다. 중소형 구매자 역시 선급금을 내고 물량을 배정받는 구조로 전환\n되었습니다.\n가격 전망:\n2026년과 같은 폭등세는 다소 누그러져 가격 상승 폭은 완화되겠으나, 제조사들의 강한 주도권 속에서 메모리 가격은 높은 수준을 지속 유지(고점 유지)할 것으로 예상\n됩니다.\nhttps://www.digitimes.com.tw/tech/dt/n/shwnws.asp?CnlID=1&id=0000763847_DVY7YHX65GMLYZ6UQEEMP",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T20:35:23+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19495",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19495",
+      "text": "아마존 클라우드 수장, \"잠재적 AI 사업 규모는 그야말로 거대하다\"\n세계 최대 클라우드 컴퓨팅 및 데이터 서비스 제공업체인 아마존(Amazon)은\n지난주 2026년 자본 지출(CapEx)을 당초 전망치였던 2,000억 달러에서 상향 조정하여 2,200억 달러를 지출할 것\n이라고 밝혔습니다.\n아마존의 클라우드 사업부(AWS) 수장은 고객들이\n단순히 AI 모델을 학습(Training)시키는 단계에서 벗어나, AI를 자사 비즈니스 시스템에 통합하는 단계로 전환하기 시작했으며, 이는 '추론(Inference)'이라 불리는 과정의 수요를 끌어올리고 있다\n고 말했습니다.\n아마존웹서비스(AWS)의 최고경영자(CEO) 맷 가먼(Matt Garman)은 월요일 블룸버그 텍(Bloomberg Tech) TV 방송에 출연하여 다음과 같이 밝혔습니다.\n\"\n여전히 많은 기업이 대규모 학습 클러스터를 이용하고 있습니다. 하지만 이러한 AI 모델들이 점점 더 널리 보급되고 강력해짐에 따라, 더욱 많은 기업이 실제 업무에 추론(Inference) 과정을 통합해 나가고 있습니다.\"\nhttps://www.bloomberg.com/news/articles/2026-08-03/amazon-cloud-chief-says-potential-ai-business-is-just-massive?taid=6a70f219423cf600011ce2e2&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T20:22:24+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19494",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19494",
+      "text": "시타델 시큐리티즈: 강세장 견인 동력, “여전히 건재하다”\n투기성 거래 정돈 후 강세장 유지:\n개인 투자자들의 투기적 거래가 한풀 꺾이고 리셋 과정을 거쳤음에도, 올\n해 미국 증시를 신고가로 이끈 핵심 동력은 여전히 건재(Firmly intact)합니다.\n수급 중심에서 펀더멘털 중심으로 이동:\n시장을 움직이는 축이 단기 자금 흐름에서 기업 실적과 거시경제 환경으로 이동하고 있습니다.\n스콧 러브너(Scott Rubner)는\n7월에 발생한 기술주 매도세와 개인 투자자들의 이탈이 시장의 투기적 과열을 해소하는 데 도움이 되었다고 밝혔습니다.\n개인 투자자들은 2022년 이후 주간 기준 최대 규모의 주식 매도를 기록했고,\n레버리지 ETF 자산은 28% 감소한 1,540억 달러로 줄어들었으며, 주식 조달 비용(Equity funding costs)은 1년 평균 밑으로 떨어졌습니다\n.\n그는 이제 시장의 중심축이\n자금 흐름(Flows)이나 포지셔닝에서 기업 실적, 기업 수요, 그리고 거시경제(Macro) 환경으로 이동하고 있다고 분석\n합니다.\n러브너는\n\"기업 실적이 계속해서 예상을 상회하는 상향 깜짝 실적(어닝 서프라이즈)을 내고 있고, 밸류에이션은 더욱 매력적인 수준\n이 되었으며\n, 실적 발표 후 자사주 매입 금지 기간(Blackout windows)이 종료됨에 따라 기업들의 자사주 매입 수요가 가속화될 것\"\n이라고 적었습니다.\n그는 이어 \"\n몇 달 만에 처음으로, 투자자들이 수급이나 포지셔닝에 쏟는 시간을 줄이고 펀더멘털(기초 체력)에 더욱 집중할 수 있는 환경이 조성되었다고 믿는다\n\"고 덧붙였습니다.\nhttps://www.bloomberg.com/news/articles/2026-08-03/citadel-securities-says-bull-market-drivers-are-firmly-intact",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T20:21:14+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19493",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19493",
+      "text": "팔란티어\n$PLTR\n2026년 2분기 실적 (시간외 +8%)\n조정 주당순이익 (Adjusted EPS):\n$0.41 (예상치 $0.35)\n매출액 (Revenue):\n19억 4,000만 달러 ($1.94B, 예상치 $1.81B)\n조정 EBITDA (Adjusted EBITDA):\n12억 달러 ($1.20B, 예상치 $1.09B)\n미국 상업 매출 (U.S. Commercial Revenue):\n7억 6,400만 달러 ($764M, 예상치 $716.4M)\n3분기 매출 전망 (Sees Q3 Revenue):\n21억 6,000만 달러 ($2.16B, 예상치 $2.00B)\n연간 매출 전망 (Sees FY Revenue):\n81억 5,000만 ~ 81억 6,000만 달러 ($8.15B–$8.16B, 이전 전망치 $76.5억–$76.6억 대비 상향)\n연간 조정 영업이익 전망 (Sees FY Adjusted Operating Profit):\n48억 9,000만 ~ 49억 달러 ($4.89B–$4.90B, 예상치 $4.51B)\n연간 미국 상업 매출 전망 (Sees FY U.S. Commercial Revenue):\n34억 2,000만 달러 ($3.42B) 초과\nRule of 40 스코어:\n155%로 상승\n1. 핵심 성과\n전체 매출:\n19억 3,546만 달러 (전년 동기 대비\n93% 증가\n, 전 분기 대비\n19% 증가\n)\n미국 상업(U.S. Commercial) 매출:\n7억 6,400만 달러 (전년 동기 대비\n149% 증가\n, 전 분기 대비\n28% 증가\n)\n미국 정부(U.S. Government) 매출:\n8억 9,000만 달러 (전년 동기 대비\n90% 증가\n, 전 분기 대비\n18% 증가\n)\nRule of 40 스코어:\n155%\n달성\nGAAP 순이익:\n10억 6,189만 달러 (순이익률 55%)\nGAAP 및 조정 EPS:\n모두\n$0.41\n2. 세부 재무 및 영업 지표\n매출 및 수익성\n미국 전체 매출:\n15억 7,300만 달러 (전년 동기 대비 115% 증가)\nGAAP 영업이익:\n9억 1,200만 달러 (영업이익률 47%)\n조정 영업이익:\n11억 9,447만 달러 (조정 영업이익률 62%)\n조정 EBITDA:\n12억 269만 달러 (마진 62%)\n영업활동 현금흐름:\n12억 1,617만 달러 (마진 63%)\n조정 잉여현금흐름(FCF):\n12억 2,036만 달러 (마진 63%)\n현금 및 유가증권:\n현금, 현금성 자산 및 단기 미국 국채 총\n92억 달러\n보유\n계약 수주 및 잔여 계약 가치\n대형 계약 체결:\n1,000만 달러 이상 계약 73건, 500만 달러 이상 98건, 100만 달러 이상 220건 체결\n총 계약 가치(TCV):\n33억 7,300만 달러 (전년 동기 대비 49% 증가)\n미국 상업 TCV:\n21억 3,200만 달러 (역대 최고치 기록, 전년 동기 대비 153% 증가)\n미국 상업 잔여 계약 가치(RDV):\n62억 3,800만 달러 (전년 동기 대비 124% 증가, 전 분기 대비 27% 증가)\n3.향후 실적 전망 (가이던스 상향)\n2026년 3분기 전망\n매출:\n21억 6,000만 ~ 21억 6,400만 달러\n조정 영업이익:\n12억 9,200만 ~ 12억 9,600만 달러\n2026년 연간 전망 (상향 조정)\n연간 전체 매출:\n81억 5,000만 ~ 81억 5,800만 달러 (전년 대비 약\n82% 성장\n)\n미국 상업 매출:\n34억 2,400만 달러 이상 (전년 대비 최소\n134% 성장\n)\n조정 영업이익:\n48억 8,900만 ~ 48억 9,700만 달러\n조정 잉여현금흐름(FCF):\n45억 ~ 47억 달러\n올해 매 분기 GAAP 기준 영업이익 및 순이익 흑자 기조 유지 예상\n4. CEO 알렉스 카프(Alex Karp)  발언\n소버린 AI(AI Sovereignty) 수요 폭발:\nAI 주권에 대한 수요가 본격화되었으며, 팔란티어는 AI 토큰을 실제 경제적 가치로 전환할 수 있음을 증명한 유일한 기업\n입니다.\n데이터 주권 및 통제권 강화:\n고객들은 자신의 데이터, 운영, 의사결정에 대한 완전한 통제권을 원하며, 독자적인 경쟁 우위가 타사의 미래 모델 학습 데이터로 쓰이는 것을 원치 않습니다.\n압도적 성장세: 미국 상업 매출 149% 성장, 전체 매출 93% 성장, Rule of 40 스코어 155%를 기록하는 등 매우 경이로운 성과를 거두었습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T20:16:45+00:00"
+    },
+    {
+      "id": "tg:EMchina/32078",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32078",
+      "text": "중국 폴리실리콘 선물 상한가(+9%)  多晶硅期货主力合约触及涨停，涨幅9%，报35890元/吨。  https://wallstreetcn.com/livenews/3143918?ivk=1#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T20:04:26+00:00"
+    },
+    {
+      "id": "tg:EMchina/32077",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32077",
+      "text": "[한투증권 중국/신흥국 정정영]  • 중국과 구리를 다시 보는 이유  >> 중국 구리 수요를 반영하는 '양산 구리 프리미엄'이 급등하고 있습니다. 최근 7-8년동안 LME 선물 가격이 낮아지는 구간에서 프리미엄을 더해 사들인 패턴과 달라졌습니다. 그동안은 전략적인 구매가 중심이었다면 올해부터는 경기 사이클을 함께 반영하는 것으로 볼 수 있습니다. 하반기에는 예년대비 속도 조절이 있었던 재정집행이 가속화될 것으로 전망합니다. 홍콩 시장 선호 의견을 유지합니다…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T19:55:33+00:00"
+    },
+    {
+      "id": "tg:EMchina/32076",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32076",
+      "text": "미국 재무부, 국채 발행 가이던스 현 수준으로 유지할 것으로 전망. 중간선거 이전 장기 금리 방어 강화\n• 이번주 미국 재무부는 기존 국채 발행 가이던스 유지 & 단기 국채 통한 자금조달 수요 대응 & 장기 금리 상승 피할 것으로 예상\n• 재정적자 확대 및 단기부채 비중 상승이 위험 키우고 있으나 중간선거가 임박한 만큼 정치적 고려 우세\n• 시장에서는 향후 전략 조정 여전히 필요하다는 입장. 신규 공급은 우선 수익률곡선 전방에 집중될 가능성\n美财政部预计维持发债指引不变，中期选举前力保长端收益率\n美国财政部本周预计维持现有国债发行前瞻指引，继续依赖短期国库券满足融资需求，避免推高长期收益率。尽管财政赤字扩大和短期债务占比攀升增加风险，但中期选举临近，政治考量占主导。市场普遍认为未来仍需调整策略，新增供给可能优先集中在收益率曲线前端。\nhttps://wallstreetcn.com/articles/3778598#from=ios",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-03T19:52:38+00:00"
+    },
+    {
+      "id": "rss:semianalysis:kimi-k3-the-manos-the-mythos-the",
+      "source": "rss",
+      "author": "semianalysis",
+      "author_name": "SemiAnalysis",
+      "author_url": "https://semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/kimi-k3-the-manos-the-mythos-the",
+      "text": "Kimi K3, The Manos, The Mythos, The Legendos\n\nKimi K3’s architecture: compressed memory, attention across depth, latent expert routing, and the inference performance",
+      "images": [
+        "https://substack-post-media.s3.amazonaws.com/public/images/872a94ce-6123-4a09-bb86-4f5aa363fece_1672x941.png"
+      ],
+      "summary_ko": "키미 K3, 마노스, 신화, 레전드스\n\nKimi K3의 아키텍처: 압축된 메모리, 깊이에 따른 관심, 잠재 전문가 라우팅 및 추론 성능",
+      "published_at": "2026-08-03T19:42:30+00:00"
+    },
     {
       "id": "x:OpenAI:2084352165464903730",
       "source": "x",
@@ -295,7 +416,7 @@
       "author_name": "한투증권 중국/신흥국 정정영",
       "author_url": "https://t.me/EMchina",
       "url": "https://t.me/EMchina/32074",
-      "text": "CXMT, 두번째 베이징 디램 공장 추진\n========================\n~ 이번 증설 추진은 인공지능(AI) 산업 성장 등에 따른 글로벌 메모리 반도체 수요 확대에 대응하기 위한 것으로 보인다\n~ CXMT는 본사가 있는 안후이성 허페이와 상하이에서도 신규 공장 건설을 추진하는 것으로 알려졌다. 이 밖에 다른 지방정부와도 투자 방안을 협의 중인 것으로 전해졌다\n~ 관련 계획이 모두 실행되면 CXMT의 월간 웨이퍼 생산능력은 현재 약 30만장에서 60만장으로 두 배가량 늘어날 전망이다. CXMT는 현재 허페이 등을 중심으로 공장 3곳을 운영하고 있으며, 각 공장의 월 생산능력은 약 10만장으로 추정된다\nhttps://n.news.naver.com/article/014/0005556717?sid=101",
+      "text": "CXMT, 두번째 베이징 디램 공장 추진\n========================\n~ China’s top DRAM maker is in early talks for local government backing to build another 12-inch fab in Beijing’s Yizhuang district, where it already operates a plant with capacity of about 100,000 wafers per month\n~ Separately, new fabs under construction in Shanghai and Hefei are expected to more than double CXMT’s total capacity to over 600,000 wafers per month\nhttps://x.com/wallstengine/status/2084200894288281662",
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-03T11:02:27+00:00"
@@ -489,30 +610,6 @@
       "published_at": "2026-08-03T08:05:50+00:00"
     },
     {
-      "id": "tg:EMchina/32068",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32068",
-      "text": "샤오미, 일부 휴대폰 가격 인상. 인상폭 대체로 300위안  • 샤오미 스마트폰 공식 가격 인상  • 샤오미 17 시리즈 가격은 300-500위안 인상. REDMI 제품군 동반 인상. 성능 내세운 Turbo 5와 K90 시리즈 버전 대체로 300위안 인상  小米上调部分型号手机售价，普遍涨价300元 小米手机正式涨价，8月2日，小米商城显示，小米17系列价格已经上调了300元-500元/台；REDMI 产品线同步跟进，主打性能的 Turbo 5，以及K90 系列各版本普遍涨价…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-03T08:05:44+00:00"
-    },
-    {
-      "id": "tg:EMchina/32067",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32067",
-      "text": "문샷 Kimi, 시리즈F 투자에서 35억달러 이상 유치 완료  • Kimi는 이미 시리즈F 투자 완료. 투자금액은 35억달러 넘어섰으며 기업가치는 350억달러로 확대. 이번 라운드는 목표 금액의 3배 넘어서면서 조기 종료  • 당초 8월 예정이던 시리즈G(Pre IPO)는 이미 앞당겨 개시. 투자 전 기업가치는 500억달러로 상승  月之暗面Kimi完成F轮超35亿美元融资 月之暗面Kimi已完成F轮融资，融资金额超35亿美元，投后估值涨至350亿美元。因超目标金额3…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-03T07:59:08+00:00"
-    },
-    {
       "id": "tg:bornlupin/19492",
       "source": "telegram",
       "author": "bornlupin",
@@ -601,42 +698,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-03T06:22:56+00:00"
-    },
-    {
-      "id": "tg:EMchina/32066",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32066",
-      "text": "미니맥스 +9%대 상승. 차세대 범용 영상 모델 MiniMax H3 오픈웨이트 출시\n8月3日，\nMINIMAX-W（00100.HK）\n涨超9%。\n消息面上，MiniMax正式开源新一代通用视频模型MiniMax H3。\nhttps://www.aitimes.com/news/articleView.html?idxno=213433",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-03T06:05:42+00:00"
-    },
-    {
-      "id": "tg:EMchina/32065",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32065",
-      "text": "중국시장감독총국, 태양광 업계 가격 준법 지도 실시  • 장쑤성 옌청시에서 태양광 산업에 대한 가격 준법 지도 실시. 국가의 악성 저가경쟁(내권식 경쟁) 정비 결정 이행  • 태양광 기업 ‘가격 경쟁’에서 ‘품질 경쟁’으로의 전환하도록 추진. 태양광 산업 고품질 발전 촉진  市场监管总局开展光伏行业价格合规指导 市场监管总局在江苏省盐城市对光伏行业开展价格合规指导，贯彻落实党中央、国务院关于深入整治“内卷式”竞争的决策部署，推动光伏企业从“拼价格”向“拼质量”转变，促进光伏行业高质量发展。…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-03T05:57:27+00:00"
-    },
-    {
-      "id": "tg:EMchina/32064",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32064",
-      "text": "일본 2년물 국채금리 1.54%로 상승. 1995년 이후 처음  日本两年期国债收益率升至1.54% 为1995年以来首次 日本2年期国债收益率上升3.5个基点，至1.54%，为1995年以来首次。10年期国债收益率上升1个基点，至2.805%；30年期国债收益率下降1个基点，至3.97%。",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-03T04:47:17+00:00"
     },
     {
       "id": "tg:HI_GS/6826",
@@ -756,34 +817,6 @@
       "published_at": "2026-08-03T00:54:09+00:00"
     },
     {
-      "id": "tg:bornlupin/19483",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19483",
-      "text": "키옥시아 (Kioxia ) +7.46%",
-      "images": [
-        "https://cdn5.telesco.pe/file/pVUiIuSkkxTwmxXdz5dUGgFSlUuNeWG7ZBsoxgmD6ShSz4l18LJAXcg-wnv-AI_40x0IIbaX3xzP3f_SJNmeDY4EAKce5Kotjw-WVCjcb3ETRqynY_cL1XENFoICmmpcwYnKFHWAxjvQBfDl-p_saxr94fCmDG6J9JwT2OYGr2-D7bYzuva7UtatTixE0JhDqjvhAllkwSV7PpTf5Tge_FwzZRfD6KedhFIM5PnVUr8t4vQ1fF4tE7Ux7JDRyj5C3Lqk3WmBOVhdViQUzHoGnd2pHWbpYaRRU26T-yTefM7fCEEoKLCWrItOiRahJ5XOPg67fqmKdXduWrcqNjB_wg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-03T00:47:21+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19482",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19482",
-      "text": "골드만삭스, 삼성전자, 아시아태평양(APAC) 확신 추천종목 편입\n삼성전자 주요 분석 및 전망\n메모리 수급 불균형\n:\n메모리 수요가 공급을 크게 상회할 것으로 보이며, 수급 격차는 2027년에 더욱 확대되어 2028년까지 이어질 것으로 예상됩니다.\n주가 및 밸류에이션 매력\n: 최근 40%의 주가 조정을 거치면서 위험 대비 보상 비율이 우수해졌습니다.\n2027년 예상 실적 기준 P/E 3.1배, P/B 1.2배(다운사이클 수준에 근접)로 거래 중이며, ROE는 50%에 육박합니다.\n영업이익 추정치\n: 메모리 가격의 견조한 흐름과 AI/서버 관련 수요 강세에 힘입어 영업이익은 2026년 379조 원, 2027년 562조 원, 2028년 650조 원에 달할 것으로 전망됩니다.\n수익성 지표: DRAM 영업이익률은 약 80%의 높은 수준을 유지하고, NAND 영업이익률은 60%를 넘어설 것으로 예상\n됩니다.\n하방 리스크 방어\n:\n전체 생산 능력의 60~70%가 장기공급계약(LTA)으로 체결되어 있으며, 상당한 규모의 선급금 및 최저 보장 가격(floor price) 설정으로 주가 하방 리스크를 보호하고 있습니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/P5VrZjatdpYxiRgb_aw8WeTb4LIMZTNHOoJ1H35HLNcT4t9wf3z78ab7tATY86TRg22MmI81_tPQ9osLq_l_X_AMbvpETlENR1s_sz4aOX0yL97JtL-gjMgBRHjJ3oiY7DSmjxhFbSujUqCRtHprMkTeD35w4ko4OAIxD1HltCFBG6a84HAwqYsjIqywubcU65_bmkjSJ-13UK4YSKFR0YSFKNg4bhC8pACAJlsrdgFU_3ZX7qXKe4r4-OM1WIrHGMjhMwTpXCd1Ks5V2gQ8nO-R2wqSxdF2TXhAj-MkTKNx7rNCO9pria7XqXJJJrO1nkOy242etC1exlNqo3ax3A.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-03T00:23:34+00:00"
-    },
-    {
       "id": "tg:HI_GS/6824",
       "source": "telegram",
       "author": "HI_GS",
@@ -806,30 +839,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-03T00:21:57+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19481",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19481",
-      "text": "블룸버그) 모건스탠리 \"한국 증시, '레버리지 청산' 후 36% 추가 상승 여력 있어\"\n모건스탠리가 한국 주식에 대한 투자의견을 '비중확대(Overweight)'로 상향 조정했습니다. 최근의 \"레버리지 청산\"이 투자자들에게 인공지능(AI) 트레이딩 및 산업 슈퍼사이클 테마에 참여할 수 있는 더 좋은 진입 기회를 제공했다고 설명\n했습니다.\n대니얼 K. 블레이크(Daniel K Blake)가 이끄는 전략가 팀은 보고서를 통해, 쏠림 매매와 급격한 레버리지 해소 이후 코스피(Kospi) 지수가 36%의 상승 여력을 지니고 있으며 모건스탠리가 제시한 목표치인 9,000포인트에 도달할 가능성\n이 있다고 밝혔습니다. 해당 증권사는 이전에 한국 증시에 대해 '비중유지(Equal-weight)' 의견을 제시한 바 있습니다.\n아시아 인공지능 수요의 풍향계 역할을 해온 한국 시장에서 트레이더들이 신속하게 물량을 쏟아내면서, 코스피 지수는 지난 6월 고점 대비 약 30% 하락했습니다. 단일 종목 레버리지 ETF의 급증과 지수 내 시가총액 상위 종목 쏠림 현상이 이번 폭락을 한층 심화시켰습니다.\n한국 금융당국은 이후 이러한 상품의 과도한 활용을 제어하기 위해 개입에 나섰습니다. 정부는 개인 투자자의 전체 포트폴리오 중 위험 노출 한도를 일정 비율로 제한하는 방안을 포함해, 개인의 레버리지 상품 참여를 제한할 계획입니다.\n모건스탠리는 단기적으로 코스피 지수가 5,500~10,500포인트 범위 내에서 변동할 것으로 예상하면서, 삼성전자와 SK하이닉스가 시장의 밸류에이션 하단을 지지하고 있다고 지적했습니다. 아울러 산업, 방산, 금융 섹터 주식이 수혜를 입을 것으로 전망했습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-03T00:06:36+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19480",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19480",
-      "text": "키오시아 3월분기 실적: 의심할 필요 없는 낸드 업황 [삼성증권 반도체, IT/이종욱]  키오시아의 FY1Q26(3월분기) 실적이 나왔습니다. 낸드 업황은 의심할 필요가 없으며 적극적인 주주환원을 시작했습니다.  - 컨센서스 하회는 일시적 요인: 매출과 영업이익이 컨센서스대비 4%, 5% 하회했습니다. 매출은 출하 지연 때문이며 연간 가이던스를 유지했습니다. 이익은 출하지연에 더해 소송충당금, 주식보상비용, 임직원 특별보상 충당금 등이 포함되었습니다. 모두…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-02T23:58:16+00:00"
     },
     {
       "id": "tg:HI_GS/6822",
@@ -1451,20 +1460,6 @@
       "published_at": "2026-07-30T17:17:05+00:00"
     },
     {
-      "id": "x:sama:2082855170296205719",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2082855170296205719",
-      "text": "RT by @sama: one of the most beautiful things about OpenAI is that every employee really has a voice. i wanted to capture what it feels like to work here, what our mission means to me, and why you should join us. so i made this video with Codex, shared it with the team, and they felt it was worth producing and sharing with the world. this is our mission. and it’s why i’m here.",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2082847297700777984/img/vnek_Bg-PNRBh6G7.jpg"
-      ],
-      "summary_ko": "@sama의 RT: OpenAI의 가장 아름다운 점 중 하나는 모든 직원이 실제로 목소리를 낼 수 있다는 것입니다. 저는 여기서 일하는 것이 어떤 느낌인지, 우리의 사명이 나에게 어떤 의미인지, 그리고 왜 우리와 함께해야 하는지를 포착하고 싶었습니다. 그래서 이 영상을 Codex로 제작해서 팀과 공유했더니, 제작해서 전 세계와 공유할 가치가 있다고 느꼈어요. 이것이 우리의 사명입니다. 그게 내가 여기 있는 이유야.",
-      "published_at": "2026-07-30T15:45:44+00:00"
-    },
-    {
       "id": "x:OpenAI:2082855170296205719",
       "source": "x",
       "author": "OpenAI",
@@ -1476,6 +1471,20 @@
         "https://pbs.twimg.com/amplify_video_thumb/2082847297700777984/img/vnek_Bg-PNRBh6G7.jpg"
       ],
       "summary_ko": "@OpenAI의 RT: OpenAI의 가장 아름다운 점 중 하나는 모든 직원이 실제로 목소리를 낼 수 있다는 것입니다. 저는 여기서 일하는 것이 어떤 느낌인지, 우리의 사명이 나에게 어떤 의미인지, 그리고 왜 우리와 함께해야 하는지를 포착하고 싶었습니다. 그래서 이 영상을 Codex로 제작해서 팀과 공유했더니, 제작해서 전 세계와 공유할 가치가 있다고 느꼈어요. 이것이 우리의 사명입니다. 그게 내가 여기 있는 이유야.",
+      "published_at": "2026-07-30T15:45:44+00:00"
+    },
+    {
+      "id": "x:sama:2082855170296205719",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2082855170296205719",
+      "text": "RT by @sama: one of the most beautiful things about OpenAI is that every employee really has a voice. i wanted to capture what it feels like to work here, what our mission means to me, and why you should join us. so i made this video with Codex, shared it with the team, and they felt it was worth producing and sharing with the world. this is our mission. and it’s why i’m here.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2082847297700777984/img/vnek_Bg-PNRBh6G7.jpg"
+      ],
+      "summary_ko": "@sama의 RT: OpenAI의 가장 아름다운 점 중 하나는 모든 직원이 실제로 목소리를 낼 수 있다는 것입니다. 저는 여기서 일하는 것이 어떤 느낌인지, 우리의 사명이 나에게 어떤 의미인지, 그리고 왜 우리와 함께해야 하는지를 포착하고 싶었습니다. 그래서 이 영상을 Codex로 제작해서 팀과 공유했더니, 제작해서 전 세계와 공유할 가치가 있다고 느꼈어요. 이것이 우리의 사명입니다. 그게 내가 여기 있는 이유야.",
       "published_at": "2026-07-30T15:45:44+00:00"
     },
     {
@@ -2408,20 +2417,6 @@
       ],
       "summary_ko": "@karpathy의 RT: Engram 소개: 상황에 맞게 컴퓨팅 확장",
       "published_at": "2026-06-23T17:01:29+00:00"
-    },
-    {
-      "id": "rss:semianalysis:chinas-cxmt-is-set-to-challenge-dram",
-      "source": "rss",
-      "author": "semianalysis",
-      "author_name": "SemiAnalysis",
-      "author_url": "https://semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/chinas-cxmt-is-set-to-challenge-dram",
-      "text": "China’s CXMT Is Set to Challenge DRAM Incumbents\n\nCXMT IPO, SKHynix, Micron, Samsung Competition, Process Node Deficit, China HBM, Wafer Adds, Memory LTAs",
-      "images": [
-        "https://substack-post-media.s3.amazonaws.com/public/images/b42b8c2b-1749-4adc-b179-57c4fdda8500_1536x1024.png"
-      ],
-      "summary_ko": "중국의 CXMT가 기존 DRAM 업체에 도전장을 내밀고 있습니다.\n\nCXMT IPO, SKHynix, Micron, 삼성 경쟁, 프로세스 노드 적자, 중국 HBM, 웨이퍼 추가, 메모리 LTA",
-      "published_at": "2026-06-23T14:51:53+00:00"
     },
     {
       "id": "x:AndrewYNg:2068039709126017356",
