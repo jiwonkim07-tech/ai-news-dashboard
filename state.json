@@ -1,5 +1,7 @@
 {
   "telegram:EMchina": [
+    "tg:EMchina/32113",
+    "tg:EMchina/32112",
     "tg:EMchina/32111",
     "tg:EMchina/32110",
     "tg:EMchina/32109",
@@ -11,12 +13,39 @@
     "tg:EMchina/32103",
     "tg:EMchina/32102",
     "tg:EMchina/32101",
-    "tg:EMchina/32100",
-    "tg:EMchina/32099",
-    "tg:EMchina/32098",
-    "tg:EMchina/32097",
-    "tg:EMchina/32096",
-    "tg:EMchina/32095"
+    "tg:EMchina/32100"
+  ],
+  "telegram:aetherjapanresearch": [
+    "tg:aetherjapanresearch/24352",
+    "tg:aetherjapanresearch/24351",
+    "tg:aetherjapanresearch/24350",
+    "tg:aetherjapanresearch/24349",
+    "tg:aetherjapanresearch/24347",
+    "tg:aetherjapanresearch/24344",
+    "tg:aetherjapanresearch/24343",
+    "tg:aetherjapanresearch/24342",
+    "tg:aetherjapanresearch/24339",
+    "tg:aetherjapanresearch/24338",
+    "tg:aetherjapanresearch/24336",
+    "tg:aetherjapanresearch/24335",
+    "tg:aetherjapanresearch/24334",
+    "tg:aetherjapanresearch/24333",
+    "tg:aetherjapanresearch/24332",
+    "tg:aetherjapanresearch/24331"
+  ],
+  "telegram:bornlupin": [
+    "tg:bornlupin/19514",
+    "tg:bornlupin/19513",
+    "tg:bornlupin/19512",
+    "tg:bornlupin/19511",
+    "tg:bornlupin/19510",
+    "tg:bornlupin/19509",
+    "tg:bornlupin/19508",
+    "tg:bornlupin/19507",
+    "tg:bornlupin/19506",
+    "tg:bornlupin/19505",
+    "tg:bornlupin/19504",
+    "tg:bornlupin/19503"
   ],
   "telegram:HI_GS": [
     "tg:HI_GS/6839",
@@ -31,25 +60,6 @@
     "tg:HI_GS/6829",
     "tg:HI_GS/6828",
     "tg:HI_GS/6827"
-  ],
-  "telegram:bornlupin": [
-    "tg:bornlupin/19514",
-    "tg:bornlupin/19513",
-    "tg:bornlupin/19512",
-    "tg:bornlupin/19511",
-    "tg:bornlupin/19510",
-    "tg:bornlupin/19509",
-    "tg:bornlupin/19508",
-    "tg:bornlupin/19507",
-    "tg:bornlupin/19506",
-    "tg:bornlupin/19505",
-    "tg:bornlupin/19504",
-    "tg:bornlupin/19503",
-    "tg:bornlupin/19502",
-    "tg:bornlupin/19501",
-    "tg:bornlupin/19500",
-    "tg:bornlupin/19499",
-    "tg:bornlupin/19498"
   ],
   "telegram:globaletfi": [
     "tg:globaletfi/20950",
@@ -79,31 +89,6 @@
     "tg:enc210406/4278",
     "tg:enc210406/4277"
   ],
-  "telegram:aetherjapanresearch": [
-    "tg:aetherjapanresearch/24347",
-    "tg:aetherjapanresearch/24344",
-    "tg:aetherjapanresearch/24343",
-    "tg:aetherjapanresearch/24342",
-    "tg:aetherjapanresearch/24339",
-    "tg:aetherjapanresearch/24338",
-    "tg:aetherjapanresearch/24336",
-    "tg:aetherjapanresearch/24335",
-    "tg:aetherjapanresearch/24334",
-    "tg:aetherjapanresearch/24333",
-    "tg:aetherjapanresearch/24332",
-    "tg:aetherjapanresearch/24331",
-    "tg:aetherjapanresearch/24330",
-    "tg:aetherjapanresearch/24329",
-    "tg:aetherjapanresearch/24328",
-    "tg:aetherjapanresearch/24327",
-    "tg:aetherjapanresearch/24326",
-    "tg:aetherjapanresearch/24325",
-    "tg:aetherjapanresearch/24324",
-    "tg:aetherjapanresearch/24322",
-    "tg:aetherjapanresearch/24323",
-    "tg:aetherjapanresearch/24320",
-    "tg:aetherjapanresearch/24319"
-  ],
   "x:OpenAI": [
     "x:OpenAI:2084378417320141196",
     "x:OpenAI:2084378418989379822",
@@ -116,7 +101,8 @@
     "x:OpenAI:2082878156483219672",
     "x:OpenAI:2082855170296205719",
     "x:OpenAI:2082616641834422740",
-    "x:OpenAI:2082616643394703682"
+    "x:OpenAI:2082616643394703682",
+    "x:OpenAI:2082616636989952217"
   ],
   "rss:semianalysis": [
     "rss:semianalysis:kimi-k3-the-manos-the-mythos-the",
@@ -133,6 +119,8 @@
     "rss:semianalysis:us-grid-constraints-towards-40gw"
   ],
   "x:ylecun": [
+    "x:ylecun:2084471971098575035",
+    "x:ylecun:2084440664125632705",
     "x:ylecun:2084328759633850729",
     "x:ylecun:2084242435215913234",
     "x:ylecun:2084182167836410264",
@@ -144,7 +132,8 @@
     "x:ylecun:2083286349239513196",
     "x:ylecun:2083268072157462744",
     "x:ylecun:2083268008055615869",
-    "x:ylecun:2083253910223921483"
+    "x:ylecun:2083253910223921483",
+    "x:ylecun:2083174287897207220"
   ],
   "x:karpathy": [
     "x:karpathy:2083948654377996480",
@@ -161,6 +150,7 @@
     "x:karpathy:2061110056293106118"
   ],
   "x:sama": [
+    "x:sama:2084663673570971990",
     "x:sama:2083560847889023219",
     "x:sama:2083467194663571701",
     "x:sama:2083456300692979886",
@@ -228,7 +218,8 @@
     "x:demishassabis:2079595879808569534",
     "x:demishassabis:2078160968513704270",
     "x:demishassabis:2077811657385079045",
-    "x:demishassabis:2077803351392268314"
+    "x:demishassabis:2077803351392268314",
+    "x:demishassabis:2077721122116640969"
   ],
   "x:AndrewYNg": [
     "x:AndrewYNg:2082199333920027009",
@@ -245,6 +236,6 @@
     "x:AndrewYNg:2057907324380217821"
   ],
   "_meta": {
-    "last_x_fetch": "2026-08-04T10:39:05+00:00"
+    "last_x_fetch": "2026-08-04T16:12:15+00:00"
   }
 }
