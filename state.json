@@ -1,5 +1,12 @@
 {
   "telegram:EMchina": [
+    "tg:EMchina/32106",
+    "tg:EMchina/32105",
+    "tg:EMchina/32104",
+    "tg:EMchina/32103",
+    "tg:EMchina/32102",
+    "tg:EMchina/32101",
+    "tg:EMchina/32100",
     "tg:EMchina/32099",
     "tg:EMchina/32098",
     "tg:EMchina/32097",
@@ -11,12 +18,23 @@
     "tg:EMchina/32091",
     "tg:EMchina/32090",
     "tg:EMchina/32089",
-    "tg:EMchina/32088",
-    "tg:EMchina/32087",
-    "tg:EMchina/32085",
-    "tg:EMchina/32084",
-    "tg:EMchina/32083",
-    "tg:EMchina/32082"
+    "tg:EMchina/32088"
+  ],
+  "telegram:HI_GS": [
+    "tg:HI_GS/6839",
+    "tg:HI_GS/6838",
+    "tg:HI_GS/6837",
+    "tg:HI_GS/6836",
+    "tg:HI_GS/6835",
+    "tg:HI_GS/6834",
+    "tg:HI_GS/6833",
+    "tg:HI_GS/6832",
+    "tg:HI_GS/6831",
+    "tg:HI_GS/6829",
+    "tg:HI_GS/6828",
+    "tg:HI_GS/6827",
+    "tg:HI_GS/6826",
+    "tg:HI_GS/6825"
   ],
   "telegram:aetherjapanresearch": [
     "tg:aetherjapanresearch/24331",
@@ -30,34 +48,31 @@
     "tg:aetherjapanresearch/24322",
     "tg:aetherjapanresearch/24323",
     "tg:aetherjapanresearch/24320",
-    "tg:aetherjapanresearch/24319",
-    "tg:aetherjapanresearch/24318",
-    "tg:aetherjapanresearch/24317",
-    "tg:aetherjapanresearch/24316",
-    "tg:aetherjapanresearch/24315",
-    "tg:aetherjapanresearch/24314",
-    "tg:aetherjapanresearch/24313",
-    "tg:aetherjapanresearch/24310"
+    "tg:aetherjapanresearch/24319"
   ],
-  "telegram:HI_GS": [
-    "tg:HI_GS/6837",
-    "tg:HI_GS/6836",
-    "tg:HI_GS/6835",
-    "tg:HI_GS/6834",
-    "tg:HI_GS/6833",
-    "tg:HI_GS/6832",
-    "tg:HI_GS/6831",
-    "tg:HI_GS/6829",
-    "tg:HI_GS/6828",
-    "tg:HI_GS/6827",
-    "tg:HI_GS/6826",
-    "tg:HI_GS/6825",
-    "tg:HI_GS/6824",
-    "tg:HI_GS/6823",
-    "tg:HI_GS/6822",
-    "tg:HI_GS/6821"
+  "telegram:bornlupin": [
+    "tg:bornlupin/19509",
+    "tg:bornlupin/19508",
+    "tg:bornlupin/19507",
+    "tg:bornlupin/19506",
+    "tg:bornlupin/19505",
+    "tg:bornlupin/19504",
+    "tg:bornlupin/19503",
+    "tg:bornlupin/19502",
+    "tg:bornlupin/19501",
+    "tg:bornlupin/19500",
+    "tg:bornlupin/19499",
+    "tg:bornlupin/19498",
+    "tg:bornlupin/19497",
+    "tg:bornlupin/19496",
+    "tg:bornlupin/19495",
+    "tg:bornlupin/19494"
   ],
   "telegram:globaletfi": [
+    "tg:globaletfi/20950",
+    "tg:globaletfi/20949",
+    "tg:globaletfi/20948",
+    "tg:globaletfi/20947",
     "tg:globaletfi/20946",
     "tg:globaletfi/20945",
     "tg:globaletfi/20944",
@@ -72,6 +87,7 @@
     "tg:globaletfi/20934"
   ],
   "telegram:enc210406": [
+    "tg:enc210406/4289",
     "tg:enc210406/4288",
     "tg:enc210406/4287",
     "tg:enc210406/4286",
@@ -84,21 +100,6 @@
     "tg:enc210406/4278",
     "tg:enc210406/4277",
     "tg:enc210406/4276"
-  ],
-  "telegram:bornlupin": [
-    "tg:bornlupin/19505",
-    "tg:bornlupin/19504",
-    "tg:bornlupin/19503",
-    "tg:bornlupin/19502",
-    "tg:bornlupin/19501",
-    "tg:bornlupin/19500",
-    "tg:bornlupin/19499",
-    "tg:bornlupin/19498",
-    "tg:bornlupin/19497",
-    "tg:bornlupin/19496",
-    "tg:bornlupin/19495",
-    "tg:bornlupin/19494",
-    "tg:bornlupin/19493"
   ],
   "x:OpenAI": [
     "x:OpenAI:2084378417320141196",
@@ -245,6 +246,6 @@
     "x:AndrewYNg:2057907324380217821"
   ],
   "_meta": {
-    "last_x_fetch": "2026-08-04T07:39:54+00:00"
+    "last_x_fetch": "2026-08-04T10:39:05+00:00"
   }
 }
