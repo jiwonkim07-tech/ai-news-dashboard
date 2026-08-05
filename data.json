@@ -1,22 +1,61 @@
 {
-  "updated_at": "2026-08-05T15:13:27+00:00",
+  "updated_at": "2026-08-05T17:36:57+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 24
+    "new_this_run": 3
   },
   "briefing": {
-    "headline": "앤트로픽, AI 모델 클로드 수요 대응 자체 칩 설계 팀 구축",
+    "headline": "앤스로픽, Claude용 자체 AI 칩 개발 조직 구축",
     "bullets": [
-      "JP모건, 글로벌 원자재 22년도 재림 가능성",
-      "삼성전자·SK하이닉스, 주주 환원 강화 시그널",
-      "코어위브, SK하이닉스 자회사 솔리다임과 엔터프라이즈 SSD 우선 공급 계약",
-      "화웨이, 메모리 가격 상승으로 휴대폰 가격 대규모 인상 가능성",
-      "미중, 데이터센터 장비 수입 금지 검토"
+      "7월 ADP 민간고용 4.4만명 증가, 시장 예상치 하회",
+      "WTI, Brent 유가 배럴당 70달러 대 등락",
+      "호르무즈 해협 통항 협상: 이란의 통제권",
+      "삼성전자·SK하이닉스, 주주 환원 강화 시그널"
     ],
-    "generated_at": "2026-08-05T15:13:27+00:00",
+    "generated_at": "2026-08-05T17:36:57+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:globaletfi/20989",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20989",
+      "text": "🔹\nAnthropic, Claude용 자체 AI 칩 개발 조직 구축\n» Anthropic은 Claude AI 모델을 위한 자체 맞춤형 AI 칩 개발을 위해 사내 반도체 설계 조직을 구축하고 있으며, 이를 위해 하드웨어와 소프트웨어 전반에 대한 경험을 갖춘 엔지니어 채용을 시작\n» AI 모델의 학습과 추론에 필요한 반도체 공급 부족에 대응하고, Claude를 고객이 요구하는 대규모 환경에서 더욱 빠르고 효율적으로 구동하기 위해 AI 모델과 반도체를 함께 설계하는 전략을 추진하고 있다고 설명\n» 자체 AI 칩 개발이 단일 칩 전략이 아닌 멀티칩 전략의 일부라고 강조. 즉, 자체 설계한 맞춤형 반도체를 개발하면서도 AWS, Google, NVIDIA, AMD 등을 함께 활용하는 하드웨어 생태계를 유지할 계획\n» AI 기업들이 단순히 GPU를 구매하는 수준을 넘어, 자체 AI 반도체 설계 역량을 확보해 성능과 비용 효율성을 동시에 높이려는 움직임이 더욱 확대되고 있는  사례. 장기적으로 AI 반도체 시장에서 커스텀 ASIC의 중요성이 높아질 가능성을 시사\nAnthropic to build in-house chip design team for Claude, hire engineers\nhttps://www.reuters.com/business/anthropic-build-in-house-chip-design-team-claude-hire-engineers-2026-08-05/",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-05T15:56:30+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20988",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20988",
+      "text": "» 미국의 7월 ISM서비스업 지수는 54.1pt로 6월과 유사한 수준 기록\n» 세부 지수들을 살펴보면 비즈니스 활동지수와 지불가격 지수, 신규주문 지수가 상승. 반면 수주잔고와 재고, 고용지수는 하락",
+      "images": [
+        "https://cdn5.telesco.pe/file/cw7nowAmp5dfncv2kd-ClkaB4Ouo_KBEpBzH8BiwRKWFWxS-JNv4NM1vn-PwK94psrRp1518UEgySUPeN_fWNsiDFFbWxo1gNAskOQjuAvKCR0iJbL7P4tennxSys1_cdA6VRpnBA0nAEFlkREnet9ZPPn3561HkzN4pdesDRRAVxoamkIikfY0gMYEgIStvyFS7IVo_ryF2XpyQoKPe-lUA282qs-h8VZaQAls5CwXZVaXyoPSPpJTaNFYPQI3XUmtSoKUQaHyqnKadnRD6gliyvx6OHJ5I4-jsX4kXpjr68NXjBeyWwYcXGSNnl0-V4AtCLuUajnYZwehZLJqjgw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-05T15:55:57+00:00"
+    },
+    {
+      "id": "tg:globaletfi/20987",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/20987",
+      "text": "» 7월 ADP 민간고용은 4.4만명 증가에 그쳐 시장 예상치(6.5만명)를 하회\n» 아울러 6월 수치도 기존 9.8만명에서 9.5만명으로 하향 조정. 민간 고용 증가세가 점진적으로 둔화되고 있음을 시사",
+      "images": [
+        "https://cdn5.telesco.pe/file/TVtoSzOOJ7lsHmy7Zaf6Xv1jvPrncKLMz0Q5wuuEE_noDQrpBGthB7jsZ3nYu9xbvhyrWGB0VUzbD5JNPB1ch6MkAqN92MbgnGve6kZ4hrcmq40YAMMbTTVNcNQWAENY_yDu6nwhKt7q7GliR1akGUurA8DypZI-SLtDl6wWg1SCt3kClHEo5d9xTIEY98s04bIzGzdV1p6lcoHx1QKGhe6YyS_1yNVsf2kvaxDH9oT_UBc0AmuBazH2Z1DOIMBsXeOs37sCXYI9W2LTp8yy_qcAho1lH0gem6SS4oT3PiDc4-lHckR-sJciP0-z1uBVBC520df6u0Iafvwq-8YqGQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-05T15:45:16+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24401",
       "source": "telegram",
@@ -709,34 +748,6 @@
       "published_at": "2026-08-05T05:25:10+00:00"
     },
     {
-      "id": "tg:globaletfi/20975",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20975",
-      "text": "» 현재 시장에서 형성되어 있는 미국 정책금리 예상 경로에는 연내 한차례 인상 + 내년 3월 이후 추가 인상 가능성 반영 [CME FedWatch]",
-      "images": [
-        "https://cdn5.telesco.pe/file/KP10JlY2WVYEjINuCwMHBDf0rnrmO0JzG13G0vJQ2JCs440Uh0abNJQDzx1WU_3dF_aMe0soTEXnragOxifhYNgUF_0QegUdq-5bKUByNhuKXFgrzHbbAWyqY9fzcYlily2skM0YayyLYOYqF00mVzSY3SNycTTBwQJ24lg69Pw_rOSePf58OFWrKI_MzQAYDFQJnqo_2igdybOR5vBBfKX9cRFl14yGimDERU--DoTQ-VZaRSl-mpf9wbn_t7-xntUjuAmZqkQ2rMZ5GcXZQaiVAvRvZdc6s5pHM_qh7HJfuG8qntjarlfHmaZ4KXJUM9iYBHwMSKO7RVXbwX12mg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-05T04:25:21+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20974",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20974",
-      "text": "» 9월 FOMC의 금리인상 가능성이 현재 56.9% 수준까지 하락. 일주일 사이에 유가 하락과 더불어 20%p 가량 낮아진 모습 [CME FedWatch]",
-      "images": [
-        "https://cdn5.telesco.pe/file/SfFl6LlFqD1IHy54vZR3iq8DRlX8B-lUV8Senrra-oeBkJanlK9VmtuTbZyfgOa-fmjTBgV7xkOG1PQFmwNwHwQdFhxgJ0M2N4iHfsRVz5PaPzEAeEhf2w4kdnNU-ogAafKiVWEQhEBgM2Vv08i2XNhbgIm5OLjIImKvqu5DxQXSVod9_TsXXuO2nq6xKp7T5RvCpdjdVM6i_HGsCFNkwwSkF_20vs_XNeb8LKJS_gJnRaj_sc7xNuMa_dET5ucODrKsyRaaLo-GdwA64oI7M62F5h95YXyDNxChPM7h2KcXUzA8nuLOCczx3EaznoKrVBgzRGvbQZKqVs2LKwaWjQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-05T04:23:39+00:00"
-    },
-    {
       "id": "tg:HI_GS/6846",
       "source": "telegram",
       "author": "HI_GS",
@@ -785,18 +796,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-05T04:02:33+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20973",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20973",
-      "text": "태양광·반도체 소재 '폴리실리콘' 美 가격하한제·관세 준비중\n- 미국 내 공장 보호와 중국 공급망 견제 목적…8월 내 결정 예상\n- 당분간 한국·말레이시아·독일 등서 수입 지속 불가피하다는 관측도\n미국 도널드 트럼프 행정부가 태양광 패널과 반도체의 핵심 소재인 '폴리실리콘'에 가격하한제를 도입하고 관세를 부과하는 방안을 준비중이라고 로이터통신이 4일(현지시간) 전했다.\n결정은 8월 내로 내려질 것으로 예상된다.\n이는 헴록 반도체(Hemlock Semiconductor)와 바커 케미(Wacker Chemie)의 미국 내 폴리실리콘 공장들을 보호하고 공급망 부문에서 중국을 견제하려는 것이 목적이다.\nhttps://n.news.naver.com/article/001/0016234232?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-05T02:09:23+00:00"
     },
     {
       "id": "tg:HI_GS/6843",

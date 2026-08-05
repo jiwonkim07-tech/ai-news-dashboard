@@ -1,19 +1,4 @@
 {
-  "telegram:EMchina": [
-    "tg:EMchina/32146",
-    "tg:EMchina/32145",
-    "tg:EMchina/32144",
-    "tg:EMchina/32143",
-    "tg:EMchina/32142",
-    "tg:EMchina/32141",
-    "tg:EMchina/32140",
-    "tg:EMchina/32139",
-    "tg:EMchina/32138",
-    "tg:EMchina/32137",
-    "tg:EMchina/32136",
-    "tg:EMchina/32135",
-    "tg:EMchina/32134"
-  ],
   "telegram:aetherjapanresearch": [
     "tg:aetherjapanresearch/24401",
     "tg:aetherjapanresearch/24400",
@@ -26,18 +11,38 @@
     "tg:aetherjapanresearch/24392",
     "tg:aetherjapanresearch/24391",
     "tg:aetherjapanresearch/24390",
-    "tg:aetherjapanresearch/24389",
-    "tg:aetherjapanresearch/24388",
-    "tg:aetherjapanresearch/24387",
-    "tg:aetherjapanresearch/24386",
-    "tg:aetherjapanresearch/24385",
-    "tg:aetherjapanresearch/24384",
-    "tg:aetherjapanresearch/24383",
-    "tg:aetherjapanresearch/24382",
-    "tg:aetherjapanresearch/24381",
-    "tg:aetherjapanresearch/24379",
-    "tg:aetherjapanresearch/24378",
-    "tg:aetherjapanresearch/24377"
+    "tg:aetherjapanresearch/24389"
+  ],
+  "telegram:globaletfi": [
+    "tg:globaletfi/20989",
+    "tg:globaletfi/20988",
+    "tg:globaletfi/20987",
+    "tg:globaletfi/20986",
+    "tg:globaletfi/20984",
+    "tg:globaletfi/20983",
+    "tg:globaletfi/20982",
+    "tg:globaletfi/20981",
+    "tg:globaletfi/20980",
+    "tg:globaletfi/20978",
+    "tg:globaletfi/20977",
+    "tg:globaletfi/20976",
+    "tg:globaletfi/20975",
+    "tg:globaletfi/20974",
+    "tg:globaletfi/20973"
+  ],
+  "x:ylecun": [
+    "x:ylecun:2085000309865070795",
+    "x:ylecun:2084992798814539875",
+    "x:ylecun:2084977695910170818",
+    "x:ylecun:2084959238485385320",
+    "x:ylecun:2084957685343035736",
+    "x:ylecun:2084757892532740519",
+    "x:ylecun:2084471971098575035",
+    "x:ylecun:2084440664125632705",
+    "x:ylecun:2084328759633850729",
+    "x:ylecun:2084242435215913234",
+    "x:ylecun:2084223675054911844",
+    "x:ylecun:2084182167836410264"
   ],
   "telegram:bornlupin": [
     "tg:bornlupin/19546",
@@ -51,26 +56,21 @@
     "tg:bornlupin/19538",
     "tg:bornlupin/19537",
     "tg:bornlupin/19536",
-    "tg:bornlupin/19535",
-    "tg:bornlupin/19534",
-    "tg:bornlupin/19533"
+    "tg:bornlupin/19535"
   ],
-  "telegram:globaletfi": [
-    "tg:globaletfi/20986",
-    "tg:globaletfi/20984",
-    "tg:globaletfi/20983",
-    "tg:globaletfi/20982",
-    "tg:globaletfi/20981",
-    "tg:globaletfi/20980",
-    "tg:globaletfi/20978",
-    "tg:globaletfi/20977",
-    "tg:globaletfi/20976",
-    "tg:globaletfi/20975",
-    "tg:globaletfi/20974",
-    "tg:globaletfi/20973",
-    "tg:globaletfi/20972",
-    "tg:globaletfi/20971",
-    "tg:globaletfi/20970"
+  "telegram:EMchina": [
+    "tg:EMchina/32146",
+    "tg:EMchina/32145",
+    "tg:EMchina/32144",
+    "tg:EMchina/32143",
+    "tg:EMchina/32142",
+    "tg:EMchina/32141",
+    "tg:EMchina/32140",
+    "tg:EMchina/32139",
+    "tg:EMchina/32138",
+    "tg:EMchina/32137",
+    "tg:EMchina/32136",
+    "tg:EMchina/32135"
   ],
   "telegram:enc210406": [
     "tg:enc210406/4294",
@@ -100,25 +100,6 @@
     "tg:HI_GS/6838",
     "tg:HI_GS/6837"
   ],
-  "x:ylecun": [
-    "x:ylecun:2085000309865070795",
-    "x:ylecun:2084992798814539875",
-    "x:ylecun:2084977695910170818",
-    "x:ylecun:2084959238485385320",
-    "x:ylecun:2084957685343035736",
-    "x:ylecun:2084757892532740519",
-    "x:ylecun:2084471971098575035",
-    "x:ylecun:2084440664125632705",
-    "x:ylecun:2084328759633850729",
-    "x:ylecun:2084242435215913234",
-    "x:ylecun:2084223675054911844",
-    "x:ylecun:2084182167836410264",
-    "x:ylecun:2084178934145352161",
-    "x:ylecun:2084173817471991909",
-    "x:ylecun:2083908468285620415",
-    "x:ylecun:2083638373080825886",
-    "x:ylecun:2083290542956224643"
-  ],
   "x:AnthropicAI": [
     "x:AnthropicAI:2084748111239344556",
     "x:AnthropicAI:2082965101083320543",
@@ -145,8 +126,7 @@
     "x:OpenAI:2082878192390689147",
     "x:OpenAI:2082878156483219672",
     "x:OpenAI:2082855170296205719",
-    "x:OpenAI:2082616641834422740",
-    "x:OpenAI:2082616636989952217"
+    "x:OpenAI:2082616641834422740"
   ],
   "x:sama": [
     "x:sama:2084663673570971990",
@@ -230,8 +210,7 @@
     "x:demishassabis:2079595879808569534",
     "x:demishassabis:2078160968513704270",
     "x:demishassabis:2077811657385079045",
-    "x:demishassabis:2077803351392268314",
-    "x:demishassabis:2077721122116640969"
+    "x:demishassabis:2077803351392268314"
   ],
   "x:AndrewYNg": [
     "x:AndrewYNg:2082199333920027009",
