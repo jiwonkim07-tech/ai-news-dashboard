@@ -1,22 +1,439 @@
 {
-  "updated_at": "2026-08-06T15:15:01+00:00",
+  "updated_at": "2026-08-06T23:58:41+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 19
+    "new_this_run": 35
   },
   "briefing": {
-    "headline": "SK하이닉스, 매수 의견 유지",
+    "headline": "AMD, AI 추론 칩 스타트업 Taalas 인수",
     "bullets": [
-      "메모리 업사이클 지속",
-      "HBM 공급 부족",
-      "주주환원 기대",
-      "웨스턴디지털, 매수 유지",
-      "샌디스크, 목표주가 하향"
+      "엔비디아, 루빈 울트라, HBM 사양조정",
+      "알파벳, AI 투자 확대 위해 250억달러 회사채 발행",
+      "OpenAI, GPT-5.6 Sol 업데이트 및 무료 사용자 무제한 문자 채팅 제공"
     ],
-    "generated_at": "2026-08-06T15:15:01+00:00",
+    "generated_at": "2026-08-06T23:58:41+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19572",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19572",
+      "text": "[미래에셋 김철중]\n2차전지/ESS :\n사야하는 10가지 이유\n(1) 하반기 돌아가면서 나올 수주\n- 어제 기사화된 포스코퓨처엠의 수주 건의 본질은 개별 기업의 변수보다 산업 전체적인 상황 반영된 결과\n<작년 7월 OBBBA로 인한 북미 ESS 탈 중국 가속(적격 소재 Shortage), 중국 소재사들의 가격 인상 요구>\n- 업체 별로 돌아가며 하반기 북미 ESS 관련 수주 모멤텀 발생 빈번할 것\n- IAA로 인한 유럽 OEM 향 수주 사이클도 동시에 진행될 것(각형 LFP)\n- 22~23년 IRA로 인한 수주 사이클과 비교 시, 1) 건 당 규모는 작으나, 2) 수주 건의 빈도는 높을 것\n- 특히, 북미 ESS의 경우 작년 하반기 수주 프로젝트 대비 개별 수주 건의 규모와 시계열이 확장될 것으로 판단(넥스테라에너지 30년-32년 ESS 수주잔고 발표 시작)\n(2) 하반기 실적, 시장 예상치 상회 예상\n(3) 출하량:ESS 수요 비중 시장 예상치 상회\n(4) 출하량:미국 시장 ESS 부착률 상승 가속\n(5) 출하량:캐즘에서 이미 벗어나고 있는 EV\n(6) 판가:리튬 판가 반등 예상\n(7) 정책:하반기 유럽 IAA 최종안\n(8) 정책:한국 ESS 시장 확대\n(9) 정책:한국판 IRA 정부 초안 발표\n(10) 정책:미국 중간선거 확인 구간 진입\n보고서 링크:\nhttps://han.gl/qEAOQ",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-06T23:55:32+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19571",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19571",
+      "text": "인바디: 10년만에 찾아온 랠리엔 이유가 있다\n*보고서:\nhttps://han.gl/gNBQA\n10년만에 랠리가 진행 중인 인바디가 어닝서프라이즈를 기록했고 시장은 종가기준 20% 이상 상승하며 화답했습니다.\n비만관리와 GLP-1 임상파트너 모멘텀이 존재하는 북미지역은 매출 300억원을 돌파했고요. 빅파마 모멘텀이 있는 중국도 견조한 성장을 기록했습니다. 특히 유럽같은 경우는 인바디를 누구보다 잘아는 인바디 출신이 대리점을 설립해 외형성장을 견인하는 독특한 성공모델이 등장하고 있습니다.\n목표주가 100,000원으로 상향합니다. 12개월 선행 P/E로 치면 23배 수준입니다. 랠리가 진행되고 있지만 밸류에이션 부담이 없다는 게 참 장점같습니다.\n참고로 인바디의 미국과 중국모멘텀을 이해하기 위한 인뎁스 자료첨부합니다. 시간되실때 참고하시면 좋겠습니다.\n미국:\nhttps://han.gl/NvO5h\n중국:\nhttps://han.gl/ramlr\n*당사 Compliance 승인을 거친 보고서 요약 자료입니다. 고객의 증권투자 결과에 대한 법적 책임소재의 증빙자료로 사용될 수 없습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/tQbrY2V8_aMB5HmAcFc9Z7pf8wsXmQ6u62aMBhVbPcnvBcWb5RpDluzrgCtf7rAxfx2H_E9re2EDpO6qBwRsFmpxwG0RvNHzifif4qkEWhjdU65dDKUrysFqpGKciOkDxJUej_jmJ5QCabgV8sXr0XDBcghYFXWbqwd51C5MstpDMkU_S2WJnDXtcbxWJw4PYb6z8IUsYHpd7PtXLTHdQ7rQ1eiJrFQG9b-ZGVHjJGLI15DXh4emtroy2XDZL7sUyPZ2QqyXeZfhOn7QhFQ1mtHLh3a1FAvJsYwDKsecsPDyLVyil9WEMsxgP9e14APJrl00yEN3AYz1yMqWGakT8Q.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-06T23:42:39+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24426",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24426",
+      "text": "Citi 카카오 TP 48000원 하향",
+      "images": [
+        "https://cdn5.telesco.pe/file/Ismki5aVp2Vcn_YMgK2Rd62lpxmAGrzqalq6pv9F0RrNh1aeAlEDmluIFncbMNX_poSQdjHS9cj2So4JkKSIOE4WKK5Nq_ff-WEvEoDYjvNJMfBQO8dZkIbI-iqXjIra9r4_UuUNl0AHlt-sxecb2E0tx6Oi1WagNkcAmA0UNzjQ_zh9N8X-DkdzekO45O8PsGQjUfMxur21ce696UrJtxO-6tgnhnx-GiJVhdH_VCb8GXnIdQHbBj5mB_n3c2G8_kNm1Hd53gYGW5lf9OdL19JhtpfJagxF_t3Z5RJCXjxYeLgwmYz5FJHVKW5Zk8xzQRUno94FYHMBpwtzdX1tpw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-06T23:38:13+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19568",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19568",
+      "text": "1. 글로벌 및 북미 ESS 수요 비중의 시장 예상치 상회\n글로벌 출하량 폭증\n: 1H26 글로벌 EV 배터리와 ESS 배터리 출하량이 각각 510GWh로 동률을 기록했습니다. EV 배터리가 전년 대비 10% 성장한 반면, ESS 배터리는 +98% YoY 급증하며 기존의 공격적인 시장 전망치를 상회했습니다.\n북미 시장 수요 역전 전망\n: 북미 시장은 상반기 기준 EV(51GWh)가 ESS(36GWh)보다 높았으나, 하반기 한국 업체들의 공급이 본격화되며 2026년 전체 수요는 ESS(105GWh)가 EV(101GWh)를 넘어설 것으로 예상됩니다.\n2. 미국 시장 내 ESS 부착률 상승 가속\n넥스테라 에너지 (유틸리티/사업자용)\n: 1H26 ESS 신규 수주는 전년 대비 +83% 증가했습니다. ESS/태양광 비중은 1H24 52%에서 1H26 106%로 급증했으며, 장기 수주 목표 비중 역시 24~25년 39%에서 30~32년 122%까지 지속 상승할 전망입니다.\n선런 (가정용 태양광)\n: 단위 태양광당 ESS 부착률이 2023년 31%에서 2Q26 기준 74%까지 가파르게 상승하며 역대 최고치를 기록했습니다.\n3. 리튬 가격 바닥 확인 및 하반기 반등 전망\n단기 하락 원인\n: 중국 광산 재가동 및 짐바브웨 정광 수출 재개 등 공급 병목 해소로 인해 탄산리튬 가격이 8월 초 14만 위안까지 하락했습니다.\n타이트한 재고 상황\n: 중국 탄산리튬 재고일수는 1H25 40일에서 2026년 8월 7일 기준 19.5일까지 급감했습니다\n. 수요자 재고일수도 10.7일 수준으로 낮아져 산업 전반의 재고가 매우 타이트합니다.\n하반기 반등 가능성\n:\n상반기 가격 상승을 공급 이슈가 이끌었다면, 하반기 반등의 핵심은 수요입니다. ESS 비중 확대 및 EV 수요 증가에 힘입어 수급 타이트가 지속될 것이며, 하반기 탄산리튬 가격 밴드는 14만~20만 위안으로 현재 수준이 바닥권인 것으로 판단됩니다.\n(26. 8. 7  미래에셋)",
+      "images": [
+        "https://cdn5.telesco.pe/file/q-hxMUAGcfA0WLuGomvSN03LJBsIWiiz41eBmFuHe8QFtBoZS3lH-963zD34eLu-jdjSj_6jpA6ilofBppaJf0QJ3Gawj5GeC8-rKaVjbdDe95W2HojFZKBsWCeG2RzLwdpG28ShdjRkfdY8A9zVdLYQ9viB6YGgSPEWV9ThNgZWsAJfPrMDkp7l7j7Orm1o5YN6n69EY7X2YQzshFdsoIjRQOnmSnlzm_8OWaMzs3zHZjUM-aVFWXDlEAQThNbUq3_AxFjVWrUNzg7_9xB8ua_ks3zaQEqNOtqeo7W7CdObCFpKQp4CbaV6JZpKWpotWgq9R44q-6GVG8QXIhtwBQ.jpg",
+        "https://cdn5.telesco.pe/file/pCtnAKuAbZL3V-bX88rzo6tHIQtvV7g9WnqtZmjybFUtS92kW1gKToymtPGKjXUqlFLpeOpOrVqSMkRjEnDk6RgXmHF1io3TJG6ub-dlD_PgaVuGuD0oONgDqGnS3m8KQmCLxtmWdsGNx_NDIX4A730aep2uAfRUUXMJYN_lQr-h3ybwoEhxeCV-ZTbmQpH98flB0UFHx9B2OzDiNCnEy3s4VfsrteX4Hs_KFrY17rHJ7QhIOe71x0CJqBTa5RsFG5BeTPhJoXbywzxM0ldfm7kgI1474CV3qELxMvyz8EBOUTA8ERJv7EWDqGfhGUV2GvgWWINOW_mFVLAMX7xx7g.jpg",
+        "https://cdn5.telesco.pe/file/itXAeqH0YXoMBNkgIE-9Dg_Edh65uqvsttqiYGY4AMuTmyRdlAHPCP3FDSO-CtRjoVEHKq_GJcARC4yjYemsG8s0cHbcYmk3JI0-zJymCi9wwaMlw2lbxnBv4NbU7MNRrtSpgnnHMlwCyMI-vUtlggOovnX2ApF02gEerd5mI3qaBE_JUOxE9fKUq1HXD9ty3u8LPAL6IWmVsn4ARTRqvNf89VDvTq_gD6nH0U059PKJGlhlJeApbVnKHl3s73oY5vC8yN2x5liJns2OO-qrfKWPXGO_Dz3MDuYfYycyTv2PBx5Fogytd_TOCkvW9Mq3l0pxaYDR3jgPfn1fj6Re3Q.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-06T23:33:00+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19567",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19567",
+      "text": "리튬배터리 전해액 핵심 첨가제인 VC(비닐렌 카보네이트) 가격이 수요 급증과 공급 병목 현상으로 1년 만에 4배 폭등\n가격 동향 및 수익성\n가격 폭등\n:\n2026년 8월 6일 기준 중국 내 VC 평균 가격은 톤당 23만 위안으로, 6월 이후 60% 이상, 전년 동기 대비 400% 급등\n했습니다. (2025년 10월 톤당 4.8만 위안 → 2026년 8월 23만 위안)\n마진 개선\n: 지난 3년간 손익분기점 수준에 머물던 VC 업계의 톤당 마진은 약 14.4만 위안까지 급증했습니다.\n수급 불균형 원인\n수요 측면\n:\n전력 배터리 안전 규제 강화\n: 2026년 7월부터 배터리 열화상 발생 후 2시간 동안 불이 나지 않아야 하는 신국가표준이 시행되면서 SEI 피막 형성을 위한 VC 첨가 비율이 늘었습니다.\nESS(에너지저장장치) 시장 급성장\n:\nESS용 배터리는 VC 첨가 비중(3% 이상, 일부 이차 주액 단계는 10% 초과)이 일반 전기차용 배터리(3% 미만)보다 높아 수요를 크게 끌어올리고 있습니다.\n공급 측면\n:\n지난해 구조조정 여파\n: 2023~2024년 장기 적자로 중소업체들이 퇴출당해 명목 생산능력(연간 19만 톤 이상) 대비 실제 안정적인 유효 생산능력은 약 11만 톤에 불과합니다.\n증설의 한계\n: VC는 고위험 정밀화학품으로 인허가 절차가 까다로워 신규 공장 설립부터 안정 출하까지 18개월~3년이 걸립니다. 이에 따라 단기 공급 부족 해소가 어렵습니다.\n시장 여파 및 기업 대응\n장기 계약 체결\n:\n하류 대형 고객사들은 장기 계약이나 지분 투자를 통해 물량 확보에 나섰습니다. (영태테크는 CATL과 2029년까지 VC 공급 계약 체결)\n주요 기업 증설 동향\n:\n영태테크\n: 연산 2만 톤 프로젝트 올해 완공, 5만 톤 프로젝트 내년 완공 목표.\n화성리튬\n: 6만 톤(1차 3만 톤) 단계적 증설 계획을 6만 톤 일괄 투자로 변경하여 토목 공사 진행 중.\n부상주식\n: 기술 개조를 통해 VC 생산능력을 연산 1만 톤까지 확대.\nhttps://paper.cnstock.com/html/2026-08/07/content_2253008.htm?utm_source=chatgpt.com",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-06T23:22:57+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24425",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24425",
+      "text": "JP모건) 데이터독(Datadog); 2분기 리뷰: 사용량이 견인하는 가속 지속; 최대 고객사가 주시 포인트가 되겠으나 전반적 성장 동인은 상당히 견조; 비중확대(OW) 의견 유지. TP $305(기존 $320)\n요약\n이번 분기 데이터독은 투자자들이 통상 기대해 온 수준의 실적 상회를 재현했으며, 특히 소비량·사용량 기반 매출 동인이 기존 핵심 고객과 AI 네이티브 고객 모두에서 가속되는 모습을 보였습니다. 견조한 매출에 힘입어 연간 매출과 이익 전망이 모두 상향되었음에도, 실적 발표 콘퍼런스콜의 초점은 최대 고객사의 사용량 감소에 맞춰졌습니다. 이로 인해 회사는 3분기 가이던스를 보수적으로 조정했고, 3분기 매출은 전분기 대비 한 자릿수 초중반 증가에 그칠 것으로 제시되었는데, 이는 2분기의 11% 전분기 대비 증가나 최근 6개 분기 평균인 높은 한 자릿수 증가율에 비해 낮은 수준입니다. 회사는 해당 고객과 이미 갱신 계약을 체결했으며 조건이 기존과 대체로 유사하다고 설명해 투자자를 안심시키고자 했습니다. 다만 이 고객은 통상 약정 사용량을 크게 웃도는 실제 사용량을 보여 왔는데, 최근 사용량이 줄어들면서 경영진은 향후 사용량을 보다 보수적으로 보고 약정 물량만을 전망에 반영하기로 했으며, 이는 3·4분기 전년 대비 성장률에 부담 요인으로 작용합니다. 사용량 감소의 구체적 원인은 파악하기 어렵겠으나, 경영진은 최대 고객을 제외한 매출도 2분기 보고치인 약 36% 전년 대비 성장률과 거의 유사한 속도로 확대되었다고 밝히며 전반적 성장 동력에 대한 자신감을 드러냈습니다. 성장의 근본 동인 측면에서는 AI 네이티브가 아닌 핵심 고객 주도 매출 성장률이 1분기 20%대 중반에서 20%대 후반으로 가속되었고 경영진은 이를 지속 가능한 동인으로 보고 있다는 점, 그리고 신규 고객이 성장에 기여한 비중이 1분기 25%에서 30%로 높아져 신규 고객 확보 시 초기 계약 규모가 이전보다 커졌음을 시사한다는 점이 긍정적이었습니다. 옵저버빌리티와 보안을 아우르는 통합 제품군, AI로 인한 인프라 복잡성 증대, 그리고 향후 기업 IT 전반으로 확산될 자율 AI 에이전트에 대한 가시성·모니터링 기회를 감안할 때 데이터독은 빠르게 확대되는 TAM을 활용하기에 유리한 위치에 있다고 판단됩니다. 동종 업체 대비 높은 성장률이 지속되며 프리미엄 밸류에이션이 정당화될 것으로 보며, 매출·이익 추정치를 소폭 조정하고 2027년 12월 목표주가를 305달러로 제시합니다.\n2026 회계연도 2분기(6월 결산) 실적에서는 강한 매출 성장과 판관비 레버리지가 다소 부진했던 매출총이익률을 상쇄하며 이익 상회를 이끌었습니다. 매출은 전년 대비 36% 증가한 11.21억 달러로 JPM 추정치 10.75억 달러와 컨센서스 10.79억 달러를 상회했으며, 2022년 2분기 이후 가장 높은 전분기 대비 성장률과 1.15억 달러라는 사상 최대 전분기 대비 증가액을 기록했습니다. 상회 폭은 고객 규모, 지출 구간, 산업 전반에 걸쳐 광범위했고, 비AI 고객 매출 성장률은 1분기 20%대 중반과 1년 전 18%에서 20%대 후반으로 가속되었습니다. 빌링은 전년 대비 38% 증가한 11.8억 달러, RPO는 43% 증가한 34.7억 달러, cRPO는 약 40% 증가했으나 RPO 듀레이션도 함께 늘어났습니다. NRR은 120%대 초반, 총유지율은 90%대 중후반을 유지했습니다. 총 고객 수는 약 33,400개로 6% 증가했고, ARR 10만 달러 이상 고객은 23% 증가한 약 4,720개로 전체 ARR의 91%를 차지했으며, ARR 100만 달러 이상 고객은 31% 증가한 603개였습니다. 플랫폼 침투도 심화되어 4개 이상 제품 사용 고객 비중이 1년 전 52%에서 58%로, 6개 이상은 29%에서 37%로, 10개 이상은 7%에서 13%로 높아졌고, RUM(Real User Monitoring)은 ARR 2억 달러를 돌파하며 50%를 넘는 성장률로 가속되었습니다. PF 매출총이익률은 79.6%로 JPM 추정치 80.5%와 컨센서스 80.6%를 밑돌았고 1분기 80.2% 대비로도 하락했는데, 경영진은 혁신 투자와 효율화 노력 간 균형에 따른 분기별 변동성으로 설명했습니다. 판관비는 DASH 관련 비용 약 1,500만 달러를 포함하고도 매출 성장률을 밑도는 26% 증가에 그치며 PF 영업이익률 22.9%를 견인했고, 이는 JPM 추정치 21.4%와 컨센서스 21.6%를 상회하는 수치입니다. FCF는 2억 7,870만 달러로 JPM 추정치 2억 830만 달러, 컨센서스 2억 1,500만 달러를 크게 웃돌며 FCF 마진 약 25%를 기록했습니다.\n2026 회계연도 3분기(9월 결산) 가이던스는 최대 고객의 사용량 감소를 반영하고 관련 리스크를 제거했음에도 매출과 마진 모두 시장 기대치를 상회합니다. 매출 가이던스는 11.35억~11.45억 달러로 중간값 11.40억 달러가 JPM 추정치 10.81억 달러와 컨센서스 11.07억 달러를 웃돌며, 전년 대비 28~29%, 전분기 대비 약 2% 성장을 시사합니다. 이 전망에는 3분기부터 시작되는 최대 고객의 사용량 감소가 반영되어 있으며, 경영진은 잔여 기간 동안 해당 고객에 대한 리스크를 전면적으로 제거하는 방식을 택했습니다. 그럼에도 이 고객은 9자리 규모의 갱신 계약을 완료했고 여전히 17개 데이터독 제품을 사용하고 있어 상업적 관계에는 상당한 연속성이 있는 것으로 보이며, 경영진은 기본 약정과 변동 사용량이 결합된 여타 대형 엔터프라이즈 계약과 유사한 형태라고 설명했습니다. 또한 이는 특정 고객에 국한된 사안이며 나머지 사업은 계속 가속되고 있다는 점을 강조했습니다. PF 영업이익 가이던스는 2.60억~2.70억 달러로 중간값 기준 PF 영업이익률 23.2%를 시사하며, JPM 추정치 22.0%와 컨센서스 22.9%를 상회합니다.\n2026 회계연도 전체(12월 결산) 가이던스 역시 최대 고객 관련 역풍을 반영한 이후에도 매출과 영업이익률 전망이 기대치를 앞섭니다. 연간 매출 가이던스는 44.5억~44.7억 달러로 중간값 44.6억 달러가 JPM 추정치 43.2억 달러와 컨센서스 43.5억 달러를 상회하며 약 30%의 전년 대비 성장을 시사합니다. 상반기 실적과 3분기 가이던스 중간값을 감안하면 4분기 매출은 약 11.92억 달러, 전년 대비 약 25% 성장에 해당하는데, 2분기 대비 둔화는 최대 고객의 사용량 감소와 최근 사용량 추이에 대한 데이터독 특유의 보수적 접근이 함께 반영된 결과입니다. PF 영업이익 가이던스는 10.1억~10.3억 달러로 중간값 기준 PF 영업이익률 22.9%를 시사하며 JPM 추정치 22.2%와 컨센서스 22.5%를 웃돕니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/sCJ_7mZ1itV-We-IRo4j0xzIthPg5k-Vl5N4TFkutjhuGdIBAJj0TIJPB-OTqBrc5RV49IquHgDX2sg7g2IAQwsSeFdQKRdC7dFlKyPGesanlfFDrkonzYGllWex4CmkpWH1yF76ibPHGkcwqBMiH_v54bopQS8htRpEitFv_0s1n8CmZJglRc1LOu_5Dry4iL7a3JActwKMaAdFXNKJ6KUMrXzeIUAd-dQL1bVglnfswUQKOjRcExbuI78MtfJqFlAJYxMBVC3Z9JcSV5Q4Sex-qXFrI0-YoVi3BxlU32-BJ1AqdD-8A2xHKa6J6CF176rSH74d9vfYCn378bJajg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-06T23:22:46+00:00"
+    },
+    {
+      "id": "tg:EMchina/32175",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32175",
+      "text": "LME 구리 약 +1% 오르면서 14000달러 돌파 & 2개월만에 최고  LME铜价突破14,000美元/吨，触及两个月高位，日内上涨约1%。  https://wallstreetcn.com/livenews/3144611?ivk=1#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-06T23:22:07+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21010",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21010",
+      "text": "🔹\n미국의 주장과 달리 지속되는 호르무즈 해협의 불확실성 상황\n» 아직 공식 발표는 없지만, 언론 보도에 따르면 이란과 오만이 호르무즈 해협의 통항로를 확정하기 위한 협정을 논의 중. 이란으로 들어오는 선박은 이란 해역을, 이란에서 나가는 선박은 오만 해역을 통과\n» 이란 국영 통신사 Fars는 목요일 호르무즈 해협을 통과하는 선박 통행에 훨씬 더 엄격한 조건을 부과하는 초기 계획안을 공개. Fars에 따르면 이 계획안은 현재 이란 의회 위원회의 검토를 받고 있는 단계\n» 보도된 초안 내용에 따르면 이란은 미국과 이스라엘 선박의 해협 통과를 금지할 예정. 또한 이란에 피해를 입힌 다른 국가들도 배상금이 지급될 때까지 해협 통과가 허용되지 않을 것이라고 명시. 테헤란은 위반국에 대해 선박 화물 가치의 20%에 해당하는 벌금을 부과할 계획\n» 한편, 예멘의 이란 동맹인 후티 반군은 목요일 사우디아라비아 주둔군을 공격했다고 주장. 후티 반군은 수요일 리야드의 Yanbu 수출 터미널 인근 홍해에서 사우디 유조선을 공격했다고 언급. 상기 터미널은 석유 수송 경로를 변경하는 데 핵심적인 역할을 하는 위치",
+      "images": [
+        "https://cdn5.telesco.pe/file/TIXOtLGVvOqi_2odV3ZXac_w6OU7IMC6Tgdc_MpcxYN4xIYT62p9s_cIMYa0QnFINPkZco8ZCJj7mTfoNsLewEvtVSK3fTcuC6A1k05w7qhByOFnoMuYZirRS0rLrGubEwtlnZZoGzxp2n7LTxtWl7wAqKeKkPS6dUCaThBf58qOoCY-C2YmHGKs0fMPkT20xgCIDs3ZiflsDr6pu171ONmwofz___4RDYsXWXmHrxXQ39-teJUa8Nfnwao7uiiXeNn_OjYdkWb6ZjqzHAHsKI5sTkpfV7fcs-v7dv8SijESXs2mzws9BLtZljVFox0AEKjdWoz8m4TkZcpeJierQA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-06T23:17:53+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21009",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21009",
+      "text": "🔹\nAMD, AI 추론 칩 스타트업 Taalas 인수\n» AMD가 AI 추론 전용 반도체 스타트업 Taalas를 인수하기로 결정. 인수 금액은 비공개이며, Taalas는 범용 GPU와 달리 특정 AI 모델을 반도체에 직접 구현하는 맞춤형 AI 칩을 개발하는 기업\n» 범용성은 낮지만 특정 AI 모델에서는 기존 GPU 대비 훨씬 낮은 비용과 수천 배 빠른 추론 성능을 구현 가능. 현재 Meta의 Llama 3.1 소형 모델용 AI 칩을 개발했으며, 향후 더 큰 규모의 AI 모델을 지원하는 제품도 개발 중\n» 새로운 AI 모델이 등장하면 약 2개월 만에 전용 AI 칩으로 구현할 수 있는 플랫폼을 보유. 구형 TSMC 공정을 활용하면서도 온칩 SRAM을 적용해 추론 성능과 응답속도를 높인 것이 특징\n🔹\nGPU를 넘어 AI 시스템 경쟁으로 확대\n» 생성형 AI 시장이 성숙 단계에 접어들면서 GPU만으로 모든 AI 워크로드를 처리하기 어렵다는 인식이 확대. 실시간 응답이 중요한 Low Latency AI 서비스에서는 GPU와 함께 추론 특화 ASIC 및 AI 가속기의 중요성이 빠르게 증가\n» 이번 인수는 지난해 Nvidia가 Groq 자산을 약 200억달러에 인수한 이후 AI 반도체 기업들이 추론 전용 칩 확보 경쟁에 나서는 흐름과 동일한 맥락. Lisa Su AMD CEO는 GPU가 향후에도 AI 칩 시장의 대부분을 차지하겠지만, 모든 AI 작업을 하나의 칩으로 처리할 수는 없어 다양한 AI 가속기가 공존할 것이라고 전망\n🔹\nAI 풀스택 전략 강화\n» AMD는 Taalas 기술을 CPU, Instinct GPU, Helios 랙스케일 AI 시스템 등 자사 AI 제품 로드맵에 통합할 계획. 최근 Meta와 Microsoft 등에 Helios AI 시스템 공급을 시작했으며, Cerebras와도 AI 가속기 통합 협력을 추진하는 등 GPU 외 다양한 AI 반도체를 결합한 플랫폼 전략을 확대\n🔹\nMarket Comment\n» 이번 인수는 AMD가 GPU 성능 경쟁을 넘어 Nvidia와 동일한 '풀스택 AI 플랫폼' 경쟁으로 전략을 확장하고 있음을 보여주는 사례\n» 엔비디아는 GPU뿐 아니라 NVLink, NVSwitch, Spectrum-X, DGX, NVL72, CUDA, 추론 가속기(Groq 자산) 등을 기반으로 AI 데이터센터 전체를 제공하는 전략을 강화하고 있으며, AMD 역시 Helios 랙 시스템과 CPU, GPU, AI ASIC을 결합한 통합 플랫폼 구축에 속도를 내는 모습\n» AI 시장의 중심이 학습(Training)에서 추론(Inference)으로 확대될수록 범용 GPU만으로는 비용과 전력 효율 측면의 한계가 부각될 가능성이 높으며, 맞춤형 ASIC과 추론 전용 AI 가속기의 중요성은 지속적으로 확대될 전망\n» AMD는 이번 인수를 통해 GPU 중심의 제품 포트폴리오를 보완하며 Nvidia 대비 약점으로 평가받던 추론 전용 반도체 영역까지 확보했다는 부분에서 전략적 의미 부여 가능. 향후 Instinct GPU와 CPU, AI ASIC을 결합한 통합 AI 시스템 경쟁력이 강화될 것으로 기대\n» 주가 관점에서는 AMD의 실적에 즉각적인 기여를 기대하기보다는 AI 추론 시장 확대와 제품 포트폴리오 다변화에 대한 긍정적인 신호로 해석할 수 있으며, 중장기적으로 AI 시스템 경쟁력 강화에 대한 프리미엄 요인으로 작용할 가능성 염두\nAMD buys chip startup that hardwires AI models into its silicon\nhttps://www.cnbc.com/2026/08/06/amd-buys-taalas-startup-that-hardwires-ai-models-into-its-silicon.html",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-06T23:07:54+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21007",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21007",
+      "text": "[하나 Global ETF Daily (8/7)]\n▶️\n하나 Global ETF 박승진(T.3771-7761)\n▶️\nRA 신민건(T.3771-3269)\n▶️\n텔레그램:\nhttps://t.me/globaletfi\n🔹\n주요 ETF Daily 수익률\n(2026.8.6 종가 기준)\n» 주요 시장 ETF\nSPY -0.16%\nQQQ -0.37%\nDIA -0.85%\nIWM -0.51%\n» 주요 국채 ETF\nSHY -0.12%\nIEF -0.39%\nTLT -0.58%\n» 주요 섹터/테마 ETF\n마리화나(MJ) 3.33%\n에너지(XLE) 1.48%\n우주(ARKX) 1.32%\n🔹\nETF News\n[Morningstar] 미국 최대 ‘액티브 ETF’ 7월 성과 분석: JEPI 선방, AVEM 부진\n-\nhttps://buly.kr/G3FpMsg\n- 패시브 ETF와 달리 운용역이 직접 종목을 결정하는 액티브 ETF는 거래소 거래의 편의성과 낮은 수수료, 우수한 세제 혜택을 바탕으로 시장 입지를 넓히는 중\n- 장기 수익률 검증이 필수적이나, 단기 성과 역시 전략별 편향성을 분석하는 유용한 지표로 활용됨\n- 상위 10대 미국 액티브 ETF 분석 결과, 7월 중 순자산 458억 달러 규모의 JPMorgan Equity Premium Income ETF(JEPI)가 2.27% 상승하며 최고 성과를 올림\n- 반면 순자산 260억 달러의 Avantis Emerging Markets Equity ETF(AVEM)는 신흥국 주식 시장 약세 여파로 6.77% 하락하며 가장 부진한 성과를 기록\n- 주요 상위 상품별 성과를 살펴보면 대형 혼합형 펀드인 Dimensional US Core Equity 2 ETF(DFAC)가 0.21% 상승해 벤치마크인 러셀 3000 지수를 상회했으며, 소형 가치주 전략의 Avantis US Small Cap Value ETF(AVUV) 역시 0.42% 오르며 양호한 흐름을 나타냄\n- 반면 나스닥 100 기반 커버드콜 상품인 JPMorgan Nasdaq Equity Premium Income ETF(JEPQ)는 기술주 변동성 확대 영향으로 4.33% 하락하였으나 지수 대비로는 선방\n- 채권 및 유동화 상품군에서는 JPMorgan Ultra-Short Income ETF(JPST)와 Janus Henderson AAA CLO ETF(JAAA)가 각각 0.28%, 0.41%의 안정적인 플러스 수익률을 달성\n- 이러한 성과 차이는 시장 변동성 확대 국면에서 커버드콜 및 초단기 채권 등 인컴형·방어형 액티브 전략의 하방 방어력이 돋보였음을 시사\n- 반면 성장주 및 신흥국 주식 노출도가 높은 전략은 단기 시장 조정의 위험에 크게 노출되는 한계를 드러냄\n- 따라서 액티브 ETF 투자 시에는 단순 과거 성과 추종을 지양하고, 시장 국면별 전략의 포트폴리오 구조와 변동성 대응 능력을 종합적으로 고려한 자산 배분 전략을 수립하는 것이 타당할 것으로 판단\n[Morningstar] 미국 최대 ‘채권 ETF’ 7월 성과 분석: SGOV 상승세 주도, AGG 부진\n-\nhttps://buly.kr/6ijfNhy\n- 미국 상위 10대 채권 ETF의 7월 성과 분석 결과, 금리 변동성 국면 속에서 초단기 채권 ETF가 상대적으로 우수한 수익률을 거둔 반면 중기 종합 채권 ETF는 약세를 보임\n- 순자산 988억 달러 규모의 iShares 0-3 Month Treasury Bond ETF(SGOV)가 7월 한 달간 0.33% 상승하며 최고 성과를 기록한 반면, 순자산 1,370억 달러의 iShares Core US Aggregate Bond ETF(AGG)는 1.31% 하락하며 가장 부진\n- 이러한 단기 성과는 각 전략별 특성과 금리 변화에 대한 민감도를 파악하는 유용한 지표로 활용됨\n- 세부 상품별로 살펴보면 Vanguard Total Bond Market Index Fund(BND)와 iShares Core US Aggregate Bond ETF(AGG) 등 중기 코어 채권 펀드들은 금리 상승 압력으로 인해 7월 중 1.2~1.3%대 하락세를 나타냄\n- 글로벌 채권에 투자하는 Vanguard Total International Bond Index Fund(BNDX) 역시 1.14% 하락\n- 반면 Vanguard Short-Term Inflation-Protected Securities Index Fund(VTIP)는 0.16% 오르며 물가 방어 기조 속 플러스 성과를 유지했고, Vanguard Short-Term Bond Index Fund(BSV) 및 Vanguard Short-Term Corporate Bond Index Fund(VCSH) 등 단기 자산군은 -0.09~-0.13% 수준의 제한적인 하락폭에 그침\n- 이러한 성과 격차는 금리 변동성이 확대되는 시장 환경에서 듀레이션이 짧은 초단기 및 단기 채권형 상품의 하방 방어력이 돋보였음을 시사\n- 반면 듀레이션이 긴 중기 종합 채권 자산은 금리 상승 리스크에 직접적으로 노출되며 상대적으로 부진한 흐름을 면치 못함\n- 따라서 결론적으로 채권 ETF 투자 시에는 단순 만기 수익률 외에도 시장 금리 향방과 듀레이션 위험을 고려한 정교한 포트폴리오 조율이 필요할 것으로 판단",
+      "images": [
+        "https://cdn5.telesco.pe/file/HhSwmAINjyY8043IrvCteFGBubhn82H9AZWkaN_27aSjQR82d49nQOj3o1DAHfAsCRV5TsG6mqh9OVJNs6H09d7cniBClBRrsoY5Nfy8-pPD11bkljh_oAhjJXQE-hKZWn8xHDkNsaOFgW2gzSFgJGvRkiFa5ehGOy73nGghbeWh6zyTEyuw4MAe455ZVn1PAgpTLUZa6Pfko3gMd-DK4jBpyY4pIPThvs5hWdVi_MbIujhTHCz-YqbbxhCsU7X8qL5E1BpuHV0f_ZV006q_lSIxKFwQFvcnJynhUjcNTA-LqpaAsnTQ_exrnY0P21zrWJUGWnlcN-6U3vVyL53gng.jpg",
+        "https://cdn5.telesco.pe/file/fkkmdL7wDna4ohZZSRwPHuEAnK7BBlynLTof-LukTzoLZmf8yHp6Taobf2y3-OiDXd5HUJEVNOV3dFqwlIh2wqyhsuarTrHWW6OWnPMoGCklbYeOAVla2MVjw1nBv5NTWSelWBRlsgWqAIsys-sBrtWX-vA6uB0qEVwfxycuALBwMGqXh3xJGDQMDmnNF9f5Zq1k22vjhumunY8TuAlYDg26OTOPC8gMd6s8WXQm40bamIM5p1OUEaLm_CsQBRgPzDZn4MsWjWhsCdN8YM6qIUCQ1IZSq1Ewz3Daqlb87H0qjCIsvC8BDkoW0t645yO8OE0SF_POrxX5Lmj1K_AtIA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-06T22:52:37+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21006",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21006",
+      "text": "하나증권 중국기업분석 백승혜\n캠브리콘(\n688256.CH\n): 올해 실적 최대 변수는 공급망/메모리로 인한 출하 지연\n자료:\nhttps://buly.kr/4xa5Zcq\n◆ 하반기 MLU580/690 대량 양산으로 매출액 급증 기대\n캠브리콘의 2Q26 매출은 30억위안(YoY +70%/QoQ +4%), EPS는 2.1위안(YoY +90%/QoQ +30%)가 예상. 중국 내 AI 가속기 수요가 급증함에 따라 캠브리콘의 분기 매출 규모는 2025년 10억위안대, 2026년 상반기 20~30억위안대로 확대될 전망, 2026년 하반기에는 기존 최상위 제품인 MLU580의 현지 공급망 대량 양산 돌입과 차세대 제품 MLU690의 출시로 분기 매출 규모가 70억위안 이상대로 급증할 전망.\n올해 캠브리콘 실적의 변수가 될 수 있는 부분은 1)현지 공급망의 양산 안정화 여부, 2)메모리 수급 제약 등으로 판단. 현재 MLU580/590 출하가 모두 예상보다 느리게 진행 중인 것으로 파악되어 올해 확보한 대규모 수주의 매출 전환 속도가 시장의 기대보다 더딜 가능성.\n◆ 중국 AI 반도체 경쟁은 개별 칩 성능에서 시스템 단위로 이동\n중국의 AI 가속기 시장 경쟁은 개별 칩 성능에서 시스템 단위 성능으로 이동하고 있으며, 강력한 시스템 설계, 전력 인프라, 정책 지원 등을 기반으로 중국 AI 칩 국산화율을 높이는 데 지속적으로 기여할 전망. 중국 AI 반도체는 개별 칩 기준으로 미국보다 약 2세대 뒤처져 있지만 멀티다이 설계, 첨단 패키징, 랙 스케일 시스템 아키텍처, 광 네트워킹, SW/HW 공동 최적화를 통해 실질적인 성능 격차를 좁히고 있음.\nAI 수요가 추론과 가동률 중심으로 전환되고 있기 때문에 최고 성능의 칩보다 비용 효율성, 제품 접근성이 좋은 AI 칩 공급업체가 중국 CSP 등 주요 고객사들로부터 선택을 받고 있음. 중국의 AI 반도체는 현재 수입 가능한 엔비디아 제품(H200/H20)보다 총소유비용이 30~50% 수준으로 상당히 낮지만 추론 워크로드에서 대체로 유사한 수준의 토큰당 비용을 달성할 수 있는 것으로 추정. 중국의 AI 칩 국산화율은 2025년 약 41%에서 2030년 70~80% 수준으로 빠르게 상승할 것으로 전망.\n*텔레그램 채널:\nhttps://t.me/hanaglobalbottomup\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-06T22:52:10+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21005",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21005",
+      "text": "[하나 글로벌 기업분석 데일리 뉴스]\n8/7 하나증권 김재임/송종원\nTesla·SpaceX, 텍사스 ‘Terafab’ 반도체 공장에 168억달러 투자\n-양사가 수개월간의 관측 끝에 대규모 반도체 프로젝트를 공식화함\n-공장은 휴스턴 북쪽 지역에 건설될 예정임\n-Tesla와 SpaceX가 공동으로 사업 자금을 투입함\nhttps://tinyurl.com/292h672w\nOpenAI, Apple 영업비밀 소송서 보안 관행 반박\n-새로 제출된 법원 증거물에 OpenAI의 법적 대응 전략이 드러남\n-Apple의 보안·퇴사자 관리 방식이 정보 보호 주장을 약화한다고 주장함\n-Apple 관리자가 퇴사한 엔지니어의 iCloud 계정에 접근하도록 허용한 사례가 포함됨\nhttps://tinyurl.com/2xk64wtg\nApple, 보상판매 금액 인상·Android 기기 추가\n-iPhone과 iPad, Mac, Apple Watch 등의 보상판매 가격을 높임\n-일부 기기는 기존보다 100달러 이상 높은 금액을 받을 수 있게 됨\n-Mac Studio의 보상판매 금액은 260달러 올라 가장 큰 인상폭을 기록함\nhttps://tinyurl.com/2bot6u8v\nSpaceX, IPO 후 첫 보호예수 해제로 주가 압박 가능성\n-내부자 보유 주식의 첫 번째 물량이 거래 가능 상태로 전환됨\n-초기 투자자들이 보유 지분을 현금화할 수 있게 됨\n-시장에 매도 물량이 늘어나 주가가 하방 압력을 받을 수 있음\nhttps://tinyurl.com/2bhuy844\nOpenAI, 300달러 이상 도넛형 AI 기기 개발\n-전 Apple 디자이너 Jony Ive와 화면 없는 스마트 스피커 형태의 기기를 개발 중임\n-배터리로 작동하며 하키 퍽 크기와 유사한 것으로 전해짐\n-움직이는 부품을 갖추고 2027년 출시될 것으로 예상됨\nhttps://tinyurl.com/26kzx6af\nChatGPT 무료·Go 이용자 무제한 텍스트 대화 제공\n-현재 적용되는 텍스트 대화 횟수 제한을 없앨 예정임\n-복잡한 질의를 처리하기 위한 새로운 ‘think’ 버튼도 제공함\n-변경 사항은 다음 주부터 적용될 예정임\nhttps://tinyurl.com/25q3te6o\nTikTok, 직원 250명 감원·내슈빌 사무소 폐쇄\n-소셜미디어 사업 조직에서 250명을 해고함\n-내슈빌에 운영하던 사무소를 폐쇄함\n-해당 사무소에는 콘텐츠 검수팀 일부가 근무하고 있었음\nhttps://tinyurl.com/24qeqzwj\nSoftBank, 트럼프 도서관에 5천만달러 기부\n-SoftBank가 1월 트럼프 대통령 도서관에 자금을 제공함\n-수개월 뒤 오하이오 데이터센터 건설을 위한 연방정부 토지 임차를 발표함\n-기부 시점은 미국 의원들의 질의에 대한 회사 답변에서 드러남\nhttps://tinyurl.com/28l3a6n4\nAMD, AI 반도체 스타트업 Taalas 인수\n-Taalas의 기술을 활용해 데이터센터용 AI 칩 제품군을 확장할 계획임\n-현재 칩은 Meta의 Llama 3.1 소형 버전을 실리콘에 직접 구현함\n-더 크고 고도화된 AI 모델용 칩도 개발하고 있음\nhttps://tinyurl.com/2bp3zbep\nGoogle, 금융사 직원 노린 전화 해킹·갈취 공격 경고\n-해커 집단이 미국 대형 금융회사 직원을 전화로 속여 내부망에 침투함\n-민감한 데이터를 훔친 뒤 피해자를 상대로 금전을 요구함\n-최근 공격에서는 헤지펀드가 주요 표적이 됨\nhttps://tinyurl.com/2cwa6f5r\nNintendo 1분기 실적 예상 상회\n-회계연도 1분기 매출과 이익이 시장 전망치를 웃돎\n-Switch 2 판매는 부진한 흐름을 보임\n-판매 둔화에도 전체 분기 실적은 예상보다 양호했음\nhttps://tinyurl.com/24dnw3am\nCloudflare, 연간 이익 전망 상향\n-새 연간 이익 전망치가 Wall Street의 예상을 웃돎\n-AI의 빠른 도입으로 네트워크 서비스 수요가 가속하고 있음\n-수요 확대가 수익성 전망 개선으로 이어짐\nhttps://tinyurl.com/26su9f4f\nLyft, 프리미엄 승차 수요로 2분기 예약액 예상 상회\n-유럽 시장의 강세도 예약액 증가에 기여함\n-순이익은 시장 전망치를 밑돎\n-예약 성과와 수익성 지표가 엇갈린 결과를 보임\nhttps://tinyurl.com/25jyjcjw\nSnowflake 고객 165곳 해킹한 피고인 유죄 인정\n-Connor Moucka가 고객사 데이터를 훔친 혐의를 인정함\n-피해를 본 Snowflake 고객은 165곳을 넘음\n-공범들과 함께 받은 몸값은 250만달러를 초과함\nhttps://tinyurl.com/2dj2vquz\nGrindr, AI 투자로 생산성·구독 성장 개선\n-AI 도입이 엔지니어링 업무 생산성을 높이고 있음\n-월 350달러의 신규 프리미엄 요금제를 지원함\n-가입자 증가와 유지율도 강화되고 있음\nhttps://tinyurl.com/2ca3n5h5\n미국 공화당 의원들, 한국 ‘가짜뉴스법’ 검열 우려\n-하원 법사위원회 소속 공화당 의원들이 한국 규제기관에 서한을 보냄\n-새 법률이 표현의 자유를 제한할 가능성을 제기함\n-Jim Jordan 의원 등이 목요일 문제를 공식 제기함\nhttps://tinyurl.com/2a4r3u4t\n미국 ‘AI 킬 스위치’ 법안 연내 처리 촉구\n-Ted Lieu 의원이 통제에서 벗어난 AI 에이전트 해킹에 대응할 법안이 필요하다고 주장함\n-Anthropic과 Meta, OpenAI 모델이 보안 시험 중 다른 기업을 해킹한 사례가 있었음\n-AI 시스템을 긴급 중단할 제도적 장치 마련이 쟁점임\nhttps://tinyurl.com/25yohvhc\n미국 ‘데이터센터 권리장전’ 법안 추진\n-Ro Khanna 의원이 AI 발전소와 데이터센터 갈등에 대응할 법안을 발의할 예정임\n-전력 사용과 지역사회 영향이 정치적 쟁점으로 부상함\n-Abdul El-Sayed는 주·지방정부 차원의 데이터센터 건설 유예를 지지함\nhttps://tinyurl.com/2xt8auq4",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-06T22:52:01+00:00"
+    },
+    {
+      "id": "tg:EMchina/32174",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32174",
+      "text": "미국은 폴리실리콘 관세 부과 유예 고려  https://www.bloomberg.com/news/articles/2026-08-06/us-considers-delaying-collection-of-planned-polysilicon-tariffs",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-06T21:09:23+00:00"
+    },
+    {
+      "id": "tg:EMchina/32173",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32173",
+      "text": "~ 레드노트가 데이터센터 부지로 선택한 내몽골 자치구 울란캅은 대규모 풍력 및 신재생에너지 자원을 보유하고 있어 전기 요금이 매우 저렴한 지역이다. 방대한 데이터 처리와 전력 소비를 동반하는 AI 워크로드 처리에 최적화된 입지로 평가받는다  ~ 또한, 지푸 AI(Zhipu AI) 역시 순수 중국산 칩으로 구동되는 1기가와트(GW) 규모의 AI 컴퓨팅 센터를 구축해 자체 GLM 모델 훈련에 투입하는 등 울란캅이 중국의 새로운 'AI 토큰 공장'으로 거듭나고…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-06T21:07:14+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19566",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19566",
+      "text": "트럼프: \"이란과의 협상에 관여하고 있으며, 조만간 합의가 이뤄질 수도 있다.\"",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-06T20:41:28+00:00"
+    },
+    {
+      "id": "x:GoogleAI:2085460535932232002",
+      "source": "x",
+      "author": "GoogleAI",
+      "author_name": "Google AI(구글 AI)",
+      "author_url": "https://x.com/GoogleAI",
+      "url": "https://x.com/GoogleAI/status/2085460535932232002",
+      "text": "R to @GoogleDeepMind: Humanoid legs or wheeled rovers? Should robots be cracking eggs? Watch as the @GoogleDeepMind team behind Gemini Robotics 2 shares their behind-the-scenes insights and stories ↓",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2085460081970233345/img/jxTQ59enSj__H1KN.jpg"
+      ],
+      "summary_ko": "R에서 @GoogleDeepMind로: 인간형 다리 또는 바퀴 달린 로버? 로봇이 계란을 깨야 할까요? Gemini Robotics 2를 만든 @GoogleDeepMind 팀이 비하인드 스토리와 통찰력을 공유하는 모습을 시청하세요 ↓",
+      "published_at": "2026-08-06T20:18:32+00:00"
+    },
+    {
+      "id": "tg:EMchina/32172",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32172",
+      "text": "다시 FOMO. S&P500 상승 베팅 & 콜옵션 거래량 사상 최고치 경신\n• 화요일 S&P500 콜옵션 거래량 400만계약 돌파 & 사상 최고치 기록. 콜/풋 비율은 최근 15년간 세 번째로 높은 수준에 도달\n• FOMO 심리가 시장 주도. 4000만달러 규모의 공격적인 베팅으로 다음 날 2300만 달러가 넘는 평가이익 기록\n• UBS는 실적 시즌 예상치 상회 & 동일가중지수 신고가 경신 등 강세장이 AI 넘어 확산 중으로 평가. 연말 목표주가 8100포인트로 제시. 이익 성장이 아직 밸류에이션에 완전히 반영되지 않았다는 의견\nFOMO情绪重燃，投资者争相押注标普500继续上涨，看涨期权成交量创历史新高\n标普500看涨期权成交量周二突破400万张，创历史新高，看涨/看跌比率触及近15年第三高。FOMO情绪主导市场，一笔4000万美元的激进押注隔日浮盈逾2300万美元。财报季持续超预期、等权重指数屡创新高显示牛市扩散至AI以外，瑞银年底目标价8100点，称\"盈利增长尚未完全计入估值\"。\nhttps://wallstreetcn.com/articles/3778875#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-06T20:18:11+00:00"
+    },
+    {
+      "id": "tg:EMchina/32171",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32171",
+      "text": "사우디는 미국에 이란 총공격 우려 표명  ========================  ~ 미 인터넷매체 악시오스, AP 통신 등에 따르면 빈살만 왕세자는 이날 트럼프 대통령과 통화에서 대이란 공격에 우려를 나타내며 갈등 완화와 공습 자제를 촉구했다고 소식통들이 전했다  https://n.news.naver.com/article/001/0016228998?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-06T20:08:41+00:00"
+    },
+    {
+      "id": "x:sama:2085454964814753990",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2085454964814753990",
+      "text": "5.6 Sol much better in chat now and unlimited text chat for free users!",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2085433949489377280/img/4uce3Ngds5vczB6t.jpg"
+      ],
+      "summary_ko": "5.6 Sol 이제 채팅이 훨씬 더 좋아지고 무료 사용자에게는 무제한 문자 채팅이 제공됩니다!",
+      "published_at": "2026-08-06T19:56:24+00:00"
+    },
+    {
+      "id": "tg:EMchina/32170",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32170",
+      "text": "엔비디아, 루빈 울트라, HBM 사양조정  =======================  ~ TrendForce: DRAM Supply Shortage to Persist Through 2027… NVIDIA Considering Downgrading Rubin Ultra's HBM Configuration  https://x.com/jukan05/status/2084536701532451009",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-06T19:17:46+00:00"
+    },
+    {
+      "id": "tg:EMchina/32169",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32169",
+      "text": "반도체·태양광 원료에 15%+α 관세+최저가격  \"中 의존 줄이기\" 태양광 웨이퍼·모듈까지 적용  https://n.news.naver.com/article/421/0009099577?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-06T18:54:06+00:00"
+    },
+    {
+      "id": "x:ylecun:2085435939573088263",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2085435939573088263",
+      "text": "RT by @ylecun: Over 5 million low-income Americans — including at least 1.5 million children — have lost access to food assistance due to Trump's SNAP cuts last year. Most of the hardest hit states are traditionally Republican, resulting in growing hunger crises in states like Arizona.",
+      "images": [
+        "https://pbs.twimg.com/media/HPD032XXsAAXaPN.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 최소 150만 명의 어린이를 포함하여 500만 명 이상의 저소득층 미국인이 작년 트럼프의 SNAP 삭감으로 인해 식량 지원을 받을 수 없게 되었습니다. 가장 큰 피해를 입은 주 대부분은 전통적으로 공화당원이므로 애리조나와 같은 주에서는 기아 위기가 증가하고 있습니다.",
+      "published_at": "2026-08-06T18:40:48+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21004",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21004",
+      "text": "🔹\nAlphabet, AI 투자 확대 위해 최대 250억달러 규모의 회사채 발행 추진\n» Alphabet이 최대 250억달러 규모의 회사채 발행 추진. 최근 AI 관련 회사채 투자심리가 둔화된 가운데 시장 수요를 확인해보는 성격의 딜이 될 전망\n» Alphabet은 올해 2월 200억달러 회사채 발행에 이어 스위스프랑·유로·파운드·캐나다달러·엔화 표시 채권까지 포함해 2026년 상반기에만 500억달러 이상의 부채를 조달. 같은 기간 약 850억달러 규모의 주식도 발행\n» 만기 2~40년, 최대 10개 트랜치로 구성되며, 장기물은 미 국채 대비 약 155bp, 기존 Alphabet 채권 대비 최대 40bp 높은 스프레드를 제시\n» 금번 발행은 Alphabet이 2026년 CapEx 전망을 최대 2,050억달러로 상향 조정한 이후 진행되는 것으로, AI 데이터센터 및 인프라 투자 확대를 위한 자금 조달 목적이 핵심\n» 대규모 설비투자 영향으로 Alphabet은 2004년 상장 이후 처음으로 분기 잉여현금흐름(FCF)이 마이너스로 전환. AI 투자 수익성에 대한 시장의 관심이 높아진 상황\n» 최근 AI 관련 회사채 시장의 투자심리가 훼손. 메타 데이터센터 프로젝트 연계 125억달러 채권 발행은 초기 수요가 부진했고, Amazon과 SpaceX가 발행한 회사채도 유통시장에서 스프레드가 확대\n» 시장에서는 이번 Alphabet의 회사채 발행 결과가 AI 인프라 투자에 대한 자금 조달 여건과 심리, 향후 빅테크 기업들의 채권 발행 환경을 가늠하는 중요한 지표가 될 것으로 평가\n» BofA, Citi, Wells Fargo, Goldman Sachs, JPMorgan, Morgan Stanley 등이 공동 주관 예정\nAlphabet Lures Investors to Mega Bond Deal With High Premiums\nhttps://www.bloomberg.com/news/articles/2026-08-06/alphabet-returns-to-bond-market-amid-ai-spending-worries",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-06T18:38:57+00:00"
+    },
+    {
+      "id": "x:OpenAI:2085434718393418101",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2085434718393418101",
+      "text": "R to @OpenAI: Plus and Pro users can access the updated version of GPT‑5.6 Sol in ChatGPT along with the new slider starting today. This version of GPT-5.6 Sol is for everyday chats, so it will only be available in the Chat experience in ChatGPT. The version of GPT-5.6 Sol that powers Work and Codex is not changing as part of this release. https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2085411403020795904/h1IYDL57?format=jpg&name=800x419"
+      ],
+      "summary_ko": "R에서 @OpenAI로: Plus 및 Pro 사용자는 오늘부터 새로운 슬라이더와 함께 ChatGPT에서 GPT‑5.6 Sol의 업데이트된 버전에 액세스할 수 있습니다. 이 GPT-5.6 Sol 버전은 일상적인 채팅용이므로 ChatGPT의 채팅 환경에서만 사용할 수 있습니다. Work 및 Codex를 지원하는 GPT-5.6 Sol 버전은 이번 릴리스의 일부로 변경되지 않습니다. https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
+      "published_at": "2026-08-06T18:35:57+00:00"
+    },
+    {
+      "id": "x:OpenAI:2085434717051240642",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2085434717051240642",
+      "text": "R to @OpenAI: In addition to the upgrade in intelligence with GPT-5.6 Luna, Free and Go users can now use the “Think” button for more reasoning on harder questions.",
+      "images": [],
+      "summary_ko": "R에서 @OpenAI로: GPT-5.6 Luna를 사용한 인텔리전스 업그레이드 외에도 이제 Free 및 Go 사용자는 \"생각\" 버튼을 사용하여 더 어려운 질문에 대해 더 많은 추론을 할 수 있습니다.",
+      "published_at": "2026-08-06T18:35:56+00:00"
+    },
+    {
+      "id": "x:OpenAI:2085434715675426889",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2085434715675426889",
+      "text": "R to @OpenAI: Plus and Pro users also now have a slider to choose how much reasoning effort ChatGPT puts into each response. We think it’s easier to use, and we’re listening to your feedback.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2085420902448267264/img/NjCfofTPUe8EsYHR.jpg"
+      ],
+      "summary_ko": "R에서 @OpenAI로: 이제 Plus 및 Pro 사용자에게는 ChatGPT가 각 응답에 얼마나 많은 추론 노력을 쏟는지 선택할 수 있는 슬라이더가 있습니다. 우리는 이것이 사용하기 더 쉽다고 생각하며 여러분의 피드백을 듣고 있습니다.",
+      "published_at": "2026-08-06T18:35:56+00:00"
+    },
+    {
+      "id": "x:OpenAI:2085434713821565297",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2085434713821565297",
+      "text": "R to @OpenAI: The new GPT-5.6 Sol powers all chats for paid users, including Instant, creating one consistent experience. In our high-stakes factuality evaluation covering finance, medicine and law, the new GPT‑5.6 Sol produced 68% fewer responses with factual errors than GPT‑5.5 Instant.",
+      "images": [
+        "https://pbs.twimg.com/media/HPDm8hLagAAF-C_.jpg"
+      ],
+      "summary_ko": "R에서 @OpenAI로: 새로운 GPT-5.6 Sol은 Instant를 포함하여 유료 사용자를 위한 모든 채팅을 지원하여 하나의 일관된 경험을 제공합니다. 금융, 의학, 법률을 다루는 우리의 고위험 사실성 평가에서 새로운 GPT-5.6 Sol은 GPT-5.5 Instant보다 사실 오류가 있는 응답을 68% 더 적게 생성했습니다.",
+      "published_at": "2026-08-06T18:35:55+00:00"
+    },
+    {
+      "id": "x:OpenAI:2085434712429052386",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2085434712429052386",
+      "text": "We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus & Pro users, delivering more factual, focused responses. - Free & Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2085433949489377280/img/4uce3Ngds5vczB6t.jpg"
+      ],
+      "summary_ko": "ChatGPT에서 모든 사람이 더 쉽게 액세스할 수 있는 더 나은 정보를 만들고 있습니다. - GPT-5.6 Sol은 이제 Plus 및 Pro 사용자를 위한 즉각적이고 심층적인 추론을 모두 지원하여 더욱 사실적이고 집중된 응답을 제공합니다. - Free & Go 사용자는 내일부터 GPT-5.6 Luna를 사용하여 무제한 문자 채팅을 이용할 수 있습니다.",
+      "published_at": "2026-08-06T18:35:55+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21003",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21003",
+      "text": "🔹\nSpaceX 첫 락업 해제, 단기 수급 부담 확대 요인\n» 8월 6일부터 IPO 이후 첫 락업(lock-up) 기간 종료로 초기 투자자들의 매도가 가능해지며 단기 수급 부담 확대 가능성\n» 이번에 거래가 가능해지는 물량은약 9억 1,100만주(전체 발행주식의 약 7%)로, IPO 당시 유통된 6억3,900만 주를 상회하는 규모\n» 첫 실적 발표에서 CapEx가 매출의 2배를 상회한 것으로 나타나며 투자 부담이 부각된 가운데, 락업 해제까지 겹치며 주가 압박 요인으로 작용\n» 시장에서는 단기적으로 기업의 펀더멘털보다 락업 해제에 따른 공급 증가가 주가 흐름에 더 큰 영향을 줄 가능성에 주목. 물론 매도가 가능해진 물량이 모두 실제 시장에 쏟아지는 것은 아니며, 매도 가능 물량과 실제 매도 물량은 구분해야 한다는 의견도 공존\n» 추가 락업 해제 일정도 예정되어 있는 상황. 8월 20일 약 3억1,900만 주, 9월 약 7억 주, 10월에 7억 주 가량이 순차적으로 풀릴 예정\n» 최대주주인 일론 머스크는 60억 주 이상의 지분을 보유하고 있으나, 2027년 6월까지 락업이 유지\n» SpaceX는 올해 xAI와의 합병을 완료. IPO 이전에는 Cursor 인수를 추진하는 등 AI 및 소프트웨어 생태계 확장을 지속. 단기적으로는 실적보다 수급 이슈가 주가의 변수로 작용할 가능성이 높다는 평가\nSpaceX stock could face further pressure as first batch of shares unlock since IPO\nhttps://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html?__source=androidappshare",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-06T16:52:29+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2085395452657049735",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2085395452657049735",
+      "text": "R to @GoogleDeepMind: We’re open sourcing the code and model weights on @Github, making them freely available for anyone to build on. This could be for academic purposes, operational forecasting, or developing more specialized, localized models. Explore the research → https://goo.gle/3RRTSOo",
+      "images": [
+        "https://pbs.twimg.com/card_img/2085383853179584512/hv0LwXW6?format=jpg&name=800x419"
+      ],
+      "summary_ko": "R에서 @GoogleDeepMind로: 우리는 @Github에서 코드와 모델 가중치를 오픈 소스화하여 누구나 자유롭게 구축할 수 있도록 하고 있습니다. 이는 학문적 목적, 운영 예측 또는 보다 전문적이고 지역화된 모델 개발을 위한 것일 수 있습니다. 연구 살펴보기 → https://goo.gle/3RRTSOo",
+      "published_at": "2026-08-06T15:59:55+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2085395450656428306",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2085395450656428306",
+      "text": "R to @GoogleDeepMind: During Hurricane Melissa, WeatherNext gave forecasters early predictions of its Category 5 landfall 5 days in advance with 80% confidence. This year, we’re providing 1,000 probabilistic predictions per storm to support forecasters, now accessible via WeatherLab → https://goo.gle/4yXzyf6",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2085395185458905088/img/Xnb6Vah6GeqOTeMC.jpg"
+      ],
+      "summary_ko": "R에서 @GoogleDeepMind로: 허리케인 멜리사가 발생하는 동안 WeatherNext는 80% 신뢰도로 5일 전에 카테고리 5 상륙에 대한 조기 예측을 예보관에게 제공했습니다. 올해 우리는 예보관을 지원하기 위해 폭풍당 1,000개의 확률적 예측을 제공할 예정이며, 이제 WeatherLab을 통해 액세스할 수 있습니다 → https://goo.gle/4yXzyf6",
+      "published_at": "2026-08-06T15:59:54+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2085395442347524506",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2085395442347524506",
+      "text": "Predicting cyclones accurately can help save lives - and every hour of lead time counts. Published in @Nature, our AI model WeatherNext achieves state-of-the-art accuracy in forecasting a storm’s track and intensity, giving us a critical extra 24 hours to prepare on average. 🧵",
+      "images": [
+        "https://pbs.twimg.com/media/HPDPoMdXEAAPAl_.jpg"
+      ],
+      "summary_ko": "사이클론을 정확하게 예측하면 생명을 구하는 데 도움이 될 수 있으며 리드 타임의 매 시간이 중요합니다. @Nature에 게시된 AI 모델 WeatherNext는 폭풍의 경로와 강도를 예측하는 데 있어 최첨단 정확도를 달성하여 평균적으로 대비할 수 있는 중요한 추가 시간을 24시간 제공합니다. 🧵",
+      "published_at": "2026-08-06T15:59:52+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24424",
       "source": "telegram",
@@ -298,32 +715,6 @@
       "published_at": "2026-08-06T12:22:35+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24414",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24414",
-      "text": "*ALPHABET SEEKS TO RAISE AS MUCH AS $25 BILLION FROM BOND SALE (@WalterBloomberg)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T12:21:28+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24413",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24413",
-      "text": "BofA) 팔란티어(PLTR); Das Karpital: 토큰 이코노미에 대한 비판\n투자의견 매수 유지 | 목표주가 255달러 | 현재주가 125.65달러\n2026년 8월 4일 / 애널리스트 Mariana Perez Mora 외\nBofA는 팔란티어의 실적 개선을 고객의 성과를 극대화하는 인프라 제공에 집중한 AI 전략이 성공한 결과로 평가하며 매수 의견과 목표주가 255달러를 유지했습니다. FDE(전진 배치 엔지니어)와 온톨로지가 여러 소프트웨어 업체로 확산되고 있지만, 팔란티어의 차별점은 고객과의 깊은 파트너십에서 출발해 측정 가능한 성과와 창출된 가치에 기반해 가격을 책정하는 방식까지 확장된다는 점에 있다고 봤습니다. 카프 CEO는 주주서한에서 프런티어 랩과 여타 소프트웨어 기업들이 통상 채택하는 토큰 소비 기반 과금 모델과 대비해 자사 사업 관행에 마르크스주의적 색채가 있다고까지 언급한 바 있습니다.\n소버린 AI 측면에서는 기업들이 원천 데이터와 축적되는 지능에 대한 소유권을 유지하면서 제3자 모델 제공업체에 기관 지식을 넘기지 않으려는 수요가 커지고 있다는 점을 짚었습니다. 팔란티어는 국가안보와 고규제 임무 영역에서 쌓은 수십 년의 경험을 바탕으로 조직의 디지털 트윈, 세분화된 권한 관리, 감사 추적성, 사이버보안, 되돌릴 수 있는 워크플로, 그리고 기관 지식을 축적해 복리로 키우는 컨텍스트 플라이휠이라는 통제 계층을 제공한다는 설명입니다. 기업이 자체 모델 가중치를 보유하고 모호한 벤치마크가 아닌 실제 사용 사례에 맞춰 모델을 최적화하면 보안과 유연성을 유지하면서 AI 구현의 효율을 높일 수 있다고 봤습니다.\n2분기 실적은 매출이 전년 대비 93% 증가하며 사상 최고 성장률을 기록했고, 미국 상업 부문이 149% 증가(전분기 대비 28%)하며 성장을 견인했습니다. 미국 상업 부문 비중은 전체의 약 40%로 올라섰으며(1년 전 30%, 2년 전 20%), 미국 상업 TCV는 21억 달러로 달러 가중 듀레이션 기준 271% 증가했습니다. 고객당 TTM 평균 지출은 350만 달러로 전년 200만 달러 대비 76% 늘었고 1분기 290만 달러 대비 18% 증가했으며, 고객 수는 653개로 35% 늘었습니다(전체 상업 고객은 26% 증가한 870개). 500만 달러 초과 계약은 48%, 1000만 달러 초과 계약은 74% 증가했고, TTM 기준 미국 상업 TCV는 60억 달러, 2분기 수주잔고 대비 매출 비율은 2.8배였습니다.\n미국 정부 부문도 90% 증가(전분기 대비 18%)했습니다. 메이븐은 합동군 전반에 2만 5000명 이상의 빌더로 확대되고 있으며, 6월 말 미 육군은 제4·제25보병사단과의 10개월 운용 평가를 거쳐 NGC2의 공통 데이터 베이스라인 주관사로 록히드마틴 대신 안두릴을 선정했습니다. 안두릴 팀의 일원으로 팔란티어 파운드리가 클라우드 데이터 계층을 담당하게 됩니다. 국토안보부와 FDA에서도 주요 수주가 있었습니다.\n추정치는 상업과 정부 양쪽의 강한 성장을 반영해 상향됐습니다. 매출은 2026년 84억 달러(기존 78억 달러), 2027년 127억 달러(기존 112억 달러), 2028년 172억 달러(기존 152억 달러)로, EPS는 2026년 1.65달러(기존 1.47달러), 2027년 2.34달러(기존 1.97달러), 2028년 3.13달러(기존 2.62달러)로 조정됐습니다. 다만 목표주가는 255달러로 유지됐는데, 2035년 예상 EBITDA가 518억 달러로 상향(기존 475억 달러, 그 이전 446억 달러)된 효과가 AI 관련주 전반의 밸류에이션 디레이팅으로 상쇄됐기 때문입니다. 목표주가는 2035년 추정치에 EV/EBITDA 13배를 적용한 것으로, 배수는 기존 14배에서 낮아졌습니다. 2027년 추정 기준 EV/Sales/Growth는 0.6배(기존 0.8배), EV/FCF/G는 0.9배(기존 1.7배)입니다.\n엔비디아와 공동 개발한 소버린 AI 운영 환경은 팔란티어의 기술 스택에 엔비디아의 가속 컴퓨팅, 네트워킹, 오픈 웨이트 네모트론 모델을 결합한 것으로, 온프레미스와 에어갭, 엣지, 소버린 클라우드 환경에서 구동 가능한 완전한 AI 운영체제를 제공합니다. 고객은 데이터와 모델, 산출된 지식재산에 대한 통제권을 유지하면서 AI를 학습·커스터마이즈·운영할 수 있습니다. 팔란티어는 네모트론 울트라 활용 첫 24시간 만에 표준 모델을 커스터마이즈한 것이 프런티어 도구를 능가하는 사례들을 확인했다고 밝혔으며, 이는 토큰 사용량 극대화가 아니라 특정 용도에 맞춰 모델과 가중치를 조율하는 데 팔란티어의 효용이 있음을 보여준다는 평가입니다.\n아폴로의 부활도 주목했습니다. 정부와 상업 고객 모두 민첩한 배포 계층을 찾으면서 새로운 활용처가 생겼고, 특히 국방부의 NGC2 현대화 프로그램 내에서 입지를 넓히고 있습니다. 최신 프런티어 모델들이 사이버 취약점을 식별하고 악용하는 능력으로 주목받는 상황에서, 고객이 자사 취약점을 직접 식별하고 선제 대응할 수 있게 해주는 아폴로에 대한 수요가 늘었다는 설명입니다.\n유럽 주권 이슈는 양면적입니다. 우크라이나 사태 이후 유럽 국가들이 안보 분야의 미국 기술 의존도를 낮추려는 흐름 속에서, 친미 성향을 분명히 해온 팔란티어는 정치적 역학에 휘말려 있습니다. 세바스티앵 르코르뉘 프랑스 총리는 전략적 종속을 피하기 위해 국내정보총국(DGSI)이 팔란티어를 자국 솔루션으로 대체할 것이라고 발표했고, 영국 NHS FPD 프로그램 확산에도 유사한 압력이 이어지고 있습니다. 반면 NATO의 메이븐 스마트 시스템(MSS)은 6월 말 완전 기술 운용 능력을 확보했으며, 보안인증위원회가 NATO 기밀망에서 훈련과 임무, 활동에 MSS를 운용할 수 있도록 완전 인증을 부여했습니다. 이는 연합작전사령부 예하 전 사령부로의 확대 적용 기반이 됩니다. MSS는 제3자 자국 솔루션과 상호운용이 가능하며 프랑스, 독일, 핀란드, 영국 기업들이 통합됐고 프랑스 미스트랄 AI와 메타의 모델도 지원합니다.\n목표주가의 하방 리스크는 AI 플랫폼 시장 성장 둔화, 예상보다 빠른 범용화, 경쟁사의 기술 추격 성공, 정부 고객의 상용 기성품 솔루션 사용에 대한 저항 확대입니다. 상방 리스크는 AI 플랫폼 시장의 예상 이상 성장, 팔란티어의 침투율 확대, 수익성 개선, 성공적인 제휴와 투자입니다.\n*Das Karpital은 Das Kapital의 말장난으로, Das Kapital은 마르크스가 작성한 자본론이란 책의 제목입니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/vfcK857B0_pXaRwGbOgv9t0cIOFFLP4dE8awx8FmYUPjcdtZPKjDeO0YIfKoY9tw6sY7w4hTqve9oj9QyNNLmmwmXuW0WGbkNAGseFvOdfdC2YoPGCQVpA5YVNNn3IoMHsWbCNbIbWyQ01J7DNhyuswYxhKqcPNNS5ufDgEkJfh4aYTnMd-yXovjJIaI1LHdTUCkFClXxXDKrRedJZhCDHhPHvj9bTFoP8dfd2DsL-TFuSHdtnjWdC_5XAXoBFB079vVXF7TYZVmzTm7Ofcqqn_UX_UZrGnxhQ0eKdFYmD908LvbTNk0swqSjyXKJS8fsj8YaRZYuP1TQmDyPrvhEQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-06T12:18:50+00:00"
-    },
-    {
       "id": "tg:bornlupin/19564",
       "source": "telegram",
       "author": "bornlupin",
@@ -351,68 +742,6 @@
       "published_at": "2026-08-06T11:53:21+00:00"
     },
     {
-      "id": "tg:EMchina/32163",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32163",
-      "text": "유니트리: 공모 주식수 4044.6434만주로 상장 후 총 주식수의 10% 규모. 8/5 수요예측 & 8/10 오프라인 청약 예정  宇树科技(688836.SH)公告称，公司首次公开发行股票并在科创板上市，本次发行采用战略配售、网下发行与网上发行相结合的方式进行。本次拟公开发行股份4044.6434万股，占发行后总股本的10%，发行后总股本为40446.4340万股。初步询价日为2026年8月5日，网下申购日为2026年8月10日。公司存在特别表决权机制安排，实际控制人王兴兴在表决权差异安…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T11:33:46+00:00"
-    },
-    {
-      "id": "tg:EMchina/32162",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32162",
-      "text": "오늘 주가 궁금  =======================  ~ 팀 쿡 애플 최고경영자(CEO)가 30일(현지 시간) 실적발표 콘퍼런스콜에서 메모리 가격 부담과 관련해 “D램 공급사가 지금의 세 곳보다 늘어나면 도움이 될 것”이라고 말했다. 이 발언을 두고 반도체 업계에서는 애플이 중국 창신메모리(CXMT)를 제4의 공급사로 염두에 둔 것이라는 해석이 나온다. 이에 미국 정치권은 애플에 중국 메모리를 쓰면 안 된다며 압박을 가하고 있다  https:/…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T11:01:53+00:00"
-    },
-    {
-      "id": "tg:EMchina/32161",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32161",
-      "text": "중국, 팔로알토, 사이버보안\nhttps://www.bloomberg.com/news/articles/2026-08-06/china-launches-cybersecurity-review-into-palo-alto-networks",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T09:38:24+00:00"
-    },
-    {
-      "id": "tg:EMchina/32160",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32160",
-      "text": "[한투증권 중국/신흥국 정정영]  • 8월: 방향 전환에서 가속화로  >>  8월 월보를 작성했습니다. 전세계 하드웨어 테크 주식이 큰 변동성을 보인 가운데, 중국도 관련 업종 중심으로 조정이 컸습니다. 중국은 주식시장 하방 압력에 대응해 국가대표 자금을 투입하며 부양 의지를 드러냈고, 동시에 7월 정치국회의를 통해 하반기 거시정책 강화를 시사했습니다. 연초 이후 약해진 경제 회복 탄력을 끌어올릴 의지를 보여준 중국 정부는 상반기 상대적으로 보수적이었던…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T09:36:27+00:00"
-    },
-    {
-      "id": "tg:EMchina/32159",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32159",
-      "text": "CXMT 추이  1일차 +465.82% 음봉 2일차 -4.08% 양봉 3일차 +12.66% 양봉 4일차 -0.15% 양봉 5일차 +2.08% 음봉  8/3부터 상하한 20% 적용  6일차 +1.89% 양봉 7일차 +0.02% 양봉 8일차 -1.27% 음봉",
-      "images": [
-        "https://cdn5.telesco.pe/file/vcP4lVmsz1Rwh_7XhhMKW2yVkpyE_VPBq2rG2eZo-ovQKq6w4HTtwuVS0mFCiD_n_f6RqJ4VziQXnmtHgbQk_xkV103p6-8-nGBsIidR9VZXi16zlp08FaaXoh3cFvjyjolQQxZX1kZswAtdB4IHMWl_5P11tXZH6nfPtqOumMRGCWlVaIof1qw-HDQZbI9VfSdQ2vz65dkMbAvSpEHSfEZNxf2EY7EX5Oq_VSFAgd4T87C4vSI-T9LPPxTeGDAiE0zjVD-OIKfzi2sUOMnr3mxEDQsgLPtIxuA7HG_MsfczJcWC4_ZtMlIhGMZh8ylL-6CZUFSwZ59EaXEeVMPDKw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-06T07:38:52+00:00"
-    },
-    {
       "id": "tg:enc210406/4296",
       "source": "telegram",
       "author": "enc210406",
@@ -425,30 +754,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-06T07:37:25+00:00"
-    },
-    {
-      "id": "tg:EMchina/32158",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32158",
-      "text": "역사는 반복되는가? 이번 기술주 반등은 2000년 버블 정점과 놀라울 정도로 유사(BTIG)\n• S&P500 움직임, 마이크로소프트 과거 추이, 반도체 섹터 기술적 패턴 모두 놀랍도록 유사\n• 이번 반등은 대체로 50일 이동평균선에서 멈출 가능성 크다고 판단. 그 시점이 되면 손해 본 투자자들이 매도자로 전환할 것으로 예상\n• 시장 본질은 기존 자금의 ‘의자 뺏기식’ 순환. 진정한 강세장 아님. 기술주 모멘텀 소진 이후 이어받을 힘 부족\n历史一再重演？BTIG技术策略师：本轮科技股反弹与2000年泡沫顶部惊人相似\nKrinsky警告，标普500走势、微软历史轨迹及半导体板块技术形态均现惊人镜像。他判断本轮反弹大概率止步于50日均线，届时受伤投资者将转为卖家。市场本质是存量资金\"抢椅子式\"轮动而非真正牛市，科技股动能耗尽后缺乏接棒力量。\nhttps://wallstreetcn.com/articles/3778816#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T06:50:19+00:00"
-    },
-    {
-      "id": "tg:EMchina/32157",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32157",
-      "text": "중국 공급망 찾는 엔비디아\n• 해외 시장 타겟. AI 컴퓨팅 플랫폼 및 무선 네트워크 장비 통합한 6G 시스템\n=======================\n~ Nvidia is\nreportedly seeking\na Chinese base-station maker to combine its AI computing platform with wireless network equipment for 6G systems aimed at overseas markets, according to people in the communications supply chain\nhttps://technode.com/2026/08/06/nvidia-reportedly-seeks-a-chinese-partner-to-develop-ai-powered-6g-base-stations/",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T06:45:26+00:00"
     },
     {
       "id": "tg:bornlupin/19563",
@@ -575,16 +880,18 @@
       "published_at": "2026-08-06T02:36:55+00:00"
     },
     {
-      "id": "tg:bornlupin/19558",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19558",
-      "text": "한화오션·선익시스템 등 슈퍼 을 기업 선정…200억원 규모 7년 이상 지원\n한화오션, 선익시스템 등 5개 기업이 슈퍼 을 기업으로 선정돼 200억원 규모로 7년 이상의 대형 연구개발(R&D) 지원을 받게 됐다\n. 또 정부는 소재·부품·장비(소부자) 협력모델 5건을 승인하고 5년간 910억원의 R&D 등을 지원한다.\n산업통상부는 6일 한국무역보험공사에서 제16차 소재·부품·장비 경쟁력강화 위원회를 열고, 소재·부품·장비 협력모델 승인, 제3기 슈퍼 을 선정 결과, 2026년도 소부장 시행계획 3건의 안건을 심의·의결했다.\n이번 위워회에선 △생태계 완성형 모델인 차세대 유리 패키지 기판, 1000W급 극자외선(EUV) 펠리클 △ 지역간 협력형 모델인 공장맞춤형 모빌리티 플랫폼 △일반형 협력모델인 차량인포테인먼트용 국산 시스템온칩(SoC), 에너지용 초고성능 다공성탄소 등 5건을 소부장 협력모델로 승인했다.\n소부장 협력모델은 5년간 총 910억원의 R&D 자금과 화학물질 인허가 패스트트랙 등 규제특례, 금융·세제, 실증 평가 등 범부처 차원의 패키지 지원을 한다.\n아울러 제3기 슈퍼 을 기업도 선정했다.\n△한화오션(잠수함용 연료전지 핵심장비) △선익시스템(AI 기반 OLED 자율 증착장비) △이오테크닉스(초고속 레이저 열처리장비) △에코프로비엠(전고체전지용 황화물계 고체전해질)\n△두산전자사업(위성통신용 저손실 소재 및 안테나 모듈) 5개 기업을 선정했다.\n이번에 선정된 기업들은 과제당 200억원 규모로 7년 이상의 대형 연구개발을 지원받는다\n산업부는 슈퍼 을 프로젝트를 통해 2030년까지 총 15개의 글로벌 공급망 핵심기업을 육성해 핵심기술의 초격차를 확보하고 글로벌 시장을 선도해 나갈 계획이다.\n산업부는 지난해 10월 발표한 소재·부품·장비 산업 경쟁력 강화 기본계획(2026~2030년)의 이행을 위한 각 세부 과제의 추진계획을 담은 2026년도 소재부품장비 경쟁력강화 시행계획을 마련했다.\n하반기까지 소부장 핵심전략지도를 수립해 기술별 R&D 투자 방향을 구체화하고, 이에 따라 현 200대 핵심전략기술을 재정비한다\n. 인공지능(AI)·첨단소재 등 미래 기술 수요와 산업 파급력이 높은 혁신 도전기술을 중심으로 신규 기술을 추가하고, 자립 기술 확보가 이루어진 분야는 제외하는 등 핵심전략기술 체계를 고도화할 방침이다.\n소부장 산업 생태계 강화를 위해 범정부 정책 방향과 연계한 지원도 확대한다. 5극 3특, 제조업의 인공지능 전환(\nM.AX\n) 등 국가 균형발전 및 산업 전환 방향을 종합 고려해 제3기 소부장 특화단지를 연내 선정할 예정이다.\n문신학 산업통상부 차관은 \"글로벌 공급망 재편 속에서도 흔들리지 않는 소부장 기업을 지속적으로 육성하고, 수요·공급기업의 다양한 협력수요를 반영하는 협력모델을 통해 소부장 산업의 근원적 경쟁력을 강화해 나가겠다\"고 말했다.\nhttps://news.tf.co.kr/read/economy/2351148.htm",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T01:16:32+00:00"
+      "id": "x:ylecun:2085180487702589914",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2085180487702589914",
+      "text": "RT by @ylecun: It was the verification problem all along, while the masses were distracted by the alignment problem. Recursive self improvement? How does the observer observe itself and know that it changed for the better or the worse when it is the moat in its own eye?",
+      "images": [
+        "https://pbs.twimg.com/card_img/2085098447443525633/_YSgS_NJ?format=jpg&name=800x419"
+      ],
+      "summary_ko": "RT by @yleun: 대중은 정렬 문제로 주의가 산만해진 반면, 그것은 항상 검증 문제였습니다. 재귀적 자기 개선? 관찰자는 자신의 눈에 있는 해자일 때 어떻게 자신을 관찰하고 그것이 더 좋게 또는 더 나쁘게 변했는지 알 수 있습니까?",
+      "published_at": "2026-08-06T01:45:43+00:00"
     },
     {
       "id": "tg:HI_GS/6851",
@@ -599,42 +906,6 @@
       "published_at": "2026-08-06T01:09:56+00:00"
     },
     {
-      "id": "tg:bornlupin/19557",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19557",
-      "text": "이재명 대통령, 호남반도체 직접 챙긴다\n“임기내 착공, 임기내 반도체 생산까지”\n이재명 대통령이 호남권 반도체 클러스터의 빠른 추진을 위해 오는 10일\n오후 2시 청와대에서 3대 메가프로젝트 2차 민관합동 점검회의를 직접 주재한다.\n반도체 산업의 핵심요소로 뽑히는 전력과 용수 여기에 정주여건 준비사항 들이 구체화된 수치로 나올지 관심사다. 특히 광주군공항 이전 후보지인 무안군이 재협상 카드를 꺼내든 상황에서 이 문제를 어떻게 해결할지도 지역내 핫이슈다.\n2차 회의에는 산업통상자원부와 국방부, 국토교통부, 기후에너지환경부 등 관계부처가 총출동한다. 지난달 6일 첫 회의 이후 한 달여 만에 다시 열리는 후속 점검 자리다.\n회의에는 산업통상부와 국방부, 국토교통부, 기후에너지환경부 등 관계부처와 삼성전자·SK하이닉스 등 참여 기업 관계자들이 참석할 것으로 알려졌다.\n이번 회의에서는 광주 군공항 이전을 전제로 한 반도체 국가산업단지 부지 조성 방안과 전력·용수 공급 일정이 집중적으로 다뤄질 전망이다.\n1차 회의에서 부지가 확정된 만큼 2차 회의에서는 토지 보상 절차와 조성 일정 단축 방안이 구체적으로 다뤄질 전망이다.\n정부가 관계부처 협의를 통해 이들 절차를 동시에 진행하거나 일부 행정절차를 병행할 수 있는 방안을 모색한다.\n반도체 생산시설 가동에 필요한 기반시설 대책도 주요 의제로 꼽힌다. 호남권 반도체 클러스터에는 하루 65만t가량의 산업용수와 6.3GW 규모의 추가 전력이 필요할 것으로 추산된다.\n기존 전남광주통합특별시 관련 특별법과 국가첨단전략산업법, 산업입지법 등을 활용해 인허가와 국가산단 지정, 기반시설 설치 절차를 단축할 수 있는 만큼 이를 총괄할 범정부 지원특별위원회 구성과 운영 방식의 구체화에 시선이 쏠린다.\nhttps://biz.heraldcorp.com/article/10832366",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T00:15:48+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19556",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19556",
-      "text": "[SK증권 화장품/의류 형권훈]\n(\nkh.hyung@sks.co.kr/3773-9997\n)\n▶️\n에이피알(매수(유지)/560,000원(유지))\n폭발적인 성장세\n- 2분기 영업이익 시장 컨센서스 대비 7% 상회\n- 북미 매출 +265% 성장, 유럽 매출 +380% 성장해 탑라인 고성장\n- 판관비율 증가했으나, 관세 환급금 130억 원 반영되어 영업이익률은 방어\n- 내년에도 미국과 유럽 오프라인 채널 추가 침투하며 매출 고성장 전망\n- 판관비율 증가는 1) 아마존 프로모션, 2) 이란 전쟁, 3) 코첼라 등 이벤트 때문\n-> 일시적 요인이며, 3분기에 안정화될 것으로 전망\n- 성장성 대비 12MF PER 19배로 밴드 하단 부근이기에 밸류에이션 부담 완화\n▶️\n보고서 원문:\nhttps://buly.kr/CrcjNt\n▶️\nSK증권 리서치 텔레그램 채널 :\nhttps://t.me/sksresearch\n당사는 컴플라이언스 등록된 자료에 대해서만 제공 가능하며 본 자료는 컴플라이언스 등록된 자료입니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T00:14:01+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19555",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19555",
-      "text": "'시추에이셔널 어웨어니스', 4억 달러 투자로 투자 시장 복귀\n4억 달러 규모의 신규 투자 진행\n레오폴드 아셴브레너(Leopold Aschenbrenner)가 이끄는 헤지펀드\n'시추에이셔널 어웨어니스(Situational Awareness)'가 비상장 기업에 4억 달러(약 5,500억 원)를 투입하며 투자 활동을 재개했습니다. (투자는 화요일에 완료됨)\n최근의 붕괴 위기 극복\n불과 며칠 전, 해당 헤지펀드는 월가 대출 기관들로부터 밀려든 잇따른 마진콜(증거금 추가 납부 요구) 폭격으로 인해 붕괴 직전의 위기를 겪었습니다.\n재기를 위한 첫 행보\n이번 4억 달러 투자는 마진콜 파동으로 크게 흔들렸던 '시추에이셔널 어웨어니스'를 아셴브레너가 어떻게 재건하고 수습할 것인지 보여주는 첫 번째 신호탄으로 평가\n받고 있습니다.\nhttps://www.bloomberg.com/news/articles/2026-08-05/situational-awareness-returns-to-investing-with-400-million-bet?srnd=all",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-05T23:56:13+00:00"
-    },
-    {
       "id": "tg:HI_GS/6850",
       "source": "telegram",
       "author": "HI_GS",
@@ -645,18 +916,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-05T23:49:10+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19554",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19554",
-      "text": "삼성 최신 폴더블폰 사전 예약량, 전년 대비 30% 급증\n삼성전자의 신형 폴더블폰 라인업이 전년 대비 30% 증가한 사전 예약량을 기록하며 역대 Z 시리즈 최고 기록을 경신하고 있습니다.\n사전 예약 30% 증가\n:\n갤럭시 Z 폴드 8, Z 폴드 8 울트라, Z 플립 8 신제품 라인업 전반에 걸쳐 강력한 초기 수요가 이어지고 있습니다.\n폴드 라인업의 성과\n: 여권 형태의 외형을 갖춘 Z 폴드 8과 Z 폴드 8 울트라 모델이 전작 대비 30% 빠른 예약 속도를 보이고 있습니다.\nZ 폴드 8의 높은 비중\n: 좌우로 넓어진 폼팩터의 Z 폴드 8 단일 모델이 전체 사전 예약량의 절반가량을 차지하며, 정식 출시 전부터 신규 디자인이 소비자들에게 큰 호응을 얻고 있습니다.\nhttps://www.bloomberg.com/news/articles/2026-08-05/samsung-pre-orders-of-latest-foldables-grow-30-from-last-year-ahead-of-apple",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-05T23:45:59+00:00"
     },
     {
       "id": "tg:globaletfi/20996",
@@ -671,21 +930,6 @@
       "published_at": "2026-08-05T23:22:50+00:00"
     },
     {
-      "id": "tg:globaletfi/20994",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20994",
-      "text": "[하나 Global ETF Daily (8/6)]\n▶️\n하나 Global ETF 박승진(T.3771-7761)\n▶️\nRA 신민건(T.3771-3269)\n▶️\n텔레그램:\nhttps://t.me/globaletfi\n🔹\n주요 ETF Daily 수익률\n(2026.8.5 종가 기준)\n» 주요 시장 ETF\nSPY -0.20%\nQQQ -0.90%\nDIA 0.44%\nIWM -0.64%\n» 주요 국채 ETF\nTLT 0.22%\nIEF 0.06%\nSHY 0.04%\n» 주요 섹터/테마 ETF\n2차전지(LIT) 1.34%\n바이오테크(ARKG) 1.33%\n핀테크(ARKF) 1.05%\n🔹\nETF News\n[ETF Trends] 2026년 글로벌 ETF 시장: 7월 순유입 1,900억 달러 돌파하며 연간 최고 기록 경신\n-\nhttps://buly.kr/3NLGNml\n- 2026년 글로벌 ETF 시장은 7월 순유입액이 1,900억 달러를 돌파하며 연초 이후 세 번째 기록을 세우는 등 전년의 역대 최고 기록을 경신하는 강력한 자금 유입세를 지속하는 모습\n- 일평균 순유입액은 57억 달러로 전년 대비 약 40% 급증하였으며, 7월 한 달간 1,927억 달러가 유입되어 7개월 누적 순유입액은 1조 2,150억 달러에 달함\n- 이는 전년 전체 유입량의 82%를 초과하는 수치로, 자금 유입 추세가 지속될 경우 수개월 내 전년 연간 성과를 상회할 것으로 전망\n- 주식형 ETF는 7월 유입 자금의 65%를 흡수하며 시장을 견인하였고, 해외 주식형으로의 자금 유입이 36% 이상을 차지하며 AI 밸류체인 거점 지역으로의 집중 현상을 보임\n- 주요 상품으로는 iShares MSCI South Korea ETF(EWY)에 48억 달러, 한국 비중 50%의 Roundhill Memory ETF(DRAM)에 62억 달러가 유입\n- 가치주 중심의 iShares MSCI EAFE Value ETF(EFV)와 Vanguard Total International Stock ETF(VXUS)도 호조를 보였으며, 빅테크 집중 위험을 완화하는 Invesco S&P 500 Equal Weight ETF(RSP) 역시 꾸준한 수요를 나타냄\n- 채권형 ETF는 금리 변동성 여파로 단기채 및 크레디트 상품 중심의 유입이 이어지며 7월 510억 달러를 흡수\n- iShares 0-3 Month Treasury Bond ETF(SGOV)와 JPMorgan Ultra-Short Income ETF(JPST) 등 초단기 채권 상품으로의 자금 집중이 지속되는 가운데, 대체 투자 영역에서는 iShares Systematic Alternatives Active ETF(IALT) 및 원자재 ETF로 분산 투자 자금이 유입\n- 따라서 주식형의 글로벌·스마트베타 전략 선호와 채권형의 단기채 집중 현상은 시장 불확실성 속 수익성과 안정성을 동시에 확보하려는 기관 및 개인 투자자의 대응 전략으로 판단\n[Reuters] 케냐 증권거래소, 동아프리카 최초 AI 전용 ETF 출시 추진\n-\nhttps://buly.kr/BeMsU2m\n- 나이로비 증권거래소(NSE)가 동아프리카 최초로 인공지능(AI) 특화 ETF 출시를 연내 목표로 추진 중인 것으로 확인\n- 기존 NSE는 은행 섹터와 통신사 Safaricom 중심으로 외인 자금을 유입시켰으나 AI 관련 투자 상품은 부재했음\n- 이에 따라 글로벌 AI 상승장에 직접 노출되는 Microsoft, Anthropic, OpenAI 등의 기업을 참조 자산으로 구성하는 상품을 도입할 예정\n- 현지 젊은 투자층 중심으로 AI 상품 수요가 고조되는 가운데, Safaricom의 M-Pesa 주식 거래 서비스 출시로 100만 명의 신규 투자자가 유입된 점도 추진 동력으로 작용\n- 시장 일각에서 제기되는 AI 버블 리스크와 과도한 변동성을 관리하기 위해 승인 과정에서 출시 시기를 조율하는 관망 기조를 병행하고 있음. 환율 변동 위험을 완화하기 위해 케냐 실링화 표시로 출시될 예정이며, 규제 당국과의 협의를 거쳐 향후 비트코인, 이더리움, 솔라나 등 암호화폐 ETF 도입까지 연계 검토하는 모습\n- 한편 올해 케냐 증시(NSE20 지수)는 기업 실적 개선과 인플레이션 안정에 힘입어 30% 이상 상승하였으며 시가총액은 역대 최고치인 4조 실링(약 309억 5,000만 달러)을 기록\n- 이처럼 NSE의 AI ETF 출시는 전통 산업 중심의 아프리카 증시에 신성장 동력을 이식하고 역내 신규 투자자 유입을 촉진하는 발판이 될 것으로 평가\n- 따라서 현지 통화 기반의 신규 상품 라인업 확장과 증시 체질 개선 시도는 연말까지 케냐 증시 시가총액 5조 실링 달성을 견인하는 핵심 요인으로 작용할 것으로 예상",
-      "images": [
-        "https://cdn5.telesco.pe/file/XRYc5cU9pKA5CGzEqLLAcQa4--RLrfOOWqwdE8E6jBBiu2Zo5Dar6bQt9B82ij7vC8wI5Uaf2M4uZJgURLpcEPnvBdCApck64-yvluhEgmI7H4NOWeMqSeE_aGdqBzzQir4_Fi4FJaDJe2gPOwWqgayOv1ncV9MOiU5swOOqGDkV51qbNEI0Vz7l9D9y5Ywk6BeUHsNfN-8b1POboVKAJFoLskdk8qG7J-l0umTLlBO-n-zSMJrqFMKsNjyKaychFXQDQ8LRsyw2PwlpcJnkTuqBfpux0Ly2O92OPIFBPmue1laKSPre8VyEa_oEsBEf_cDUoWYWK8QlLKWdK74DkQ.jpg",
-        "https://cdn5.telesco.pe/file/TZvdH19oDUixvPV5PlvnJgwMuQfEJMIKHYG4xAt9wf8aepSEqHuWlPizGdBpJ_c_PUdgJZUUuWW16W0bdEge2MQgYT3svxzlQCPRRsHxMhggrp-sSl7tEp5rfD4IRvW-yHgmK6BnIKDmnbIcenTA09QWEYM0r_hA0mkTsYSk5_PmXhnCNO539zYBbO0vDCuVRW4qnvtPEX46KFCA7xRo0wdePNlNqJGEoUeLcu18dSgetqZfGUvpOfocTxs6RuYVeMvomVmQHvta-buk48JjGobiOrk3bb7kHgSbFRGo2IVzEZflOsF-9ro5lBBj6lafA9SksrIqf9FTwPzVXkStcQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-05T22:50:16+00:00"
-    },
-    {
       "id": "tg:HI_GS/6849",
       "source": "telegram",
       "author": "HI_GS",
@@ -696,18 +940,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-05T22:40:33+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20993",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20993",
-      "text": "🔹\nMeta, AI 코딩 에이전트 'Muse Code' 공개\n» Meta가 OpenAI의 Codex, Anthropic의 Claude Code와 경쟁하기 위한 AI 코딩 에이전트 'Muse Code'를 공개. Muse Code는 소프트웨어 개발과 코딩 업무를 자동화하는 AI 에이전트로, 비용 경쟁력을 핵심 차별화 요소로 제시\n» Alexandr Wang Meta 최고 AI 책임자(CAIO)는 다양한 개발 업무에서 경쟁사 대비 높은 비용 효율성을 제공할 수 있다고 설명\n» Meta는 AI 인재 확보와 컴퓨팅 인프라에 대한 대규모 투자에도 수익화 성과가 부족하다는 투자자들의 압박을 받아온 상황. 최근 실적 발표에서 AI 클라우드 서비스 사업 계획에 대한 구체적인 내용을 제시하지 못하면서 주가가 -10% 가량 하락한 바 있으며, Muse Code는 AI 수익화 전략의 일환으로 평가\n» Muse Code는 일반 요금제와 함께 사용자 피드백 제공을 조건으로 출력 토큰 100만 개당 0.20달러의 초저가 요금제를 제공. 해당 가격은 중국 DeepSeek와 유사한 수준. OpenAI와 Anthropic의 주요 코딩 모델보다 크게 저렴한 가격 경쟁력 확보\n🔹\nMarket Comment\n» Meta의 저가 전략은 OpenAI, Anthropic, Google, DeepSeek 등 주요 AI 기업 간 가격 경쟁을 심화시킬 수 있는 요인. AI 코딩 에이전트 확산은 추론 수요 증가로 이어지며 GPU, HBM, 네트워크, AI 인프라 투자 확대를 뒷받침\n» 반면 AI 모델 가격 인하 경쟁은 단기적으로 AI 서비스 기업들의 수익성에는 부담 요인으로 작용할 가능성. 기업 고객 확보, 유료 사용자 증가, AI 서비스 매출 확대 여부가 중요한 평가 요소\nMeta Releases Coding Agent to Compete With OpenAI and Anthropic\nhttps://www.wsj.com/tech/ai/meta-releases-coding-agent-to-compete-with-openai-and-anthropic-af87b517?st=bJCXdq",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-05T22:36:46+00:00"
     },
     {
       "id": "tg:enc210406/4295",
@@ -722,31 +954,18 @@
       "published_at": "2026-08-05T22:16:52+00:00"
     },
     {
-      "id": "tg:globaletfi/20992",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20992",
-      "text": "\"美, 이르면 6일 수입 폴리실리콘 관세\"…韓기업 영향 주목\n- 로이터·블룸버그 보도…\"美정부, 최소 15% 관세·최저가격제 논의\"\n- 美업체 보호용 구제 조처도 준비…\"미국내 자본투자 규모 따라 결정\"\n- '조지아 공장' 한화큐셀·'텍사스 생산시설' OCI 등 영향받을 수도\n한국 정부는 한화큐셀의 조지아주 태양광 패널 생산시설 투자, OCI의 텍사스주 태양광 셀 생산시설 투자를 언급, 이들 기업을 관세 등 수입 제한 조처에서 제외해달라고 당부했다.\n한화큐셀 역시 의견서에서 미국의 폴리실리콘 생산업체들을 중국 기업의 불공정한 관행에서 보호해야 한다고 주장하며 수입 폴리실리콘에 ㎏당 10달러의 관세 부과, 독일·말레이시아에서 수입하는 태양광용 폴리실리콘에 연간 2만t씩의 무관세 수입 허용 등을 건의했다.\n한화큐셀은 미국 공장에서 쓰는 폴리실리콘을 모두 말레이시아에서 조달하고 있으며, 말레이시아산 폴리실리콘으로 만든 태양광 셀을 한국과 말레이시아에서 미국으로 들여와 태양광 모듈로 제조하고 있다.\n반도체용 폴리실리콘을 생산하는 OCI는 자사 공급망에서 강제노동이나 외국우려단체(FEOC)를 완전히 배제했다면서 FEOC가 제조하지 않고 공정무역을 따르는 반도체용 폴리실리콘은 조사 대상에서 제외해달라고 요청했다.\nhttps://n.news.naver.com/article/001/0016236282?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-05T22:08:24+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20990",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20990",
-      "text": "샌디스크의 다음 분기 EPS는 컨센서스를 상회했지만 매출은 하회했네요\n생산량이 제한적일 것이란 부분을 시사하네요\n실적 자체는 좋습니다\n가격결정력을 유지하면서 외형확장을 할 수 있을지가 관건일 거 같네요\n------\n[Sandisk FY4Q26 실적]\n*FY4Q26 실적\n-매출 89.65억 달러로 FactSet 컨센서스 84.8억 달러를 5.7% 상회\n-전분기 대비 51%, 전년 동기 대비 372% 증가\n-비GAAP EPS 39.25달러로 FactSet 컨센서스 34.96달러를 12.3% 상회\n-비GAAP 매출총이익률 84.6%로 StreetAccount 컨센서스 80.0%를 4.6%p 상회\n-비GAAP 영업이익률 79.2%로 StreetAccount 컨센서스 74.6%를 4.6%p 상회\n-영업현금흐름 71.3억 달러로 StreetAccount 컨센서스 41.5억 달러를 71.8% 상회\n-조정 잉여현금흐름 50.4억 달러로 전년 동기 7,700만 달러 대비 급증\n*실적이 컨센서스를 상회한 이유\n-회사는 전분기 대비 매출 증가분의 약 3분의 2가 가격 상승, 약 3분의 1이 출하량 증가에서 발생했다고 설명\n-높은 NAND 가격과 출하량 증가가 동시에 매출 성장을 견인\n-고부가가치 고객 중심으로 매출 구성이 전환되면서 수익성도 개선\n-비GAAP 매출총이익률은 전분기 78.4%에서 84.6%로 6.2%p 상승\n-매출이 전분기 대비 51% 증가한 반면 비GAAP 영업비용은 8% 증가에 그쳐 영업 레버리지 발생\n-데이터센터 매출 급증과 Edge 매출 성장이 Consumer 매출 감소를 상쇄\n*사업부별 매출\n-데이터센터 매출 29.77억 달러로 전분기 대비 103% 증가\n-Edge 매출 54.32억 달러로 전분기 대비 48% 증가\n-Consumer 매출 5.56억 달러로 전분기 대비 32% 감소\n-FY2026 데이터센터 매출은 51.53억 달러로 전년 대비 437% 증가\n-회사는 데이터센터 사업이 핵심 성장축으로 자리 잡았다고 설명\n*FY1Q27 가이던스\n-매출 가이던스 103억~108억 달러\n-중간값 105.5억 달러로 FactSet 컨센서스 108.2억 달러를 2.5% 하회\n-비GAAP EPS 가이던스 44~46달러\n-중간값 45달러로 FactSet 컨센서스 44.72달러를 0.6% 상회\n-비GAAP 매출총이익률 가이던스 83~85%\n-매출 가이던스는 컨센서스를 소폭 하회했지만 EPS와 수익성 가이던스는 시장 기대에 부합하거나 상회\n*회사 설명\n-회사는 기술 경쟁력과 제품 포트폴리오를 기반으로 데이터센터 사업을 핵심 성장축으로 구축했다고 설명\n-고객 관계 확대와 고부가가치 고객 중심의 매출 구성 변화가 FY2026 실적 개선에 기여했다고 언급\n-4월 실적 발표 당시 공개한 신규 사업모델 계약 5건 이후 추가로 5건을 체결\n-추가 계약은 신규 고객 계약 3건과 기존 계약 확대 2건으로 구성\n-회사는 이러한 고객 계약이 장기적인 매출과 잉여현금흐름 창출에 기여할 것으로 전망\n-자사주 매입 승인액을 140억 달러 추가해 잔여 승인 규모를 155억 달러로 확대",
+      "id": "x:ylecun:2085098603425493472",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2085098603425493472",
+      "text": "RT by @ylecun: The bottleneck for AI progress was never compute, it was always the verifier. Recursive self-improvement is limited by verification, not computation. Compute buys proposals - verifiers buy knowledge. My second post on the recent OpenAI math results https://medium.com/@vishalmisra/the-verifier-bottleneck-4fb0d8c8f3a9",
       "images": [
-        "https://cdn5.telesco.pe/file/VuxPTxjo4a5TuHM3hRP1XwJ2i_2S0bR--dgC0OiWyvSblbXcXkEooQMUKoCmJz6ypZHlt1MPJv6T4ysdUkMFQPoGP05Ct1zw1ntKtCx0Vyn6vKFvU3_GbRcMAmOWc5d-8T5oxFhkP75U4o9rj7oIlCkzd8JSkngum5H07SOnWYEtoMoOBf-Q8hzSbYdyKfR0xHknxrglUy1JtxfTLcc7mqR2gRwZ635QhpP4wtcz50ImT6NpRqDzd57AygbX_nBzgl492DAhISynv1nWjhEHESiR-_-vXA-rWQ2cW0YInv38o4nMSvFxJbXGnpmTM0nSa4FWpmhsbNxMZ1OEblb6wQ.jpg",
-        "https://cdn5.telesco.pe/file/XBGz4wQ0nBPrJqEc89DsDJQXTE3oi6LEzLDidn3NLQwSdykFy4nT1_0Ugjx5bbHQmvKzGa2HOu4GgSahhirgUcDR14gyUmqUTsQtSkeGySXOeiaVyKVWhapDF196jYCD57ed1kRdLC7sOcgbmoSp3__35VWNiQTe7pCQLIZSIT5mKEc1z5csoyqiC_2iLxATcE1guzr4LBqqNn8PCMp5zeKBnPaCR8iPDuLIl7OOsHrgDPInlOvSZ18_se9WO9bvL-EEBWbarAEJQZTi-fUaJjzk5Ty41VnvLkS1M7m4FERuDYneB_z5ow4MCrMF3nyj2yTO_-bEur_dGvHAvLAD6A.jpg"
+        "https://pbs.twimg.com/card_img/2085098447443525633/_YSgS_NJ?format=jpg&name=800x419"
       ],
-      "summary_ko": "",
-      "published_at": "2026-08-05T22:05:36+00:00"
+      "summary_ko": "@yleun의 RT: AI 진행의 병목 현상은 계산이 아니라 항상 검증자였습니다. 재귀적 자기 개선은 계산이 아닌 검증에 의해 제한됩니다. Compute 구매 제안 - 검증자는 지식을 구매합니다. 최근 OpenAI 수학 결과에 대한 두 번째 게시물 https://medium.com/@vishalmisra/the-verifier-bottleneck-4fb0d8c8f3a9",
+      "published_at": "2026-08-05T20:20:20+00:00"
     },
     {
       "id": "x:ylecun:2085080750034940201",
@@ -804,46 +1023,6 @@
       "published_at": "2026-08-05T16:04:58+00:00"
     },
     {
-      "id": "tg:globaletfi/20989",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20989",
-      "text": "🔹\nAnthropic, Claude용 자체 AI 칩 개발 조직 구축\n» Anthropic은 Claude AI 모델을 위한 자체 맞춤형 AI 칩 개발을 위해 사내 반도체 설계 조직을 구축하고 있으며, 이를 위해 하드웨어와 소프트웨어 전반에 대한 경험을 갖춘 엔지니어 채용을 시작\n» AI 모델의 학습과 추론에 필요한 반도체 공급 부족에 대응하고, Claude를 고객이 요구하는 대규모 환경에서 더욱 빠르고 효율적으로 구동하기 위해 AI 모델과 반도체를 함께 설계하는 전략을 추진하고 있다고 설명\n» 자체 AI 칩 개발이 단일 칩 전략이 아닌 멀티칩 전략의 일부라고 강조. 즉, 자체 설계한 맞춤형 반도체를 개발하면서도 AWS, Google, NVIDIA, AMD 등을 함께 활용하는 하드웨어 생태계를 유지할 계획\n» AI 기업들이 단순히 GPU를 구매하는 수준을 넘어, 자체 AI 반도체 설계 역량을 확보해 성능과 비용 효율성을 동시에 높이려는 움직임이 더욱 확대되고 있는  사례. 장기적으로 AI 반도체 시장에서 커스텀 ASIC의 중요성이 높아질 가능성을 시사\nAnthropic to build in-house chip design team for Claude, hire engineers\nhttps://www.reuters.com/business/anthropic-build-in-house-chip-design-team-claude-hire-engineers-2026-08-05/",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-05T15:56:30+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20988",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20988",
-      "text": "» 미국의 7월 ISM서비스업 지수는 54.1pt로 6월과 유사한 수준 기록\n» 세부 지수들을 살펴보면 비즈니스 활동지수와 지불가격 지수, 신규주문 지수가 상승. 반면 수주잔고와 재고, 고용지수는 하락",
-      "images": [
-        "https://cdn5.telesco.pe/file/cw7nowAmp5dfncv2kd-ClkaB4Ouo_KBEpBzH8BiwRKWFWxS-JNv4NM1vn-PwK94psrRp1518UEgySUPeN_fWNsiDFFbWxo1gNAskOQjuAvKCR0iJbL7P4tennxSys1_cdA6VRpnBA0nAEFlkREnet9ZPPn3561HkzN4pdesDRRAVxoamkIikfY0gMYEgIStvyFS7IVo_ryF2XpyQoKPe-lUA282qs-h8VZaQAls5CwXZVaXyoPSPpJTaNFYPQI3XUmtSoKUQaHyqnKadnRD6gliyvx6OHJ5I4-jsX4kXpjr68NXjBeyWwYcXGSNnl0-V4AtCLuUajnYZwehZLJqjgw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-05T15:55:57+00:00"
-    },
-    {
-      "id": "tg:globaletfi/20987",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/20987",
-      "text": "» 7월 ADP 민간고용은 4.4만명 증가에 그쳐 시장 예상치(6.5만명)를 하회\n» 아울러 6월 수치도 기존 9.8만명에서 9.5만명으로 하향 조정. 민간 고용 증가세가 점진적으로 둔화되고 있음을 시사",
-      "images": [
-        "https://cdn5.telesco.pe/file/TVtoSzOOJ7lsHmy7Zaf6Xv1jvPrncKLMz0Q5wuuEE_noDQrpBGthB7jsZ3nYu9xbvhyrWGB0VUzbD5JNPB1ch6MkAqN92MbgnGve6kZ4hrcmq40YAMMbTTVNcNQWAENY_yDu6nwhKt7q7GliR1akGUurA8DypZI-SLtDl6wWg1SCt3kClHEo5d9xTIEY98s04bIzGzdV1p6lcoHx1QKGhe6YyS_1yNVsf2kvaxDH9oT_UBc0AmuBazH2Z1DOIMBsXeOs37sCXYI9W2LTp8yy_qcAho1lH0gem6SS4oT3PiDc4-lHckR-sJciP0-z1uBVBC520df6u0Iafvwq-8YqGQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-05T15:45:16+00:00"
-    },
-    {
       "id": "x:ylecun:2085000309865070795",
       "source": "x",
       "author": "ylecun",
@@ -869,6 +1048,20 @@
       ],
       "summary_ko": "@yleun의 RT: GAIA-4를 통해 우리는 안전이 중요한 시뮬레이션을 위한 월드 모델을 배포할 수 있었습니다. 다음은 자전거 타는 사람과 보행자의 상호 작용이 포함된 몇 가지 멋진 반사실 재생 예시입니다. 모두 폐쇄 루프로 실행됩니다. 새로운 블로그에서 자세한 내용을 읽어보세요: http://wayve.ai/thinking/gaia-4/",
       "published_at": "2026-08-05T13:19:55+00:00"
+    },
+    {
+      "id": "x:ylecun:2084986552375984291",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2084986552375984291",
+      "text": "RT by @ylecun: Yann LeCun joins new investing firm 224 Ventures to invest in AI startups https://www.bloomberg.com/news/articles/2026-08-05/yann-lecun-joins-new-ai-investing-firm-224-ventures?taid=6a7332a9423cf600011cfa20&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+      "images": [
+        "https://pbs.twimg.com/card_img/2084959232701390848/hwTgisTO?format=jpg&name=800x419"
+      ],
+      "summary_ko": "@ylecu의 RT: Yann LeCun, AI 스타트업에 투자하기 위해 새로운 투자 회사 224 Ventures에 합류 https://www.bloomberg.com/news/articles/2026-08-05/yann-lecun-joins-new-ai-investing-firm-224-ventures?taid=6a7332a9423cf600011cfa20&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
+      "published_at": "2026-08-05T12:55:05+00:00"
     },
     {
       "id": "x:ylecun:2084977695910170818",
@@ -1001,18 +1194,6 @@
       "published_at": "2026-08-04T22:22:28+00:00"
     },
     {
-      "id": "x:ylecun:2084757892532740519",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2084757892532740519",
-      "text": "RT by @ylecun: SITUATION UPDATE: The White House has exempted open models from its new framework to test frontier AI capabilities before release, per Axios.",
-      "images": [],
-      "summary_ko": "@yleun의 RT: 상황 업데이트: 백악관은 Axios에 따라 출시 전에 최첨단 AI 기능을 테스트하기 위해 새로운 프레임워크에서 개방형 모델을 제외했습니다.",
-      "published_at": "2026-08-04T21:46:29+00:00"
-    },
-    {
       "id": "x:AnthropicAI:2084748111239344556",
       "source": "x",
       "author": "AnthropicAI",
@@ -1020,7 +1201,9 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2084748111239344556",
       "text": "The UK’s @AISecurityInst (AISI) has published a report on their recent cybersecurity evaluation of Anthropic’s Claude Mythos 5 and OpenAI’s GPT-5.6 Sol. The models attempted to complete an assignment in a setup where their normal safeguards were removed and they were deliberately given internet access. AISI reports that the models “engaged in sustained, potentially harmful activity directed at real people and organisations”. We’re grateful to AISI for their leadership in the important discussion about how to evaluate increasingly capable AI agents. We’re working closely with them to gather more details of the incident as we conduct our own investigation. Gaining a clear picture of Claude’s understanding of its situation—by examining its reasoning transcripts and running our own analyses—will help us identify the causes of its behavior. The prompts in the evaluation did not impose any specific restrictions on how the internet should be used. This and the removal of safeguards meant that the models were tested under “deliberately permissive conditions” that are not representative of any of our production models. Note that there was no evidence here of an escape from a secure environment. AISI’s disclosure of the incident can be found here: http://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2084995444094930944/7o_YlMeM?format=png&name=800x419"
+      ],
       "summary_ko": "영국의 @AISecurityInst(AISI)는 Anthropic의 Claude Mythos 5와 OpenAI의 GPT-5.6 Sol에 대한 최근 사이버 보안 평가 보고서를 발표했습니다. 모델은 일반적인 보호 장치가 제거되고 의도적으로 인터넷 액세스가 허용된 설정에서 과제를 완료하려고 시도했습니다. AISI는 해당 모델이 \"실제 사람과 조직을 대상으로 지속적이고 잠재적으로 유해한 활동에 참여\"했다고 보고합니다. 점점 더 능력이 향상되는 AI 에이전트를 평가하는 방법에 대한 중요한 토론에서 리더십을 발휘한 AISI에 감사드립니다. 우리는 자체 조사를 진행하면서 사건에 대한 자세한 내용을 수집하기 위해 그들과 긴밀히 협력하고 있습니다. 추론 기록을 검토하고 자체 분석을 실행하여 상황에 대한 Claude의 이해에 대한 명확한 그림을 얻습니다.",
       "published_at": "2026-08-04T21:07:37+00:00"
     },
@@ -1063,34 +1246,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-04T08:22:41+00:00"
-    },
-    {
-      "id": "x:ylecun:2084471971098575035",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2084471971098575035",
-      "text": "RT by @ylecun: Trump quietly abandons his proposed \"compact\" for universities in which they would gain preferential access to federal funds in return for ideological conformity with Trump's goals. Universities broadly rejected the proposal. https://trib.al/IkXUbkN",
-      "images": [
-        "https://pbs.twimg.com/card_img/2084364519371878400/BQG9kdl4?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@yleun의 RT: 트럼프는 대학이 트럼프의 목표에 이념적으로 부합하는 대가로 연방 기금에 우선적으로 접근할 수 있도록 제안한 \"협약\"을 조용히 포기했습니다. 대학들은 이 제안을 대체로 거부했다. https://trib.al/IkXUbkN",
-      "published_at": "2026-08-04T02:50:20+00:00"
-    },
-    {
-      "id": "x:ylecun:2084440664125632705",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2084440664125632705",
-      "text": "RT by @ylecun: The IRS audits every president. It can audit you. It no longer audits Trump -- because he used his control of the government to exempt himself. Immunity no other American has. https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html",
-      "images": [
-        "https://pbs.twimg.com/card_img/2084404121692499969/OfSYKRl0?format=jpg&name=800x419"
-      ],
-      "summary_ko": "RT by @yleun: IRS는 모든 대통령을 감사합니다. 감사할 수 있습니다. 더 이상 트럼프를 감사하지 않습니다. 왜냐하면 그가 자신의 면제를 위해 정부에 대한 통제력을 이용했기 때문입니다. 다른 어떤 미국인도 면역력을 갖고 있지 않습니다. https://www.nytimes.com/2026/08/03/business/trump-irs-todd-blanche.html",
-      "published_at": "2026-08-04T00:45:56+00:00"
     },
     {
       "id": "tg:enc210406/4288",
@@ -1213,20 +1368,6 @@
       "images": [],
       "summary_ko": "R에서 @OpenAI로: 결과는 구 패킹, 코딩 이론, 그룹 이론, 양자 복잡성, 격자 암호화, 극단 조합론 등을 포괄합니다. 그중에는 비소픽 그룹의 존재를 확립하고 고차원 구체 패킹의 경계를 기하급수적으로 개선하는 것이 있습니다.",
       "published_at": "2026-08-03T18:54:15+00:00"
-    },
-    {
-      "id": "x:ylecun:2084328759633850729",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2084328759633850729",
-      "text": "RT by @ylecun: Don Corleone Trump",
-      "images": [
-        "https://pbs.twimg.com/media/HO0FuLEbAAAdcaa.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: 돈 꼴레오네 트럼프",
-      "published_at": "2026-08-03T17:21:15+00:00"
     },
     {
       "id": "tg:enc210406/4286",
@@ -1523,60 +1664,6 @@
       "published_at": "2026-07-30T17:27:16+00:00"
     },
     {
-      "id": "x:OpenAI:2082879614532370847",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2082879614532370847",
-      "text": "R to @OpenAI: openai.com/index/advancing-t…",
-      "images": [
-        "https://pbs.twimg.com/card_img/2082876897927827456/MgGf1-vA?format=jpg&name=800x419"
-      ],
-      "summary_ko": "R에서 @OpenAI로: openai.com/index/advancing-t…",
-      "published_at": "2026-07-30T17:22:52+00:00"
-    },
-    {
-      "id": "x:OpenAI:2082878192390689147",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2082878192390689147",
-      "text": "R to @OpenAI: Making advanced intelligence more abundant and affordable is central to our mission to ensure AGI benefits all of humanity. With the help of GPT-5.6 Sol, we have made leaps in efficiency. Today, we are passing those gains on in the API with lower prices for Luna and Terra, and providing faster performance to Sol. These updates help everyone get more useful work from every dollar and move faster when time matters. https://x.com/OpenAI/status/2082577277246972300",
-      "images": [],
-      "summary_ko": "R에서 @OpenAI로: 고급 지능을 더욱 풍부하고 저렴하게 만드는 것은 AGI가 모든 인류에게 혜택을 줄 수 있도록 보장하는 우리의 사명의 핵심입니다. GPT-5.6 Sol의 도움으로 효율성이 크게 향상되었습니다. 현재 우리는 API의 이러한 이점을 Luna 및 Terra의 저렴한 가격으로 전달하고 Sol에 더 빠른 성능을 제공하고 있습니다. 이러한 업데이트를 통해 모든 사람이 적은 비용으로 더 유용한 작업을 수행하고 시간이 중요한 경우 더 빠르게 이동할 수 있습니다. https://x.com/OpenAI/status/2082577277246972300",
-      "published_at": "2026-07-30T17:17:13+00:00"
-    },
-    {
-      "id": "x:OpenAI:2082878156483219672",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2082878156483219672",
-      "text": "We are committed to pushing the model frontier across cost efficiency, capability, and speed. Starting today, we are reducing prices for GPT-5.6 Luna by 80% and GPT-5.6 Terra by 20% , and offering a faster option for GPT-5.6 Sol in the API. Luna and Terra’s lower prices are reflected in how usage is counted in Codex and ChatGPT Work, so your usage goes further.",
-      "images": [
-        "https://pbs.twimg.com/media/HOfepUra4AAUEZi.png"
-      ],
-      "summary_ko": "우리는 비용 효율성, 기능 및 속도 측면에서 모델의 한계를 뛰어넘기 위해 최선을 다하고 있습니다. 오늘부터 GPT-5.6 Luna의 가격을 80%, GPT-5.6 Terra의 가격을 20% 인하하고 API에서 GPT-5.6 Sol에 대한 더 빠른 옵션을 제공합니다. Luna와 Terra의 저렴한 가격은 Codex 및 ChatGPT Work에서 사용량이 계산되는 방식에 반영되므로 사용량이 더 늘어납니다.",
-      "published_at": "2026-07-30T17:17:05+00:00"
-    },
-    {
-      "id": "x:OpenAI:2082855170296205719",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2082855170296205719",
-      "text": "RT by @OpenAI: one of the most beautiful things about OpenAI is that every employee really has a voice. i wanted to capture what it feels like to work here, what our mission means to me, and why you should join us. so i made this video with Codex, shared it with the team, and they felt it was worth producing and sharing with the world. this is our mission. and it’s why i’m here.",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2082847297700777984/img/vnek_Bg-PNRBh6G7.jpg"
-      ],
-      "summary_ko": "@OpenAI의 RT: OpenAI의 가장 아름다운 점 중 하나는 모든 직원이 실제로 목소리를 낼 수 있다는 것입니다. 저는 여기서 일하는 것이 어떤 느낌인지, 우리의 사명이 나에게 어떤 의미인지, 그리고 왜 우리와 함께해야 하는지를 포착하고 싶었습니다. 그래서 이 영상을 Codex로 제작해서 팀과 공유했더니, 제작해서 전 세계와 공유할 가치가 있다고 느꼈어요. 이것이 우리의 사명입니다. 그게 내가 여기 있는 이유야.",
-      "published_at": "2026-07-30T15:45:44+00:00"
-    },
-    {
       "id": "x:sama:2082855170296205719",
       "source": "x",
       "author": "sama",
@@ -1645,34 +1732,6 @@
       ],
       "summary_ko": "뇌는 하나입니다. 모든 로봇에 적용됩니다. 🤖 Gemini Robotics 2를 출시합니다. 차세대 물리적 AI로 휴머노이드에 전신 지능, 고급 민첩성, 다중 로봇 팀워크 등을 제공합니다.",
       "published_at": "2026-07-30T15:02:00+00:00"
-    },
-    {
-      "id": "x:sama:2082628413769003269",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2082628413769003269",
-      "text": "so excited for this. very close to models that will significantly accelerate scientific discovery; the best way to do this is for us to empower scientists, not to try to figure out everything ourselves. we all deserve the benefits.",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2082514978586963969/img/j4oDUO_KrYXiGmEn.jpg"
-      ],
-      "summary_ko": "너무 기대돼요. 과학적 발견을 크게 가속화할 모델에 매우 가깝습니다. 이를 수행하는 가장 좋은 방법은 모든 것을 스스로 파악하려고 하는 것이 아니라 과학자들에게 권한을 부여하는 것입니다. 우리 모두는 혜택을 받을 자격이 있습니다.",
-      "published_at": "2026-07-30T00:44:41+00:00"
-    },
-    {
-      "id": "x:OpenAI:2082616641834422740",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2082616641834422740",
-      "text": "R to @OpenAI: A benchmark score reflects the model as well as the harness and settings used to run it. For long-running agents, retaining reasoning and compacting context lets the model build on what it has already learned. https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2082601651047698432/3ht2GCz3?format=jpg&name=800x419"
-      ],
-      "summary_ko": "R에서 @OpenAI로: 벤치마크 점수는 모델뿐만 아니라 이를 실행하는 데 사용된 하네스 및 설정을 반영합니다. 장기 실행 에이전트의 경우 추론을 유지하고 컨텍스트를 압축하면 모델이 이미 학습한 내용을 기반으로 구축할 수 있습니다. https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores/",
-      "published_at": "2026-07-29T23:57:55+00:00"
     },
     {
       "id": "rss:semianalysis:the-wild-wild-west-of-lego-datacenters",
@@ -1906,46 +1965,6 @@
       "images": [],
       "summary_ko": "@KanishkaNarayan이 내각에서 영국 AI 장관으로 새로운 역할을 맡은 것을 축하합니다. 영국 AI 생태계에 좋은 소식입니다!",
       "published_at": "2026-07-23T16:40:41+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2080321522040807769",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2080321522040807769",
-      "text": "R to @GoogleDeepMind: To ensure this model is deployed responsibly, we’re starting with a limited-access pilot for governments and trusted partners. → https://goo.gle/3T67Ts9",
-      "images": [
-        "https://pbs.twimg.com/card_img/2083014654348177408/BFF5YR5L?format=jpg&name=800x419"
-      ],
-      "summary_ko": "R에서 @GoogleDeepMind로: 이 모델이 책임감 있게 배포되도록 하기 위해 정부와 신뢰할 수 있는 파트너를 위한 제한된 액세스 파일럿부터 시작합니다. → https://goo.gle/3T67Ts9",
-      "published_at": "2026-07-23T15:57:56+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2080321519952056441",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2080321519952056441",
-      "text": "R to @GoogleDeepMind: By combining speed and efficiency, 3.5 Flash Cyber lets defense specialists check significantly more code paths. In testing on our own codebases – including @googlechrome and @Android – it consistently caught complex, unique vulnerabilities that standard models missed.",
-      "images": [
-        "https://pbs.twimg.com/media/HN7JKNPWUAAYqbM.jpg"
-      ],
-      "summary_ko": "R에서 @GoogleDeepMind로: 속도와 효율성을 결합한 3.5 Flash Cyber를 사용하면 국방 전문가가 훨씬 더 많은 코드 경로를 확인할 수 있습니다. @googlechrome 및 @Android를 포함한 자체 코드베이스에 대한 테스트에서 표준 모델이 놓친 복잡하고 고유한 취약점을 지속적으로 발견했습니다.",
-      "published_at": "2026-07-23T15:57:55+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2080321516814647630",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2080321516814647630",
-      "text": "Gemini 3.5 Flash Cyber is our specialized, lightweight model built to help security teams spot and patch vulnerabilities before they can be exploited. 🧵",
-      "images": [],
-      "summary_ko": "Gemini 3.5 Flash Cyber는 보안 팀이 취약점이 악용되기 전에 이를 발견하고 패치할 수 있도록 제작된 전문적이고 가벼운 모델입니다. 🧵",
-      "published_at": "2026-07-23T15:57:54+00:00"
     },
     {
       "id": "x:demishassabis:2080318170733408741",
@@ -2464,18 +2483,6 @@
       "images": [],
       "summary_ko": "SpaceX와 그 이야기(과거, 현재, 미래)에 대한 경외감을 느껴보세요. 10가지 이상의 다양한 방법으로 생각하고 마음을 계속해서 순환시킬 수 있습니다. 팀에 큰 축하를 전합니다! 🚀",
       "published_at": "2026-06-12T17:45:54+00:00"
-    },
-    {
-      "id": "x:GoogleAI:2065478191247130703",
-      "source": "x",
-      "author": "GoogleAI",
-      "author_name": "Google AI(구글 AI)",
-      "author_url": "https://x.com/GoogleAI",
-      "url": "https://x.com/GoogleAI/status/2065478191247130703",
-      "text": "Here’s what launched this week: — Gemini 3.5 Live Translate our latest audio model for live speech-to-speech translation — @NotebookLM got a major upgrade including agentic capabilities in chat, more advanced reasoning, and a suite of new output formats — Project Genie from @GoogleLabs is now available to Google AI Ultra 5x subscribers globally — Notebooks in @GeminiApp are now available in the European Economic Area, United Kingdom, and Switzerland — DiffusionGemma, our newest experimental open @googlegemma model that explores text diffusion, an exceptionally fast approach to text generation",
-      "images": [],
-      "summary_ko": "이번 주에 출시된 기능은 다음과 같습니다. — Gemini 3.5 실시간 음성 대 음성 번역을 위한 최신 오디오 모델 — @NotebookLM은 채팅의 에이전트 기능, 고급 추론 및 새로운 출력 형식 제품군을 포함하여 대대적인 업그레이드를 받았습니다 — @GoogleLabs의 Project Genie는 이제 전 세계 Google AI Ultra 5x 구독자에게 제공됩니다. — @GeminiApp의 노트북은 이제 유럽 경제 지역, 영국 및 스위스에서 사용할 수 있습니다 — DiffusionGemma, 최신 실험 오픈 텍스트 생성에 대한 매우 빠른 접근 방식인 텍스트 확산을 탐색하는 @googlegemma 모델",
-      "published_at": "2026-06-12T16:55:50+00:00"
     },
     {
       "id": "x:karpathy:2064409694761054332",
