@@ -1,22 +1,98 @@
 {
-  "updated_at": "2026-08-07T13:02:52+00:00",
+  "updated_at": "2026-08-07T14:52:44+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 19
+    "new_this_run": 6
   },
   "briefing": {
-    "headline": "미국 실업률 4.1%로 하락",
+    "headline": "SK하이닉스, 엔비디아 HBM 반값 공급설 부인",
     "bullets": [
-      "미국 7월 고용보고서 실업률 4.1%",
-      "비농업고용자수 2.3만명 감소",
-      "중국 8대 태양광 폴리실리콘 기업 원가 이하 판매 금지",
-      "엔비디아, 중국 공급망 찾기",
-      "SK하이닉스, 엔비디아 HBM 반값 공급설 부인"
+      "미국 7월 고용보고서: 실업률 4.1%로 하락",
+      "메모리 가격 상승 정점 곧 도달할 것",
+      "중국 8대 태양광 폴리실리콘 기업, 원가 이하 판매 금지 성명",
+      "SK하이닉스, 효성중공업 목표가 상향 조정",
+      "골드만삭스&JP모건, 이노라이트 홍콩주식 대규모 매수"
     ],
-    "generated_at": "2026-08-07T13:02:52+00:00",
+    "generated_at": "2026-08-07T14:52:44+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/24440",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24440",
+      "text": "Citi) 마이크론; 중간 분기 업데이트: FMS 컨퍼런스 이후 목표주가 하향. TP $1150(기존 $1500)\nCITI의 견해\n당사는 Future of Memory and Storage(FMS) 컨퍼런스에서 메모리 공급망 및 서드파티 전문가들을 만난 후 DRAM/NAND 가격 가정을 조정합니다. 메모리 동종업체들의 엇갈린 실적에 따른 시장 멀티플 하락을 반영해, 수정된 C27 EPS에 기존 10배가 아닌 8배 P/E를 적용하여 MU 목표주가를 1,400달러에서 1,150달러로 하향합니다. 펀더멘털 측면에서는 DRAM과 NAND 가격 모두 향후 4개 분기에 걸쳐 전분기 대비 상승폭이 둔화되면서 내년 2분기에 가격이 정점을 찍을 것으로 봅니다. 다만 마이크론의 매출총이익률은 현재의 80% 중반에서 하락하되, 높은 기저에서 가격이 하락하는 가운데 DRAM 비트의 약 40%가 LTA 가격 계약 하에 있어 내년에는 70% 중반 수준을 유지할 것으로 예상합니다. Buy 의견을 유지합니다.\nDRAM/NAND 가격 가정 조정 — 8월/11월/2월/5월 분기의 전분기 대비 DRAM 가격 가정을 기존 23%/10%/2%/0%에서 23%/9%/2%/0%로 조정하며, 2H27은 이제 반기 대비 3% 하락으로 봅니다. NAND 가격 가정은 기존 29%/9%/1%/0%에서 29%/7%/0%/-1%로 변경하며, 2H27은 이제 반기 대비 5% 하락으로 봅니다. FY27/28 EPS를 각각 1%/2% 하향합니다.\n무엇이 잘못될 수 있는가? — NAND와 DRAM 양쪽 시장에서의 중국 경쟁과 캐파 증설이 당사 논지에 대한 가장 큰 리스크입니다. YMTC는 내년에 현재 가동 캐파 20만 장에 웨이퍼 투입 5만~6만 장을 추가할 계획이며, 상당한 수준의 NAND 기술을 보유하고 있고 2030년까지 최대 NAND 업체가 되는 것을 목표로 하고 있습니다. CXMT는 내년에 DRAM 캐파를 35만 장에 5만 장 추가할 계획이며, 수율은 낮지만 2030년까지 약 60만 장 도달을 목표로 하고 있습니다. 미국 정부가 중국산 메모리의 미국 판매를 허용할 가능성은 낮지만, 유럽 등 다른 지역의 데이터센터向 판매는 마이크론에 간접적인 영향을 줄 수 있습니다.\n엇갈린 메모리 동종업체 실적 — 삼성전자(Peter Lee 커버리지)는 2분기 DRAM ASP가 전분기 대비 40% 중반, NAND ASP가 전분기 대비 60% 후반 상승하면서 메모리 매출과 영업이익이 컨센서스를 상회했다고 발표했습니다. 삼성은 계획된 캐파의 60~70%를 장기계약(LTA)에 배정할 계획입니다. 삼성은 주요 데이터센터 고객과 5건의 LTA를 체결했으며, AI 수요에 대응하기 위해 추가 5개 고객과도 최종 단계에 있습니다. SK하이닉스(Peter Lee 커버리지)는 HBM 익스포저가 더 크고 일부 제품이 소폭 이연되면서 매출과 영업이익이 컨센서스를 소폭 하회했습니다. DRAM ASP는 전분기 대비 30%, NAND ASP는 전분기 대비 50% 중반 상승했습니다. SK하이닉스는 10건의 LTA를 체결했으며 계약 기간은 통상 5년으로, 그중 하나는 5,000억 달러 규모의 엔비디아 계약을 포함합니다. 샌디스크(Asiya Merchant 커버리지)는 가격 상승세가 다소 약해지면서 9월 분기 매출 가이던스가 기대에 미치지 못했습니다. SNDK는 총 8건의 NBM(다양한 데이터센터 및 OEM 고객, 가중평균 계약 기간 4년)을 체결했으며, 이는 각각 FY27/28 비트의 50%/약 66%에 해당합니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/nzO6qSnPJJ6NRoLFM5m-kxRmsJFWCeSjed36Yr-piyMMlRnFk_3PsFdgfSRZ8mZBgtdlCnTm0pIk7o1c5iXzUjUmB-fMSXeBvseTEw-HQRNqTuTkLwaFpLd_6RC_aed2VjlzPK-2byzJbRULUWGqsRe3pB4YThsbv3y8QF9KaSpStMGUDnYqxaancK6GLnERMV6Y4CcFdwcce5quv_IP3i3o5NrfRELamTtz9W8b7aFXQt8b7xQlhb7Dv0RTdtgmcaqyhO4IZxOQGFQXLjC2Dko1v9nHHPSu9IBy2Tgyzblrr8mAWCTv9Q3Xub67nG5xECW6a3lVERlF5YCOLQMoEw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-07T14:47:27+00:00"
+    },
+    {
+      "id": "tg:EMchina/32197",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32197",
+      "text": "트럼프, 금리 인하에 대한 코멘트: 금리 인하 희망. 그러나 케빈 워시 한 사람에게 전적으로 달려 있는 것 아님  • 금리 인하 결정이 ‘어느 정도는 연준 의장에게 달려 있으나 전적으로 그렇지는 않다‘고 언급. 금리 조정이 의장 혼자서 결정할 수 있는 것은 아님을 인정  • 저금리 지지 재확인. 동시에 연준 인사에 대해 정치적 성향 비판. 과거  파월에게 금리 인하 자주 요구. 이번 신임 의장에 대한 발언은 분명히 완화됐으나 시장은 여전히 연준의 독립성…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T14:47:25+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24439",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24439",
+      "text": "JP모건) 효성중공업 2Q26 NDR 시사점: 견조한 미국 모멘텀 지속. 목표가 410만원.\n2분기 실적 발표 후 진행된 NDR 그룹 투자자 콜에서 효성중공업은 중공업 부문의 FY26 매출 가이던스를 기존 15%에서 25% 성장으로 상향 조정했습니다. GCB처럼 변압기 대비 리드타임이 짧은 제품에서 상반기 수주 모멘텀이 예상을 상회한 것이 상향의 주된 배경이며, 하반기 실적 모멘텀 개선은 미국 기여도가 주도할 것으로 회사는 보고 있습니다. 신규 수주 ASP 흐름도 여전히 양호한데, 경영진은 가격 상승 속도가 과거 대비 둔화될 수는 있으나 특히 미국에서 수요가 공급을 계속 초과하고 있어 마진은 지속 가능하다는 입장입니다.\n마진 상승 여력은 제품 및 지역 믹스 개선에서 점차 확대될 전망입니다. 최근 미국에서 수주한 고사양 변압기와 GCB는 30~40% 이상의 마진을 확보하고 있으나 현재 인도되는 물량은 아직 마진이 낮은 과거 수주분이 반영되고 있으며, 500kV를 넘는 일부 고사양 GCB 및 변압기는 여타 고전압 제품 대비 약 10%p 높은 마진을 가질 수 있습니다. 하반기에는 765kV 변압기와 800kV GCB 수주가 추가로 기대되고, 2분기에 이미 약 2,000억 원 규모의 765kV 수주를 확보했습니다. 한국에서 미국으로의 수출 비중도 변압기와 GIS/GCB를 중심으로 현재 30% 미만 수준에서 상승할 것으로 예상됩니다.\n수주의 80~90%는 유틸리티 및 전력망 고객이 차지하고 있어 데이터센터 프로젝트 지연이 전체 수주 모멘텀에 미치는 직접적 영향은 제한적입니다. 경영진은 대형 데이터센터가 여전히 계통 연계를 필요로 하는 만큼 FTM 송전 수요는 견조하며 BTM은 추가적인 기회로 보고 있고, 하이퍼스케일러들이 전압 수준을 높이고 최근 FERC 이니셔티브 하에서 송전에 보다 직접적으로 참여할 가능성에서도 기회를 보고 있습니다. 다만 조달 구조와 수익성에 대한 가시성은 아직 제한적입니다.\n퀀타와의 합작법인은 10월 출범 예정으로, 미국 EPC 업체인 퀀타의 네트워크를 통해 유틸리티 및 데이터센터 기회에 더 깊이 접근할 수 있다는 점에서 전략적 가치가 있다는 평가입니다. 현지 GCB 생산은 10월 개시 예정이며 매출 기여는 램프업 이후 내년부터 시작될 전망인데, 현재 가이던스에는 합작법인 기여가 반영되어 있지 않아 향후 상방 요인이 될 수 있습니다.\n증설도 계획대로 진행 중입니다. 멤피스 변압기 캐파는 현재 약 3억 달러 규모이며 완전 가동 기준으로 2026년 말 약 4억 달러, 2028년 중반 약 7억 달러까지 확대될 전망입니다. 창원 GIS 증설은 2026년 완공 예정으로 연 3,400억 원 규모의 매출 캐파를, HVDC 설비는 2027년 7월 완공 예정으로 연 5,000억~6,000억 원 규모의 매출 캐파를 뒷받침합니다. 현재로서는 기존 프로젝트 외 추가 증설 계획은 없습니다. 프로젝트 파이낸싱 관련 부실채권은 신속한 상환·인수 완료로 3분기 재무제표상 잔액이 남지 않을 예정이며, 유사 사건의 재발 가능성도 매우 낮다는 것이 경영진의 판단입니다.\nJP모건은 미국 익스포저 확대와 고사양 제품 믹스가 마진 상방을 뒷받침한다는 점에서 긍정적 시각을 유지하며, FY27E P/E 약 23배 수준의 밸류에이션이 여전히 매력적이라고 보고 Overweight 의견을 유지했습니다. 목표주가는 410만 원으로 SOTP 기반이며 FY27E 기준 P/E 약 34배, P/B 약 9배에 해당합니다. 미국 LPT 사업에는 2026~28년 강한 이익 성장을 근거로 2027~28년 P/E 약 35배를, 원전·데이터센터 등 고전압 기기 판매 기회 확대를 감안해 기타 중공업 매출에는 약 30배를, 완만한 이익 성장 전망을 반영해 주택 건설 부문에는 약 5배를 적용했습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T14:36:30+00:00"
+    },
+    {
+      "id": "tg:EMchina/32196",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32196",
+      "text": "SK하이닉스, 중국 충칭 공장 신규 투자 유치 고려\n=======================\n~\nSK Hynix Inc\n., a major supplier of high-bandwidth memory chips to Nvidia, is consulting with advisers about potential options for its facility in Chongqing, China, according to a report from Bloomberg News\n~ The company is considering bringing in a new investor for the plant\nhttps://ng.investing.com/news/stock-market-news/sk-hynix-explores-options-for-china-facility-worth-3-billion--bloomberg-93CH-2648004",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T14:03:52+00:00"
+    },
+    {
+      "id": "tg:EMchina/32195",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32195",
+      "text": "메모리 가격 상승 정점 곧 도달?(번스타인)\n• 2026년 3분기 D램 & NAND 계약 가격 상승폭 모두 약 20% 수준으로 축소 예상\n• PC & 휴대전화 수요 부진 및 장기 계약 가격 상한이 가격 인상 여력 제약\n• 공급 부족은 2027년까지 이어지겠지만, 메모리 가격 상승 여력은 이미 제한적인 수준. 가격 상승 국면이 막바지에 근접했을 가능성\n存储涨价的“天花板”快到了？\n伯恩斯坦预计，2026年三季度DRAM和NAND合约价格涨幅均收窄至约20%，PC、手机需求疲软及长期协议价格上限正压缩涨价空间。供应短缺虽延续至2027年，但存储价格上行空间已趋于有限，涨价周期或接近尾声。\nhttps://wallstreetcn.com/articles/3778963#from=ios",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T13:50:58+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21021",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21021",
+      "text": "» 가계조사 기준(Household Employment)의 취업자 수도 6월의 -50.7만명 감소에 이어 7월에도 -8.7만명 감소하며 두 달 연속 감소세를 기록",
+      "images": [
+        "https://cdn5.telesco.pe/file/gBzTPxPGov5j9o9-sZxSw379keEBplaCHUgU0E6_QlbwrGoqv75x31tTLa389HpAPDglsqiAffaDWTxigvz1UBqrCpxnIkxZkD99ObqkQMt-1e7c83fkAZrFs5UQS9dbhQHDdpAAwK5kRGwEGliHJaNymG_grYmqvUHWzqIshXlCrviPvSGaDg8HySvUg_g7sCsl8bkzIsE_hhAiDWhWm9kHPVqjtlnbomqJtw--10JM4LrR6dxGjMCBRLcDpp_QMp3SJvwJHLqkMClEGt3hK7IedgK5NCI12EeSP82yWU3LlfMCVJiUx-VORlzlcuYkGG5qrJJ_qgj4sxxr0475Rw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-07T13:06:48+00:00"
+    },
     {
       "id": "tg:globaletfi/21019",
       "source": "telegram",
@@ -302,18 +378,6 @@
       "published_at": "2026-08-07T09:47:36+00:00"
     },
     {
-      "id": "tg:EMchina/32183",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32183",
-      "text": "~ 통행료 성격의 서비스 요금과 관련해 이란 측 소식통은 이란이 화물 가치의 5~7% 수준의 요금을 원한다고 전했고, 오만은 약 3% 수준의 더 낮은 요금을 논의한 것으로 알려졌다.  ~ 미국은 명칭이 서비스 요금이더라도 선박 통항의 조건으로 사실상 강제된다면 국제 해협의 자유항행 원칙을 훼손하는 통행료라고 보고 반대하는 입장이다  ~ 이란과 오만은 항해 지원, 수색·구조, 해상 보안, 해양오염 대응 같은 실제 서비스에 비용을 매기는 방식이라고 주장한다…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T08:49:25+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/24431",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -364,18 +428,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-07T08:10:15+00:00"
-    },
-    {
-      "id": "tg:EMchina/32182",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32182",
-      "text": "[한투증권 중국/신흥국 정정영]  • 중국이 낮아지면 사는 것   >> 중국 인민은행은 20개월 연속 금 보유를 늘려가고 있습니다. 특히 최근 4개월동안은 매월 증가폭이 확대되는 흐름입니다. 역사적으로 가격 조정 국면에서 어느때보다 적극적으로 사들이는 패턴을 보여왔습니다. 올해 신규 확보한 금 규모는 2025년 연간 규모의 1.5배에 달합니다. 금 뿐만 아닙니다. 원유도 유가 조정 구간에서 수입량이 늘어나는 사이클이 여전히 지속되고 있습니다  =====…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T08:09:59+00:00"
     },
     {
       "id": "tg:globaletfi/21014",
@@ -550,18 +602,6 @@
       "published_at": "2026-08-07T05:26:30+00:00"
     },
     {
-      "id": "tg:EMchina/32181",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32181",
-      "text": "CATL 이춘시 리튬 광산 생산 중단\nChina’s CATL pauses lithium production at Yichun hub for maintenance amid supply monitoring\nhttps://x.com/FirstSquawk/status/2085585551902884304",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T04:37:19+00:00"
-    },
-    {
       "id": "rss:semianalysis:gemini-is-cooked-but-gcp-is-cooking",
       "source": "rss",
       "author": "semianalysis",
@@ -586,34 +626,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-07T00:32:21+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24426",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24426",
-      "text": "Citi 카카오 TP 48000원 하향",
-      "images": [
-        "https://cdn5.telesco.pe/file/Ismki5aVp2Vcn_YMgK2Rd62lpxmAGrzqalq6pv9F0RrNh1aeAlEDmluIFncbMNX_poSQdjHS9cj2So4JkKSIOE4WKK5Nq_ff-WEvEoDYjvNJMfBQO8dZkIbI-iqXjIra9r4_UuUNl0AHlt-sxecb2E0tx6Oi1WagNkcAmA0UNzjQ_zh9N8X-DkdzekO45O8PsGQjUfMxur21ce696UrJtxO-6tgnhnx-GiJVhdH_VCb8GXnIdQHbBj5mB_n3c2G8_kNm1Hd53gYGW5lf9OdL19JhtpfJagxF_t3Z5RJCXjxYeLgwmYz5FJHVKW5Zk8xzQRUno94FYHMBpwtzdX1tpw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-06T23:38:13+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24425",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24425",
-      "text": "JP모건) 데이터독(Datadog); 2분기 리뷰: 사용량이 견인하는 가속 지속; 최대 고객사가 주시 포인트가 되겠으나 전반적 성장 동인은 상당히 견조; 비중확대(OW) 의견 유지. TP $305(기존 $320)\n요약\n이번 분기 데이터독은 투자자들이 통상 기대해 온 수준의 실적 상회를 재현했으며, 특히 소비량·사용량 기반 매출 동인이 기존 핵심 고객과 AI 네이티브 고객 모두에서 가속되는 모습을 보였습니다. 견조한 매출에 힘입어 연간 매출과 이익 전망이 모두 상향되었음에도, 실적 발표 콘퍼런스콜의 초점은 최대 고객사의 사용량 감소에 맞춰졌습니다. 이로 인해 회사는 3분기 가이던스를 보수적으로 조정했고, 3분기 매출은 전분기 대비 한 자릿수 초중반 증가에 그칠 것으로 제시되었는데, 이는 2분기의 11% 전분기 대비 증가나 최근 6개 분기 평균인 높은 한 자릿수 증가율에 비해 낮은 수준입니다. 회사는 해당 고객과 이미 갱신 계약을 체결했으며 조건이 기존과 대체로 유사하다고 설명해 투자자를 안심시키고자 했습니다. 다만 이 고객은 통상 약정 사용량을 크게 웃도는 실제 사용량을 보여 왔는데, 최근 사용량이 줄어들면서 경영진은 향후 사용량을 보다 보수적으로 보고 약정 물량만을 전망에 반영하기로 했으며, 이는 3·4분기 전년 대비 성장률에 부담 요인으로 작용합니다. 사용량 감소의 구체적 원인은 파악하기 어렵겠으나, 경영진은 최대 고객을 제외한 매출도 2분기 보고치인 약 36% 전년 대비 성장률과 거의 유사한 속도로 확대되었다고 밝히며 전반적 성장 동력에 대한 자신감을 드러냈습니다. 성장의 근본 동인 측면에서는 AI 네이티브가 아닌 핵심 고객 주도 매출 성장률이 1분기 20%대 중반에서 20%대 후반으로 가속되었고 경영진은 이를 지속 가능한 동인으로 보고 있다는 점, 그리고 신규 고객이 성장에 기여한 비중이 1분기 25%에서 30%로 높아져 신규 고객 확보 시 초기 계약 규모가 이전보다 커졌음을 시사한다는 점이 긍정적이었습니다. 옵저버빌리티와 보안을 아우르는 통합 제품군, AI로 인한 인프라 복잡성 증대, 그리고 향후 기업 IT 전반으로 확산될 자율 AI 에이전트에 대한 가시성·모니터링 기회를 감안할 때 데이터독은 빠르게 확대되는 TAM을 활용하기에 유리한 위치에 있다고 판단됩니다. 동종 업체 대비 높은 성장률이 지속되며 프리미엄 밸류에이션이 정당화될 것으로 보며, 매출·이익 추정치를 소폭 조정하고 2027년 12월 목표주가를 305달러로 제시합니다.\n2026 회계연도 2분기(6월 결산) 실적에서는 강한 매출 성장과 판관비 레버리지가 다소 부진했던 매출총이익률을 상쇄하며 이익 상회를 이끌었습니다. 매출은 전년 대비 36% 증가한 11.21억 달러로 JPM 추정치 10.75억 달러와 컨센서스 10.79억 달러를 상회했으며, 2022년 2분기 이후 가장 높은 전분기 대비 성장률과 1.15억 달러라는 사상 최대 전분기 대비 증가액을 기록했습니다. 상회 폭은 고객 규모, 지출 구간, 산업 전반에 걸쳐 광범위했고, 비AI 고객 매출 성장률은 1분기 20%대 중반과 1년 전 18%에서 20%대 후반으로 가속되었습니다. 빌링은 전년 대비 38% 증가한 11.8억 달러, RPO는 43% 증가한 34.7억 달러, cRPO는 약 40% 증가했으나 RPO 듀레이션도 함께 늘어났습니다. NRR은 120%대 초반, 총유지율은 90%대 중후반을 유지했습니다. 총 고객 수는 약 33,400개로 6% 증가했고, ARR 10만 달러 이상 고객은 23% 증가한 약 4,720개로 전체 ARR의 91%를 차지했으며, ARR 100만 달러 이상 고객은 31% 증가한 603개였습니다. 플랫폼 침투도 심화되어 4개 이상 제품 사용 고객 비중이 1년 전 52%에서 58%로, 6개 이상은 29%에서 37%로, 10개 이상은 7%에서 13%로 높아졌고, RUM(Real User Monitoring)은 ARR 2억 달러를 돌파하며 50%를 넘는 성장률로 가속되었습니다. PF 매출총이익률은 79.6%로 JPM 추정치 80.5%와 컨센서스 80.6%를 밑돌았고 1분기 80.2% 대비로도 하락했는데, 경영진은 혁신 투자와 효율화 노력 간 균형에 따른 분기별 변동성으로 설명했습니다. 판관비는 DASH 관련 비용 약 1,500만 달러를 포함하고도 매출 성장률을 밑도는 26% 증가에 그치며 PF 영업이익률 22.9%를 견인했고, 이는 JPM 추정치 21.4%와 컨센서스 21.6%를 상회하는 수치입니다. FCF는 2억 7,870만 달러로 JPM 추정치 2억 830만 달러, 컨센서스 2억 1,500만 달러를 크게 웃돌며 FCF 마진 약 25%를 기록했습니다.\n2026 회계연도 3분기(9월 결산) 가이던스는 최대 고객의 사용량 감소를 반영하고 관련 리스크를 제거했음에도 매출과 마진 모두 시장 기대치를 상회합니다. 매출 가이던스는 11.35억~11.45억 달러로 중간값 11.40억 달러가 JPM 추정치 10.81억 달러와 컨센서스 11.07억 달러를 웃돌며, 전년 대비 28~29%, 전분기 대비 약 2% 성장을 시사합니다. 이 전망에는 3분기부터 시작되는 최대 고객의 사용량 감소가 반영되어 있으며, 경영진은 잔여 기간 동안 해당 고객에 대한 리스크를 전면적으로 제거하는 방식을 택했습니다. 그럼에도 이 고객은 9자리 규모의 갱신 계약을 완료했고 여전히 17개 데이터독 제품을 사용하고 있어 상업적 관계에는 상당한 연속성이 있는 것으로 보이며, 경영진은 기본 약정과 변동 사용량이 결합된 여타 대형 엔터프라이즈 계약과 유사한 형태라고 설명했습니다. 또한 이는 특정 고객에 국한된 사안이며 나머지 사업은 계속 가속되고 있다는 점을 강조했습니다. PF 영업이익 가이던스는 2.60억~2.70억 달러로 중간값 기준 PF 영업이익률 23.2%를 시사하며, JPM 추정치 22.0%와 컨센서스 22.9%를 상회합니다.\n2026 회계연도 전체(12월 결산) 가이던스 역시 최대 고객 관련 역풍을 반영한 이후에도 매출과 영업이익률 전망이 기대치를 앞섭니다. 연간 매출 가이던스는 44.5억~44.7억 달러로 중간값 44.6억 달러가 JPM 추정치 43.2억 달러와 컨센서스 43.5억 달러를 상회하며 약 30%의 전년 대비 성장을 시사합니다. 상반기 실적과 3분기 가이던스 중간값을 감안하면 4분기 매출은 약 11.92억 달러, 전년 대비 약 25% 성장에 해당하는데, 2분기 대비 둔화는 최대 고객의 사용량 감소와 최근 사용량 추이에 대한 데이터독 특유의 보수적 접근이 함께 반영된 결과입니다. PF 영업이익 가이던스는 10.1억~10.3억 달러로 중간값 기준 PF 영업이익률 22.9%를 시사하며 JPM 추정치 22.2%와 컨센서스 22.5%를 웃돕니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/sCJ_7mZ1itV-We-IRo4j0xzIthPg5k-Vl5N4TFkutjhuGdIBAJj0TIJPB-OTqBrc5RV49IquHgDX2sg7g2IAQwsSeFdQKRdC7dFlKyPGesanlfFDrkonzYGllWex4CmkpWH1yF76ibPHGkcwqBMiH_v54bopQS8htRpEitFv_0s1n8CmZJglRc1LOu_5Dry4iL7a3JActwKMaAdFXNKJ6KUMrXzeIUAd-dQL1bVglnfswUQKOjRcExbuI78MtfJqFlAJYxMBVC3Z9JcSV5Q4Sex-qXFrI0-YoVi3BxlU32-BJ1AqdD-8A2xHKa6J6CF176rSH74d9vfYCn378bJajg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-06T23:22:46+00:00"
     },
     {
       "id": "tg:globaletfi/21010",
@@ -669,18 +681,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-06T22:52:37+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21006",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21006",
-      "text": "하나증권 중국기업분석 백승혜\n캠브리콘(\n688256.CH\n): 올해 실적 최대 변수는 공급망/메모리로 인한 출하 지연\n자료:\nhttps://buly.kr/4xa5Zcq\n◆ 하반기 MLU580/690 대량 양산으로 매출액 급증 기대\n캠브리콘의 2Q26 매출은 30억위안(YoY +70%/QoQ +4%), EPS는 2.1위안(YoY +90%/QoQ +30%)가 예상. 중국 내 AI 가속기 수요가 급증함에 따라 캠브리콘의 분기 매출 규모는 2025년 10억위안대, 2026년 상반기 20~30억위안대로 확대될 전망, 2026년 하반기에는 기존 최상위 제품인 MLU580의 현지 공급망 대량 양산 돌입과 차세대 제품 MLU690의 출시로 분기 매출 규모가 70억위안 이상대로 급증할 전망.\n올해 캠브리콘 실적의 변수가 될 수 있는 부분은 1)현지 공급망의 양산 안정화 여부, 2)메모리 수급 제약 등으로 판단. 현재 MLU580/590 출하가 모두 예상보다 느리게 진행 중인 것으로 파악되어 올해 확보한 대규모 수주의 매출 전환 속도가 시장의 기대보다 더딜 가능성.\n◆ 중국 AI 반도체 경쟁은 개별 칩 성능에서 시스템 단위로 이동\n중국의 AI 가속기 시장 경쟁은 개별 칩 성능에서 시스템 단위 성능으로 이동하고 있으며, 강력한 시스템 설계, 전력 인프라, 정책 지원 등을 기반으로 중국 AI 칩 국산화율을 높이는 데 지속적으로 기여할 전망. 중국 AI 반도체는 개별 칩 기준으로 미국보다 약 2세대 뒤처져 있지만 멀티다이 설계, 첨단 패키징, 랙 스케일 시스템 아키텍처, 광 네트워킹, SW/HW 공동 최적화를 통해 실질적인 성능 격차를 좁히고 있음.\nAI 수요가 추론과 가동률 중심으로 전환되고 있기 때문에 최고 성능의 칩보다 비용 효율성, 제품 접근성이 좋은 AI 칩 공급업체가 중국 CSP 등 주요 고객사들로부터 선택을 받고 있음. 중국의 AI 반도체는 현재 수입 가능한 엔비디아 제품(H200/H20)보다 총소유비용이 30~50% 수준으로 상당히 낮지만 추론 워크로드에서 대체로 유사한 수준의 토큰당 비용을 달성할 수 있는 것으로 추정. 중국의 AI 칩 국산화율은 2025년 약 41%에서 2030년 70~80% 수준으로 빠르게 상승할 것으로 전망.\n*텔레그램 채널:\nhttps://t.me/hanaglobalbottomup\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T22:52:10+00:00"
     },
     {
       "id": "x:GoogleAI:2085460535932232002",
