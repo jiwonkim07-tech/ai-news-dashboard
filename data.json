@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-07T22:35:04+00:00",
+  "updated_at": "2026-08-07T23:33:25+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 10
+    "new_this_run": 1
   },
   "briefing": {
     "headline": "메타, Muse Code로 엔터프라이즈 AI 공략",
@@ -10,13 +10,27 @@
       "SK하이닉스, 중국 충칭 공장 신규 투자 유치 고려",
       "미국 7월 고용보고서, 실업률 4.1%로 하락",
       "중국 8대 태양광 폴리실리콘 기업, 원가 이하 판매 금지 성명 발표",
-      "엔비디아, 중국 공급망 찾는 중",
-      "메모리 가격 상승 정점 곧 도달할 것"
+      "메모리 가격 상승 정점 곧 도달할 것",
+      "미국 국채금리, 단기 구간 중심의 하락"
     ],
-    "generated_at": "2026-08-07T22:35:04+00:00",
+    "generated_at": "2026-08-07T23:33:25+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32205",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32205",
+      "text": "CXMT 추이  1일차 +465.82% 음봉 2일차 -4.08% 양봉 3일차 +12.66% 양봉 4일차 -0.15% 양봉 5일차 +2.08% 음봉  8/3부터 상하한 20% 적용  6일차 +1.89% 양봉 7일차 +0.02% 양봉 8일차 -1.27% 음봉 9일차 -4.31% 음봉",
+      "images": [
+        "https://cdn5.telesco.pe/file/nMzGuOSop9kDWl4Ly7N2tQxj2qLXkEYlR1gExI_LoF5EpUgEkW9LcnayylxPq9lKzN-cQda7c1ToforldcS1o6dm8ZdfzIGpIcEfUjBxwxM76taiX4ZlOSP0n2abtuCjx70GSPFvMgju_ILRI3GWfsW1CsOS8To7GE7N8oiuNkOHPVMBhAs9juUjzpeNW-tBtGsid-2Aikr7CLRuV1UzgmCCgYB5BXfEAbt1Pda2hDorrQRMAEXK5od1XOksiS-2oodh4Keb6huAjH84IFrOs9MVUCNLnKdJqdmRcbFUxAwf4pzZXPdTgBVvalFJa90y__0lcOBd3_HknGhddt76fw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-07T23:25:49+00:00"
+    },
     {
       "id": "tg:EMchina/32204",
       "source": "telegram",
@@ -429,18 +443,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-07T12:33:04+00:00"
-    },
-    {
-      "id": "tg:EMchina/32191",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32191",
-      "text": "중국 공급망 찾는 엔비디아  • 해외 시장 타겟. AI 컴퓨팅 플랫폼 및 무선 네트워크 장비 통합한 6G 시스템  =======================  ~ Nvidia is reportedly seeking a Chinese base-station maker to combine its AI computing platform with wireless network equipment for 6G systems aimed at overseas markets…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T12:31:01+00:00"
     },
     {
       "id": "tg:bornlupin/19591",
