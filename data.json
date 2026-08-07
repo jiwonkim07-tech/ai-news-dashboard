@@ -1,21 +1,75 @@
 {
-  "updated_at": "2026-08-07T10:06:42+00:00",
+  "updated_at": "2026-08-07T11:44:56+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 3
+    "new_this_run": 4
   },
   "briefing": {
     "headline": "SK하이닉스, 엔비디아 HBM 반값 공급설 부인",
     "bullets": [
-      "DRAM 20~30% 추가 상승, NAND Flash 35~40% 추가 상승 예상",
-      "CATL 이춘시 리튬 광산 생산 중단",
-      "딥시크, 전반적인 가격 인상 계획 발표",
-      "중국 7월 수출입 +20%대 성장"
+      "메모리 업황 조정 '막바지'",
+      "SK하이닉스 EPS 13% 상향",
+      "DRAM 20~30% 추가 상승 예상",
+      "CATL, 소듐이온배터리 기반 에너지저장장치 확장"
     ],
-    "generated_at": "2026-08-07T10:06:42+00:00",
+    "generated_at": "2026-08-07T11:44:56+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/24437",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24437",
+      "text": "최태원 회장이 SK 하이닉스 1.5주년치 현물배당(HBM칩스, 2000원)을 하고 있다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/n8tVaZDanc3743NznCro-tanqQQ6G1ncFMIuGxMEt4FFCeTx9GxeBtr64lYFne795O-3bvRv9Ef87nF0nybL-vVDhDVFJ1U9bzzkKyUZoW6QjASDNpn1nPLqbtzmVRWDtZn1fbHYKZn2nz2pov_tGf7sj6AdN9TMOsTbuWp_SNPtKeH5F3cN1CsskPqV0F7eshhjgKlRs6qbulZ8M9A8ERXmfLd7vHg2DAJS2oVExWpgB3LgcR_0OZRhH2NJ4Ew5tBhN9TXGgL2PsEVzb3qDmNLxz4VaWd-3Hp8WdlJra_G_IGno0x08DtJKoAeJG2HAzywRGo_6TisoGDrDczjkxw.jpg",
+        "https://cdn5.telesco.pe/file/fWaPERrjdHIUR12_CNjFyZk5HY6TxVly7li6sCRvw3M49srSQzd125GS6eXSTJFnZOz2wmBTjtXz_WFmBPaJdGLPdlTB_opUzTLMFTP_dcIxVnMHqKtvEAlvS6ztmt1RGGA3MQVhXLXldutpjplfMzLbOF9yHBv7TSl6L4xRCmLdpMWkjv5Y6TnskfBuVdkCj6oWD60WDJhNBhz7EUCvvALNkPJzLOaODp1BOhulYur2i4zrcw9iroUSnmhoidbENJDy3ZeWKNOcntQQjYSrhcSjO3athKqQHb9SwtBV7dEeFaoD_2YIxlvFiYfOiiahm-VeVSDMXUctr9gDnC_55g.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-07T11:18:58+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24434",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24434",
+      "text": ">>모건스탠리 Shawn Kim “매도에서 매수로 전환”: 메모리 업황 조정 “막바지에 가까워졌음”, SK하이닉스 EPS 13% 상향\n•보고서에서 메모리 반도체 업종의 가장 극심한 조정이 막바지에 가까워졌으며, 현재 밸류에이션이 매우 매력적이라고 지적했음. 삼성전자와 SK하이닉스에 대한 장기 강세 입장과 목표주가를 유지했으며, 두 회사의 주가가 현재 수준에서 60% 이상 상승할 여지가 있을 것으로 전망\n•AI 수요의 구조적 확대, 기업들의 자본수익률 전환 및 장기계약이 업종 펀더멘털을 뒷받침할 것으로 전망했음. Kim은 7월에 메모리가 단기적인 조정을 받을 가능성이 있다고 경고한 바 있음\n>大摩Shawn Kim“空转多”：存储行情修正“接近尾声”，SK海力士EPS上调13%\nhttps://wallstreetcn.com/articles/3778927#from=ios",
+      "images": [
+        "https://cdn5.telesco.pe/file/lhRA2fjugXeKvTNEwFF3UG84XLaCM9r1HWMiDFTamJqiSymw8WrSdN0zsaipmIOmUTf4SZ0_ewvZmbStmtpG-bx8itwdFhS5R-erxOCruzS5HAGvkKt6cepHNkPkkbie4vh8s56a7UlG3GXFKixz5YZk4IoB8VkeGc76kN5-LtmfvuieLAZx0gqEEBrC18CgwmgNMr_BH0cjC8XIA3zSbXwGW3HrQpb5FGhZB5jNnjq0549hcg1EAo4Z52Bt3CJ9g4qD2HNu94XtclgK1pnpc7DwXDUF-g2K0lWctPpXYL8Z9EkgUzkJkdC0FWuRmkSO3dSbEBL52gynBwAbVY5MjA.jpg",
+        "https://cdn5.telesco.pe/file/OxSnEUFcWsj3Nzw3bM1oLkjBkTNMOqBf8HfSRHACy9TLnvSIzB5ZmT-iK6Wi8W5lsXiPV-ufoUOQXCR_aJCdvOekOME7ks8Fi2-4M-PjdP8n6JGteVDmk3eTYanjAa7i_ceUosd5OVLsquhHF4HIl1nUR-oRXUowPEdPj8a0XkFfMEvQ2SEzf7H33Vf6L4OO7223qTKJOeLJ3VITmyqk5GRbl5KPscmFbt3RwzyeWzbKE1fdaOS6MhF0Ixy-lplC8wGnlevwSQBwXf01-g5VTrLi-fEB7qMPCZ401je7sgUjWfpAi8qN2fFA2zUaqmrgMYGQuTiFSlGvfwjFOiWveQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-07T11:15:08+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24436",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24436",
+      "text": ">>Gemini 붕괴, Meta가 추월해 ‘AI 3위’가 됐나? 구글은 1년 전의 Meta가 될 것인가? (중국언론)\n•\n하루 만에 시가총액이 1,800억 달러 넘게 증발.\nGemini 출시 연기가 구글 AI 고위층의 대지진을 촉발. 최고급 인재들이 집단적으로 이탈하고, Hassabis가 물러났음.\n실행형 인사들이 전면적으로 권한을 넘겨받았음.\n구글은 ‘연구기관’이라는 환상을 철저히 버리고, 냉혹한\nAI 산업화·상용화\n로 전환하고 있음. 이번 늦은 현실주의적 재편이 구글의 AI 패권을 구할 수 있을지가 관건임\n>Gemini崩塌，Meta反超成为“AI老三”？谷歌会是一年前的Meta 吗？\nhttps://wallstreetcn.com/articles/3778925#from=ios",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T11:15:08+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24433",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24433",
+      "text": "이란 반체제 매체 \"최고지도자 모즈타바 위독설\" | 연합뉴스\nhttps://www.yna.co.kr/view/AKR20260807132200079\n제발",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T10:25:40+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24432",
       "source": "telegram",
@@ -768,30 +822,6 @@
       "published_at": "2026-08-06T15:36:53+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24424",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24424",
-      "text": "Citi) SUMCO; 매수 2분기 실적 - 다소 부정적이나, 경쟁사들과 유사한 상황으로 보임. TP 3900엔\n씨티의 견해\n2분기 실적과 가이던스는 모두 예상에 부합했으나, LTA(장기공급계약) 협상이 아직 시작되지 않았다는 점이 확인된 것은 주가에 다소 부정적으로 작용할 전망입니다. 2분기 영업손실 10억 엔은 당사의 10억~20억 엔 손실 전망에 부합했고, 3분기 영업이익 가이던스 0억 엔 역시 예상 범위(-10억 엔~+10억 엔)와 일치합니다. 경쟁사들과 마찬가지로 300mm 라인은 거의 완전 가동 상태입니다. 1) 경영진은 LTA 협상이 아직 시작되지 않았다고 설명하면서, 현행 LTA 만료 이전에 협상을 개시할지 이후에 개시할지를 검토 중이라고 밝혔습니다. 2) 기존 LTA는 순차적으로 만료될 예정이며, 일부는 2028년경까지 유효합니다. 3) 고객사들로부터 증설 요청을 받고 있습니다. 4) 증설에 앞서 상당한 폭의 가격 인상이 필요하다는 점을 재확인했습니다. 5) 3월에 중단된 요시노가리 신공장 건설을 재개할 계획은 현재 없습니다. 6) 현재는 기존 설비에 대한 업그레이드 투자를 진행하고 있습니다.\n시사점 — 경쟁사들이 협상을 진전시키고 일부는 타결까지 마친 상황에서 스미코가 아직 LTA 협상을 개시하지 않았다고 밝힌 점에 많은 투자자들이 당혹감을 느낄 것으로 보입니다. 다만 스미코가 고객사들로부터 증설 요청을 받고 있다는 점에서, 현시점의 상황은 경쟁사들과 유사하다고 판단합니다. 당사는 스미코가 재투자를 가능하게 하는 수준의 가격 협상을 위해 수급이 더욱 타이트해지는 시점에 맞춰 협상 시기를 조율하고 있을 가능성이 있다고 봅니다.\n*SUMCO는 웨이퍼 제작 회사로, 세계 1위인 신에츠화학에 이은 세계 2위 회사입니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T15:09:17+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24423",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24423",
-      "text": "Citi) SK하이닉스; 매수 의견 유지: 지속되는 메모리 업사이클 + HBM 공급 부족 + 주주환원. TP 310만원 (유지)\n씨티의 견해\n당사는 현재 AI 주도의 메모리 업사이클이 아직 초기 단계에 있다고 보며, AI 수요가 DRAM과 NAND를 모두 견인하고 있다는 점에서 2001~2007년의 NAND 업사이클을 능가할 가능성이 있다고 판단합니다. 지속되는 HBM 공급 부족은 칩 제조사들을 스케일아웃 방향으로 이끌고 있으며, GPU당 HBM 탑재량이 감소함에도 AI 시스템당 총 HBM 용량은 433% 급증할 것으로 전망됩니다. 중장기 실적 가시성이 견조한 만큼, 당사는 하이닉스가 3분기 실적 발표에 앞서 주주환원 프로그램을 공개할 것으로 전망합니다. 매수 의견을 유지합니다.\n1. 장기 메모리 업사이클 전망: 아직 2회 초 - 메모리 산업의 오랜 역사적 사이클 관점에서 볼 때, 당사는 현재의 AI 업사이클이 2001년부터 2007년까지 7년간 이어진 장기 NAND 업사이클과 유사하다고 봅니다. 당시에는 MP3 플레이어와 디지털카메라 같은 새로운 최종 응용처가 등장했고, NAND가 기존의 카세트테이프와 아날로그 카메라 필름을 점차 대체했습니다. 과거의 대규모 업사이클이 NAND에 의해서만 주도되었던 것과 달리, 현재의 AI 사이클은 AI 수요가 DRAM과 NAND 수요를 동시에 견인하고 있다는 점에서 2001~2007년 업사이클을 상회할 가능성이 높다고 판단합니다. 고객사들이 3~5년 장기공급계약(LTA)을 추진하고 있다는 점에서 알 수 있듯, 당사는 현재의 업사이클이 예상보다 오래 지속될 것으로 봅니다.\n2. HBM 공급 부족: AI 칩 제조사들, 스케일업에서 스케일아웃으로 전환 - 최근 노트(\nGlobal Semiconductors - AI Chipmakers to Pivot from Scale-Up to Scale-Out Amid HBM Shortage\n)에서 강조했듯, 당사는 지속적인 HBM 공급 부족으로 인해 고객사들이 스케일아웃 방식으로 이동하여 유닛당 HBM 탑재량은 낮추되 더 많은 수의 GPU를 채택할 것으로 예상합니다. GPU당 HBM 탑재량이 낮아짐에도 불구하고, 시스템 단위 GPU 수가 72개에서 576개로 확대됨에 따라 AI 시스템당 총 HBM 용량은 20.7TB에서 110.6TB로 434% 급증할 것으로 전망합니다.\n3. 하이닉스, 3분기 실적 발표에 앞서 주주환원 계획 발표 전망 - 하이닉스는 2분기 실적 컨퍼런스콜에서 다양한 주주환원 방안을 검토 중이라고 밝혔습니다. 최근의 주가 조정을 감안할 때, 당사는 하이닉스가 3분기 실적 발표 이전에 주주환원 프로그램을 발표할 것으로 예상합니다. 진행 중인 AI 메모리 업사이클과 LTA 계약을 통해 확보한 상당한 규모의 선급금에 힘입어 중장기 실적 가시성이 명확해지면서, 하이닉스가 건설적인 시장 전망과 함께 양호한 수준의 주주환원을 제시할 것으로 기대합니다. 최근의 시장 상황 전개를 반영해 당사는 26E/27E 영업이익 추정치를 각각 +4%/+3% 상향하며, 목표주가 310만 원을 유지합니다. 매수 의견입니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T15:03:24+00:00"
-    },
-    {
       "id": "tg:globaletfi/21000",
       "source": "telegram",
       "author": "globaletfi",
@@ -804,32 +834,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-06T15:01:35+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24422",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24422",
-      "text": "Citi) 소프트뱅크 그룹 (9984.T); 1분기는 예상 부합 - 대폭적인 NAV 확대가 부각, LTV는 건전한 수준 유지, 할인율 축소를 전망. TP 9700엔(유지)\n씨티의 견해\nFY3/27 1분기 실적은 매출 2.0조 엔(전년 대비 +11%), 세전이익 5,892억 엔(-14%), 순이익 3,473억 엔(-18%)을 기록했습니다. 투자이익은 총 1.86조 엔으로, 주로 인텔에서 1.33조 엔, 바이트댄스에서 3,600억 엔이 발생했습니다. 당사가 주가의 핵심 지표로 보는 NAV는 FY3/26 기말 40.1조 엔에서 FY3/27 1분기 72.3조 엔으로 크게 증가했습니다. 이러한 확대는 주로 ARM의 주가 상승(27.5조 엔 규모의 영향)에 기인합니다. 다만 소프트뱅크 그룹에 따르면 8월 5일 기준 NAV는 58.3조 엔으로 하락했습니다. 1분기 말 LTV는 13.0%로 25% 기준선을 크게 하회해 재무 상태가 건전함을 시사합니다. 실적에 서프라이즈 요인은 없었으나, 8월 6일 종가 기준으로 주가는 1분기 말 NAV 대비 약 55%, 8월 5일 NAV 대비 45% 할인된 수준에서 거래되고 있어, 당사는 상당한 상승 여력을 갖춘 매력적인 밸류에이션이라고 판단합니다.\n시사점 — ARM 주식은 NAV의 50~60%를 차지하며, ARM의 주가 변동은 앞으로도 소프트뱅크 그룹 주가에 영향을 미칠 것으로 보입니다. 다만 과거 추이를 보면 NAV 대비 할인율은 오랜 기간 50% 내외를 유지해 왔으며, 당사는 현재 주가가 매력적인 수준이라고 판단합니다. 아울러 소프트뱅크 비전 펀드는 후기 단계 포트폴리오 기업들의 공정가치가 1,330억 달러(약 20조 엔)라고 공시했으며, 이는 재무상태표를 뒷받침할 것으로 예상합니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T15:01:03+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24421",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24421",
-      "text": "이걸 말아 올리네",
-      "images": [
-        "https://cdn5.telesco.pe/file/AP4gUrI8B3CVDYtK-AeWN7spH1bkjwgv7z3XZ-en670N-DmAhsQFD8Bw4qQWilaGv6UyefKXIp_x71r_KBy4lbcv3Jf9odHmPxrAmgKQp9y64HtbewgmEqzVdW9hDwFVP4PagBhTiLvYv9S6NBdqyk5zynqNFY_gxT20C2UGQw9XVFRBjMvO66yCmLSls58gC81B1lfRWBmvgBR6p4762Jf9NsDWbgpApZwD_XJYpk2-OTxhXfO8wJ4wdEqW01mkNukGkWcG7f6z5lSW7dK8iUSYDThd3l_G__a89bzS-ie-zRGiaeIqBfWb0LQVCl0JhUIEQLshVH5FhsPGYCaY9Q.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-06T14:14:51+00:00"
     },
     {
       "id": "tg:HI_GS/6861",
@@ -866,8 +870,8 @@
       "url": "https://t.me/HI_GS/6858",
       "text": "🏹\n#LIG디펜스앤에어로스페이스\n「QoQ 계절성에 속지 마시길, 본질은 YoY」\n☞\nhttps://bit.ly/LIG2Q26RE\n▶️\nIssue: 2Q26 리뷰. 가이던스 상향, 중동 파이프라인 빠름 시사. 선호주 견지\n▶️\nPitch:\n> 2Q 영업이익은 YoY로 +30%나 성장\n: 그런데 1Q 강, 2~3Q 중, 4Q의 약을 계절성만 바라보며, 주가는 장중 17.65%나 하락\n: 사측은 연간 OPM 가이던스를 7% → 8%로 상향\n> 이러한 YoY 성장을 잔고만으로 2028~2029년까지 지속 예정. 탑라인 +15%씩 성장 가이던스\n- 무려 14조원 잔고에서 수출비중은 57%여서,\n1) 매년 매출 +15% x 2) 수출비중 증가로 2029년까지 긴 성장.\n3) 그 너머도 대형 파이프라인이 있고, 이를 담기 위한 CAPEX 진행 중\n> 수주 파이프라인: 중동 빠름, 동남아 확대, 유럽 침투\n- 중동은 전쟁에 지상방산처럼 지연되기보다는 빨라지는 느낌\n- 동남아~중동 순서 모르겠음\n- 유럽: 라인메탈을 통한 협력으로 진입\n▶️\nRationale: 보고서 참조\n---------------------------------------------------------------\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n✅\n컴플라이언스 승인을 득한 보고서입니다.\n---------------------------------------------------------------",
       "images": [
-        "https://cdn5.telesco.pe/file/p26k_BYqwhrR3614Iul9GtXgmPUiXJurniiTL1ytTj-UXUFE1znNIqEybgRbMqyU3OX-jItqEW73U_1dF29kQ83K9rm_Yo74PCs_hU-vIsZfJyRntxJODwVYA_r72exUQCrbI65ZiZ1Cw76W3DrCoHma8WNezd_8hvfDUgxKrkBtu28CtZhrhLdRZpAzq70R3S4OZDxJokAjld6zgGlJjEs1Xj5QsTmI0vrsyUBaRzcZY7DgWuTy9tazvmKjUevNA5SP4ATFMPk2q_CTObpDLyf8PWfTA6HcnFYQA82wJGEoQDVVw-_Y1d13zMrzvMggJDTYjtJywBk38qpDvFyZmA.jpg",
-        "https://cdn5.telesco.pe/file/LL1U_VjynbHY28q2D37w6_4ZX2L6M8AUULzg2V6bM-WgIvBZ3jM2XdoI6neziGJkQ5erCToD1Axw8VLUVjqphjBt2doehKQ4jW8C6yQ3IF76zh1oD7aP9xJxUs_FzhWHD-WJncos4dmzLog8iahM4dxTpQ4LaKqAcoM9Vww1F0n8dFeKoXA0ba0iD-yD3m8gmLf3js2R1wCsvOhYuD6bFAsguQ2ma_jJHF34tt2M98XvhWpZy2kGQvnrC3uSsLDjy1EZ9NGJg4ksb7qYUin9_-hferWLthP76VGj35llswLws3qT46Jasjt9vcCv4lx5MnJ-KG-RsHjYNib2uWiWlA.jpg"
+        "https://cdn5.telesco.pe/file/jXkOe-tP3KZA8vpqMenjLVK_y4a4cHFnHUkqW71_L3bpR7PW6oErz49XKDtpY1XvJb_JjmTgU5-ATApCNEX6r2ht5ay24HsoUjCN3vaSn1QOYJxKZ3j2-uXg-B107OT8YaMh2iw_Yxgf9EyQJJS06zHEaAHZRk1eyuqV1z0TMs64jjCwRuPOxjaaUy5zASbWrQF9WBBmdoobCBXoDKyTYXTdXYXt-7z-pm_OS-OFir1U7o9py8aTQ7Y-SukqhUU7e0Wk5LO4Lom-HVJ6IstAURc1jDKRN_aqrp44FM4pPuYzq3AH6gL4-GtJRk2-bzizz1ndafQXlK2ecuZJxF55vQ.jpg",
+        "https://cdn5.telesco.pe/file/Sr_xLJOvRfMYIWMi23mklzNqmlRl6fe5DkzrqMAcOe19vlq8AZ77CtBr8RmEcsoKpGxN3Y_E4FXsAOYXF_rWEp_b0O_UurW6u-RJ8rmTum0Ri2a43XgOzz-O3jpHq8NAu_JnWWw3b3HlgEyVbDoKsuC69bpMz7BInfLqeJfhLmoUvtajkeCK14YSMUeIBf7YT-JHMVsLLIAnQFQGPhXCUkUyVx2Ipt86dvLg6sQPtfDelL2ECwj4w5aOtNeV-SCRWexK106c4Pg9gUjjCnQCisbV1wP4N8SD-1DAApwxvTtPPJnzd0gUDNnJkN-OLraHawG4gvQ-9oVtX_iLgxZACw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-06T11:53:21+00:00"
