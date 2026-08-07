@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-07T17:49:30+00:00",
+  "updated_at": "2026-08-07T18:56:31+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 4
   },
   "briefing": {
     "headline": "메타, Muse Code로 엔터프라이즈 AI 공략",
@@ -10,13 +10,39 @@
       "미국 7월 고용보고서: 실업률 4.1%로 하락",
       "SK하이닉스, 엔비디아 HBM 반값 공급설 부인",
       "중국 8대 태양광 폴리실리콘 기업, 원가 이하 판매 금지 성명",
-      "골드만삭스&JP모건, 이노라이트 홍콩주식 대규모 매수",
-      "메모리 가격 상승 정점 곧 도달할 것"
+      "골드만삭스& JP모건, 이노라이트 홍콩주식 대규모 매수",
+      "딥시크, 조만간 전반적인 가격 인상 계획"
     ],
-    "generated_at": "2026-08-07T17:49:30+00:00",
+    "generated_at": "2026-08-07T18:56:31+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:demishassabis:2085775218249711887",
+      "source": "x",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2085775218249711887",
+      "text": "RT by @demishassabis: My column on @demishassabis in The Times. —Given his record of caring about AI safety and impact, people should err on the side of believing his own explanation for stepping back from management. When we spoke a lot last year, he gave me the sense that this moment might come. —Gemini is behind for now, and several famous names have quit the AI research team. But Google has deep commercial strengths. And technical progress probably depends on young cutting edge researchers who are yet to be famous. https://www.thetimes.com/article/5611b33d-3c1a-41ad-a1de-854260de04c2?shareToken=08093b25f32d1aa637ab8a80dfcf0c98",
+      "images": [],
+      "summary_ko": "@demishassabis의 RT: The Times의 @demishassabis에 대한 내 칼럼입니다. —그가 AI의 안전성과 영향에 대해 신경 쓴 기록을 볼 때 사람들은 경영진에서 물러난 것에 대한 자신의 설명을 믿는 편에 서야 합니다. 작년에 많은 이야기를 나누면서 이런 순간이 올지도 모른다는 느낌을 주셨어요. —Gemini는 현재 뒤쳐져 있으며 몇몇 유명 인사들이 AI 연구팀을 그만뒀습니다. 하지만 구글은 상업적으로 큰 강점을 갖고 있습니다. 그리고 기술적 진보는 아마도 아직 유명하지 않은 젊은 최첨단 연구자들에 달려 있을 것입니다. https://www.thetimes.com/article/5611b33d-3c1a-41ad-a1de-854260de04c2?shareToken=08093b25f32d1aa637ab8a80dfcf0c98",
+      "published_at": "2026-08-07T17:08:58+00:00"
+    },
+    {
+      "id": "x:sama:2085765236876046500",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2085765236876046500",
+      "text": "congrats to oklo for achieving criticality! (less than a year after groundbreaking) https://oklo.com/newsroom/news-details/2026/Oklos-Groves-Reactor-Achieves-First-Criticality-in-Under-a-Year/default.aspx",
+      "images": [
+        "https://pbs.twimg.com/card_img/2085343031147057152/0BwoM1qY?format=jpg&name=280x280_2"
+      ],
+      "summary_ko": "임계치를 달성한 oklo를 축하합니다! (착공 후 1년 미만) https://oklo.com/newsroom/news-details/2026/Oklos-Groves-Reactor-Achieves-First-Criticality-in-Under-a-Year/default.aspx",
+      "published_at": "2026-08-07T16:29:18+00:00"
+    },
     {
       "id": "tg:globaletfi/21025",
       "source": "telegram",
@@ -749,7 +775,7 @@
       "url": "https://x.com/sama/status/2085473085399150817",
       "text": "RT by @sama: Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more. https://www.youtube.com/watch?v=87DyyMV0kCY I hope it can answer a lot of the questions folks have, and we will release a full detailed postmortem at a later time!",
       "images": [
-        "https://pbs.twimg.com/card_img/2085465895007318016/-qjHVz8l?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2085475651696398336/sMBqp17U?format=jpg&name=800x419"
       ],
       "summary_ko": "RT by @sama: 어제 OpenAI 공동 작업자와 저는 Huggingface 사건, \"메시지 보드\"를 생성하는 모델, 모델 정렬 불량 등에 대해 자세히 설명했습니다. https://www.youtube.com/watch?v=87DyyMV0kCY 사람들이 궁금해하는 많은 질문에 답할 수 있기를 바랍니다. 자세한 사후 분석은 나중에 공개하겠습니다!",
       "published_at": "2026-08-06T21:08:24+00:00"
@@ -857,7 +883,7 @@
       "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2085434712429052386",
-      "text": "Pinned: We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus & Pro users, delivering more factual, focused responses. - Free & Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.",
+      "text": "We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus & Pro users, delivering more factual, focused responses. - Free & Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.",
       "images": [
         "https://pbs.twimg.com/amplify_video_thumb/2085433949489377280/img/4uce3Ngds5vczB6t.jpg"
       ],
@@ -1714,20 +1740,6 @@
       "published_at": "2026-07-30T17:27:55+00:00"
     },
     {
-      "id": "x:sama:2082880720989532597",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2082880720989532597",
-      "text": "major price cuts today: *80% drop for GPT-5.6 Luna, now $0.20 per million input tokens and $1.20 per million output *20% drop for GPT-5.6 Terra, to $2/$12 *GPT-5.6 Sol gets Fast mode in the API, up to 2.5x the speed for 2x the price, same intelligence",
-      "images": [
-        "https://pbs.twimg.com/media/HOfg3rSWsAACTkR.png"
-      ],
-      "summary_ko": "오늘 주요 가격 인하: *GPT-5.6 Luna의 경우 80% 인하(현재 입력 토큰 백만 개당 $0.20 및 출력 백만 달러당 $1.20) *GPT-5.6 Terra의 경우 20% 인하($2/$12) *GPT-5.6 Sol은 API에서 고속 모드를 얻습니다. 가격은 2배, 가격은 최대 2.5배, 인텔리전스는 동일합니다.",
-      "published_at": "2026-07-30T17:27:16+00:00"
-    },
-    {
       "id": "x:GoogleAI:2082844740446253125",
       "source": "x",
       "author": "GoogleAI",
@@ -2165,20 +2177,6 @@
       ],
       "summary_ko": "새로운 과정: 빠른 추론을 위해 설계된 하드웨어에서 실행하여 사용자 요청에 신속하게 응답하는 LLM 응용 프로그램을 구축합니다. 이 짧은 코스는 @Cerebras와 함께 제작되었으며 @zhennydez, @duerr_seb 및 @MilksandMatcha가 가르쳤습니다. 모델이 텍스트를 생성할 때 가중치를 메모리에서 계산 단위로 이동하는 데 많은 시간이 소요됩니다. 추론 최적화 하드웨어는 이러한 움직임을 최소화하여 일반적인 GPU 설정보다 토큰 생성을 몇 배 더 빠르게 만듭니다. 이 과정에서 사용하게 될 하드웨어는 모델의 가중치를 계산 단위에 가깝게 유지하여 빠른 추론을 위해 설계된 Cerebras의 웨이퍼 스케일 엔진입니다. 빠른 추론을 통해 긴 에이전트 워크플로가 더 빨라지고 실시간 번역 및 음성 에이전트와 같이 대기 시간에 민감한 실시간 애플리케이션이 잠금 해제됩니다. 스키",
       "published_at": "2026-07-17T15:47:30+00:00"
-    },
-    {
-      "id": "x:demishassabis:2077811657385079045",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2077811657385079045",
-      "text": "RT by @demishassabis: I still remember the exact room, watching @stevenbjohnson break down how he writes books. That was the spark for a little project we never imagined would grow this big. Today, over 30 million people and 600,000 organizations use it, and it keeps growing. We all feel like it's just getting started. For a while, we’ve just called it \"Notebook\" internally. Today, we're making it official externally. :)",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2077803235314896896/img/p59_jo3Rjk99bb7_.jpg"
-      ],
-      "summary_ko": "@demishassabis의 RT: @stevenbjohnson이 책을 쓰는 방법을 분석하는 것을 보면서 정확한 방을 아직도 기억합니다. 그것은 우리가 이렇게 크게 성장할 것이라고는 상상도 못했던 작은 프로젝트의 계기가 되었습니다. 현재 3천만 명 이상의 사람들과 60만 개 이상의 조직이 이를 사용하고 있으며 계속해서 성장하고 있습니다. 우리 모두는 이제 막 시작된 ​​것처럼 느낍니다. 한동안 우리는 내부적으로 이를 \"노트북\"이라고 불렀습니다. 오늘은 이를 대외적으로 공식화합니다. :)",
-      "published_at": "2026-07-16T17:44:37+00:00"
     },
     {
       "id": "x:GoogleAI:2077803351392268314",
