@@ -1,20 +1,86 @@
 {
-  "updated_at": "2026-08-06T23:58:41+00:00",
+  "updated_at": "2026-08-07T03:10:47+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 35
+    "new_this_run": 5
   },
   "briefing": {
-    "headline": "AMD, AI 추론 칩 스타트업 Taalas 인수",
+    "headline": "골드만삭스, 메타 클라우드 진출",
     "bullets": [
-      "엔비디아, 루빈 울트라, HBM 사양조정",
-      "알파벳, AI 투자 확대 위해 250억달러 회사채 발행",
-      "OpenAI, GPT-5.6 Sol 업데이트 및 무료 사용자 무제한 문자 채팅 제공"
+      "엔비디아, 루빈 울트라 사양조정",
+      "태양광 원료에 15%+α 관세",
+      "알파벳, AI 투자 위해 250억달러 회사채 발행",
+      "AMD, AI 추론 칩 스타트업 인수",
+      "반도체 수요 급증과 공급 병목 현상"
     ],
-    "generated_at": "2026-08-06T23:58:41+00:00",
+    "generated_at": "2026-08-07T03:10:47+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19574",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19574",
+      "text": "골드만삭스,\nHBM 단가 폭등 및 프리미엄 재확대 (2027~2028년 전망)\n2027년 HBM ASP는 전년 대비 약 2배 폭등. 차세대 HBM 고성능화 및 AI 시장의 본격적인 수급 불균형으로 인해 범용 DRAM과의 격차를 다시 $1.0/Gb 이상으로 크게 벌릴 것으로 전망",
+      "images": [
+        "https://cdn5.telesco.pe/file/I04948AE1JJqPLX0WABt7QT7bqp3G2_8DgW1AxUU4193nGCB3bC8-v7oNj5kgBAGzIO_aj8cqHy10m3cNDZB3IDaXD3fFrC7LjY2Qcf5bTQ8TchzSHuynp2mlmcSDHigfO_mrT9AmF-uJ0YyDlwmn3hDXNI08ty9KC6nU9NS_C5YujhXyzf9b2fC3cLKlkfL4fOoadXTk1clBewJcvB-FIvRmCMsqVcBqkMLzuWfET1TWvFg9MDKP2OYG4PwozlDHMPwK3Xvmj1ZtvB3zO25dr5-KURU588aCvRgWT3hXI6yOk4d9ou1nWCr0nOsEJshBRIPIHDWyLnBsG-VYVmFHw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-07T03:02:01+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19573",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19573",
+      "text": "2026.08.07 11:47:27\n기업명: 산일전기(시가총액: 4조 8,171억) A062040\n보고서명: 연결재무제표기준영업(잠정)실적(공정공시)\n매출액 : 1,642억(예상치 : 1,632억+/ 1%)\n영업익 : 620억(예상치 : 607억/ +2%)\n순이익 : 546억(예상치 : 483억+/ 13%)\n**최근 실적 추이**\n2026.2Q 1,642억/ 620억/ 546억\n2026.1Q 1,503억/ 555억/ 459억\n2025.4Q 1,421억/ 524억/ 430억\n2025.3Q 1,327억/ 426억/ 368억\n2025.2Q 1,283억/ 462억/ 379억\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807800200\n회사정보:\nhttps://finance.naver.com/item/main.nhn?code=062040",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T02:51:59+00:00"
+    },
+    {
+      "id": "rss:semianalysis:gemini-is-cooked-but-gcp-is-cooking",
+      "source": "rss",
+      "author": "semianalysis",
+      "author_name": "SemiAnalysis",
+      "author_url": "https://semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/gemini-is-cooked-but-gcp-is-cooking",
+      "text": "Gemini is Cooked but GCP is Cooking\n\nor why DeepMind's long term failure is GCP's short term gain",
+      "images": [
+        "https://substack-post-media.s3.amazonaws.com/public/images/67a15605-b600-4aa7-8634-9c4a39bdd877_1672x941.png"
+      ],
+      "summary_ko": "Gemini는 요리되었지만 GCP는 요리 중입니다.\n\n또는 DeepMind의 장기적인 실패가 GCP의 단기적인 이득인 이유",
+      "published_at": "2026-08-07T02:32:44+00:00"
+    },
+    {
+      "id": "tg:EMchina/32176",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32176",
+      "text": "중국시장감독총국, 태양광 업계 가격 준법 지도 실시  • 장쑤성 옌청시에서 태양광 산업에 대한 가격 준법 지도 실시. 국가의 악성 저가경쟁(내권식 경쟁) 정비 결정 이행  • 태양광 기업 ‘가격 경쟁’에서 ‘품질 경쟁’으로의 전환하도록 추진. 태양광 산업 고품질 발전 촉진  市场监管总局开展光伏行业价格合规指导 市场监管总局在江苏省盐城市对光伏行业开展价格合规指导，贯彻落实党中央、国务院关于深入整治“内卷式”竞争的决策部署，推动光伏企业从“拼价格”向“拼质量”转变，促进光伏行业高质量发展。…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T02:01:28+00:00"
+    },
+    {
+      "id": "tg:HI_GS/6862",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/6862",
+      "text": "[다올투자증권 조선/기계/방산 최광식]\n8/7(금) 데일리뉴스\n🛳\n조선\n[TradeWinds]\nTurkish newcomer triples newbuilding fleet with 10 bulk carriers in China\nCheniere highlights complexity of restarting Middle East LNG supply chains\nExcelerate Energy explains its choice of LNG carrier for FSRU conversion\nPanama Canal faces fresh draft cuts as it grapples with El Nino impact\nMind the gap: Genco Shipping tells why divide may be widening in takeover battle\n[Upstream]\nEcopetrol seizes control of Brazil independent after $520 million offer\nTransocean sees strong offshore rig demand on horizon\nNigeria eyes $50 billion offshore spending spree\nTechnip Energies lines up China pair for US LNG modules\nBP takes full control of gas project offshore Trinidad & Tobago\n🚢\n조선\n트럼프 “美군함 10척 건조되나”… 60조 놓친 K방산, 이번엔?\nhttps://tinyurl.com/2285lb9j\n정부의 '슈퍼을' 선정 한화오션…“美•중동 겨냥 특수선 사업 본격 확장”\nhttps://tinyurl.com/2yxxhm2y\n한화오션 KDDX 수주 성공 비결은 '전전기 함정'… '함정 명가' 우뚝\nhttps://tinyurl.com/25wkwbw7\nHD현대, 필리핀 함정•페루 잠수함 수주 유력…하반기 방산 대박 예고\nhttps://tinyurl.com/243tqs4d\n페르소나AI '차세대 휴머노이드' HD현대 투입전 초기 통합 작업…현장 데이터 확보 착수\nhttps://tinyurl.com/24vb79ve\n🚀\n방산\nUAE '천궁Ⅱ' 수출에… LIG D&A, 2분기 영업익 30% 성장\nhttps://tinyurl.com/22son5ts\n한화, 美 대드론 레이저 스타트업 '아우렐리우스' 투자…안티드론 생태계 구축 속도\nhttps://tinyurl.com/27xuoexx\n美 미사일 재고 바닥, K-방산 밸류체인 진입 기회... 골든타임 도래\nhttps://tinyurl.com/236y7jng\n방사청 “전작권 전력 적기 확보…연내 핵추진잠 사업계획 수립”\nhttps://tinyurl.com/22pahc9w\n* 위 내용은 보도된 사실의 단순요약으로 별도의 컴플라이언스 절차 없이 제공됩니다",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T00:32:21+00:00"
+    },
     {
       "id": "tg:bornlupin/19572",
       "source": "telegram",
@@ -373,7 +439,7 @@
       "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2085434712429052386",
-      "text": "We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus & Pro users, delivering more factual, focused responses. - Free & Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.",
+      "text": "Pinned: We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus & Pro users, delivering more factual, focused responses. - Free & Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.",
       "images": [
         "https://pbs.twimg.com/amplify_video_thumb/2085433949489377280/img/4uce3Ngds5vczB6t.jpg"
       ],
@@ -611,18 +677,6 @@
       "published_at": "2026-08-06T13:05:14+00:00"
     },
     {
-      "id": "tg:EMchina/32164",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32164",
-      "text": "Kimi K3 전면 오픈소스화: 해외 개발자들은 '앤트로픽의 수조달러 규모 기업가치' 의미 상실 평가  • Kimi K3 파라미터 2.8조. 전세계 최초의 오픈소스 “3T급” 모델  • 북미 AI 인프라 스타트업 Osmantic AI 창업자 Ahmad는 Kimi K3를 '중국 로컬판 Fable 5'로 평가  • 앤트로픽이 오픈소스 AI를 싫어하는 이유를 아는가? Kimi K3는 무료 다운로드 가능. 수조달러 규모 기업가치 의미 잃게 하기 때문  Kimi…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T13:01:22+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/24418",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -657,7 +711,7 @@
       "url": "https://t.me/aetherjapanresearch/24417",
       "text": "Citi) 샌디스크 (SNDK.O) — 가격 변동성 대가로 얻은 가시성 개선과 견조한 FCF. 목표가 $2100(하향) (2026.8.6, Asiya Merchant)\n투자의견 매수 유지, 목표주가는 기존 2,500달러에서 2,100달러로 하향 (CY27 예상 EPS 기준 9배 PER 적용, 현재가 1,350.50달러 대비 상승여력 55.5%). 9월 23일 만료되는 단기 상방(Upside) 뷰도 유지.\n샌디스크의 6월 분기 실적은 매출 89.7억 달러, EPS 39.25달러로 가이던스(매출 77.5~82.5억 달러, EPS 30~33달러)와 시장 컨센서스(84.4억 달러, 34.80달러)를 각각 매출 6%, EPS 13% 상회했으며, FCF는 컨센서스를 72% 웃돌았습니다. 총마진은 84.6%로 가이던스 79~81%와 시장 예상 80.0%를 상회했고, 영업이익률은 79.2%(시장 74.6%), 영업현금흐름은 71.3억 달러(시장 41.5억 달러)를 기록했습니다.\n다만 9월 분기(F1Q27) 매출 가이던스는 103~108억 달러(중간값 105.5억 달러)로 시장 예상 107.4억 달러를 소폭 하회했는데, 이는 가격 상승 폭이 다소 완만해진 데 기인합니다. 반면 총마진 가이던스는 83~85%로 시장 예상 79.3%를 크게 상회하며, EPS 가이던스 44~46달러도 컨센서스 44.26달러에 부합하거나 상회하는 수준입니다.\n핵심 포인트는 NBM(장기공급계약) 확대입니다. 경영진은 데이터센터와 OEM 고객을 아우르는 총 8건의 NBM을 체결했다고 밝혔으며, 가중평균 계약기간은 4년, 해당 물량이 FY27과 FY28 비트 출하의 각각 50%와 약 66%를 차지합니다. 계약 마진은 최소 80% 이상(그 이상도 가능)이며, 비계약 물량은 우호적인 NAND 시황을 고려할 때 추가 업사이드 요인이 될 수 있습니다. FCF 마진은 50% 이상을 유지할 전망이고, 경영진은 140억 달러 규모의 추가 자사주 매입 승인을 언급하며 체계적으로 집행하겠다고 밝혔습니다.\n씨티는 FY27 추정치를 8% 하향, FY28 추정치를 19% 상향 조정했습니다(FY27 EPS 205.36달러, FY28 EPS 268.28달러). 차기 촉매는 8월 13일 개최되는 샌디스크 인베스터 데이로, 기술 혁신, 고객 채택 속도, 수요 동인, 목표 재무모델에 대한 설명이 예상됩니다.\n밸류에이션 측면에서 목표주가 2,100달러는 CY27 예상 EPS의 9배로, 최인접 경쟁사인 키옥시아의 중간값 8배 및 대형 피어그룹 6~8배 대비 프리미엄을 부여한 것입니다. 씨티는 샌디스크의 LTA가 프리미엄을 정당화하며, 피어 대부분과 달리 DRAM 익스포저가 없다는 점, 그리고 키옥시아와의 JV 내 재무제표에 반영되지 않은 150~200억 달러 규모의 투하자본(대체원가 기준)이 존재한다는 점을 지적했습니다. 불/베어 시나리오는 강세 2,700달러(+100%), 기본 2,100달러(+55%), 약세 970달러(-28%)입니다.\n리스크 요인으로는 엔터프라이즈 시장 점유율 확대 지연, 데이터센터 투자·PC 교체·AI PC 수요를 훼손할 수 있는 매크로 환경 악화, 그리고 특히 중국 업체들의 공격적인 점유율 경쟁으로 인한 가격 변동성 확대가 제시되었습니다. 현재 가동률이 낮은 산업 캐파가 짧은 시간 내 공급과잉으로 반전될 수 있어 가격 인상의 이상적 환경이 단명할 가능성도 언급되었습니다.",
       "images": [
-        "https://cdn5.telesco.pe/file/pFC5QcW6tbDaDcfg_kgekfARSpz-EAnH8o9yeKhZp2TZlQsLycrP-npLp1Tf07rKkxN8fAbKD2vHiuKb46UQuwhjCzI3ZmnwBAkAHXT8DNhxs_1V4c552cnXjr-sIikLogqlSV1D5yZm0ynlxzfcEhCmjbuzgBQqf3XEpYoOhufc-JatnMKuywOIw40soYfT55hIcsANcSNGP4PtJTvFBZ99_LXUeiVPXGZMm6c7KCXOMfVQwuJquUNCqPLF8GTKfNQccES4S9RAgbtZCljb3jfPcp_KhS92ae5p3ul5YNZd5JJGfhZye8PY9qIDJXZDAa4SC2Fs41aursX1TO1mIw.jpg"
+        "https://cdn5.telesco.pe/file/Ox6ONLefrbiTydPWiLEuuIN6w_A7ZAXUm36YvyXgXrm5vV8_ZPM41hkwonVBhH3O54968EOnVKmR3lI7klqTtot3UrcyTeM0-zlSiwUtd_xtJ2yy8mRHgJaZnvuKb-0JmAMhEAWyp55DwW5VcKz0HHapxCeSJdtRjv8li9Gfl3RTyAOXJdUBzk6J-jgXQQytWR6dohTFckVZnKrHb_Ipg1Ij_3Zar768MZkCRZGgXFOkgosewMP_pyA8ZHs4giZMHY4nlFMbKsUICq_6b5fT3CSOsXkc_fwYxoOlqYZTNmV8q-bSMWLg7nsnNjGH2J_nhnp9nvfwCPUdeqBhhGE6LA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-06T12:46:15+00:00"
@@ -848,36 +902,10 @@
       "url": "https://t.me/bornlupin/19561",
       "text": "SemiAnalysis\n이제 SK하이닉스의 ADR이 존재함에도 불구하고 왜 마이크론이 SK하이닉스보다 높은 멀티플을 받으며 거래되는지 물어보는 사람들이 있습니다.\n이유는 매우 간단합니다.\n기업 지배구조(Corporate Governance)가 존재하기 때문입니다.",
       "images": [
-        "https://cdn5.telesco.pe/file/NeWw6XRneWPBw4yfomJ6VwsZif9Zu2AdoaztycmR6aAPRdBOExb_wccdRNvUQOQgeFNy_9hePprUn2SnvCsRQwz-VHaNM8m-stjEsetJ3Rsw8yedll01Z5jgy2rg7pB6MwEV3Ujup1k6KC7kLBF_sceoGILEwLCenFg8ksE6edhUw9v7OzIzD_ghs2UMyw-8rce0s1IAfBOdjE7AUrHk8X_EchvGdnrw1TnRFThWBjARrGYCZPWb5SMDKwtRtpOgeEfYpou_thFyL0sTEvg5mHhgIh684pBpMgH4DMuwce80luKB_qjiDo0FczVJaflCJnBjzynyPkzA1B0BMER6zQ.jpg"
+        "https://cdn5.telesco.pe/file/Rv8viOQcKk9dra8L3lAM5ZazGRQ4DKFSd8a-3FBBeT05BXxZcNCTsrFvT38s7lXa5kvNOQRq0iJN2-HdxinbDyqoEe5p2Podp8rpdydwEdBOdn3b7UH5KxGJjT6MbyrMZtpk_c5hNXRZmcWnpaYwHBlWuV7hFZEiasp5i05ouUe94AERauBadNLfwMfGJdZcMsmG0p2Wk3KuEbzXVWD-_5XpZLINoj5oHpYKjkNlihLEzYC33oagFhWY4bExYlwYTKRhVRSqBzJg6jXudlbRUp5eoPyB6SdurSMhBdeKJJrKp9dt4rg2F2h2p_kAZZcg5GsFThKqEWQtX2-zTOJhbw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-06T03:07:24+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19560",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19560",
-      "text": "일론 머스크\n장기적으로 컴퓨팅 자원의 99%는 추론(Inference)에 사용될 것입니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/DWaCfSLndOPIdZT5b0tqDmahsYmeTEQral3cd7Uo5gw1I-EdCmMtvA_p_npmzWIDTVP9htGLTkdzOYNvKdI9XMpUjhslA3SQiAdfjpqqMlBIvvXwlxdDJyA6EtH_evTgjik7IjTH7rbrwCdKoVZ6koaJV1RCCDberhPZmVSCkurO6rA9KFmqXywJ8DTVD9Ds2PTMukDhAq-GXTBWc4owf2LZqRm4QVxUfOBxSHQuslu2uXTiLGcPgk6NjXKIg3NcKDEWbS2py-LZPtoLvqjJqYj_MLS6VkZJxOmaVlyLw9z5tYoQZXDBfSBi-IVCJ7qn61gJgD79ku4kMWOYz7G6UQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-06T03:02:29+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19559",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19559",
-      "text": "📌\n인바디(시가총액: 7,846억)\n#A041830\n📁\n연결재무제표기준영업(잠정)실적(공정공시)\n2026.08.06 11:14:38 (현재가 : 58,200원, +2.65%)\n매출액 : 733억(예상치 : 683억+/ 7%)\n영업익 : 177억(예상치 : 131억/ +35%)\n순이익 : 142억(예상치 : 101억+/ 41%)\n**최근 실적 추이**\n매출/영업익/순익/예상대비 OP\n2026.2Q 733억/ 177억/ 142억/ +35%\n2026.1Q 684억/ 130억/ 163억/ -2%\n2025.4Q 624억/ 95억/ 64억/ -2%\n2025.3Q 598억/ 98억/ 94억/ +18%\n2025.2Q 562억/ 104억/ 74억\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260806900125\n회사정보:\nhttps://finance.naver.com/item/main.nhn?code=041830",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T02:36:55+00:00"
     },
     {
       "id": "x:ylecun:2085180487702589914",
@@ -1132,18 +1160,6 @@
       "published_at": "2026-08-05T07:25:08+00:00"
     },
     {
-      "id": "tg:HI_GS/6848",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/6848",
-      "text": "https://youtu.be/kT3Sva3pYEY?si=68SlzxYWtyetxIpK",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-05T06:15:22+00:00"
-    },
-    {
       "id": "tg:enc210406/4293",
       "source": "telegram",
       "author": "enc210406",
@@ -1256,7 +1272,7 @@
       "url": "https://t.me/enc210406/4288",
       "text": "[한화엔진 중속엔진 업데이트 사항]\n2Q26 실적 PT 참고\n@ 중속엔진 제작 공장 준공\n2026년 2분기 말\n연간 900MW 규모(5MW 기준 180대)\n중속엔진 제작 공장이 준공되었으며,\n수주잔고 167대 중\n3분기에 5대를 인도할 계획.\n5대 중 첫번째 엔진을\n준공 직후부터 조립하기 시작\n@ 중속엔진 제품 라인업\nEverllence와 제휴한 제품은\n디젤, DF(LNG, 메탄올, 암모니아)\n엔진 9종류이며,\n육상발전용 5개,\n선박추진용 4개로 구성됩니다.\nEverllence의\n고출력 가스 중속엔진 제품은\n- 35/44G (TS) 12.9MW\n- 51/60G (TS) 20.7MW\n두 종류인데,\nPT에서 확인한 라인업에는\n이 제품이 포함되어있지 않지만,\n기존 제휴 제품들의 출력 범위 상\n고출력 가스엔진을\n조립, 시운전할 준비는\n되어 있는 것으로 보입니다.\n데이터센터 온사이트 발전용으로\n한화엔진이 Everllence와 풀게 될\n제휴는\n위 제품 두개에 대한\n제작, 영업권한 일 것입니다.\n@ 중속엔진 수주잔고와 인도 스케쥴\n- 수주잔고(2026년 2분기 말): 167대\n- 인도 일정(매출 추정 Q)\n1) 2026년 3분기: 5대\n2) 2026년 4분기: 10대\n3) 2027년 연간: 100대\n4) 2028년 연간: 52대",
       "images": [
-        "https://cdn5.telesco.pe/file/bWgEKGQRtIk-2iohclPrsDXhcOU49OzQzYyrc5KCP5MMHImWKKkaWfkndVgs-Rkde7G1XPrz7W-n1NotLYFh4IQ29MT9KUlH1D01aiRDnjbwJAxIAD_qJEgctSuelP_t5IcHUi4rlC1KmRUooKRj4fx1TRIjj9ujZz6gQP4vcW2Yh_rJL1SMxMFncJL8MeH07z5jFtPQcdF05YgixkZIpet6CvwXtRPub_t64579WmMvWr-BFXeMpBbgPqZz_LCU3SuRJ9_ZlUqwKdIJt4j_NdCrrsObjvZMEnJibxMnhfTF2YVsIW3T3aXrG0HCKCGpBqvNZMAOCzUrT2JLlhBT7w.jpg"
+        "https://cdn5.telesco.pe/file/JEXXBy4eRjyaOyymrJeJPujPIpOir-iqPaf_7e7-8PQyVRmA_B6q4d-X_xlbOcDTKJc8C6ws5Vvv5DoEEKLyyvTQzkN70MfMqjnDOsZsE9rJowTlpPumNlk3przQJx9SFR5aGBh0hc9zO6gCfaqSwxyvDYyWfPPR6rvvnL0sjzwIrDvt8jP2e3RseUF8bOK1AzWar0Tq1x1n8TS_Uzvcs6vCYBqet0FHZ8pBitDiS-_I6FAXpRriBHZ0o3ROU8PLYsZYcxUht7SMPk9l3NOH7_dnmxAE25hiegU9VRWQI-sVKEyTEksJgGIGbdZQjCXwUMwT4LCSvAEU9T-3YqeONw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-04T00:42:24+00:00"
@@ -1584,20 +1600,6 @@
       "published_at": "2026-07-30T19:00:52+00:00"
     },
     {
-      "id": "x:demishassabis:2082902334984609936",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2082902334984609936",
-      "text": "RT by @demishassabis: What if you could see a city as it looked 100 years ago, or visualize a new basketball court at your local community center? Starting today, we're bringing our latest image generation capabilities to @GoogleEarth on the web. Powered by Nano Banana 2, you can combine rich satellite and 3D imagery with text prompts to reimagine your favorite place around the globe. Just zoom in, tap “create image,” and type whatever you want to see! Available now for everyone to start creating: http://goo.gle/4fNJGyt",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2082902124187262977/img/H36suhVKpKLir-WV.jpg"
-      ],
-      "summary_ko": "@demishassabis의 RT: 100년 전의 도시를 볼 수 있거나 지역 커뮤니티 센터에 새로운 농구 코트를 시각화할 수 있다면 어떨까요? 오늘부터 웹의 @GoogleEarth에 최신 이미지 생성 기능을 제공합니다. Nano Banana 2로 구동되는 풍부한 위성 및 3D 이미지를 텍스트 프롬프트와 결합하여 전 세계에서 가장 좋아하는 장소를 재구성할 수 있습니다. 확대하고 '이미지 만들기'를 탭한 후 보고 싶은 내용을 입력하세요! 이제 누구나 창작을 시작할 수 있습니다. http://goo.gle/4fNJGyt",
-      "published_at": "2026-07-30T18:53:09+00:00"
-    },
-    {
       "id": "x:GoogleAI:2082902334984609936",
       "source": "x",
       "author": "GoogleAI",
@@ -1609,6 +1611,20 @@
         "https://pbs.twimg.com/amplify_video_thumb/2082902124187262977/img/H36suhVKpKLir-WV.jpg"
       ],
       "summary_ko": "100년 전 도시의 모습을 볼 수 있거나 지역 커뮤니티 센터의 새로운 농구 코트를 시각화할 수 있다면 어떨까요? 오늘부터 웹의 @GoogleEarth에 최신 이미지 생성 기능을 제공합니다. Nano Banana 2로 구동되는 풍부한 위성 및 3D 이미지를 텍스트 프롬프트와 결합하여 전 세계에서 가장 좋아하는 장소를 재구성할 수 있습니다. 확대하고 '이미지 만들기'를 탭한 후 보고 싶은 내용을 입력하세요! 이제 누구나 창작을 시작할 수 있습니다. http://goo.gle/4fNJGyt",
+      "published_at": "2026-07-30T18:53:09+00:00"
+    },
+    {
+      "id": "x:demishassabis:2082902334984609936",
+      "source": "x",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2082902334984609936",
+      "text": "RT by @demishassabis: What if you could see a city as it looked 100 years ago, or visualize a new basketball court at your local community center? Starting today, we're bringing our latest image generation capabilities to @GoogleEarth on the web. Powered by Nano Banana 2, you can combine rich satellite and 3D imagery with text prompts to reimagine your favorite place around the globe. Just zoom in, tap “create image,” and type whatever you want to see! Available now for everyone to start creating: http://goo.gle/4fNJGyt",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2082902124187262977/img/H36suhVKpKLir-WV.jpg"
+      ],
+      "summary_ko": "@demishassabis의 RT: 100년 전의 도시를 볼 수 있거나 지역 커뮤니티 센터에 새로운 농구 코트를 시각화할 수 있다면 어떨까요? 오늘부터 웹의 @GoogleEarth에 최신 이미지 생성 기능을 제공합니다. Nano Banana 2로 구동되는 풍부한 위성 및 3D 이미지를 텍스트 프롬프트와 결합하여 전 세계에서 가장 좋아하는 장소를 재구성할 수 있습니다. 확대하고 '이미지 만들기'를 탭한 후 보고 싶은 내용을 입력하세요! 이제 누구나 창작을 시작할 수 있습니다. http://goo.gle/4fNJGyt",
       "published_at": "2026-07-30T18:53:09+00:00"
     },
     {
@@ -2401,20 +2417,6 @@
       ],
       "summary_ko": "@karpathy의 RT: 우리는 스텔스에서 벗어나고 있습니다. 성공적인 A0 테이프아웃, 10억 달러 이상의 고객 계약, 8억 달러의 자금 조달 이후 첫 번째 랙을 구축했습니다. 초기 고객 테스트에서는 추론 워크로드에서 SOTA 처리량, 대기 시간 및 전력 효율성을 달성한 것으로 나타났습니다. 올 여름 첫 번째 랙이 출시됩니다.",
       "published_at": "2026-06-30T15:00:09+00:00"
-    },
-    {
-      "id": "rss:semianalysis:us-grid-constraints-towards-40gw",
-      "source": "rss",
-      "author": "semianalysis",
-      "author_name": "SemiAnalysis",
-      "author_url": "https://semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40gw",
-      "text": "US Grid Constraints: Towards 40GW+ of Behind-The-Meter Datacenter by 2028?\n\nWhy the Grid Can't Keep Up, and Why that Drives Behind-The-Meter 50%+ of DCs/Year By 2028",
-      "images": [
-        "https://substack-post-media.s3.amazonaws.com/public/images/907313ec-d17d-4e62-bd79-17e374d6767e_1672x940.png"
-      ],
-      "summary_ko": "미국 전력망 제약: 2028년까지 40GW 이상의 비하인드 데이터센터를 목표로 합니까?\n\n그리드가 따라잡을 수 없는 이유와 2028년까지 연간 DC의 50% 이상을 뒤처지는 이유",
-      "published_at": "2026-06-25T19:48:39+00:00"
     },
     {
       "id": "x:karpathy:2069547676849557725",
