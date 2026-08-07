@@ -1,22 +1,34 @@
 {
-  "updated_at": "2026-08-07T20:40:29+00:00",
+  "updated_at": "2026-08-07T21:38:45+00:00",
   "counts": {
     "total": 192,
     "new_this_run": 1
   },
   "briefing": {
-    "headline": "메타, Muse Code로 엔터프라이즈 AI 공략",
+    "headline": "미국 7월 고용보고서, 실업률 4.1%로 하락",
     "bullets": [
-      "SpaceX, 2027년 10GW 목표",
-      "SK하이닉스, 엔비디아 HBM 반값 공급설 부인",
-      "미국 7월 고용보고서, 실업률 4.1%로 하락",
-      "중국 8대 태양광 폴리실리콘 기업, 원가 이하 판매 금지 성명",
-      "골드만삭스&JP모건, 이노라이트 홍콩주식 대규모 매수"
+      "메모리 가격 상승 정점 곧 도달",
+      "SK하이닉스, 중국 충칭 공장 신규 투자 유치 고려",
+      "엔비디아, 중국 공급망 찾는 중",
+      "골드만삭스&JP모건, 이노라이트 홍콩주식 대규모 매수",
+      "미국 실업률 4.1%로 하락, 비농업고용자수 2.3만명 감소"
     ],
-    "generated_at": "2026-08-07T20:40:29+00:00",
+    "generated_at": "2026-08-07T21:38:45+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32198",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32198",
+      "text": "데이터센터 정치 이슈  ========================  ~ 디인포메이션은 2일(현지 시간) 주정부들 사이에서 데이터센터 세제 혜택 철회 움직임이 확산되면서 설비 비용이 7% 이상 증가할 수 있다고 분석했다  ~ 미국 주의회 연합체인 주의회전국회의(NCSL)에 따르면 애리조나·코네티컷·조지아·메릴랜드·미시간·펜실베이니아·버지니아·텍사스 등 13~14개 주에서 데이터센터 판매세를 이미 폐지 또는 일시 중단했거나 폐지할 예정이다  ~ 지역 경제…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T21:36:01+00:00"
+    },
     {
       "id": "rss:semianalysis:spacex-10gw-in-2027-why-its-real",
       "source": "rss",
@@ -184,7 +196,7 @@
       "author_name": "한투증권 중국/신흥국 정정영",
       "author_url": "https://t.me/EMchina",
       "url": "https://t.me/EMchina/32196",
-      "text": "SK하이닉스, 중국 충칭 공장 신규 투자 유치 고려\n=======================\n~\nSK Hynix Inc\n., a major supplier of high-bandwidth memory chips to Nvidia, is consulting with advisers about potential options for its facility in Chongqing, China, according to a report from Bloomberg News\n~ The company is considering bringing in a new investor for the plant\nhttps://ng.investing.com/news/stock-market-news/sk-hynix-explores-options-for-china-facility-worth-3-billion--bloomberg-93CH-2648004",
+      "text": "SK하이닉스, 중국 충칭 공장 신규 투자 유치 고려\n========================\n~ 보도에 따르면 SK하이닉스는 신규 투자자를 유치하거나 지분 일부를 매각하는 방안을 자문사와 검토 중이다\nhttps://n.news.naver.com/article/008/0005397190?sid=101",
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-07T14:03:52+00:00"
@@ -435,18 +447,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-07T12:00:09+00:00"
-    },
-    {
-      "id": "tg:EMchina/32184",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32184",
-      "text": "유니트리 공모가 150.8위안 확정. 8/10 청약 예정. 상반기 예상 매출 10억위안 이상  • 유니트리 과창판 IPO 공모가 주당 150.80위안 확정. 예상 조달 자금은 약 61억위안으로 상장 후 시가총액 약 610억위안  • 2026년 상반기 매출 10.52억-11.28억위안, 순이익 2.58억-3.06억위안 예상  • 공모가 기준 PER 219배, PSR 36배. 업종 및 비교기업 평균보다 높은 수준  • 시장은 상용화 실현 진전에 주목  宇树…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T11:54:32+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/24437",
