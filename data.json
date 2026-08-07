@@ -1,21 +1,240 @@
 {
-  "updated_at": "2026-08-07T11:44:56+00:00",
+  "updated_at": "2026-08-07T13:02:52+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 4
+    "new_this_run": 19
   },
   "briefing": {
-    "headline": "SK하이닉스, 엔비디아 HBM 반값 공급설 부인",
+    "headline": "미국 실업률 4.1%로 하락",
     "bullets": [
-      "메모리 업황 조정 '막바지'",
-      "SK하이닉스 EPS 13% 상향",
-      "DRAM 20~30% 추가 상승 예상",
-      "CATL, 소듐이온배터리 기반 에너지저장장치 확장"
+      "미국 7월 고용보고서 실업률 4.1%",
+      "비농업고용자수 2.3만명 감소",
+      "중국 8대 태양광 폴리실리콘 기업 원가 이하 판매 금지",
+      "엔비디아, 중국 공급망 찾기",
+      "SK하이닉스, 엔비디아 HBM 반값 공급설 부인"
     ],
-    "generated_at": "2026-08-07T11:44:56+00:00",
+    "generated_at": "2026-08-07T13:02:52+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:globaletfi/21019",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21019",
+      "text": "» 미 국채금리는 단기 구간 중심의 하락이 나타나며 Curve Bull-Steepening 진행",
+      "images": [
+        "https://cdn5.telesco.pe/file/O91x8hW0WVwZzW8rT4XVpR2lAgIrjYzrFx_XpUBoOigPV3I2EyM0lEDtM5MM-4aS8kF1DI7w6olz8fsw9yU7f0Inpxrn10yTfZ7Nj9zYHTjRv0dd4sLp5plBRW5JfKVRcJcB0lIwqiEmPtY0nYI5V7jAVrhO88H7ZJO7xAiAxBLe00JCm1LieAO66_lPEfPrUK1UuoBiA5iNHuQEhlm7JTM4GQ-ojddo4qFMa5w3YZpfu3lGxPG2EDrhazy5h_aqmUro1bXUSBdOeyvuN22CyFUfJLa3ZcBQyqLgoewG2YSarbsMwRin_aqIRYiWpWXIqRiNnRrW4UQqZGKkstFwvQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-07T13:00:04+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21018",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21018",
+      "text": "🔹\n미국 실업률 추이\n(소숫점 세자리 기준)\n» 2025년\n- 1월: 4.011%\n- 2월: 4.139%\n- 3월: 4.152%\n- 4월: 4.187%\n- 5월: 4.244%\n- 6월: 4.117%\n- 7월: 4.248%\n- 8월: 4.322%\n- 9월: 4.441%\n- 10월: N/A\n- 11월: 4.536%\n- 12월: 4.375%\n» 2026년\n- 1월: 4.322%\n- 2월: 4.441%\n- 3월: 4.256%\n- 4월: 4.337%\n- 5월: 4.296%\n- 6월: 4.189%\n- 7월: 4.090%",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T12:53:45+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21016",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21016",
+      "text": "» 지난 2025년 6월 이후 13개월만에 4.1%까지 하락한 실업률과 지난 2월 이후 처음으로 감소세 기록한 비농업고용자수가 확인되었습니다.\n» 꾸준히 말씀드리고 있는 부분이지만, 경제활동참가율 및 경제활동참가인구가 감소하는 내용과 고임금 업종의 채용 감소 및 저임금으로의 인력 이동, 임금상승률 하향 추세 등을 살펴보면 미국 고용시장의 퀄리티(+구매력 약화) 훼손 현상이 이어지고 있는 모습이 확인되고 있습니다.\n» 투자 사이클 중심의 시장 대응(결국 IT 중심)과 인플레이션 약화시 통화정책 급전환 가능성을 생각하는 방향성이 고려되어야 한다고 판단됩니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/P5LRgViPalfHA-uFBpqxaBUQObk9iG35Y_xpYuzFSqSejmB-Jsp8cBvzoo7i5ypeSNQOw7rWQ4wfiAIzvqFbGU__kEM3gisQPr0vwf3yesjIz4ySKe4cKI41SYwEDE_mRdVXdZz3sFqeLbFaxnN53TXBga3uW905Nbn_yIu7bStNhcdaz0L1VYVNBGYDGhlR-327Nh3ss5iBShc7KDJzmyRyhUq9iu9iUZloziCR2GiX4CWV46ZtFMkKmhtHYMMjtacusNQuZ6A3Ctf3t2d6PGzMKZsksENoQgipuhp8eu_fD5vPwmXI5wpf7faKCatFFqgDO6MUDN3V6fSuJhAs4w.jpg",
+        "https://cdn5.telesco.pe/file/b8-XRD_v1W5OO7VugKvNzP1USys7l8ezSc5q_I4_nRDxYE2ot-OVrQU4HHyHmL_O1qGmwPOxsVmAlGtcTBTAZNiLPLSrS-NXFQxAeibb6YXairYaaAuA9bymBnDCu0BaDoWhAUSmBzGzsDBT1M18Z-h6lPLFsqW3VMUFCZQXSt5OLIiWMbz7R2gk-CYa2QbLHRG2tjgHmnSiKXQ7-hlf8mldKgwolLJfFe7z66_IkrN8TtE4sBumc919ts1ov8PyUweZLXo-lxU8UhTlu6ugt9npEIOGvvp419zFMv3xtY7qW6xrTy5CzKLZjcDTBA4nu_J5235odvmJSjbhQif_pg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-07T12:52:23+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19593",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19593",
+      "text": "미국 경제가 2020년 팬데믹 이후 세 번째로 큰 규모의 월간 일자리 감소를 예상치 못하게 기록하면서, 9월 금리 인상 확률이 40%로 하락\n(불과 며칠 전만 해도 시장은 9월 금리 인상 가능성을 70% 이상으로 예상)",
+      "images": [
+        "https://cdn5.telesco.pe/file/dWU9LA_L1hTNoUNuE7G2LP43Wl9OTF1OAN_7U-XILTOg4yyBkoHqwjOhWOpbhiexKyJQW4qhcwGC_cu_vY7fSIWFKjh5SLi-u8OPu2m3Ut-sAmpICWnAmfAfBL-JNSh8ud8pKeG9v19LDYNZwD6D7wyqizwUiAQfze56oEPHhlQ07qhXf4KsU98uRz1fqP1mUX0G6aRe0ddqVZgzP2E5Z6q0DNgrlouSvUGeqR97DybD4uVxeidjmnqVr2UY2gGivxZvXzWVygdQWiiFuEU0graRgkyzRVeftgx5TS5hvdOvN7sTtGjxA3geUjnj5xLtjfFUtKyAMv6VCdUfz2ixNA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-07T12:43:58+00:00"
+    },
+    {
+      "id": "tg:EMchina/32194",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32194",
+      "text": "중국 8대 태양광 폴리실리콘 기업, 원가 이하 판매 금지 성명 발표  • 중국국가시장감독총국의 태양광 산업 가격 준수 지도 실시 일주일 만에, 중국 8대 폴리실리콘 기업 내부 경쟁 방지 '이니셔티브' 공동 성명  • 8개 기업이 중국 폴리실리콘 유효 생산능력의 90% 이상 차지  • 모든 태양광 제품 판매 가격(입찰 견적 포함)은 '태양광 산업 원가 계산 모델 일반 규칙'에 따라 계산된 비용보다 낮을수 없다고 약속. 완전 원가 이하 판매는 즉시 중단 및…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T12:41:34+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21015",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21015",
+      "text": "» 미국 7월 고용보고서는 실업률이 4.1%(6월: 4.2%)로 하락했으나, 비농업고용자수가 -2.3만명 감소한 것으로 집계(예상치: +8.0만명)\n» 비농업고용자수는 전월치도 하향 조정. 하락세를 이어간 경제활동참가율이 실업률 하향에 영향\n» 임금상승률까지 컨센서스를 크게 하회한 상황. 전반적인 고용시장 둔화 흐름으로 해석 가능",
+      "images": [
+        "https://cdn5.telesco.pe/file/Tkhvky0KKwP8xlWdKg8Gr4S8elrImq9_obCCt2C1iNm7E0XhpSrkWhxvgy3M--_THo6Fhf7dO7gGiA2S8db9UEudLvOFGBnlaJb7T7M4WYwB90q7ogweJbZj_46fqAeib8z-RJjYkbGFY5MtdoKzil9Wu3C1kCv0qrRTBB-EKVZuM9zC5urQitbdKTpQsqlZzRd_JhAJMDmkT3PhJQWaS_aELCIqO3jlsgKrzLKof0O4gIy7ZAG4hTCAkKs-ruZQmZ1aDXsZ__2DG65J3kifHr_USBsKQXcCGpViIRr1f4JMOt_gl0yy2JkCUqq4M5Jj1J2ZQire3PEBXcj7596ktg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-07T12:38:27+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19592",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19592",
+      "text": "미국 7월 고용보고서\n비농업 부문 고용: -2.3만 명 (예상 +8.0만 명)\n실업률: 4.1% (예상 4.2%)\n시간당 평균 임금 (전월 대비): 0.1% (예상 0.3%)\n시간당 평균 임금 (전년 대비): 3.2% (예상 3.5%)\n경제활동참여율: 61.4% (예상 61.6%)\n민간 부문 고용: +3.0만 명 (예상 +8.2만 명)\n주당 평균 노동시간: 34.3시간 (예상 34.3시간)\n5월 및 6월 고용 수치: 합산 -10.3만 명 하향 조정",
+      "images": [
+        "https://cdn5.telesco.pe/file/R1HK-Es78sTJzjR3SJ4U-QdWGCPpsraWLDv3LIzzwqBKZguYISF50LrKFwJEJYb-BDKamc79QYTl-CD71dNiALs26mQOtsmiMxPRmBcf45zc8L3fVoxhk4MMNsExHGZ-cysfluhKgeBC5XAYYKLV-IlW8SUEi7DXRjc-aXSTD8WJyTA9vbklsiLXHubNtmGRIGYHPRtzyZc0afVH0SY8vSqYj6BcXYaevGeETRKk8oKZHjQmj3fgKkIDE5dCYNmX4citOqF5uAAhim-yrR-tPnloqciYzdZ61c6BArgbNwAVVv9TYblj6eJvDFWWRItMajVILvbR9d5x9WWBlssCsA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-07T12:34:11+00:00"
+    },
+    {
+      "id": "tg:EMchina/32192",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32192",
+      "text": "고용 쇼크\n금리 하락",
+      "images": [
+        "https://cdn5.telesco.pe/file/K9StMgfc9piPeEzV-b_DewoajwHIyPxn7JPvaW7sNVtVBMiJBsK5MFpFKvuzQ2BYxU8JEA06BeL0CSecbG7dLR3vCyV5Y1R6FAJ9V30fyA8_Lf79Cf2mab3lkUOV5ZnhqTdJr1JGizydqsBALA0I3QLmlVv3ZJnGVzU4U_gVdYMpOUopLdrJn-dl5H9WFufmvzRCJT7TK4Y0Z1JLlELuNmz0QD5IrsnbITqodo3AK6Oo7S4b85Ze6RkT_iE-Szp-G5a1qHqPuYdY6NC9PwSqUcsw6BphMVRvGVi-tqsLz89UWSpYu30Ez8J6DRqOR3_ESyDeQFJk1pbU9tSesHk5yA.jpg",
+        "https://cdn5.telesco.pe/file/mFERCvb5QUI0M5BnNFF6hJlNSFB3bnnA4zRER_avHXDimP-qofpjL89ASsVwOuJRaCWknHZXDgth2TYOsr_D6pJbiD-iUkCXItbtJ6rBYj-7EKk5hq1TJzBfV76R3gAW9luRs5cLx4yZ96C3Rdv9ylcOUL_UztHRfHyp5cJyENlzxpjpSmVPUB5zn5pKEZEGwyvUkxhT8kc-gg3JbJAdpDSkUsw2R_eXpDe3PeLI4_eMtjUjZguUC942o894N6XGpFQihjNL7bKfVXGShDRbAUDswTjZgoFL25Pg8lWK_Qi87bygbQfS8LkYeJeg-FAYnOMcwSudkRS0tG9lWRXF0Q.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-07T12:33:04+00:00"
+    },
+    {
+      "id": "tg:EMchina/32191",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32191",
+      "text": "중국 공급망 찾는 엔비디아  • 해외 시장 타겟. AI 컴퓨팅 플랫폼 및 무선 네트워크 장비 통합한 6G 시스템  =======================  ~ Nvidia is reportedly seeking a Chinese base-station maker to combine its AI computing platform with wireless network equipment for 6G systems aimed at overseas markets…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T12:31:01+00:00"
+    },
+    {
+      "id": "tg:EMchina/32190",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32190",
+      "text": "골드만삭스& JP모건, 이노라이트 홍콩주식 대규모 매수. 보유 규모 두배로 증가  • 골드만삭스와 JP모건은 최근 이노라이트 홍콩주식 크게 확대. 1주일 만에 두배로 늘어 보유비중 각각 12.19%, 13.72%  • 7/30 980홍콩달러에 홍콩 상장. 8/6 주가는 이미 1151홍콩달러로 상승  • 골드만삭스는 이노라이트 본토 주식A 목표주가 기존 1187위안에서 2581위안으로 대폭 상향 조정  高盛、摩根大通大幅加仓中际旭创H股，持仓双双翻倍 高盛与摩…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T12:25:10+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19591",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19591",
+      "text": "Evercore ISI, 블룸 에너지(Bloom Energy,\n$BE\n)에 대해 '아웃퍼폼(Outperform)' 투자의견, 목표주가 350달러\n\"어제 장 마감 후,\n블룸 에너지는 마이텍 홀딩스(MiTAC Holdings)의 자회사이자 고성능·고효율 서버 솔루션의 글로벌 공급업체인 마이텍 컴퓨팅 테크놀로지(MiTAC Computing Technology Corp)와의 파트너십 확대를 발표\n했습니다. 이번 협력에 따라 블룸은 기존 산호세 제조 시설의 설치 사례에 이어 캘리포니아주 프리몬트에 위치한 마이텍의 AI 서버 제조 캠퍼스 독립형 마이크로그리드(islanded microgrid)에 연료전지 시스템을 구축할 예정이며,\n이를 통해 캘리포니아 내 두 사업장의 총 계약 현장 전력 용량을 크게 늘리게 됩니다.\n당사가 보기에 이번 발표에서 가장 중요한 공개 사항은 마이텍 프로젝트 자체보다는,\n블룸이 이와 관련해 제시한 세그먼트(시장) 규모 추산입니다. 발표 내용에서 블룸은 현재 20여 개(nearly two dozen)에 달하는 AI 인프라 고객사에 서비스를 제공하고 있다고 밝혔는데, 이는 기존에 주로 언급되던 대표 기업들(오라클, 네비우스, 브룩필드, AEP, 에퀴닉스 등)을 훨씬 뛰어넘는 AI 인프라 고객 수치를 블룸이 처음으로 수치화\n하여 공개한 사례입니다.\n또한\n, 당사는 이번 발표가 블룸의 공략 가능한 시장(TAM)의 광범위성을 잘 보여준다고 판단합니다\n. 블룸은 이번 계약을 상업 및 공업 기업, 특히 첨단 제조업체 중심으로 설명하며 “\n특히 첨단 제조업체들과 광범위한 AI 공급망 내 기업들”이 AI 데이터 센터와 동일한 전력 부족 제약에 직면해 있으며, “전력망 확충을 기다리는 것은 선택지가 아니기 때문에” 점점 더 현장 자가 발전(onsite power)으로 눈을 돌리고 있다\n고 밝혔습니다.\n이는 블룸이\n컴퓨팅 자체의 전력 수요뿐만 아니라 AI의 '곡괭이와 삽(Picks and Shovels)' 계층(예: 서버/렉 제조, 반도체, 테스트 등)의 전력 수요까지 해결할 수 있다는 당사의 견해를 뒷받침\n합니다.\n결론적으로 이번 발표를 통해 직접적인 재무적 영향을 검증할 수는 없지만\n, 발표의 구도와 맥락 자체는 추가적인 호재(incremental positive)로 평가해야 한다는 것이 당사의 의견입니다.\"",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T12:23:11+00:00"
+    },
+    {
+      "id": "tg:EMchina/32189",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32189",
+      "text": "~ 이번 행사는\n핵심광물 개발과 가공을 촉진하기 위한 노력을 부각하기 위해 마련\n됐으며, 몇 건의 협약과 양해각서(MOU)도 공개될 예정이라고 정상회담에 정통한 관계자들이 전했다. 이들은 공식 발표에 앞서 세부 사항을 밝힌다는 이유로 익명을 요청했다\nhttps://m.newspim.com/news/view/20260807000847",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T12:21:29+00:00"
+    },
+    {
+      "id": "tg:EMchina/32188",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32188",
+      "text": "여름이 철수 적기. Mag7 자본지출 삭감땐 더 광범위한 조정 불가피(BofA)  • BofA Bull-Bear Indicator 9.6. 사상 최고치  • 시장은 이미 극도로 혼잡. AI 자본지출이 줄어들면 전면적인 붕괴가 일어날 가능성  • 여름철에 위험자산 과감하게 철수. 장기 국채, 방어주 및 달러 매수 제안  • 과열 속 역발상 거래 적기  夏季或是撤退良机，美银Hartnett：Mag7资本开支若遭削减，更广泛回调或难以避免 逃顶警报！美银“牛熊指标”飙…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T12:11:21+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19590",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19590",
+      "text": "Rosenblatt , AAOI, 투자의견 매수 유지 , 목표주가 $220\n,\n탑픽\n당사는 투자자들이\n이미 충분히 예상하고 있던 생산 능력 제약과 부품 수급 시기 문제에도 불구하고 AAOI의 2Q26 실적을 매우 긍정적으로 평가\n합니다.\n부품 공급 제약(특히 DSP 및 TIA)과 캐파 확장 시기로 인해 CY26 추정치는 하향 조정되었으나, CY27 추정치는 소폭 상승했습니다.\n또한\n경영진이 제시한 2H27 데이터센터 매출 목표 대비 약 3분의 1 수준의 할인을 적용했기 때문에 당사의 CY27 수치는 여전히 보수적일 가능성\n이 있습니다.\nCY27 EPS의 약 27배를 기반으로 목표가 $220와 함께 '매수' 투자의견 및 Top Pick 지위를 재확인\n합니다",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T12:10:24+00:00"
+    },
+    {
+      "id": "tg:EMchina/32187",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32187",
+      "text": "한결같음  ======================  ~ 트럼프 대통령은 이란 전쟁과 인공지능(AI)의 급부상이 경제에 미치는 영향 등 다양한 문제에 대해 워시에게 자문했다고 WSJ는 전했다  WSJ는 이 두 사람이 통화정책을 논의했는지는 확실치 않다면서, 다만 워시 의장이 상원 인준을 받은 후에는 트럼프 대통령이 금리 문제를 꺼낸 적이 없다는 대화 내용을 아는 한 인사의 말을 전했다  https://n.news.naver.com/article/001/…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T12:05:10+00:00"
+    },
+    {
+      "id": "tg:EMchina/32186",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32186",
+      "text": "딥시크: 조만간 전반적인 가격 인상 계획. 인상폭은 비교적 클 것. 합리적인 사용 조정 권고  DeepSeek公告：计划近期整体上调DeepSeek API服务的定价，预计涨幅较大，请合理安排使用。具体方案以正式通知为准。",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T12:00:09+00:00"
+    },
+    {
+      "id": "tg:EMchina/32184",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32184",
+      "text": "유니트리 공모가 150.8위안 확정. 8/10 청약 예정. 상반기 예상 매출 10억위안 이상  • 유니트리 과창판 IPO 공모가 주당 150.80위안 확정. 예상 조달 자금은 약 61억위안으로 상장 후 시가총액 약 610억위안  • 2026년 상반기 매출 10.52억-11.28억위안, 순이익 2.58억-3.06억위안 예상  • 공모가 기준 PER 219배, PSR 36배. 업종 및 비교기업 평균보다 높은 수준  • 시장은 상용화 실현 진전에 주목  宇树…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T11:54:32+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24437",
       "source": "telegram",
@@ -331,42 +550,6 @@
       "published_at": "2026-08-07T05:26:30+00:00"
     },
     {
-      "id": "tg:bornlupin/19581",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19581",
-      "text": "2026.08.07 13:47:39\n기업명: 금호석유화학(시가총액: 3조 818억) A011780\n보고서명: 연결재무제표기준영업(잠정)실적(공정공시)\n매출액 : 22,682억(예상치 : 20,079억+/ 13%)\n영업익 : 3,390억(예상치 : 1,464억/ +132%)\n순이익 : 3,004억(예상치 : 1,685억+/ 78%)\n**최근 실적 추이**\n2026.2Q 22,682억/ 3,390억/ 3,004억\n2026.1Q 17,800억/ 594억/ 963억\n2025.4Q 15,897억/ 16억/ 14억\n2025.3Q 16,438억/ 844억/ 1,069억\n2025.2Q 17,734억/ 652억/ 577억\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807800286\n회사정보:\nhttps://finance.naver.com/item/main.nhn?code=011780",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T04:51:43+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19580",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19580",
-      "text": "3분기 가격 전망: DRAM 20~30% 추가 상승, NAND Flash 35~40% 추가 상승 예상.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T04:42:43+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19579",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19579",
-      "text": "Winbond·에이데이터 \"메모리 시장 장기 호황 지속\"… AI 서버 및 에지 AI 수요 폭발\n대만 메모리 반도체 기업인\nWinbond와 에이데이터(ADATA)가 8월 6일 법인설명회(IR)에서 AI 서버, 데이터센터, 기업용 스토리지, 에지(Edge) AI 등의 수요 증가로 메모리 업황 호조가 지속될 것이라고 발표했습니다.\n글로벌 메모리 원자재 제조사들이 생산 능력을\nHBM 및 고성능 제품으로 전환함에 따라, DRAM과 NAND 플래시 공급 부족이 이어져 2027년 메모리 숏티지(공급 부족) 현상은 올해보다 더욱 심화될 것으로 전망됩니다.\n1. 에이데이터 (ADATA) 주요 실적 및 전망\n역대 최고 실적 달성\n:\n7월 매출\n: 183억 8,000만 대만달러\n(전월 대비 +25.4%, 전년 대비 +331.3%)로 5개월 연속 월간 사상 최고치 경신.\n1~7월 누적 매출\n: 826억 5,000만 대만달러 (전년 대비 +206.7%)로 이미 지난해 전체 매출을 초과 달성.\n시장 구조 전환\n:\n기존 PC 및 스마트폰 중심의 단기 경기 순환에서 벗어나\nAI의 전방위 도입에 따른 장기 구조적 성장 단계\n로 진입.\n가격 상승 및 하반기 전망\n:\n2분기 가격 상승폭\n:\nDRAM 계약가 30~50% 상승, NAND Flash 60~70% 상승.\n3분기 가격 전망: DRAM 20~30% 추가 상승, NAND Flash 35~40% 추가 상승 예상.\n견조한 수요와 가격 상승세에 힘입어\n3분기 실적은 2분기를 상회하며, 연간 매출 및 이익 모두 사상 최대치를 기록할 것으로 기대\n.\n2. Winbond 주요 실적 및 증설 계획\n2분기 실적\n:\n메모리 본업 매출 517억 대만달러.\n매출총이익률(Gross Margin) 70.3%\n,\n영업이익률 56.9%\n,\n가동률 100%\n기록.\nNOR Flash 및 DRAM 수요 가속화\n:\n3분기에도 DRAM과 NOR Flash 가격 상승세 지속.\nAI 서버용 수요 급증\n:\nAI 서버 신규 랙(Rack) 1대당 NOR Flash 탑재량이 500~600개로 대폭 증가, 용량도 64Mb에서 512Mb, 1Gb, 2Gb 수준으로 상향됨.\n통신 스위치, 기지국, 전장(자동차), 에지 AI 등에서도 수요 동반 증가.\n생산 능력 확충 및 공정 전환\n:\n가오슝 공장의 월 생산능력을 현재 1만 5,000장에서\n올해 말까지 2만 4,000장으로 확대\n하고, 16나노 공정 전환을 가속화.\n'가오슝 모듈 B(Module B)' 프로젝트 시작\n: 2027년 착공, 2029년 장비 입고 및 양산 목표 (16나노, 14나노, 12나노 공정 지원 예정).\nhttps://www.ctee.com.tw/news/20260807700079-430501",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T04:39:03+00:00"
-    },
-    {
       "id": "tg:EMchina/32181",
       "source": "telegram",
       "author": "EMchina",
@@ -377,68 +560,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-07T04:37:19+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19578",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19578",
-      "text": "마이크론 경영진의 강한 신호: 메모리의 시스템 가치 비중 50% 초과, CPU 측 AI 에이전트 수요는 '시즌 전 워밍업'\n도이치방크는 FMS 2026 플래시 메모리 서밋 기간 중 마이크론 경영진과 회동을 가졌습니다. 이 자리에서\n마이크론 경영진은 AI가 메모리 산업을 시스템 아키텍처의 핵심으로 영구히 재편하고 있으며, DRAM과 NAND 모두 공급 부족 상태에 있다고 지적했습니다\n. 전체 시스템 가치에서\n메모리가 차지하는 비중은 거의 50%까지 상승했으며, AI가 이러한 재평가 과정을 가속화하고 있습니다\n. 도이치방크는 마이크론이\n수익성을 희생하지 않고도 성장할 수 있는 '럭셔리한 우위'를 확보하고 있어, 강한 실적 상향 조정과 밸류에이션 재평가를 이끌어낼 것\n으로 보았습니다.\n마이크론 테크놀로지는 AI가 이끄는 메모리 슈퍼사이클의 중심에 서 있습니다.\n1.. 수급 구조의 구조적 타이트함 및 계약 메커니즘\nDRAM 및 NAND 동반 공급 부족\n: AI 트렌드와 연산 대비 메모리 비중의 상승으로 인해, 이번 수급 불균형은 과거 메모리 주기보다 훨씬 더 심화되어 있습니다.\n메모리 수요의 강성(Rigidity)\n: 공급이 타이트해질 때 고객들은 SSD를 먼저 줄이고,\n물리적 해체가 필요한 핵심 메모리는 함부로 줄이지 못합니다. 이로 인해 AI 시스템 내 메모리의 가격 탄력성은 과거 시장의 상식보다 낮습니다.\n전략적 고객 협약(SCA) 도입\n: 전체 판매량의 약 40%를 커버할 것으로 예상되는 SCA는 고객의 물량 및 계약 기간 약정을 대가로 가격 상/하한선을 설정합니다.\n이는 생산 계획을 안정화하고 시장의 공급 부족 충격을 완화해 줍니다.\n도이치방크 평가\n: 이러한 구조적 특징 덕분에\n이번 사이클의 수급 제약은 과거의 법칙을 뛰어넘고 있으며, 메모리 사이클 전반에 대해 매우 긍정적인 시각을 유지\n합니다.\n2\n. 메모리의 시스템 가치 상승 및 CPU 측 AI 에이전트 수요\n시스템 가치 비중 50% 육박\n:\n30년 전 약 10%에 불과했던 전체 시스템 가치 내 메모리 비중이 현재 거의 50%까지 상승\n했으며,\nAI가 이 재평가 과정을 더욱 가속화\n하고 있습니다.\nKV 캐시 관리를 위한 다계층 솔루션\n:\nHBM\n: 핫 패스(Hot path) 연산 담당\nSOCAMM2 메인 메모리\n: KV 캐시 오버플로우 처리\n분산형 DDR5 리소스 풀\n: 롱테일 수요 대응\n오케스트레이션 소프트웨어를 활용하여 데이터의 스왑(Swap in/out)을 효율적으로 관리\nCPU 측 AI 에이전트 수요 부상\n:\n그동안 하이퍼스케일러들의 CapEx는 GPU 인프라에 집중되었으나,\n워크로드가 사람 중심에서 '에이전트 중심'(연산 호출 밀도가 현저히 높음)으로 전환됨에 따라 그간 투자가 미진했던 CPU 측 수요가 표면화\n되고 있습니다.\n마이크론 경영진은 현재 에이전트 리소스 채택 단계를 \"시즌 전 워밍업(Pre-season warm-up)\"으로 규정하며, 대규모 도입까지는 시간이 걸리지만 주요 선도 테크 기업을 중심으로 시작\n되고 있다고 밝혔습니다.\n도이치방크는\n이를 GPU 생태계를 넘어 메모리 수요를 이끌 새로운 '증분 기둥(Incremental pillar)'으로 평가\n합니다.\n3\n. 신흥 메모리 기술 및 대체 위협 분석\nSRAM의 한계\n: DRAM 가격 상승으로 대역폭 요구는 높지만 메모리 점유가 작은 추론 워크로드(전체 시스템의 약 5%)에서 SRAM 전환이 늘고 있으나, SRAM은 확장성이 부족하여 온칩(On-chip) 솔루션에 머무를 뿐 HBM의 대체재가 될 수 없습니다.\nCXL 및 HBF(High Bandwidth Fabric)\n: 상용화 가능성과 실용적 가치에 대해서는 여전히 논쟁이 진행 중입니다.\n결론\n:\nSRAM 등 신흥 기술은 특정 세부 계층을 담당할 뿐, 마이크론의 핵심 HBM 및 메모리 사업에 미치는 위협은 매우 제한적입니다.\n4\n. 도이치방크의 최종 평가\n마이크론의\n강력한 제품 포트폴리오, 진화하는 비즈니스 모델, 매우 유리한 수급 환경이 결합되어 실적 상향과 밸류에이션 재평가가 지속될 것\n입니다.\n마이크론은\n풀스택 기술 리더십과 엄격한 집행력을 바탕으로 수익성 훼손 없이 성장할 수 있는 독보적인 경쟁 우위를 보유하고 있다고 재차 강조\n했습니다.\nhttps://x.com/DrNHJ/status/2085584394228760800?s=20",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T04:31:32+00:00"
-    },
-    {
-      "id": "tg:EMchina/32180",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32180",
-      "text": "딥시크: 조만간 전반적인 가격 인상 계획. 인상폭은 비교적 클 것. 합리적인 사용 조정 권고  DeepSeek公告：计划近期整体上调DeepSeek API服务的定价，预计涨幅较大，请合理安排使用。具体方案以正式通知为准。",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T04:25:40+00:00"
-    },
-    {
-      "id": "tg:EMchina/32179",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32179",
-      "text": "중국인 명품 소비 방식/대상에 변화\n=======================\n~ 중국 부유층의 소비 우선순위가 고가 가죽제품에서 고급 스킨케어와 메이크업 등 프레스티지 뷰티로 이동하는 것으로 나타났다\n~ 이는 중국 소비자가 명품 소비 자체를 포기했다기보다 소비의 방식과 대상을 바꾸고 있음을 시사한다\nhttps://www.g-enews.com/article/Global-Biz/2026/08/202608061757098853fda4f5ab74_1",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T04:24:03+00:00"
-    },
-    {
-      "id": "tg:EMchina/32178",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32178",
-      "text": "CATL ESS 확장력  ========================  ~ 세계 최대 배터리 기업인 중국 CATL이 소듐(나트륨)이온배터리 기반 에너지저장장치(ESS)를 출시한 지 약 한 달 만에 유럽 수주를 따냈다.  CATL은 유럽 신재생 에너지 통합 업체 알펜과 내년부터 네덜란드를 포함한 서유럽 국가에 5GWh 규모의 소듐 ESS를 구축하는 양해각서를 체결했다고 지난 16일 밝혔다.  https://n.news.naver.com/article/09…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T04:19:19+00:00"
-    },
-    {
-      "id": "tg:EMchina/32177",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32177",
-      "text": "중국 7월 수출입 +20%대 성장",
-      "images": [
-        "https://cdn5.telesco.pe/file/GYsZQv6Dgy_N4IAWSTQoeTjQxVNTdS-e5VmesIuKlQd13rdiqngF5Bq6pH_A3xHSjpLkX1lpsaq5xbOAWxEskgO1NWngTjN9cSJyNYnhoA5L1QcU6mrCI1KV8e-Ofoqp4YgiER0Z8BZSql_nVA7LhVjk-ZEg3XLmGSqsjvq8jBXcNA-tKFAJUyqvf6krzVX6c46V_vLVbLTUitkku7YQO0tfLJ0uu_TvzPcb7OKOx-Xby3Hx28972WsM4s6UQSX06_2xprfhCH33JXtK48kJQ_NAde4XZVMHSBIHod9FdS1CueL-KVA_8UkdkzGTlMyeI9kCIYTH67dyrQa4Qqvnsg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-07T03:58:23+00:00"
     },
     {
       "id": "rss:semianalysis:gemini-is-cooked-but-gcp-is-cooking",
@@ -453,18 +574,6 @@
       ],
       "summary_ko": "Gemini는 요리되었지만 GCP는 요리 중입니다.\n\n또는 DeepMind의 장기적인 실패가 GCP의 단기적인 이득인 이유",
       "published_at": "2026-08-07T02:32:44+00:00"
-    },
-    {
-      "id": "tg:EMchina/32176",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32176",
-      "text": "중국시장감독총국, 태양광 업계 가격 준법 지도 실시  • 장쑤성 옌청시에서 태양광 산업에 대한 가격 준법 지도 실시. 국가의 악성 저가경쟁(내권식 경쟁) 정비 결정 이행  • 태양광 기업 ‘가격 경쟁’에서 ‘품질 경쟁’으로의 전환하도록 추진. 태양광 산업 고품질 발전 촉진  市场监管总局开展光伏行业价格合规指导 市场监管总局在江苏省盐城市对光伏行业开展价格合规指导，贯彻落实党中央、国务院关于深入整治“内卷式”竞争的决策部署，推动光伏企业从“拼价格”向“拼质量”转变，促进光伏行业高质量发展。…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T02:01:28+00:00"
     },
     {
       "id": "tg:HI_GS/6862",
@@ -505,18 +614,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-06T23:22:46+00:00"
-    },
-    {
-      "id": "tg:EMchina/32175",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32175",
-      "text": "LME 구리 약 +1% 오르면서 14000달러 돌파 & 2개월만에 최고  LME铜价突破14,000美元/吨，触及两个月高位，日内上涨约1%。  https://wallstreetcn.com/livenews/3144611?ivk=1#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T23:22:07+00:00"
     },
     {
       "id": "tg:globaletfi/21010",
@@ -586,42 +683,6 @@
       "published_at": "2026-08-06T22:52:10+00:00"
     },
     {
-      "id": "tg:globaletfi/21005",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21005",
-      "text": "[하나 글로벌 기업분석 데일리 뉴스]\n8/7 하나증권 김재임/송종원\nTesla·SpaceX, 텍사스 ‘Terafab’ 반도체 공장에 168억달러 투자\n-양사가 수개월간의 관측 끝에 대규모 반도체 프로젝트를 공식화함\n-공장은 휴스턴 북쪽 지역에 건설될 예정임\n-Tesla와 SpaceX가 공동으로 사업 자금을 투입함\nhttps://tinyurl.com/292h672w\nOpenAI, Apple 영업비밀 소송서 보안 관행 반박\n-새로 제출된 법원 증거물에 OpenAI의 법적 대응 전략이 드러남\n-Apple의 보안·퇴사자 관리 방식이 정보 보호 주장을 약화한다고 주장함\n-Apple 관리자가 퇴사한 엔지니어의 iCloud 계정에 접근하도록 허용한 사례가 포함됨\nhttps://tinyurl.com/2xk64wtg\nApple, 보상판매 금액 인상·Android 기기 추가\n-iPhone과 iPad, Mac, Apple Watch 등의 보상판매 가격을 높임\n-일부 기기는 기존보다 100달러 이상 높은 금액을 받을 수 있게 됨\n-Mac Studio의 보상판매 금액은 260달러 올라 가장 큰 인상폭을 기록함\nhttps://tinyurl.com/2bot6u8v\nSpaceX, IPO 후 첫 보호예수 해제로 주가 압박 가능성\n-내부자 보유 주식의 첫 번째 물량이 거래 가능 상태로 전환됨\n-초기 투자자들이 보유 지분을 현금화할 수 있게 됨\n-시장에 매도 물량이 늘어나 주가가 하방 압력을 받을 수 있음\nhttps://tinyurl.com/2bhuy844\nOpenAI, 300달러 이상 도넛형 AI 기기 개발\n-전 Apple 디자이너 Jony Ive와 화면 없는 스마트 스피커 형태의 기기를 개발 중임\n-배터리로 작동하며 하키 퍽 크기와 유사한 것으로 전해짐\n-움직이는 부품을 갖추고 2027년 출시될 것으로 예상됨\nhttps://tinyurl.com/26kzx6af\nChatGPT 무료·Go 이용자 무제한 텍스트 대화 제공\n-현재 적용되는 텍스트 대화 횟수 제한을 없앨 예정임\n-복잡한 질의를 처리하기 위한 새로운 ‘think’ 버튼도 제공함\n-변경 사항은 다음 주부터 적용될 예정임\nhttps://tinyurl.com/25q3te6o\nTikTok, 직원 250명 감원·내슈빌 사무소 폐쇄\n-소셜미디어 사업 조직에서 250명을 해고함\n-내슈빌에 운영하던 사무소를 폐쇄함\n-해당 사무소에는 콘텐츠 검수팀 일부가 근무하고 있었음\nhttps://tinyurl.com/24qeqzwj\nSoftBank, 트럼프 도서관에 5천만달러 기부\n-SoftBank가 1월 트럼프 대통령 도서관에 자금을 제공함\n-수개월 뒤 오하이오 데이터센터 건설을 위한 연방정부 토지 임차를 발표함\n-기부 시점은 미국 의원들의 질의에 대한 회사 답변에서 드러남\nhttps://tinyurl.com/28l3a6n4\nAMD, AI 반도체 스타트업 Taalas 인수\n-Taalas의 기술을 활용해 데이터센터용 AI 칩 제품군을 확장할 계획임\n-현재 칩은 Meta의 Llama 3.1 소형 버전을 실리콘에 직접 구현함\n-더 크고 고도화된 AI 모델용 칩도 개발하고 있음\nhttps://tinyurl.com/2bp3zbep\nGoogle, 금융사 직원 노린 전화 해킹·갈취 공격 경고\n-해커 집단이 미국 대형 금융회사 직원을 전화로 속여 내부망에 침투함\n-민감한 데이터를 훔친 뒤 피해자를 상대로 금전을 요구함\n-최근 공격에서는 헤지펀드가 주요 표적이 됨\nhttps://tinyurl.com/2cwa6f5r\nNintendo 1분기 실적 예상 상회\n-회계연도 1분기 매출과 이익이 시장 전망치를 웃돎\n-Switch 2 판매는 부진한 흐름을 보임\n-판매 둔화에도 전체 분기 실적은 예상보다 양호했음\nhttps://tinyurl.com/24dnw3am\nCloudflare, 연간 이익 전망 상향\n-새 연간 이익 전망치가 Wall Street의 예상을 웃돎\n-AI의 빠른 도입으로 네트워크 서비스 수요가 가속하고 있음\n-수요 확대가 수익성 전망 개선으로 이어짐\nhttps://tinyurl.com/26su9f4f\nLyft, 프리미엄 승차 수요로 2분기 예약액 예상 상회\n-유럽 시장의 강세도 예약액 증가에 기여함\n-순이익은 시장 전망치를 밑돎\n-예약 성과와 수익성 지표가 엇갈린 결과를 보임\nhttps://tinyurl.com/25jyjcjw\nSnowflake 고객 165곳 해킹한 피고인 유죄 인정\n-Connor Moucka가 고객사 데이터를 훔친 혐의를 인정함\n-피해를 본 Snowflake 고객은 165곳을 넘음\n-공범들과 함께 받은 몸값은 250만달러를 초과함\nhttps://tinyurl.com/2dj2vquz\nGrindr, AI 투자로 생산성·구독 성장 개선\n-AI 도입이 엔지니어링 업무 생산성을 높이고 있음\n-월 350달러의 신규 프리미엄 요금제를 지원함\n-가입자 증가와 유지율도 강화되고 있음\nhttps://tinyurl.com/2ca3n5h5\n미국 공화당 의원들, 한국 ‘가짜뉴스법’ 검열 우려\n-하원 법사위원회 소속 공화당 의원들이 한국 규제기관에 서한을 보냄\n-새 법률이 표현의 자유를 제한할 가능성을 제기함\n-Jim Jordan 의원 등이 목요일 문제를 공식 제기함\nhttps://tinyurl.com/2a4r3u4t\n미국 ‘AI 킬 스위치’ 법안 연내 처리 촉구\n-Ted Lieu 의원이 통제에서 벗어난 AI 에이전트 해킹에 대응할 법안이 필요하다고 주장함\n-Anthropic과 Meta, OpenAI 모델이 보안 시험 중 다른 기업을 해킹한 사례가 있었음\n-AI 시스템을 긴급 중단할 제도적 장치 마련이 쟁점임\nhttps://tinyurl.com/25yohvhc\n미국 ‘데이터센터 권리장전’ 법안 추진\n-Ro Khanna 의원이 AI 발전소와 데이터센터 갈등에 대응할 법안을 발의할 예정임\n-전력 사용과 지역사회 영향이 정치적 쟁점으로 부상함\n-Abdul El-Sayed는 주·지방정부 차원의 데이터센터 건설 유예를 지지함\nhttps://tinyurl.com/2xt8auq4",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T22:52:01+00:00"
-    },
-    {
-      "id": "tg:EMchina/32174",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32174",
-      "text": "미국은 폴리실리콘 관세 부과 유예 고려  https://www.bloomberg.com/news/articles/2026-08-06/us-considers-delaying-collection-of-planned-polysilicon-tariffs",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T21:09:23+00:00"
-    },
-    {
-      "id": "tg:EMchina/32173",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32173",
-      "text": "~ 레드노트가 데이터센터 부지로 선택한 내몽골 자치구 울란캅은 대규모 풍력 및 신재생에너지 자원을 보유하고 있어 전기 요금이 매우 저렴한 지역이다. 방대한 데이터 처리와 전력 소비를 동반하는 AI 워크로드 처리에 최적화된 입지로 평가받는다  ~ 또한, 지푸 AI(Zhipu AI) 역시 순수 중국산 칩으로 구동되는 1기가와트(GW) 규모의 AI 컴퓨팅 센터를 구축해 자체 GLM 모델 훈련에 투입하는 등 울란캅이 중국의 새로운 'AI 토큰 공장'으로 거듭나고…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T21:07:14+00:00"
-    },
-    {
       "id": "x:GoogleAI:2085460535932232002",
       "source": "x",
       "author": "GoogleAI",
@@ -634,18 +695,6 @@
       ],
       "summary_ko": "R에서 @GoogleDeepMind로: 인간형 다리 또는 바퀴 달린 로버? 로봇이 계란을 깨야 할까요? Gemini Robotics 2를 만든 @GoogleDeepMind 팀이 비하인드 스토리와 통찰력을 공유하는 모습을 시청하세요 ↓",
       "published_at": "2026-08-06T20:18:32+00:00"
-    },
-    {
-      "id": "tg:EMchina/32172",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32172",
-      "text": "다시 FOMO. S&P500 상승 베팅 & 콜옵션 거래량 사상 최고치 경신\n• 화요일 S&P500 콜옵션 거래량 400만계약 돌파 & 사상 최고치 기록. 콜/풋 비율은 최근 15년간 세 번째로 높은 수준에 도달\n• FOMO 심리가 시장 주도. 4000만달러 규모의 공격적인 베팅으로 다음 날 2300만 달러가 넘는 평가이익 기록\n• UBS는 실적 시즌 예상치 상회 & 동일가중지수 신고가 경신 등 강세장이 AI 넘어 확산 중으로 평가. 연말 목표주가 8100포인트로 제시. 이익 성장이 아직 밸류에이션에 완전히 반영되지 않았다는 의견\nFOMO情绪重燃，投资者争相押注标普500继续上涨，看涨期权成交量创历史新高\n标普500看涨期权成交量周二突破400万张，创历史新高，看涨/看跌比率触及近15年第三高。FOMO情绪主导市场，一笔4000万美元的激进押注隔日浮盈逾2300万美元。财报季持续超预期、等权重指数屡创新高显示牛市扩散至AI以外，瑞银年底目标价8100点，称\"盈利增长尚未完全计入估值\"。\nhttps://wallstreetcn.com/articles/3778875#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T20:18:11+00:00"
     },
     {
       "id": "x:sama:2085454964814753990",
@@ -676,18 +725,6 @@
       "published_at": "2026-08-06T18:40:48+00:00"
     },
     {
-      "id": "tg:globaletfi/21004",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21004",
-      "text": "🔹\nAlphabet, AI 투자 확대 위해 최대 250억달러 규모의 회사채 발행 추진\n» Alphabet이 최대 250억달러 규모의 회사채 발행 추진. 최근 AI 관련 회사채 투자심리가 둔화된 가운데 시장 수요를 확인해보는 성격의 딜이 될 전망\n» Alphabet은 올해 2월 200억달러 회사채 발행에 이어 스위스프랑·유로·파운드·캐나다달러·엔화 표시 채권까지 포함해 2026년 상반기에만 500억달러 이상의 부채를 조달. 같은 기간 약 850억달러 규모의 주식도 발행\n» 만기 2~40년, 최대 10개 트랜치로 구성되며, 장기물은 미 국채 대비 약 155bp, 기존 Alphabet 채권 대비 최대 40bp 높은 스프레드를 제시\n» 금번 발행은 Alphabet이 2026년 CapEx 전망을 최대 2,050억달러로 상향 조정한 이후 진행되는 것으로, AI 데이터센터 및 인프라 투자 확대를 위한 자금 조달 목적이 핵심\n» 대규모 설비투자 영향으로 Alphabet은 2004년 상장 이후 처음으로 분기 잉여현금흐름(FCF)이 마이너스로 전환. AI 투자 수익성에 대한 시장의 관심이 높아진 상황\n» 최근 AI 관련 회사채 시장의 투자심리가 훼손. 메타 데이터센터 프로젝트 연계 125억달러 채권 발행은 초기 수요가 부진했고, Amazon과 SpaceX가 발행한 회사채도 유통시장에서 스프레드가 확대\n» 시장에서는 이번 Alphabet의 회사채 발행 결과가 AI 인프라 투자에 대한 자금 조달 여건과 심리, 향후 빅테크 기업들의 채권 발행 환경을 가늠하는 중요한 지표가 될 것으로 평가\n» BofA, Citi, Wells Fargo, Goldman Sachs, JPMorgan, Morgan Stanley 등이 공동 주관 예정\nAlphabet Lures Investors to Mega Bond Deal With High Premiums\nhttps://www.bloomberg.com/news/articles/2026-08-06/alphabet-returns-to-bond-market-amid-ai-spending-worries",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T18:38:57+00:00"
-    },
-    {
       "id": "x:OpenAI:2085434718393418101",
       "source": "x",
       "author": "OpenAI",
@@ -695,7 +732,9 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2085434718393418101",
       "text": "R to @OpenAI: Plus and Pro users can access the updated version of GPT‑5.6 Sol in ChatGPT along with the new slider starting today. This version of GPT-5.6 Sol is for everyday chats, so it will only be available in the Chat experience in ChatGPT. The version of GPT-5.6 Sol that powers Work and Codex is not changing as part of this release. https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2085411403020795904/h1IYDL57?format=jpg&name=800x419"
+      ],
       "summary_ko": "R에서 @OpenAI로: Plus 및 Pro 사용자는 오늘부터 새로운 슬라이더와 함께 ChatGPT에서 GPT‑5.6 Sol의 업데이트된 버전에 액세스할 수 있습니다. 이 GPT-5.6 Sol 버전은 일상적인 채팅용이므로 ChatGPT의 채팅 환경에서만 사용할 수 있습니다. Work 및 Codex를 지원하는 GPT-5.6 Sol 버전은 이번 릴리스의 일부로 변경되지 않습니다. https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
       "published_at": "2026-08-06T18:35:57+00:00"
     },
@@ -754,18 +793,6 @@
       "published_at": "2026-08-06T18:35:55+00:00"
     },
     {
-      "id": "tg:globaletfi/21003",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21003",
-      "text": "🔹\nSpaceX 첫 락업 해제, 단기 수급 부담 확대 요인\n» 8월 6일부터 IPO 이후 첫 락업(lock-up) 기간 종료로 초기 투자자들의 매도가 가능해지며 단기 수급 부담 확대 가능성\n» 이번에 거래가 가능해지는 물량은약 9억 1,100만주(전체 발행주식의 약 7%)로, IPO 당시 유통된 6억3,900만 주를 상회하는 규모\n» 첫 실적 발표에서 CapEx가 매출의 2배를 상회한 것으로 나타나며 투자 부담이 부각된 가운데, 락업 해제까지 겹치며 주가 압박 요인으로 작용\n» 시장에서는 단기적으로 기업의 펀더멘털보다 락업 해제에 따른 공급 증가가 주가 흐름에 더 큰 영향을 줄 가능성에 주목. 물론 매도가 가능해진 물량이 모두 실제 시장에 쏟아지는 것은 아니며, 매도 가능 물량과 실제 매도 물량은 구분해야 한다는 의견도 공존\n» 추가 락업 해제 일정도 예정되어 있는 상황. 8월 20일 약 3억1,900만 주, 9월 약 7억 주, 10월에 7억 주 가량이 순차적으로 풀릴 예정\n» 최대주주인 일론 머스크는 60억 주 이상의 지분을 보유하고 있으나, 2027년 6월까지 락업이 유지\n» SpaceX는 올해 xAI와의 합병을 완료. IPO 이전에는 Cursor 인수를 추진하는 등 AI 및 소프트웨어 생태계 확장을 지속. 단기적으로는 실적보다 수급 이슈가 주가의 변수로 작용할 가능성이 높다는 평가\nSpaceX stock could face further pressure as first batch of shares unlock since IPO\nhttps://www.cnbc.com/2026/08/06/spacex-faces-test-as-shares-unlock-allowing-early-investors-cash-out.html?__source=androidappshare",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-06T16:52:29+00:00"
-    },
-    {
       "id": "x:GoogleDeepMind:2085395452657049735",
       "source": "x",
       "author": "GoogleDeepMind",
@@ -822,20 +849,6 @@
       "published_at": "2026-08-06T15:36:53+00:00"
     },
     {
-      "id": "tg:globaletfi/21000",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21000",
-      "text": "» 최근 미국 옵션시장에서는 투자자들의 관심이 NASDAQ100 중심에서 S&P500 쪽으로 이동하는 모습. AI 기반의 대형 기술주들에 집중되었던 상승 기대가 산업 전반으로 확산되면서, S&P500을 대상으로 하는 방향성 베팅이 빠르게 증가\n» 이번주 화요일에는 하루 동안 S&P500 지수 콜옵션 거래량이 400만 계약을 돌파하며 사상 최고치를 기록. 풋옵션 거래량은 평소 수준에 머물러 Call/Put Ratio는 지난 15년래 세 번째로 높은 수준까지 상승\n» 상기 차트에서도 2022년 이후 콜옵션 거래량이 꾸준히 증가한 가운데 최근 급증세가 확인되고 있으며, 이는 미국증시의 투자심리가 낙관적인 방향으로 기울어져 있음을 시사\n» 이는 미국 내에서도 상승장을 놓치지 않으려는 FOMO 심리가 강하게 더해진 결과. 투자자들은 조정 위험을 헤지하기보다 추가 상승에 베팅하는 콜옵션 매수를 확대. 즉, Long Bias 중심의 'One-way flow'로 평가 가능. 이 같은 강한 콜옵션 수요는 지수 상승과 함께 내재변동성을 높은 수준에서 유지시키는 요인으로 작용할 전망",
-      "images": [
-        "https://cdn5.telesco.pe/file/F_K6eA8LkqnHO0REm6Ia5epREQxN6kj6lAQpTmuEBDRc4fgMQCJqtG_lbLKnkxTHd5FGPnWzBiqFmJfr0q0qTPPJGiu_RZkIEr61UXYRVcHQZWl3tWDh6aKzxUl-b5N5Ako9iFoUmRzeeyRdF2DvOVAGgKqiayACBM5RMc_083nepFcK9CkmOtuDoyXrR2RMkPG7Xl6DqEoYj2e1xFRy91y96gP8eZSxlELTUQ9Ya0bN9YZaCxpDBdghPSk5-qUYo8d3QOMqzftrNFTPNami5OW67tfqhHiooVKaUZdL4jhx623nCGkqhiSHX2sf1u4RlLMJB_JYELbNr6he0Bwoxg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-06T15:01:35+00:00"
-    },
-    {
       "id": "tg:HI_GS/6861",
       "source": "telegram",
       "author": "HI_GS",
@@ -856,7 +869,7 @@
       "url": "https://t.me/HI_GS/6860",
       "text": "🛳\nFLNG는 확산기, FDC는 개화기\n☞\nhttp://bit.ly/DOS834\n⚓️\n주시 뉴스\n🌏\n그린쉽: N/A\n🌪\nLNG\n▲ 카타르 North Field East(NFE) LNG 확장 프로젝트 작업 재개\n△ Excelerate Energy, 첫 FSRU 개조용 노후선 매입\n▽ LNG선 스팟 운임 하락세 지속\n💨\n가스선: N/A\n🚢\n컨테이너\n▲ CK Line, 중국 CSSC Huangpu Wenchong에 6,400-TEU 4척 발주\n🛳\n탱커\n▲ 삼성중공업 Ditas로부터 수에즈막스 탱커 2척 수주\n△ Scorpio, VLCC 투자 확대\n▽ 그리스 Centrofin, 중국 Titan Wind에 114k PC선 6척 발주. 신조 진입 조선사 증가\n▲ 그리스 선주들, 홍해 리스크로 비싼 VLCC 스팟운임 치룸\n🌉\n해양/디펜스/바람\n△ 삼성중공업, 미국 내 첫 적용을 목표로 부유식 데이터센터 엔지니어링 계약 체결\n△ Golar Hilli. 카메룬 → Seatrium 업그레이드 → 아르헨티나 예정\n▽ Golar LNG의 1번째 Mark II 개조, CIMC Raffles 진수\n▽ Seatrium 16.4십억달러(21십억싱가포르달러) 규모 파이프라인\n------------------------------------------------------\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n✅\n컴플라이언스 승인을 득한 보고서입니다.\n------------------------------------------------------\n⚓️\n코멘터리: 보고서 참고",
       "images": [
-        "https://cdn5.telesco.pe/file/veVIFzwXLt5A3iuMd9ArH3b3k7iMHq3Bmu7LaScaVdSKXIvhVh_d-Ch7UUMXml8FVUcNVFNYwi3ZbLMIK6j3YCj1Ol3H5kpwV4eZR18SCS4m4hP71TwqGN0EtXtt0GUtJXzIP-tufo5EeZsGbucWK7FHNd2YtlStaMGkRuRfun2xjda5gudeWA3-6oJqHyxlWECail_FvNNGWHPTWtpBzS7_iRrU1azu5OwiCuJQp4vyBu8HFAH3gFsD0ek7JHdAeE8mtFyeFRHUHSxG5kO4rQOCKcNSbt_BVzEzHOd3x3OTcyt3NvnB_cIAjqwm_4QbKvpTUfhp0vhgaxqAkWTjYg.jpg"
+        "https://cdn5.telesco.pe/file/NiQtkpnjZkmqHTl4MQ6a04do6Ml2qrRZif38mi7nFUvHwT0e5nRmXv6tH5Df8gECpKOtexOfCH6JOwGSTs15Iv4DHS97x8TAGieMpxqf8-E7wlW8kGQ9-r7b5x3pInuFOdUyDTwGZANlxjCxz_AqvaJrAo0zdFCIrc4fFpLaeHOCY5zOxvWviLkayl2HMI7llSPWOcPXXQXiH0y_rRqwDDs1oGTkjjYHChZnNzlt74R03gwIq0SeSSm_M4V24qMz9Xr-8Njpkbtnr1wNCmeF7SEA0EHdkmM7PKB3VYB_K01YDr_scC0YM243QF7q6lDqXzjm_ASRgNdM0QJVXTGSUw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-06T12:42:07+00:00"
@@ -1302,9 +1315,7 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2084378418989379822",
       "text": "R to @OpenAI: The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2084405117994840064/Ny_Tdcks?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "R에서 @OpenAI로: 결과적으로 세션이 시작되는 순간부터 ChatGPT Voice를 통해 더 빠르고 자연스러운 대화가 가능해집니다. 구축 방법: https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
       "published_at": "2026-08-03T20:38:35+00:00"
     },
