@@ -1,22 +1,84 @@
 {
-  "updated_at": "2026-08-07T21:38:45+00:00",
+  "updated_at": "2026-08-07T22:35:04+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 1
+    "new_this_run": 10
   },
   "briefing": {
-    "headline": "미국 7월 고용보고서, 실업률 4.1%로 하락",
+    "headline": "메타, Muse Code로 엔터프라이즈 AI 공략",
     "bullets": [
-      "메모리 가격 상승 정점 곧 도달",
       "SK하이닉스, 중국 충칭 공장 신규 투자 유치 고려",
+      "미국 7월 고용보고서, 실업률 4.1%로 하락",
+      "중국 8대 태양광 폴리실리콘 기업, 원가 이하 판매 금지 성명 발표",
       "엔비디아, 중국 공급망 찾는 중",
-      "골드만삭스&JP모건, 이노라이트 홍콩주식 대규모 매수",
-      "미국 실업률 4.1%로 하락, 비농업고용자수 2.3만명 감소"
+      "메모리 가격 상승 정점 곧 도달할 것"
     ],
-    "generated_at": "2026-08-07T21:38:45+00:00",
+    "generated_at": "2026-08-07T22:35:04+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32204",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32204",
+      "text": "최근 1개월 MAGS vs. SPY vs. DRAM",
+      "images": [
+        "https://cdn5.telesco.pe/file/lz99Tm-hcuMek9jod8sI2aA3MnT4qfRkEHAg1iOoOvgZdin_P4uCILIRhUaKvj1DqP5HULtsGiIhCctrBNFoE9ButrVI2qRF2oSFavthLSPjx0uN12UP6N6z7YKnd-DRUhxvZt3v_6WMabvOEa0d-uAmA1lPNzO9CfSJ95vFear2ttIT-4Q-lVa4GnbNOpOw2N6_Mr9l99Mc-TI-V17sfsld6EQtIz-5zpbYldpRFq2M1ebdAyDfV8h_UO_n5Ts5TAUSggZGdLt4pn_qU4w1THi0flKGkT6yUrK7OxQkcVFCcJFykGfteGBhnaINkodYxN_5er4zRYib25TiFO-eSg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-07T22:32:12+00:00"
+    },
+    {
+      "id": "tg:EMchina/32203",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32203",
+      "text": "미국 재무부는 은행에 엔화시장 추가 개입 준비 지시  ========================  ~ 재무부는 금융시장에서 재무부의 거래 대리인 역할을 하는 뉴욕 연방준비은행을 통해 은행들에 메시지를 전달했다  ~ 일부 은행은 일본 엔화를 유로화로 교환하는 거래를 준비해 두라는 지시를 받았다. 미국은 외화 보유고의 일부를 유로화로 보유하고 있다  https://n.news.naver.com/article/003/0014102148?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T22:04:22+00:00"
+    },
+    {
+      "id": "tg:EMchina/32202",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32202",
+      "text": "~ 이번 행사는 핵심광물 개발과 가공을 촉진하기 위한 노력을 부각하기 위해 마련됐으며, 몇 건의 협약과 양해각서(MOU)도 공개될 예정이라고 정상회담에 정통한 관계자들이 전했다. 이들은 공식 발표에 앞서 세부 사항을 밝힌다는 이유로 익명을 요청했다  https://m.newspim.com/news/view/20260807000847",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T21:57:35+00:00"
+    },
+    {
+      "id": "tg:EMchina/32200",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32200",
+      "text": "~ 통행료 성격의 서비스 요금과 관련해 이란 측 소식통은 이란이 화물 가치의 5~7% 수준의 요금을 원한다고 전했고, 오만은 약 3% 수준의 더 낮은 요금을 논의한 것으로 알려졌다.  ~ 미국은 명칭이 서비스 요금이더라도 선박 통항의 조건으로 사실상 강제된다면 국제 해협의 자유항행 원칙을 훼손하는 통행료라고 보고 반대하는 입장이다  ~ 이란과 오만은 항해 지원, 수색·구조, 해상 보안, 해양오염 대응 같은 실제 서비스에 비용을 매기는 방식이라고 주장한다…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T21:49:54+00:00"
+    },
+    {
+      "id": "tg:EMchina/32199",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32199",
+      "text": "• 베이징시 부동산 규제 정책 추가 완화: 조건 부합하는 가계의 5환 외 지역 주택 구입 수량 제한 폐지  北京再次优化住房限购政策，符合条件家庭购买五环外住房不限套数。  http://m.g-enews.com/view.php?ud=20250811181042390c8c1c064d_1",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-07T21:45:13+00:00"
+    },
     {
       "id": "tg:EMchina/32198",
       "source": "telegram",
@@ -44,6 +106,20 @@
       "published_at": "2026-08-07T20:08:04+00:00"
     },
     {
+      "id": "x:OpenAI:2085801349866729975",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2085801349866729975",
+      "text": "After evaluating one of our upcoming models, Astra, we're treating it as our first \"critical\" model for cybersecurity under our Preparedness Framework. This is a scenario we've planned for, and we're putting additional controls in place to ensure Astra's further development happens safely and securely. We're working hard to make Astra broadly available, and get its advanced cyber capabilities into the hands of defenders. https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "images": [
+        "https://pbs.twimg.com/card_img/2085766643511390214/5lvNP5OT?format=jpg&name=800x419"
+      ],
+      "summary_ko": "곧 출시될 모델 중 하나인 Astra를 평가한 후 이를 대비 프레임워크에 따라 사이버 보안을 위한 첫 번째 \"중요\" 모델로 취급하고 있습니다. 이는 우리가 계획한 시나리오이며 Astra의 추가 개발이 안전하고 확실하게 이루어지도록 추가 제어 장치를 마련하고 있습니다. 우리는 Astra를 광범위하게 사용할 수 있도록 하고 고급 사이버 기능을 방어자에게 제공하기 위해 열심히 노력하고 있습니다. https://openai.com/index/responding-next-frontier-crucial-cyber-capability/",
+      "published_at": "2026-08-07T18:52:48+00:00"
+    },
+    {
       "id": "x:demishassabis:2085775218249711887",
       "source": "x",
       "author": "demishassabis",
@@ -51,7 +127,9 @@
       "author_url": "https://x.com/demishassabis",
       "url": "https://x.com/demishassabis/status/2085775218249711887",
       "text": "RT by @demishassabis: My column on @demishassabis in The Times. —Given his record of caring about AI safety and impact, people should err on the side of believing his own explanation for stepping back from management. When we spoke a lot last year, he gave me the sense that this moment might come. —Gemini is behind for now, and several famous names have quit the AI research team. But Google has deep commercial strengths. And technical progress probably depends on young cutting edge researchers who are yet to be famous. https://www.thetimes.com/article/5611b33d-3c1a-41ad-a1de-854260de04c2?shareToken=08093b25f32d1aa637ab8a80dfcf0c98",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2085775042994982912/XHYwKInH?format=jpg&name=800x419"
+      ],
       "summary_ko": "@demishassabis의 RT: The Times의 @demishassabis에 대한 내 칼럼입니다. —그가 AI의 안전성과 영향에 대해 신경 쓴 기록을 볼 때 사람들은 경영진에서 물러난 것에 대한 자신의 설명을 믿는 편에 서야 합니다. 작년에 많은 이야기를 나누면서 이런 순간이 올지도 모른다는 느낌을 주셨어요. —Gemini는 현재 뒤쳐져 있으며 몇몇 유명 인사들이 AI 연구팀을 그만뒀습니다. 하지만 구글은 상업적으로 큰 강점을 갖고 있습니다. 그리고 기술적 진보는 아마도 아직 유명하지 않은 젊은 최첨단 연구자들에 달려 있을 것입니다. https://www.thetimes.com/article/5611b33d-3c1a-41ad-a1de-854260de04c2?shareToken=08093b25f32d1aa637ab8a80dfcf0c98",
       "published_at": "2026-08-07T17:08:58+00:00"
     },
@@ -365,18 +443,6 @@
       "published_at": "2026-08-07T12:31:01+00:00"
     },
     {
-      "id": "tg:EMchina/32190",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32190",
-      "text": "골드만삭스& JP모건, 이노라이트 홍콩주식 대규모 매수. 보유 규모 두배로 증가  • 골드만삭스와 JP모건은 최근 이노라이트 홍콩주식 크게 확대. 1주일 만에 두배로 늘어 보유비중 각각 12.19%, 13.72%  • 7/30 980홍콩달러에 홍콩 상장. 8/6 주가는 이미 1151홍콩달러로 상승  • 골드만삭스는 이노라이트 본토 주식A 목표주가 기존 1187위안에서 2581위안으로 대폭 상향 조정  高盛、摩根大通大幅加仓中际旭创H股，持仓双双翻倍 高盛与摩…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T12:25:10+00:00"
-    },
-    {
       "id": "tg:bornlupin/19591",
       "source": "telegram",
       "author": "bornlupin",
@@ -389,30 +455,6 @@
       "published_at": "2026-08-07T12:23:11+00:00"
     },
     {
-      "id": "tg:EMchina/32189",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32189",
-      "text": "~ 이번 행사는\n핵심광물 개발과 가공을 촉진하기 위한 노력을 부각하기 위해 마련\n됐으며, 몇 건의 협약과 양해각서(MOU)도 공개될 예정이라고 정상회담에 정통한 관계자들이 전했다. 이들은 공식 발표에 앞서 세부 사항을 밝힌다는 이유로 익명을 요청했다\nhttps://m.newspim.com/news/view/20260807000847",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T12:21:29+00:00"
-    },
-    {
-      "id": "tg:EMchina/32188",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32188",
-      "text": "여름이 철수 적기. Mag7 자본지출 삭감땐 더 광범위한 조정 불가피(BofA)  • BofA Bull-Bear Indicator 9.6. 사상 최고치  • 시장은 이미 극도로 혼잡. AI 자본지출이 줄어들면 전면적인 붕괴가 일어날 가능성  • 여름철에 위험자산 과감하게 철수. 장기 국채, 방어주 및 달러 매수 제안  • 과열 속 역발상 거래 적기  夏季或是撤退良机，美银Hartnett：Mag7资本开支若遭削减，更广泛回调或难以避免 逃顶警报！美银“牛熊指标”飙…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T12:11:21+00:00"
-    },
-    {
       "id": "tg:bornlupin/19590",
       "source": "telegram",
       "author": "bornlupin",
@@ -423,30 +465,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-07T12:10:24+00:00"
-    },
-    {
-      "id": "tg:EMchina/32187",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32187",
-      "text": "한결같음  ======================  ~ 트럼프 대통령은 이란 전쟁과 인공지능(AI)의 급부상이 경제에 미치는 영향 등 다양한 문제에 대해 워시에게 자문했다고 WSJ는 전했다  WSJ는 이 두 사람이 통화정책을 논의했는지는 확실치 않다면서, 다만 워시 의장이 상원 인준을 받은 후에는 트럼프 대통령이 금리 문제를 꺼낸 적이 없다는 대화 내용을 아는 한 인사의 말을 전했다  https://n.news.naver.com/article/001/…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T12:05:10+00:00"
-    },
-    {
-      "id": "tg:EMchina/32186",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32186",
-      "text": "딥시크: 조만간 전반적인 가격 인상 계획. 인상폭은 비교적 클 것. 합리적인 사용 조정 권고  DeepSeek公告：计划近期整体上调DeepSeek API服务的定价，预计涨幅较大，请合理安排使用。具体方案以正式通知为准。",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T12:00:09+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/24437",
@@ -789,7 +807,7 @@
       "url": "https://x.com/sama/status/2085473085399150817",
       "text": "RT by @sama: Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more. https://www.youtube.com/watch?v=87DyyMV0kCY I hope it can answer a lot of the questions folks have, and we will release a full detailed postmortem at a later time!",
       "images": [
-        "https://pbs.twimg.com/card_img/2085475651696398336/sMBqp17U?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2085465895007318016/-qjHVz8l?format=jpg&name=800x419"
       ],
       "summary_ko": "RT by @sama: 어제 OpenAI 공동 작업자와 저는 Huggingface 사건, \"메시지 보드\"를 생성하는 모델, 모델 정렬 불량 등에 대해 자세히 설명했습니다. https://www.youtube.com/watch?v=87DyyMV0kCY 사람들이 궁금해하는 많은 질문에 답할 수 있기를 바랍니다. 자세한 사후 분석은 나중에 공개하겠습니다!",
       "published_at": "2026-08-06T21:08:24+00:00"
@@ -897,7 +915,7 @@
       "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2085434712429052386",
-      "text": "We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus & Pro users, delivering more factual, focused responses. - Free & Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.",
+      "text": "Pinned: We’re making better intelligence easier to access in ChatGPT for everyone: - GPT-5.6 Sol now powers both Instant and deep reasoning for Plus & Pro users, delivering more factual, focused responses. - Free & Go users get unlimited text chats with GPT-5.6 Luna starting tomorrow.",
       "images": [
         "https://pbs.twimg.com/amplify_video_thumb/2085433949489377280/img/4uce3Ngds5vczB6t.jpg"
       ],
@@ -1399,9 +1417,7 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2084378418989379822",
       "text": "R to @OpenAI: The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2084405117994840064/Ny_Tdcks?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "R에서 @OpenAI로: 결과적으로 세션이 시작되는 순간부터 ChatGPT Voice를 통해 더 빠르고 자연스러운 대화가 가능해집니다. 구축 방법: https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
       "published_at": "2026-08-03T20:38:35+00:00"
     },
@@ -1459,18 +1475,6 @@
         "https://pbs.twimg.com/amplify_video_thumb/2084344857267683328/img/9itDUFuu6YD8pOdI.jpg"
       ],
       "summary_ko": "다음 주요 모델의 내부 버전은 GPT-5.6 Sol API 요율로 약 2,000달러 상당의 토큰을 사용하여 수학과 이론 컴퓨터 과학의 오랜 미해결 문제에 대한 10개의 새로운 결과를 생성했습니다.",
-      "published_at": "2026-08-03T18:54:15+00:00"
-    },
-    {
-      "id": "x:OpenAI:2084352164156293460",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2084352164156293460",
-      "text": "R to @OpenAI: The results span sphere packing, coding theory, group theory, quantum complexity, lattice cryptography, extremal combinatorics, and more. Among them: establishing the existence of non-sofic groups and exponential improvements to bounds on high dimensional sphere packing.",
-      "images": [],
-      "summary_ko": "R에서 @OpenAI로: 결과는 구 패킹, 코딩 이론, 그룹 이론, 양자 복잡성, 격자 암호화, 극단 조합론 등을 포괄합니다. 그중에는 비소픽 그룹의 존재를 확립하고 고차원 구체 패킹의 경계를 기하급수적으로 개선하는 것이 있습니다.",
       "published_at": "2026-08-03T18:54:15+00:00"
     },
     {
@@ -1900,7 +1904,7 @@
       "url": "https://x.com/AnthropicAI/status/2082153297670992134",
       "text": "New Anthropic research: Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has helped our researchers find weaknesses in cryptographic algorithms—the mathematical methods that are used to keep data private. Read more: https://anthropic.com/research/discovering-cryptographic-weaknesses",
       "images": [
-        "https://pbs.twimg.com/card_img/2082152739665063938/vVLuhNSa?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2085840766388367360/IEqY6ADp?format=jpg&name=800x419"
       ],
       "summary_ko": "새로운 인류학 연구: 클로드와 함께 암호화 약점 발견. Claude Mythos Preview는 우리 연구원들이 데이터를 비공개로 유지하는 데 사용되는 수학적 방법인 암호화 알고리즘의 약점을 찾는 데 도움이 되었습니다. 더 읽어보세요: https://anthropic.com/research/discovering-cryptographic-weaknesses",
       "published_at": "2026-07-28T17:16:45+00:00"
