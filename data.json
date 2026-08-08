@@ -1,22 +1,60 @@
 {
-  "updated_at": "2026-08-08T06:52:49+00:00",
+  "updated_at": "2026-08-08T07:50:13+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 7
   },
   "briefing": {
-    "headline": "대만 수출 30% 급증, 엔비디아 GPU 대여 가격 최고치",
+    "headline": "마이크론 목표주가 1,400달러에서 1,150달러로 하향",
     "bullets": [
-      "유니트리 IPO 공모가 150.8위안",
-      "7월 중국 오프라인 소비 활력 지속",
-      "트럼프 정부, 배터리 기업에 20억달러 지원",
-      "메타, Muse Code로 엔터프라이즈 AI 공략",
-      "미국 실업률 하락"
+      "대만 수출 7월 전년比 30% 급증",
+      "엔비디아 플래그십 GPU 대여 가격 역대 최고치",
+      "AI 자금 소진 속도 사상 최고",
+      "중국 오프라인 소비 7월 전년比 2.2% 증가",
+      "유니트리 공모가 150.8위안 확정"
     ],
-    "generated_at": "2026-08-08T06:52:49+00:00",
+    "generated_at": "2026-08-08T07:50:13+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19599",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19599",
+      "text": "씨티의 애널리스트 아티프 말릭(Atif Malik)이 방금 마이크론(MU)의 목표주가를 1,400달러에서 1,150달러로 하향 조정했습니다.\n혹시 아직도 이 글 기억하는 분 계신가요?\n불과 4개월 전, 시장의 공포가 극에 달했을 당시 같은 애널리스트가 마이크론의 목표주가를 무려 425달러까지 낮췄었죠.\n당시 제가 했던 생각이 맞았던 것 같습니다.\n이 사람, 그냥 시장 분위기를 그대로 따라가는 복사판처럼 보였거든요.\n(애널리스트들 주가 올리고 내리는건 시장 주가에 따라서 올리고 내리는게 많기 때문에 참고만하고 이유나 논리 정도만 따져보는게 좋을거 같습니다)",
+      "images": [
+        "https://cdn5.telesco.pe/file/EGHiUf3xFMV4HXZ95cRt7wWYJZnbMXao76amkEkfElVACdiLqr8McdsbjzRAkfG0hXDZaAb9FSJ9rZ--Z3VZbq2d0MgMi2D7YNUnJIc4JGpF63Prwul_22D-ZhCgo70Kpvl2HlXDeAAslNVz2sI4TmujwyhQLB4hBbZK8YMRg0Rmvi_3t8oeQy9e0z1WOvQJq1-EpNli6dWTrOYfpcXv9XgbffT-0HND9MmB8KLTmuK_QcFy6ejM-PRpod3rgDtRcPFG3_RfmnqiVRgF3OeOtF1kUDlSau79f6TTf_m6nvsgt_ZnZPbgsU3EqQu3SF1iWCB39Q3BcyKtm1sEW7T0tA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-08T07:23:33+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24441",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24441",
+      "text": "[자막뉴스] \"35초마다 중국 도메인 접속하더니\"…전 세계 쫙 깔린 펌웨어 '백도어' 발각\nhttps://mnews.sbs.co.kr/news/endPage.do?newsId=N1008695354#play",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-08T07:18:36+00:00"
+    },
+    {
+      "id": "tg:EMchina/32213",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32213",
+      "text": "Apollo 수석 이코노미스트: AI 자금 소진 속도 사상 최고  ‘서브프라임 모기지 위기식’ 충격 경계  • AI 데이터센터 자본지출은 2023년 GDP의 0.6%에서 2027년 3.1% 확대 예상. 건설 속도는 주택 호황기 정점의 약 두 배. 역사상 모든 자본지출 사이클 상회   • 투자가 더 빠르게 커질수록 잠재적인 반전 충격은 더 커짐. AI 관련 상업 수요가 실현되지 못하면 이번 투자는 비슷한 속도로 축소 가능성. 이는 중대한 거시경제 하방 리스크…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-08T07:13:56+00:00"
+    },
     {
       "id": "tg:EMchina/32212",
       "source": "telegram",
@@ -294,18 +332,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-07T21:57:35+00:00"
-    },
-    {
-      "id": "tg:EMchina/32200",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32200",
-      "text": "~ 통행료 성격의 서비스 요금과 관련해 이란 측 소식통은 이란이 화물 가치의 5~7% 수준의 요금을 원한다고 전했고, 오만은 약 3% 수준의 더 낮은 요금을 논의한 것으로 알려졌다.  ~ 미국은 명칭이 서비스 요금이더라도 선박 통항의 조건으로 사실상 강제된다면 국제 해협의 자유항행 원칙을 훼손하는 통행료라고 보고 반대하는 입장이다  ~ 이란과 오만은 항해 지원, 수색·구조, 해상 보안, 해양오염 대응 같은 실제 서비스에 비용을 매기는 방식이라고 주장한다…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T21:49:54+00:00"
     },
     {
       "id": "rss:semianalysis:spacex-10gw-in-2027-why-its-real",
@@ -790,18 +816,6 @@
       "published_at": "2026-08-07T07:51:30+00:00"
     },
     {
-      "id": "tg:bornlupin/19587",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19587",
-      "text": "SK하이닉스, 엔비디아 HBM 반값 공급설에 \"전혀 사실무근\"\n온라인 커뮤니티발 루머에 공식 부인…업계 \"HBM은 개별 협상 구조, 단순 가격 비교 어려워\"\n솔리다임 상장 가능성까지 거론되며 투자자 불안…SK “확정된 사항 없다”\nSK하이닉스가\n엔비디아에 고대역폭메모리(HBM)를 시세보다 50% 낮은 가격에 공급한다는 소문에 대해 \"전혀 사실무근\"이라고 일축했다.\n7일 업계에 따르면 최근 텔레그램 등 온라인 투자 커뮤니티에서는 SK하이닉스가 엔비디아에 HBM을 시세보다 약 50% 낮은 가격에 공급하는 대신 SK그룹 계열사가 미국 데이터센터용 그래픽처리장치(GPU)를 우선 배정받는다는 주장이 확산됐다.\nSK하이닉스 \"전혀 사실무근\"…업계 \"가격 단순 비교 어려워\"\nSK하이닉스는 해당 주장을 전면 부인했다. 회사 관계자는 \"(시장에 떠도는 내용은) 전혀 사실무근\"이라고 설명했다.\n반도체 업계에서도 황당하다는 반응이 나온다.\nHBM은 고객사별 요구 성능과 제품 사양, 공급 물량, 계약 기간 등에 따라 가격 조건이 달라지는 만큼\n특정 업체의 공급가격만 떼어내 시세 대비 할인 폭을 단정하기 어렵다는 설명이다\n특히 HBM은 범용 D램처럼 공개된 시장가격을 기준으로 거래되는 제품이 아니라 고객사와 공급사가 개별 협상을 통해 가격과 물량을 정한다. 같은 세대의 HBM이라도 성능과 인증 조건 등에 따라 가격 차이가 발생할 수 있다.\n한 반도체 업계 관계자는\n\"HBM은 고객사와 제품별로 계약 조건이 모두 달라 일률적인 '시세'를 정하기 어렵다\"며 \"특정 가격만 놓고 덤핑 여부를 판단하는 것 자체가 맞지 않는다\n\"고 말했다.\n솔리다임 IPO설까지…주주가치 우려 확산\nHBM 저가 공급설과 함께 SK하이닉스 손자회사인 솔리다임의 미국 증시 상장 가능성도 투자자들의 불안을 키우고 있다.\n솔리다임은 SK하이닉스가 2020년 인텔의 낸드플래시·솔리드스테이트드라이브(SSD) 사업을 인수한 뒤 미국에 설립한 회사다. SK하이닉스는 미국 자회사를 통해 솔리다임 지분을 보유하고 있다.\n최근 시장에서는 솔리다임이 모건스탠리와 골드만삭스를 상장 주관사 후보로 두고 기관투자자를 대상으로 프리IPO(상장 전 투자유치) 수요를 파악하고 있다는 관측이 제기됐다.\nSK하이닉스는 조회공시 답변을 통해 \"해외 종속회사인 솔리다임의 경쟁력 강화를 위해 다양한 방안을 검토하고 있으나 현재까지 확정된 사항은 없다\"고 밝혔다.\n다만 솔리다임이 미국 증권거래위원회(SEC) 공시 등 외부 재무보고를 담당할 책임자를 채용 중인 것으로 알려지면서 시장에서는 IPO 가능성이 계속 거론되고 있다.\n솔리다임 상장이 현실화할 경우 외부 투자자 유입으로 SK하이닉스의 간접 지분율이 낮아질 수 있다는 점에서 일부 주주들은 기업가치 희석을 우려하고 있다\n. 다만 솔리다임은 SK하이닉스가 기존 사업부를 물적분할해 만든 회사가 아니라 인텔로부터 인수한 낸드·SSD 사업을 기반으로 설립한 해외 종속회사라는 점에서 이른바 '쪼개기 상장'과는 구조가 다르다.\nAI 메모리 호황 속 주주환원 요구 커져\nAI 메모리 호황으로 SK하이닉스의 현금창출력이 크게 개선되면서 주주환원 확대 요구도 커지고 있다.\nSK하이닉스는 잉여현금흐름(FCF)의 50%를 주주환원에 활용한다는 방침을 제시한 상태다.\n곽노정 SK하이닉스 최고경영자(CEO)는 지난 3월 정기주주총회에서 중장기 재무 목표로 순현금 100조원 확보를 제시하고 추가 배당과 자사주 매입을 지속 검토하겠다고 밝혔다.\nhttps://www.inews24.com/view/1993001",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T07:49:08+00:00"
-    },
-    {
       "id": "x:ylecun:2085618408733692106",
       "source": "x",
       "author": "ylecun",
@@ -824,20 +838,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-07T05:32:10+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24427",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24427",
-      "text": "Citi) 일본과 한국, 타이완만 심리 공포단계",
-      "images": [
-        "https://cdn5.telesco.pe/file/eL5g59xGvQYduEuBCibAjMA5pOOptuOYWHZOMVq0eWPzrw1BM8C4tq06X0emqnStfi8ltTLnDAXAGSl5pGNG87BC3ZZMd_C6QKGyJqs-tFdw7KqmfA5kFWUxEYixGe6438KMi9Jj-ZlucZW4gEuLPs4hnXZE0HCJFq21Qdne94cyb4lXRvfDs9OvWRWtDy-NQ2r67LRPFQEvGEVr_0YbBHa_SU2jQNhf_z9kP0xL5xdR2dbVo_-MZMP4Hrt10NSU6gfvs9_pjC2Z1Mn6-lGoZQRQMrA3eVWCgetRqn6Cbvbs1pEOiVljKp8uWhJU41Wa8vyz3OiqkKXGTMiuumjEEw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-07T05:26:30+00:00"
     },
     {
       "id": "rss:semianalysis:gemini-is-cooked-but-gcp-is-cooking",
@@ -957,7 +957,9 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2085434718393418101",
       "text": "R to @OpenAI: Plus and Pro users can access the updated version of GPT‑5.6 Sol in ChatGPT along with the new slider starting today. This version of GPT-5.6 Sol is for everyday chats, so it will only be available in the Chat experience in ChatGPT. The version of GPT-5.6 Sol that powers Work and Codex is not changing as part of this release. https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2085411403020795904/h1IYDL57?format=jpg&name=800x419"
+      ],
       "summary_ko": "R에서 @OpenAI로: Plus 및 Pro 사용자는 오늘부터 새로운 슬라이더와 함께 ChatGPT에서 GPT‑5.6 Sol의 업데이트된 버전에 액세스할 수 있습니다. 이 GPT-5.6 Sol 버전은 일상적인 채팅용이므로 ChatGPT의 채팅 환경에서만 사용할 수 있습니다. Work 및 Codex를 지원하는 GPT-5.6 Sol 버전은 이번 릴리스의 일부로 변경되지 않습니다. https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
       "published_at": "2026-08-06T18:35:57+00:00"
     },
@@ -1121,7 +1123,7 @@
       "url": "https://t.me/enc210406/4296",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 8월 6일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/TeWk5tN4InGZG-zFiWgkYjkc77MEslaazKyudI9NRX-XxgvjjW4Zkg0s1x14OmZpl9gVU7TLYifiaS7zQIudO5I_1WZJksurt37J964IUpn_85LlTiUKfdm4V7y-lgvq54EvFZPfsywOVA2SrMaUTm55UDY2KDWlXRwRePUJ-9hYPljJpwIIl65tTubCkv-eCp8xN_K_yBMdY8ZjTzmPt5UL6oWY7b0sBBsdo6wSzWNKAvGaiAKX63B_srhAyaSsqtsUVoLZu_Ky0rrr5C8nb7aFKBumTzoBd40QDOCvf5Vn0kESicQCOT9XdGr1EbBd8lUTiFd82fHGT45LBcE4iw.jpg"
+        "https://cdn5.telesco.pe/file/GsSUvcph999hsDKG2DyTLuTflZwajJ6ECOXpL1z3_KUmN4xMnlVbcyi2LT7kBpwEBl6K7a-9koyn8ngiYjysxjs2y0GL9cxAXxRUWFJg2qZTu9lUZZfbwedw1IBCQziNYVJ9iVJIr5v7BOkNCFZu8fm9qjV4MB3ihu2yxRzAuYQpOGiw_D_8KAbahnruxgb41DVFbGBBm1Zj00tbOEvdJew8b0BGuYKvSTfysXhUbuVjPiKsLQfSE6LIAZ_vTNgL2RnRui0iL3atwj4Cqu9fEquneFFwWPCZ_vV3ENIQrC3uSrV-OO0rpedwdu9vZquyabNgIpNs0YCBTTfd7nsHlg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-06T07:37:25+00:00"
@@ -1919,7 +1921,7 @@
       "url": "https://x.com/AnthropicAI/status/2082153311189225927",
       "text": "R to @AnthropicAI: We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities. https://arxiv.org/abs/2607.18538",
       "images": [
-        "https://pbs.twimg.com/card_img/2084469653082898432/bjAGY-23?format=jpg&name=420x420_2"
+        "https://pbs.twimg.com/card_img/2084469653082898432/xGmfg7yt?format=jpg&name=420x420_2"
       ],
       "summary_ko": "R에서 @AnthropicAI로: 우리는 취리히 연방공과대학(ETH Zurich), 텔아비브 대학교(Tel Aviv University), 하이파 대학교(University of Haifa)의 학자들과 협력하여 LLM의 암호 분석 능력을 연구하기 위한 벤치마크인 CryptanalyticBench를 구축했습니다. https://arxiv.org/abs/2607.18538",
       "published_at": "2026-07-28T17:16:48+00:00"
