@@ -1,21 +1,46 @@
 {
-  "updated_at": "2026-08-08T09:37:24+00:00",
+  "updated_at": "2026-08-08T10:32:40+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 4
+    "new_this_run": 2
   },
   "briefing": {
     "headline": "이란-오만 합의 도달, 봉쇄 해제 예정",
     "bullets": [
-      "애플, 알리바바 Qwen 모델 통해 인텔리전스 사용 가능",
-      "엔비디아, 블랙스톤 지원의 스타게이트에 30억 달러 투자 추진",
-      "마이크론 목표주가 1,400달러에서 1,150달러로 하향 조정",
-      "AI 자금 소진 속도 사상 최고, 서브프라임 모기지 위기식 충격 경계"
+      "AWS, 컴퓨팅 자원 부족에 대응",
+      "엔비디아, 전력회사에 30억 달러 투자",
+      "마이크론 목표주가 1,400달러에서 1,150달러로 하향",
+      "대만 7월 수출 30% 급증",
+      "트럼프 정부, 배터리 및 소재 기업에 20억달러 지원"
     ],
-    "generated_at": "2026-08-08T09:37:24+00:00",
+    "generated_at": "2026-08-08T10:32:40+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32217",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32217",
+      "text": "미국, 이란-오만 합의 도달 발표 이후 이란 봉쇄 해제 예정  • 미 당국자는 이란-오만이 호르무즈 해협 문제에서 진전 & 조만간 합의 예상  • 방해 없는 상업 해운 재개 합의 발표 즉시 미국은 이란 항구에 대한 봉쇄 해제 예정. 미국의 대응은 실제 성과에 따라 결정. 이란의 약속 이행 상황과도 연동  • 이란과 오만 측 입장은 부재  报道：伊朗与阿曼宣布达成协议后，美国将解除对伊朗的封锁 8月7日，美国官员表示，阿曼与伊朗在霍尔木兹海峡问题上已取得进展，预计很快…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-08T09:57:38+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19601",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19601",
+      "text": "AWS, 컴퓨팅 자원 부족에 대응해 엔지니어들에게 ‘CPU 낭비 줄여라’ 지시\n최근 AWS 내부의 일부 엔지니어들은 자신들의 업무에 필요한\nCPU 서버를 확보하는 데 걸리는 시간이 크게 늘어난 것\n을 경험하고 있다\nAWS 엔지니어는 과거에는 서버 자원을 확보하는 데\n몇 시간 정도면 충분했지만, 지금은 며칠씩 걸리는 경우가 있다\n고 말했다.\n그는 AWS에서 여러 해 근무했지만\n이렇게 오랫동안 서버 자원을 기다려 본 적은 없었다\n고 말했다.\n올해 치열해진 AI 컴퓨팅 확보 경쟁이 이제는\nGPU뿐 아니라 전통적인 CPU 시장까지 번지고 있다.\nGPU 수요뿐만 아니라 데이터 전처리(텍스트·이미지·영상 수집) 및 AI 추론(Inference) 과정에서 CPU 수요가 함께 급증하면서 전반적인 컴퓨팅 자원 부족을 가중시키고 있습니다.\n올해 AI 칩을 둘러싼 컴퓨팅 자원 부족 현상은 점점 전통적인 칩 분야로 확산되고 있다.\nGPU 등 AI 칩에 대한 높은 수요로 AI 컴퓨팅 자원이 빠르게 소진되고 있는 가운데, 많은 기업들은\nAI의 GPU 수요가 계속 증가하면서 이에 함께 사용되는 CPU 서버 역시 공급이 부족하다는 사실을 확인\n하고 있다.\nGPU와 함께 사용되는 메모리 칩과 데이터센터의 대역폭 역시 공급이 부족해, 컴퓨팅 자원 부족 현상을 더욱 심화시키고 있다.\nhttps://www.theinformation.com/articles/aws-tells-engineers-cut-cpu-waste-amid-crunch?utm_source=chatgpt.com",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-08T09:54:43+00:00"
+    },
     {
       "id": "tg:EMchina/32216",
       "source": "telegram",
@@ -315,20 +340,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-07T23:51:22+00:00"
-    },
-    {
-      "id": "tg:EMchina/32205",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32205",
-      "text": "CXMT 추이  1일차 +465.82% 음봉 2일차 -4.08% 양봉 3일차 +12.66% 양봉 4일차 -0.15% 양봉 5일차 +2.08% 음봉  8/3부터 상하한 20% 적용  6일차 +1.89% 양봉 7일차 +0.02% 양봉 8일차 -1.27% 음봉 9일차 -4.31% 음봉",
-      "images": [
-        "https://cdn5.telesco.pe/file/nMzGuOSop9kDWl4Ly7N2tQxj2qLXkEYlR1gExI_LoF5EpUgEkW9LcnayylxPq9lKzN-cQda7c1ToforldcS1o6dm8ZdfzIGpIcEfUjBxwxM76taiX4ZlOSP0n2abtuCjx70GSPFvMgju_ILRI3GWfsW1CsOS8To7GE7N8oiuNkOHPVMBhAs9juUjzpeNW-tBtGsid-2Aikr7CLRuV1UzgmCCgYB5BXfEAbt1Pda2hDorrQRMAEXK5od1XOksiS-2oodh4Keb6huAjH84IFrOs9MVUCNLnKdJqdmRcbFUxAwf4pzZXPdTgBVvalFJa90y__0lcOBd3_HknGhddt76fw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-07T23:25:49+00:00"
     },
     {
       "id": "x:OpenAI:2085865635586912359",
@@ -785,20 +796,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-07T08:35:50+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19589",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19589",
-      "text": "모건 스탠리 - 메모리\n지금까지\n메모리 산업에서 나타난 가장 가파른 조정은 마무리에 접어든 것\n으로 보이며,\n다음 주가 상승 촉매제(Catalyst)로서 자사주 매입으로 관심이 이동하고 있습니다.\n당사는 이를 사이클 노후화(성숙기) 과정에서 나타나는 자연스러운 일부분\n, 즉 작고 일시적인 차질 정도로 바라봅니다.\n현재 밸류에이션은 매력적인 전술적 재진입 기회를 제공합니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/YE-jCqzHR7t-wxyK_wLwstpgC5VpdMp5uMFI4kBLbPJwD5dMY-FLOV2EeSpq7QuT0dXO1YmbaaVRUhqtugjOusnmqtrXiaWEDjSDn4KT2Xa3ztKddRvmVPO2RolgUsuyxD3zrQpzg6_dBg81J5zDWl7yi20Py0utfoQuVvvD4uxOtN95RHiSXUOWQfZLFZ3WwRA8qibQHaYBZGV434Xt7BodR9Dh1Rb5vgRjj3T_EUyqPXR0V6AI4Rf0EN-YQkev3HDkfG3azeXGp3AsewkR2ANtgVQATMfznJ7b3BFPhwc0HzQYxNIGwE22mkNK5Mprlmofmm8tH9tzoQO1SJ5H3g.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-07T08:10:15+00:00"
     },
     {
       "id": "tg:globaletfi/21014",
