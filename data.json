@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-08-08T10:32:40+00:00",
+  "updated_at": "2026-08-08T11:28:18+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 2
+    "new_this_run": 6
   },
   "briefing": {
-    "headline": "이란-오만 합의 도달, 봉쇄 해제 예정",
+    "headline": "TSMC, 차세대 트랜지스터 개발 돌파구",
     "bullets": [
       "AWS, 컴퓨팅 자원 부족에 대응",
-      "엔비디아, 전력회사에 30억 달러 투자",
-      "마이크론 목표주가 1,400달러에서 1,150달러로 하향",
+      "엔비디아, 블랙스톤 전력회사에 30억 달러 투자",
       "대만 7월 수출 30% 급증",
-      "트럼프 정부, 배터리 및 소재 기업에 20억달러 지원"
+      "애플, 알리바바 Qwen 모델 통해 인텔리전스 사용",
+      "마이크론 목표주가 1,400달러에서 1,150달러로 하향"
     ],
-    "generated_at": "2026-08-08T10:32:40+00:00",
+    "generated_at": "2026-08-08T11:28:18+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/24443",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24443",
+      "text": "TSMC가 차세대 트랜지스터 개발에서 돌파구를 마련하며 이황화몰리브덴(MoS₂) 기반 2차원 트랜지스터 구현.\n대만 연구진은 TSMC 엔지니어들과 협력해 단일 원자층 이황화몰리브덴을 기반으로 트랜지스터를 제조하는 새로운 방법을 개발. 전류 제어 효율을 크게 개선하며 2차원 전자소자의 반도체 칩 적용 가능성을 높인 것으로 평가. 핵심 과제는 소재 자체보다 서로 다른 소재를 원자 수준으로 밀접하게 결합하는 방식에 있었으며, 원자 간 거리가 극도로 가까워지면서 상호작용이 급격히 커지는 문제가 존재.\nMoS₂ 반도체 트랜지스터의 주요 난제 가운데 하나는 게이트 절연막 형성. 사실상 2차원 구조인 결정 표면에는 자유 화학결합이 거의 없어 반도체 산업에서 사용하는 원자층 증착(ALD) 방식으로 연속적인 초박막을 형성하기 어려운 문제 존재.\n또한 HfO₂와 같은 고유전율 유전체를 사용할 경우 전자 산란이 증가하면서 이동도가 크게 저하될 수 있음. 이에 결함 수준을 고려하면서 채널 내 전자의 이동도와 제어 성능 사이에서 균형을 확보해야 하지만, 기존 방식은 트랜지스터 특성 저하로 이어져 추가적인 미세화에 한계가 존재. 연구진은 새로운 트랜지스터 소재를 찾는 대신 기존 소재 간 결합 방식을 개선하고 경계층 자체를 트랜지스터의 일부로 활용하는 방식에 주목.",
+      "images": [
+        "https://cdn5.telesco.pe/file/L-y7Wdd_V9747IUbr4D6suo0MNg4tFVdRekVSV9DkKH3MnbLtG-yEfj-GRitF43CHM-92XbWUbFz3o1XiZfUGHdqlumu0PxSEbnnBfL3AbSVRhLjHkpuxgPIbIk87UeNy6li8gaEENSosF2hT4jUJJIpqftifAemJ22sOTOqcoEsa85OuyU5_fxue1phoYx4Kd8TPYkPRtTz5bNxYChWjVOQFvKSMpB3YbAZcT4P4S-JkuwmJRv-EayruwuqGWThiiTaQVeBBLVm5E5tysnSghfTKjijSnedTRTpfwSHOi0XDPz_ljKdHkyT86fDCOztuNMZUPeaPdWbv02VTp9Kpw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-08T11:26:05+00:00"
+    },
     {
       "id": "tg:EMchina/32217",
       "source": "telegram",
@@ -422,6 +436,34 @@
       "published_at": "2026-08-07T18:52:48+00:00"
     },
     {
+      "id": "x:ylecun:2085785511021392003",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2085785511021392003",
+      "text": "RT by @ylecun: Wage growth ticked below inflation again last month. That means Americans' average wages shrunk in real terms over the past year. Real wages were growing when Biden left office, but the trend flipped negative after Trump launched the Iran War.",
+      "images": [
+        "https://pbs.twimg.com/media/HPIyzOMWkAEkIFh.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 임금 증가율은 지난 달에도 인플레이션 아래로 떨어졌습니다. 이는 지난 1년 동안 미국인의 평균 임금이 실질 기준으로 감소했음을 의미합니다. 바이든이 퇴임할 당시 실질임금은 오르고 있었지만, 트럼프가 이란 전쟁을 개시한 이후 추세는 마이너스로 바뀌었다.",
+      "published_at": "2026-08-07T17:49:52+00:00"
+    },
+    {
+      "id": "x:ylecun:2085776823913160911",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2085776823913160911",
+      "text": "RT by @ylecun: This morning's jobs report was shockingly negative. Not only did the economy lose 23,000 jobs in July — the previous estimates for May and June were revised down by 103,000. These numbers are a major red flag indicating the labor market is weaker than previously thought.",
+      "images": [
+        "https://pbs.twimg.com/media/HPIq2vOX0AA3OF5.jpg"
+      ],
+      "summary_ko": "RT by @yleun: 오늘 아침의 일자리 보고서는 충격적일 정도로 부정적이었습니다. 7월 경제는 23,000개의 일자리를 잃었을 뿐만 아니라, 5월과 6월의 이전 추정치가 103,000개 하향 수정되었습니다. 이 수치는 노동 시장이 이전에 생각했던 것보다 약하다는 것을 나타내는 주요 위험 신호입니다.",
+      "published_at": "2026-08-07T17:15:21+00:00"
+    },
+    {
       "id": "x:demishassabis:2085775218249711887",
       "source": "x",
       "author": "demishassabis",
@@ -702,8 +744,8 @@
       "url": "https://t.me/aetherjapanresearch/24437",
       "text": "최태원 회장이 SK 하이닉스 1.5주년치 현물배당(HBM칩스, 2000원)을 하고 있다.",
       "images": [
-        "https://cdn5.telesco.pe/file/n8tVaZDanc3743NznCro-tanqQQ6G1ncFMIuGxMEt4FFCeTx9GxeBtr64lYFne795O-3bvRv9Ef87nF0nybL-vVDhDVFJ1U9bzzkKyUZoW6QjASDNpn1nPLqbtzmVRWDtZn1fbHYKZn2nz2pov_tGf7sj6AdN9TMOsTbuWp_SNPtKeH5F3cN1CsskPqV0F7eshhjgKlRs6qbulZ8M9A8ERXmfLd7vHg2DAJS2oVExWpgB3LgcR_0OZRhH2NJ4Ew5tBhN9TXGgL2PsEVzb3qDmNLxz4VaWd-3Hp8WdlJra_G_IGno0x08DtJKoAeJG2HAzywRGo_6TisoGDrDczjkxw.jpg",
-        "https://cdn5.telesco.pe/file/fWaPERrjdHIUR12_CNjFyZk5HY6TxVly7li6sCRvw3M49srSQzd125GS6eXSTJFnZOz2wmBTjtXz_WFmBPaJdGLPdlTB_opUzTLMFTP_dcIxVnMHqKtvEAlvS6ztmt1RGGA3MQVhXLXldutpjplfMzLbOF9yHBv7TSl6L4xRCmLdpMWkjv5Y6TnskfBuVdkCj6oWD60WDJhNBhz7EUCvvALNkPJzLOaODp1BOhulYur2i4zrcw9iroUSnmhoidbENJDy3ZeWKNOcntQQjYSrhcSjO3athKqQHb9SwtBV7dEeFaoD_2YIxlvFiYfOiiahm-VeVSDMXUctr9gDnC_55g.jpg"
+        "https://cdn5.telesco.pe/file/G4w-SW73zKSetUPs-DR7per5FfQ6plzXmifpCRoPIVmQ1UbbI_H_dvl6zfv-ZdtVe1iHNph3XZs7GJxkPkgBohd4TfO46WaAFDh5TT4yxFarxOXUrn8ZwbhyPlFfH_FDGIocDggfoxbjk_kA5EfJTuyV4wli8D-yVZDgPmguUffo999kg9YN5tsxkGYjZa6b7xxwgDwgKTrdeVq4ZFgzwxN8hAzUO34hI8XM2pR05mSyqd2h4y_jQX3op_x2MVn2ovUgfdz9vIXcoBRJtccvpAwjrHf1e0RsNi4wmRMZVPbMN0gcEu3CAN6TV903Oxn25eqXB5Z_T27QbtQsA8BeWg.jpg",
+        "https://cdn5.telesco.pe/file/LhJKJVdGQ3JotKcglj_zEfqfG81TN09jh9Cb5McA3B2L4fimf7__41xvqicrX3msh9wvPDAy2eBKRLgbpOeh-8o-ZJK5jrUS5vFSX2XLvZMyvcXv0D7jLstGbNRv6u6D3Zi4EPH7bvy67Vo9ANwzpxuGThPqMNmxVL0-kZewfYCrNlnlcMwbiISkedk8BYXPz9zAjP_YJzUN0gwNDdTLxmmceYMkndzZZOvZFEdhomedAKsgSccq7iSWe_JRLsiXLq1nlHKBjWO3INxz1GNydVx4A0X7Z5yRPSEIZB1DCWestl0A08WGWRBf7TnKkOW6nedhp-pK5DHu7glV3bFShA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-07T11:18:58+00:00"
@@ -717,8 +759,8 @@
       "url": "https://t.me/aetherjapanresearch/24434",
       "text": ">>모건스탠리 Shawn Kim “매도에서 매수로 전환”: 메모리 업황 조정 “막바지에 가까워졌음”, SK하이닉스 EPS 13% 상향\n•보고서에서 메모리 반도체 업종의 가장 극심한 조정이 막바지에 가까워졌으며, 현재 밸류에이션이 매우 매력적이라고 지적했음. 삼성전자와 SK하이닉스에 대한 장기 강세 입장과 목표주가를 유지했으며, 두 회사의 주가가 현재 수준에서 60% 이상 상승할 여지가 있을 것으로 전망\n•AI 수요의 구조적 확대, 기업들의 자본수익률 전환 및 장기계약이 업종 펀더멘털을 뒷받침할 것으로 전망했음. Kim은 7월에 메모리가 단기적인 조정을 받을 가능성이 있다고 경고한 바 있음\n>大摩Shawn Kim“空转多”：存储行情修正“接近尾声”，SK海力士EPS上调13%\nhttps://wallstreetcn.com/articles/3778927#from=ios",
       "images": [
-        "https://cdn5.telesco.pe/file/lhRA2fjugXeKvTNEwFF3UG84XLaCM9r1HWMiDFTamJqiSymw8WrSdN0zsaipmIOmUTf4SZ0_ewvZmbStmtpG-bx8itwdFhS5R-erxOCruzS5HAGvkKt6cepHNkPkkbie4vh8s56a7UlG3GXFKixz5YZk4IoB8VkeGc76kN5-LtmfvuieLAZx0gqEEBrC18CgwmgNMr_BH0cjC8XIA3zSbXwGW3HrQpb5FGhZB5jNnjq0549hcg1EAo4Z52Bt3CJ9g4qD2HNu94XtclgK1pnpc7DwXDUF-g2K0lWctPpXYL8Z9EkgUzkJkdC0FWuRmkSO3dSbEBL52gynBwAbVY5MjA.jpg",
-        "https://cdn5.telesco.pe/file/OxSnEUFcWsj3Nzw3bM1oLkjBkTNMOqBf8HfSRHACy9TLnvSIzB5ZmT-iK6Wi8W5lsXiPV-ufoUOQXCR_aJCdvOekOME7ks8Fi2-4M-PjdP8n6JGteVDmk3eTYanjAa7i_ceUosd5OVLsquhHF4HIl1nUR-oRXUowPEdPj8a0XkFfMEvQ2SEzf7H33Vf6L4OO7223qTKJOeLJ3VITmyqk5GRbl5KPscmFbt3RwzyeWzbKE1fdaOS6MhF0Ixy-lplC8wGnlevwSQBwXf01-g5VTrLi-fEB7qMPCZ401je7sgUjWfpAi8qN2fFA2zUaqmrgMYGQuTiFSlGvfwjFOiWveQ.jpg"
+        "https://cdn5.telesco.pe/file/ccmnAVa7_n_oBAcWMujSv0WDj-qc58-o1q4rBx5FbFelf0-z1sZmW_jBG-SgSiVefOI7KFINaB59J-qBMyAl43TaTZVV04Y_Rcymau2H9GEmANVDtSO6jn4YPvjQB6Eo8qZUur2nNZ5chXlXhuvFwWIRIgOketaIl2017mzc53NIsKuGo2V5V3Tk9p9vK3SjMaPfqUrqkfYzBwoQlqzusR5w5fQAqXdLMqxbAcezrLiNOPhtDd1dfsySpQww-My9uyTnRuJUifLanbN85cNzUX8miAJk60HWg8cKgr5pfNEBHIM6hUcjRSdUFVIsS0lGcNE0z2jGJwIr6oh4NerUug.jpg",
+        "https://cdn5.telesco.pe/file/hgLsuw2VcMRMyPAztCq1SDCAK4BXh88S7utqVWdi18wUqMTTp__RARMl9MogmBVNcJvbKeYjOMh8Bu_gO11xXyc2_g7JL_vLDE7yKixuX1JGqzOVk1MKdEk2j2Dn-8OVrOpzTKTspaWvw_PZCgnXeA_b1nILEElzZeTcGdPKEh-1p0dW31u8aFdUBwxkuwlloB-bNcpNHOqbTU39NBsz_jfq1_ZP1xIjIQIfBybIqNoPscrvMxymZSiFVONXgtLW1RztdzhWOrv8wmKXDmWRAu1lcSR37aUwcSfrkB0J7zJaAhYn56TrnNCUnFgxkBL2i1jRb-cO8XvXAZOgV7OoUA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-07T11:15:08+00:00"
@@ -782,20 +824,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-07T08:40:33+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24429",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24429",
-      "text": "3분기 중",
-      "images": [
-        "https://cdn5.telesco.pe/file/lCg7JXhfAc_UkitPKNDzwwapL4jYJBW0GtyJXxp6v4bMEMlPuKT99REZPnM6Y5F0O5SOnGj4AhbqUPWn4YJaUrgbxsHBz1iEsJgMPHc3f8zuJBwET8h-sHDRyoVJuytvoKdOe_MUBA-BbYvBu6Z6JXs9r0F2dMT8LGta4OLqwarBEqRej59bXNU3o5tt_iHC4KhJqkwbJl9DFeuIJ7FtJ4mk-bFCqtI5pA_wtLhv6Fld88buHeD-jRI8Q1XmVshbUWMhXUs5oqcuSdULcUvNNYko1qhbWxtQbnAD4LmFrQsnByTHa0Yd_hx12XyQM3G1N0BXsk7BSpmzRfG2Gbcz9A.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-07T08:35:50+00:00"
     },
     {
       "id": "tg:globaletfi/21014",
@@ -896,7 +924,7 @@
       "url": "https://x.com/sama/status/2085473085399150817",
       "text": "RT by @sama: Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more. https://www.youtube.com/watch?v=87DyyMV0kCY I hope it can answer a lot of the questions folks have, and we will release a full detailed postmortem at a later time!",
       "images": [
-        "https://pbs.twimg.com/card_img/2085475651696398336/sMBqp17U?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2085465895007318016/-qjHVz8l?format=jpg&name=800x419"
       ],
       "summary_ko": "RT by @sama: 어제 OpenAI 공동 작업자와 저는 Huggingface 사건, \"메시지 보드\"를 생성하는 모델, 모델 정렬 불량 등에 대해 자세히 설명했습니다. https://www.youtube.com/watch?v=87DyyMV0kCY 사람들이 궁금해하는 많은 질문에 답할 수 있기를 바랍니다. 자세한 사후 분석은 나중에 공개하겠습니다!",
       "published_at": "2026-08-06T21:08:24+00:00"
@@ -1102,8 +1130,8 @@
       "url": "https://t.me/HI_GS/6858",
       "text": "🏹\n#LIG디펜스앤에어로스페이스\n「QoQ 계절성에 속지 마시길, 본질은 YoY」\n☞\nhttps://bit.ly/LIG2Q26RE\n▶️\nIssue: 2Q26 리뷰. 가이던스 상향, 중동 파이프라인 빠름 시사. 선호주 견지\n▶️\nPitch:\n> 2Q 영업이익은 YoY로 +30%나 성장\n: 그런데 1Q 강, 2~3Q 중, 4Q의 약을 계절성만 바라보며, 주가는 장중 17.65%나 하락\n: 사측은 연간 OPM 가이던스를 7% → 8%로 상향\n> 이러한 YoY 성장을 잔고만으로 2028~2029년까지 지속 예정. 탑라인 +15%씩 성장 가이던스\n- 무려 14조원 잔고에서 수출비중은 57%여서,\n1) 매년 매출 +15% x 2) 수출비중 증가로 2029년까지 긴 성장.\n3) 그 너머도 대형 파이프라인이 있고, 이를 담기 위한 CAPEX 진행 중\n> 수주 파이프라인: 중동 빠름, 동남아 확대, 유럽 침투\n- 중동은 전쟁에 지상방산처럼 지연되기보다는 빨라지는 느낌\n- 동남아~중동 순서 모르겠음\n- 유럽: 라인메탈을 통한 협력으로 진입\n▶️\nRationale: 보고서 참조\n---------------------------------------------------------------\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n✅\n컴플라이언스 승인을 득한 보고서입니다.\n---------------------------------------------------------------",
       "images": [
-        "https://cdn5.telesco.pe/file/jXkOe-tP3KZA8vpqMenjLVK_y4a4cHFnHUkqW71_L3bpR7PW6oErz49XKDtpY1XvJb_JjmTgU5-ATApCNEX6r2ht5ay24HsoUjCN3vaSn1QOYJxKZ3j2-uXg-B107OT8YaMh2iw_Yxgf9EyQJJS06zHEaAHZRk1eyuqV1z0TMs64jjCwRuPOxjaaUy5zASbWrQF9WBBmdoobCBXoDKyTYXTdXYXt-7z-pm_OS-OFir1U7o9py8aTQ7Y-SukqhUU7e0Wk5LO4Lom-HVJ6IstAURc1jDKRN_aqrp44FM4pPuYzq3AH6gL4-GtJRk2-bzizz1ndafQXlK2ecuZJxF55vQ.jpg",
-        "https://cdn5.telesco.pe/file/Sr_xLJOvRfMYIWMi23mklzNqmlRl6fe5DkzrqMAcOe19vlq8AZ77CtBr8RmEcsoKpGxN3Y_E4FXsAOYXF_rWEp_b0O_UurW6u-RJ8rmTum0Ri2a43XgOzz-O3jpHq8NAu_JnWWw3b3HlgEyVbDoKsuC69bpMz7BInfLqeJfhLmoUvtajkeCK14YSMUeIBf7YT-JHMVsLLIAnQFQGPhXCUkUyVx2Ipt86dvLg6sQPtfDelL2ECwj4w5aOtNeV-SCRWexK106c4Pg9gUjjCnQCisbV1wP4N8SD-1DAApwxvTtPPJnzd0gUDNnJkN-OLraHawG4gvQ-9oVtX_iLgxZACw.jpg"
+        "https://cdn5.telesco.pe/file/KSBlZYvxv04DrvTBI58TcX8BQf6y1k4H6rRtsANHxdYg3-m8h8K_C-0bYN1DXvK5m2nibm1hqCGtgkx5a4g2pXvFF3I4B6QA2cz95jQUlMrf1jhLJVmA0SAiI_ZB7zRAX_6PhtaWBNbK1yaE5cVVaBKEfqxDPNbZvgFIfnqIhlIIlGqYsSq099_w8hx3mjiTCHe498RK2VlILlrUbnQtB1pLQUb51PvGZUj30Ur-a_l3M0XSiPJDkgW568h5gCPjmQuWR5STiViyLqeEZlhzq4J_aCs9xKXEKeTICt4VWkWy3zd7rt6ct6i1YepH0YNJAVdyjuJsNzzYkLS6pXl5TQ.jpg",
+        "https://cdn5.telesco.pe/file/h9xgfsjO6Ku8woAp8sOiCp-ERCs0X_eJ0MlCy1A6kVog6lRBAUkTaJ99htx3WFRlSGyZqVFUpdaw84AolmE8etG6cVQ22a48RUH_5DOfmmhZjZzNnNs4yWb_ExwGxChyJRxb8-Ln5A2jI0I_S0NZvvJP6DAR28TX6qBrlxPMTzKenhRKIdYgn_bZ29hc-gcKppJtzLbkgSKfb4QyRZ3m4iAk9fL-wJRNAPnOJW9pETJJs2LnbdHOY4DuWo0e9iK1UK0xo9fLbxQnuJ_8cWa9vgQibA9TLkdo1zmFbdGhvt3MFAtcqiAvnyWV16nhCS3DkaWXzN-Gd8rITK8IEYCcGg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-06T11:53:21+00:00"
@@ -1300,33 +1328,6 @@
       ],
       "summary_ko": "고정됨: 저는 평생 AGI를 위해 노력해 왔으며 이 중요한 순간에 들어서면서 Google DeepMind 의장이자 Alphabet 수석 과학자로서 새로운 역할을 맡게 되었습니다. 이를 통해 나는 장기 전략에 집중하고 질병 치료를 돕기 위해 Isomorphic에서의 작업에 의지하는 것을 포함하여 과학적 혁신을 가속화할 수 있을 것입니다. @koraykv가 @joshwoodward 및 우리 경영진과 함께 SVP로서 GDM을 이끌게 되어 기쁩니다. 우리의 놀라운 다음 장에 대해 이보다 더 기대되고 자신감이 넘칩니다! 🚀 https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum",
       "published_at": "2026-08-05T16:04:58+00:00"
-    },
-    {
-      "id": "x:ylecun:2085000309865070795",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2085000309865070795",
-      "text": "",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-05T13:49:45+00:00"
-    },
-    {
-      "id": "x:ylecun:2084992798814539875",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2084992798814539875",
-      "text": "RT by @ylecun: With GAIA-4 we've been able to deploy world models for safety critical simulation. Here are some nice counter-factual replay examples with cyclist and pedestrian interactions. All running in closed-loop. Read more in our new blog: http://wayve.ai/thinking/gaia-4/",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2084991358553505793/img/ZOzVWz3UC9mv_IMs.jpg",
-        "https://pbs.twimg.com/amplify_video_thumb/2084991645544538112/img/feOhTwUkwlJ17koH.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: GAIA-4를 통해 우리는 안전이 중요한 시뮬레이션을 위한 월드 모델을 배포할 수 있었습니다. 다음은 자전거 타는 사람과 보행자의 상호 작용이 포함된 몇 가지 멋진 반사실 재생 예시입니다. 모두 폐쇄 루프로 실행됩니다. 새로운 블로그에서 자세한 내용을 읽어보세요: http://wayve.ai/thinking/gaia-4/",
-      "published_at": "2026-08-05T13:19:55+00:00"
     },
     {
       "id": "tg:enc210406/4294",
@@ -1619,7 +1620,7 @@
       "url": "https://x.com/sama/status/2083456300692979886",
       "text": "RT by @sama: yes, nonsofic groups exist: this statement is one of many new beautiful results proved by Astra, our next major model. We're releasing 10 such Astra proofs, complete with lean certificates and CoT walkthroughs for each of them. The results are wide-ranging, from von Neumann algebras (disproof of Connes' Rigidity Conjecture) to better bounds for high dimensional sphere packing, for circuit complexity, for monochromatic triangles in multicolored graphs, and more. More thoughts here: https://openai.com/index/ten-advances-in-mathematics/",
       "images": [
-        "https://pbs.twimg.com/card_img/2083456780362002432/3RoQk0Sv?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2083520685385601024/7AjVUhHD?format=jpg&name=800x419"
       ],
       "summary_ko": "@sama의 RT: 예, 비특색적인 그룹이 존재합니다. 이 진술은 우리의 차세대 주요 모델인 Astra가 입증한 새롭고 아름다운 결과 중 하나입니다. 우리는 각각에 대한 Lean 인증서와 CoT 연습을 갖춘 10가지 Astra 증명을 출시할 예정입니다. 결과는 von Neumann 대수학(Connes의 강성 추측에 대한 반증)부터 고차원 구 채우기에 대한 더 나은 경계, 회로 복잡성, 여러 색상 그래프의 단색 삼각형 등에 이르기까지 광범위합니다. 더 많은 생각은 여기에 있습니다: https://openai.com/index/ten-advances-in-mathematics/",
       "published_at": "2026-08-01T07:34:25+00:00"
@@ -1694,7 +1695,9 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2082965101083320543",
       "text": "In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Our post describes what happened, how it happened, and what we’re changing. We encourage other AI developers to perform similar reviews. We conducted this review together with @Irregular, one of our evaluation partners, and thank them for the joint investigation and their collaboration on this post. This type of collaboration is increasingly critical to safe, rigorous evaluation of models, and we look forward to continuing to work together on security. https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2085926103152300033/llZRgUyr?format=jpg&name=800x419"
+      ],
       "summary_ko": "사이버 보안 평가를 검토한 결과, Claude 모델이 제3자 평가 환경 내에서 또는 제3자 평가 환경과 상호 작용하는 동안 인터넷에 접속한 후 서로 다른 세 조직의 실제 시스템에 무단으로 액세스한 사건 세 건을 발견했습니다. 우리 게시물에서는 무슨 일이 일어났는지, 어떻게 일어났는지, 그리고 우리가 무엇을 바꾸고 있는지 설명합니다. 우리는 다른 AI 개발자도 유사한 검토를 수행하도록 권장합니다. 이번 리뷰는 평가 파트너 중 하나인 @Irregular와 함께 진행되었으며, 본 게시물에 대한 공동 조사와 협력에 감사드립니다. 이러한 유형의 협업은 모델을 안전하고 엄격하게 평가하는 데 점점 더 중요해지고 있으며 보안을 위해 계속해서 협력할 수 있기를 기대합니다. https://www.anthropic.com/news/investigating-incidents-cybers",
       "published_at": "2026-07-30T23:02:34+00:00"
     },
@@ -1915,7 +1918,7 @@
       "url": "https://x.com/AnthropicAI/status/2082153311189225927",
       "text": "R to @AnthropicAI: We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities. https://arxiv.org/abs/2607.18538",
       "images": [
-        "https://pbs.twimg.com/card_img/2084469653082898432/xGmfg7yt?format=jpg&name=420x420_2"
+        "https://pbs.twimg.com/card_img/2084469653082898432/1w_nHqcZ?format=jpg&name=420x420_2"
       ],
       "summary_ko": "R에서 @AnthropicAI로: 우리는 취리히 연방공과대학(ETH Zurich), 텔아비브 대학교(Tel Aviv University), 하이파 대학교(University of Haifa)의 학자들과 협력하여 LLM의 암호 분석 능력을 연구하기 위한 벤치마크인 CryptanalyticBench를 구축했습니다. https://arxiv.org/abs/2607.18538",
       "published_at": "2026-07-28T17:16:48+00:00"
