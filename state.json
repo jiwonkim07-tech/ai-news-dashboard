@@ -11,9 +11,35 @@
     "tg:EMchina/32203",
     "tg:EMchina/32202",
     "tg:EMchina/32200",
-    "tg:EMchina/32199",
-    "tg:EMchina/32198",
-    "tg:EMchina/32197"
+    "tg:EMchina/32199"
+  ],
+  "telegram:bornlupin": [
+    "tg:bornlupin/19598",
+    "tg:bornlupin/19597",
+    "tg:bornlupin/19596",
+    "tg:bornlupin/19595",
+    "tg:bornlupin/19594",
+    "tg:bornlupin/19593",
+    "tg:bornlupin/19592",
+    "tg:bornlupin/19591",
+    "tg:bornlupin/19590",
+    "tg:bornlupin/19589",
+    "tg:bornlupin/19588",
+    "tg:bornlupin/19587"
+  ],
+  "telegram:globaletfi": [
+    "tg:globaletfi/21027",
+    "tg:globaletfi/21025",
+    "tg:globaletfi/21024",
+    "tg:globaletfi/21023",
+    "tg:globaletfi/21022",
+    "tg:globaletfi/21021",
+    "tg:globaletfi/21019",
+    "tg:globaletfi/21018",
+    "tg:globaletfi/21016",
+    "tg:globaletfi/21015",
+    "tg:globaletfi/21014",
+    "tg:globaletfi/21013"
   ],
   "telegram:enc210406": [
     "tg:enc210406/4297",
@@ -28,21 +54,6 @@
     "tg:enc210406/4288",
     "tg:enc210406/4287",
     "tg:enc210406/4286"
-  ],
-  "telegram:bornlupin": [
-    "tg:bornlupin/19598",
-    "tg:bornlupin/19597",
-    "tg:bornlupin/19596",
-    "tg:bornlupin/19595",
-    "tg:bornlupin/19594",
-    "tg:bornlupin/19593",
-    "tg:bornlupin/19592",
-    "tg:bornlupin/19591",
-    "tg:bornlupin/19590",
-    "tg:bornlupin/19589",
-    "tg:bornlupin/19588",
-    "tg:bornlupin/19587",
-    "tg:bornlupin/19586"
   ],
   "telegram:HI_GS": [
     "tg:HI_GS/6863",
@@ -70,7 +81,8 @@
     "x:OpenAI:2084378417320141196",
     "x:OpenAI:2084378418989379822",
     "x:OpenAI:2084378415818579975",
-    "x:OpenAI:2084352165464903730"
+    "x:OpenAI:2084352165464903730",
+    "x:OpenAI:2084352161404920316"
   ],
   "x:sama": [
     "x:sama:2085862292311396515",
@@ -101,6 +113,7 @@
     "rss:semianalysis:ectc2026"
   ],
   "x:demishassabis": [
+    "x:demishassabis:2085914742414061886",
     "x:demishassabis:2085819205224468973",
     "x:demishassabis:2085775218249711887",
     "x:demishassabis:2085034334914769203",
@@ -113,21 +126,6 @@
     "x:demishassabis:2080021408856293584",
     "x:demishassabis:2079933042718617782",
     "x:demishassabis:2079595879808569534"
-  ],
-  "telegram:globaletfi": [
-    "tg:globaletfi/21027",
-    "tg:globaletfi/21025",
-    "tg:globaletfi/21024",
-    "tg:globaletfi/21023",
-    "tg:globaletfi/21022",
-    "tg:globaletfi/21021",
-    "tg:globaletfi/21019",
-    "tg:globaletfi/21018",
-    "tg:globaletfi/21016",
-    "tg:globaletfi/21015",
-    "tg:globaletfi/21014",
-    "tg:globaletfi/21013",
-    "tg:globaletfi/21012"
   ],
   "x:GoogleDeepMind": [
     "x:GoogleDeepMind:2085740089011753248",
@@ -169,7 +167,9 @@
     "x:ylecun:2085080750034940201",
     "x:ylecun:2085058515312222570",
     "x:ylecun:2085000309865070795",
-    "x:ylecun:2084992798814539875"
+    "x:ylecun:2084992798814539875",
+    "x:ylecun:2084986552375984291",
+    "x:ylecun:2084968011937526009"
   ],
   "x:GoogleAI": [
     "x:GoogleAI:2085460535932232002",
@@ -228,6 +228,6 @@
     "x:karpathy:2061110056293106118"
   ],
   "_meta": {
-    "last_x_fetch": "2026-08-08T01:38:22+00:00"
+    "last_x_fetch": "2026-08-08T04:56:31+00:00"
   }
 }

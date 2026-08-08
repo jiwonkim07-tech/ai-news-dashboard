@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-08-08T03:25:13+00:00",
+  "updated_at": "2026-08-08T04:56:32+00:00",
   "counts": {
     "total": 192,
     "new_this_run": 4
   },
   "briefing": {
-    "headline": "대만 7월 수출 30% 급증",
+    "headline": "대만 수출 30% 급증",
     "bullets": [
       "유니트리 IPO 공모가 150.8위안",
-      "미국 재무부, 은행에 엔화시장 개입 지시",
-      "메타, Muse Code로 엔터프라이즈 AI 공략",
-      "엔비디아 플래그십 GPU 대여 가격 역대 최고치",
-      "중국 오프라인 소비 활력 지속"
+      "엔비디아 GPU 대여 가격 최고치",
+      "중국 오프라인 소비 활력 지속",
+      "트럼프 정부, 배터리 기업에 20억달러 지원",
+      "메타, Muse Code로 엔터프라이즈 AI 공략"
     ],
-    "generated_at": "2026-08-08T03:25:13+00:00",
+    "generated_at": "2026-08-08T04:56:32+00:00",
     "model": "groq"
   },
   "items": [
@@ -24,7 +24,7 @@
       "author_name": "한투증권 중국/신흥국 정정영",
       "author_url": "https://t.me/EMchina",
       "url": "https://t.me/EMchina/32211",
-      "text": "아이폰17 가격 인상 루머\nhttps://9to5mac.com/2026/08/07/iphone-17-might-get-price-increase-next-week-per-new-rumor/",
+      "text": "아이폰17 가격 인상 루머\n========================\n~ Apple is widely expected to raise iPhone prices when the\niPhone 18 Pro launches\nnext month. But a new rumor suggests the iPhone 17 might get a price increase as early as next week\nhttps://9to5mac.com/2026/08/07/iphone-17-might-get-price-increase-next-week-per-new-rumor/",
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-08T03:21:18+00:00"
@@ -54,6 +54,18 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-08T02:39:27+00:00"
+    },
+    {
+      "id": "x:demishassabis:2085914742414061886",
+      "source": "x",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2085914742414061886",
+      "text": "Really enjoyed talking to @bzcohen about AlphaGo's famous move 37 and the significance of it 10 years on for math and science breakthroughs in verifiable domains",
+      "images": [],
+      "summary_ko": "AlphaGo의 유명한 수 37과 검증 가능한 영역에서 수학과 과학의 혁신을 위한 10년 간의 중요성에 대해 @bzcohen과 대화하는 것이 정말 즐거웠습니다.",
+      "published_at": "2026-08-08T02:23:23+00:00"
     },
     {
       "id": "tg:globaletfi/21027",
@@ -945,9 +957,7 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2085434718393418101",
       "text": "R to @OpenAI: Plus and Pro users can access the updated version of GPT‑5.6 Sol in ChatGPT along with the new slider starting today. This version of GPT-5.6 Sol is for everyday chats, so it will only be available in the Chat experience in ChatGPT. The version of GPT-5.6 Sol that powers Work and Codex is not changing as part of this release. https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2085411403020795904/h1IYDL57?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "R에서 @OpenAI로: Plus 및 Pro 사용자는 오늘부터 새로운 슬라이더와 함께 ChatGPT에서 GPT‑5.6 Sol의 업데이트된 버전에 액세스할 수 있습니다. 이 GPT-5.6 Sol 버전은 일상적인 채팅용이므로 ChatGPT의 채팅 환경에서만 사용할 수 있습니다. Work 및 Codex를 지원하는 GPT-5.6 Sol 버전은 이번 릴리스의 일부로 변경되지 않습니다. https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
       "published_at": "2026-08-06T18:35:57+00:00"
     },
@@ -1369,7 +1379,7 @@
       "url": "https://t.me/enc210406/4291",
       "text": "[선박/육상엔진 4사 주가 강세 코멘트]\n@ 엔진 4사 전일 대비 주가 강세\n(오후 2시 5분 기준)\n- HD현대중공업 +5.0%\n- 한화엔진 +12.5%\n- HD현대마린엔진 +13.1%\n- STX엔진 +14.1%\n@ 밸류에이션(전일 종가 기준)\n- HD현대중공업 2028F P/E 11.4배\n- 한화엔진 2027F P/E 11.3배\n- HD현대마린엔진 2027F P/E 10.2배\n- STX엔진 2027F P/E 10.8배\n모두 P/E 10~11배 수준의\n밸류에이션을 딛고 반등하는 것\n@ 강세 이유\n1) 2026년 하반기 이후 실적 성장성\n- 한화엔진과 HD현대마린엔진이 보인 2분기 실적 부진에도 불구하고,\n- 지금 부진은 일시적이며, 하반기, 2027년 실적 성장성에 무게를 두는 모습\n- STX앤진의 경우, 고객사 지상방산 매출 증가에 따른 특수사업 부문 외형 성장, 고마진 민수사업 매출액 증가에 따른 영업이익률 레버리지 효과에 2분기부터 호실적 전망\n2) 주요 중속엔진 제작사들의 육상 데이터센터향 시장 전망 긍정적\n- 바르질라(7/21), 캐터필러(8/4) 등 선박 및 육상용 중속엔진 부문을 영위하고 있는 선두 업체들은 이번 실적 발표에서\n- 데이터센터향 중속엔진 시장의 성장성과 점유 의지, Capa 확장 계획 등을 시장에 명확하게 제시\n- 주요 라이센서인 HD현대중공업 또한 증설의 당위성를 얘기하며, 공급망 확충 계획도 발표\n3) 부담없는 밸류에이션\n- 2026년 4~5월에 나타난 랠리로 P/E 28배까지 상승했다가 10배 수준으로 하락한 한화엔진, STX엔진을 비롯해,\n- 복합 기업인 HD현대중공업의 밸류에이션 또한 P/E 11배 수준에서 바닥 형성\n- 펀더멘털 변화없이 조정의 폭과 속도가 가팔랐던 만큼, 부담없는 밸류에이션에서 당분간 회복 추세를 유지할 것으로 전망",
       "images": [
-        "https://cdn5.telesco.pe/file/j4hvwWHD9OMqwfEwkPYRyeAmsU7QJe1ispKCHSBTUuluCVD5IHMVmv9_Mm9Myc88gD651C-MCzzvNOd--f3FSylha19rACY93h_qeYCX3RrFHzeQgZ2n-akFDdiaGJada3yWjEQ9mwySx8dscZhygGVkZMG109eTXYYcm5rRpi8able4LOnmgDzfh0_6MgVbaXkkXBCJYXV0GYDdAkaHYGYXF-ZxsSZ0wPD65JkrXOsPSPeSHmN7gEdzrr5bEQcOo3gVTToxbdEw-W6ot0vDlNfMyyZvmM20-1lfgY69tqiM7HEsihxIuZzU4uG1B4_96_GtEsuA9WuHZkPT_Iv5TA.jpg"
+        "https://cdn5.telesco.pe/file/iOJeZcJYPKu7j7mAwUA5Ci8fuUiDwJQWm3ZLae_RW20yOceEKg3YmdQ2j1JvFliHXY4FEh4SjfMLuikX8yUsf-2yudPr_Zxoi017TutDb68XVS85SreXgS9FD8pN9NFS7ItKzTSg5b-3sXD604bE8fbd_kSwt7G1bJNmGnO4HMDPSG5cHW-jZOQq0Xqc9gJOesX03026SeR8lg8WKnyN2ZEB3ta6gjUyIITD7bUUBrvRlZwf3PsC9Nfm_aVYFjaL_cizEVToqrJ313vUNflp2FJnuQo7BdOz7OyXowL9nIEt1Ok-eAjjympEQShIbVvTPV-dyoi4UqGnNtyBemxCbg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-05T05:25:10+00:00"
@@ -1688,9 +1698,7 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2082965101083320543",
       "text": "In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Our post describes what happened, how it happened, and what we’re changing. We encourage other AI developers to perform similar reviews. We conducted this review together with @Irregular, one of our evaluation partners, and thank them for the joint investigation and their collaboration on this post. This type of collaboration is increasingly critical to safe, rigorous evaluation of models, and we look forward to continuing to work together on security. https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "images": [
-        "https://pbs.twimg.com/card_img/2083391254587396096/2Q73fmpd?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "사이버 보안 평가를 검토한 결과, Claude 모델이 제3자 평가 환경 내에서 또는 제3자 평가 환경과 상호 작용하는 동안 인터넷에 접속한 후 서로 다른 세 조직의 실제 시스템에 무단으로 액세스한 사건 세 건을 발견했습니다. 우리 게시물에서는 무슨 일이 일어났는지, 어떻게 일어났는지, 그리고 우리가 무엇을 바꾸고 있는지 설명합니다. 우리는 다른 AI 개발자도 유사한 검토를 수행하도록 권장합니다. 이번 리뷰는 평가 파트너 중 하나인 @Irregular와 함께 진행되었으며, 본 게시물에 대한 공동 조사와 협력에 감사드립니다. 이러한 유형의 협업은 모델을 안전하고 엄격하게 평가하는 데 점점 더 중요해지고 있으며 보안을 위해 계속해서 협력할 수 있기를 기대합니다. https://www.anthropic.com/news/investigating-incidents-cybers",
       "published_at": "2026-07-30T23:02:34+00:00"
     },
@@ -2150,18 +2158,6 @@
       "published_at": "2026-07-21T16:53:55+00:00"
     },
     {
-      "id": "x:demishassabis:2079595879808569534",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2079595879808569534",
-      "text": "RT by @demishassabis: Today’s launches are all about better performance, lower latency, and a smaller bill. + 3.6 Flash cuts token usage by up to 65% on complex coding + 3.5 Flash-Lite reaches speeds of 350 output tokens/sec Both are live in the Gemini app today! Next up: Gemini 3.5 Pro, which has officially entered partner testing.",
-      "images": [],
-      "summary_ko": "@demishassabis의 RT: 오늘의 출시는 더 나은 성능, 더 짧은 대기 시간, 더 적은 비용에 관한 것입니다. + 3.6 Flash는 복잡한 코딩에서 토큰 사용량을 최대 65%까지 줄입니다. + 3.5 Flash-Lite는 초당 350개의 출력 토큰 속도에 도달합니다. 둘 다 오늘 Gemini 앱에 라이브로 제공됩니다! 다음은 공식적으로 파트너 테스트에 들어간 Gemini 3.5 Pro입니다.",
-      "published_at": "2026-07-21T15:54:29+00:00"
-    },
-    {
       "id": "x:GoogleAI:2079589742535118985",
       "source": "x",
       "author": "GoogleAI",
@@ -2291,7 +2287,9 @@
       "author_url": "https://x.com/karpathy",
       "url": "https://x.com/karpathy/status/2074973674332123157",
       "text": "RT by @karpathy: Rewriting Bun in Rust https://bun.com/blog/bun-in-rust",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2085138819947634688/PcaDRwDQ?format=jpg&name=800x419"
+      ],
       "summary_ko": "@karpathy의 RT: Rust에서 Bun 다시 작성 https://bun.com/blog/bun-in-rust",
       "published_at": "2026-07-08T21:47:29+00:00"
     },
