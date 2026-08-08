@@ -1,22 +1,33 @@
 {
-  "updated_at": "2026-08-08T04:56:32+00:00",
+  "updated_at": "2026-08-08T05:43:41+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 4
+    "new_this_run": 1
   },
   "briefing": {
     "headline": "대만 수출 30% 급증",
     "bullets": [
-      "유니트리 IPO 공모가 150.8위안",
       "엔비디아 GPU 대여 가격 최고치",
+      "유니트리 IPO 공모가 150.8위안",
       "중국 오프라인 소비 활력 지속",
-      "트럼프 정부, 배터리 기업에 20억달러 지원",
-      "메타, Muse Code로 엔터프라이즈 AI 공략"
+      "트럼프 정부 배터리 기업 20억달러 지원"
     ],
-    "generated_at": "2026-08-08T04:56:32+00:00",
+    "generated_at": "2026-08-08T05:43:41+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32212",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32212",
+      "text": "Apollo 수석 이코노미스트: AI 자금 소진 속도 사상 최고  ‘서브프라임 모기지 위기식’ 충격 경계\n• AI 데이터센터 자본지출은 2023년 GDP의 0.6%에서 2027년 3.1% 확대 예상. 건설 속도는 주택 호황기 정점의 약 두 배. 역사상 모든 자본지출 사이클 상회\n• 투자가 더 빠르게 커질수록 잠재적인 반전 충격은 더 커짐. AI 관련 상업 수요가 실현되지 못하면 이번 투자는 비슷한 속도로 축소 가능성. 이는 중대한 거시경제 하방 리스크 형성\nApollo首席经济学家：AI烧钱速度创历史之最，警惕“次贷危机式”逆转冲击\nAI数据中心资本支出预计从2023年占GDP的0.6%升至2027年的3.1%，建设速度是住房繁荣期峰值的近两倍，超越历史所有资本支出周期。Apollo首席经济学家Slok警告，投资上升越快，潜在逆转冲击越大。若AI商业需求未能兑现，这轮投资可能以相近速度收缩，构成重大宏观下行风险。\nhttps://wallstreetcn.com/articles/3778982#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-08T05:27:26+00:00"
+    },
     {
       "id": "tg:EMchina/32211",
       "source": "telegram",
@@ -294,18 +305,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-07T21:49:54+00:00"
-    },
-    {
-      "id": "tg:EMchina/32199",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32199",
-      "text": "• 베이징시 부동산 규제 정책 추가 완화: 조건 부합하는 가계의 5환 외 지역 주택 구입 수량 제한 폐지  北京再次优化住房限购政策，符合条件家庭购买五环外住房不限套数。  http://m.g-enews.com/view.php?ud=20250811181042390c8c1c064d_1",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T21:45:13+00:00"
     },
     {
       "id": "rss:semianalysis:spacex-10gw-in-2027-why-its-real",
@@ -834,7 +833,7 @@
       "url": "https://t.me/aetherjapanresearch/24427",
       "text": "Citi) 일본과 한국, 타이완만 심리 공포단계",
       "images": [
-        "https://cdn5.telesco.pe/file/G2XBRxgV_gyJlpFnDg7JUF6td_X_zHQ_nuGCqvAMncFqFbfImi65LQ85PN3FeTRc66CXw5HOir69VBh1ywqxvPNi8Df2ebr-QlOQXmm4tf9LPziDn9BeKj8vdzM1TfDxuOROx2DGWvD__0TZvlyJ9kpJF0IQHCQ4k7Ub6KBI0x1zcZm0hloWfMGaIsNFhLH9Va4ST5BVTZzHmjkrHtJt45L-HfQgE88WZUpBmi5uFsFVIMWPue0hXe0ATKlKELl9QurPYbrQpk8mIPr9-TCaGS57OZns-w4CRZHvaq4NNaldO5IvopuVI3K_VNqpe90XX4zRbdUPCQHCNfuoSQ3vaw.jpg"
+        "https://cdn5.telesco.pe/file/eL5g59xGvQYduEuBCibAjMA5pOOptuOYWHZOMVq0eWPzrw1BM8C4tq06X0emqnStfi8ltTLnDAXAGSl5pGNG87BC3ZZMd_C6QKGyJqs-tFdw7KqmfA5kFWUxEYixGe6438KMi9Jj-ZlucZW4gEuLPs4hnXZE0HCJFq21Qdne94cyb4lXRvfDs9OvWRWtDy-NQ2r67LRPFQEvGEVr_0YbBHa_SU2jQNhf_z9kP0xL5xdR2dbVo_-MZMP4Hrt10NSU6gfvs9_pjC2Z1Mn6-lGoZQRQMrA3eVWCgetRqn6Cbvbs1pEOiVljKp8uWhJU41Wa8vyz3OiqkKXGTMiuumjEEw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-07T05:26:30+00:00"
