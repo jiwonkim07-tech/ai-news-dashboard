@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-08-08T13:45:01+00:00",
+  "updated_at": "2026-08-08T14:31:51+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 1
+    "new_this_run": 4
   },
   "briefing": {
-    "headline": "현대로템, 사상 첫 30조 일감",
+    "headline": "현대로템, 사상 첫 '30조 일감'",
     "bullets": [
       "SK하이닉스, 中 충칭 후공정 공장 지분매각 검토",
-      "TSMC, 차세대 트랜지스터 개발 돌파구",
-      "AWS, 컴퓨팅 자원 부족에 대응해 CPU 낭비 줄여라",
-      "엔비디아, 블랙스톤이 지원하는 스타게이트에 30억 달러 투자 추진"
+      "TSMC, 차세대 트랜지스터 개발 돌파구 마련",
+      "AWS, 컴퓨팅 자원 부족에 대응해 엔지니어들에게 ‘CPU 낭비 줄여라’ 지시",
+      "엔비디아, 블랙스톤이 지원하는 ‘스타게이트’ 전력회사에 최대 30억 달러 투자 추진"
     ],
-    "generated_at": "2026-08-08T13:45:01+00:00",
+    "generated_at": "2026-08-08T14:31:51+00:00",
     "model": "groq"
   },
   "items": [
@@ -404,6 +404,21 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-07T23:08:15+00:00"
+    },
+    {
+      "id": "x:ylecun:2085863639676842486",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2085863639676842486",
+      "text": "RT by @ylecun: 🚨 BREAKING — Anthropic investors worry Dario Amodei’s AI doom marketing could hurt its upcoming IPO. “He’s more of a religious leader than he is a CEO.” > used to write sensitive OpenAI memos on an offline computer > printed them out instead of using Google Docs > refused to visit China since he feared being kidnapped > investors say he refuses to listen outsiders > one investor noted before investing that Dario didn’t seem to care about making money > some investors want him to “stop scaring everyone” ahead of the IPO This cannot be healthy.",
+      "images": [
+        "https://pbs.twimg.com/media/HPJ57B6X0AAiVtR.jpg",
+        "https://pbs.twimg.com/media/HPJ57B6XgAAVIO3.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 🚨 속보 — 인류 투자자들은 Dario Amodei의 AI 파멸 마케팅이 다가오는 IPO에 타격을 줄 수 있다고 걱정합니다. “그는 CEO라기보다는 종교 지도자에 가깝습니다.” > 오프라인 컴퓨터에서 민감한 OpenAI 메모를 작성하곤 했습니다. > Google Docs를 사용하는 대신 이를 인쇄했습니다. > 납치될까 봐 중국 방문을 거부했습니다. > 투자자들은 외부인의 말을 듣지 않는다고 말합니다. > 한 투자자는 투자하기 전에 다리오가 돈 버는 데 관심이 없는 것 같다고 지적했습니다. > 일부 투자자들은 그가 IPO를 앞두고 “모두를 겁주는 일을 그만두기를” 원합니다. 이것은 건강할 수 없습니다.",
+      "published_at": "2026-08-07T23:00:19+00:00"
     },
     {
       "id": "x:sama:2085862292311396515",
@@ -938,7 +953,7 @@
       "url": "https://x.com/sama/status/2085473085399150817",
       "text": "RT by @sama: Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more. https://www.youtube.com/watch?v=87DyyMV0kCY I hope it can answer a lot of the questions folks have, and we will release a full detailed postmortem at a later time!",
       "images": [
-        "https://pbs.twimg.com/card_img/2085465895007318016/-qjHVz8l?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2085475651696398336/sMBqp17U?format=jpg&name=800x419"
       ],
       "summary_ko": "RT by @sama: 어제 OpenAI 공동 작업자와 저는 Huggingface 사건, \"메시지 보드\"를 생성하는 모델, 모델 정렬 불량 등에 대해 자세히 설명했습니다. https://www.youtube.com/watch?v=87DyyMV0kCY 사람들이 궁금해하는 많은 질문에 답할 수 있기를 바랍니다. 자세한 사후 분석은 나중에 공개하겠습니다!",
       "published_at": "2026-08-06T21:08:24+00:00"
@@ -1291,18 +1306,6 @@
       "published_at": "2026-08-05T19:09:24+00:00"
     },
     {
-      "id": "x:ylecun:2085058515312222570",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2085058515312222570",
-      "text": "RT by @ylecun: Feels like Google could have been the dominating force in AI by open-sourcing the frontier with Gemini, Veo, and Nano Banana. Instead, they kept them behind APIs for a few billion dollars in revenue. Maybe there's still time?",
-      "images": [],
-      "summary_ko": "@yleun의 RT: Google이 Gemini, Veo 및 Nano Banana를 통해 개척지를 오픈소스화함으로써 AI 분야에서 지배적인 세력이 될 수 있었던 것 같습니다. 대신 그들은 수십억 달러의 수익을 위해 API를 뒤에 두었습니다. 아직 시간이 있지 않을까?",
-      "published_at": "2026-08-05T17:41:03+00:00"
-    },
-    {
       "id": "x:AndrewYNg:2085056542341271840",
       "source": "x",
       "author": "AndrewYNg",
@@ -1622,7 +1625,7 @@
       "url": "https://x.com/sama/status/2083456300692979886",
       "text": "RT by @sama: yes, nonsofic groups exist: this statement is one of many new beautiful results proved by Astra, our next major model. We're releasing 10 such Astra proofs, complete with lean certificates and CoT walkthroughs for each of them. The results are wide-ranging, from von Neumann algebras (disproof of Connes' Rigidity Conjecture) to better bounds for high dimensional sphere packing, for circuit complexity, for monochromatic triangles in multicolored graphs, and more. More thoughts here: https://openai.com/index/ten-advances-in-mathematics/",
       "images": [
-        "https://pbs.twimg.com/card_img/2083520685385601024/7AjVUhHD?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2086086385870557184/egHtt7of?format=jpg&name=800x419"
       ],
       "summary_ko": "@sama의 RT: 예, 비특색적인 그룹이 존재합니다. 이 진술은 우리의 차세대 주요 모델인 Astra가 입증한 새롭고 아름다운 결과 중 하나입니다. 우리는 각각에 대한 Lean 인증서와 CoT 연습을 갖춘 10가지 Astra 증명을 출시할 예정입니다. 결과는 von Neumann 대수학(Connes의 강성 추측에 대한 반증)부터 고차원 구 채우기에 대한 더 나은 경계, 회로 복잡성, 여러 색상 그래프의 단색 삼각형 등에 이르기까지 광범위합니다. 더 많은 생각은 여기에 있습니다: https://openai.com/index/ten-advances-in-mathematics/",
       "published_at": "2026-08-01T07:34:25+00:00"
