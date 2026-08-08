@@ -1,5 +1,7 @@
 {
   "telegram:EMchina": [
+    "tg:EMchina/32211",
+    "tg:EMchina/32210",
     "tg:EMchina/32209",
     "tg:EMchina/32208",
     "tg:EMchina/32207",
@@ -11,11 +13,78 @@
     "tg:EMchina/32200",
     "tg:EMchina/32199",
     "tg:EMchina/32198",
-    "tg:EMchina/32197",
-    "tg:EMchina/32196",
-    "tg:EMchina/32195",
-    "tg:EMchina/32194",
-    "tg:EMchina/32192"
+    "tg:EMchina/32197"
+  ],
+  "telegram:enc210406": [
+    "tg:enc210406/4297",
+    "tg:enc210406/4296",
+    "tg:enc210406/4295",
+    "tg:enc210406/4294",
+    "tg:enc210406/4293",
+    "tg:enc210406/4292",
+    "tg:enc210406/4291",
+    "tg:enc210406/4290",
+    "tg:enc210406/4289",
+    "tg:enc210406/4288",
+    "tg:enc210406/4287",
+    "tg:enc210406/4286"
+  ],
+  "telegram:bornlupin": [
+    "tg:bornlupin/19598",
+    "tg:bornlupin/19597",
+    "tg:bornlupin/19596",
+    "tg:bornlupin/19595",
+    "tg:bornlupin/19594",
+    "tg:bornlupin/19593",
+    "tg:bornlupin/19592",
+    "tg:bornlupin/19591",
+    "tg:bornlupin/19590",
+    "tg:bornlupin/19589",
+    "tg:bornlupin/19588",
+    "tg:bornlupin/19587",
+    "tg:bornlupin/19586"
+  ],
+  "telegram:HI_GS": [
+    "tg:HI_GS/6863",
+    "tg:HI_GS/6862",
+    "tg:HI_GS/6861",
+    "tg:HI_GS/6860",
+    "tg:HI_GS/6858",
+    "tg:HI_GS/6857",
+    "tg:HI_GS/6856",
+    "tg:HI_GS/6855",
+    "tg:HI_GS/6853",
+    "tg:HI_GS/6852",
+    "tg:HI_GS/6851",
+    "tg:HI_GS/6850"
+  ],
+  "x:OpenAI": [
+    "x:OpenAI:2085865635586912359",
+    "x:OpenAI:2085801349866729975",
+    "x:OpenAI:2085434718393418101",
+    "x:OpenAI:2085434717051240642",
+    "x:OpenAI:2085434715675426889",
+    "x:OpenAI:2085434713821565297",
+    "x:OpenAI:2085434712429052386",
+    "x:OpenAI:2084747580693426555",
+    "x:OpenAI:2084378417320141196",
+    "x:OpenAI:2084378418989379822",
+    "x:OpenAI:2084378415818579975",
+    "x:OpenAI:2084352165464903730"
+  ],
+  "x:sama": [
+    "x:sama:2085862292311396515",
+    "x:sama:2085809572170866968",
+    "x:sama:2085765236876046500",
+    "x:sama:2085473085399150817",
+    "x:sama:2085454964814753990",
+    "x:sama:2084663673570971990",
+    "x:sama:2083560847889023219",
+    "x:sama:2083467194663571701",
+    "x:sama:2083456300692979886",
+    "x:sama:2083221585792762171",
+    "x:sama:2083203642975502640",
+    "x:sama:2083198135812383197"
   ],
   "rss:semianalysis": [
     "rss:semianalysis:spacex-10gw-in-2027-why-its-real",
@@ -31,21 +100,6 @@
     "rss:semianalysis:meta-compute-everyone-wants-to-be",
     "rss:semianalysis:ectc2026"
   ],
-  "x:OpenAI": [
-    "x:OpenAI:2085865635586912359",
-    "x:OpenAI:2085801349866729975",
-    "x:OpenAI:2085434718393418101",
-    "x:OpenAI:2085434717051240642",
-    "x:OpenAI:2085434715675426889",
-    "x:OpenAI:2085434713821565297",
-    "x:OpenAI:2085434712429052386",
-    "x:OpenAI:2084747580693426555",
-    "x:OpenAI:2084378417320141196",
-    "x:OpenAI:2084378418989379822",
-    "x:OpenAI:2084378415818579975",
-    "x:OpenAI:2084352165464903730",
-    "x:OpenAI:2084352161404920316"
-  ],
   "x:demishassabis": [
     "x:demishassabis:2085819205224468973",
     "x:demishassabis:2085775218249711887",
@@ -58,26 +112,10 @@
     "x:demishassabis:2080318170733408741",
     "x:demishassabis:2080021408856293584",
     "x:demishassabis:2079933042718617782",
-    "x:demishassabis:2079595879808569534",
-    "x:demishassabis:2078160968513704270"
-  ],
-  "x:sama": [
-    "x:sama:2085862292311396515",
-    "x:sama:2085809572170866968",
-    "x:sama:2085765236876046500",
-    "x:sama:2085473085399150817",
-    "x:sama:2085454964814753990",
-    "x:sama:2084663673570971990",
-    "x:sama:2083560847889023219",
-    "x:sama:2083467194663571701",
-    "x:sama:2083456300692979886",
-    "x:sama:2083221585792762171",
-    "x:sama:2083203642975502640",
-    "x:sama:2083198135812383197",
-    "x:sama:2082881262679642281",
-    "x:sama:2082880884525482061"
+    "x:demishassabis:2079595879808569534"
   ],
   "telegram:globaletfi": [
+    "tg:globaletfi/21027",
     "tg:globaletfi/21025",
     "tg:globaletfi/21024",
     "tg:globaletfi/21023",
@@ -131,42 +169,7 @@
     "x:ylecun:2085080750034940201",
     "x:ylecun:2085058515312222570",
     "x:ylecun:2085000309865070795",
-    "x:ylecun:2084992798814539875",
-    "x:ylecun:2084986552375984291",
-    "x:ylecun:2084968011937526009"
-  ],
-  "telegram:bornlupin": [
-    "tg:bornlupin/19597",
-    "tg:bornlupin/19596",
-    "tg:bornlupin/19595",
-    "tg:bornlupin/19594",
-    "tg:bornlupin/19593",
-    "tg:bornlupin/19592",
-    "tg:bornlupin/19591",
-    "tg:bornlupin/19590",
-    "tg:bornlupin/19589",
-    "tg:bornlupin/19588",
-    "tg:bornlupin/19587",
-    "tg:bornlupin/19586",
-    "tg:bornlupin/19585",
-    "tg:bornlupin/19584",
-    "tg:bornlupin/19583",
-    "tg:bornlupin/19582"
-  ],
-  "telegram:HI_GS": [
-    "tg:HI_GS/6863",
-    "tg:HI_GS/6862",
-    "tg:HI_GS/6861",
-    "tg:HI_GS/6860",
-    "tg:HI_GS/6858",
-    "tg:HI_GS/6857",
-    "tg:HI_GS/6856",
-    "tg:HI_GS/6855",
-    "tg:HI_GS/6853",
-    "tg:HI_GS/6852",
-    "tg:HI_GS/6851",
-    "tg:HI_GS/6850",
-    "tg:HI_GS/6849"
+    "x:ylecun:2084992798814539875"
   ],
   "x:GoogleAI": [
     "x:GoogleAI:2085460535932232002",
@@ -181,21 +184,6 @@
     "x:GoogleAI:2072318809277390940",
     "x:GoogleAI:2071989060483113405",
     "x:GoogleAI:2071989058952188054"
-  ],
-  "telegram:enc210406": [
-    "tg:enc210406/4297",
-    "tg:enc210406/4296",
-    "tg:enc210406/4295",
-    "tg:enc210406/4294",
-    "tg:enc210406/4293",
-    "tg:enc210406/4292",
-    "tg:enc210406/4291",
-    "tg:enc210406/4290",
-    "tg:enc210406/4289",
-    "tg:enc210406/4288",
-    "tg:enc210406/4287",
-    "tg:enc210406/4286",
-    "tg:enc210406/4285"
   ],
   "x:AndrewYNg": [
     "x:AndrewYNg:2085056542341271840",

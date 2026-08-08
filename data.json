@@ -1,22 +1,74 @@
 {
-  "updated_at": "2026-08-08T01:38:23+00:00",
+  "updated_at": "2026-08-08T03:25:13+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 16
+    "new_this_run": 4
   },
   "briefing": {
-    "headline": "대만 수출 30% 급증, 엔비디아 GPU 대여 가격 최고치",
+    "headline": "대만 7월 수출 30% 급증",
     "bullets": [
-      "중국 오프라인 소비 활력 지속, 결제 금액 2.2% 증가",
-      "트럼프 정부, 배터리·소재 기업에 20억달러 지원 계획",
-      "미국 실업률 4.1%까지 하락, 비농업고용자수 감소",
-      "엔비디아 2분기 실적 전망, GPU 대여 가격 역대 최고치",
-      "메타, Muse Code로 엔터프라이즈 AI 공략"
+      "유니트리 IPO 공모가 150.8위안",
+      "미국 재무부, 은행에 엔화시장 개입 지시",
+      "메타, Muse Code로 엔터프라이즈 AI 공략",
+      "엔비디아 플래그십 GPU 대여 가격 역대 최고치",
+      "중국 오프라인 소비 활력 지속"
     ],
-    "generated_at": "2026-08-08T01:38:23+00:00",
+    "generated_at": "2026-08-08T03:25:13+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32211",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32211",
+      "text": "아이폰17 가격 인상 루머\nhttps://9to5mac.com/2026/08/07/iphone-17-might-get-price-increase-next-week-per-new-rumor/",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-08T03:21:18+00:00"
+    },
+    {
+      "id": "tg:EMchina/32210",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32210",
+      "text": "유니트리 공모가 150.8위안 확정. 8/10 청약 예정. 상반기 예상 매출 10억위안 이상  • 유니트리 과창판 IPO 공모가 주당 150.80위안 확정. 예상 조달 자금은 약 61억위안으로 상장 후 시가총액 약 610억위안  • 2026년 상반기 매출 10.52억-11.28억위안, 순이익 2.58억-3.06억위안 예상  • 공모가 기준 PER 219배, PSR 36배. 업종 및 비교기업 평균보다 높은 수준  • 시장은 상용화 실현 진전에 주목  宇树…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-08T03:13:42+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19598",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19598",
+      "text": "마이크론(Micron) - KeyBanc Capital Markets 기술 리더십 포럼\n2026년 8월 10일 오전 8:00\n(한국시간: 2026년 8월 10일(월) 오후 11:00 )",
+      "images": [
+        "https://cdn5.telesco.pe/file/SQuF8bIpuqp95VudIdl5BA3rUF56UGIR0wktIxkvxC6tx2pvJzDvqKB5pI3-Z8tOqAIhogII8faIy5IrC84vjOBQ1nJDiGRlL0VIomajcEuGenjuPEFfJ-76nVfuJh0GWrAdbQQZ1N6YynPv8U-r6_YCLeTeijiVQF9757KmaO94onQ5XvIzLsCpFtEExP5XRQ9zob8khjJs7Nc85H5ybEzmvHaqVELWQb2Qrd8R314EiglULNa0Avs2yUTcH03pxZqjoV5hhX_0WkloS36dCuJ0BKDLJgi51XFTNQUmg1ucpbdY_U4qqO5xiTfi-Wp0HR781jwCTh9FwSh3VWUAtw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-08T02:39:27+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21027",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21027",
+      "text": "» 단일종목 레버리지 ETF들과 대표 지수형 레버리지 ETF들의 거래대금 추이\n» 6월 중 11조원을 넘어섰던 SK하이닉스 단일종목 레버리지 ETF 종목군의 거래대금은 금요일(8/7) 기준 총 4,600억원대까지 감소\n» 6조원 수준에서 고점을 기록했던 삼성전자 레버리지 ETF 종목군의 거래대금은 1,600억원대로 감소\n» 코스피 200 레버리지 ETF 종목군과 코스닥150 레버리지 ETF 종목군의 거래대금은 예탁금 상향 조치가 이루어졌던 지난 금요일(7/31)에 증가하는 모습을 보였으나, 조정 및 방향성 부재 흐름(+시장 거래대금 감소)이 나타나면서 거래 규모가 다시 축소",
+      "images": [
+        "https://cdn5.telesco.pe/file/X_dDR21Gh-Y-tdzuJEw3d60DMbfXjCwGxN9zubkVinEQUXxqShrRDs1KcMLAaaawBqDnZtGu-wvORZLXbXme4TeML8hrRfKECUVcIzlukqcdEB-3k8kFoScm7MDD9-tacRabCY66jPPGI028hE1WisvqIbtZbbuiW0OivVei-YljWG5x4UXB6G9MAqbSruFz91xyp57tuvX50nuf34mRmM0nge1oOooW81K03n1XOYyBdNFe38BsCTR8-or4Jkw3ilTTt9gT_rTMSimyTqOkdP52FWf2H3LMQkq4Kq-qaYmwdnfePycE6o7smc4Cft8OEbRK0SRnUBbunRgkuqeV5A.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-08T02:00:16+00:00"
+    },
     {
       "id": "tg:EMchina/32209",
       "source": "telegram",
@@ -244,18 +296,6 @@
       "published_at": "2026-08-07T21:45:13+00:00"
     },
     {
-      "id": "tg:EMchina/32198",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32198",
-      "text": "데이터센터 정치 이슈  ========================  ~ 디인포메이션은 2일(현지 시간) 주정부들 사이에서 데이터센터 세제 혜택 철회 움직임이 확산되면서 설비 비용이 7% 이상 증가할 수 있다고 분석했다  ~ 미국 주의회 연합체인 주의회전국회의(NCSL)에 따르면 애리조나·코네티컷·조지아·메릴랜드·미시간·펜실베이니아·버지니아·텍사스 등 13~14개 주에서 데이터센터 판매세를 이미 폐지 또는 일시 중단했거나 폐지할 예정이다  ~ 지역 경제…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T21:36:01+00:00"
-    },
-    {
       "id": "rss:semianalysis:spacex-10gw-in-2027-why-its-real",
       "source": "rss",
       "author": "semianalysis",
@@ -420,18 +460,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-07T14:47:27+00:00"
-    },
-    {
-      "id": "tg:EMchina/32197",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32197",
-      "text": "트럼프, 금리 인하에 대한 코멘트: 금리 인하 희망. 그러나 케빈 워시 한 사람에게 전적으로 달려 있는 것 아님  • 금리 인하 결정이 ‘어느 정도는 연준 의장에게 달려 있으나 전적으로 그렇지는 않다‘고 언급. 금리 조정이 의장 혼자서 결정할 수 있는 것은 아님을 인정  • 저금리 지지 재확인. 동시에 연준 인사에 대해 정치적 성향 비판. 과거  파월에게 금리 인하 자주 요구. 이번 신임 의장에 대한 발언은 분명히 완화됐으나 시장은 여전히 연준의 독립성…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T14:47:25+00:00"
     },
     {
       "id": "x:GoogleDeepMind:2085737848318124083",
@@ -750,18 +778,6 @@
       "published_at": "2026-08-07T07:51:30+00:00"
     },
     {
-      "id": "tg:globaletfi/21012",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21012",
-      "text": "하나증권 중국기업분석 백승혜, 송예지 (T.02-3771-7521)\n*텔레그램 채널:\nhttps://t.me/hanaglobalbottomup\n[Hana China Weekly] 전략산업 공급망의 탈중국 시도 지속 중인 미국\n▶\n자료:\nhttps://buly.kr/9BYHFcS\n◆업데이트 산업&기업: 미니맥스, CXMT, CATL, BYD, AI/테크, 반도체, AI 인프라, 이차전지, 산업재, 전기차, 로보틱스\n◆주요 기업 이슈\n- CXMT(\n688825.SH\n): 애플 DRAM 공급 협상 무산, 베이징 신규 팹 증설 검토 중\n- 중지쉬창(\n300308.SZ/3308.HK\n): 미 행정부 광모듈 수입 금지 조치 가능성에 주가 급락\n- 미니맥스(\n0100.HK\n): 신규 멀티모달 생성모델 MiniMax H3 출시\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T07:51:18+00:00"
-    },
-    {
       "id": "tg:bornlupin/19587",
       "source": "telegram",
       "author": "bornlupin",
@@ -772,18 +788,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-07T07:49:08+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19586",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19586",
-      "text": "2026.08.07 16:20:40\n기업명: SK하이닉스(시가총액: 1,038조 7,601억) A000660\n보고서명: 신규시설투자등\n*투자구분 및 목적\n- 신규시설투자 / 용인 반도체 클러스터 2기 Fab 건설\n- 메모리 수요 대응 위한 중장기 생산 기반 확보\n투자금액 : 352,246억\n자본대비 : 29.19%\n투자시작 : 2026-08-07\n투자종료 : 2031-10-31\n투자기간 : 5.2년\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260807800613\n회사정보:\nhttps://finance.naver.com/item/main.nhn?code=000660",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T07:23:23+00:00"
     },
     {
       "id": "x:ylecun:2085618408733692106",
