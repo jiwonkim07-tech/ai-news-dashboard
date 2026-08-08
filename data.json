@@ -1,22 +1,48 @@
 {
-  "updated_at": "2026-08-08T11:28:18+00:00",
+  "updated_at": "2026-08-08T12:47:15+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 6
+    "new_this_run": 2
   },
   "briefing": {
     "headline": "TSMC, 차세대 트랜지스터 개발 돌파구",
     "bullets": [
-      "AWS, 컴퓨팅 자원 부족에 대응",
-      "엔비디아, 블랙스톤 전력회사에 30억 달러 투자",
-      "대만 7월 수출 30% 급증",
-      "애플, 알리바바 Qwen 모델 통해 인텔리전스 사용",
-      "마이크론 목표주가 1,400달러에서 1,150달러로 하향"
+      "SK하이닉스, 中 충칭 후공정 공장 지분매각 검토",
+      "AWS, 컴퓨팅 자원 부족에 대응해 CPU 낭비 줄이기",
+      "엔비디아, 블랙스톤이 지원하는 ‘스타게이트’에 30억 달러 투자",
+      "대만 7월 수출 전년 대비 30% 급증"
     ],
-    "generated_at": "2026-08-08T11:28:18+00:00",
+    "generated_at": "2026-08-08T12:47:15+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/24445",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24445",
+      "text": "Citi)  주간AI — 구축에서 수익화로\nCITI의 견해\n이번 주 데이터센터 모라토리엄을 둘러싸고 정치적 호스슈(양극단 수렴) 회동이 있었음에도, 2분기 실적 발표 이후 하이퍼스케일러 CapEx 전망치가 상향되었을 뿐만 아니라, 구글과 SpaceX 모두 인프라 확장 일정을 앞당겼습니다. 이러한 결정들은 엔터프라이즈 수요의 벽이 여전히 수직적임을 뒷받침합니다. 2분기 하이퍼스케일러 CapEx 수익률이 28%로 차입 비용 약 6%를 크게 상회하는 상황에서, 저희는 AI 인프라에 대한 투자 지출이 노동력, 부품, 전력의 공급이 허용하는 한 계속 증가할 것으로 예상합니다. 지능형 라우팅(intelligent routing)은 기업들이 모델 사용/지출을 최적화함에 따라 AI에서 여전히 중요한 발전 요소로 남아 있으며, 이는 사용량 가중 토큰 지출(Token Expenditures)이 전주 대비 16% 하락해 100만 토큰당 1.33달러(Figure 1)를 기록하고 5월 정점인 2.07달러(Figure 13) 대비 -37.5%인 반면, GPU 임대료는 지난 3개월간 15.2% 상승하여 Blackwell 기준 5.18달러(Figure 14)를 기록한 데서 잘 드러납니다.\n용량(Capacity). 텍사스주의 주 전역 감사 (The Texas Tribune, 8/4)로 인해 1,800개 프로젝트, 474GW를 초과하는 대기 물량 전반에서 승인이 지연되고 있으며, 신규 요청의 약 90%를 데이터센터가 차지하고 있습니다. 전력을 신속하게 확보하기가 어려워지면서, 조기 전력 공급 개시(energization)는 확정된 전력 공급 시점을 보유한 사이트의 가치를 높이고 매출 실현을 가속화할 것으로 보이며, 특히 주요 건설사들이 신규 투자에 대해 1년 회수 기간을 제시하고 있는 상황에서 그렇습니다. 계약된 AWS 수요가 2028년까지 이어지고 있고 경영진이 용량 제약이 2027년까지 지속될 것으로 예상하는 가운데, 아마존이 2026년 CapEx를 200억 달러 증액한 것(주로 메모리 비용 상승에 기인하며, 이는 다른 기업들도 언급한 역학입니다)은 용량을 더 빨리 가동시켜 수요를 더 빠르게 매출로 전환하기 위해 하이퍼스케일러들이 지불할 의향이 있는 프리미엄이 커지고 있음을 반영합니다.\n부품(Components). 메모리와 인터커넥트가 여전히 핵심 병목입니다. 지난 3주간 태스크당 출력 토큰은 평균 11% 증가하여 24K 토큰을 기록했고, 추론 집약적인 상위 구간(tail)에서는 9% 증가하여 40K 토큰을 기록했습니다(Figure 10). 같은 기간 평균적으로 출력 토큰 비중은 5.6% 상승해 41%가 되었고, 캐시 활동은 5.2% 하락해 57%가 되었으며, 입력 토큰은 2%를 유지했습니다(Figure 9). 아키텍처 상의 획기적 돌파구가 없는 한, 이러한 출력 및 캐시 집약적 워크로드는 추론이 확장될수록 HBM과 인터커넥트 요구량을 증가시킵니다. 전력, 인허가, 노동력 제약과 결합될 때 이러한 요인들은 3년에 걸친 용량 급증을 5~10년에 걸친 보다 점진적인 구축으로 늘려놓을 가능성이 크며, 이는 희소 인프라의 가격을 지지하는 한편 일부 공급업체와 모델 제공업체의 매출을 후반 시기로 이연시킬 것입니다.\n보안(Security). 오픈 모델 대비 성능 격차를 다시 벌릴 가능성이 있는 새로운 프론티어 모델의 물결이 다가오는 가운데(Figure 5), 보안과 거버넌스가 수익화를 결정하는 요소로서 점점 더 중요해질 것입니다. 연구 등급(research-grade) 추론(Figure 7)은 점차 저렴해지고 있으며, 최근 공개된 자료에서는 미출시 모델이 2,000달러의 API 비용으로 10가지 수학적 진전을 만들어냈다고 언급되었습니다(OpenAI, 8/1). 사흘 후 AISI는 122건의 평가에서 19건의 승인되지 않은 실시간 인터넷 활동 사례를 기록하여(AISI, 8/4), 모델이 프론티어를 밀어 올리는 과정에서 통제 장치가 필요하다는 점을 부각시켰습니다. 오픈 모델을 사전 출시 테스트에서 면제한 조치(WSJ, 8/4)는 미국 선도 독점 모델과 미국 오픈 모델 간 21포인트 격차(Figure 2)를 좁히도록 유인을 제공할 수 있습니다. 장기적으로, AI 기반 사이버 리스크(Bloomberg, 8/5)가 더 빈번하고 정교하며 파급력이 커짐에 따라, 정부의 검증(vetting)은 규제 산업 기업을 대상으로 하는 프론티어 제공업체에게 상업적 자격 요건이 될 수 있습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/DHGSyl-hUs-xW_6dpQmQgewsZHuoR9sTxcIwCR3NCqhHqLzol8cNNUSJyij4pQ6CravCHuCFJhvaoZxKwic01eSQ1ZXATWkACRswIzmzRP-iPDn0mEmh9gyf2JSv0ymf8mTCVgdNqQO-M07vqK-uRRldFM-N6JTQLYOPk2zag1IQ6AXyHcsCUWevwOh7o-IGpX9PidX1e74VpXHNMatJP9A125oYdqXKNYaRjwAmnLHn2DdYdasuu_nKIKX-dFCIlKw3jILrCy_1HcHScHk19_NQpkdaj22_m8NXUvVzHuYXKTgCXz6pBsg_3kqEnD6YWJLysF-3WTdoDZRH61fQOg.jpg",
+        "https://cdn5.telesco.pe/file/o9dzferBq5v1wTcwvLnWs0DXMPNjs80ZJU4gV4kyPMS8bH59Pc0xL78td3xCJSRQFXxtZWlNqict1ohHm2UL4EwycGoELvcMpa_7Cb828Q_ZgB_ib3pQMbI6VZ0A_Ax5-Z3FSTIOewI0Y3ekY_udG54d-x36Kqyn23cfIKUEVj1zp553kFzg3LKzniAyXNC9Fg-HmwMsq6AqETW4Zm9JRsroKcDtWcLQiETOlCYf1RC0j1KPGgS3j5dlhlNv7hSAnh34Za8awunqLlo5S_2SFttwgosWbu84kI2LQdU3vJy0z-EFxCcStTAIDF864r8V-amWgb_2YOaDed23aHSN3w.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-08T12:31:37+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24444",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24444",
+      "text": "SK하이닉스, 中 충칭 후공정 공장 지분매각 검토\n: SK하이닉스는 자문사들과 충칭 공장에 대한 다양한 전략적 선택지를 논의 중\n: 충칭 공장은 SK하이닉스의 중국 내 핵심 후공정 생산기지. 2014년 7월 양산을 시작했으며 낸드플래시 제품의 패키징과 테스트 담당\n: 중국계 펀드와 현지 반도체 기업 등이 잠재적 인수 후보군으로 거론\nhttps://n.news.naver.com/mnews/article/003/0014115753",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-08T11:41:45+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24443",
       "source": "telegram",
@@ -622,7 +648,7 @@
       "url": "https://t.me/globaletfi/21019",
       "text": "» 미 국채금리는 단기 구간 중심의 하락이 나타나며 Curve Bull-Steepening 진행",
       "images": [
-        "https://cdn5.telesco.pe/file/O91x8hW0WVwZzW8rT4XVpR2lAgIrjYzrFx_XpUBoOigPV3I2EyM0lEDtM5MM-4aS8kF1DI7w6olz8fsw9yU7f0Inpxrn10yTfZ7Nj9zYHTjRv0dd4sLp5plBRW5JfKVRcJcB0lIwqiEmPtY0nYI5V7jAVrhO88H7ZJO7xAiAxBLe00JCm1LieAO66_lPEfPrUK1UuoBiA5iNHuQEhlm7JTM4GQ-ojddo4qFMa5w3YZpfu3lGxPG2EDrhazy5h_aqmUro1bXUSBdOeyvuN22CyFUfJLa3ZcBQyqLgoewG2YSarbsMwRin_aqIRYiWpWXIqRiNnRrW4UQqZGKkstFwvQ.jpg"
+        "https://cdn5.telesco.pe/file/ZOocks4eyLVIECXgmk3rb9OMPkOQXKHigeF5weV0KqnVA5gosdmB5_ihH7mq-3l9E1pkFUT3jOA8jJemiuYRQmBT7uvBMw-8_NofHRUuYsYsuDa0k5JhJwR7FbXX8spBHGnOZG6qSfaUUV3425b9Z4PrBFZSjALwY1bBgpapG4eI7LZvo9WBfPyIYUn599bElzFslTrJ8ojB5ZFW9RLfylz4aTY_hEFpacndlZ9HDPhHJ_Wzpw5sFQjHdIHAsgVvBeL_K2PDw453Lt1TMMcro_HRozcHLRLVak8rl6FvdrHqCgB8EcEF4MfmxWkrSBQolIsAQO_cdT7XPzuzgH1j-A.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-07T13:00:04+00:00"
@@ -648,8 +674,8 @@
       "url": "https://t.me/globaletfi/21016",
       "text": "» 지난 2025년 6월 이후 13개월만에 4.1%까지 하락한 실업률과 지난 2월 이후 처음으로 감소세 기록한 비농업고용자수가 확인되었습니다.\n» 꾸준히 말씀드리고 있는 부분이지만, 경제활동참가율 및 경제활동참가인구가 감소하는 내용과 고임금 업종의 채용 감소 및 저임금으로의 인력 이동, 임금상승률 하향 추세 등을 살펴보면 미국 고용시장의 퀄리티(+구매력 약화) 훼손 현상이 이어지고 있는 모습이 확인되고 있습니다.\n» 투자 사이클 중심의 시장 대응(결국 IT 중심)과 인플레이션 약화시 통화정책 급전환 가능성을 생각하는 방향성이 고려되어야 한다고 판단됩니다.",
       "images": [
-        "https://cdn5.telesco.pe/file/P5LRgViPalfHA-uFBpqxaBUQObk9iG35Y_xpYuzFSqSejmB-Jsp8cBvzoo7i5ypeSNQOw7rWQ4wfiAIzvqFbGU__kEM3gisQPr0vwf3yesjIz4ySKe4cKI41SYwEDE_mRdVXdZz3sFqeLbFaxnN53TXBga3uW905Nbn_yIu7bStNhcdaz0L1VYVNBGYDGhlR-327Nh3ss5iBShc7KDJzmyRyhUq9iu9iUZloziCR2GiX4CWV46ZtFMkKmhtHYMMjtacusNQuZ6A3Ctf3t2d6PGzMKZsksENoQgipuhp8eu_fD5vPwmXI5wpf7faKCatFFqgDO6MUDN3V6fSuJhAs4w.jpg",
-        "https://cdn5.telesco.pe/file/b8-XRD_v1W5OO7VugKvNzP1USys7l8ezSc5q_I4_nRDxYE2ot-OVrQU4HHyHmL_O1qGmwPOxsVmAlGtcTBTAZNiLPLSrS-NXFQxAeibb6YXairYaaAuA9bymBnDCu0BaDoWhAUSmBzGzsDBT1M18Z-h6lPLFsqW3VMUFCZQXSt5OLIiWMbz7R2gk-CYa2QbLHRG2tjgHmnSiKXQ7-hlf8mldKgwolLJfFe7z66_IkrN8TtE4sBumc919ts1ov8PyUweZLXo-lxU8UhTlu6ugt9npEIOGvvp419zFMv3xtY7qW6xrTy5CzKLZjcDTBA4nu_J5235odvmJSjbhQif_pg.jpg"
+        "https://cdn5.telesco.pe/file/UWJgQXnUUU0YIx5JFsdbzhIu1zEHOd75QOPLBs8705Uanl51wFfYm9X-1FayCK5MVzaACYl4MsPxBtud9sCvQyQc9JJIk-VplWQlF3P3eGTummJJNTbruagM-tWRLOYFXskBaMPnHNl8zRz2kA0wxAuJcF2YH7QWxmxvQdi3LApDRmR1qWa8mSzswFxfiJKoHkp6oyabJnFJQkE3y1wyjSRhak0_Odxktjx1yV7anxH36VNLOVElEkPR1Vp4E60pddSYkuaJdBoNPnRHXtZ9_jWTyqHJiNgtqcuzlH27ZEBWr-IVbvI1CvyulWjr_b0crcLULHKGuBX2C_DMlZ9ccQ.jpg",
+        "https://cdn5.telesco.pe/file/OrXyWU-SzACSwDD-pn8nZOCi60E10q6Tm2UMdZ5ACSRyZt1VuLzFhzo2RI6qlC18_YXAl2IGb0R357H9586gHOqUcWSpYbQm9Be12To9Dnc6i73bE1pvRkQTSwOY9E3WV8i9XVHcCXCSGLMAsviVTbSpOEpoD1xCtshFPHHpSqyLKzRraD413mNPDr2Idhmgy3nkW5MdrgkDXhsviy0VfB5XetfS75_wsmZMFErX68N8BcQ9DfqbOfS5ocRSMW0NuvPCfLIT5edzZxiXX85rPnbM5IA0luOgsZZ7UJqnnt5Q69zKkelaoA940MxCE0AbJXk9CCLaXVFSSC8RbmebNw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-07T12:52:23+00:00"
@@ -678,7 +704,7 @@
       "url": "https://t.me/bornlupin/19593",
       "text": "미국 경제가 2020년 팬데믹 이후 세 번째로 큰 규모의 월간 일자리 감소를 예상치 못하게 기록하면서, 9월 금리 인상 확률이 40%로 하락\n(불과 며칠 전만 해도 시장은 9월 금리 인상 가능성을 70% 이상으로 예상)",
       "images": [
-        "https://cdn5.telesco.pe/file/dWU9LA_L1hTNoUNuE7G2LP43Wl9OTF1OAN_7U-XILTOg4yyBkoHqwjOhWOpbhiexKyJQW4qhcwGC_cu_vY7fSIWFKjh5SLi-u8OPu2m3Ut-sAmpICWnAmfAfBL-JNSh8ud8pKeG9v19LDYNZwD6D7wyqizwUiAQfze56oEPHhlQ07qhXf4KsU98uRz1fqP1mUX0G6aRe0ddqVZgzP2E5Z6q0DNgrlouSvUGeqR97DybD4uVxeidjmnqVr2UY2gGivxZvXzWVygdQWiiFuEU0graRgkyzRVeftgx5TS5hvdOvN7sTtGjxA3geUjnj5xLtjfFUtKyAMv6VCdUfz2ixNA.jpg"
+        "https://cdn5.telesco.pe/file/m7xaBm2EHqwJwbgmEdN7Up0nyTIKV-5FQmYDF0QakjZPeUC6oIVCkKE0RLi0bY8o5i6ZGKMgRAYkAhCFS8Ai2-8PgruC--UEGWYEieIB-szOwjzwdvZRNdxKJ4eH03Sp3v64KPjJF-efGo8xrCnElv4qqaMgAevqn8ncGdeDevewZ8WXQDz4UF_g589Gbeb-8YLo68mjHNx8M0_30oehzjEBKri8uHWu5sgeQO4_Z621Kp3FPnRtmmjFP11xjTd872s-UPl5KxNusTD-9Oxi4l1rCFXxoGG-rxft3eyWVY20fMPrc4bYh9K7PUBc5KhE1lXMAkpvVkoZzXWI7MH-vw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-07T12:43:58+00:00"
@@ -692,7 +718,7 @@
       "url": "https://t.me/globaletfi/21015",
       "text": "» 미국 7월 고용보고서는 실업률이 4.1%(6월: 4.2%)로 하락했으나, 비농업고용자수가 -2.3만명 감소한 것으로 집계(예상치: +8.0만명)\n» 비농업고용자수는 전월치도 하향 조정. 하락세를 이어간 경제활동참가율이 실업률 하향에 영향\n» 임금상승률까지 컨센서스를 크게 하회한 상황. 전반적인 고용시장 둔화 흐름으로 해석 가능",
       "images": [
-        "https://cdn5.telesco.pe/file/Tkhvky0KKwP8xlWdKg8Gr4S8elrImq9_obCCt2C1iNm7E0XhpSrkWhxvgy3M--_THo6Fhf7dO7gGiA2S8db9UEudLvOFGBnlaJb7T7M4WYwB90q7ogweJbZj_46fqAeib8z-RJjYkbGFY5MtdoKzil9Wu3C1kCv0qrRTBB-EKVZuM9zC5urQitbdKTpQsqlZzRd_JhAJMDmkT3PhJQWaS_aELCIqO3jlsgKrzLKof0O4gIy7ZAG4hTCAkKs-ruZQmZ1aDXsZ__2DG65J3kifHr_USBsKQXcCGpViIRr1f4JMOt_gl0yy2JkCUqq4M5Jj1J2ZQire3PEBXcj7596ktg.jpg"
+        "https://cdn5.telesco.pe/file/REL4ZOvtdoCWT4_y5O400tAypaJzqeVqK4T44n4exKXO29EX3_xSxMKuBxJcCqcqHllSLs3qlWVzIaZ0YIEZJ0QsXVmizDdEhqSkMnbZuWaJjfkQHKe5yJwUDFsaqUR_W-ycgIUq1ty5-LGNtPv2IOFK546NICchXSbC2Dg1o3sRPBc1hdlcGuK86b4jubz992RfelrN0wnaEmkvFtXeXDULBo_iqGWynmyrp7VYro4R7Kz2uv0WjrDXPn6g1UwzIlPbMuAmkTkRmYz7KegSH1Meen6CvuHVst722ZXhMYcQ2cKqzY5mzRUsrInJuCPeSSzhhrvzyGyMHTroILQm6Q.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-07T12:38:27+00:00"
@@ -706,7 +732,7 @@
       "url": "https://t.me/bornlupin/19592",
       "text": "미국 7월 고용보고서\n비농업 부문 고용: -2.3만 명 (예상 +8.0만 명)\n실업률: 4.1% (예상 4.2%)\n시간당 평균 임금 (전월 대비): 0.1% (예상 0.3%)\n시간당 평균 임금 (전년 대비): 3.2% (예상 3.5%)\n경제활동참여율: 61.4% (예상 61.6%)\n민간 부문 고용: +3.0만 명 (예상 +8.2만 명)\n주당 평균 노동시간: 34.3시간 (예상 34.3시간)\n5월 및 6월 고용 수치: 합산 -10.3만 명 하향 조정",
       "images": [
-        "https://cdn5.telesco.pe/file/R1HK-Es78sTJzjR3SJ4U-QdWGCPpsraWLDv3LIzzwqBKZguYISF50LrKFwJEJYb-BDKamc79QYTl-CD71dNiALs26mQOtsmiMxPRmBcf45zc8L3fVoxhk4MMNsExHGZ-cysfluhKgeBC5XAYYKLV-IlW8SUEi7DXRjc-aXSTD8WJyTA9vbklsiLXHubNtmGRIGYHPRtzyZc0afVH0SY8vSqYj6BcXYaevGeETRKk8oKZHjQmj3fgKkIDE5dCYNmX4citOqF5uAAhim-yrR-tPnloqciYzdZ61c6BArgbNwAVVv9TYblj6eJvDFWWRItMajVILvbR9d5x9WWBlssCsA.jpg"
+        "https://cdn5.telesco.pe/file/L8g71QDINmjZHCGH3HtBqhzaGFZWjT0qrgpp8XG5crskoeK-3UgC4ujhkY0129QjnCtye-Omv2GXkJFQwVmJcfJUSCqE5A02zRga8a9UE508njKTDwxlrU0oLfYlSjjq6xPLy40aUSGdltVWRy7ySBU7njH-dXD5ea3wgfrzgXfhJM10gb6PEW1x9CX8-huv9Dz6zW3QTsRRGQ7-NH_KAN8NS-mzjzbAJbtpSIOZ2n96zvLt9-snGla8jIztzouoZpvUbkLszZIKooTNToA0fzqM0Gk7ETVdco1AEyIn0Nhs9wWcrsfLjLzci4PNRHOOOsrwJEjd6g3-Ldo70siFxQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-07T12:34:11+00:00"
@@ -800,30 +826,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-07T09:47:36+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24431",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24431",
-      "text": "✅\nSK하이닉스, 엔비디아 HBM 반값 공급설에 \"전혀 사실무근\"  https://www.inews24.com/view/1993001",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T08:40:40+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24430",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24430",
-      "text": "✅\nSK하이닉스, 엔비디아 HBM 반값 공급설에 \"전혀 사실무근\"\nhttps://www.inews24.com/view/1993001",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T08:40:33+00:00"
     },
     {
       "id": "tg:globaletfi/21014",
@@ -1116,7 +1118,7 @@
       "url": "https://t.me/HI_GS/6860",
       "text": "🛳\nFLNG는 확산기, FDC는 개화기\n☞\nhttp://bit.ly/DOS834\n⚓️\n주시 뉴스\n🌏\n그린쉽: N/A\n🌪\nLNG\n▲ 카타르 North Field East(NFE) LNG 확장 프로젝트 작업 재개\n△ Excelerate Energy, 첫 FSRU 개조용 노후선 매입\n▽ LNG선 스팟 운임 하락세 지속\n💨\n가스선: N/A\n🚢\n컨테이너\n▲ CK Line, 중국 CSSC Huangpu Wenchong에 6,400-TEU 4척 발주\n🛳\n탱커\n▲ 삼성중공업 Ditas로부터 수에즈막스 탱커 2척 수주\n△ Scorpio, VLCC 투자 확대\n▽ 그리스 Centrofin, 중국 Titan Wind에 114k PC선 6척 발주. 신조 진입 조선사 증가\n▲ 그리스 선주들, 홍해 리스크로 비싼 VLCC 스팟운임 치룸\n🌉\n해양/디펜스/바람\n△ 삼성중공업, 미국 내 첫 적용을 목표로 부유식 데이터센터 엔지니어링 계약 체결\n△ Golar Hilli. 카메룬 → Seatrium 업그레이드 → 아르헨티나 예정\n▽ Golar LNG의 1번째 Mark II 개조, CIMC Raffles 진수\n▽ Seatrium 16.4십억달러(21십억싱가포르달러) 규모 파이프라인\n------------------------------------------------------\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n✅\n컴플라이언스 승인을 득한 보고서입니다.\n------------------------------------------------------\n⚓️\n코멘터리: 보고서 참고",
       "images": [
-        "https://cdn5.telesco.pe/file/NiQtkpnjZkmqHTl4MQ6a04do6Ml2qrRZif38mi7nFUvHwT0e5nRmXv6tH5Df8gECpKOtexOfCH6JOwGSTs15Iv4DHS97x8TAGieMpxqf8-E7wlW8kGQ9-r7b5x3pInuFOdUyDTwGZANlxjCxz_AqvaJrAo0zdFCIrc4fFpLaeHOCY5zOxvWviLkayl2HMI7llSPWOcPXXQXiH0y_rRqwDDs1oGTkjjYHChZnNzlt74R03gwIq0SeSSm_M4V24qMz9Xr-8Njpkbtnr1wNCmeF7SEA0EHdkmM7PKB3VYB_K01YDr_scC0YM243QF7q6lDqXzjm_ASRgNdM0QJVXTGSUw.jpg"
+        "https://cdn5.telesco.pe/file/A5eYdiRIfYJ9nkj95U0wkFFiSft0P5hlloTplyDVW9ucaSP5X6o2qQwsSntj_MpiYg3Ugtg5cCQopGQDcjqfJc99OXoTtW13JSQH8AWv7AdQCDSVUg2vofiWb-8oAjtiHL8R9pE4rudxqsXVaMllEOX8kQgIGYMR2ZP2WoKQXsXrIsfYsguemzCRQq_JDDcQZDWDpyKH6QlfWytvX0oblxAJ7hX-zF3wy6s59djUeDR2VoUK3MGfaHgLrXP4wqRJr8qQmzGOu4JMtLK1q-2-GPwMwQHscf3uEFVUXsywT25MHYD2ktcHCpRYUA5wneh4ZX3FiSFBzzQBxM8Q0E7yxw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-06T12:42:07+00:00"
