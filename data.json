@@ -1,22 +1,34 @@
 {
-  "updated_at": "2026-08-08T07:50:13+00:00",
+  "updated_at": "2026-08-08T08:40:47+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 7
+    "new_this_run": 1
   },
   "briefing": {
     "headline": "마이크론 목표주가 1,400달러에서 1,150달러로 하향",
     "bullets": [
-      "대만 수출 7월 전년比 30% 급증",
+      "대만 7월 수출 30% 급증",
       "엔비디아 플래그십 GPU 대여 가격 역대 최고치",
-      "AI 자금 소진 속도 사상 최고",
-      "중국 오프라인 소비 7월 전년比 2.2% 증가",
+      "중국 오프라인 소비 활력 지속",
+      "트럼프 정부, 배터리 및 소재 기업에 20억달러 지원 계획",
       "유니트리 공모가 150.8위안 확정"
     ],
-    "generated_at": "2026-08-08T07:50:13+00:00",
+    "generated_at": "2026-08-08T08:40:47+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32214",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32214",
+      "text": "프리마켓 +1%대  https://n.news.naver.com/article/008/0005396761?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-08T08:20:10+00:00"
+    },
     {
       "id": "tg:bornlupin/19599",
       "source": "telegram",
@@ -320,18 +332,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-07T22:04:22+00:00"
-    },
-    {
-      "id": "tg:EMchina/32202",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32202",
-      "text": "~ 이번 행사는 핵심광물 개발과 가공을 촉진하기 위한 노력을 부각하기 위해 마련됐으며, 몇 건의 협약과 양해각서(MOU)도 공개될 예정이라고 정상회담에 정통한 관계자들이 전했다. 이들은 공식 발표에 앞서 세부 사항을 밝힌다는 이유로 익명을 요청했다  https://m.newspim.com/news/view/20260807000847",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-07T21:57:35+00:00"
     },
     {
       "id": "rss:semianalysis:spacex-10gw-in-2027-why-its-real",
@@ -760,7 +760,7 @@
       "url": "https://t.me/aetherjapanresearch/24429",
       "text": "3분기 중",
       "images": [
-        "https://cdn5.telesco.pe/file/huaqsrrAvMYKyafYuiJdtgCDOpImYv57MeyQWmFndAyduTjWK2Zn3S9lxvBJYJ1ExLKE_1o6IRAPryldmISpyH-T88SxtYi2UC_SgFJia32NWJtixuCD2IVUnsrtee2OaexBkWR-jU9W0DLjykncDmk6N9iptfW5WWwKO31kRAzwLwi2NhpZhWX5taswYnlaCCK7QoJ-2bW3x23lOfpZJsF8YKtdXef_lSOeqBA-1s6TKrIECpzGoncnhGuTDDQfN4f4mL9lP_ZcYxhJc9_jdRbELWJkUw9sPc478ynS9UDlZfnKUJjnSqzIMk3c3FV1zDfiEP-UQ9nKtjn6QEizaw.jpg"
+        "https://cdn5.telesco.pe/file/lCg7JXhfAc_UkitPKNDzwwapL4jYJBW0GtyJXxp6v4bMEMlPuKT99REZPnM6Y5F0O5SOnGj4AhbqUPWn4YJaUrgbxsHBz1iEsJgMPHc3f8zuJBwET8h-sHDRyoVJuytvoKdOe_MUBA-BbYvBu6Z6JXs9r0F2dMT8LGta4OLqwarBEqRej59bXNU3o5tt_iHC4KhJqkwbJl9DFeuIJ7FtJ4mk-bFCqtI5pA_wtLhv6Fld88buHeD-jRI8Q1XmVshbUWMhXUs5oqcuSdULcUvNNYko1qhbWxtQbnAD4LmFrQsnByTHa0Yd_hx12XyQM3G1N0BXsk7BSpmzRfG2Gbcz9A.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-07T08:35:50+00:00"
@@ -774,7 +774,7 @@
       "url": "https://t.me/bornlupin/19589",
       "text": "모건 스탠리 - 메모리\n지금까지\n메모리 산업에서 나타난 가장 가파른 조정은 마무리에 접어든 것\n으로 보이며,\n다음 주가 상승 촉매제(Catalyst)로서 자사주 매입으로 관심이 이동하고 있습니다.\n당사는 이를 사이클 노후화(성숙기) 과정에서 나타나는 자연스러운 일부분\n, 즉 작고 일시적인 차질 정도로 바라봅니다.\n현재 밸류에이션은 매력적인 전술적 재진입 기회를 제공합니다.",
       "images": [
-        "https://cdn5.telesco.pe/file/bUoCcvKrhJFNrBLoP7GykE9ICsTfEie5jYgBBgsPE5UqeaVU4MmYFK6rTMledXXfGWQ1SvG4ym6E0zf-02HkQCdVKf5YlXZxsZ-Is3YxlT0j8h5bvnGcPDhBRfqtWzlURdVYVJIOZG4SFDYAkrLfzJAP7i_1yuVWT_W-GkynfQhgAIiBdDkBlqGrFd3jNyqpPzgN7s0mDtfEFXPFkJwQiQWAhpj98QYjxvkBhkSLHSH2IoqOjJLNaK9n_237MdHlmGLssmlTaxMBQFEzXyDuMTvIVhBt67zScp47fLxOC6SmPZxEuoa0I_PjJ4eXLsDEgQd241PTYcVO2AJ2RSXUvQ.jpg"
+        "https://cdn5.telesco.pe/file/YE-jCqzHR7t-wxyK_wLwstpgC5VpdMp5uMFI4kBLbPJwD5dMY-FLOV2EeSpq7QuT0dXO1YmbaaVRUhqtugjOusnmqtrXiaWEDjSDn4KT2Xa3ztKddRvmVPO2RolgUsuyxD3zrQpzg6_dBg81J5zDWl7yi20Py0utfoQuVvvD4uxOtN95RHiSXUOWQfZLFZ3WwRA8qibQHaYBZGV434Xt7BodR9Dh1Rb5vgRjj3T_EUyqPXR0V6AI4Rf0EN-YQkev3HDkfG3azeXGp3AsewkR2ANtgVQATMfznJ7b3BFPhwc0HzQYxNIGwE22mkNK5Mprlmofmm8tH9tzoQO1SJ5H3g.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-07T08:10:15+00:00"
