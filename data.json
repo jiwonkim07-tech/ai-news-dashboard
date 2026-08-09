@@ -1,22 +1,60 @@
 {
-  "updated_at": "2026-08-09T16:34:39+00:00",
+  "updated_at": "2026-08-09T17:31:31+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 7
   },
   "briefing": {
-    "headline": "골드만삭스, 중국 AI 거품 없다",
+    "headline": "골드만삭스: 중국 AI 거품 없다, 외국인 매수 여지 큼",
     "bullets": [
-      "삼성 HBM4 '황금 수율' 달성",
-      "애플, 중국산 메모리 반도체 테스트",
-      "SK하이닉스, 100조 주주환원책 발표",
-      "버크shire 현금 보유액 4년 만에 감소",
-      "CATL 리튬 광산 생산 중단"
+      "삼성 HBM4 ‘황금 수율’ 달성…공급 늘린다",
+      "애플, 중국산 메모리 반도체 테스트에 착수",
+      "SK하이닉스, 8월 말 100조 주주환원책 발표",
+      "루팡, 자사주 매입 등 100조원 주주환원책 추진",
+      "JP모건, 글로벌 메모리 TAM 및 수급 업데이트"
     ],
-    "generated_at": "2026-08-09T16:34:39+00:00",
+    "generated_at": "2026-08-09T17:31:31+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:sama:2086470022772457950",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2086470022772457950",
+      "text": "lol another one of the things i like most about openai is tibo",
+      "images": [
+        "https://pbs.twimg.com/media/HPSgkjBaAAAEWWH.jpg"
+      ],
+      "summary_ko": "ㅋㅋㅋ 제가 openai에 대해 가장 좋아하는 또 다른 점은 tibo입니다.",
+      "published_at": "2026-08-09T15:09:52+00:00"
+    },
+    {
+      "id": "x:sama:2086469875581755696",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2086469875581755696",
+      "text": "R to @sama: i would be pretty impressed if the team just made magic intelligence in the sky but i am extra impressed that they do so with such a focus on making sure everyone wins (ranging from stuff like business privacy to low prices to predictable policies to more)",
+      "images": [],
+      "summary_ko": "R to @sama: 팀이 하늘에서 마법의 지능을 만들었다면 꽤 감동받았을 것입니다. 하지만 모든 사람이 승리할 수 있도록 하는 데 중점을 두고(비즈니스 개인 정보 보호부터 저렴한 가격, 예측 가능한 정책에 이르기까지) 그렇게 한다는 점이 더욱 인상적입니다.",
+      "published_at": "2026-08-09T15:09:17+00:00"
+    },
+    {
+      "id": "x:sama:2086468661670461671",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2086468661670461671",
+      "text": "one of the things i like most about the openai team is how focused they are on our customers and users succeeding, and how much they celebrate it",
+      "images": [],
+      "summary_ko": "제가 openai 팀에 대해 가장 좋아하는 점 중 하나는 그들이 고객과 사용자의 성공에 얼마나 집중하고 있으며 이를 얼마나 축하하는지입니다.",
+      "published_at": "2026-08-09T15:04:28+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24469",
       "source": "telegram",
@@ -577,6 +615,18 @@
       "published_at": "2026-08-09T01:11:15+00:00"
     },
     {
+      "id": "x:sama:2086092396023120286",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2086092396023120286",
+      "text": "RT by @sama: GPT-4 finished training four years ago today.",
+      "images": [],
+      "summary_ko": "RT by @sama: GPT-4는 4년 전 오늘 훈련을 마쳤습니다.",
+      "published_at": "2026-08-08T14:09:19+00:00"
+    },
+    {
       "id": "x:ylecun:2086082630559174754",
       "source": "x",
       "author": "ylecun",
@@ -1027,7 +1077,7 @@
       "url": "https://x.com/sama/status/2085473085399150817",
       "text": "RT by @sama: Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more. https://www.youtube.com/watch?v=87DyyMV0kCY I hope it can answer a lot of the questions folks have, and we will release a full detailed postmortem at a later time!",
       "images": [
-        "https://pbs.twimg.com/card_img/2085465895007318016/-qjHVz8l?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2085475651696398336/sMBqp17U?format=jpg&name=800x419"
       ],
       "summary_ko": "RT by @sama: 어제 OpenAI 공동 작업자와 저는 Huggingface 사건, \"메시지 보드\"를 생성하는 모델, 모델 정렬 불량 등에 대해 자세히 설명했습니다. https://www.youtube.com/watch?v=87DyyMV0kCY 사람들이 궁금해하는 많은 질문에 답할 수 있기를 바랍니다. 자세한 사후 분석은 나중에 공개하겠습니다!",
       "published_at": "2026-08-06T21:08:24+00:00"
@@ -1609,32 +1659,6 @@
       "published_at": "2026-08-01T08:17:42+00:00"
     },
     {
-      "id": "x:sama:2083456300692979886",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2083456300692979886",
-      "text": "RT by @sama: yes, nonsofic groups exist: this statement is one of many new beautiful results proved by Astra, our next major model. We're releasing 10 such Astra proofs, complete with lean certificates and CoT walkthroughs for each of them. The results are wide-ranging, from von Neumann algebras (disproof of Connes' Rigidity Conjecture) to better bounds for high dimensional sphere packing, for circuit complexity, for monochromatic triangles in multicolored graphs, and more. More thoughts here: https://openai.com/index/ten-advances-in-mathematics/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2086086385870557184/egHtt7of?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@sama의 RT: 예, 비특색적인 그룹이 존재합니다. 이 진술은 우리의 차세대 주요 모델인 Astra가 입증한 새롭고 아름다운 결과 중 하나입니다. 우리는 각각에 대한 Lean 인증서와 CoT 연습을 갖춘 10가지 Astra 증명을 출시할 예정입니다. 결과는 von Neumann 대수학(Connes의 강성 추측에 대한 반증)부터 고차원 구 채우기에 대한 더 나은 경계, 회로 복잡성, 여러 색상 그래프의 단색 삼각형 등에 이르기까지 광범위합니다. 더 많은 생각은 여기에 있습니다: https://openai.com/index/ten-advances-in-mathematics/",
-      "published_at": "2026-08-01T07:34:25+00:00"
-    },
-    {
-      "id": "x:sama:2083221585792762171",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2083221585792762171",
-      "text": "cool use case of chatgpt work i heard last night: connect your family calendars and explain your kids' interests. every morning for the drive to school, have it make a podcast that talks about one kid's soccer game that afternoon, one kid's upcoming birthday, some news, etc.",
-      "images": [],
-      "summary_ko": "어젯밤에 들었던 chatgpt 작업의 멋진 사용 사례: 가족 캘린더를 연결하고 자녀의 관심사를 설명하세요. 매일 아침 학교에 운전해서 갈 때, 그날 오후 한 아이의 축구 경기, 한 아이의 다가오는 생일, 뉴스 등에 대해 이야기하는 팟캐스트를 만들도록 하세요.",
-      "published_at": "2026-07-31T16:01:45+00:00"
-    },
-    {
       "id": "x:GoogleAI:2083221445375668654",
       "source": "x",
       "author": "GoogleAI",
@@ -1645,30 +1669,6 @@
       "images": [],
       "summary_ko": "몇 주 동안 바빴어요! ICYMI의 요약은 다음과 같습니다 ⬇️ — @GoogleDeepmind의 Gemini Robotics 2는 로봇에 전신 지능을 제공합니다. — Gemini 3.5 Flash-Lite는 고속 에이전트 워크플로에 최적화된 가장 빠르고 비용 효율적인 모델입니다. — Gemini 3.6 Flash는 훨씬 적은 수의 토큰을 사용하면서 작업 전반에 걸쳐 더 빠르고 정확한 성능을 제공합니다. — Gemini 3.5 Flash Cyber는 대규모 소프트웨어 취약점을 찾아 해결하는 데 최적화된 새롭고 비용 효율적인 모델입니다. 정부와 신뢰할 수 있는 파트너에게만 제공됩니다. — @GoogleEarth의 Nano Banana 2를 사용하면 위성, 항공 및 3D 이미지를 사용하여 장소를 재구성하고 맞춤 이미지를 생성할 수 있습니다. — Lyria 3.5는 Google Deepmind의 최신 음악 모델로 이제 @googleflowmusic을 지원합니다. — @Gemini_Notebook(이전의 Notebo)",
       "published_at": "2026-07-31T16:01:11+00:00"
-    },
-    {
-      "id": "x:sama:2083203642975502640",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2083203642975502640",
-      "text": "i see your moore's law and i raise you 20x",
-      "images": [],
-      "summary_ko": "난 네 무어의 법칙을 보고 너를 20배로 키울 거야",
-      "published_at": "2026-07-31T14:50:27+00:00"
-    },
-    {
-      "id": "x:sama:2083198135812383197",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2083198135812383197",
-      "text": "it could be faster",
-      "images": [],
-      "summary_ko": "더 빠를 수도 있어요",
-      "published_at": "2026-07-31T14:28:34+00:00"
     },
     {
       "id": "x:GoogleDeepMind:2083138039954489528",
