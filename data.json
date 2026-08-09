@@ -1,22 +1,94 @@
 {
-  "updated_at": "2026-08-09T10:34:18+00:00",
+  "updated_at": "2026-08-09T11:28:45+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 5
+    "new_this_run": 6
   },
   "briefing": {
     "headline": "삼성 HBM4 '황금 수율' 달성",
     "bullets": [
+      "CATL 이춘시 리튬 광산 생산 중단",
+      "우시앱택 주가 본토 +74%, 홍콩 +97% 상승",
       "글로벌 LLM 토큰 지출 비용 40% 하락",
-      "메모리 TAM 및 수급 업데이트",
-      "SK하이닉스 분기별 DRAM 매출 전망",
-      "중국 물가 둔화, 재정정책 가동 시사",
-      "우시앱택 2026년 매출 가이던스 상향"
+      "JP모건, 글로벌 메모리 TAM 및 수급 업데이트",
+      "SK하이닉스, 분기별 DRAM 매출 및 영업이익 전망"
     ],
-    "generated_at": "2026-08-09T10:34:18+00:00",
+    "generated_at": "2026-08-09T11:28:45+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32240",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32240",
+      "text": "프리마켓 +1%대  https://n.news.naver.com/article/008/0005396761?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-09T11:28:36+00:00"
+    },
+    {
+      "id": "tg:EMchina/32239",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32239",
+      "text": "일론 머스크, EUV 노광기 넘어서나\n• 일론 머스크는 FEL 자유전자 레이저 방안 모색 & ASML의 LPP EUV 광원에 도전\n• FEL은 고출력/코히런스/파장가변/에너지효율 등 장점 보유. 이론적으로는 광각 광원을 13.5nm에서 6nm, 더 짧은 파장까지 확장 가능\n• 거대 가속기 시스템, 비용, 양산 안정성은 여전히 산업화 최대 과제\n马斯克，要颠覆EUV光刻机？\n马斯克或探索FEL自由电子激光路线，挑战ASML的LPP EUV光源。FEL具备高功率、高相干、波长可调和更高能效等优势，理论上可将光刻光源从13.5nm推向6nm甚至更短波长。不过，庞大的加速器系统、成本及量产稳定性仍是产业化最大挑战。\nhttps://wallstreetcn.com/articles/3779015#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-09T11:14:18+00:00"
+    },
+    {
+      "id": "tg:EMchina/32238",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32238",
+      "text": "애플 공식 홈페이지에서 애플 인텔리전스 연동 알리바바 Qwen 페이지 삭제  • 애플 공식 웹사이트에 애플 인텔리전스 & Qwen 연동 사용 설명서 업로드. 이는 애플이 공식 문서 통해 알리바바 모델 활용 처음으로 명확히 언급한 것으로 외부에서는 중국 내수용 애플 인텔리전스 상용화 진입 예상  • 8/9 사용 설명서는 애플 공식 웹사이트에서 삭제. 현재 관련 페이지는 기존의 \"ChatGPT 연동한 애플 인텔리전스 사용\" 버전으로 복구  苹果官网已删除Apple智能接入阿里千问页面…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-09T11:05:07+00:00"
+    },
+    {
+      "id": "tg:EMchina/32237",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32237",
+      "text": "CATL 이춘시 리튬 광산 생산 중단  China’s CATL pauses lithium production at Yichun hub for maintenance amid supply monitoring  https://x.com/FirstSquawk/status/2085585551902884304",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-09T10:59:53+00:00"
+    },
+    {
+      "id": "tg:EMchina/32236",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32236",
+      "text": "올해 우시앱택 주가 본토 +74%, 홍콩 +97% 상승  =========================  ~ 미국의 대중국 바이오 견제에도 중국 위탁개발생산(CDMO) 기업 우시앱텍이 올해 상반기 처음으로 글로벌 1위 론자의 매출을 넘어섰다. 미국의 견제에도 불구하고 기존 사업과 펩타이드 등 신규 모달리티(치료접근법) 사업을 동시에 키우는 데 성공한 결과다. 삼성바이오로직스도 최근 인수를 통해 펩타이드 생산 역량을 확보한 가운데 글로벌 CDMO 경쟁 축이…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-09T10:53:20+00:00"
+    },
+    {
+      "id": "tg:EMchina/32235",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32235",
+      "text": "세계 최대 반도체 ETF 운용사: 이르면 9월 말 ETF에 CXMT 편입\n• 글로벌 자산운용사 VanEck 선임 상품매니저: 미국 기관투자자들이 가장 먼저 중국 반도체 시장에 진출 시작. 이르면 9월 말 CXMT를 VanEck ETF에 편입 & 지수에서 상당한 비중 차지 가능성\n全球最大半导体ETF管理人：长鑫科技最早或于9月底纳入公司旗下ETF\n全球资产管理机构范达高级产品经理表示，美国机构投资者率先开始布局中国半导体，最早或于9月底将长鑫科技纳入范达旗下ETF，并在指数中占有可观权重。\nhttps://wallstreetcn.com/articles/3779017#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-09T10:46:14+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24463",
       "source": "telegram",
@@ -398,18 +470,6 @@
       "published_at": "2026-08-09T03:55:29+00:00"
     },
     {
-      "id": "tg:EMchina/32228",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32228",
-      "text": "~ 중국이 '키미 K3', '딥시크 V4' 등 가성비 인공지능(AI) 모델 공급을 넘어 국산 칩부터 오픈웨이트 모델, 기업용 에이전트, 휴머노이드 등 로봇까지 연결하는 'AI 풀스택' 구축에 나섰다. 정부 주도의 기술 자립 전략에 힘입어 자국 모델과 에이전트, 피지컬 AI 채택이 빠르게 확산하는 가운데 2030년에는 자국산 AI 가속기 비중이 절반을 넘어설 것이라는 전망도 나온다  https://n.news.naver.com/article/092/0002433409?sid=105",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-09T03:52:17+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/24451",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -432,70 +492,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-09T02:49:25+00:00"
-    },
-    {
-      "id": "tg:EMchina/32227",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32227",
-      "text": "영국 전기차 시장에서 중국 브랜드 약진. 테슬라 인도량은 감소\n========================\n~ Tesla’s deliveries in the UK have fallen sharply as the popularity of the carmaker’s\nChinese rivals surges\n.\nhttps://share.google/MVyC0J0HJRZGAUNTu",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-09T02:24:33+00:00"
-    },
-    {
-      "id": "tg:EMchina/32226",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32226",
-      "text": "7월 중국 물가 둔화 & 예상 하회  • 7월 정치국회의에서 중국 정부는 하반기 재정/통화정책 가동 시사",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-09T02:00:45+00:00"
-    },
-    {
-      "id": "tg:EMchina/32225",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32225",
-      "text": "2026년 6월 중국 굴삭기 판매량 25445대(+35.3% YoY)  •내수 10898대(+33.9%) •수출 14547대(+36.4%)  1-6월 누적 152320대(+26.4% YoY) •내수 79025대(+20.4%) •수출 73295대(+33.5%)  据中国工程机械工业协会对挖掘机主要制造企业统计，2026年6月销售各类挖掘机25445台，同比增长35.3%。其中：国内销量10898台（含电动挖掘机65台），同比增长33.9%；出口14547台（含电动挖掘机34台），同比增长36.4%。…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-09T01:48:20+00:00"
-    },
-    {
-      "id": "tg:EMchina/32224",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32224",
-      "text": "다시 위를 보는 BDI",
-      "images": [
-        "https://cdn5.telesco.pe/file/v91MRs7xCShSuBDS8evehy0m6Zea-aHR-UNGYh5mIMIfcZ5PSuDqWH0ypiuIwEb30xiz-Qi8XhchIgzJZqChAPYC_rIPDLf8YaFmDX195FnvHhkXBzlVHb3f-WiI91YN1IMvJ7uHge7JbgTJnlSAD2xmqUuxakrgBCzGt3X09xX2lZOOaTBgFPe62pckc2kmeQERLwdluHaJjm1KEkWJkB-lvLrWRXkByD1DrOzUkozscgVKUSUuGPEuVi-GJOQz_CuYVgPSxlf9pgri4JRqFGzZMJ4kFE4Klp6cD85K9GSPnFYQTYhbWUgCXdWe8HfOu3OPa0ChMPOLlprAEiO34w.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-09T01:44:10+00:00"
-    },
-    {
-      "id": "tg:EMchina/32223",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32223",
-      "text": "[한투증권 중국/신흥국 정정영]  • 8월: 방향 전환에서 가속화로  >>  8월 월보를 작성했습니다. 전세계 하드웨어 테크 주식이 큰 변동성을 보인 가운데, 중국도 관련 업종 중심으로 조정이 컸습니다. 중국은 주식시장 하방 압력에 대응해 국가대표 자금을 투입하며 부양 의지를 드러냈고, 동시에 7월 정치국회의를 통해 하반기 거시정책 강화를 시사했습니다. 연초 이후 약해진 경제 회복 탄력을 끌어올릴 의지를 보여준 중국 정부는 상반기 상대적으로 보수적이었던…",
-      "images": [
-        "https://cdn5.telesco.pe/file/B9EsJ0ZAXCJMo5LOH3vKzPqgn81wclQp6qL0UJ0LvOmV5GlpAt_upM8Yka8mfdwurxOlMuDuqgXw8grtPjq0IobjMXovy72S1zZspkbxp5NWE6HujMC5vLPt_3qmTAXOaON5V2bRiru8ysWROZt7AJw4FJZvjFHPTMi7Y-9HyV9MvhXYnJTvLiRBOeHsI4-Bj_1TmLJOSlFQSLFcxkXHw3g8WMl72lACvgBR_CkTrUycNRgGpKbS3yPdNe9fg2G_c3gjMiWfoTwyAZtxVKubBHPBLCSznSLUToYb6vkmMo7dR7gQUeujfEhQQrMEzeF2TVY90f48qkYaV9saGmOXNg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-09T01:37:35+00:00"
     },
     {
       "id": "tg:globaletfi/21028",
@@ -1206,8 +1202,8 @@
       "url": "https://t.me/HI_GS/6858",
       "text": "🏹\n#LIG디펜스앤에어로스페이스\n「QoQ 계절성에 속지 마시길, 본질은 YoY」\n☞\nhttps://bit.ly/LIG2Q26RE\n▶️\nIssue: 2Q26 리뷰. 가이던스 상향, 중동 파이프라인 빠름 시사. 선호주 견지\n▶️\nPitch:\n> 2Q 영업이익은 YoY로 +30%나 성장\n: 그런데 1Q 강, 2~3Q 중, 4Q의 약을 계절성만 바라보며, 주가는 장중 17.65%나 하락\n: 사측은 연간 OPM 가이던스를 7% → 8%로 상향\n> 이러한 YoY 성장을 잔고만으로 2028~2029년까지 지속 예정. 탑라인 +15%씩 성장 가이던스\n- 무려 14조원 잔고에서 수출비중은 57%여서,\n1) 매년 매출 +15% x 2) 수출비중 증가로 2029년까지 긴 성장.\n3) 그 너머도 대형 파이프라인이 있고, 이를 담기 위한 CAPEX 진행 중\n> 수주 파이프라인: 중동 빠름, 동남아 확대, 유럽 침투\n- 중동은 전쟁에 지상방산처럼 지연되기보다는 빨라지는 느낌\n- 동남아~중동 순서 모르겠음\n- 유럽: 라인메탈을 통한 협력으로 진입\n▶️\nRationale: 보고서 참조\n---------------------------------------------------------------\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n✅\n컴플라이언스 승인을 득한 보고서입니다.\n---------------------------------------------------------------",
       "images": [
-        "https://cdn5.telesco.pe/file/KSBlZYvxv04DrvTBI58TcX8BQf6y1k4H6rRtsANHxdYg3-m8h8K_C-0bYN1DXvK5m2nibm1hqCGtgkx5a4g2pXvFF3I4B6QA2cz95jQUlMrf1jhLJVmA0SAiI_ZB7zRAX_6PhtaWBNbK1yaE5cVVaBKEfqxDPNbZvgFIfnqIhlIIlGqYsSq099_w8hx3mjiTCHe498RK2VlILlrUbnQtB1pLQUb51PvGZUj30Ur-a_l3M0XSiPJDkgW568h5gCPjmQuWR5STiViyLqeEZlhzq4J_aCs9xKXEKeTICt4VWkWy3zd7rt6ct6i1YepH0YNJAVdyjuJsNzzYkLS6pXl5TQ.jpg",
-        "https://cdn5.telesco.pe/file/h9xgfsjO6Ku8woAp8sOiCp-ERCs0X_eJ0MlCy1A6kVog6lRBAUkTaJ99htx3WFRlSGyZqVFUpdaw84AolmE8etG6cVQ22a48RUH_5DOfmmhZjZzNnNs4yWb_ExwGxChyJRxb8-Ln5A2jI0I_S0NZvvJP6DAR28TX6qBrlxPMTzKenhRKIdYgn_bZ29hc-gcKppJtzLbkgSKfb4QyRZ3m4iAk9fL-wJRNAPnOJW9pETJJs2LnbdHOY4DuWo0e9iK1UK0xo9fLbxQnuJ_8cWa9vgQibA9TLkdo1zmFbdGhvt3MFAtcqiAvnyWV16nhCS3DkaWXzN-Gd8rITK8IEYCcGg.jpg"
+        "https://cdn5.telesco.pe/file/vK2aAav6rUyS999TGabt8f-WttIk0df3y-I9pmaHYRTdMt1o4PHMdlJP5BUw7zjyirNaD8KspG7nZ4wxozPT9nM8LVpYFUGm3syFidtvu59QceW-ZVyD_Cuz84Dw_Aw-oVgx6IvGUUEWERVDXt23I9y0Sjsyf2LwUOZ-UKctwSLb-guOFGbUeawPWjqVXY2_1-X4LWlEs7LmkaSyGQzDMPDgAKQddQpBE7SuJL_iUEoluLH175c9Df3GnsFDDsmNmGV-peeymkGudpODFJAgCO1A-HrJfAVWCIp3NGl3YmcPSw4r_qWyph38tlRV8WC4c9qEyHKDiXeLwGtXZgjcuA.jpg",
+        "https://cdn5.telesco.pe/file/pPD76PRwIEU3bbWDXBToPbUvfQT0CCNpkkj7-yt1TySs3gEvHFKHbpZvZiGzEAQxJz6mgCbvoSqGrEg6_201A-iww0ziMDYZ513j1OYf3DuG8DzMiUHBFkaO3F5JQeojV3wpTJ6r5HFeSCByTrv4hIzcot0b9i_QR2igfUgKFUS2aI90h1-tTWDDoPyKFUFzTI7PoHUP5rKM8ex2DIcAQVDA8IJZEqYK8rr8hoOy0jDzqH6GQOKkPHAgZbCBWrewhPsSeZrxN0xRuxrMt6pz45XixrcCeo4NwB2-yKcoybFz6fe8Rl5W9xw0SDfxuMnU2Ord-bc0Def2E--kWlFnLA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-06T11:53:21+00:00"
