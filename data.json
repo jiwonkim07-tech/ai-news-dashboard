@@ -1,22 +1,46 @@
 {
-  "updated_at": "2026-08-09T08:41:59+00:00",
+  "updated_at": "2026-08-09T09:38:58+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 5
+    "new_this_run": 2
   },
   "briefing": {
-    "headline": "메모리 주식 조정 완료, 메모리 위기 지속",
+    "headline": "삼성 HBM4 '황금 수율' 달성",
     "bullets": [
-      "글로벌 LLM 토큰 지출 비용 40% 하락",
-      "SK하이닉스 분기별 DRAM 매출 전망",
-      "중국 굴삭기 판매량 35.3% 증가",
+      "메모리 주식은 AI 캐펙스 및 수요 업데이트",
+      "글로벌 메모리 TAM 및 수급 업데이트",
       "버크셔 해서웨이 현금 보유액 4년 만에 감소",
-      "애플, 알리바바 Qwen 모델 통해 애플 인텔리전스 사용 가능"
+      "애플, 알리바바 Qwen 모델 통해 인텔리전스 사용",
+      "SK하이닉스, 분기별 DRAM 매출 및 영업이익 전망"
     ],
-    "generated_at": "2026-08-09T08:41:59+00:00",
+    "generated_at": "2026-08-09T09:38:58+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19612",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19612",
+      "text": "삼성 HBM4 ‘황금 수율’ 달성…공급 늘린다\n4개월 앞당겨 수율 80% 도달\n연내 HBM 점유율 38% 목표\n삼성전자가\n올해 2월 세계 최초로 양산 출하한 6세대 고대역폭메모리(HBM)인 HBM4 수율이 80%에 이르면서 생산량이 늘게 됐다\n. HBM 품귀 속에 생산 공정 개선을 빠르게 추진한 결과다.\n9일 업계에 따르면\n삼성전자(005930)의 HBM4 수율이 최근 80% 선에 접근했다. 올 2월 양산 초기만 해도 수율은 60%를 밑돌았지만 반년 만에 극적인 수율 안정화를 이뤄낸 것이다.\n업계 관계자는 “당초 올 연말 수율 목표가 80%였는데 하반기 양산 물량이 본격 늘면서 공정 개선 속도가 예상을 뛰어넘었다”고 전했다.\n통상 반도체 업계에서 수율 80%는 ‘황금 수율’로 불린다\n. 불량률을 최소화해 안정적인 생산량을 확보하면서 수익성이 치솟는 기반이 되기 때문이다.\n삼성전자의 HBM4 공급 확대로 엔비디아의 인공지능(AI) 가속기인 ‘베라루빈’ 생산에도 탄력이 붙게 됐다.\n실제 삼성전자는 HBM4 수율이 빠르게 본궤도에 오르자 3분기 HBM4 매출을 전 분기 대비 3배 이상 끌어올리기로 했으며 하반기 전체 HBM 매출에서 HBM4 비중을 60% 이상으로 확대하겠다고 밝혔다\n. 삼성전자는 HBM4 수율이 안정화하자 연말까지 HBM 점유율을 자사의 D램 시장점유율(약 38%)과 비슷한 수준으로 끌어올린다는 목표도 설정한 것으로 전해졌다.\n이종환 상명대 시스템반도체공학과 교수는\n“엔비디아 등 주요 고객사 입장에서 특정 업체에 공급이 쏠리기보다는 여러 곳에서 납품받는 것이 유리하다\n”며\n“삼성전자가 HBM4 물량 확대를 지렛대 삼아 빠르게 시장 지배력을 높일 수 있을 것\n”이라고 내다봤다.\nhttps://n.news.naver.com/mnews/article/011/0004649994?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-09T09:22:01+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24462",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24462",
+      "text": "IRAN: THE STRAIT OF HORMUZ WILL NOT BE REOPENED UNTIL THE UNITED STATES ACCEPTS ALL OF OUR CONDITIONS. ...",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-09T08:42:04+00:00"
+    },
     {
       "id": "tg:globaletfi/21032",
       "source": "telegram",
@@ -488,18 +512,6 @@
       "published_at": "2026-08-09T01:14:11+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24448",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24448",
-      "text": "Citi Global Equity; The Case for Continued Broadening (2026.8.6)  1. 핵심 논지 Citi는 시장 주도권 확산(broadening)의 지속 가능성이 두 가지 축에 달려 있다고 봅니다. 첫째는 매크로 개선과 경기민감 섹터의 이익 상향으로 확인되는 광범위한 경기 사이클 개선이고, 둘째는 테크·AI 주도 장세의 일시적 숨 고르기로 여타 섹터의 상대성과가 따라잡을 수 있는 환경입니다. 다만 확산은 테크로부터의…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-08T15:15:48+00:00"
-    },
-    {
       "id": "tg:HI_GS/6864",
       "source": "telegram",
       "author": "HI_GS",
@@ -576,20 +588,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-08T07:23:33+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19598",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19598",
-      "text": "마이크론(Micron) - KeyBanc Capital Markets 기술 리더십 포럼\n2026년 8월 10일 오전 8:00\n(한국시간: 2026년 8월 10일(월) 오후 11:00 )",
-      "images": [
-        "https://cdn5.telesco.pe/file/S2kZcRuL7liML8m4S1-ohtUgVm7Y_0AKUhh7Tmi59W5TlkbPcZtqRNFs_a8pNdCjUG0KIhUXgvCrIWuYcXwYSSjqUPy7U_qynj_Ak8c1_RLkU718ackr81GmvR-lbUINzIkGL3gu6i2XYfUFfQWk6Aa5ySxLCWDlVFzK5EMbCVpFUkrd48rJz7J4F--5X-lX4s6i7dwHMCMbbaTEdV52DPG7sRkrBdiAWqF9Lncd9j-D13yvZjWRtHsclKWzdPu4k160lirAvuTccwey1Xx9oelfCwxMtQPUDjS_m-uqD0ztlKTftb1h-48X4fuHxdnxJn_vOSAEc3RUBtxwdRpFtw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-08T02:39:27+00:00"
     },
     {
       "id": "x:demishassabis:2085914742414061886",
@@ -1554,7 +1552,7 @@
       "url": "https://t.me/enc210406/4286",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 8월 3일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/kjb6AYmaGY092AY3J4Ap7puUYRPOpQDC0LH2jyrxC8ISXlNijQjDmopoMcoxIqaisRUVpRYa7IHwdPZGX2RwNa6qcTDrQN3MnJplsYUvqvKn-jy-0iAzS5SrOk8aQx7dGwX3LvbvDK4HPZO9FW4Vw8vQLI8ve1njUR7_COVQ0ReRDOtSZaCwtSX3qXfrZyfxq7nLDPgyt5b1U0K-Mpd9BqDsThENOteZBKjxaDgcdC1mafCNY4SeitTyBIVn1YAhloHBdSOvbgGaYzuhuu2gu-nIuueIECG1bn0bT6YK3UEew8luaeq7Fx8u_zud2HO3eTMZTlAxwTlj-S2sczUS9Q.jpg"
+        "https://cdn5.telesco.pe/file/nkNh6f3sXZc-JxHd9khluTLpDaBIYnnjnmy39Qy-mx9UGpOoAnMmriLgynzGLkH-ViqTqSMHo4CJRVNTcTY46L3JRzqrWYvpoVSVV77m9XQAtTX8RJYehAthy-gvZkEe1ZT9d5VAeVHi2L6glxg1NrZMa9bzg6VMNo0TnLvzYSkplevA2IsiOapp32-wgbTx_F94ZTB2AHtUy16GBxEX8dF00h7u-8lG6rQSgX6s3LhfGIv6OZ_emVg_Wpr2SX_XukLw_T_oYQtTV9BGDEXtCX0FlcUT7gbhNXqRJR3Jczh7ox1PJbFlV_OeEadegKoE_2uIIMC9Qn_bSIzJgB6h0w.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-03T10:30:11+00:00"
