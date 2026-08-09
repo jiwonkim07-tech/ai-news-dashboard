@@ -1,22 +1,34 @@
 {
-  "updated_at": "2026-08-09T09:38:58+00:00",
+  "updated_at": "2026-08-09T10:34:18+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 2
+    "new_this_run": 5
   },
   "briefing": {
     "headline": "삼성 HBM4 '황금 수율' 달성",
     "bullets": [
-      "메모리 주식은 AI 캐펙스 및 수요 업데이트",
-      "글로벌 메모리 TAM 및 수급 업데이트",
-      "버크셔 해서웨이 현금 보유액 4년 만에 감소",
-      "애플, 알리바바 Qwen 모델 통해 인텔리전스 사용",
-      "SK하이닉스, 분기별 DRAM 매출 및 영업이익 전망"
+      "글로벌 LLM 토큰 지출 비용 40% 하락",
+      "메모리 TAM 및 수급 업데이트",
+      "SK하이닉스 분기별 DRAM 매출 전망",
+      "중국 물가 둔화, 재정정책 가동 시사",
+      "우시앱택 2026년 매출 가이던스 상향"
     ],
-    "generated_at": "2026-08-09T09:38:58+00:00",
+    "generated_at": "2026-08-09T10:34:18+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/24463",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24463",
+      "text": "삼성 HBM4 ‘황금 수율’ 달성…공급 늘린다\n4개월 앞당겨 수율 80% 도달\n연내 HBM 점유율 38% 목표\n삼성전자가\n올해 2월 세계 최초로 양산 출하한 6세대 고대역폭메모리(HBM)인 HBM4 수율이 80%에 이르면서 생산량이 늘게 됐다\n. HBM 품귀 속에 생산 공정 개선을 빠르게 추진한 결과다.\n9일 업계에 따르면\n삼성전자(005930)의 HBM4 수율이 최근 80% 선에 접근했다. 올 2월 양산 초기만 해도 수율은 60%를 밑돌았지만 반년 만에 극적인 수율 안정화를 이뤄낸 것이다.\n업계 관계자는 “당초 올 연말 수율 목표가 80%였는데 하반기 양산 물량이 본격 늘면서 공정 개선 속도가 예상을 뛰어넘었다”고 전했다.\n통상 반도체 업계에서 수율 80%는 ‘황금 수율’로 불린다\n. 불량률을 최소화해 안정적인 생산량을 확보하면서 수익성이 치솟는 기반이 되기 때문이다.\n삼성전자의 HBM4 공급 확대로 엔비디아의 인공지능(AI) 가속기인 ‘베라루빈’ 생산에도 탄력이 붙게 됐다.\n실제 삼성전자는 HBM4 수율이 빠르게 본궤도에 오르자 3분기 HBM4 매출을 전 분기 대비 3배 이상 끌어올리기로 했으며 하반기 전체 HBM 매출에서 HBM4 비중을 60% 이상으로 확대하겠다고 밝혔다\n. 삼성전자는 HBM4 수율이 안정화하자 연말까지 HBM 점유율을 자사의 D램 시장점유율(약 38%)과 비슷한 수준으로 끌어올린다는 목표도 설정한 것으로 전해졌다.\n이종환 상명대 시스템반도체공학과 교수는\n“엔비디아 등 주요 고객사 입장에서 특정 업체에 공급이 쏠리기보다는 여러 곳에서 납품받는 것이 유리하다\n”며\n“삼성전자가 HBM4 물량 확대를 지렛대 삼아 빠르게 시장 지배력을 높일 수 있을 것\n”이라고 내다봤다.\nhttps://n.news.naver.com/mnews/article/011/0004649994?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-09T10:10:30+00:00"
+    },
     {
       "id": "tg:bornlupin/19612",
       "source": "telegram",
@@ -434,20 +446,6 @@
       "published_at": "2026-08-09T02:24:33+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24449",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24449",
-      "text": "BNP파리바가 본 한국 증시: 레버리지 청산은 끝나가는데, 살 이유가 없다\n-한국과 대만 합쳐 MSCI EM의 절반 가까이됨. EM 패시브 자금을 받는 구조적 수혜인 동시에, 반도체 사이클과 EM 자금 흐름에 지수 전체가 인질이라는 뜻.\n-한국 증시는 단일종목 레버리지 ETF 언와인딩으로 극도로 변동성이 높다는 것.\n-연초 이후 레버리지 포지션의 약 75%가 이미 청산됐다고 이야기함.\n-훼손 요인이 구조가 아니라 레버리지 언와인딩. EM 패시브 자금이 들어오면 기계적으로 수혜지만, 나가면 똑같이 기계적으로 맞는데 방향성을 못 주는 요인이라서 Overweight의 논거로 쓸 수가 없음.\n-Overweight를 줄 정도로 확신하기는 어렵지만 Underweight를 할 정도로 구조적 문제가 있는 것도 아니다라는 것.\n-한국 증시의 변동성을 펀더멘털과 포지셔닝으로 분리해서 봐야함.\n사진 출처: BNP Paribas Asian Equities View\n텔레그램:\nhttps://t.me/harveyspecterMike",
-      "images": [
-        "https://cdn5.telesco.pe/file/ke-i56Qi_oE0xJ5k0VBbemX99u8ey0ZOBsUxOmRKCk0YHukb6fqSsFWlJ6FxrpDn3xw5nqcTmTPCbKjvzKvyj2ki-MkJW-E2TQGxJuYmnKZAfZVbd3Ebnq1Awyqj6v4bIA9CjK6_TbFaCmMqWlkAyr9q3Ra3RY-AUatjgxm2TEadHqn4xbVtJxp6ctw3N4JOl0me15ZSE1xHdZZGWcClJjw9DGnOL1ezPS5YOAImdc-rtjHiacmBDHTpOQowJrSWiwtJKXE4iHpbICaf2KABWVqjnzVJrqqV8bYrP1S10odmfMWLfrxagAcJdUg6R_MYUUnROBDnWwP8hBL-YgbjPA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-09T02:24:23+00:00"
-    },
-    {
       "id": "tg:EMchina/32226",
       "source": "telegram",
       "author": "EMchina",
@@ -852,7 +850,9 @@
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2085740089011753248",
       "text": "R to @GoogleDeepMind: FInd out more → https://goo.gle/3Tvi61l",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2082959565700886528/Yu0kSsYS?format=jpg&name=800x419"
+      ],
       "summary_ko": "R에서 @GoogleDeepMind로: 자세히 알아보기 → https://goo.gle/3Tvi61l",
       "published_at": "2026-08-07T14:49:23+00:00"
     },
@@ -869,6 +869,20 @@
       ],
       "summary_ko": "우리는 Apollo 2와 함께 앉아 Gemini Robotics 2에서 달리는 것이 실제로 어떤 것인지 이야기를 나눴습니다. 🤖",
       "published_at": "2026-08-07T14:40:28+00:00"
+    },
+    {
+      "id": "x:ylecun:2085718976206676250",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2085718976206676250",
+      "text": "RT by @ylecun: The Mathematical Nexus brings together 800 animated vignettes and 140 accompanying Python notebooks, encompassing most of the mathematical content I have shared on social media. https://www.gpeyre.com/mathematical-nexus/",
+      "images": [
+        "https://pbs.twimg.com/media/HPH2QHyXsAAT2F2.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: Mathematical Nexus는 제가 소셜 미디어에서 공유한 대부분의 수학 콘텐츠를 포함하는 800개의 애니메이션 삽화와 140개의 Python 노트북을 함께 제공합니다. https://www.gpeyre.com/mathematical-nexus/",
+      "published_at": "2026-08-07T13:25:29+00:00"
     },
     {
       "id": "tg:globaletfi/21021",
@@ -988,7 +1002,7 @@
       "url": "https://x.com/sama/status/2085473085399150817",
       "text": "RT by @sama: Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more. https://www.youtube.com/watch?v=87DyyMV0kCY I hope it can answer a lot of the questions folks have, and we will release a full detailed postmortem at a later time!",
       "images": [
-        "https://pbs.twimg.com/card_img/2085465895007318016/-qjHVz8l?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2085475651696398336/sMBqp17U?format=jpg&name=800x419"
       ],
       "summary_ko": "RT by @sama: 어제 OpenAI 공동 작업자와 저는 Huggingface 사건, \"메시지 보드\"를 생성하는 모델, 모델 정렬 불량 등에 대해 자세히 설명했습니다. https://www.youtube.com/watch?v=87DyyMV0kCY 사람들이 궁금해하는 많은 질문에 답할 수 있기를 바랍니다. 자세한 사후 분석은 나중에 공개하겠습니다!",
       "published_at": "2026-08-06T21:08:24+00:00"
@@ -1043,9 +1057,7 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2085434718393418101",
       "text": "R to @OpenAI: Plus and Pro users can access the updated version of GPT‑5.6 Sol in ChatGPT along with the new slider starting today. This version of GPT-5.6 Sol is for everyday chats, so it will only be available in the Chat experience in ChatGPT. The version of GPT-5.6 Sol that powers Work and Codex is not changing as part of this release. https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2085411403020795904/h1IYDL57?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "R에서 @OpenAI로: Plus 및 Pro 사용자는 오늘부터 새로운 슬라이더와 함께 ChatGPT에서 GPT‑5.6 Sol의 업데이트된 버전에 액세스할 수 있습니다. 이 GPT-5.6 Sol 버전은 일상적인 채팅용이므로 ChatGPT의 채팅 환경에서만 사용할 수 있습니다. Work 및 Codex를 지원하는 GPT-5.6 Sol 버전은 이번 릴리스의 일부로 변경되지 않습니다. https://openai.com/index/improving-gpt-5-6-sol-in-chatgpt/",
       "published_at": "2026-08-06T18:35:57+00:00"
     },
@@ -1275,20 +1287,6 @@
       "published_at": "2026-08-06T05:03:35+00:00"
     },
     {
-      "id": "x:ylecun:2085180487702589914",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2085180487702589914",
-      "text": "RT by @ylecun: It was the verification problem all along, while the masses were distracted by the alignment problem. Recursive self improvement? How does the observer observe itself and know that it changed for the better or the worse when it is the moat in its own eye?",
-      "images": [
-        "https://pbs.twimg.com/card_img/2085098447443525633/_YSgS_NJ?format=jpg&name=800x419"
-      ],
-      "summary_ko": "RT by @yleun: 대중은 정렬 문제로 주의가 산만해진 반면, 그것은 항상 검증 문제였습니다. 재귀적 자기 개선? 관찰자는 자신의 눈에 있는 해자일 때 어떻게 자신을 관찰하고 그것이 더 좋게 또는 더 나쁘게 변했는지 알 수 있습니까?",
-      "published_at": "2026-08-06T01:45:43+00:00"
-    },
-    {
       "id": "tg:enc210406/4295",
       "source": "telegram",
       "author": "enc210406",
@@ -1495,9 +1493,7 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2084378418989379822",
       "text": "R to @OpenAI: The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2084405117994840064/Ny_Tdcks?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "R에서 @OpenAI로: 결과적으로 세션이 시작되는 순간부터 ChatGPT Voice를 통해 더 빠르고 자연스러운 대화가 가능해집니다. 구축 방법: https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
       "published_at": "2026-08-03T20:38:35+00:00"
     },
@@ -2178,9 +2174,7 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2079256626771665098",
       "text": "We're offering grants of up to $50,000 in Claude usage credits to researchers accelerating cures for rare diseases. This is our first focused call within AI for Science, our program supporting scientists using Claude to speed up discovery. https://www.anthropic.com/news/rare-disease-research-grants",
-      "images": [
-        "https://pbs.twimg.com/card_img/2084847713531670528/i78ktokG?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "희귀 질환 치료를 가속화하는 연구자들에게 Claude 사용 크레딧으로 최대 50,000달러의 보조금을 제공하고 있습니다. 이는 Claude를 사용하여 발견 속도를 높이는 과학자를 지원하는 프로그램인 AI for Science 내에서 처음으로 집중된 통화입니다. https://www.anthropic.com/news/rare-disease-research-grants",
       "published_at": "2026-07-20T17:26:25+00:00"
     },
