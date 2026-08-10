@@ -1,21 +1,95 @@
 {
-  "updated_at": "2026-08-10T03:54:49+00:00",
+  "updated_at": "2026-08-10T05:26:36+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 16
+    "new_this_run": 6
   },
   "briefing": {
-    "headline": "HD현대중공업, 9560억 美 데이터센터 발전설비 공급",
+    "headline": "엔비디아 베라 루빈, 원가의 62%는 메모리",
     "bullets": [
-      "엔비디아 베라 루빈, 원가의 62%는 메모리",
-      "대만 IC 기판·PCB 업계 7월 실적 대박",
-      "소니그룹-TSMC 쿠마모토에 1조엔 투자",
-      "키옥시아 홀딩스 실적 전망 상향"
+      "호주 희토류 광산업체, 미국 정부 지원",
+      "키옥시아 밸류에이션은 '장기계약 신뢰도'에 달림",
+      "HD현대중공업, 9560억 규모 美 데이터센터 발전설비 공급",
+      "대만 IC 기판·PCB 업계 7월 실적 대박"
     ],
-    "generated_at": "2026-08-10T03:54:49+00:00",
+    "generated_at": "2026-08-10T05:26:36+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19625",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19625",
+      "text": "2026.08.10 13:52:35\n기업명: 대동(시가총액: 1,940억) A000490\n보고서명: 연결재무제표기준영업(잠정)실적(공정공시)\n매출액 : 4,671억(예상치 : -)\n영업익 : 412억(예상치 : -)\n순이익 : 262억(예상치 : -)\n**최근 실적 추이**\n2026.2Q 4,671억/ 412억/ 262억\n2026.1Q 3,777억/ 60억/ -61억\n2025.4Q 3,293억/ -160억/ -421억\n2025.3Q 3,541억/ 4억/ -37억\n2025.2Q 4,146억/ 251억/ 68억\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260810800261\n회사정보:\nhttps://finance.naver.com/item/main.nhn?code=000490",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-10T04:55:24+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19624",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19624",
+      "text": "중국의 수출 규제 여파 속 호주 스칸듐 광산 업체, 미국 정부 지원받는다\n호주 스칸듐 광산 개발업체 선라이즈 에너지 메탈스(Sunrise Energy Metals)의 주가가 월요일 오전 거래에서 20% 급등\n했다.\n해당 기업이 미국 정부의 핵심 광물 프로젝트 지원 대상 후보에 포함된 데 따른 것\n이다.\nhttps://asia.nikkei.com/business/markets/commodities/australian-scandium-miner-gets-us-backing-as-chinese-restrictions-bite",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-10T04:54:45+00:00"
+    },
+    {
+      "id": "rss:semianalysis:ultra-high-interactivity-on-nvidia",
+      "source": "rss",
+      "author": "semianalysis",
+      "author_name": "SemiAnalysis",
+      "author_url": "https://semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia",
+      "text": "Ultra-High Interactivity on NVIDIA GPUs? - TileRT InferenceX\n\nCan TileRT software on NVIDIA GPU compete with Cerebras, Groq LPU, SambaNova? Batch Size 1, Disaggregated engine, high throughput engine Prefill, high interactivity engine decode",
+      "images": [
+        "https://substack-post-media.s3.amazonaws.com/public/images/735bcccf-dfa2-41ea-85f6-131b781511cc_1376x768.png"
+      ],
+      "summary_ko": "NVIDIA GPU의 매우 높은 상호작용성? - TileRT InferenceX\n\nNVIDIA GPU의 TileRT 소프트웨어가 Cerebras, Groq LPU, SambaNova와 경쟁할 수 있습니까? 배치 크기 1, 분리된 엔진, 높은 처리량 엔진 사전 채우기, 높은 상호 작용성 엔진 디코드",
+      "published_at": "2026-08-10T04:51:35+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19623",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19623",
+      "text": "미국, 중국 의존도를 낮추기 위해 호주 희토류 광산업체 지원\nhttps://www.ft.com/content/d88b7e46-6806-4286-94d7-3bb16facee41?syn-25a6b1a6=1",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-10T04:51:07+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24473",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24473",
+      "text": "FT) 미국-이란 전쟁의 고유가로 하이브리드 수요가 급증, 전기차는 혜택이 줄어들며 외면받고 있어\n이란 사태로 미국 휘발유 가격이 높은 수준을 유지하면서 하이브리드 수요가 급증했고, 토요타와 현대차를 비롯한 아시아 완성차 업체들이 그 수혜를 보고 있습니다. RBC 캐피털 마켓에 따르면 7월 미국 전체 신차 판매는 전년 동월 대비 1.5% 감소했음에도 하이브리드 판매는 20% 가까이 늘었습니다. 조지아주의 대규모 신설 EV 공장 일부를 하이브리드 생산용으로 전환한 현대차는 7월에 하이브리드 43,727대를 판매해 전년 대비 62% 증가했고, 세그먼트 선두인 토요타는 22%, 혼다는 15% 증가를 기록했습니다. 바움 앤드 어소시에이츠에 따르면 이들 아시아 3사가 미국 하이브리드 시장 점유율의 86%를 차지하며, 나머지 대부분은 포드 픽업이 채우고 있습니다.\n프리우스와 같은 전통적 하이브리드는 운전이나 주유 습관을 바꾸지 않고도 높은 유가 부담을 덜어주는 반면, 배터리 용량이 커 수십 마일을 전기만으로 주행할 수 있는 플러그인 하이브리드는 독일 업체들의 고급 모델을 포함해 미국 소비자들에게 외면받아 전체 시장의 2%에도 미치지 못하고 있습니다. 에드먼즈의 인사이트 총괄 제시카 콜드웰은 하이브리드가 소비자들이 원하는 최적점을 제공하고 있다고 평가했습니다. 미국자동차협회 기준 미국 평균 휘발유 가격은 갤런당 4.06달러를 소폭 웃돌며 1년 전보다 3분의 1가량 올랐지만, 트럼프 행정부가 지난해 7,500달러 규모의 전기차 소비자 세액공제를 폐지한 이후 전기차 판매 회복으로는 이어지지 않고 있습니다. 에드먼즈에 따르면 테슬라 소유주들이 다른 어떤 전기차 소유주보다 높은 비율로 비전기차로 갈아타고 있으며, 21%가 하이브리드로 교체해 사상 최고치를 기록했고 그 대체 차종의 17% 이상이 토요타였습니다.\n반면 하이브리드에 소극적이었던 디트로이트 업체들은 전기차 판매 급감에 직면했습니다. 하이브리드 모델이 두 종에 불과한 제너럴 모터스는 2분기 전기차 판매가 전년 대비 33% 감소했고, 포드는 내년 저가형 전기차 아키텍처 출시를 앞두고 기존 모델을 정리하면서 7월 전기차 판매가 75% 급감했습니다. GM은 하이브리드 라인업 재도입을 검토 중이며, 매버릭과 F-150 하이브리드로 비교적 성과를 낸 포드는 2030년까지 모든 내연기관 라인업에 하이브리드 옵션을 제공할 계획입니다. 포드와 GM은 지프, 닷지, 램을 보유한 스텔란티스와 함께 소형 엔진이 발전기 역할만 하며 배터리를 충전하는 주행거리 연장형 전기차 출시를 서두르고 있는데, 이 기술은 견인력과 주행거리를 동시에 개선해 미국 시장에서 비중이 커지는 픽업트럭에 특히 적합한 것으로 평가됩니다.\n트럼프 행정부의 배기가스 규제 완화는 전기차 전환 지연으로 수백억 달러의 상각을 떠안았던 디트로이트 업체들에 숨통을 틔워줬고, 포드와 GM은 대형 트럭과 SUV 수요에 힘입어 지난달 연간 이익 전망을 상향했습니다. 콕스 오토모티브는 소비자들의 경제적 압박에도 불구하고 올해 미국 신차 판매가 1,600만 대에 이를 것으로 전망하며, 이는 2026년 초 예상치였던 1,580만 대를 웃도는 수준입니다. 콕스의 수석 이코노미스트 찰리 체스브로는 좀처럼 내려가지 않는 유가와 역사적으로 취약한 소비자 신뢰에도 신차 구매가 위축되지 않았다고 지적하면서, 다만 현재 시장을 이끄는 주체가 인플레이션과 경기 불확실성의 영향을 덜 받는 부유층 구매자라는 점을 덧붙였습니다.\nhttps://www.ft.com/content/c15abecc-5f9a-4f7b-92e2-8c99f9ea3ae5?syn-25a6b1a6=1",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-10T04:28:14+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24472",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24472",
+      "text": "미즈호) 브로드컴; CoPoS/EMIB 기반 대규모 TPU 스케일링 - OAI, META, ARM 업사이드 (2026.8.9)\n투자의견 Outperform 유지, 목표주가 530달러 유지. F27E EPS를 19.49달러에서 21.27달러로, F28E EPS를 25.88달러에서 30.65달러로 상향했습니다. AVGO는 F27/28E EPS 기준 20배/14배에 거래되고 있으며, 매출은 전년 대비 74%/42% 성장할 전망입니다.\n미즈호는 GOOGL-AVGO 관계를 핵심 논점으로 제시합니다. 시장에서는 구글이 훈련/추론 물량을 미디어텍(MTK)으로 이전할 가능성을 논쟁 중이지만, 미즈호는 AVGO가 가장 강력한 TH6/Jericho SerDes/스위치를 보유해 1000-1M XPU 네트워킹(200G/레인)과 SerDes/ASIC/패키징을 지배하고 있어 5년 LTA 기반의 끈끈하고 내구성 있는 관계가 유지된다고 봅니다. 구글이 MTK의 저가 칩을 추가하더라도 AVGO는 70% GM의 프리미엄 가격을 유지할 수 있는 반면 MTK는 20-40% GM에 그칩니다(추론칩의 경우 20-25% GM으로 압박 전망). 가장 유력한 시나리오는 AVGO-GOOGL TPU가 2028E 1,800만개 이상으로 램프되고 AVGO가 약 50% 점유율을 확보하는 것이며, 훈련/추론 칩 점유율과 무관하게 2028E 3,500만개 TPU까지의 업사이드에 AVGO가 잘 포지셔닝되어 있다고 평가합니다. 특히 구글의 구매약정(10Q)이 TPU향 800억달러 이상으로 대폭 확대되고 있으며, 향후 12개월 TPU 인도액은 약 2,000억달러로 추정됩니다.\n2028E 2,000만~3,500만개 TPU를 견인하는 요인은 CoPoS(Chip-on-Panel-on-Substrate)와 EMIB-T 램프입니다. TSMC의 CoWoS 캐파는 2026년말 140kwpm, 2027년말 200kwpm 이상으로 공격적으로 확대되고 있으며, CoPoS는 CoWoS 대비 약 5배 큰 표면적과 9.5배 이상의 레티클 사이즈 한계를 제공해 5-10배의 ASIC/GPU 산출 확대가 가능합니다. CoWoS(R/L) 로드맵은 현재 5.5배에서 2027/28E 9.5배로, CoPoS는 2029E까지 14배(ex-5)로 확대되고, 인텔 EMIB-T는 10-12배 레티클을 제공하며 핵심 파트너 이비덴(\n4062.JP\n)의 트랙션이 강해 2028E EMIB-T 기반 약 300만개 TPU가 가능할 전망입니다. CoPoS 기반 제품은 전력소비를 0.3pj/bit(EMIB 기준)까지 낮춰 고객에게 약 50%의 전력 절감을 제공합니다.\n고객사별 ASIC 물량 전망을 보면, 구글이 2025년 약 151만개에서 2029E 845만개로, Anthropic이 2026E 208만개에서 2029E 780만개로 성장하며 양사가 AVGO의 주력 드라이버가 됩니다. Meta는 2029E 347만개, OpenAI 289만개, Apple 87만개, xAI 80만개, ARM 116만개 등으로 파이프라인이 확장되며, 총 ASIC 물량은 2025년 263만개에서 2029E 2,888만개로 5년 CAGR 66%(14.5배) 성장을 전망합니다. AVGO의 AI 매출은 2026E 720억달러, 2027E 1,410억달러, 2028E 2,250억달러로 2025-28E CAGR 109%에 달하며, 이는 NVDA 다음 2위 AI 가속기 사업자 지위를 공고히 하는 수준입니다. MTK는 2029E에도 AI ASIC 시장의 10% 미만에 머물 것으로 추정합니다.\n기술 측면에서 구글 TPU v8은 대규모 훈련용 v8t와 저지연 추론용 v8i로 분화됩니다. v8t는 12.6 FP4 PFLOPS, 6.5TB/s 216GB HBM, 128MB SRAM, SparseCore 가속, 3D 토러스 인터커넥트를 갖추고 9,600칩 슈퍼팟이 121 FP4 ExaFLOPS와 2PB 공유 HBM을 제공합니다. v8i는 서빙/추론/포스트트레이닝용으로 10.1 FP4 PFLOPS에 메모리를 288GB HBM(8.6TB/s), 384MB SRAM으로 확대해 대형 KV 캐시를 지원합니다. TPU 8i는 SparseCore를 신형 CAE(Collectives Acceleration Engine)로 대체하고 Boardfly(3D 토러스 대체) 네트워킹을 채택해 온칩 집합통신 지연을 최대 5배 줄이고 시스템 네트워크 직경을 16홉에서 7홉으로 축소했으며, 양 칩 모두 Arm 기반 Axion 호스트를 사용해 Ironwood 대비 와트당 성능이 최대 2배 개선됩니다.\n토큰 비용 관점에서는 Claude가 토큰당 2-6달러, ChatGPT 1-3달러, Gemini 0.4-0.5달러, Deepseek 0.03달러로, 비용 격차 속에서도 Claude가 정보·인텔리전스의 프리미엄 구간을 견인하고 있으며, 저가 토큰으로 갈수록 정보 품질이 급격히 하락한다고 지적합니다. GPU와 ASIC 비용 하락 압력이 프론티어 LLM 및 오픈소스 모델 간 토큰 비용 경쟁의 핵심 동인이 될 전망입니다.\n결론적으로 미즈호는 AVGO가 2026E 약 700만개, 2027E/2028E 1,100만/1,800만개로 램프되며 GOOGL+Anthropic발 2027E/2028E 매출 960억~1,260억달러를 창출하고, TPU 물량이 3,500만개에 도달할 경우 2028E 추정치 대비 2배 이상의 업사이드가 가능하다고 봅니다. AI ASIC 시장에서 상당한 할인 밸류에이션에 거래되는 최적 포지션 종목으로 AVGO를 제시하며, AMD(Outperform, PT 580달러), INTC(Neutral, PT 109달러), NVDA(Outperform, PT 300달러) 의견도 유지했습니다.\n*클로드로 요약함.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-10T04:23:14+00:00"
+    },
     {
       "id": "tg:HI_GS/6870",
       "source": "telegram",
@@ -567,18 +641,6 @@
       "published_at": "2026-08-09T12:32:58+00:00"
     },
     {
-      "id": "tg:bornlupin/19613",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19613",
-      "text": "받) SK하이닉스, 8월 말 100조 주주환원책 발표\n금융 출입 기자들 정보에 의하여 9월 말 발표하기로 했던 하이닉스의 추가 주주환원책이 8월 안으로 한 달 당겨질 가능성이 높다고 (26일 유력)\n추가 주주환원책 규모가 100조 수준으로 크기 때문에 이번 분기별 배당은 금액을 낮춰서 집행 규모를 조절, 주가 대비 분기 배당금 375원에 대한 시장의 실망 반응을 예상했지만 곧 이어질 주주환원책 금액이 상당해 전체적인 균형을 맞췄다는 설\n특별 환원 재원을 위해 분기 배당금은 최대한 낮추되 삼성전자 2분기 배당금 374원보다는 1원이라도 높게 하자고 해서 375원이 됐다는 후문\n구체적으로 하이닉스는 자사주 매입 40조와 현금 배당 60조를 합쳐 100조원의 주주환원책을 발표 준비 중. 자사주 매입은 40조(전체 주식의 2%대 초중반)로 미국 ADR 상장을 위해 발행한 신주 물량(전체 주식의 2.5%)과 비슷한 수준으로 맞춰 당시 상장으로 인해 발생한 주주 부담을 상쇄시키겠다는 복안\n특별 현금 배당은 60조로 하이닉스 내부에서 확실시하는 올해 총 영업이익 규모가 250조 이상이며 해당 금액에 대략 25%(+-@) 비율을 적용해 특별 현금 배당으로 책정. 이는 한국경제의 보도 내용과도 일치하는 상황\n원래 하이닉스보다 먼저 발표할 것으로 예상된 삼성전자도 하이닉스가 서둘러 치고 나가 8월 내 주주환원책을 발표함에 따라 비슷한 시기인 8월 말 9월 초 즈음 발표하기로 했다고 함",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-09T12:30:11+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/24465",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -632,18 +694,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-09T10:10:30+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19612",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19612",
-      "text": "삼성 HBM4 ‘황금 수율’ 달성…공급 늘린다\n4개월 앞당겨 수율 80% 도달\n연내 HBM 점유율 38% 목표\n삼성전자가\n올해 2월 세계 최초로 양산 출하한 6세대 고대역폭메모리(HBM)인 HBM4 수율이 80%에 이르면서 생산량이 늘게 됐다\n. HBM 품귀 속에 생산 공정 개선을 빠르게 추진한 결과다.\n9일 업계에 따르면\n삼성전자(005930)의 HBM4 수율이 최근 80% 선에 접근했다. 올 2월 양산 초기만 해도 수율은 60%를 밑돌았지만 반년 만에 극적인 수율 안정화를 이뤄낸 것이다.\n업계 관계자는 “당초 올 연말 수율 목표가 80%였는데 하반기 양산 물량이 본격 늘면서 공정 개선 속도가 예상을 뛰어넘었다”고 전했다.\n통상 반도체 업계에서 수율 80%는 ‘황금 수율’로 불린다\n. 불량률을 최소화해 안정적인 생산량을 확보하면서 수익성이 치솟는 기반이 되기 때문이다.\n삼성전자의 HBM4 공급 확대로 엔비디아의 인공지능(AI) 가속기인 ‘베라루빈’ 생산에도 탄력이 붙게 됐다.\n실제 삼성전자는 HBM4 수율이 빠르게 본궤도에 오르자 3분기 HBM4 매출을 전 분기 대비 3배 이상 끌어올리기로 했으며 하반기 전체 HBM 매출에서 HBM4 비중을 60% 이상으로 확대하겠다고 밝혔다\n. 삼성전자는 HBM4 수율이 안정화하자 연말까지 HBM 점유율을 자사의 D램 시장점유율(약 38%)과 비슷한 수준으로 끌어올린다는 목표도 설정한 것으로 전해졌다.\n이종환 상명대 시스템반도체공학과 교수는\n“엔비디아 등 주요 고객사 입장에서 특정 업체에 공급이 쏠리기보다는 여러 곳에서 납품받는 것이 유리하다\n”며\n“삼성전자가 HBM4 물량 확대를 지렛대 삼아 빠르게 시장 지배력을 높일 수 있을 것\n”이라고 내다봤다.\nhttps://n.news.naver.com/mnews/article/011/0004649994?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-09T09:22:01+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/24462",
@@ -732,18 +782,6 @@
       "published_at": "2026-08-09T07:17:54+00:00"
     },
     {
-      "id": "tg:bornlupin/19611",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19611",
-      "text": "블룸버그)레버리지 거래 해소로 한국 증시 변동성 완화\n강제 청산으로 레버리지 포지션이 줄어들고 강화된 규제로 고위험 상품 거래가 억제되면서, 한국 주식 시장 혼란의 가장 심각한 고비는 지났을 수 있다고 블룸버그가 보도했습니다.\n한국 증시의 변동성 지수는 지난 6월 사상 최고치를 기록한 후 지난주 2개월 만에 최저치로 떨어졌습니다. 모건스탠리는 시장의 디레버리징(부채 축소) 과정이 현재 절반 이상 완료된 것으로 추정했습니다.\n코스피 지수는 레버리지가 시장의 급격한 변동을 증폭시키면서 6월 고점 대비 약 40% 하락했었습니다. 변동성 지표는 2025년 말 28.9에서 6월 96.9까지 치솟았습니다.\n8% 하락 시 발동되는 한국의 20분간 시장 전체 거래 정지(서킷브레이커)는 7월에만 역대 최다인 4차례 발동되었습니다. 코스피는 7월 31일의 기록적인 18% 급등을 포함해, 7월 거래일의 절반 가까이 최소 5% 이상 움직였습니다.\n금융 당국은 7월 31일부터 단일 종목 레버리지 상장지수펀드(ETF)의 현금 증거금 요건을 인상하며 대응에 나섰습니다\n. 이후 삼성전자 및 SK하이닉스와 연계된 레버리지 상품의 거래량과 자산 규모가 감소했습니다.\n강제 청산(반대매매)은 개인 계좌에서 6월 약 1조 원(7억 1,000만 달러), 7월 또 다시 9,930억 원에 달하는 영향을 미쳤습니다. 미상환 신용융자 잔고는 8월 4일 기준 27조 4,000억 원으로 줄어들며 올해 최저치를 기록했습니다.\n외국인 투자자들의 이탈세는 완화되었으나 여전히 한국 주식을 매도하고 있습니다. 해외 자금은 6월 사상 최대 규모인 300억 달러를 이탈시킨 데 이어 7월에는 62억 달러, 8월 초에는 43억 달러를 순매도했습니다.\n투자자들은 지속되는 변동성과 한국 반도체 기업들의 낮아진 밸류에이션 및 견조한 실적 전망 사이에서 가중치를 재고 있습니다. 현재 코스피는 12개월 선행 주가수익비율(PER) 5.1배라는 사상 최저 수준에서 거래되고 있습니다.\n골드만삭스는 코스피의 12개월 목표치로 12,000을 유지했으며, 이는 금요일 종가 대비 약 90%의 상승 여력이 있음을 의미합니다.\n애버딘(Aberdeen)의 펀드매니저 아이작 통(Isaac Thong)은\n\"긍정적인 시각을 갖기 시작했지만, 변동성이 여전히 높기 때문에 아직 완전히 안심하기는 이르다\"\n라고 말했습니다.\nhttps://www.bloomberg.com/news/articles/2026-08-09/korea-volatility-spike-ebbs-as-leveraged-trades-are-flushed-out",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-09T07:06:43+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/24460",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -768,34 +806,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-09T05:38:53+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24456",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24456",
-      "text": "JP모건) 글로벌 메모리 TAM 및 수급 업데이트: 주가 조정은 지나갔으나 메모리 위기는 여전히 진행 중입니다\n1. 가격과 물량 양쪽에 힘입은 메모리 TAM 상향, 수급 부족은 향후 2년간 지속됩니다.\nCoWoS 및 신규 PC/서버 가정을 반영하여 저희는 FY26~28년 예상 메모리 TAM을 4~8% 상향(2026년 5월 모델 대비)하며, 수급 부족이 지속될 것으로 예상합니다(부족 정도는 FY27년 예상 시점에 심화된 후 FY28년 예상 시점으로 가면서 소폭 개선). 메모리 비드-투-서플라이 비율은 내년에도 여전히 70~80% 수준이며(팬데믹 정점 당시 90% 대비), 저희가 새로운 전망치를 제시함에 따라 탑재량 성장 둔화와 사양 조정은 자연스러운 다음 수순입니다(표 9). 가장 큰 폭으로 수정한 부분은 HBM으로, 8단 제품 사이클의 장기화, 12단 램프업 지연, 16단 채택 지연을 반영하는 한편 내년 가격 전망은 전년 대비 +42%로 상향했습니다. GPU에서 CPU로 확산되는 메모리 수요는 투자자들이 과소평가해 온 것으로 보이며(개념적으로는 잘 알려져 있으나 실제 수급 영향은 간과됨), 수요에 대한 잠재적 상향 조정의 핵심 원천으로 남아 있습니다.\n2. 메모리 스케일아웃: 더 많은 토큰을 처리하기 위한 탑재량 최적화입니다. 저희는 SOCAMM(CPU당 1.5TB에서 768GB로)과 루빈 울트라(16단 HBM4E에서 8단/12단 HBM4E로 하향)의\n메모리 탑재량 하향 조정을 고객사들이 공급 부족에 대응하고 더 긴 컨텍스트 윈도우 및 AI 추론 애플리케이션을 위해 더 많은 토큰을 처리하기 위한 수단\n으로 봅니다. 메모리 탑재량 최적화 자체가 부정적인 수요 요인이라는 점에 대해서는 이견이 없으나, 더 많은 AI 실리콘 생산(GPU 및 베라/로사 CPU)이 그 약세를 상쇄할 것이라고 주장합니다(AI CPU 유닛 TAM은 연평균 155% 성장 예상). 공급과 수요 성장률 간 두 자릿수 갭에서 비롯되는 부족 정도는 소폭 축소되고 있으나, 저희는 메모리 펀더멘털에 미치는 영향은 제한적이라고 봅니다. 공급 위기의 본질은 변하지 않았으며, 저희는 에이전틱 AI 관련 메모리 수요 성장 전망에 대해 계속 낙관적입니다.\n3. CSP 캐펙스 내 메모리 밸류 셰어 우려는 2026년 2분기 실적 발표 이후 다소 완화되었습니다. 주요 미국 하이퍼스케일러들은 강력한 클라우드 매출 성장 모멘텀을 발표했으며(AWS/MSFT/GCP 합산 2026년 2분기 매출 1,060억 달러, 전년 대비 +43%, 성장률은 전분기 +35%, 1년 전 +23%에서 지속적으로 가속화), 올해와 내년에 대한 공격적인 지출 의지를 전달했습니다(3개 CSP 및 메타에 대한 컨센서스 캐펙스는 실적 발표 후 6%/17% 상향). 이는 메모리 밸류 게인 잠재력에 우호적인 환경을 조성하며,\n저희는 메모리 밸류 셰어가 AI 이전 시대의 10% 미만에서 2026년/27년 예상 31%/49%로 상승할 것으로 전망\n합니다. 투자자들과의 대화에서 다수는 AI 컴퓨팅 시스템에서 메모리가 갖는 역할의 중요성을 인정하며 더 높은 밸류 셰어에 동의했습니다. 다만 일반적으로 \"50% 이상\"이라는 밸류 셰어 수치는 투자자들에게 과도한 수준으로 받아들여졌으며,\n저희는 투자자들이 AI 캐펙스 트레이드 논리를 보다 지속 가능하다고 보기 위해서는 추가적인 하이퍼스케일 캐펙스(즉, CSP 캐펙스 내 메모리 밸류 셰어가 50%를 크게 하회하는 수준)가 필요할 것으로 판단합니다.\n4. 다수의 캐파 증설로도 수요 성장을 앞지르기에는 부족\n합니다. 주요 메모리 업체들이 부족 완화를 위해 캐파를 앞당기고 있으며, 저희는 DRAM WSPM이 2025년 실적 기준 말 190만 장에서 2028년 말 285만 장에 이를 것으로 전망하나, 착공에서 양산 램프업까지 2~2.5년의 리드타임으로 인해 예상 수요에는 여전히 미치지 못합니다. HBM 다이 페널티(3~4배 페널티)와 HBM 믹스 확대(2028년 예상 말 기준 캐파 믹스 32%)는 24%의 공급 성장을 제약할 요인입니다. 저희 추정에 따르면 2028년 예상 시점에 수급이 균형을 이루려면 30만 장의 추가 웨이퍼 캐파가 필요하며, 그 가능성은 낮다고 봅니다.\n5. LTA 세부 내용 파악. 2026년 2분기 LTA(장기공급계약)는 메모리 업체들에 유리한 조건을 드러냈으며, 선급금 비중(LTA 가치의 20~25%)은 강한 협상력을, 대규모 물량 기여도(50~70%)를 나타냈습니다. 불투명한 가격 구조는 여전히 빠져 있는 퍼즐 조각이지만, 저희는 유연한 가격 구조가 메모리 업체들로 하여금 현재의 부족 장세를 활용할 수 있게 해 줄 것으로 보며, 다만 가격 곡선은 보다 완만해질 것입니다(2026년 예상 235% 급등 이후 DRAM ASP는 2027년/28년 예상 시점에 29%/7% 상승). 또한 LTA의 대부분이 AI/서버 컴퓨팅을 중심으로 하며 나머지 대비 30~40%의 가격 프리미엄을 수반한다는 점도 중요합니다.\n6.  플래시 메모리 서밋 2026은 AI \"메모리 월\"이 여전히 주된 병목이라는 점을 재확인시켰습니다. 더 긴 컨텍스트 길이, KV 캐시, 에이전틱 워크로드, 그리고 메모리 비용 부담(DRAM/HBM 양쪽 모두)에 힘입어 저비용 메모리/스토리지 계층에 대한 관심이 가속화되는 것을 목격했습니다. 이는 NAND 기반 솔루션(eSSD 및 새롭게 부상하는 High Bandwidth Flash, HBF)에 명확히 긍정적이며, 특히 CXL 메모리 풀링/오프로드를 통해 기존 DRAM(DDRx/LPDDRx)에도 완만하게 긍정적입니다. 주요 테마는 HBM과 SSD 사이에 새로운 계층을 위치시키는 HBF와 같은 차세대 메모리 아키텍처였으며, 적층 NAND(8단/16단)로 최대 512GB 용량과 약 0.4~3TB/s 대역폭을 목표로 하되 생태계/소프트웨어 지원이 핵심 관건으로 남아 있습니다. 다른 접근법으로는 연산 집약적 프리필(HBM XPU)과 메모리 집약적 디코드(HBM 및/또는 HBF)의 시스템 수준 분리가 있습니다. 스토리지 측면에서는 엔비디아 SCADA(GPU 다이렉트 투 eSSD)와 CMX(GPU→DPU→eSSD)와 같은 eSSD 아키텍처가 워크로드별로 레이턴시/대역폭을 최적화하는 것을 목표로 합니다. 종합하면, 추론 단계의 메모리 제약은 (CXL을 통한) DRAM 수요를 끌어올리고, 잠재적으로는 GPU 인접 메모리 및 고속 스토리지용 NAND 수요도 확대시킬 것입니다.\n7. 투자 의견 - 2026년 3분기는 기대치 리셋 분기가 될 가능성이 높으나, 저희는 메모리에 대해 여전히 강세 시각을 유지합니다. 전체 AI 생태계를 상회하는 4개 분기의 강력한 아웃퍼폼 이후(그림 6), 메모리 주식은 2026년 3분기 현재까지 25% 조정을 겪었으며, 이는 주로 다음과 같은 요인들 속에서 형성된 피크아웃 센티먼트에 기인합니다. a) 단기 EPS 기대치의 연이은 하회, b) 예상보다 더딘 CSP AI 캐펙스 집행, c) 메인스트림 메모리 탑재량 최적화입니다. 저희는 주가 상승에 따른 밸류에이션 리레이팅으로 가는 길이 EPS 상향 조정 대비 시간이 걸릴 것임을 인정합니다. 다만 LTA에 따른 완만해진 이익 궤적과 개선된 주주환원 프로파일을 감안할 때, 이익 및 P/E 밸류에이션 지표 기준으로 거래되는 메모리 주가에 강한 상승 여력이 있다고 봅니다. 저희는 글로벌 메모리 커버리지 전반에 대해 비중확대(OW) 의견을 유지합니다. 한국 메모리(단기적으로 삼성전자 > SK하이닉스), 미국의 마이크론, 일본의 키옥시아, 대만의 NYT/윈본드입니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/r36iUjdTxYuvRjmzK-MuxELk33NS3ns-FwkCW-UukrQK6_lCTwDnNneV3JfSMdI732WxmL4F5xVUAznXggDDuil6gXkY2KM6JakFxwr2dXminGJJQ18Z1I2YDAKpEY_UZ1AMJhLT1Sa4uKicn92LWH0_bZoHgK-bgqnBRdHCpo5IsD_7rMFPzZ7FPvESHF_t-sjOOpKZM3cDE6toBsH3VQfk5DjfY-IHtP18tebNvuzpyrUXP4efzUyZGUggJLDKn6DFoZy4QWXon6unj2jQeGz_FOVUOEULLsksWcysCHz9ZEbJZGE29PhmKC8m41-nTi4cKUIQCICNR39H41BAHA.jpg",
-        "https://cdn5.telesco.pe/file/gC3ePIdTk_nnrG7Oi6flTW76pgsvmGxFlGbLEVSYi58tKjH_-mNSwe1mDa19kLbmViIBTHW79yrimbUB4gIfFb-_7vQFtj18EhT2LUKiycYyTHW5AQymvYCzUiEsWCvKchrIjQSIqNfJ-hUFxE0RUSPm6qxRqerm3bBh6ipkq751Su9ikIwUS9zR6gxnp5Q4_ADtTU1jPk-Wad9gUzULea0DC_LuyS8g86jgOjVvUa9nM99wGzEeULpGTXfNkbEWasWyBMsw_xZSDJlpbfFaK1cmpaWzeqpvfSNPS_zOxQxsPBa4dkBMf4jqJ1Wh-ufkZYL-SYHPl2Erqb1kcMFQfw.jpg",
-        "https://cdn5.telesco.pe/file/fIOWqlXQF0Evx8Oz7KaGN0XZUxfvnUWuzdymGPNsvUvH3xquwmRyGqeTDmqYztvcSR4kDL3zqSHL6Q_GZJesh8lUxpuADs2dJB-BhrJ3U-wGh66t7gr9RXhgwKrEWQje_qlNPiAM6s9WmitBSFr3nYrpRZXR_khA-9f2WJPAiZ2ftM9wax4iQf1z4l9e8ex9BrRDMopol1M-qatBR4wP_pN-S0OdQ6w_pczMbT5wxBkoEC6sN5tupxcoX7S1KtV2BKOUFmdVtxrhP25Rl7vNjWMo2_9cc7hzqrarTDXUo6aMuSHP5ANqvC6sLESClaEJL5dyvHfKjpfqzaGu60AM3w.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-09T05:38:46+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24455",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24455",
-      "text": "JP모건) SK하이닉스; 주요 투자자 질문에 대한 답변\nSK하이닉스 주가는 이번 주 15% 하락했습니다(코스피 -5%, 삼성전자 -9% 대비). 이는 다음과 같은 여러 시장 헤드라인에 기인합니다. (1) HBM 탑재량 축소 및 가격 불확실성 리스크, (2) 자회사 IPO 추진 가능성이 거론되는 가운데 주주환원 시점이 불명확하다는 점, (3) 대규모 인프라 캐펙스 계획 공시입니다. 저희는 HBM 탑재량 정상화가 과도한 칩 부족 상황에 대응하기 위한 필수적인 단계라고 판단하며, 50% 할인 관련 헤드라인은 정확하지 않다고 봅니다. 인프라 투자에 대한 헤드라인 캐펙스 계획은 실제로 규모가 크지만, 이는 2030년 예상 시점까지 100만 웨이퍼 캐파를 달성한 이후 신규 팹 공간을 우선 확보하고 준비하려는 SK하이닉스 팀 계획의 일부입니다.\nSK하이닉스 경영진이 다음 달 말까지 새로운 주주환원 계획을 공시하겠다는 명확한 의사를 밝힌 만큼, 저희는 최악의 국면은 지나갔다고 판단하며 중기적 관점에서 주가 센티먼트가 점진적으로 개선될 것으로 예상\n합니다. 다음 주요 개별 기업 촉매로는 (1) 주주환원 프로그램 업데이트(9월 말까지), (2) HBM 계약 가격 업데이트(9월 말까지), (3) 미국 자회사 상장 계획 업데이트(향후 1개월) 등이 있습니다.\n1. 2026년 3분기 말까지 주주환원 업데이트. 공시에 따르면 SK하이닉스는 주주가치 제고를 위한 추가 주주환원 방안을 적극 검토 중이며, 2026년 3분기 말까지 확정 및 공시할 것으로 예상하고 있습니다. 이는 2026년 2분기 실적 발표에서 경영진이 언급했던 \"연말 이내\"에서 앞당겨진 것으로, 향후 2개월 내 발표가 임박했다는 저희 시각과 부합합니다. 향후 3년간 전례 없는 FCF 창출이 예상되는 점(JP모건 추정: 누적 FCF 800조원 이상)을 감안할 때, 저희는 점진적 주주환원 정책이 시장에서 긍정적으로 받아들여질 것으로 판단합니다. 투자자들과의 대화를 통해 파악한 바로는, 지난 12개월간 동종 업체 대비 높은 이익 창출(키옥시아 지분 매각 포함)을 감안하여 다수 투자자들이 일본/미국 메모리 동종 업체 대비 더 큰 규모의 주주환원 약속을 기대해 왔습니다.\n2. 54조원 인프라 캐펙스 계획 공시. 전례 없는 AI 주도 수요에 대응하기 위해 SK하이닉스는 한국 내 신규 메모리 반도체 공장 두 곳을 건설하는 54조원(381억 달러) 규모의 대규모 캐펙스 계획을 발표했으며, 용인 클러스터 Y2 DRAM 공장에 35.2조원(용인 1단계 투자 계획 31조원을 소폭 상회), 청주 NAND 시설(M17)에 19.1조원을 배정했습니다. 신규 용인 Y2는 용인에 계획된 4개 클러스터 중 두 번째가 될 예정이며, 회사는 2027년 7월 착공을 계획하고 있습니다. SK하이닉스는 앞서 2030년 예상 시점까지 100만 웨이퍼 캐파를 갖추겠다고 언급한 바 있으며, 저희는 Y2 팹이 주로 2031년 이후의 캐파 확장에 활용될 것으로 예상합니다. 청주 M17 증설은 2월에 착공하며, 첫 번째 클린룸은 2028년 말을 목표로 하고 투자 기간은 2031년 4월까지 이어집니다. 이는 2029년까지 신규 NAND 팹을 준비한다는 SK하이닉스의 초기 투자 계획에 대한 저희의 이해와 일치합니다.\n3. HBM 가격 관련 견해: 시장 가격 대비 50% 할인 우려는 과도합니다.\n다수의 투자자들이 SK하이닉스 팀이 2027년 HBM4 가격을 경쟁사 대비 50% 할인된 수준으로 책정한다는 언론 보도가 정확한지 문의했습니다.\n저희는 HBM ASP가 전년 대비 100% 상승할 것이라는 투자자 기대가 과도하다고 보면서도, 50% 가격 할인 보도 역시 정확하지 않다고 판단\n합니다. 저희의 상대적으로 보수적인 가격 가정(2026년 예상치 대비 전년 대비 40% 미만 상승)은 다음 세 가지 핵심 논거와 연관되어 있습니다. (1) 메모리 공급업체 입장에서는 HBM 대비 상당한 마진 프리미엄을 갖는 DDR5/LPDDR5/NAND의 LTA 제품을 우선시하는 것이 이익에 부합한다고 봅니다. (2) 엔비디아는 SK하이닉스의 최대 고객이며 다수의 제품 파트너십을 맺고 있어, 회사는 이 고객을 다년간의 소싱 관점에서 접근할 수 있습니다. (3) HBM은 매년 재가격 책정이 가능하며, 이후 연도에 다시 가격을 조정할 여지가 있습니다(SK하이닉스 경영진의 시각은 다년간의 공급 부족을 시사하며, 회사가 3~5년치 LTA 물량을 우선시한다면 단기 HBM 계약 가격은 최우선 순위가 아닐 수 있습니다). SK하이닉스가 HBM ASP를 저희 예상치 이상으로 성공적으로 인상한다면, 이는 저희 EPS 전망에 긍정적인 상방 리스크가 될 수 있습니다.\n4. 미국 자회사(솔리다임) IPO 헤드라인: 여전히 검토 중입니다. 최근 솔리다임의 미국 IPO 보도에 대해 경영진은 해당 계획이 검토 중이며 1개월 후 재확인하겠다고 발표했습니다. SK하이닉스는 2021년 인텔로부터 솔리다임을 인수했는데, 이는 주로 엔터프라이즈 SSD 솔루션(QLC 솔루션용 플로팅 게이트 기술)을 확보하기 위한 것이었으며, 2023년 적자 기간을 거친 후 AI에 힘입어 NAND 시장이 슈퍼사이클에 진입하면서 해당 결정이 성공적으로 보상받았다고 판단합니다.\nNAND 마진이 70%를 상회하고 SK하이닉스의 현금 포지션이 풍부한 상황에서, 내부 창출 현금흐름과 SK하이닉스의 재무상태표만으로도 기존 주주 지분 희석 없이 캐펙스를 충분히 조달할 수 있다는 점을 감안하면 IPO 옵션은 자금 조달 측면에서 전략적 가치를 거의 더하지 못한다고 조심스럽게 판단\n합니다. 또한 솔리다임 상장은 중복상장 규정과 겹칠 수 있다고 조심스럽게 보는데, 이는 2026년 초 한국 상법 개정 통과 과정에서 핵심 논지 중 하나였습니다. 마지막으로, 투자자 기반 확대 및 멀티플 리레이팅 목적(SK하이닉스 ADR 주식의 핵심 사유) 측면에서도 전략적 근거는 크지 않아 보입니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-09T05:33:32+00:00"
     },
     {
       "id": "tg:globaletfi/21028",
@@ -1505,7 +1515,7 @@
       "url": "https://t.me/enc210406/4291",
       "text": "[선박/육상엔진 4사 주가 강세 코멘트]\n@ 엔진 4사 전일 대비 주가 강세\n(오후 2시 5분 기준)\n- HD현대중공업 +5.0%\n- 한화엔진 +12.5%\n- HD현대마린엔진 +13.1%\n- STX엔진 +14.1%\n@ 밸류에이션(전일 종가 기준)\n- HD현대중공업 2028F P/E 11.4배\n- 한화엔진 2027F P/E 11.3배\n- HD현대마린엔진 2027F P/E 10.2배\n- STX엔진 2027F P/E 10.8배\n모두 P/E 10~11배 수준의\n밸류에이션을 딛고 반등하는 것\n@ 강세 이유\n1) 2026년 하반기 이후 실적 성장성\n- 한화엔진과 HD현대마린엔진이 보인 2분기 실적 부진에도 불구하고,\n- 지금 부진은 일시적이며, 하반기, 2027년 실적 성장성에 무게를 두는 모습\n- STX앤진의 경우, 고객사 지상방산 매출 증가에 따른 특수사업 부문 외형 성장, 고마진 민수사업 매출액 증가에 따른 영업이익률 레버리지 효과에 2분기부터 호실적 전망\n2) 주요 중속엔진 제작사들의 육상 데이터센터향 시장 전망 긍정적\n- 바르질라(7/21), 캐터필러(8/4) 등 선박 및 육상용 중속엔진 부문을 영위하고 있는 선두 업체들은 이번 실적 발표에서\n- 데이터센터향 중속엔진 시장의 성장성과 점유 의지, Capa 확장 계획 등을 시장에 명확하게 제시\n- 주요 라이센서인 HD현대중공업 또한 증설의 당위성를 얘기하며, 공급망 확충 계획도 발표\n3) 부담없는 밸류에이션\n- 2026년 4~5월에 나타난 랠리로 P/E 28배까지 상승했다가 10배 수준으로 하락한 한화엔진, STX엔진을 비롯해,\n- 복합 기업인 HD현대중공업의 밸류에이션 또한 P/E 11배 수준에서 바닥 형성\n- 펀더멘털 변화없이 조정의 폭과 속도가 가팔랐던 만큼, 부담없는 밸류에이션에서 당분간 회복 추세를 유지할 것으로 전망",
       "images": [
-        "https://cdn5.telesco.pe/file/Y3AIiH_sYH5OeHmHh862WATMBtE7eTe-449lNKA6k4LTo0jUG_ktj9A7awxVsjkeEm3a4SwxViVU96xwN-WS6qpKpmw7zOVerQ4_PINs3nhJBuKiQ31ex6h4THcRlm39qLZjYS7NM_o1Awk-LdvEsBLjo5nv35AYQOSoL0Y2MLXgT75W8VxmeXSYSm8rgRaT8w9IoB7grakgzbaOqej-uAgf4DR2kkcYy1OKYhIkjxvrWFfdibu_j88watmgWyOc6EBbWx6BOuJsXO7M2q2oYqOGW6tT1mDE8WApnma5ZBpN2iVICauSYBwTV89XqBk-KZHpI0XCx1Kr_EU-0XaZLw.jpg"
+        "https://cdn5.telesco.pe/file/RWPsV25I_6aYsLa6lpdlAG7lo_7qF7uQyT7tGRnGiZepSA5HyxZ_gGjd6T_zx4SiMXNWdY94PYByVZXm1buJT2NXAaBz9tIbJ3GI98FYKNZxHx9UsMGkHQfbxQaZmGLj-XHQPPwlZ7en3iGCGhFEgdmkBUgCcyWUutpyfJs5RzxZ5ybjDSRgGw06KmeZCcCy-SfR4OubwnzzEmTuBSb-89ygRqWh7gB71Txr7GnkUKg2QYb5TbPhoB7svi2gaCItvrYbevOn20m94ZqPaYqqjJGOJPgN-ULa8ZZgwmgOQrpi7An8d9jR09tN-59T-mLgaJ4eJZrtjnXLlQuJg7OAhQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-05T05:25:10+00:00"
@@ -2332,20 +2342,6 @@
       ],
       "summary_ko": "메타 컴퓨팅: 누구나 클라우드가 되고 싶어합니다\n\nZuck이 플랜 B를 택하나요? SpaceX 2.0, Bedrock 2.0, MSL은 포기하지 않고 RecSys를 10배로 확장합니다... ClusterMAX 순위가 곧 나오나요?",
       "published_at": "2026-07-02T22:18:08+00:00"
-    },
-    {
-      "id": "rss:semianalysis:ectc2026",
-      "source": "rss",
-      "author": "semianalysis",
-      "author_name": "SemiAnalysis",
-      "author_url": "https://semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/ectc2026",
-      "text": "EMIB-T Roadmap, Custom HBM, HBM4 Packaging Challenges, Microfluidic Cooling, Photonic Interconnects, and More\n\nECTC 2026 Roundup, Intel, TSMC, SK Hynix, Samsung, Micron, Marvell, Lightmatter, Microsoft",
-      "images": [
-        "https://substack-post-media.s3.amazonaws.com/public/images/44179ccc-ffaf-47c1-8c68-36e5e07743e6_5504x3072.jpeg"
-      ],
-      "summary_ko": "EMIB-T 로드맵, 맞춤형 HBM, HBM4 패키징 과제, 미세 유체 냉각, 광자 상호 연결 등\n\nECTC 2026 Roundup, Intel, TSMC, SK Hynix, Samsung, Micron, Marvell, Lightmatter, Microsoft",
-      "published_at": "2026-07-02T17:25:38+00:00"
     },
     {
       "id": "x:GoogleAI:2072318809277390940",
