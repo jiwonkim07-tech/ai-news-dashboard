@@ -1,22 +1,90 @@
 {
-  "updated_at": "2026-08-10T16:04:27+00:00",
+  "updated_at": "2026-08-10T17:51:51+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 1
+    "new_this_run": 15
   },
   "briefing": {
-    "headline": "마이크론, 고객사 메모리 가격 비탄력적",
+    "headline": "마이크론, 데이터센터 수요 강해 메모리 가격 비탄력적",
     "bullets": [
-      "JP모건, S&P 500 기업 87% 실적 발표",
-      "TSMC, 7월 매출 순항",
+      "OpenAI, 사이버 보안 이니셔티브 Daybreak 확장",
       "인텔, 150억달러 규모 증자 추진",
-      "애플, 구형 아이폰 가격 인상 가능성",
-      "미국 금리 인하 희망"
+      "JP모건, S&P500 목표치 7,800→8,000으로 상향",
+      "마이크론, 고객사 메모리 가격에 비탄력적 태도",
+      "안드로메다, 오픈 웨이트 AI에 기여한 Meta 팀 감사"
     ],
-    "generated_at": "2026-08-10T16:04:27+00:00",
+    "generated_at": "2026-08-10T17:51:51+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:AnthropicAI:2086867246073401655",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2086867246073401655",
+      "text": "We asked an unreleased research version of Claude to take a stab at the Riemann hypothesis. It didn’t solve it, but it did make strides on a related problem: it increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from 41.6% to 67.2%. https://www.anthropic.com/research/riemann-zeta",
+      "images": [
+        "https://pbs.twimg.com/card_img/2086867140821520384/LMrVaO3G?format=jpg&name=800x419"
+      ],
+      "summary_ko": "우리는 아직 공개되지 않은 연구 버전의 Claude에게 리만 가설을 검증해 달라고 요청했습니다. 이 문제를 해결하지는 못했지만 관련 문제에서 큰 진전을 이루었습니다. 즉, 가설을 충족하는 리만 제타 함수의 0 비율에 대한 하한을 41.6%에서 67.2%로 늘렸습니다. https://www.anthropic.com/research/riemann-zeta",
+      "published_at": "2026-08-10T17:28:18+00:00"
+    },
+    {
+      "id": "x:OpenAI:2086864372500942906",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2086864372500942906",
+      "text": "R to @OpenAI: We've used GPT-5.6-Cyber extensively in real-world vulnerability research, including work that uncovered previously unknown vulnerabilities in popular open-source software like Chrome’s v8 engine.",
+      "images": [
+        "https://pbs.twimg.com/media/HPYIAmZWEAAeRlP.jpg"
+      ],
+      "summary_ko": "R에서 @OpenAI로: 우리는 Chrome v8 엔진과 같은 인기 오픈 소스 소프트웨어에서 이전에 알려지지 않은 취약점을 발견한 작업을 포함하여 실제 취약점 연구에 GPT-5.6-Cyber를 광범위하게 사용했습니다.",
+      "published_at": "2026-08-10T17:16:53+00:00"
+    },
+    {
+      "id": "x:OpenAI:2086864374837150108",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2086864374837150108",
+      "text": "R to @OpenAI: Advanced capabilities require strong safeguards. That’s why access is limited to approved defenders, with additional controls and monitoring for higher-risk cybersecurity work. https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "images": [
+        "https://pbs.twimg.com/card_img/2086864438372564992/mfnG5tI-?format=jpg&name=800x419"
+      ],
+      "summary_ko": "R에서 @OpenAI로: 고급 기능에는 강력한 보호 장치가 필요합니다. 그렇기 때문에 승인된 방어자에게만 액세스가 제한되고 위험도가 높은 사이버 보안 작업에 대한 추가 제어 및 모니터링이 제공됩니다. https://openai.com/index/expanding-daybreak-as-the-cyber-defense-window-narrows",
+      "published_at": "2026-08-10T17:16:53+00:00"
+    },
+    {
+      "id": "x:OpenAI:2086864365379010729",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2086864365379010729",
+      "text": "We’re expanding our cybersecurity initiative Daybreak and introducing GPT-5.6-Cyber, a new model for advanced, authorized cybersecurity work. As the threat landscape evolves, we’re putting frontier intelligence in the hands of trusted defenders before attackers can deploy offensive AI at scale.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2086860232311861248/img/gO9CLOCWUWA1EHaK.jpg"
+      ],
+      "summary_ko": "우리는 사이버 보안 이니셔티브 Daybreak를 확장하고 승인된 고급 사이버 보안 작업을 위한 새로운 모델인 GPT-5.6-Cyber를 도입하고 있습니다. 위협 환경이 발전함에 따라 우리는 공격자가 공격적인 AI를 대규모로 배포하기 전에 신뢰할 수 있는 방어자에게 최전선 인텔리전스를 제공하고 있습니다.",
+      "published_at": "2026-08-10T17:16:51+00:00"
+    },
+    {
+      "id": "x:AndrewYNg:2086845515665166398",
+      "source": "x",
+      "author": "AndrewYNg",
+      "author_name": "Andrew Ng(앤드류 응) · AI 교육자",
+      "author_url": "https://x.com/AndrewYNg",
+      "url": "https://x.com/AndrewYNg/status/2086845515665166398",
+      "text": "Thank you Mark, Alex and the whole Meta team for your contributions to open weight AI.",
+      "images": [],
+      "summary_ko": "오픈 웨이트 AI에 기여한 Mark, Alex 및 전체 Meta 팀에게 감사드립니다.",
+      "published_at": "2026-08-10T16:01:57+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24494",
       "source": "telegram",
@@ -133,6 +201,20 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-10T14:26:37+00:00"
+    },
+    {
+      "id": "x:ylecun:2086814727829619067",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2086814727829619067",
+      "text": "RT by @ylecun: President Trump inherited a strong labor market from President Biden. Since his inauguration, average monthly job creation has fallen dramatically: from 122k/month in 2024 to 33k/month in 2025-26.",
+      "images": [
+        "https://pbs.twimg.com/media/HPXaw-wXoAAqRLX.jpg"
+      ],
+      "summary_ko": "RT by @yleun: 트럼프 대통령은 바이든 대통령으로부터 강력한 노동 시장을 물려받았습니다. 그의 취임 이후 월 평균 일자리 창출은 2024년 월 122,000개에서 2025~26년 월 33,000개로 급격하게 감소했습니다.",
+      "published_at": "2026-08-10T13:59:36+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/24487",
@@ -331,6 +413,18 @@
       "published_at": "2026-08-10T11:18:22+00:00"
     },
     {
+      "id": "x:ylecun:2086768409744752720",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2086768409744752720",
+      "text": "RT by @ylecun: The future is for everyone. Personal superintelligence. You either believe in freedom and agency or you believe a few wise old men in the central Soviet can protect you from yourself. We are not the same. https://www.meta.com/thefutureisforeveryone/",
+      "images": [],
+      "summary_ko": "@yleun의 RT: 미래는 모두를 위한 것입니다. 개인 초지능. 당신은 자유와 선택 의지를 믿거나 중앙 소비에트에 있는 몇몇 현명한 노인들이 당신을 자신으로부터 보호할 수 있다고 믿습니다. 우리는 동일하지 않습니다. https://www.meta.com/thefutureisforeveryone/",
+      "published_at": "2026-08-10T10:55:33+00:00"
+    },
+    {
       "id": "tg:globaletfi/21042",
       "source": "telegram",
       "author": "globaletfi",
@@ -369,6 +463,71 @@
       "published_at": "2026-08-10T10:44:26+00:00"
     },
     {
+      "id": "x:ylecun:2086765577796755510",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2086765577796755510",
+      "text": "RT by @ylecun: This is the most carefully considered piece I've seen from Zuckerberg on navigating more powerful AI systems - worth reading and a constructive update: https://www.meta.com/thefutureisforeveryone/",
+      "images": [],
+      "summary_ko": "@yleun의 RT: 이것은 더 강력한 AI 시스템을 탐색하는 Zuckerberg의 글 중 가장 신중하게 고려된 글입니다. 읽어볼 가치가 있고 건설적인 업데이트입니다: https://www.meta.com/thefutureisforeveryone/",
+      "published_at": "2026-08-10T10:44:18+00:00"
+    },
+    {
+      "id": "x:ylecun:2086758202964951340",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2086758202964951340",
+      "text": "RT by @ylecun: Meet Muse Glimmer: an open-weight model built for always-on local agents. 30B parameters, Apache 2.0 and tuned for complex multi-step work so it plans, calls tools, hits errors, retries, and sees the task through long-horizon loops. Muse Glimmer is designed to balance capability against the memory and compute constraints of local hardware. We couldn’t be more excited to get this in the hands of developers. Download and start building now: https://bit.ly/4yYUKkS",
+      "images": [
+        "https://pbs.twimg.com/media/HPUQiska4AEbq8S.png"
+      ],
+      "summary_ko": "@yleun의 RT: Muse Glimmer를 만나보세요. 항상 켜져 있는 로컬 에이전트를 위해 구축된 개방형 모델입니다. 30B 매개변수, Apache 2.0 및 복잡한 다단계 작업에 맞게 조정되어 긴 수평 루프를 통해 작업을 계획하고, 도구를 호출하고, 오류가 발생하고, 재시도하고, 확인합니다. Muse Glimmer는 로컬 하드웨어의 메모리 및 컴퓨팅 제약 조건과 성능의 균형을 맞추도록 설계되었습니다. 우리는 이것을 개발자의 손에 맡길 수 있게 되어 매우 기쁩니다. 지금 다운로드하여 구축을 시작하세요: https://bit.ly/4yYUKkS",
+      "published_at": "2026-08-10T10:15:00+00:00"
+    },
+    {
+      "id": "x:ylecun:2086757844544811485",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2086757844544811485",
+      "text": "RT by @ylecun: Introducing Muse Glimmer, an open-weight 30B-parameter model optimized for local, always-on agent workflows. Muse Glimmer delivers strong performance on key agentic use cases and benchmarks compared with leading models in its size category, and is designed to run entirely on consumer hardware like a Mac or PCs with performant GPUs. In keeping with our long tradition of sharing fundamental AI research, we’re releasing model weights under a permissive Apache 2.0 license. 🧵👇",
+      "images": [
+        "https://pbs.twimg.com/media/HPWkSuDbkAExHc7.png",
+        "https://pbs.twimg.com/media/HPWk17aaoAAroWc.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 로컬 상시 에이전트 워크플로우에 최적화된 개방형 30B 매개변수 모델인 Muse Glimmer를 소개합니다. Muse Glimmer는 해당 크기 범주의 주요 모델과 비교하여 주요 에이전트 사용 사례 및 벤치마크에서 강력한 성능을 제공하며 고성능 GPU가 장착된 Mac 또는 PC와 같은 소비자 하드웨어에서 완전히 실행되도록 설계되었습니다. 기본적인 AI 연구를 공유하는 오랜 전통을 유지하기 위해 우리는 허용되는 Apache 2.0 라이선스에 따라 모델 가중치를 출시합니다. 🧵👇",
+      "published_at": "2026-08-10T10:13:34+00:00"
+    },
+    {
+      "id": "x:ylecun:2086756152034066792",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2086756152034066792",
+      "text": "RT by @ylecun: 1/ big announcement today: we will be releasing an open weight version of muse spark 1.2 soon. we also are releasing muse glimmer, a 30B agentic model with open weights under apache 2.0. muse glimmer can run on 24GB of VRAM without losing agentic reliability. 🧵",
+      "images": [],
+      "summary_ko": "@yleun의 RT: 1/ 오늘 큰 발표: 곧 Muse Spark 1.2의 오픈 웨이트 버전을 출시할 예정입니다. 우리는 또한 Apache 2.0에서 개방형 가중치를 갖춘 30B 에이전트 모델인 Muse glimmer를 출시할 예정입니다. muse glimmer는 에이전트 안정성을 잃지 않고 24GB VRAM에서 실행할 수 있습니다. 🧵",
+      "published_at": "2026-08-10T10:06:51+00:00"
+    },
+    {
+      "id": "x:ylecun:2086755368596902004",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2086755368596902004",
+      "text": "RT by @ylecun: excited to be releasing open weights for muse glimmer today, a 30b model that runs on a single consumer gpu, with open weights for a version of muse spark 1.2 coming soon. two very different models, both headed into people's hands, with more to come.",
+      "images": [],
+      "summary_ko": "@yleun의 RT: 오늘 단일 소비자 GPU에서 실행되는 30b 모델인 Muse glimmer에 대한 오픈 가중치를 출시하게 되어 기쁩니다. Muse Spark 1.2 버전에 대한 오픈 가중치는 곧 출시될 예정입니다. 매우 다른 두 가지 모델이 모두 사람들의 손에 들어왔고 앞으로 더 많은 모델이 출시될 예정입니다.",
+      "published_at": "2026-08-10T10:03:44+00:00"
+    },
+    {
       "id": "x:ylecun:2086755195535413696",
       "source": "x",
       "author": "ylecun",
@@ -379,6 +538,18 @@
       "images": [],
       "summary_ko": "RT by @yecun: 오늘 우리는 로컬에서 실행할 수 있는 뛰어난 30B 매개변수 밀도 모델인 Muse Glimmer의 가중치도 공개합니다. 곧 최신 파운데이션 모델인 Muse Spark 1.2의 무게추도 출시할 예정입니다. Meta는 오픈 소스의 강력한 지지자이며 저는 이러한 릴리스가 자랑스럽습니다. 이 모델에 대한 훌륭한 작업을 수행한 @alexandr_wang과 MSL 팀에 축하를 보냅니다.",
       "published_at": "2026-08-10T10:03:03+00:00"
+    },
+    {
+      "id": "x:ylecun:2086754845218726027",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2086754845218726027",
+      "text": "RT by @ylecun: I believe everyone should have access to superintelligence, and I wrote a long piece about Meta's philosophy and values for building a positive future for everyone. http://meta.com/thefutureisforeveryone",
+      "images": [],
+      "summary_ko": "RT by @yleun: 저는 모든 사람이 초지능에 접근할 수 있어야 한다고 믿으며, 모든 사람을 위한 긍정적인 미래를 구축하기 위한 Meta의 철학과 가치에 대해 장문의 글을 썼습니다. http://meta.com/thefutureisforeveryone",
+      "published_at": "2026-08-10T10:01:39+00:00"
     },
     {
       "id": "tg:EMchina/32260",
@@ -775,6 +946,20 @@
       "published_at": "2026-08-10T02:09:01+00:00"
     },
     {
+      "id": "x:ylecun:2086632702531219482",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2086632702531219482",
+      "text": "RT by @ylecun: Image",
+      "images": [
+        "https://pbs.twimg.com/media/HPU1YbHXAAAKhTZ.jpg"
+      ],
+      "summary_ko": "@yleun의 RT: 이미지",
+      "published_at": "2026-08-10T01:56:18+00:00"
+    },
+    {
       "id": "tg:HI_GS/6868",
       "source": "telegram",
       "author": "HI_GS",
@@ -904,20 +1089,6 @@
       "published_at": "2026-08-09T15:04:28+00:00"
     },
     {
-      "id": "x:ylecun:2086416254915522665",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2086416254915522665",
-      "text": "RT by @ylecun: I'm looking forward to the chapter on why we don't have to train Radiologists anymore!",
-      "images": [
-        "https://pbs.twimg.com/card_img/2086103381769138176/BjSlN9BL?format=jpg&name=420x420_2"
-      ],
-      "summary_ko": "RT by @yleun: 방사선 전문의를 더 이상 교육할 필요가 없는 이유에 대한 장을 기대하고 있습니다!",
-      "published_at": "2026-08-09T11:36:13+00:00"
-    },
-    {
       "id": "tg:HI_GS/6865",
       "source": "telegram",
       "author": "HI_GS",
@@ -930,32 +1101,18 @@
       "published_at": "2026-08-09T07:17:54+00:00"
     },
     {
-      "id": "x:ylecun:2086258976019075180",
+      "id": "x:demishassabis:2086107547535122767",
       "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2086258976019075180",
-      "text": "RT by @ylecun: Todd Blanche, the new attorney general, believes Trump should have nearly limitless control over the Justice Department. That is likely to mean open season for political vendettas. Why not rename it the Injustice Department. https://trib.al/CHrs9zv",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2086107547535122767",
+      "text": "RT by @demishassabis: Join us in celebrating the upcoming 1 billion downloads of Gemma models🥳 A fun in-person evening with live demos and great people from the open models community Excited to see you all there!",
       "images": [
-        "https://pbs.twimg.com/card_img/2086140207347224577/7N3PpaOS?format=jpg&name=800x419"
+        "https://pbs.twimg.com/amplify_video_thumb/2086106468613287936/img/vGdvG2UUPi-NW9sM.jpg"
       ],
-      "summary_ko": "RT by @yleun: 신임 법무장관인 토드 블랜치(Todd Blanche)는 트럼프가 법무부에 대해 거의 무한한 통제권을 가져야 한다고 믿습니다. 이는 정치적 복수가 시작되는 시즌을 의미할 가능성이 높습니다. 불의부(Injustice Department)로 이름을 바꾸면 어떨까요? https://trib.al/CHrs9zv",
-      "published_at": "2026-08-09T01:11:15+00:00"
-    },
-    {
-      "id": "x:ylecun:2086118220365201911",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2086118220365201911",
-      "text": "RT by @ylecun: My Nobel lecture and the video of the Stockholm lecture are online. It covers what creative destruction tells us about secular stagnation, firm dynamics, the middle-income trap, and AI as the next GPT revolution. Paper: https://www.aeaweb.org/articles?id=10.1257/aer.116.7.2324 Video: https://www.nobelprize.org/prizes/economic-sciences/2025/aghion/lecture/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2084764372975415296/E_ct9QPQ?format=jpg&name=420x420_2"
-      ],
-      "summary_ko": "RT by @yleun: 저의 노벨 강의와 스톡홀름 강의 영상이 온라인에 있습니다. 이는 장기 침체, 기업 역학, 중산층 함정, 차세대 GPT 혁명인 AI에 관해 창조적 파괴가 우리에게 알려주는 내용을 다룹니다. 논문: https://www.aeaweb.org/articles?id=10.1257/aer.116.7.2324 영상: ​​https://www.nobelprize.org/prizes/economic-sciences/2025/aghion/lecture/",
-      "published_at": "2026-08-08T15:51:56+00:00"
+      "summary_ko": "@demishassabis의 RT: 곧 출시될 Gemma 모델의 10억 다운로드를 축하하는 데 참여하세요🥳 라이브 데모와 공개 모델 커뮤니티의 훌륭한 사람들이 함께하는 즐거운 직접 저녁 여러분 모두를 만나서 반갑습니다!",
+      "published_at": "2026-08-08T15:09:31+00:00"
     },
     {
       "id": "x:sama:2086092396023120286",
@@ -970,18 +1127,6 @@
       "published_at": "2026-08-08T14:09:19+00:00"
     },
     {
-      "id": "x:ylecun:2086082630559174754",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2086082630559174754",
-      "text": "RT by @ylecun: 75% of Americans fear AI. In China, 80% are excited about it. We are facing a narrative gap, and are losing the fight for it.",
-      "images": [],
-      "summary_ko": "@yleun의 RT: 미국인의 75%가 AI를 두려워합니다. 중국에서는 80%가 이에 대해 흥미를 갖고 있습니다. 우리는 서사적 격차에 직면해 있으며 이를 위한 싸움에서 패배하고 있습니다.",
-      "published_at": "2026-08-08T13:30:31+00:00"
-    },
-    {
       "id": "tg:HI_GS/6864",
       "source": "telegram",
       "author": "HI_GS",
@@ -992,48 +1137,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-08T13:12:41+00:00"
-    },
-    {
-      "id": "x:ylecun:2086068431523025133",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2086068431523025133",
-      "text": "RT by @ylecun: Strong disagree: there is a cemetery of breakthrough silicon that got nowhere due to lack of software today there is silicon that's already 2-3x more efficient than nvidia and can be bought off the shelf, and yet...",
-      "images": [
-        "https://pbs.twimg.com/media/HPLw9ocXUAALUxS.jpg"
-      ],
-      "summary_ko": "RT by @yleun: 강한 반대 의견: 오늘날 소프트웨어 부족으로 아무데도 도달하지 못한 획기적인 실리콘 묘지가 있습니다. 이미 nvidia보다 2~3배 더 효율적이고 기성품으로 구입할 수 있는 실리콘이 있지만...",
-      "published_at": "2026-08-08T12:34:06+00:00"
-    },
-    {
-      "id": "x:ylecun:2086049718598062124",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2086049718598062124",
-      "text": "RT by @ylecun: A 4.1% unemployment rate sounds pretty good. But that number only counts people actively looking for work.⁣ ⁣ If people give up searching, unemployment can fall even as the job market gets weaker.⁣ ⁣ https://newsletter.platypuseconomics.com/p/the-july-jobs-report-should-worry",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2086049657164062721/img/ydu52EP5F-FxhWhD.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: 4.1%의 실업률은 꽤 좋은 것 같습니다. 하지만 그 숫자는 적극적으로 구직 활동을 하는 사람의 수에 불과합니다.⁣ ⁣ 사람들이 구직을 포기한다면 취업 시장이 약해져도 실업률은 떨어질 수 있습니다.⁣ ⁣ https://newsletter.platypuseconomics.com/p/the-july-jobs-report-should-worry",
-      "published_at": "2026-08-08T11:19:44+00:00"
-    },
-    {
-      "id": "x:ylecun:2086035678677041477",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2086035678677041477",
-      "text": "RT by @ylecun: Has Trump’s invasion of Greenland already begun? An American oil company connected to Donald Trump is preparing to sink wells in remote Greenland despite not having received permission from the local authorities. https://trib.al/NA5w2ys",
-      "images": [
-        "https://pbs.twimg.com/card_img/2085955204717895682/LfsPCNAE?format=jpg&name=800x419"
-      ],
-      "summary_ko": "@yleun의 RT: 트럼프의 그린란드 침공이 이미 시작되었나요? 도널드 트럼프와 연계된 미국 석유 회사가 지방 당국의 허가를 받지 않았음에도 불구하고 그린란드 외딴 지역에서 유정 채굴을 준비하고 있습니다. https://trib.al/NA5w2ys",
-      "published_at": "2026-08-08T10:23:57+00:00"
     },
     {
       "id": "x:demishassabis:2085914742414061886",
@@ -1082,21 +1185,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-07T23:08:15+00:00"
-    },
-    {
-      "id": "x:ylecun:2085863639676842486",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2085863639676842486",
-      "text": "RT by @ylecun: 🚨 BREAKING — Anthropic investors worry Dario Amodei’s AI doom marketing could hurt its upcoming IPO. “He’s more of a religious leader than he is a CEO.” > used to write sensitive OpenAI memos on an offline computer > printed them out instead of using Google Docs > refused to visit China since he feared being kidnapped > investors say he refuses to listen outsiders > one investor noted before investing that Dario didn’t seem to care about making money > some investors want him to “stop scaring everyone” ahead of the IPO This cannot be healthy.",
-      "images": [
-        "https://pbs.twimg.com/media/HPJ57B6X0AAiVtR.jpg",
-        "https://pbs.twimg.com/media/HPJ57B6XgAAVIO3.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: 🚨 속보 — 인류 투자자들은 Dario Amodei의 AI 파멸 마케팅이 다가오는 IPO에 타격을 줄 수 있다고 걱정합니다. “그는 CEO라기보다는 종교 지도자에 가깝습니다.” > 오프라인 컴퓨터에서 민감한 OpenAI 메모를 작성하곤 했습니다. > Google Docs를 사용하는 대신 이를 인쇄했습니다. > 납치될까 봐 중국 방문을 거부했습니다. > 투자자들은 외부인의 말을 듣지 않는다고 말합니다. > 한 투자자는 투자하기 전에 다리오가 돈 버는 데 관심이 없는 것 같다고 지적했습니다. > 일부 투자자들은 그가 IPO를 앞두고 “모두를 겁주는 일을 그만두기를” 원합니다. 이것은 건강할 수 없습니다.",
-      "published_at": "2026-08-07T23:00:19+00:00"
     },
     {
       "id": "x:sama:2085862292311396515",
@@ -1167,20 +1255,6 @@
       "published_at": "2026-08-07T18:52:48+00:00"
     },
     {
-      "id": "x:ylecun:2085785511021392003",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2085785511021392003",
-      "text": "RT by @ylecun: Wage growth ticked below inflation again last month. That means Americans' average wages shrunk in real terms over the past year. Real wages were growing when Biden left office, but the trend flipped negative after Trump launched the Iran War.",
-      "images": [
-        "https://pbs.twimg.com/media/HPIyzOMWkAEkIFh.jpg"
-      ],
-      "summary_ko": "@yleun의 RT: 임금 증가율은 지난 달에도 인플레이션 아래로 떨어졌습니다. 이는 지난 1년 동안 미국인의 평균 임금이 실질 기준으로 감소했음을 의미합니다. 바이든이 퇴임할 당시 실질임금은 오르고 있었지만, 트럼프가 이란 전쟁을 개시한 이후 추세는 마이너스로 바뀌었다.",
-      "published_at": "2026-08-07T17:49:52+00:00"
-    },
-    {
       "id": "x:demishassabis:2085775218249711887",
       "source": "x",
       "author": "demishassabis",
@@ -1202,7 +1276,9 @@
       "author_url": "https://x.com/sama",
       "url": "https://x.com/sama/status/2085765236876046500",
       "text": "congrats to oklo for achieving criticality! (less than a year after groundbreaking) https://oklo.com/newsroom/news-details/2026/Oklos-Groves-Reactor-Achieves-First-Criticality-in-Under-a-Year/default.aspx",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2085343031147057152/0BwoM1qY?format=jpg&name=280x280_2"
+      ],
       "summary_ko": "임계치를 달성한 oklo를 축하합니다! (착공 후 1년 미만) https://oklo.com/newsroom/news-details/2026/Oklos-Groves-Reactor-Achieves-First-Criticality-in-Under-a-Year/default.aspx",
       "published_at": "2026-08-07T16:29:18+00:00"
     },
@@ -1257,7 +1333,7 @@
       "url": "https://x.com/sama/status/2085473085399150817",
       "text": "RT by @sama: Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more. https://www.youtube.com/watch?v=87DyyMV0kCY I hope it can answer a lot of the questions folks have, and we will release a full detailed postmortem at a later time!",
       "images": [
-        "https://pbs.twimg.com/card_img/2085475651696398336/sMBqp17U?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2085465895007318016/-qjHVz8l?format=jpg&name=800x419"
       ],
       "summary_ko": "RT by @sama: 어제 OpenAI 공동 작업자와 저는 Huggingface 사건, \"메시지 보드\"를 생성하는 모델, 모델 정렬 불량 등에 대해 자세히 설명했습니다. https://www.youtube.com/watch?v=87DyyMV0kCY 사람들이 궁금해하는 많은 질문에 답할 수 있기를 바랍니다. 자세한 사후 분석은 나중에 공개하겠습니다!",
       "published_at": "2026-08-06T21:08:24+00:00"
@@ -1564,34 +1640,6 @@
       "published_at": "2026-08-03T20:38:35+00:00"
     },
     {
-      "id": "x:OpenAI:2084378418989379822",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2084378418989379822",
-      "text": "R to @OpenAI: The result is a faster, more natural conversation with ChatGPT Voice from the moment a session starts. How we built it: https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2084405117994840064/Ny_Tdcks?format=jpg&name=800x419"
-      ],
-      "summary_ko": "R에서 @OpenAI로: 결과적으로 세션이 시작되는 순간부터 ChatGPT Voice를 통해 더 빠르고 자연스러운 대화가 가능해집니다. 구축 방법: https://openai.com/index/continuous-voice-interaction-with-gpt-live/",
-      "published_at": "2026-08-03T20:38:35+00:00"
-    },
-    {
-      "id": "x:OpenAI:2084378415818579975",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2084378415818579975",
-      "text": "GPT-Live can listen while it speaks. To make that feel natural at ChatGPT scale, we rebuilt the voice stack from client to model. This new architecture keeps audio flowing continuously, so deeper reasoning and tool use don't interrupt the conversation.",
-      "images": [
-        "https://pbs.twimg.com/media/HO0uUesbYAAaHzK.jpg"
-      ],
-      "summary_ko": "GPT-Live는 말하는 동안 들을 수 있습니다. ChatGPT 규모에서 자연스러운 느낌을 주기 위해 우리는 클라이언트에서 모델까지 음성 스택을 다시 구축했습니다. 이 새로운 아키텍처는 오디오 흐름을 지속적으로 유지하므로 더 깊은 추론과 도구 사용이 대화를 방해하지 않습니다.",
-      "published_at": "2026-08-03T20:38:34+00:00"
-    },
-    {
       "id": "rss:semianalysis:kimi-k3-the-manos-the-mythos-the",
       "source": "rss",
       "author": "semianalysis",
@@ -1604,20 +1652,6 @@
       ],
       "summary_ko": "키미 K3, 마노스, 신화, 레전드스\n\nKimi K3의 아키텍처: 압축된 메모리, 깊이에 따른 관심, 잠재 전문가 라우팅 및 추론 성능",
       "published_at": "2026-08-03T19:42:30+00:00"
-    },
-    {
-      "id": "x:OpenAI:2084352165464903730",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2084352165464903730",
-      "text": "R to @OpenAI: We’re releasing the manuscripts, formal Lean certificates, and reasoning walkthroughs so mathematicians can examine these results and build on their ideas. https://openai.com/index/ten-advances-in-mathematics/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2083456780362002432/3RoQk0Sv?format=jpg&name=800x419"
-      ],
-      "summary_ko": "R에서 @OpenAI로: 우리는 수학자들이 이러한 결과를 검토하고 아이디어를 구축할 수 있도록 원고, 공식 Lean 인증서 및 추론 연습을 공개합니다. https://openai.com/index/ten-advances-in-mathematics/",
-      "published_at": "2026-08-03T18:54:16+00:00"
     },
     {
       "id": "x:karpathy:2083948654377996480",
@@ -2059,20 +2093,6 @@
       "published_at": "2026-07-23T16:40:41+00:00"
     },
     {
-      "id": "x:demishassabis:2080318170733408741",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2080318170733408741",
-      "text": "RT by @demishassabis: Gemma 4 just crossed 300 million downloads. Thank you to the developers, researchers, and open-source community building with us. Your work and feedback drive this project forward. Let's keep building!",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2080317673637072896/img/rI7zJHYgZpQ_tUF5.jpg"
-      ],
-      "summary_ko": "@demishassabis의 RT: Gemma 4가 방금 3억 다운로드를 넘었습니다. 우리와 함께 구축한 개발자, 연구원 및 오픈 소스 커뮤니티에 감사드립니다. 귀하의 작업과 피드백이 이 프로젝트를 발전시키는 원동력이 됩니다. 계속해서 건물을 짓자!",
-      "published_at": "2026-07-23T15:44:37+00:00"
-    },
-    {
       "id": "rss:semianalysis:vera-rubin-nvl72-vs-gb200-nvl72-inference",
       "source": "rss",
       "author": "semianalysis",
@@ -2207,20 +2227,6 @@
       "images": [],
       "summary_ko": "R에서 @AnthropicAI로: 우리는 네 가지 시나리오에서 Claude를 포함한 많은 AI 모델을 테스트했습니다. 실제 사건은 아니었지만, 더 자세히 연구하고 완화해야 할 명백히 잘못된 행동을 보여줍니다. 여기에서 시나리오의 모든 기록을 찾아보세요: https://www.aenguslynch.com/portfolio-transcript-viewer/",
       "published_at": "2026-07-15T17:58:03+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2077452646303006927",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2077452646303006927",
-      "text": "New Anthropic research: Agentic misalignment in Summer 2026. A year after our blackmail experiments, we found four more ways that today’s autonomous AI agents misbehave in simulations. Read more: https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
-      "images": [
-        "https://pbs.twimg.com/media/HNSXXXaW8AAAwzp.png"
-      ],
-      "summary_ko": "새로운 인류학 연구: 2026년 여름의 에이전트 오정렬. 협박 실험 1년 후, 우리는 오늘날의 자율 AI 에이전트가 시뮬레이션에서 오작동하는 네 가지 방법을 더 발견했습니다. 더 읽어보세요: https://alignment.anthropic.com/2026/agentic-misalignment-summer-2026/",
-      "published_at": "2026-07-15T17:58:02+00:00"
     },
     {
       "id": "x:GoogleAI:2075609303029776872",
@@ -2537,18 +2543,6 @@
       ],
       "summary_ko": "@karpathy의 RT: 올해는 의학계에서 조용히 기적의 달이었습니다. 지난 5주 동안 우리는 다음과 같은 소식을 접했습니다. - Lilly의 삼중 작용제 GLP-1인 리타트루타이드(Retatrutide)는 기본적으로 지방과 전신 염증을 기록적인 수준으로 녹입니다. - 전례 없는 생명 연장 능력을 보여주는 RevMed의 새로운 췌장암 약물 - LDL 콜레스테롤을 줄이기 위한 일회성 PCSK9 유전자 편집 치료법의 소규모 시험 - 크게 향상된 암 탐지를 보여주는 Mayo의 AI 보조 방사선학 - 전이성 고형 종양에 대한 이 새로운 치료법 다양한 수준의 증거가 있습니다. Retatrutide는 ~100% 진행 중이며 다른 제품에는 더 많은 임상 시험 데이터가 필요합니다. 그러나 종합해보면 우리는 아마도 미국의 두 가지 주요 사망 원인인 심장병과 암으로 인한 사망률을 크게 줄이기 직전에 있을 것입니다.",
       "published_at": "2026-05-31T15:38:25+00:00"
-    },
-    {
-      "id": "x:AndrewYNg:2059006941012295935",
-      "source": "x",
-      "author": "AndrewYNg",
-      "author_name": "Andrew Ng(앤드류 응) · AI 교육자",
-      "author_url": "https://x.com/AndrewYNg",
-      "url": "https://x.com/AndrewYNg/status/2059006941012295935",
-      "text": "Memorial Day. Today we honor those who gave everything to defend our democracy. Democracy isn't guaranteed; it's a precious inheritance that requires our constant care. 🇺🇸",
-      "images": [],
-      "summary_ko": "기념일. 오늘 우리는 민주주의를 수호하기 위해 모든 것을 바친 분들을 존경합니다. 민주주의는 보장되지 않습니다. 그것은 우리의 끊임없는 보살핌이 필요한 귀중한 유산입니다. 🇺🇸",
-      "published_at": "2026-05-25T20:21:23+00:00"
     }
   ]
 }
