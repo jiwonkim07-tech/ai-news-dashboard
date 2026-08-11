@@ -1,21 +1,77 @@
 {
-  "updated_at": "2026-08-11T13:04:44+00:00",
+  "updated_at": "2026-08-11T14:56:39+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 11
+    "new_this_run": 8
   },
   "briefing": {
-    "headline": "엔비디아 관련 계약 잇따라",
+    "headline": "엔비디아, AI 인프라 수혜 전망",
     "bullets": [
+      "엔비디아, 뉴 네모트론 4 오픈소스 AI 모델 개발",
       "딥시크, 전반적인 가격 인상 계획",
+      "쿠물러스AI, 글로벌 트레이딩 기업 DRW에 전용 엔비디아 블랙웰 공급",
       "TSMC, 타오위안 1.4나노 공장 재추진",
-      "소니그룹-TSMC, 쿠마모토에 1조엔 투자",
-      "IBM, 엔비디아 AI 인프라로 오픈소스 AI 추론 확장"
+      "소니그룹-TSMC, 쿠마모토에 1조엔 투자"
     ],
-    "generated_at": "2026-08-11T13:04:44+00:00",
+    "generated_at": "2026-08-11T14:56:39+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/24527",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24527",
+      "text": "제목 : AMD, 앤트로픽의 라이엇 데이터센터 리스로부터 수혜 전망 - 웨드부시                                                                    *연합인포맥스*\n웨드부시의 Matt Bryson 애널리스트는 AMD(NAS: AMD) 반도체를 탑재한 데이터센터의 리스 계약이 증가하고 있다고 언급했다.   “▲ 앤트로픽이 20년간 ▲ 라이엇 플랫폼스(NAS: RIOT)의 데이터센터를 구매하는 거래를 발표했다. 거래 규모는 91억 달러다”고 전하면서, “라이엇의 데이터센터 리스 사업이 확대되는 것은 AMD의 시장 확대로도 연결될 것이다”고 분석했다.   “라이엇은 현재 AMD 반도체를 기반으로 구축된 데이터센터 25MW를 보유하여 리스하고 있다. 추가로 AMD 기반 데이터센터가 25MW 확대될 예정이다”고 언급했다.   “투자자들은 앞으로도 AMD 기반 데이터센터의 리스가 더 확대될 것으로 예상하고 투자전략을 구성할 필요가 있다”고 발언했다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-11T14:53:55+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24525",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24525",
+      "text": "BofA 엔비디아 실적 프리뷰; 투자의견 Buy 유지 / 목표주가 350달러(8월 7일)\n■ 실적 전망\n엔비디아는 8월 26일(수) 장 마감 후 FY2027 2분기(7월 분기) 실적을 발표합니다. BofA는 매출이 가이던스 910억 달러 대비 30~40억 달러 상회한 940~950억 달러를 기록할 것으로 보고 있으며, 다음 분기 가이던스는 셀사이드 컨센서스 약 1,040억 달러 대비 3~4% 높은 1,070~1,080억 달러가 제시될 것으로 전망합니다. 근거는 차세대 베라 루빈 출하 개시, 신규 베라 CPU 램프업, 견조한 클라우드 캐펙스 흐름입니다. GPU 스팟 렌탈 가격이 사상 최고 수준(B200 시간당 5.66달러, H100 2.80달러, A100 1.64달러)을 유지하고 있다는 점도 클라우드 가격 상승 여력과 ROI 우려 완화, 차세대 제품 채택 가속을 시사한다고 봅니다.\n헤드라인 숫자를 넘어 주목할 다섯 가지 쟁점으로는 베라 루빈 출시 및 공급 업데이트와 CY25~27년 1조 달러 이상 전망의 변경 여부, OpenAI 벤더 파이낸싱과 백스톱 구조의 명확화 및 현금이 자사주 매입으로 전환되는 시점, 메모리 원가 인플레이션 하에서의 마진 지속성(메모리가 빌드 코스트에서 차지하는 비중이 과거 15~20%에서 현재 40~50%로 상승), 하이퍼스케일러 대비 ACIE 성장률, 오픈 모델과 클로즈드 모델 구도가 엔비디아 SAM에 미치는 영향을 꼽았습니다.\n■ 메모리 원가 인플레이션 영향\nBofA는 메모리 가격 압력에도 불구하고 엔비디아 총이익률이 중장기적으로 73~74%대(현재 약 75%)를 유지할 것으로 봅니다. NVL 컴퓨트 랙 기준으로 베라 루빈 세대의 마진 훼손은 약 60bp에 그칩니다. 블랙웰 울트라 NVL72 랙에서 DRAM 총원가는 랙 가격(약 400만 달러)의 약 12.1%인데, 베라 루빈에서는 구성에 따라 11.5~13.9%, 평균 약 12.7%(랙 가격 700~850만 달러)로 추정됩니다.\n세부적으로 HBM은 블랙웰 GB당 11.26달러에서 블랙웰 울트라 14.38달러, 루빈 19.76달러로 상승하지만, 랙 ASP 자체가 75~100% 이상 오르기 때문에 랙 원가 대비 HBM 비중은 오히려 블랙웰 울트라 7.5%에서 루빈 5~6% 수준으로 낮아집니다. HBM은 긴 리드타임과 선주문, LTA를 통해 가격이 이미 고정된 부분이 많아 다른 메모리 대비 가격 상승폭이 제한적이고, 엔비디아의 실제 계약 단가는 시장 가정치보다 낮을 가능성이 있다는 점을 근거로 제시합니다.\n반면 LPDDR은 그레이스(480GB)에서 베라(768GB~1.5TB)로 탑재량이 늘고 가격도 급등해 부담이 더 큽니다. 랙 원가 대비 비중은 블랙웰 2.1%, 블랙웰 울트라 4.6%에서 루빈 v1(1.5TB 베라) 기준 최대 9.1%까지 상승합니다. 다만 엔비디아가 메모리 원가 부담을 고려해 메모리 탑재량을 절반(768GB)으로 줄인 베라 CPU 버전을 준비 중이라는 보도가 있으며, 이 경우 비중은 약 5.6%로 낮아집니다.\n팟 단위 풀시스템 기준으로는 CPU 랙의 LPDDR과 STX 스토리지 랙의 NAND까지 포함되면서 최대 약 500bp의 마진 희석이 발생할 수 있습니다. 그러나 초기에는 풀 팟 판매 믹스가 크지 않을 것이고, LTA와 SK하이닉스 등 메모리 업체와의 장기 관계에 따른 우선 조달 및 우대 가격, 현재 사상 최고 수준의 GPU 렌탈 가격이 뒷받침하는 컴퓨트 가격 결정력, 그리고 무엇보다 원가 상승분을 전가하고 다이내믹 프라이싱을 적용할 수 있는 능력이 이를 상쇄할 것으로 봅니다.\n■ 순환 출자 논란은 FCF의 15% 수준\n엔비디아가 생태계 파트너에 직접 투자한 지분 투자 규모는 OpenAI 300억 달러, Anthropic 최대 100억 달러, Safe Superintelligence 50억 달러, 인텔 50억 달러 등 총 약 700억 달러입니다. 이는 CY26~27년 2년간 창출 가능한 FCF 약 4,700억 달러의 15%에 불과하며, 2026년 5월 약속한 FCF 50% 주주환원 정책에도 충분한 여력이 남는다는 판단입니다.\n시장이 우려하는 OpenAI 및 SB에너지 관련 2,500억 달러 백스톱은 선지급 자본이 아니라 OpenAI가 SB에너지의 오하이오 10GW 캠퍼스 임대(20년)에 디폴트할 경우에만 발동되는 우발적 보증입니다. 엔비디아는 자사의 투자등급 신용을 빌려주는 형태이며, 디폴트 시에도 부지 인수나 전대 권리를 주장할 수 있어 실질 익스포저는 제한적입니다. 캠퍼스 첫 800MW가 2028년 가동 예정이라 부담도 2028~2030년 이후로 후행하는데, 그 시점 엔비디아의 연간 FCF는 3,000~5,000억 달러 수준으로 예상됩니다. 구글이 브릿지론과 리볼버로 데이터센터를 지원하고 SPV가 TPU를 매입해 리스하는 앤스로픽 딜 구조와 마찬가지로, 벤더 지원형 프로젝트 파이낸스는 흔한 형태라는 설명입니다.\n■ 실적 추정 및 밸류에이션\nBofA는 AI 데이터센터 시스템 TAM 1.7조 달러 이상과 70% 이상의 엔비디아 점유율을 전제로 CY27년 EPS 13달러 이상, CY30년 25달러 이상의 이익 창출력을 제시합니다. AI 가속기 시장에서는 CY30년까지 65~70% 점유율을 유지할 것으로 봅니다. 매출은 CY26E 3,961억 달러, CY27E 5,646억 달러, CY30E 1조 444억 달러로 추정하며, 총이익률은 74~75%대를 유지합니다.\n밸류에이션은 CY27 기준 선행 PER 약 16배, PEG 0.3배로 약 10년 내 최저 수준입니다. 비교 대상인 매그니피센트7 및 테크10 종목의 비엔비디아 평균 PEG 1.7배 대비 크게 낮으며, FCF 마진도 약 50%로 나머지 기업들의 20% 미만을 크게 상회합니다. 목표주가 350달러는 현금 제외 CY27E EPS에 26배를 적용한 값으로, 과거 선행 PER 밴드 25~56배 범위 내에 있습니다. 하방 리스크로는 게이밍 시장 부진, AI 및 가속 컴퓨팅 시장 경쟁 심화, 대중국 수출 규제 확대, 신규 엔터프라이즈 및 데이터센터 매출의 변동성, 자본 환원 감속 가능성, 반독점 등 정부 규제 강화를 제시했습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/l6bVOPeMUK_z64GQdlxP-KogO4CoEQ1KToPdRMZxqoZvaZ0rEg44wxwartVDwCLHKmiONEtX5VqKikJq4gZeIEURDgAW-ziOhc9srN6JRYZMSyVpypd4ToaTlm9J1hrrJvYWW0xEoqVBhHFyeyf2WotR8Pk-0fIabDl1rag1RdGtR0HmSL_nyxbUr14t7lauPdULVazRH5pGj1X4kXlOMYnBcvujwFwaQRUG5T4DpAkeIWD26dIJyJjl9NVNDlWUKJfqdwkJmPvD6SjhrBFTfgyhCL0r5L67iT_DzDjynd9qlp8kgoZe8Fe1QeePa8RVlj0VA_Fhl5NialtQRp3dfQ.jpg",
+        "https://cdn5.telesco.pe/file/FzTJPP7tyeudWudx5KvcXYO8t5JaYS77hDY9HJeeyJdg_i_cFNO1v12V1Tp-l0XfrDmCStrkDHvkLsFCOvJ2Ft5ebWToaZIPHLPAFFpDNeKuWUajwDVXV7NI5ulOPGFgM0jjLLII81-MFq2xaBRTf5a7MS3CFY2Nn2jO0_SCe3zqoBrnXGtlAaUe8SwfT3jZsV0mOxDSxaFH4MacQkX6Ow4Da6U3qNR8lPtvylLzKNFi1o77OzwO67i1_nMzJ40XeLJ5tbQc2VIUwj5SOIoAIsiL4rl02ugLfG3ljjEg67zuYrZg9PBQFKeGrnkCQCDd8vFu77aWJoACwQRKvfcbKw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-11T13:55:42+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24522",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24522",
+      "text": "JP모건) CoreWeave (CRWV);  AI 인프라에서의 우호적인 수요와 리더십, 제한적인 단기 마진 상승 여력에 의해 상쇄; Neutral 유지 및 2027년 12월 목표주가 110달러 신규 제시\nJP모건은 CoreWeave에 대해 건설적인 시각을 유지하면서도, 단기 마진 관련 촉매 부재를 이유로 Neutral 등급을 유지했습니다. AI 컴퓨트 스케일링의 선두주자로 자리잡은 동시에 고마진 하드웨어·소프트웨어를 결합한 PaaS 벤더로 진화 중이라는 점은 긍정적으로 평가하지만, F3Q 영업이익률 전망을 컨센서스 7.5%보다 낮은 7.0%로 제시하며 단기 긍정적 촉매가 제한적이라고 판단했습니다.\n수요 측면에서는 가시성이 매우 높다고 평가했습니다. SpaceX가 Anthropic·Google과 체결한 컴퓨트 계약이 Blackwell 칩 기준 와트당 약 50달러의 프리미엄 가격에 성사된 것으로 알려졌는데, Blackwell 아키텍처의 와트당 capex가 35~40달러 수준임을 감안하면 업계의 수급 불균형과 높은 마진 기회를 보여주는 사례라고 분석했습니다. 구세대 GPU 렌탈 가격도 연초 이후 Ampere 21%, Hopper 21%(Blackwell 32%) 상승해 추론 수요 급증에 따른 컴퓨트 부족을 방증한다고 봤습니다. 수주잔고(revenue backlog)는 F1Q25 259억 달러에서 F1Q26 994억 달러로 전년 대비 284% 급증했으며, 48개월 초과 장기 물량 비중도 F4Q24 4%에서 F1Q26 25%로 확대되어 고객들의 장기 수요 확신을 보여준다고 평가했습니다.\n기술 리더십 측면에서는 최근 12개월간 약 600MW의 캐파를 추가하며 Nebius(170MW), IREN(300MW 미만) 등 NeoCloud 중 선두를 유지했고, Gartner 기준 IaaS 시장 점유율도 2024년 1%에서 2025년 2.1%로 상승해 7위에 올랐다고 언급했습니다. SemiAnalysis Platinum ClusterMax 랭킹에서 Oracle, Nebius, Crusoe, Lambda, IREN을 제치고 최상위 클라우드 지위를 유지 중이며, MLPerf 벤치마크에서도 8,192개 GB300 NVL72 클러스터로 DeepSeek-V3 최단 학습 시간(2.02분)을 기록했습니다. 예약 인스턴스 고객의 90% 이상이 2개 이상, 75% 이상이 3개 이상의 제품을 사용 중이고, 소프트웨어·CPU·네트워킹 각각이 2026년 말까지 ARR 1억 달러를 상회할 전망이어서 \"베어메탈 업체\"라는 투자자 인식과 달리 풀스택 역량이 차별화 요소라고 강조했습니다.\n핵심 쟁점인 마진에 대해서는, F1Q26 프로포마 영업이익률 1%까지의 하락은 가격 압박이 아닌 매출과 capex 투자 간 타이밍 차이에 기인한 것이며 F1Q이 저점이라고 판단했습니다. 다만 개선 경로는 하반기에 집중될 것으로 보며, F2Q26 낮은 한 자릿수, F3Q26 7.0%(컨센서스 7.5% 소폭 하회), F4Q26 13.6%의 분기별 궤적을 전망했습니다. 연간으로는 2026년 7.5%, 2027년 13.9%, 2028년 14.9%, 2030년 16.5%를 제시하면서, 회사가 제시한 20% 중반대 장기 마진 목표는 급격한 캐파 확장 지속으로 인해 2020년대 말까지도 달성이 어려울 것으로 예상했습니다.\nGPU 감가상각 논쟁에 대해서는 우려가 상당 부분 해소됐다고 평가했습니다. 구세대 칩 가격 상승과 함께, 실제 시장에서 관측되는 GPU 사용 수명이 평균 계약 기간 5년 및 GAAP 감가상각 기준 6년보다 긴 7~8년 수준으로 추적되고 있다는 점을 근거로 들었습니다. 데이터센터 리스 기간(5~15년)이 고객 계약보다 긴 점에 대해서도, 시설 리스·전력의 연간 비용이 1년차 매출 기회의 약 6분의 1에 불과해 현재 가격의 일부 수준으로 재계약해도 두 번째 5년 구간의 현금흐름 손익분기 달성이 가능하다고 분석했습니다.\n자본 접근성도 저평가된 해자로 지목했습니다. 2026년 capex 가이던스 310~350억 달러 대비 매출 125억 달러라는 자본 집약도 하에서, GPU 담보 DDTL 구조를 통해 실효 금리를 DDTL 1.0(2023년) 15%에서 DDTL 4.0(2026년) 7%까지 낮췄고, DDTL 4.0은 HPC 인프라 담보 파이낸싱 최초로 무디스·피치·DBRS로부터 A- 등급을 받았습니다. 실효 부채비용은 2026년 말 9%, 2027년 말 8%로 전망했습니다.\n고객 집중 리스크에 대해서는 F1Q26 기준 상위 2개 고객이 매출의 약 65%를 차지하는 점을 인정하면서도, 이는 4대 하이퍼스케일러가 AI 자본지출을 주도하는 산업 구조에서 비롯된 것으로 NVIDIA(약 36%), Arista(약 42%), Broadcom(약 35%) 등 AI 인프라 고성장 기업 전반에 공통된 특성이라고 설명했습니다. 발표된 수주잔고 기여 고객은 Meta 352억 달러, OpenAI 224억 달러, Microsoft 100억 달러 이상, Nvidia 63억 달러, Jane Street 60억 달러 순입니다.\n밸류에이션은 CY28 프로포마 EBIT 추정치 69억 달러에 EV/PF EBIT 약 27배를 적용해 목표주가 110달러를 산출했으며, 이는 AI 인프라 비교기업군(Amazon, Google, Microsoft, Meta, Oracle, Equinix, DigitalOcean)의 2027년 평균 약 24배 대비 프리미엄입니다. 상방 리스크로는 계약 캐파의 매출 전환 가속, 플랫폼·인접 서비스 attach 확대, 자본비용 추가 하락, 감가상각 완료 캐파의 재계약 경제성을, 하방 리스크로는 캐파 납기 실행 리스크, 매출·조달처 집중, 자본시장 접근성 의존, 공급망·전력·투입비용 의존을 제시했습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/v2SeQKR9zW5VdlDqQOtV3UMEbZZWki2o95LWXdthv2ZIPTB-GxpVs00F-n8G1r-UIeJuSQvZJNIHjMZQl0IUCwixF__mpN2Ia8e6oSppevRJJR4njpwofvA1kJJ6Qv1925L1-5J8-F2uLg7Sku1wKJjmjVQRiifJ37cmulwxtxdZdOdHt3OuUF8DwQ9JQNZwXexhjS4jzZ84z3WjLwx-iUm4X6lAsQ_JeGFsRTAbqP-3uu_6U16AdG4_6arTD_P4JhymV5rUc2L8O1KMGaPQTTZg6sOAB9F_N2J4fCnmcx2Autwy1tl4fN3sMln3-ajrSKs2J60qty6344tFvI_Qew.jpg",
+        "https://cdn5.telesco.pe/file/be7yAd2TUJJuq2fQWsETknD7kHLQKZa2794GuUIiEsU2I3dUk2D4278JvuY9XDCAAiW8G98afOMvB98_07hrMmTAiwJ2OFdLu1j1fZzSKkB0pbEBJOMuAxaKlFkc1ZsYtoz1UA3-LbcS9EnWQGkqfnTlXsytLd1cjBQYZZZyP6p1ctR9F2QkS-zWoZLUAkBrNCSUovnetL0IFmET_r7G27dq4O2AEorkHXkAzNFfSwIkYwtugFpZjhjKJgyh1dLT31iTNKhHueOwCldW8LtWzo0x4yGqDYAyXxsmcyIoLlfksULPgY5gn3KrXc6weGp0axhI9EvV7Z4JhvvghjNNHQ.jpg",
+        "https://cdn5.telesco.pe/file/rni01GI9Qy50u0GJoEN7v7J9jExZtomR3GnGjU6w1OK2K0JwggkId8hxJO9iMW5oGeGPQFCRkTHTGLP1MqAPe2Mhk6ZxKxTraLU5ZWOPlS0OsvItRP8fwMAILET5RtknOh6bK1QhzWbjAfEew8jBGZFqkvgsCob1VHPM0dsY5_tsVLZ3Z5_25Htgd886f2zHxuWmVH2h5j5cZActNXLiwqNGYqdC9NMJyOxKznz8sZgq2tkkrwc0wGSz9gtSYBVevmN6MTTpcKba6t2F6YDv-029IiMxgIoeirPqKcFtN_AqIO_G3rbi4AYNC2SmNHh5UxlbXUd0YLMfZulW76ZXew.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-11T13:46:41+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24521",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24521",
+      "text": "$NVDA  - NVIDIA IS DEVELOPING A NEW NEMOTRON 4 OPEN-SOURCE AI MODEL - THE INFORMATION  MULTIPLE NVIDIA EMPLOYEES WORKING ON NEMOTRON SAID THEY EXPECT THE BIGGEST NEMOTRON 4 MODEL TO HAVE AT LEAST A TRILLION PARAMETERS - THE INFORMATION ...",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-11T13:19:00+00:00"
+    },
     {
       "id": "tg:EMchina/32288",
       "source": "telegram",
@@ -209,56 +265,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-11T11:04:31+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24512",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24512",
-      "text": "애널리스트 여러분께 바칩니다",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T11:04:10+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24511",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24511",
-      "text": "애널리스트 여러분께 바칩니다",
-      "images": [
-        "https://cdn5.telesco.pe/file/fgrdo-4Wvv1q14tmLiOFfLx4wsMt1Uv9GPQcIAZGdK5Xm_wJFTS-UsbE6ZswMXa_t2pOdC_gS2mkzU1dDsYiBlC-KOXfELt1NtHZK2uFZmO--2RKC9GpzAB6tJYHjUVQH0BneHCzkFjKNOzti3K4aCQR4_cPozbOE_GvCq5vecaa1lueaDyunCB-LecOUGaY8oGpSk6G4_CmLaCy1q8Q28fKs-pNbkTKeCHhgAddKJUIh9a5BG9AwvMM1N-DsB0njukmU9O8o6SMaQ8qNfQZzO6NVyjBQ7iaaPuGsYZt4kjtalZoCglf7TKXb2XEE7dFhSNlf6o8MgFp2o7-1x0Shg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-11T11:04:03+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24510",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24510",
-      "text": "JP모건의 CPI 플레이북\n- [5.0%] 근원 전월 대비가 0.30%를 상회. S&P 500 1.5% - 2.5% 하락\n- [25.0%] 근원 전월 대비가 0.25% - 0.30% 사이. S&P 500 50bp – 1.25% 하락\n- [40.0%] 근원 전월 대비가 0.20% - 0.25% 사이. S&P 500 25bp – 75bp 상승\n- [25.0%] 근원 전월 대비가 0.15% - 0.20% 사이. S&P 500 50bp – 1% 상승\n- [5.0%] 근원 전월 대비가 0.15%를 하회. S&P 500 1% - 2% 상승.\n- 옵션은 무엇을 프라이싱하고 있는가? 8월 12일 만기 옵션은 8월 7일 가격 기준으로 약 0.9%의 변동을 프라이싱하고 있습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T11:02:46+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24509",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24509",
-      "text": "https://n.news.naver.com/article/029/0003041692?cds=news_my\n2030은 거지됬으니 다음 타겟은 40대",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T10:50:11+00:00"
     },
     {
       "id": "tg:EMchina/32285",
@@ -877,7 +883,7 @@
       "url": "https://t.me/globaletfi/21051",
       "text": "» 방산 ETF들의 주가 동반 상승 중",
       "images": [
-        "https://cdn5.telesco.pe/file/TWMO7xvs-aagf4cJFn-j1TsJ4RUETbjMqnlCBAz8o1kUEuQYOoYM9bsjg-UG_ixEQwdFGVCEHvbBOzf-ml308RpcCNFUqlazedsj6HowoGFEcILMpRPYnejegfDdBloJywrs__essjoGuWxSj5NeunLIzOH_7qci-j_YXbgmx_TKH5T6ELeGvbHhcg3zUtwF0dAfAbj1sW_tbWd2BJx69cLVjNiL9AmDx0IleUsgb_AB9zrthVXG9IsBVRzylxEH_FbepZQjV7P380_6z_PU2hyuWSGcNztTahy23beT0kctaqrn39jWJxk4tUJ9V3D_tsOo3zLDYarzZnZxM6lv5Q.jpg"
+        "https://cdn5.telesco.pe/file/G8jUDlaJvLvka9Ta2w4Zb6eoNTlleByTa3NbIor_4__lBnQKkfkYNUInIq7A4UEgG95ud7agNPMQuAPFiLbBJWNTRwwRULsryW0fzfu-qDGIaBnmkNDfyjaC1FdkmtGYBVteba6tENP6BYO3rWX4yNFYvq2xreCdYRzseWrt33DHeWTg2vEakEmh1c7SomYV2Qsozl2efFb_FOHrTJTr9RH47mTgS1e8qdk-qTHE4yVbjsdEGad70QSLGXWd0FzFARkLxKIHU-EI-WQKkNvoWZPQRqXmHrIS68auZihl9QcG_72K7vDTnoEudtYuColvC1dw91nfcl2_Vkc92P-pcg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-10T14:35:23+00:00"
@@ -891,8 +897,8 @@
       "url": "https://t.me/globaletfi/21049",
       "text": "» WTI 유가는 배럴당 80달러선, Brent 유가는 85달러선까지 상승",
       "images": [
-        "https://cdn5.telesco.pe/file/GR74yt4K5QfUjQ2xDyZCRXIT-Bd5E4dynUNchqU6eFg2b2wjZkVmiIUC_uPI_o1tpAZyuQ0QkAZaqbsucEm8Kkv1PSOhEQyrv7PBHbQcg4WF1iLX8gF--1wiGycQI8b6JW_VOcCOZngI3I30VvJAcxbhBAU48FVSh0CRbKNClBcQiEx7KhF1Ufi2B8Jz2cWZ5PWG4wFSjQmPBGJhQKMrZ7eM5Y9EdcvemG5eO83WXmY4SP1EYL9IULdKHo8V463tc4Kv2pht-8yg8SNBSOAqmFYQWOqPh247PDeY4JT68cbRY6521tab1_77dQNFs-Mh4bZWjFYLXkFrIEbyxlzf9A.jpg",
-        "https://cdn5.telesco.pe/file/u0nj-yone_otCc4HpUFKtmyjsBvWq0RJEDxdHXABqxu3RKS0Fw1LrGnPzJfR4fZC6DcQJ2mtBqquFrTg5rAAnK1nGDShXahvz3FlziDUJXWHTlsskA_Rwnwsn9Zlk0ok5vAT2hgB4qH--2TkbFiyN-NmkGhou9qaQUgCNridAXESPjBdJNm8AjnwOBSvu7gOakL98A8dAJQ4p7pbxS2DMoeP2Wre99VXxWo7EXWmly88MzMI7iwf6uGn2JfKwmSh1N1So6fCt7yDDLlszR2cqXOTxp3G3ekWZErm46jnG-FBZg_AXBrLsE1w63Ps3-SgiDllWlE8XujqT7PsUmVApQ.jpg"
+        "https://cdn5.telesco.pe/file/q0wAq2nKnfcoBg3pujYF7BhSWQvRDi1G4KQaUJCllLLqJ61XJ1S3GRzt8PCtgdU_IyXYTa8WYMrycN-cPRVqrA0xnnTpbIdsTqnL2pamhuiEGz049lTu5CZ0MRcMEnTE7ryR4uuVmjeYfMP2oI3-5v_7MNiLbPRsdrU3YPvQpVjkUAnCagzYLIcE8rtDqo5JBsJX9WpqFHQg48BFp7YGwGx8DEynV8epODKUHuVf5j3EJmBgmZi0fqR_BC7WCHcE-qqaDP2YZHjHm-5coQSAHUkhHN901nvugp7PhG3PAjoS9PwY7AFh8WtNOsMKEskNl0CzKCGE5Y5sI1xIu3SEXQ.jpg",
+        "https://cdn5.telesco.pe/file/T-xc0Wi4CLEwd6rLxUqbdX3C1NbJqPac7OIYD71p0S_chH5sRcTsBt-snk7zYTFzhRSS70wuSZFH1w2e1k7hYimSOuB07mahZNO44uuIJ0Xal3f_wXLRIXzeUrmdmtf-XSV-ShIo1np8qeI22WWPsG7D6j4igLZ68oU_qjjBsiUd0nwLUuhpJbcuYkZWYY-g45u7E_OSlaGC9cmTyRvJHXWPfGH8CH8I3x-4qk2hj1Hff5sldaO89bA0e8c2dfX2BUCHNsZICDdzGSBZ_R60NgfulgytlMzqRfZSunB_Aj-EoxnEHlvSSbscx-LE9aYTJOMpOYmnRDUN5V87J2sckg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-10T14:33:43+00:00"
@@ -920,7 +926,7 @@
       "url": "https://t.me/globaletfi/21048",
       "text": "🔹\nStrategy, 비트코인·보통주 매각 통해 현금 유동성 확대\n» Michael Saylor의 Strategy, 비트코인 매입 중심의 기존 전략에서 벗어나 비트코인과 보통주 매각을 통한 현금 확보 및 자본구조 재조정 진행\n» 8월 9일까지 최근 일주일 동안 1억860만달러 규모의 비트코인 및 보통주 660만주를 약 6억5,300만달러에 매각. 동시에 1억860만달러 규모의 STRC(Stretch) 우선주 자사주 매입\n» Strategy의 현재 비트코인 보유가치는 약 580억달러 수준. 자금조달 구조에 대한 시장 우려가 확대되면서 지난 5월 말부터 자본관리 전략 전환. 이후 약 4억3,200만달러 규모의 비트코인 매각. 현금성 준비금을 약 46억달러까지 확대하며 재무 완충력 확보에 초점",
       "images": [
-        "https://cdn5.telesco.pe/file/lAE113jHMOK_H1Ue6Lu4Hzry9Bp2wKELj6TpLCdhxRFXUZYKX0K_vz512hfFDqu12cCP2gLiEqSqbsRHJ8JGcwz6TWKlec2tBKEmdbD4GSFVQbJsXBXriIqp4TukVfZ-xa_qIsEVoVQ5BGGlKC0hW2MlxVvCdY96R7QGW4c44CS3fxvyo9NdcGqWirAHBtvHKbNUN2UV7x19wDxCIRUFL2-s2FodIwqi3wGAaDZR60rMvwjhbh7yBmT5hms5kERTWyfTomQsJR7_RY2ssgvgcsljYPY_XTTevK9AtSVlrr46VKwWOci1n_0oL86nlQd88NGsxqazPcZyK7LKCnMPFw.jpg"
+        "https://cdn5.telesco.pe/file/Hg_t3qUaE8bxoaGgSbkpCvu4Aw92QRJOwjqc9n-d-h0OuWLHqh9CpMQHEwGIpR_wD7EcFWado4a8DEs37bJEx72UmoLWvpd6lbuwGSKDQNc-NLeKroiKBN7z5GUJqh5yqiarKLLRMYCHkL5TDe0ByANoJuknh05sD8SmLGrYV4n2o6GLaKbsVkd9GTScYVXHj5JiLBRblkk2cXw-kcuXM-eU7gUaqjVBjeZPG2e5T7tsFeDBGnrErlVXfnK5FbbrDNXwv2aPofJb-Cr9v9X_onuwSO2JcNaY7yS9_n9o6ksW242mio7SlYQAiNbGNSlJ-U9oX_Gcj2YBXhW8Y0xhvQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-10T13:33:33+00:00"
