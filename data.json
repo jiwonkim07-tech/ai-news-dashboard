@@ -1,22 +1,50 @@
 {
-  "updated_at": "2026-08-11T16:02:27+00:00",
+  "updated_at": "2026-08-11T17:56:51+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 1
+    "new_this_run": 5
   },
   "briefing": {
-    "headline": "엔비디아, AI 인프라 수혜 전망",
+    "headline": "엔비디아, 새로운 NEMOTRON 4 오픈소스 AI 모델 개발",
     "bullets": [
-      "AMD, 앤트로픽의 라이엇 데이터센터 리스 수혜",
-      "엔비디아, 뉴 네모트론 4 오픈소스 AI 모델 개발",
+      "OpenAI, Linux용 ChatGPT 데스크톱 앱 미리 보기 제공",
+      "엔비디아, IBM 클라우드 기반 AI 인프라로 오픈소스 AI 추론 확장",
       "TSMC, 타오위안 1.4나노 공장 재추진",
-      "DRAM 수출 단가, 8월 1~10일 선형적 상승",
-      "유가 하락 전환, 알루미늄 가격 7일 연속 상승"
+      "소니그룹-TSMC, 쿠마모토에 1조엔 투자 첨단 이미지센서 양산 예정",
+      "SK하이닉스, 인텔의 나머지 20억 달러의 잔금을 3월에 납입 예정"
     ],
-    "generated_at": "2026-08-11T16:02:27+00:00",
+    "generated_at": "2026-08-11T17:56:51+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:OpenAI:2087231350134980830",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2087231350134980830",
+      "text": "Now in preview: The ChatGPT desktop app for Linux. Use ChatGPT, ChatGPT Work, and Codex where you already work and build, with your projects and browser workflows on supported Linux systems.",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2087231244073607168/img/mIBfQhfEIXc_7kzi.jpg"
+      ],
+      "summary_ko": "현재 미리 보기 상태: Linux용 ChatGPT 데스크톱 앱. 지원되는 Linux 시스템의 프로젝트 및 브라우저 워크플로에서 이미 작업하고 빌드하는 ChatGPT, ChatGPT Work 및 Codex를 사용하세요.",
+      "published_at": "2026-08-11T17:35:07+00:00"
+    },
+    {
+      "id": "x:OpenAI:2087231351502385266",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2087231351502385266",
+      "text": "R to @OpenAI: The ChatGPT desktop app is now available in preview for desktop variants of these Linux distributions: • Ubuntu 24.04 LTS and 26.04 LTS • Debian 13 • Fedora 43 and 44 Install with .deb or .rfpm packages for x64 or ARM64. http://openai.com/codex",
+      "images": [
+        "https://pbs.twimg.com/card_img/2084862721644961792/CnEg2Gl3?format=jpg&name=800x419"
+      ],
+      "summary_ko": "R에서 @OpenAI로: ChatGPT 데스크톱 앱은 이제 다음 Linux 배포판의 데스크톱 변형에 대한 미리보기로 제공됩니다. http://openai.com/codex",
+      "published_at": "2026-08-11T17:35:07+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24528",
       "source": "telegram",
@@ -1621,20 +1649,6 @@
       "published_at": "2026-08-04T21:07:37+00:00"
     },
     {
-      "id": "x:OpenAI:2084747580693426555",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2084747580693426555",
-      "text": "We're detailing two new incidents that occurred during external cyber evaluations conducted by independent evaluation partners. We outline what happened, how the activity was contained, and how we’re working with evaluators to strengthen our approach to third-party testing. https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2084747000768045057/dEZdZLyw?format=jpg&name=800x419"
-      ],
-      "summary_ko": "우리는 독립적인 평가 파트너가 실시한 외부 사이버 평가 중에 발생한 두 가지 새로운 사건에 대해 자세히 설명하고 있습니다. 어떤 일이 일어났는지, 활동이 어떻게 억제되었는지, 그리고 평가자와 협력하여 제3자 테스트에 대한 접근 방식을 강화하는 방법을 간략하게 설명합니다. https://openai.com/index/third-party-cyber-evaluations-involving-openai-models/",
-      "published_at": "2026-08-04T21:05:30+00:00"
-    },
-    {
       "id": "x:sama:2084663673570971990",
       "source": "x",
       "author": "sama",
@@ -1647,20 +1661,6 @@
       ],
       "summary_ko": "나는 일이 왜 안 될지 비관적으로 글을 올리는 것보다 차라리 낙천주의자가 되어 열심히 일하고 싶습니다. 훨씬 더 어렵고 가장 가능성이 높은 길은 실패이지만, 사람들이 시도하지 않으면 사회는 실패합니다. \"절대 작동하지 않을 것입니다\"라는 에세이는 아무리 많아도 사회를 발전시킬 수 없습니다.",
       "published_at": "2026-08-04T15:32:05+00:00"
-    },
-    {
-      "id": "x:OpenAI:2084378417320141196",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2084378417320141196",
-      "text": "R to @OpenAI: Audio moves through a dedicated fast path, while deeper reasoning and tool use happen asynchronously. We also reduced voice-session startup from six network round trips to one.",
-      "images": [
-        "https://pbs.twimg.com/media/HO0ubl0aMAA3H2r.png"
-      ],
-      "summary_ko": "R에서 @OpenAI로: 오디오는 전용 빠른 경로를 통해 이동하는 반면 더 깊은 추론과 도구 사용은 비동기적으로 발생합니다. 또한 음성 세션 시작을 6번의 네트워크 왕복에서 1번으로 줄였습니다.",
-      "published_at": "2026-08-03T20:38:35+00:00"
     },
     {
       "id": "rss:semianalysis:kimi-k3-the-manos-the-mythos-the",
