@@ -1,21 +1,58 @@
 {
-  "updated_at": "2026-08-11T08:55:41+00:00",
+  "updated_at": "2026-08-11T10:00:20+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 9
+    "new_this_run": 3
   },
   "briefing": {
-    "headline": "엔비디아, HBM4E칩 너프",
+    "headline": "SK하이닉스, 中 낸드 생산 50% 늘린다",
     "bullets": [
       "인텔, 주식 공모 규모 200억 달러로 확대",
-      "한화, 美 핵추진 잠수함 건조 오스탈 USA 인수 추진",
-      "DRAM 수출 단가, 8월 1~10일 선형적 상승세",
-      "금 현물가격, 4300달러 돌파"
+      "엔비디아, HBM공급 부족에 대응",
+      "CXMT의 1x DDR5 수율 90% 돌파",
+      "애플, 중국산 메모리 테스트",
+      "한화, 美 핵추진 잠수함 건조 오스탈 USA 인수 추진"
     ],
-    "generated_at": "2026-08-11T08:55:41+00:00",
+    "generated_at": "2026-08-11T10:00:20+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32282",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32282",
+      "text": "~ 23일 반도체업계에 따르면 SK하이닉스는 2021년 70억 달러 지불로 1차 자금납입을 완료한 데 이어 오는 3월 남은 20억 달러의 잔금을 납입하며 인텔의 낸드플래시·SSD(솔리드스테이드드라이브) 사업 인수·합병(M&A)을 마무리 짓는다  ~ SK하이닉스 관계자는 \"현재는 낸드 사업이 세 군데로 찢어져 있는 느낌인데, 이번에 딜 클로징을 하면 다롄 공장 운영 권한이 완전히 넘어와 전체적으로 통일성을 갖게 되는 것\"이라고 설명했다  https://n…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-11T09:16:24+00:00"
+    },
+    {
+      "id": "tg:EMchina/32281",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32281",
+      "text": "위안화로 석유/철광석 구매? 위안화 국제화는 실질적으로 추진(JP모건)  • 원자재 결제에서 위안화 사용 지속적으로 확대. 2025년 위안화 결제가 중국 상품 무역에서 차지하는 비중은 이미 사상 최고치인 29% 도달  • 위안화 국제화 진전은 사실. 다만 '페트로위안' 비유는 적절하지 않음. 가장 큰 가능성은 달러 대체 아닌 다극화 체제에서의 위안화 역할 확대  >> 하반기 전망 참고 부탁드립니다  “石油人民币”？“铁矿石人民币”？人民币国际化正“务实推进”…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-11T09:13:06+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24508",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24508",
+      "text": "[단독] SK하이닉스, 中 낸드 생산 50% 늘린다\nhttps://n.news.naver.com/article/011/0004650723?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-11T09:09:48+00:00"
+    },
     {
       "id": "tg:enc210406/4311",
       "source": "telegram",
@@ -554,30 +591,6 @@
       "published_at": "2026-08-10T23:37:39+00:00"
     },
     {
-      "id": "tg:EMchina/32270",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32270",
-      "text": "엔비디아, 아폴로/블랙스톤/GIP/브룩필드/골드만삭스/KKR 등과 AI 인프라 투자 위한 컨소시엄 구성. AI 칩 구매, 전력 생산 및 데이터센터 구축에 사용될 예정  • 소식 발표 이후 엔비디아 주가는 한때 3.2% 하락. CDS는 2주만에 최대 일일 상승폭 기록  英伟达正寻求联合Apollo、黑石、贝莱德旗下GIP、Brookfield、高盛及KKR等华尔街巨头，以联合体形式为AI基础设施项目筹集高达5000亿美元资金，用于AI芯片采购、电力生产及数据中心建设。消息公布…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-10T23:36:56+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24496",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24496",
-      "text": "닛케이) JAXA, 'H3' 로켓 발사 성공 일본판 GPS 위성 탑재, 세계에 도전\n우주항공연구개발기구(JAXA)는 11일 오전 4시 23분경, 일본의 대형 로켓 'H3' 9호기를 타네가시마 우주센터(카고시마현)에서 발사했습니다. 해당 로켓은 일본판 GPS(QZSS)의 준천정위성 '미치비키'를 탑재하고 있었으며, 약 30분 후 미치비키를 로켓에서 분리했습니다. 예정된 궤도에 투입해 발사는 성공했습니다.\n9호기는 당초 2월에 발사할 예정으로, 2025년 12월에 H3 발사에 실패해 원인 규명을 위해 연기되어 있었습니다. 대형 인공위성을 탑재한 발사는 8개월 만이었습니다.\n탑재한 미치비키는 내각부가 운용하는 측위위성으로, 미츠비시전기가 개발을 담당했습니다. GPS의 측위 정보를 보완해 10미터 정도로 알려진 오차를 수십 센티미터까지 줄일 수 있기에, 자동차의 자율주행이나 농기계의 무인 운전 등 산업 경쟁력 향상으로 이어질 것으로 기대되고 있습니다.\n현재는 일본 상공과 오스트레일리아 대륙 상공을 '8자' 궤도로 도는 '준천정궤도'상의 3기와, 지상에서는 항상 같은 위치에 계속 머무르는 것처럼 보이는 적도 상공의 '정지궤도'상의 2기가 운용되고 있습니다. 7기가 되면 GPS에 의존하지 않고 24시간 고정밀 측위 정보를 지상에 전달할 수 있게 됩니다.\n현재 일본 정부는 자립 운영이 되는 7기 체제로 만드는 계획을 내걸고 있습니다. 당초에는 26년도 중을 목표로 하고 있었습니다. 25년 12월에 H3 발사에 실패해 탑재하고 있던 미치비키를 예정된 궤도에 투입하지 못했기 때문에 계획은 지연되고 있습니다. 따라서 앞으로 미치비키는 31년도와 32년도에 각각 2기씩 발사해 4기를 추가합니다. 31년도 이후에 7기 체제가 실현될 전망입니다.\nH3 로켓은 JAXA와 미츠비시중공업이 14년부터 개발을 시작했습니다. 초호기에서 발사에 실패한 이후 5기 연속으로 성공해 왔습니다. 25년 12월에 발사에 실패했지만, 원인을 규명하고 재발 방지 대책 등을 시행해 6월에 성공했습니다.\n세계 로켓 사업에서는 미국 스페이스X의 1강 체제가 계속되고 있습니다. 주력인 재사용 로켓 '팰컨9'은 연간 100회 이상 발사합니다. 세계 최대 로켓 '스타십'의 발사 시험을 실시해 로켓 1단의 회수에 성공했습니다. 팰컨9과 비교해 수송 능력은 4배가 되며, 수송량당 비용은 대폭 낮아지는 것으로 알려져 있습니다.\n이번에 25년 10월 이래가 되는 대형 위성의 궤도 투입에 성공했습니다. 인공위성을 우주로 보내는 비즈니스가 본격적으로 재개되었습니다.\n인공위성의 궤도 투입에 성공함으로써 H3의 발사 성공률은 78%로 올라가지만, 국제 시장에서 고신뢰성의 기준이 되는 '95%'의 실현은 아직 멀었습니다. 해외 인공위성 발사 수주를 목표로 하는 목표 달성을 향해, 한 바퀴 뒤처진 상태이기는 하지만 겨우 출발선에 섰습니다.\n이번 발사에서는 25년 12월에 실패한 '22형태'라는 타입의 기체를 사용했습니다. 메인 엔진 2기에 고체 로켓 부스터를 2개 탑재한 H3의 주력 타입으로, H3의 2호기부터 5호기까지 과거 4차례 성공하는 등 가장 실적이 많습니다.\n지난번 실패 시 원인이 되었던 받침대 부분은 전신인 'H2A'와 마찬가지로 볼트로 기계적으로 연결하는 패스너 방식을 채용했습니다.\nJAXA의 발사 책임자인 아리타 마코토 프로젝트 매니저는 5일 열린 사전 설명회에서 \"전전회의 실패로 큰 폐를 끼쳤다. 어떻게든 기대에 부응하고 싶다\"고 말했습니다.\n26년도에는 화성위성 탐사계획 'MMX'의 탐사기와 국제우주정거장(ISS)에 물자를 전달하는 보급선 'HTV-X' 2호기의 발사가 예정되어 있습니다.\nhttps://www.nikkei.com/article/DGXZQOSG218IV0R20C26A7000000/?n_cid=dsapp_share_android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-10T23:36:32+00:00"
-    },
-    {
       "id": "tg:globaletfi/21059",
       "source": "telegram",
       "author": "globaletfi",
@@ -600,20 +613,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-10T23:26:14+00:00"
-    },
-    {
-      "id": "tg:EMchina/32269",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32269",
-      "text": "[한투증권 중국/신흥국 정정영]  • 8월: 방향 전환에서 가속화로  >>  8월 월보를 작성했습니다. 전세계 하드웨어 테크 주식이 큰 변동성을 보인 가운데, 중국도 관련 업종 중심으로 조정이 컸습니다. 중국은 주식시장 하방 압력에 대응해 국가대표 자금을 투입하며 부양 의지를 드러냈고, 동시에 7월 정치국회의를 통해 하반기 거시정책 강화를 시사했습니다. 연초 이후 약해진 경제 회복 탄력을 끌어올릴 의지를 보여준 중국 정부는 상반기 상대적으로 보수적이었던…",
-      "images": [
-        "https://cdn5.telesco.pe/file/XIf4uPL361pGAs7CAvssOb19LMSWdYYDI_hDUt21RVRUyzXXRpvqoNjOrjSGO0j0X-8eXBX7e1PVW-61-N57JEGayw7DOew2GmjCHnuPc97HcmDosAhp_wEGti4sYXe0HCIR9Vw4l7r3uauY_4hf0cdt0pgb4gpQfOIEVjSbYCOznqnnou49S9Cn77T94K5irEszZV8Aw7pb9md9Wxyka3Lr0FuQqLJt6NHUz51hLYrlZuZVbhQKLTd17KzCMtbaNRkyJ2HTfoBIWo-yDoX7Lxou4PLj7MBi_wFLZBgQqw2Tyr37Qc9ci6oJKiy174WrXEX-114My1gNlF4QlQgmLg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-10T23:13:52+00:00"
     },
     {
       "id": "tg:HI_GS/6878",
