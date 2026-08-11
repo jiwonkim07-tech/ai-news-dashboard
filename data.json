@@ -1,22 +1,153 @@
 {
-  "updated_at": "2026-08-11T11:51:45+00:00",
+  "updated_at": "2026-08-11T13:04:44+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 12
+    "new_this_run": 11
   },
   "briefing": {
-    "headline": "SK하이닉스, 中 낸드 생산 50% 늘린다",
+    "headline": "엔비디아 관련 계약 잇따라",
     "bullets": [
-      "인텔, 주식 공모 규모 200억 달러로 확대",
-      "엔비디아, HBM공급 부족에 대응",
-      "달러 변곡점? 2024년 vs. 2026년",
-      "금 현물가격 4300달러 돌파",
-      "유가 하락 전환"
+      "딥시크, 전반적인 가격 인상 계획",
+      "TSMC, 타오위안 1.4나노 공장 재추진",
+      "소니그룹-TSMC, 쿠마모토에 1조엔 투자",
+      "IBM, 엔비디아 AI 인프라로 오픈소스 AI 추론 확장"
     ],
-    "generated_at": "2026-08-11T11:51:45+00:00",
+    "generated_at": "2026-08-11T13:04:44+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32288",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 중국/신흥국 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32288",
+      "text": "딥시크: 조만간 전반적인 가격 인상 계획. 인상폭은 비교적 클 것. 합리적인 사용 조정 권고  DeepSeek公告：计划近期整体上调DeepSeek API服务的定价，预计涨幅较大，请合理安排使用。具体方案以正式通知为准。",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-11T12:53:12+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19665",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19665",
+      "text": "뭔가 기다렸다는듯이 엔비디아 관련 계약이 줄줄이 나오네요!",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-11T12:42:54+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19664",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19664",
+      "text": "AI 네오클라우드 인프라 기업 쿠물러스AI(QumulusAI, Nasdaq: QMLS)가 글로벌 트레이딩 기업 DRW에 전용 엔비디아 블랙웰(NVIDIA Blackwell) B300 클러스터를 공급하는 GPU-as-a-Service 계약을 체결\n계약 주요 내용\n공급 자산\n:\n전용 NVIDIA Blackwell B300 컴퓨트 클러스터\n계약 기간: 기본 1년 + 연간 갱신 옵션 3회 (최대 4년 체제)\n인프라 위치\n: 쿠물러스AI의 미국 내 데이터센터 거점\n기업별 배경 및 의의\nDRW\n: 원자재·파생상품 분야의 글로벌 정량투자(Quant) 기업. 컴퓨트 거래소 'Compute Exchange'와 GPU 가격 지수·선물을 개발하는 'Silicon Data'를 육성하는 등 컴퓨트 자원 시장화에 선도적인 역할을 해옴.\nQumulusAI\n: 추론(Inference) 중심의 분산형 AI 클라우드 기업. 8월 7일 에이전틱 헤지펀드 계약에 이어 두 번째 금융권 고객을 확보했으며, 6월 초 이후 누적 2억 4,600만 달러(약 3,300억 원) 이상의 계약을 달성함.\n주요 인사 발언\n마이클 마니스칼코 (QumulusAI CEO)\n: \"정량투자 기업은 가장 까다로운 컴퓨팅 고객층이며 AI 인프라 투자를 빠르게 늘리고 있다. DRW 팀이 필요한 시점에 최신 블랙웰 컴퓨팅에 신속하고 전용으로 접근할 수 있도록 지원하겠다.\"\n리치 노먼 (DRW CIO)\n: \"이번 인프라 확장을 통해 더 복잡한 연구를 대규모로 수행하고 가설 검증 시간을 단축할 것이다. 데이터 기반의 빠른 학습 능력이 새로운 시장 우위를 확보하는 핵심이다.\"\nhttps://www.businesswire.com/news/home/20260811175956/en/QumulusAI-Signs-GPU-as-a-Service-Agreement-With-DRW-for-NVIDIA-Blackwell-B300-Capacity-Annually-Renewable-Up-to-Four-Years",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-11T12:41:29+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19663",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19663",
+      "text": "Wells Fargo, 엔비디아(Nvidia,\n$NVDA\n), 목표주가 315달러,  '비중확대(Overweight)' 투자의견 재확인\nAI 인프라 파이낸싱 파트너십 발표 이후 엔비디아에 대한 '비중확대' 의견 재확인\n엔비디아는 AI 컴퓨팅 인프라 자금 조달을 위해 아폴로(Apollo), 블랙록(BlackRock), 블랙스톤(Blackstone), 브룩필드(Brookfield), 골드만삭스(Goldman Sachs), KKR과 5,000억 달러 이상 규모의 파트너십을 발표했습니다. 이 파트너십은 장기적인 사용량 연계 수익 배분을 가능하게 하도록 설계된 독립형 컴퓨팅 파이낸싱 플랫폼을 구축합니다.\nWells Fargo의 애널리스트 아론 레이커스(Aaron Rakers)는\n이번 파트너십이 AI 인프라 구축을 위해 5,000억 달러 이상의 제3자 자본을 동원한다고 언급했습니다.\n증권사는 이번 발표를\n엔비디아가 AI 인프라 개발에서 단순한 전통적 공급업체 역할을 넘어선 위치를 구축하고 있다는 증거로 보고 있습니다.\n엔비디아는 발표를 통해 자사가 'AI 팩토리'라 불리는 새로운 형태의 생산적이고 투자 가능한 인프라를 구축하는 데 기여하고 있다고 밝혔습니다. 또한 엔비디아 전체 AI 팩토리 최적화까지 확장되는 공동 설계(co-design) 차별화를 강조했습니다.\n해당 파트너십 플랫폼은 고객이 컴퓨팅 자원에 대규모로 접근할 수 있도록 돕는 것을 목표로 합니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-11T12:38:43+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19662",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19662",
+      "text": "모건 스탠리, 엔비디아(Nvidia,\n$NVDA\n), '비중 확대(Overweight)' 투자의견, 목표주가 288달러\n\"엔비디아의 투자 유치는 긍정적\"\n엔비디아(NVDA)가 AI 팩토리에 대한 잠재적 투자를 위해 6개 기관 파트너로부터 5,000억 달러 규모의 잠재적 투자를 유치하여 이른바 \"독립형 컴퓨팅 파이낸싱 플랫폼\"을 구축하겠다고 발표했습니다.\n이에 대해 모건 스탠리의 애널리스트 조셉 무어(Joseph Moore)는\n주로 제3자 자본을 활용해 AI 팩토리 투자를 추진하는 것이 \"순환성(순환 거래) 우려를 완화하고\", 소버린(국가 단위) 및 네오클라우드 투자를 촉진하며, 연금형(지속적) 수익원을 확보하는 데 도움이 될 것\n이라고 평가했습니다.\n엔비디아가 여전히 일부 신용 위험을 안게 되고 전체 생태계에서 레버리지가 늘어날 수 있지만, 부정적인 면보다\n긍정적인 면이 \"훨씬 더 크다\"는 설명입니다\n.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-11T12:37:18+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24520",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24520",
+      "text": "TSMC, 타오위안 1.4나노 공장 재추진…\"반대 주민들 돌아서\"\n대만 TSMC가 대만 북부 타오위안 지역에 1.4nm공정 반도체 공장 건설을 재추진하고 있다고 자유시보 등 대만 언론이 10일 소식통을 인용해 보도했다.\nhttps://www.yna.co.kr/view/AKR20260810096000009?input=1195m",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-11T12:22:57+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24519",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24519",
+      "text": "씨티 대만 전자·반도체 월간 트래커; \"2H26 신제품 사이클 개막 준비 완료 - AI 최신 동향\" (8월 10일)\n■ 핵심 요약\nVera Rubin NVL72, AMD Helio 랙, ASIC 진영의 Trainium 3·TPU v8 시리즈 등 새로운 AI 인프라가 2H26에 램프업되면서 대만 테크 공급망의 하반기 모멘텀이 더욱 강해질 것으로 예상합니다. 스펙 업그레이드 사이클은 ASP 상승을 통해 써멀, 전력, 업스트림 섹터에 계속 수혜를 주고 있습니다. 2H26부터 새로운 GPU/ASIC 제품 사이클이 시작되면서 견조한 수주 가시성이 확보될 것으로 보며, ABF 기판, 선단 노드 파운드리, OSAT 공급망 등 추가 가격 인상 잠재력과 마진 상방 여력을 가진 기업을 계속 선호합니다.\n■ 파운드리·OSAT - 선단 파운드리와 OSAT의 아웃퍼폼 지속\nTSMC와 ASE홀딩스(ASEH)의 7월 매출은 각각 전월비 +6%, +12%로 순항했으며, 선단 파운드리와 어드밴스드 패키징의 지속적인 수요 상방 덕분에 전년비 각각 45%, 43%의 견조한 성장을 기록했습니다. 비AI 수요는 미지근하지만, 리얼텍과 노바텍 등 팹리스는 풀인 수요로 예상보다 나은 7월 모멘텀을 보였습니다. 신규 GPU/ASIC 사이클 덕분에 향후 수개월간 AI 반도체 공급망의 성장 가속을 예상합니다. WinWay의 월 매출 신기록(16억 대만달러, 전월비 +10%, 전년비 +156%)은 신규 캐파 램프업과 강한 수주 소화를 반영합니다. TSMC는 연간 매출 성장 가이던스를 전년비 +40%로 상향했고, ASEH도 선단 노드·패키징 수요 증가로 IC ATM 사업의 35% 성장을 기대하고 있습니다.\n■ 기판·PCB·CCL\n3Q26부터 AI 칩 양산 램프에 진입하면서 ABF 섹터는 가격 인상과 출하량 증가의 수혜를 받고 있습니다. 대만 ABF 3사의 7월 매출은 전월비 8~16% 성장했으며, 잠재적 가격 인상과 함께 3Q/4Q26에도 ABF 수요가 지속 성장할 것으로 예상합니다. ABF 섹터 내에서는 NYPCB(난야PCB)와 유니마이크론을 선호합니다. CCL 섹터도 CCL 공급 부족을 배경으로 견조한 모멘텀이 예상되며, 3Q 또는 4Q26에 EMC(엘리트 머티리얼)가 주도하고 TUC가 뒤따르는 추가 가격 인상을 전망합니다. CCL 섹터에서는 EMC를 선호하며, TUC는 태국 공장 가동이 3Q26 실적을 견인할 것으로 봅니다. PCB 섹터는 CCL 가격 인상에 따른 마진 압박으로 3Q26 전망에 신중한 입장이며, GCE(골드서킷)와 트라이포드가 8월 11일 실적을 발표합니다. 다만 양사가 3Q26에 영향을 완화할 수 있다면, 7월 큰 폭의 매도세를 감안할 때 좋은 진입 시점이 될 수 있다고 봅니다.\n■ AI 데이터센터·하드웨어 공급망\nGB300 시스템 출하가 여전히 강하고 VR NVL72의 초기 램프가 시작되면서 혼하이, 위스트론, 콴타 등 ODM의 전망이 순차적으로 개선될 것으로 봅니다. 2026년 NVL 랙 출하 전망 5.5만~6만 대를 유지하며, VR NVL72는 3Q26 말/4Q26에 보다 본격적으로 기여할 것으로 예상합니다. Trainium 공급망에서는 디자인 서비스 업체 알칩이 7월 매출 74억 대만달러(전월비 +108%, 전년비 +182%)를 기록했으며, Trainium 3 램프업 덕분에 위윈, 액톤, GCE, TUC의 강한 모멘텀을 기대합니다.\n■ ODM·PC 공급망\nNB ODM의 7월 전체 노트북 출하는 부품 가격 인상에 따른 소매가 상승으로 최종 수요가 위축되고 6월 분기말 높은 기저 효과가 겹치며 전월비 -31%를 기록했습니다. 다운스트림 NB ODM들은 하반기 출하 전망에 더 보수적으로 변하고 있으며, 조기 풀인과 부품 조달 제약 증가를 감안해 3Q26 노트북 출하를 전분기비 -8%, 전년비 -18%로 예상합니다. 제품 가격 인상 효과가 출하 감소를 일부 상쇄하겠지만, 노트북의 Buy and Sell 모델 특성상 마진 희석 영향이 커질 것으로 봅니다.\n■ 부품·전력\n써멀 업체(AVC, 아우라스)의 7월 매출은 전월비 +10%, 전년비 +65%로, 2Q26 GPU 플랫폼 전환 이후 매출 모멘텀이 재개되고 있다고 판단합니다. AI ASIC 플랫폼 램프업과 GB300 추가 수주에 힘입어 양사 모두 3Q26 순차 매출 성장이 예상되며, Vera Rubin의 기여는 3Q26 말부터 시작될 전망입니다. 전력 부문에서 델타의 7월 매출은 670억 대만달러(전월비 +2%, 전년비 +48%)로 시장 기대에 부합했습니다. VR NVL72의 전력 소비 증가로 800V 채택이 필수는 아니더라도 가치 업그레이드 트렌드가 델타의 매출 성장에 수혜가 될 것으로 봅니다.\n■ 수동부품·BBU\n야게오의 7월 매출은 현 분기 경영진 가이던스를 앞서며 지속 상승 추세를 보였습니다. AI 관련 애플리케이션 수요가 강세를 유지하고 표준·특수 제품 모두 꾸준히 성장한 결과이며, 광범위한 사업 모멘텀과 2.2에 달하는 높은 BB 비율이 3Q26 매출 성장을 뒷받침할 수 있습니다. BBU 부문에서는 다이나팩과 AES의 7월 매출이 견조한 BBU 수요를 재확인시켜 줍니다. 다이나팩 그룹 매출은 12억 대만달러로 저마진 IT 수요 약세에 따른 전월비 -3%에도 전년비 +21%를 기록했으며, 특히 지연됐던 BBU 제품 출하가 7월 중순부터 재개되면서 BBU 매출이 전월비 3배 수준인 약 6억 대만달러로 추정됩니다. AES도 전년비 +28%, 전월비 +2%의 높은 매출 모멘텀을 유지했습니다. AIDC BBU 채택 가속, 고출력 제품의 매출·마진 동반 지지, 고객 프로그램 확대가 2H26과 2027년 이익 가시성을 제공하며, 성장 변곡점과 이익 상방이 더 뚜렷한 다이나팩을 BBU 최선호주로 유지합니다.\n(출처: Citi Research, 2026.8.10, Laura Chen 외)",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-11T12:16:57+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24518",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24518",
+      "text": "Citi) 미국 산업재·E&C 섹터; \"데이터센터 순풍 지속, 성장 저변 확대 진행 중\" (8월 10일)\n■ 핵심 요약\n2Q26 실적은 대체로 사전 기대치에 부합했습니다. 데이터센터 관련 성장이 견인하는 가운데 숏사이클 회복의 저변 확대 증거가 계속 쌓이면서 견조한 실적에 기여했고, 하반기와 그 이후까지 성장 모멘텀이 이어질 것으로 봅니다. 인플레이션 압력이 단기 마진 상방을 제한하는 요인으로 남아 있지만, 볼륨 레버리지, 적극적 가격 관리, 자구책·생산성 개선의 조합이 성장 환경에서 마진 확대를 지지할 것으로 낙관합니다. 멀티스 최선호주는 PH, VRT, ETN, EMR, TT이며, PWR은 E&C 최선호주(씨티 포커스 리스트 편입)를 유지하고, 최근 조정을 겪은 MTZ의 리스크/리워드가 점점 매력적이라고 평가합니다.\n■ 유기적 성장·영업이익률\n2Q26 섹터 유기적 성장률은 6.9%로 씨티 전망치 +4.0%를 상회했으며, 이는 산업 성장의 지속성과 저변 확대를 보여줍니다. 데이터센터 관련 성장이 여전히 중심에 있고 광범위한 산업 수요로의 \"스필오버\" 효과도 유의미할 것으로 보이며, 숏사이클 회복 신호가 늘어나는 점도 고무적입니다. 섹터 평균 영업이익률은 21.4%로 전망치 21.2%를 소폭 상회했습니다. 일부 기업의 영업 레버리지는 다소 아쉬웠지만, 미국 멀티스가 변동성 큰 공급망·비용 환경을 잘 헤쳐나가고 있으며, 20%+ 영업이익률은 견조한 수익성을 반영한다고 평가합니다.\n7월 ISM 제조업 PMI는 55.6으로 6월 대비 상승하며 2022년 5월 이후 최고치를 기록, 2Q 실적에서 확인된 산업 트렌드 개선이 지속되고 있음을 뒷받침합니다. 데이터센터 투자, 전력 인프라 구축, 산업 자동화, 미국 내 재산업화·온쇼어링 진전에 따라 산업 순풍이 더 넓어질 잠재력이 있다고 봅니다.\n특히 PH의 경우 다각화 산업 북미 부문 수주가 전분기 7%에서 16%(3개월 이동평균, 전년비)로 두 배 이상 가속됐고, 국제 산업 부문은 24% 수주 성장을 기록하며 시장 기대(한 자릿수 중후반)를 크게 상회했습니다. HON은 중동에서 전년비 50% 수주 성장을 기록했는데, 이는 역내 재건·리퍼비시 수요 개시와 \"에너지 안보\"에 대한 고객 투자 가속을 시사합니다.\n2Q 실적이 컨센서스를 평균 약 4% 상회했음에도 26년·27년 EPS 상향은 약 1%에 그쳤는데, 소비자 노출 시장의 부진, 유럽·아시아의 혼조세, 지정학 불확실성이 반영된 결과입니다. 다만 기대치 상향이 완만한 만큼 향후 \"비트 앤 레이즈\" 여지가 남아 있어 오히려 건설적이라고 평가합니다.\n■ 최선호주별 코멘트\nPH: 실적 후 강한 주가 상승에도 여전히 선호. 포트폴리오 전반의 펀더멘털 개선, 마진 확대 잠재력(FY31까지 조정 세그먼트 영업이익률 약 30% 목표), 자본 배치 가속(Filtration Group·CIRCOR 항공우주 인수 건은 FY27 가이던스에 미반영)이 EPS 추가 상향으로 이어질 수 있다고 봅니다. 유통사들이 아직 \"완전한 재고 확충\"에 나서지 않았다는 코멘트는 선매수 수요 리스크를 낮추는 요인입니다.\nVRT: 2Q 실적 직후 부정적 반응(일시적 공급망 이슈로 미주 성장 둔화)에서 의미 있게 회복했으나 여전히 저평가로 판단. 하이퍼스케일러·코로케이션·엔터프라이즈 전반의 파이프라인 성장과 판매 사이클 가속은 26년 유기적 성장 약 +31%의 가속 성장 사이클이 지속 가능함을 시사합니다. 2Q26 순부채/EBITDA -0.1배의 저레버리지 재무구조도 추가 현금 배치 여력을 제공합니다.\nETN: 전기 부문(미주·글로벌)과 항공우주의 견조한 수주와 크게 늘어난 백로그가 가시성 높은 이익 성장을 지지합니다. 2H26 전기 미주(EA) 세그먼트 마진이 상반기 대비 +440bp 개선될 것으로 모델링하며(이 중 약 300bp는 가격/비용 개선), 항공우주는 TTM 수주 +17%, 백로그 전년비 +28%를 기록했습니다.\nEMR: F3Q 수주 재가속(숏사이클·프로젝트 모두 긍정적)과 소프트웨어 부킹 강세(FY26 ACV 10%+ 성장 전망)가 유기적 성장의 상향 변곡 가시성을 높입니다. 견조한 FCF 창출력과 부담스럽지 않은 밸류에이션도 매력 요인입니다.\nTT: 전체 유기적 부킹 +37%, 미주 상업용 HVAC 부킹 +50%로 2H26 성장 가속에 대한 가시성이 탁월하며 27년까지 지속될 가능성이 높다고 봅니다. 2Q 영업이익률(19.7%)은 모델(20.3%) 대비 미달했지만 수익성 성장 트랙레코드를 감안하면 마진 확대 여력은 유효합니다.\nPWR: 강한 실적, 백로그 534억 달러(전분기비 약 +10%), 전략적 M&A 지속이 26년 EPS 56% 성장 전망과 프리미엄 멀티플을 뒷받침합니다. 전력 부문의 견조한 수요와 U&I 부문의 모멘텀 개선, FCF·자본 배치 옵션을 통해 다년간 20%+ EPS 성장 경로를 강화할 것으로 봅니다.\nMTZ: 커뮤니케이션 부문 프로젝트 지연·이연으로 2Q 이후 주가가 조정받았으나, 18개월 백로그 214억 달러(전년비 약 +30%)가 보여주듯 대부분 최종시장의 수요 환경은 건설적입니다. 커뮤니케이션 역풍은 대체로 시기 문제로 보며, PWR 대비 밸류에이션 갭이 역사적 범위(4~6배)를 크게 벗어난 약 13배까지 확대된 현 시점을 장기 투자자에게 매력적인 진입 기회로 판단합니다.\n■ 밸류에이션·크라우딩\n섹터 평균 상대 NTM P/E는 S&P500 대비 1.11배로 10년 평균 1.10배 대비 소폭 프리미엄이나, 지속 가능한 매출·이익 성장 모멘텀에 대한 높은 가시성이 이를 뒷받침한다고 봅니다. 크라우딩 관점에서는 VNT, PNR, IR이 매수 등급 종목 중 가장 덜 붐비는 종목으로 스크리닝됐습니다. VNT와 PNR은 단기 어려움에도 장기 잠재력 대비 \"너무 싸다\"고 보며, IR은 2Q와 7월까지 이어진 수주 개선을 감안할 때 하반기 성장 가속이 예상되어 이익 개선 신호가 유의미한 촉매가 될 수 있다고 평가합니다.\n(출처: Citi Research, 2026.8.10, Andrew Kaplowitz 외)",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-11T12:10:05+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19661",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19661",
+      "text": "IBM과 투게더 AI, IBM 클라우드 기반 엔비디아 AI 인프라로 오픈소스 AI 추론 확장을 위한 다년간 계약 체결\n계약 규모 및 시기: IBM과 투게더 AI(Together AI)가 2억 4,000만 달러 규모의 다년 계약을 체결했으며, 2027년 1분기 가동을 목표\n로 합니다.\n인프라 구축:\nIBM 클라우드 상에\n엔비디아 HGX B300 시스템과 스펙트럼-X(Spectrum-X) 에더넷 네트워크를 결합한 대규모 AI 추론 전용 클러스터를 구축\n합니다.\n협력 목적:\n기업 고객에게 오픈소스 AI 모델의 고성능 추론 환경을 제공하고, 토큰당 처리 비용을 낮춰 효율적인 AI 확장을 지원\n합니다.\n성능 및 규모:\n엔비디아 기준 이전 세대 대비\n최대 30배 높은 AI 팩토리 출력을 제공합니다. 투게더 AI는 현재 월 400조 개의 토큰을 처리\n하고 있습니다.\nIBM은 투게더 AI와 협력하여 IBM 클라우드 기반의 엔비디아 AI 인프라를 제공한다고 발표했습니다.\n양사 간 2억 4,000만 달러 규모의 다년 계약에 따라, IBM은 2027년 1분기 가동을 목표로 엔비디아 HGX B300 시스템 기반의 대규모 클러스터를 배치\n합니다. 투게더 AI는 이 인프라를 활용해 오픈소스 모델 추론 서비스를 제공할 예정입니다.\n이 구축은\nIBM 클라우드에서 HGX B300 및 엔비디아 스펙트럼-X 에더넷 네트워크를 활용해 구축되는 최초의 대규모 전용 추론 클러스터\n입니다. 엔비디아에 따르면, 이전 세대 대비 30배 향상된 AI 팩토리 출력을 제공하도록 설계되었습니다.\n최근 83억 달러의 기업 가치로 8억 달러 규모의 시리즈 C 투자를 유치한 투게더 AI는 추론, 학습, 미세조정(Fine-tuning), 에이전틱 워크플로우를 아우르는 AI 네이티브 클라우드 플랫폼을 확장하고 있습니다. 투게더 AI는 GPU 용량의 신속한 확보와 최저 토큰 비용을 구현하기 위해 IBM과 엔비디아를 선택했습니다.\n주요 관계자 발언\n비풀 베드 프라카시 (Together AI CEO):\n\"기업들은 폐쇄형 모델의 높은 비용 부담 없이 최첨단 프론티어 모델급 성능을 원하며, 이는 하부 인프라가 대규모 환경에서도 빠르고 신뢰할 수 있을 때만 가능합니다.\nIBM, 엔비디아와의 협력은 오픈소스 AI를 기업들의 당연한 선택지로 만드는 큰 계기가 될 것입니다.\"\n앨런 피콕 (IBM Cloud 총괄 매니저):\n\"기업들은 실질적인 비즈니스 성과를 창출하기 위해 에이전틱 AI를 대규모로 도입하려 경쟁하고 있습니다.\nIBM과 엔비디아는 투게더 AI가 차세대 AI 인프라 혁신을 가속화할 수 있도록 확장 가능하고 경제적인 기업급 인프라를 제공할 것\n입니다.\"\n디온 해리스 (NVIDIA HPC/AI 인프라 솔루션 선임 디렉터):\n\"AI 팩토리는 전력이나 통신망처럼 연산과 데이터를 지능으로 바꾸는 필수 기업 인프라가 되고 있습니다.\nIBM 클라우드 기반의 엔비디아 인프라는 실시간 AI 서비스에 필요한 성능과 효율성, 확장성을 제공할 것입니다.\"\nhttps://www.prnewswire.com/news-releases/ibm-and-together-ai-sign-multi-year-agreement-to-scale-open-source-ai-inference-with-nvidia-ai-infrastructure-on-ibm-cloud-302847748.html",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-11T12:08:34+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24517",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24517",
+      "text": "소니그룹-TSMC 쿠마모토에 1조엔 투자 첨단 이미지센서 29년부터 양산예정으로, 소니가 지분60%, TSMC가 지분 40%투자할 예정",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-11T12:08:30+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24516",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24516",
+      "text": "IBM TO DEPLOY NVIDIA HGX B300 CLUSTER ON IBM CLOUD (@FirstSquaw)",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-11T12:03:01+00:00"
+    },
     {
       "id": "tg:EMchina/32287",
       "source": "telegram",
@@ -190,18 +321,6 @@
       "published_at": "2026-08-11T09:13:06+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24508",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24508",
-      "text": "[단독] SK하이닉스, 中 낸드 생산 50% 늘린다\nhttps://n.news.naver.com/article/011/0004650723?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T09:09:48+00:00"
-    },
-    {
       "id": "tg:enc210406/4311",
       "source": "telegram",
       "author": "enc210406",
@@ -243,18 +362,6 @@
       "published_at": "2026-08-11T07:53:15+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24507",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24507",
-      "text": "The Information의 보도에 의하면, 엔비디아가 HBM공급 부족에 대응하기 위해 기존 루빈 울트라의 1TB HBM4E칩을 너프하여, HBM4 192/256GB 버전도 출시할 것을 검토중이라고 합니다.\nHBM4E는 커스텀 가능한 로직다이를 지원함에 따라 생산난이도가 더 올라가서 메모리 제조사들이 엔비디아의 루빈 울트라 출시속도를 따라가기 어렵다는 점도 있습니다.\nhttps://www.theinformation.com/articles/nvidia-weighs-radical-idea-less-rubin-ultra-chip-memory?utm_campaign=Editorial&utm_content=Article&utm_medium=organic_social&utm_source=bluesky%2Cthreads%2Ctwitter",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T07:19:50+00:00"
-    },
-    {
       "id": "tg:EMchina/32280",
       "source": "telegram",
       "author": "EMchina",
@@ -279,18 +386,6 @@
       "published_at": "2026-08-11T07:04:43+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24506",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24506",
-      "text": "CXMT의 1x DDR5 수율 90% 돌파. PC 대기업중 델은 사용안함, HP는 중국내에서만 제한적 사용. ASUS/ACER는 사용.(8월 10일)\n콰이커지 8월 10일 소식, 보도에 따르면 최근 창신메모리(CXMT)의 DDR5 칩은 생산 수율 향상으로 전체 공급 상황이 뚜렷하게 개선되었습니다.\n자료에 따르면 창신의 17nm DDR5 수율은 이미 90%를 돌파해, 삼성의 동세대 제품 수율 92~93% 수준과는 불과 2%포인트 차이로, 기술 지표상 이미 글로벌 1군에 진입했습니다.\n현 단계에서 창신메모리는 주로 화난 현물 시장의 물량이 상대적으로 많으며, 각 브랜드 업체는 특정 가격과 사양 수요에 따라 물량을 가져갈 수 있습니다.\n다만 미국계 대형 업체들은 규정이 엄격한데, 그중 델은 창신 칩을 전면 사용 금지했고, HP는 중국 본토 시장에서만 사용을 허용하고 있습니다.\n에이서와 아수스는 구매 결정에서 보다 유연해, 양사 모두 창신메모리의 칩을 순조롭게 채용할 수 있습니다. 두 회사는 주로 창신 칩을 중국 본토 및 신흥 시장으로 판매되는 노트북 모델에 탑재해, 가격과 사양 사이에서 최적의 균형을 맞추고 있습니다.\n인증 측면에서는 다수의 주요 PC 업체가 올해 연중 무렵 창신메모리 DRAM 칩의 인증 절차를 완료했으며, 일부 노트북에 소량 탑재를 시작했습니다.\n다만 현재 창신 칩을 채용한 모델 수와 사용량은 모두 상당히 제한적입니다. PC 기업들은 대규모 채용에 대해 자제하는 태도를 보이고 있는데, 주된 우려는 3대 메모리 대기업의 불만을 초래할 수 있다는 점입니다.\n한 PC 기업 임원은 3대 업체가 전 세계 DRAM 시장 점유율의 90% 이상을 차지하고 있어 기업들이 극도로 신중할 수밖에 없다고 밝혔습니다.\n현 단계에서 보면 창신메모리 제품이 3대 원제조사의 전체 시장 가격에 미치는 영향은 여전히 제한적입니다.\n이는 주로 3대 원제조사가 현재 LPDDR5를 더 많이 공급하기를 원하는 반면, 창신메모리의 현 단계 전략 핵심은 DDR5 칩의 출하량을 적극적으로 확대하고 끌어올리는 데 있기 때문입니다.\nhttps://news.mydrivers.com/1/1142/1142658.htm",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T06:45:36+00:00"
-    },
-    {
       "id": "tg:EMchina/32278",
       "source": "telegram",
       "author": "EMchina",
@@ -303,18 +398,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-11T06:42:10+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24505",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24505",
-      "text": "인텔, 주식 공모 규모를 200억 달러로 확대, 주당 가격 95달러로 결정\n인텔은 보통주 210,526,315주의 인수 공모 가격을 주당 95달러로 책정했습니다. 인텔은 인수자에게 공모가에 최대 31,578,947주의 보통주를 추가로 매입할 수 있는 30일 옵션을 부여하고 인수 할인을 줄였습니다. 이 공모는 이전에 발표된 공모 규모인 150억 달러에서 200억 달러로 확대\nhttps://www.intc.com/news-events/press-releases",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T06:40:56+00:00"
     },
     {
       "id": "tg:bornlupin/19657",
@@ -339,18 +422,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-11T05:05:20+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24504",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24504",
-      "text": "JP모건 APAC 테크 코멘트\nSK하이닉스: 투자자들은 대체로 경영진이 3분기 말까지 업데이트를 제공하겠다고 밝힌 데 따라, SK하이닉스의 주주환원이 최소한 삼성전자의 50% 수준에는 상응할 것으로 예상하고 있습니다. 시장은 또한 범용 D5의 타이트한 수급으로 인해 FY27 HBM 계약 가격이 50%를 상회하는 인상 폭을 보일 것으로 예상하고 있으나, 당사의 애널리스트 Jay는 NVDA의 중요성과 SK하이닉스가 매년 가격을 재조정할 수 있다는 점을 감안해 보수적으로 연간 계약 가격 인상률을 40% 미만으로 전망하고 있습니다. 투자자들은 또한 381억 달러 규모의 캐펙스 발표에 대해서도 질의했는데, 이는 주로 FY30 이후 생산에 배정된 것입니다.\nJX어드밴스드메탈: 투자자들은 대체로 JXAM이 FY29 말까지 InP 생산을 20~30배 늘릴 것으로 예상하고 있으며, 이는 경영진이 유지하고 있는 7~10배 확대 계획을 상회하는 수준으로, 특히 수주 문의가 계획을 웃도는 흐름을 보이고 있기 때문입니다. 시장은 또한 스미토모전기가 InP 증설 계획을 상향할 것으로 예상할 것입니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T05:00:36+00:00"
     },
     {
       "id": "tg:globaletfi/21061",
@@ -441,20 +512,6 @@
       "published_at": "2026-08-11T02:19:52+00:00"
     },
     {
-      "id": "tg:EMchina/32276",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 중국/신흥국 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32276",
-      "text": "금 현물가격 4300달러 돌파. 6/18 이후 처음  现货黄金升破4300美元/盎司关口，为6月18日来首次，现涨超1%。",
-      "images": [
-        "https://cdn5.telesco.pe/file/aNO95eRzdK9HcLFn1GjnJ30a9-FcfDgLI4HRDQJwvYUpvRHBt5B4oSS8u08uq6fMP9pkN0MV19q-nuxrhTyZ32lD4O5CLodgaagqyCILB-7ES1yCan6jkF8IPSWzfzBSmqysCrab8GnmVbsz3vQ9-yObuN5NKToisxksU_bLLCXgwDloo89b8hKyXUkCYhhMWD0i52peNrIsemDvAJxLM6UJOkvsowSsF-ykg-if7_uFfX5sj67hcjvVJBiobnSxY9RsccXnVF2st_dzZf2nEFQWUZLzUNNXoSslPX_nPZ4dtpi8YWwjPopjWDgykIKc7Dg5pCRPf58ycsiYmf9YSg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-11T02:18:14+00:00"
-    },
-    {
       "id": "tg:HI_GS/6880",
       "source": "telegram",
       "author": "HI_GS",
@@ -493,42 +550,6 @@
       "published_at": "2026-08-11T01:42:33+00:00"
     },
     {
-      "id": "tg:bornlupin/19652",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19652",
-      "text": "BofA: 엔비디아(Nvidia)의 5,000억 달러 자금 조달\n엔비디아, 부채가 아닌 가치를 보증:\n엔비디아는 6개 주요 금융사(아폴로, 블랙록, 블랙스톤, 브룩필드, 골드만삭스, KKR)와 양해각서(MOU)를 체결하여 독립적인 플랫폼을 통해 5,000억 달러가 넘는 제3자 자본을 유치했습니다.\n이에 따른 재무적 부담은 엔비디아의 대차대조표가 아닌 컨소시엄이 지게 됩니다.\n투자 가능한 자산군으로서의 GPU:\n5,000억 달러 규모의 자금이 컴퓨팅 자원을 하나의 투자 자산군으로 다루기 위해서는 잔존 가치가 유지되어야 합니다. 엔비디아는 여러 사업자 간에 대체 가능하고 이전할 수 있는 연산 능력을 공급하며,\nCUDA는 제품의 유효 수명을 연장시켜 재판매 및 임대 가격을 높게 유지하고 감가상각 곡선을 완만하게 만듭니다.\nAI 인프라 구축 런웨이 연장:\n그동안 AI 확장의 주요 병목 현상은 수요가 아닌 '자금 조달'이었습니다.\n5,000억 달러 규모의 자본 풀을 통해 투자적격 등급 미만의 구매자(AI 연구소, 네오클라우드, 국가 기관 등)도 매력적인 조건으로 하드웨어를 확보\n할 수 있게 되었습니다. 이는\n구매 확약(offtake) 리스크를 줄이고, 장기적인 AI 시스템 총 유효 시장(TAM)의 성장 경로를 뒷받침합니다.\n주요 논쟁 및 모니터링 리스크:\n주목해야 할 경고 요인도 남아 있습니다. MOU는 아직 실제 집행된 자금이 아니라는 점(실제 비용을 지불하는 최종 고객이 필요함), 전력 부족 및 규제 반발 가능성, 투입 비용 인플레이션, 그리고 새로운 금융 구조가 AI 인프라 구축에 가져올 수 있는 불투명성과 복잡성 등이 리스크로 지목됩니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T01:42:31+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19651",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19651",
-      "text": "[SK증권 해외주식 박제민]\n앤트로픽, 라이엇 플랫폼스와 $9.1B 규모 클라우드 컴퓨팅 계약 체결\n▶️\n계약 개요\n- 앤트로픽, 비트코인 채굴업체 라이엇 플랫폼스와 91억 달러 규모 컴퓨팅 계약 체결\n- 라이엇의 텍사스 록데일 캠퍼스에서 191MW 규모 컴퓨팅 자원 공급\n- 계약기간: 2048년 6월까지(20년), 연장옵션 포함 시 최대 161억 달러 매출 전환 가능\n▶️\n배경\n- 앤트로픽, 고객 수요 대응을 위한 컴퓨팅 확보 차원에서 최근 수개월간 다수 클라우드 공급사와 잇따라 계약\n- 지난주 신생 인프라 스타트업 볼타 인프라와 100억 달러 규모 계약 체결\n- 5월에는 xAI로부터 약 450억 달러 규모 컴퓨팅 구매 계약\n▶️\n시장 반응\n- 라이엇 플랫폼스 주가, 계약 소식에 장후 25% 급등해 24.40달러 기록\n▶️\nURL:\nhttps://buly.kr/9XNoZOe\n* SK증권 리서치 IT팀 채널 :\nhttps://t.me/skitteam",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T01:36:18+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19650",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19650",
-      "text": "앤트로픽, 대형 IPO 앞두고 투자자 신뢰 확보에 사활\n올가을 증시 상장을 서두르는 앤트로픽(Anthropic)이 중국 경쟁사, 트럼프 행정부 시절의 갈등, AI 인프라 붐과 관련해 투자자들의 까다로운 질문에 직면해 있습니다.\nhttps://www.wsj.com/tech/ai/anthropic-tries-to-shore-up-investor-confidence-ahead-of-blockbuster-ipo-0ff736ad?mod=tech_lead_story",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T01:32:50+00:00"
-    },
-    {
       "id": "tg:enc210406/4308",
       "source": "telegram",
       "author": "enc210406",
@@ -539,30 +560,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-11T01:26:06+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19649",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19649",
-      "text": "미국이 미쳤네요...! 8월도 미국 YoY로 엄청 좋을거라고 말씀드렸었는데  제 기대 대비해서도 엄청 좋습니다. 미국에서 확실히 구조적 변화가 느껴지는 것 같습니다. (기존 아마존 중심 -> 오프라인 확대)\n+작년 상반기는 관세 때문에 기저가 높았는데요,, 현재 26년 상반기 수출이 매우 좋았던 점을 감안하면, 하반기 화장품 YoY 그로스 쎌거라고 지속 말씀드리고 있습니다.!",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T01:16:58+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19648",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19648",
-      "text": "⚡️\n2026년 8/1~10 화장품 수출\n화장품\n> 전체 $341.2m (yy 92%, mm -6%)\n> 중국 $26.5m (yy -18%, mm -49%)\n> 홍콩 $8.6m (yy -41%, mm -46%)\n> 미국 $62.2m (yy 147%, mm -15%)\n> 일본 $20.6m (yy 23%, mm -14%)\n> 베트남 $7.6m (yy -11%, mm -25%)\n> 러시아 $10.6m (yy 24%, mm -29%)\n> 폴란드 $2.6m (yy -10%, mm -73%)\n> 영국 $15.0m (yy 171%, mm -32%)\n※영업일수 감안한 일 평균 수출\n화장품\n> 전체 $56.9m (yy 92%, mm 26%)\n> 중국 $4.4m (yy -18%, mm -32%)\n> 홍콩 $1.4m (yy -41%, mm -28%)\n> 미국 $10.4m (yy 147%, mm 13%)\n> 일본 $3.4m (yy 23%, mm 14%)\n> 베트남 $1.3m (yy -11%, mm 1%)\n> 러시아 $1.8m (yy 24%, mm -5%)\n> 폴란드 $0.4m (yy -10%, mm -65%)\n> 영국 $2.5m (yy 171%, mm -10%)\n* 8월 영업일수: 6일 / 7월 영업일수: 8일 / 작년 8월 영업일수: 6일",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T01:16:52+00:00"
     },
     {
       "id": "tg:enc210406/4307",
