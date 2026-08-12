@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-08-12T17:05:38+00:00",
+  "updated_at": "2026-08-12T19:01:54+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 6
   },
   "briefing": {
-    "headline": "뱅크오브아메리카, 미국 AI·에너지 핵심 인프라에 2,500억 달러 투자",
+    "headline": "트럼프, 트루스 소셜 사전 접근권 판매로 피소",
     "bullets": [
-      "미국 7월 소비자물가지수(CPI), 전월 대비 0.1% 상승",
-      "루멘텀(Lumentum), 목표주가 1280달러로 상향",
       "현대차그룹, 공동주택서 주차로봇 첫 실증",
-      "코어위브(CRWV.O), AI 구축과 마진이 함께 전진한 강한 2분기"
+      "Citi) 코어위브(CRWV.O); AI 구축과 마진이 함께 전진한 강한 2분기",
+      "뱅크오브아메리카, 미국 AI·에너지 핵심 인프라에 2,500억 달러 투자",
+      "미국 7월 소비자물가지수(CPI), 전월 대비 0.1% 상승"
     ],
-    "generated_at": "2026-08-12T17:05:38+00:00",
+    "generated_at": "2026-08-12T19:01:54+00:00",
     "model": "groq"
   },
   "items": [
@@ -845,6 +845,18 @@
       "published_at": "2026-08-11T17:35:07+00:00"
     },
     {
+      "id": "x:ylecun:2087217393923694700",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2087217393923694700",
+      "text": "RT by @ylecun: A story in light of the recent math AI results. Last December I invited Julia Kempe (@KempeLab ) to the podcast and asked her what she wanted to talk about. She said: now that math has fallen, what should researchers run after? This was last December. Models were nowhere near solving open problems. So I asked, do you mean we should talk about what AI can currently solve in math? She said, no, Ravid. Math as we know it has changed forever, and so has the work of mathematicians. The problem is they don't know it yet. Today that sounds obvious. Back then it was just one more example of a brilliant scientist seeing where things were going.",
+      "images": [],
+      "summary_ko": "@yleun의 RT: 최근 수학 AI 결과를 고려한 이야기입니다. 지난 12월 저는 Julia Kempe(@KempeLab )를 팟캐스트에 초대하여 그녀에게 무슨 이야기를 하고 싶은지 물었습니다. 그녀는 이렇게 말했습니다. 이제 수학이 떨어졌으니 연구자들은 무엇을 추구해야 할까요? 지난 12월이었습니다. 모델은 열려 있는 문제를 해결하는 데 전혀 도움이 되지 않았습니다. 그래서 저는 AI가 현재 수학에서 무엇을 풀 수 있는지에 대해 이야기해야 한다는 뜻인가요? 그녀는 안 된다고 했어요, 라비드. 우리가 알고 있는 수학은 영원히 변해왔고, 수학자들의 작업도 마찬가지입니다. 문제는 그들이 아직 그것을 모른다는 것이다. 오늘은 그 말이 분명해 보입니다. 그 당시에는 일이 어떻게 진행되고 있는지를 알아낸 뛰어난 과학자의 또 다른 예에 불과했습니다.",
+      "published_at": "2026-08-11T16:39:39+00:00"
+    },
+    {
       "id": "x:demishassabis:2087209342160552253",
       "source": "x",
       "author": "demishassabis",
@@ -1270,18 +1282,6 @@
       "published_at": "2026-08-10T10:03:44+00:00"
     },
     {
-      "id": "x:ylecun:2086755195535413696",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2086755195535413696",
-      "text": "RT by @ylecun: Today we're also opening the weights for Muse Glimmer, a great 30B parameter dense model that can run locally. Soon we'll also release the weights for Muse Spark 1.2, our latest foundation model. Meta is a strong supporter of open source and I'm proud of these releases. Congrats to @alexandr_wang and the MSL team for all your great work on these models.",
-      "images": [],
-      "summary_ko": "RT by @yecun: 오늘 우리는 로컬에서 실행할 수 있는 뛰어난 30B 매개변수 밀도 모델인 Muse Glimmer의 가중치도 공개합니다. 곧 최신 파운데이션 모델인 Muse Spark 1.2의 무게추도 출시할 예정입니다. Meta는 오픈 소스의 강력한 지지자이며 저는 이러한 릴리스가 자랑스럽습니다. 이 모델에 대한 훌륭한 작업을 수행한 @alexandr_wang과 MSL 팀에 축하를 보냅니다.",
-      "published_at": "2026-08-10T10:03:03+00:00"
-    },
-    {
       "id": "tg:enc210406/4303",
       "source": "telegram",
       "author": "enc210406",
@@ -1558,9 +1558,7 @@
       "author_url": "https://x.com/sama",
       "url": "https://x.com/sama/status/2085473085399150817",
       "text": "RT by @sama: Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more. https://www.youtube.com/watch?v=87DyyMV0kCY I hope it can answer a lot of the questions folks have, and we will release a full detailed postmortem at a later time!",
-      "images": [
-        "https://pbs.twimg.com/card_img/2085475651696398336/sMBqp17U?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "RT by @sama: 어제 OpenAI 공동 작업자와 저는 Huggingface 사건, \"메시지 보드\"를 생성하는 모델, 모델 정렬 불량 등에 대해 자세히 설명했습니다. https://www.youtube.com/watch?v=87DyyMV0kCY 사람들이 궁금해하는 많은 질문에 답할 수 있기를 바랍니다. 자세한 사후 분석은 나중에 공개하겠습니다!",
       "published_at": "2026-08-06T21:08:24+00:00"
     },
@@ -1726,7 +1724,7 @@
       "url": "https://x.com/demishassabis/status/2085034334914769203",
       "text": "I’ve been working towards AGI my whole life, and as we enter this pivotal moment, I’m stepping into a new role as Chair of Google DeepMind & Chief Scientist of Alphabet. This will allow me to focus on long-term strategy, and accelerating scientific breakthroughs, including leaning into my work at Isomorphic to help cure disease. I’m excited that @koraykv will be stepping up to lead GDM as SVP, alongside @joshwoodward and our exec team. I could not be more excited and confident about our amazing next chapter! 🚀 https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum",
       "images": [
-        "https://pbs.twimg.com/card_img/2085033427242565632/SJMw3oBr?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2085033427242565632/iFbkjNjR?format=jpg&name=800x419"
       ],
       "summary_ko": "고정됨: 저는 평생 AGI를 위해 노력해 왔으며 이 중요한 순간에 들어서면서 Google DeepMind 의장이자 Alphabet 수석 과학자로서 새로운 역할을 맡게 되었습니다. 이를 통해 나는 장기 전략에 집중하고 질병 치료를 돕기 위해 Isomorphic에서의 작업에 의지하는 것을 포함하여 과학적 혁신을 가속화할 수 있을 것입니다. @koraykv가 @joshwoodward 및 우리 경영진과 함께 SVP로서 GDM을 이끌게 되어 기쁩니다. 우리의 놀라운 다음 장에 대해 이보다 더 기대되고 자신감이 넘칩니다! 🚀 https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum",
       "published_at": "2026-08-05T16:04:58+00:00"
