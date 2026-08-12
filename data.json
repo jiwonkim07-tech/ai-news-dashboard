@@ -1,21 +1,131 @@
 {
-  "updated_at": "2026-08-12T06:13:55+00:00",
+  "updated_at": "2026-08-12T08:17:08+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 15
+    "new_this_run": 9
   },
   "briefing": {
-    "headline": "삼성전자, 앤트로픽 '클라우드' 투입해 반도체 설계·검증 단축",
+    "headline": "삼성전자, 앤트로픽 클라우드 도입",
     "bullets": [
-      "마이크론, 데이터센터 수요 충족률 절반 미만",
-      "서버용 DDR5 메모리 가격 15%~23% 상승",
-      "엔비디아, 금융 구조 리스크 분산",
-      "코어위브, 마진과 가동 전력 상회 실적"
+      "알루미늄 가격 7일 연속 상승",
+      "폭스콘, 4분기에 엔비디아 베라 루빈 플랫폼 출하",
+      "YMTC, 중국 시장 장악",
+      "웨이퍼 가격, 공식 인상"
     ],
-    "generated_at": "2026-08-12T06:13:55+00:00",
+    "generated_at": "2026-08-12T08:17:08+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32308",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32308",
+      "text": "호르무즈해협 재개 제한적. 알루미늄 가격 7일 연속 상승하며 7주 최고치 경신   • 미국-이란 협상 교착 상태. 호르무즈 해협 재개방 전망 갈수록 희박  • 알루미늄 시장 공급 우려 계속 커지면서 금속 알루미늄 가격은 7거래일 연속 상승. 런던 알루미늄 선물 가격은 월요일 장중 최고 1.47% 상승 & 6/23 이후 최고 수준에 도달  霍尔木兹短期难重开，铝价连涨七日创七周新高  美伊谈判陷入僵局，令霍尔木兹海峡重开前景日益渺茫，铝市供应担忧持续升温，推动金属铝价…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-12T08:11:00+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19682",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19682",
+      "text": "폭스콘: 4분기에 엔비디아 베라 루빈(Vera Rubin) 플랫폼 출하를 시작할 예정\nhttps://wap.cj.sina.cn/7x24/5037141",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-12T08:10:15+00:00"
+    },
+    {
+      "id": "tg:EMchina/32307",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32307",
+      "text": "폭스콘, 텍사스 & 위스콘신 포함한 미국 생산능력 확대 추진\n鸿海将在美国增加产能，包括德克萨斯州和威斯康星州。（彭博）\nhttps://wallstreetcn.com/livenews/3148483?ivk=1#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-12T08:06:11+00:00"
+    },
+    {
+      "id": "tg:EMchina/32306",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32306",
+      "text": "[한투증권 중국/신흥국 정정영]  • 8월: 방향 전환에서 가속화로  >>  8월 월보를 작성했습니다. 전세계 하드웨어 테크 주식이 큰 변동성을 보인 가운데, 중국도 관련 업종 중심으로 조정이 컸습니다. 중국은 주식시장 하방 압력에 대응해 국가대표 자금을 투입하며 부양 의지를 드러냈고, 동시에 7월 정치국회의를 통해 하반기 거시정책 강화를 시사했습니다. 연초 이후 약해진 경제 회복 탄력을 끌어올릴 의지를 보여준 중국 정부는 상반기 상대적으로 보수적이었던…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-12T08:04:05+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21071",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21071",
+      "text": "» 국내 증시 변동성 지수인 VKOSPI Index는 7월 29일 87.8pt에서 고점을 형성한 후 금일(8/12) 56.5pt까지 하락\n» 지난 7월초에 5.6배 수준까지 도달했던 미국의 VIX 지수 대비 VKOSPI의 상대 배수 역시 3.7배 수준까지 낮아진 모습",
+      "images": [
+        "https://cdn5.telesco.pe/file/JebK28An2MEne4hd894mirV5I8s5EAO7763g8AdQjwndvJk8FafSn2a9mjNMbOx10GGycvCYwJOo3puAurQfdo5caRqLZNsD8n4VsCk3GNHXGLwAxh2cqdjfjAUkxRqobt_GskWzqrwF5vc5aRYBFVzfPmeGR0WBoDP27hjTXEAh0B6DwXMvN99ML9VRNquKr1ncm1rO5dWZJ_FLhoaVKbSIDB_aVI5Zzfo9NhCMVbH5yhBBV4vnAxIbBvklkH_ounjkudzbImJZXtoEuxeXEm7da8XMhpZPTv8B602MxAaTLBmLq-UFNjRAr2o9cLnxCGmVZwlAix4B-vnqeHcC3Q.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-12T08:02:53+00:00"
+    },
+    {
+      "id": "tg:EMchina/32305",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32305",
+      "text": "YMTC, 중국 시장 장악. 중국 클라우드 기업은 모듈업체 우회 & 직접 구매  • 놀라운 속도로 중국 낸드 수요 장악  • Counterpoint에 따르면, 2026년 1분기 YMTC 글로벌 시장 점유율 13%로 상승 & 마이크론/샌디스크와 동률. 단일 분기 매출 전년동기대비 445% 급등하며 2025년 같은기간 8%에서 13%로 상승  • YMTC 급속 성장의 직접적인 수혜자는 모듈업체 아닌 중국 주요 클라우드 기업. 알리바바 클라우드는 232층 낸드…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-12T08:00:45+00:00"
+    },
+    {
+      "id": "tg:EMchina/32304",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32304",
+      "text": "점점 수면 위로  ==========================  ~ 중국 중앙은행인 인민은행이 향후 5년간의 전략적 우선순위를 담은 계획을 내놓고 위안화 국제화를 핵심 과제로 제시했다. 인민은행이 독자적으로 5년 계획을 내놓는 것은 10년 만이다.  https://n.news.naver.com/article/008/0005398604?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-12T07:58:11+00:00"
+    },
+    {
+      "id": "tg:EMchina/32303",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32303",
+      "text": "웨이퍼 가격, 공식 인상(상하이 비철금속망)\n• 두 곳의 주요 웨이퍼 기업이 잇따라 가격 공시 재개. 최신 가격은 N형 웨이퍼—183mm 0.9위안, N형 웨이퍼—210R 1.0위안, N형 웨이퍼—210mm 1.1위안.  기존대비 장당 +0.1위안 상승\n• 이번 웨이퍼 가격 상승은 원가 정책과 밀접한 관련. 웨이퍼 기업의 실제 구매 원가 상승 & 비용 동반 증가 영향. 웨이퍼 가격 상승 당연한 결과\n硅片价格正式报涨\n据上海有色网，已有两家头部硅片企业陆续恢复报价，最新价格为N型硅片—183mm：0.9元/片；N型硅片—210R：1.0元/片；N型硅片—210mm：1.1元/片。硅片新一轮报价较此前上涨0.1元/片，SMM分析本轮硅片涨价与成本政策密切相关，硅片企业实际采购成本上移，对应投炉成本上升，因此硅片涨价属情理之中。\nhttps://wallstreetcn.com/livenews/3148441?ivk=1#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-12T07:04:21+00:00"
+    },
+    {
+      "id": "tg:EMchina/32302",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32302",
+      "text": "L3 & L4 자율주행 안전기준 설정  https://n.news.naver.com/article/422/0000892318?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-12T06:36:01+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24536",
       "source": "telegram",
@@ -467,30 +577,6 @@
       "published_at": "2026-08-11T22:52:51+00:00"
     },
     {
-      "id": "tg:bornlupin/19670",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19670",
-      "text": "루멘텀(Lumentum,\n$LITE\n) FY2026 4분기 어닝콜 Q&A 세션\nQ1. [J.P. Morgan] 장기 재무 목표 상향 & NPO(근접 패키징 광학) 전망\n질문:\n$1.25B 매출 조기 달성 및 마진 상단 초과 달성 후,\n다음 단계의 장기 재무 목표와 NPO/ELS 기회 수준은?\n답변 (CEO/CFO): 다음 OFC(광통신 학회) 즈음 새로운 목표를 발표할 예정. NPO, CW 레이저, OCS 모두 기대 이상이며 이번 가이던스에만 $2.5억을 순증함.\n추가 질문:\nNPO 시장 개화 시점, 선호 아키텍처(통합형 vs ELS) 및 콘텐트 가치는?\n답변 (CEO/사업부 총괄):\n주력 CPO 스케일업 레이저는 '27년 하반기 출하/'28년 고객 배치를 목표로 하며, NPO는 이보다 약 1분기 빠르거나 비슷함.\n초기 NPO는 고출력 ELS(외장형 광원) 위주이며, 이후\n6.4T 광학 엔진 내부에 150~200mW급 중출력 레이저가 직접 통합되는 형태가 이어질 것.\nQ2. [Raymond James] 수주 잔고 가격 재책정 & 중국 InP 팹 경쟁\n질문:\n수주 잔고 가격 재책정(Repricing) 진행 상황과 중국 업체들의 InP 웨이퍼 팹 증설 영향은?\n답변 (CEO): 일부 가격 인상을 진행했으나 마진 개선의 핵심은 고마진 컴포넌트 출하 비중이 늘어난 우호적 제품 믹스(Mix) 덕분임.\n중국 InP 팹 진입 소식이 있으나 당사 실적 영향은 전혀 없음.\nEML 및 고/중출력 레이저의 기술 격차가 현저하며, CW 레이저 역시 독보적으로 타이트한 오차 스펙으로 고객사의 트랜시버 수율을 크게 올려주어 높은 가격 프리미엄을 유지 중임.\nQ3. [Rosenblatt] OCS 및 초고출력 레이저 매출 목표 & 그린스보로 팹\n질문:\nOCS 1억 달러 돌파 시점 및 스케일아웃 초고출력 CW 레이저의 1억 달러 돌파 시점은?\n답변 (CEO): FY27 1분기(다음 분기) OCS 매출은 1억 달러를 의미 있게 상회할 것\n. 초고출력 레이저는 '\n26년 4분기 분기 $5,000만 → FY27 3분기('27년 1분기)에 분기 $1억 돌파 예상.\n추가 질문:\n그린스보로(Greensboro) InP 팹 전환 일정은?\n답변 (CEO):\nGaAs → InP 공정 전환이 순조롭게 진행 중이며 반응기 등 핵심 장비 선제 확보 완료. '\n28년 초 첫 매출 발생 후 '28년 하반기~'29년에 걸쳐 풀 가동 진입 예정.\nQ4. [Citi] OCS 하반기 $4억 목표 & 수급 불균형 현황\n질문:\nOCS 2026년 하반기 $4억+ 목표 및 고객사 자체 OCS 물량 흡수 시점은?\n답변 (CEO): 하반기 $4억 목표는 공급망 병목 해소로 차질 없이 진행 중\n. '\n27년 초에는 해당 메이저 고객 내 제1의 OCS 공급업체로 올라설 전망.\n추가 질문:\nEML 등 핵심 제품 수급 불균형 상황 변화는?\n답변 (CEO/사업부 총괄):\nEML 공급 부족은 여전함.\n특히 CPO/NPO용 고출력(High-power) 레이저는 수요가 급격히 폭증하여 당사의 양산 확대에도 불구하고 공급 부족 격차가 지난 분기보다 훨씬 더 벌어짐.\nQ5. [Susquehanna] EML 모듈 첫 수주 & SiPho/CW 레이저 동향\n질문:\nEML 모듈 첫 수주의 의미/마진 및 1.6T(200G/레인) 세대 SiPho/CW 레이저 침투 현황은?\n답변 (CEO/사업부 총괄): 첫 EML 모듈 수주 성공('27년 3분기 출하).\n단품 대비 ASP가 대폭 높으며 마진율은 단품보다 약간 낮으나 회사 전체 평균 이상임.\nEML 수요 감소는 전혀 없으나('26년 12월 분기 YoY +50% 출하에도 부족), 일본 팹 생산성 개선으로 200G CW 레이저 공급을 확대 중\n.\nCW 레이저 다이 크기를 대폭 축소하여 EML과의 마진 격차를 크게 줄임.\nQ6. [Mizuho] 200G 레인 Crossover & 영업이익률 레버리지\n질문:\n200G/레인(1.6T) Crossover 시점 및 영업이익률 향방은?\n답변 (CEO/CFO): 200G EML은 현재 EML 출하의 25% 이상이며, '27년 중반(6월 분기)에는 50% 이상으로 주류가 될 것\n. 과거 $2B 매출 기준 영업이익률 목표가 38~42%였으나,\n현재 훨씬 낮은 매출에서 이미 40%에 도달함. 향후 42%를 '중간값'으로 두고 목표 범위를 100~200bp 상향 조정하는 것이 적절함.\nQ7. [Wolfe Research] AXT Inc. InP 기판 계약 배경\n질문:\nAXT Inc.와 InP 기판 공급 계약을 체결한 이유는?\n답변 (CEO): 최근 3개월간 CPO/NPO용 초고출력 레이저 수요가 예상을 크게 뛰어넘어 폭증함\n. 이에 선제 대응하고자 AXT와 추가 기판 공급 계약을 체결함. 그린스보로 팹 가동률을 올리기 위한 고객사 장기 공급 협의도 다수 진행 중.\nQ8. [Barclays] NPO 실적 반영 조건 & In-tray OCS\n질문:\nNPO 도입 시 기존 GPU/TPU 개조(Retrofit) 가능 여부 및 트레이 내장형(In-tray) OCS 기회는?\n답변 (CEO/사업부 총괄):\n기존 실리콘에 Retrofit은 불가능함. SERDES 속도가 올라가는 '27년 중하반기~'28년 차세대 실리콘부터 NPO/CPO가 적용될 것.\nIn-tray OCS는 기존 OCS 전망치에 100% 추가되는(Additive) 신규 기회로 '28년 적용 목표. 상용 OCS 대량 공급 트랙 레코드는 루멘텀이 유일함.\nQ9. [Stifel] 펌프 레이저 LTA 구조 & NPO 표준화\n질문:\n펌프 레이저 출하량 4배 확대 및 LTA 구조, NPO 표준화 현황은?\n답변 (CEO/사업부 총괄):\n펌프 레이저 글로벌 점유율은 70~80% 수준.\n주요 장비사(NEM)들과 대부분 3년 장기계약(Take-or-pay, 가격 조정 권한 포함)을 체결하여 CapEx 위험과 수요 불확실성을 완전히 제거함\n. NPO의 광학/물리 레이어는 OCI/MSA 표준을 따르나, 폼팩터 및 랙 구현은 고객별 커스텀 방식이며 초기 매출은 커스텀 중심으로 발생할 것.\nhttps://x.com/DrNHJ/status/2087309300507222024?s=20",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T22:45:11+00:00"
-    },
-    {
-      "id": "tg:EMchina/32295",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32295",
-      "text": "Channel name was changed to «\n한투증권 미국/중국전략 정정영\n»",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T22:42:35+00:00"
-    },
-    {
       "id": "tg:enc210406/4312",
       "source": "telegram",
       "author": "enc210406",
@@ -501,56 +587,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-11T22:10:39+00:00"
-    },
-    {
-      "id": "tg:EMchina/32294",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32294",
-      "text": "CXMT 계속 침투  ========================  ~ 에이수스, 기가바이트, MSI 등 PC용 메인보드를 주로 생산하는 대만계 메인보드 제조사가 중국 최대 D램 업체인 창신메모리(CXMT)의 DDR5 메모리 공식 지원을 확대하고 있다.  ~ 이들 업체는 최근 메인보드용 UEFI 펌웨어(바이오스) 업데이트를 통해 CXMT DDR5 모듈이 적용된 메모리의 호환성 강화에 나섰다  ~ PC용 메인보드의 절대 다수를 차지하는 글로벌 제조사 3곳이…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T21:50:07+00:00"
-    },
-    {
-      "id": "tg:EMchina/32293",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32293",
-      "text": "1000억달러 환급. 긴급관세로 거둔 1650억달러 관세 수입의 60% 수준  • 그래서 다시 301조 관세 준비 중  =======================  ~ Financial Times reports the Trump administration has paid roughly $100 billion in tariff refunds since the US Supreme Court ruled its use of emergency powers to impose…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T21:48:56+00:00"
-    },
-    {
-      "id": "tg:EMchina/32292",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32292",
-      "text": "CXMT 글로벌주식 시총 24위",
-      "images": [
-        "https://cdn5.telesco.pe/file/aWduR4gLklr05vSHd5gdy3AGNTW1O_O4HnBW5gf_NTy2wTREt94AwlwA5lMNSAFYqBt1_wq7g6QyC7S4mUram0mvDFK2kk42S5_J68OjbWSj9PA0KbaC64ZMOAw9a9BHENa6mvpOWSyO6fn1RW-yaCM66bkA1OypIQZ6GIeCnLYZF50ZLefWwUX0Obtq1Z8qOw8whQ-SlP1HY50qSvdrB24dLuGJwXgH39sTJR5irVoHAc_lG6rGRGdG_8mY6zxWbJoyZIDNmyNMspqdA_NRULO72ZOq-25EOfUNwRq8UT7Q7VOLoYuQBavCZWligXLni1EyoejDlSYtgsw5fzmWSA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-11T21:08:57+00:00"
-    },
-    {
-      "id": "tg:EMchina/32291",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32291",
-      "text": "다시 레버리지?!  ========================  ~ The firm says the potential for a rebound is building. \"The next meaningful mechanical flow may be re-leveraging rather than deleveraging,\" Rubner wrote in a note to clients  https://finance.yahoo.com/markets/stocks/…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T20:51:40+00:00"
     },
     {
       "id": "x:GoogleAI:2087279319202570453",
@@ -579,30 +615,6 @@
       ],
       "summary_ko": "내일은 개기일식입니다 🌑☀️ 그린란드, 아이슬란드, 스페인 전역의 개기일식 경로에 있든, 온라인으로 부분적인 단계를 보든, 저희가 도와드리겠습니다. @GoogleAIStudio에 내장된 대화형 3D 시각화 도구를 사용하면 전 세계의 달 그림자를 실시간으로 따라갈 수 있고, 레이캬비크나 발렌시아 같은 관측소에서 현지 하늘 풍경을 시뮬레이션할 수 있으며, 빨리 감거나 되감아 주요 일식 이정표를 포착할 수 있습니다. http://goo.gle/4g4baQt",
       "published_at": "2026-08-11T20:45:43+00:00"
-    },
-    {
-      "id": "tg:EMchina/32290",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32290",
-      "text": "CME, H100 & B200 리스 비용 추종 GPU 컴퓨팅파워 선물 출시 계획(10/5)\n•  현재 규제 당국 승인 대기\n•  시장은 향후 선물 도구 통해 컴퓨팅 가격 변동 헤지 기대\n• 또한 이는 AI 컴퓨팅파워 수급, 데이터센터 활용도, AI 투자수익률 살펴보는 중요한 시장 지표 될 것으로 기대\nCME将于10月5日推出GPU算力期货，追踪H100与B200租赁成本\n该期货合约目前尚待监管部门批准。市场未来有望通过期货工具对冲算力价格波动。同时该合约或也将成为观察AI算力供需、数据中心利用率以及AI投资回报的重要市场指标。\nhttps://wallstreetcn.com/articles/3779217#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T20:43:46+00:00"
-    },
-    {
-      "id": "tg:EMchina/32289",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32289",
-      "text": "레버리지 정리 이후, 누가 AI의 새로운 서사를 이끌 것인가(광발증권)  • 미국 실적 시즌 이후 AI 가격 결정 논리는 \"CapEx를 벌주는 방식\"에서 \"수익 실현을 보상하는 방식\"으로 전환  • 그러나 다음 모순 확인. 미국 4대 클라우드 CapEx 증가율은 105%에서 2028년 9%로 하락 예상. AI모델 기업과 신규 클라우드가 이 CapEx 격차를 메울  능력은 제한적  • “모델이 모델을 훈련한다”는 RSI 논리가 다음 단계의 연산 능력 수요…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-11T19:41:19+00:00"
     },
     {
       "id": "x:demishassabis:2087255967549243425",
@@ -750,7 +762,7 @@
       "url": "https://t.me/enc210406/4311",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 8월 11일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/kyRWD7q00eGQMLes0o7-XwnHUx9MtNQpHqrVzxvMx3uDis1gulwxS1f8ESsFTsoQMIn3fU_U3SJIxAwvFXwdzgp_DUaJ9P_cnrLiFfhSphVjiNLfE4-wRo4EUxixR8G1ey9lSCTSY0HdfhZXIKPv-CCfyiD7wN9X53_p7ooyuhWpuDmseHYi5p7VdeZeYU5KabCY767ZP_VgyxgBmTXblsyWuPFv63VDk5FdGdQKP_syHq2iPxULcbw8KRwpxlvwE9s_myyf3pFiv5dZ_OivxlZ67pJF4YWLSlwnjvmG86Q9HzbQo-jK1qaMFvAaB7D273BfT_Nat79XQq5_QhTPLw.jpg"
+        "https://cdn5.telesco.pe/file/PtVY0z7X7dfZcWquo-Ui8lCxigavaGagC0kDEW99wKJ9mMFZUscDuVY4sSa_IcMwctzlK2pba_z3LLSd15JuGxuviyzunrYwYRXMJZjd7jkq6dOCcaxAY-jbpm_9MlefEF5tnKDipHH11r0LLjgtywxSLwAc1K6pl_xBFQLGr8qfLXvoW6pXfRTo8ZcCZdGF2e9VUh0H71SnskQ5X0GWAkcdqIzYTlOdQPkxI1YtMzA8DRur_-4QsCLCT-6bYzNOK_5hGmXJN2R3stz9Y0SXPXmvySUb0JEAAAlZAangvE87nv6kh6RSbvesA1d4jROhIJ7ybW1qvAYof1QT1Kpcrg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-11T07:58:43+00:00"
@@ -928,18 +940,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-10T23:09:05+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21056",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21056",
-      "text": "[New K-ETF] 미국 우주 위성통신\n▶\n하나 Global ETF 박승진(T.3771-7761)\n▶\n자료:\nhttps://buly.kr/7FTxm7c\n▶\n텔레그램:\nhttps://t.me/globaletfi\n▣ 신규 상장 ETF(8/11): RISE 미국 우주 위성통신\n◎\nRISE 미국 우주 위성통신 ETF\n-\n미국의 우주 인프라 및 위성통신 기업들로 구성하는 패시브 ETF.\n전체 우주 경제 규모의 약 70% 비중을 차지하고 있는 동시에, 현 시점에\n유일하게 우주산업 내에서 실제 경제적 가치를 만들어 내고 있는 위성산업의 종목들\n로 편입 대상을 선별. 구독 기반의 안정적 현금 흐름이 확보되는\n위성 통신과 데이터 서비스 부문 10개 기업으로 집중\n하는 형태의 ETF 종목\n- 우주 위성통신의 업스트림과 다운스트림 전반의\n4대 밸류체인(우주 인프라, 위성 통신 장비 및 네트워크 인프라, 위성 직접 통신 서비스, 위성 데이터 서비스)\n에 투자. 매출 비중이 50% 이상인 종목들(Pure-Play)을 편입 대상으로 선별. Pure-Play 기업들로 구성된 유니버스에서 시가총액 상위 10개 종목들을 편입하여 최종 ETF 포트폴리오 구성\n- 상장일 기준 포트폴리오에는 ‘우주 인프라∙위성 연결성(위성 제조, 발사 서비스, 항공우주 시스템)’ 부문의\nRocket Lab/Teledyne Tech\n, ‘위성통신 장비 및 네트워크 인프라(안테나, 모뎀, 광부품, 시험장비)’ 부문의\nCiena/Lumentum/Viavi Solutions\n, ‘위성 직접통신 서비스(음성∙데이터, 브로드밴드, D2C 연결)’ 부문의\nSpaceX/Iridium Communications/AST SpaceMobile/Viasat\n, ‘위성 데이터∙서비스(지리공간, 기상, 모빌리티 데이터)’ 부문의\nPlanet Labs\n가 편입\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-10T23:08:28+00:00"
     },
     {
       "id": "tg:enc210406/4305",
@@ -1233,7 +1233,7 @@
       "url": "https://t.me/enc210406/4303",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 8월 10일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/W-H4ab0Qr6w1_lJLD5hLtfIPKVQLvb-QAQC-KXBhIlTgOXZiCbLEeyMb5iakBSenkUByMxU1DPPYyU5oQIlDezfUt4ap7-c1RDfIH2LXlIUpV7sJJ59gDKEkPG3r3iHvFobJF7zg_-n5_lwzppbqSSE_fJiqoRH23iiUFDDEkfWfQaOAojA5PWJKGg1prQOaNYXjdlgXnvYOyB1kkYspNONp7NPCpNMvt8Nb7gBsrH8ETs49hHIkuMR64jIgoPM-MiUl0AX67YRA3oQp1NBlRo68s8leNdMO-5rh5X-jSLBklJer4ZCCcYOpF9y1dHf75XiOaAbzIcwNJ7iJ77G9HQ.jpg"
+        "https://cdn5.telesco.pe/file/JaK6DREatlUZJo-UFeuJ15JLTw4GQ2LKety_f9aNkdl2QQloWbqzpokBg83yvcV_ca7lXtUfaXMAvg7WPJtFhhRoOzSzusXpxF5eO8dMitvJd1zYK3xl8jsqy0xtxauu09OFY47mgBd3rntPBDby3fv9c9igsGGF_Ly_3ZCQ8TGsKF4wETDK8FZyH1TX6L-jH79ASfAHUC4RLpr_YvlaUFOicd9iZDOXdKgIyzYHuvXcuHyIgd_1cGsr-YjeDZ8oBmBbd6xHkPuHGqOchTMClrCohs6o1rgUbzr5pktJQE5wsX3mCYb_guGiwskUX4hi2UDWxMOR9QTi4_Qh5Kf01A.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-10T08:07:13+00:00"
