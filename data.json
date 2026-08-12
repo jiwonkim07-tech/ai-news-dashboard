@@ -1,22 +1,154 @@
 {
-  "updated_at": "2026-08-12T13:08:23+00:00",
+  "updated_at": "2026-08-12T14:56:32+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 21
+    "new_this_run": 10
   },
   "briefing": {
-    "headline": "미국 7월 CPI 전월대비 0.1% 상승",
+    "headline": "코어위브, 2분기 실적 강세",
     "bullets": [
-      "BofA: 9월 금리 인상 제외될 가능성",
-      "JP모건: 루멘텀, 슈퍼마이크로 목표주가 상향",
-      "네비우스 2분기 실적: 매출 5억 8,230만 달러",
-      "YMTC, NAND 시장 점유율 3위 진입",
-      "테크 주식 변동성 가속화"
+      "루멘텀, 목표주가 1200달러",
+      "네비우스, 2분기 실적 상향",
+      "BofA, 미국 AI·에너지 투자 2,500억 달러",
+      "갤러웨이, 한국개미 레버리지 경고",
+      "텐센트, 2분기 매출 서프"
     ],
-    "generated_at": "2026-08-12T13:08:23+00:00",
+    "generated_at": "2026-08-12T14:56:32+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:globaletfi/21082",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21082",
+      "text": "🔹\n주요 반도체 ETF 주가 강세\n» Hyperscalers들의 현금흐름 해석이 자금조달과 유동성 환경 및 투자 계획에 대한 연결고리로 이어지면서 시장금리와 상관관계가 더 높아지고 있는 반도체 주가",
+      "images": [
+        "https://cdn5.telesco.pe/file/Xcu55wZQ6XmAxaStb2QqVIcDoFR9RrorZxW4iop8RbnTBD5FlD-omSaNVleFCtbfbrBSt1FeUIy0jRHwlzDEXSeDJR4seUO5iidRLnnZ58Nkkban-fO6DuV8s8UTz-qVZO7HZLS35Sv6HxhnfvdOQmDCBzCEOafTYT57FCGowfjNhEtT95rWf1VrrSTqLZUcpTAeOYQyXTOHWVLIxoef8qFoj1eQN_mO6txhIG_7UyGbZAZmyRvE-j8fpSJhuHf8vtmT1RH910y6ZR9DCjxBfg4LtPsZI1HjW58uif6lM3xW4BVoyllAMMrkibgziCQOk0AmRPDiuyI6soFbY501kw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-12T14:44:51+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24546",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24546",
+      "text": "Citi) 코어위브(CRWV.O); AI 구축과 마진이 함께 전진한 강한 2분기. TP $142\n■ Citi의 시각\n네오클라우드 업종에 대한 불안이 높은 상황에서 코어위브는 2분기에 자신감 있는 메시지를 전달했습니다. AI 수요가 여전히 견고하다는 점, 가격 결정력이 강화되고 있다는 점(전 SKU에 걸쳐 25% 인상), 소프트웨어와 토큰 사업이 성장하고 있다는 점, 마진에서 상방 서프라이즈가 나왔다는 점이 확인되었습니다. 최근 DDTL(지연인출 텀론) 시설과 관련해 이자 부담 증가에 대한 우려가 일부 있었지만, 이는 가격과 수익성이 더 강한 단기 계약과 연결된 것이라는 설명입니다. 또한 연간 액티브 파워 가이던스를 제시하고 데이터센터 프로젝트 타이밍에 차질이 없다고 밝히면서, 프로젝트 지연 확대에 대한 비관론자들의 우려를 상당 부분 해소한 것으로 평가됩니다. 매출, 영업이익률, 캐펙스, 4분기 ARR 출구 수준 기대치가 전반적으로 상향되었으며, Citi는 이번 분기를 IPO 이후 코어위브가 보여준 가장 깔끔한 분기 중 하나로 평가하면서 실행력과 수익성 개선에 대한 투자자 신뢰가 높아져 주가가 의미 있게 상승할 것으로 보았습니다.\n■ 2분기 실적 하이라이트: 캐파 증설과 수익성\n2026년 2분기 매출은 25.8억 달러로 전년 대비 113% 증가했으며, 가이던스 중간값을 소폭 상회하고 Citi 추정치와 컨센서스를 각각 $17M, $37M 앞섰습니다. 비트 폭 자체는 작았지만 이는 타이밍 요인이며, 캐파 증설은 견조하게 진행되어 액티브 파워가 전분기 대비 500MW 증가했고 이 중 300MW가 6월에만 전달되었습니다.\n수주 잔고(backlog)는 약 1,040억 달러로 전년 대비 246% 증가했습니다. 전분기보다 성장 속도는 다소 둔화되었지만 3분기 초에 추가된 250억 달러 이상의 계약은 제외된 수치입니다. CRPO(24개월 미만)는 전분기 317%에서 177%로 감속했습니다.\n분기 중 주요 고객 확보로는 Bentley Systems, Caterpillar, Grammarly, Isomorphic Labs, Sunday Robotics 등이 이름을 올렸으며, 하이퍼스케일러와 프론티어 랩을 넘어 고객 다변화가 확대되고 있음을 보여줍니다. 경영진은 매니지드 인퍼런스가 1억 달러에 도달했고 마진에 기여하는 기타 사업이 4억 달러를 넘어섰다고 밝혔습니다.\n조정 영업이익률은 5%로 Citi 및 컨센서스 기대를 각각 150bp, 250bp 상회했습니다. EPS도 인퍼런스와 기타 사업을 포함한 기여 마진 개선에 힘입어 크게 앞섰으며, 감가상각비와 이자비용은 예상 수준이었습니다. CIP 제외 캐펙스는 94억 달러로 Citi와 컨센서스를 각각 10%, 20% 이상 상회했는데, 고객 인도가 앞당겨진 영향입니다.\n2분기 주요 수치 비교로는, 매출 $2,575M(가이던스 중간값 $2,525M), 조정 영업이익 $128M(가이던스 중간 $60M), 순손실 $567M, EPS -$1.03(Citi/컨센서스 -$1.28), 영업활동 현금흐름 $679M, RPO $103,700M(+245%), 백로그 $104,200M(+246%)입니다.\n■ 가이던스 상향\n3분기 매출 가이던스는 34.5억~36.0억 달러(중간값 전년비 +158%)로 Citi 추정치 36억 달러보다는 낮지만 컨센서스 34억 달러를 상회했고, 4분기에는 약 194% 성장으로 더 큰 단계적 도약이 내재되어 있습니다. 3분기 조정 영업이익률은 중간값 7%(6~7% 범위)로 Citi의 8.5%보다 낮지만 컨센서스 6.7%와는 부합합니다. 경영진은 4분기에 10%대 초반으로의 순차적 확대 가이던스를 재확인했습니다. 3분기 캐펙스 가이던스는 115억~135억 달러로 신규 캐파 인도량 증가에 따라 Citi 예상을 10억 달러 이상 상회했습니다.\nFY26 매출은 124억~132억 달러, 조정 영업이익은 9.6억~11.5억 달러로 모두 상향되었으며, 이는 회사가 여전히 대부분 매진 상태이고 캐파 제약을 받고 있음에도 이루어진 조정입니다. FY26 출구 ARR 하한은 5억 달러 추가 상향되어 18.5억~19.5십억 달러(185억~195억 달러) 범위가 되었고, FY26 캐펙스도 캐파 기대 상향에 따라 40억 달러 올려 350억~390억 달러로 조정되었습니다.\nCiti는 액티브 파워가 더 강한 가격으로 온라인화되고 Vera Rubin 인도가 진행되면서 MW당 ARR이 계속 1,000만 달러 이상에서 움직일 것으로 봅니다. FY26 ARR이 소폭 상향된 만큼 2027년 출구 ARR 목표인 300억 달러 이상에 대해서도 추가 상향 조정이 예상되며, 이 중 갱신을 제외하고 75% 이상이 이미 계약되어 있습니다. FY27 목표 달성에 필요한 캐파는 이미 전량 확보되어 있어, 추가 캐파가 계약된다면 300억 달러 이상 ARR 범위에서 더 여유가 생길 수 있다는 분석입니다. 3.5GW 이상의 액티브 파워는 FY27 말까지 대부분 온라인화될 예정이며, 2030년까지 8GW 목표도 재확인되었습니다.\n■ 시사점\nCiti는 이번 분기를 코어위브에 강한 분기로 평가하며, 상장사로서 이전 여러 분기와 달리 수익성 가이던스와 출구 ARR이 상향되고 실행력, 고객 및 매출 다변화에서 긍정적인 업데이트가 나왔다는 점을 강조했습니다. 이는 하이퍼스케일러와 네오클라우드 영역 전반의 수요에도 긍정적 신호로 해석됩니다.\n■ 밸류에이션\nFY29E까지의 매출 성장과 수익성을 투영해 1년 목표주가 $142를 산출했습니다. 소프트웨어 유니버스 전반의 트레이딩 멀티플과 성장성·수익성에 대한 회귀분석을 기반으로 하되, 높은 고객 집중도 리스크와 여타 소프트웨어 기업 대비 과중한 부채 부담을 반영해 회귀분석 기반 멀티플에 63% 할인을 적용했습니다. 미래 현금, 부채, 주식수 가정을 사용해 도출한 내재 미래 주가는 $173이며, 이를 15% 주식 할인율로 1년 시점까지 할인했습니다. 목표주가 $142는 FY27E EV/매출 약 3.4배에 해당합니다.\n■ 리스크\n짧은 거래 이력과 높은 고객 집중도로 인해 거래량이 많은 기성 소프트웨어 종목보다 매크로 변화에 따른 변동성이 클 수 있어 High Risk로 분류하고 있습니다.\n상방 리스크로는 GPUaaS에 대한 중장기 수요가 견조하게 유지되고 가격 레버리지가 강화되어 성장 목표와 수익성이 높아지는 경우, GPUaaS를 넘어 확장해 내부 개발 솔루션과 인수를 통해 소프트웨어 점유율을 확보하는 경우, 데이터센터 자산의 내구연한이 예상보다 길어 마진이 개선되는 경우가 제시되었습니다.\n하방 리스크로는 마이크로소프트, OpenAI, 메타 등 대형 AI 사업자들이 장기적으로 학습·추론 워크로드를 내부로 이전하면서 갱신 불확실성이 커지는 경우, 캐파 제약이 완화되면서 하이퍼스케일러 경쟁이 격화되고 엔터프라이즈 영역 경쟁이 심해지는 경우, 주민·지방·주정부 차원의 반발로 데이터센터 개발이 지연되는 경우, 데이터센터 자산의 내구연한이 예상보다 짧아 마진이 훼손되고 감가상각 주기가 빨라지는 경우가 언급되었습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/ixqPHrfmodeLBfTotgC316oUG-6Bt3IhNen65IZdj9zXzHWJ2-rAJTLnQ05eL1P2JPhqOlRZyulKJ0HgPwrLBU-KbbkmzSUBSkHGNnDnwsVf7YtuTatNUWRUoR6u_lQDbm9nmlx5U7B59a5jiKbUVRcwgserrM-KOx8HI7w2btdLNEUiFbPKl-MP0SR20fCbbh-rdkqQkAWWpDpOtODxQdIkbDGJHiRCAoosfbRPJf7jkBRpXIcpmhxfwzKgO8Q0R4qeCPVaQIkKAh8JVTAc3Ux_KqyTjDTKUK6KMJUTUVOokfm4Mk3oyQ0vjo23a0G2DW7Tf2a2tPdqllwldkkFGg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-12T14:27:04+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21081",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21081",
+      "text": "» 미국 증시의 방산 ETF 중 가장 높은 주가 상승률을 보이고 있는 한국 방산기업 포트폴리오의 KDEF",
+      "images": [
+        "https://cdn5.telesco.pe/file/WHgald7kV1030YvSresojFqtQKE0UQoX59qJo2kxgaJYdgE4Y1P5C2EqKce4K42PBE_7dujC3R8JZR1Vg0TeVB4fWTOvsNe8aBssjoGyubZR3lgKlpE7m6VEjVk34GVrgkUpfjaHdq58ngKfvQMJZH0fjiLgiVeVftJjU09agdva9wADL76PuPZkBycyhOldvjDPLaNbb6U1AqWdBbo5Ldn8V0jTpymg7Mk8XRFwni2vp7m6k2Q-LXmw0cgh79qWwNYdHvmESmAfDhj5viQ2yZWtYe3lQKRTHIO-Q_zajYI_Psc92EqJreBvij5V8rFU7l2_FAEN8aOKWXnUNQ1jHA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-12T14:02:29+00:00"
+    },
+    {
+      "id": "tg:EMchina/32315",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32315",
+      "text": "파키스탄: 미국-이란 MOU 마감시한 연장 가능. 더 광범위한 평화 프로세스 정체. 빠른시일내 재개 희망  巴基斯坦：美伊谅解备忘录的最后期限可以延长。更广泛的和平进程陷入停滞，希望很快能够恢复。  https://wallstreetcn.com/livenews/3148565?ivk=1#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-12T13:38:50+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24545",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24545",
+      "text": "Citi)루멘텀(LITE.O); NPO 기회가 CPO/OCS 위에 얹히고 있다. TP$1200(기존 $1100)\n■ Citi의 시각\n루멘텀은 6월 분기 매출과 EPS가 시장 추정치를 각각 2%, 9% 상회했고, 9월 분기 가이던스는 매출 9%, EPS 16% 앞선 수준으로 제시되며 강한 실적을 내놓았습니다. Citi는 특히 경영진 코멘트 세 가지에서 확신을 얻었다고 밝혔는데, 첫째는 OCS가 2026년 하반기에 4억 달러 이상을 달성하는 궤도에 있다는 점, 둘째는 CPO 타임라인이 그대로 유지되는 가운데 NPO 기회가 그 위에 추가로 얹히고 있다는 점, 셋째는 레이저 수요가 여전히 공급 대비 30% 이상 초과하는 강세를 이어가고 있다는 점입니다.\n이에 따라 Citi는 FY2027E와 FY2028E 매출 추정치를 각각 6%, 13% 상향했습니다. 여기에 non-GAAP 총마진이 회사의 장기 목표치인 50.5%를 이르면 2026년 9월 분기에 넘어설 것이라는 기대가 더해지면서 EPS는 각각 9%, 17% 상향 조정되었습니다. 이러한 성장 가정하에서 Citi는 FY2027E/FY2028E 매출과 EPS가 컨센서스 대비 19%/20% 상회 여력이 있다고 보며, FY2028E 주당 이익력 약 $37에 P/E 35배를 적용해 할인한 $1,200을 목표주가로 제시했습니다. 기존 40배에서 배수를 낮춘 것은 동종업계 전반의 디레이팅을 반영한 결과입니다.\n■ 6월 분기 실적\n매출 10억 달러, non-GAAP EPS $3.23을 기록해 Citi 추정치 $988M/$2.97과 컨센서스(팩트셋) $988M/$2.96을 모두 상회했습니다. non-GAAP 총마진은 컨센서스 48.3% 대비 210bp 높게 나왔으며, 매출 볼륨 확대와 우호적인 제품 믹스, 가격 인상, 수율 개선이 복합적으로 기여했습니다. 6월 분기 총마진이 50.4%에 도달하면서 9월 분기에는 장기 목표 50.5%를 넘어설 가능성이 높다는 평가입니다.\n■ 9월 분기 가이던스\n매출 12.5억 달러, non-GAAP EPS $4.20(중간값)으로 Citi 추정치 $1.2B/$3.77과 컨센서스 $1.15B/$3.60을 크게 웃도는 수준입니다. non-GAAP 영업이익률 가이던스는 39.5~40.5%로, Citi의 37.6%와 컨센서스 37.3%를 상회합니다.\n■ 추정치 변경 요약\nFY2027E 매출 $6,435M → $6,828M (+6%), FY2028E $9,295M → $10,532M (+13%)\nFY2027E EPS $21.18 → $23.03, FY2028E $31.82 → $37.21\n세그먼트별로는 Components가 FY2027E 8%, FY2028E 11% 상향되었고, Systems는 각각 4%, 16% 상향되었습니다.\n컨센서스는 FY2027E EPS $18.37, FY2028E $28.37 수준으로, Citi 추정치와의 격차가 큽니다.\nOCS 분기 매출 추정 경로는 2026년 3월 $20M에서 6월 $50M, 9월 $150M, 12월 $270M을 거쳐 2028년 6월 $806M까지 확대되는 그림입니다. FY2027E는 전년 대비 약 15배, FY2028E는 100% 이상 성장이 전제되어 있습니다.\n■ 경영진 컨퍼런스콜 주요 내용\nNPO와 CPO의 기회 규모에 대해 경영진은 어느 쪽이 더 클지 확정적으로 말하기보다 둘 다 기회라고 규정하면서도, 비(非)엔비디아 NPO 도입 업체들의 강도가 현재 엔비디아에서 보는 것보다 높다고 언급했습니다. 엔비디아의 경우 CPO/스케일업 기회 중 외부 광원(ELS) 기반은 일부에 그치지만, 다른 고객들은 상당 부분 혹은 전부가 ELS 기반일 것으로 예상된다는 설명입니다. 경영진은 이를 매출 기회에 광학 집적도를 곱한 개념으로 설명했고, 엔비디아향 근시일 스케일업 출하 케이던스(2027년 말~2028년 초)는 변함이 없는 가운데 신규 NPO 기회가 같은 기간에 겹쳐 들어온다고 밝혔습니다.\n램프 속도와 엔비디아 랙 논쟁에 대해서는, 루멘텀의 스케일업 일정을 Kyber 랙 스케줄과 연결 짓는 시장의 시각에 반박했습니다. 멀티랙 구성이 존재하는 한 랙 간(north-south) 기회는 Kyber 랙 타이밍에 좌우되지 않는다는 입장입니다. 스케일업과 연결된 랙 내 수직 연결인 at-the-rack CPO는 2029년 배치를 앞두고 2028년 하반기 출하 궤도에 있으며, NPO 관련 north-south 랙 내 기회는 2027년 4분기 출하를 시작해 2028년 초 램프될 것으로 예상됩니다.\n콘텐츠 측면에서 경영진은 NPO가 CPO의 대체재가 아니라 증분이라는 점을 분명히 했습니다. 엔비디아나 유사 고객이 어느 아키텍처를 쓰든 동일한 외부 광원 구성이 유지되므로 CPO와 NPO 간 콘텐츠는 대체로 비슷하다는 것입니다. 스케일아웃 CPO는 현재 출하 중이고 스케일업 수요는 계속 공급을 초과하고 있으며, 주요 고객 측의 주저하는 기색은 관찰되지 않는다고 언급했습니다. 한편 일부 비엔비디아 NPO 고객은 외부 광원 대신 레이저를 광학 엔진 내부에 직접 임베드하고 있는데, 여기서 중출력(120mW, 150mW) 레이저 기회가 발생하며 이는 엔비디아를 넘어선 추가 고객군이라고 설명했습니다.\n저출력 임베디드 레이저(120~150mW) 경쟁 구도에 대해서는 ELS 기반 CPO/NPO보다 시기가 늦어 2028년 상반기 출하, 하반기 양산 램프가 가능하다고 보았습니다. 현재로서는 직접적인 경쟁자가 없다고 판단하지만 아직 초기 단계라는 단서를 달았습니다. 400mW 레이저를 120~150mW로 낮추는 것이 70~100mW 저출력 레이저를 120mW로 끌어올리는 것보다 구조적으로 용이하다는 점을 근거로 들었으며, 고출력 영역의 신뢰성 요구가 동등하거나 더 엄격하다는 설명입니다. 다만 이 임베디드 엔진 카테고리에서 공식적인 디자인 윈은 아직 확보하지 못했습니다.\nEML에서 CW로의 캐파 재배분과 관련해서는, 일본 팹의 잉여 캐파 중 10~20%를 EML에서 CW 레이저로 옮기는 전략적 배경을 확인했습니다. EML의 마진이 더 높고 여전히 공급 제약 상태임에도 이런 결정을 내린 이유로는 다이 사이즈 재설계와 리툴링을 통해 CW 마진이 크게 개선되어 EML과의 격차가 좁혀졌다는 점, 그리고 2027년까지 트랜시버 대다수가 실리콘 포토닉스로 전환되면서 CW 기회의 규모가 더 커질 것이라는 기대가 제시되었습니다. 경영진은 EML 공급 제약이 여전히 심각하며 이번 재배분은 EML 수요 전망 변화가 아니라 증분 CW 매출을 확보하기 위한 전략적 판단이라고 강조했습니다.\n■ Catalyst Watch\n6월 분기 실적 발표와 ECOC 2026(9월 20~24일)을 앞두고 90일 상방 Catalyst Watch를 개시했습니다(10월 14일 만료). 두 이벤트를 통해 우호적인 가격 환경, 훼손되지 않은 NPO/CPO 로드맵, 기술 리더십이 부각될 것으로 기대하고 있습니다.\n■ Bull / Base / Bear\nBull $1,800 (119% 상승): AI 매출 지속으로 매출과 EPS가 기존 예상보다 빠르게 성장, 신규 경영진의 마진 개선 노력에 따른 예상 이상의 ESP 성장, FY2028 EPS $50에 40배 적용 후 할인.\nBase $1,200 (46% 상승): AI 후광 효과로 멀티플 확장, 신규 경영진의 강한 실행력에 따른 마진과 EPS 확대.\nBear $500 (39% 하락): 마진 목표 미달로 EPS 하향, AI 수요의 선반영, FY2028E EPS 약 $17에 30배 적용 후 할인.\n■ 리스크\n하방 리스크로는 AI 영역 경쟁 심화로 점유율 및 매출 상승 여력이 제한되는 경우, AI 램프가 선반영되거나 예상보다 느려져 EML 램프에 영향을 주는 경우, 루멘텀의 CPO 및 OCS 신제품 채택이 지연되는 경우가 제시되었습니다. 상방 리스크로는 AI 트랜시버, CPO, OCS 부문 신제품을 통한 점유율 확대, AI 워크로드의 빠르고 강한 채택, 예상보다 빠른 마진 확장이 언급되었습니다.\n※ 클로드로 요약함",
+      "images": [
+        "https://cdn5.telesco.pe/file/WaocoO9hKlNZUzOU8uuE4ImMzXYN1KtX_a10HDeSBAketWTxiIndAY94oUnTsULyIIsFMaFKMTFg-ssU9kN2ThwoUEmWookp57dYUKC4_NqpgggVdfSDdjHUgzwIkdx6JwInPiY8J1hNfr0xwLDYc319CoFGv9SR5rfyqaH63GhxpRyliDMXea3L9ZU3wl8nq1Mo7AzAs4geDWVuKjinluGKYmTvY1DFkPqgxlUzVB8USlIZXRqeWittsxnvhKDf6iGEbH_oMMAJsfEgLnkT2CflmdlZfv3mEbR2KvQzKMnq9K7hqWWj6pUe-xcp0nEFG7ZpvModmQDAZcsiah7iHQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-12T13:31:16+00:00"
+    },
+    {
+      "id": "tg:EMchina/32314",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32314",
+      "text": "중국에서도 인용 보도\n========================\n~ 업계에서는 글로벌 통신 반도체 고객사의 유리기판 시제품 신뢰성 평가 인증을 얻지 못한 것을 원인으로 꼽는다. 이에 정통한 관계자는 \"삼성전기가 신뢰성 평가를 통과하지 못하면서 투자 일정에도 제동이 걸린 것으로 안다\"며 \"시제품을 다시 제작해 제출해야 하는 만큼 기존 일정도 불가피하게 추가 지연될 것\"이라고 말했다. 또 \"당장 1~2주 안에 새로운 시제품을 만들 수 없기 때문에 연내 라인 투자 여부도 불투명한 상황\"이라고 덧붙였다\nhttps://www.thelec.kr/news/articleView.html?idxno=60802",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-12T13:21:32+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19690",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19690",
+      "text": "네비우스(Nebius,\n$NBIS\n) 2분기 어닝콜 중 Q&A 세션\nQ. 가격 상승세와 연간 1GW 이상 용량 확장, 신규 전략(경매, 단기 계약, Asset-Light)이 장기 전략에 어떻게 부합합니까?\n답변 (아르카디 볼로즈 / CEO):\n시장 역동성 대응:\n인프라를 미리 구축하되 판매 시점을 조절하는 모델을 보유하고 있어,\n미할당 용량을 고마진 단기 계약에 전략적으로 배정할 수 있습니다.\n용량 경매(Auction):\n2분기 최초로 진행한 중기 계약 경매가 역대 최고가에 낙찰되었습니다.\nAsset-Light 모델:\n자본과 부지·운영을 담당하는 파트너의 인프라 위에 네비우스의 풀스택 플랫폼과 수요를 결합하는 방식입니다.\n네비우스는 자본 투입을 최소화하면서 고마진 수수료 수익을 창출하여 2027년 이후 확장성을 크게 높였습니다.\nQ. 오픈웨이트(Open-weight) 모델에서의 강점이 고객들의 추론(Inference) 수요 증가를 견인하고 있습니까?\n답변 (로만 / 기술 총괄):\n오픈소스 전환:\n기업들이 단순 AI 도입 단계를 지나 비용 효율성과 자사 데이터 특화 모델 구축에 집중하면서\n오픈소스 및 오픈웨이트 모델 도입을 늘리고 있습니다.\nToken Factory:\nGLM 5.2, DeepSeek Flash, MiniMax 3, Llama 등 최신 프론티어 오픈 모델 출시 당일(Day 0) 지원을 제공합니다. GLM 5.2의 경우 Artificial Analysis\n벤치마크에서 100% 품질 점수와 업계 최고 수준의 성능을 기록하며 추론 수요를 빠르게 흡수하고 있습니다.\nQ. 2027년 용량, 가격, 매출 전망 프레임워크 및 공식 가이던스 제공 시점은 언제입니까?\n답변 (다토):\n가격 기선(Baseline):\n2분기 체결된 계약(MW당 2,000만 달러 이상, 투자금 회수기간 2년 미만)이 2026년 4분기 말부터 가동되며 2027년 가격의 기준선 역할을 할 것입니다.\n2027년 전망:\n향후 가격 상승에 대한 확신이 있어 현재 시점에서 2027년 용량을 전부 사전 계약하지 않고 전략적으로 남겨두고 있습니다.\n2027년 공급 용량은 2026년 대비 대폭 증가할 것이며, 공식 가이던스는 올해 후반에 발표할 예정입니다.\nQ. 올해 말 연계 전력(Connected Power) 800MW~1GW 목표가 유효하며, 바인랜드 부지가 2027년 용량에 포함됩니까?\n답변 (안드레):\n목표 유지:\n연말 연결 전력 800MW~1GW 목표는 유효하며, 바인랜드 부지는 2026년 연결 전력 목표에 포함\n되어 있습니다.\n매출 인식 시차:\n연결 전력(Connected Power) 확보 후 데이터센터 커미셔닝, 클러스터 구축, 플랫폼 배포, 고객 온보딩까지 수개월의 시차가 발생하므로, 2026년 말 연결된 전력은 2027년 상반기 매출로 본격 전환됩니다.\nQ. 베라 루빈(Vera Rubin) 도입 타임라인과 경매/단기 계약 등 신규 GTM 방식의 테이크오어페이(Take-or-Pay) 적용 여부는 어떠합니까?\n답변 (안드레 & 마크 스트로버그):\n베라 루빈(Vera Rubin):\n연구소에서 이미 테스트 중이며, 기존 Grace Blackwell 대비 기술적 전환이 용이합니다. 2026년 말~2027년 초 첫 배치를 시작으로 2027년 내내 본격 공급할 예정입니다.\n신규 GTM 조건:\n경매 및 단기 대규모 계약을 포함한 모든 거래 형태는\n100% 테이크오어페이(Take-or-Pay, 의무 인수)\n조건입니다.\n경매 결과 블랙웰 가치 대비 기존 대비 15%, 파이프라인 대비 20% 높은 최고 낙찰가를 기록하며 실시간 시장 가치를 검증했습니다.\nQ. 2027년부터 연간 1GW 이상 규모의 CapEx 투자 자금을 어떻게 조달하고 우선순위를 정할 예정입니까?\n답변 (다토):\n다각화된 조달 구조:\n영업현금흐름(OCF):\n사업 규모 확장에 따라 가파르게 증가 중.\n고객 선수금:\n2분기 기준\nCapEx의 50~60%를 커버했으며, 향후 이 비중을 더 높일 계획.\n자산유동화(ABS) 부채:\n400억 달러 규모의 확정 계약 잔고(Backlog)를 담보로 우수한 금리 조건으로 조달.\n미사용 기업 부채 및 Equity/ATM/전환사채:\n재무제표가 우수하여 추가 조달 여력 충분.\nGPU 자산화 금융:\nGPU 자체를 독립 금융 자산으로 활용하는 신규 파이낸싱 구조 활용.\n다각화된 자금 조달 전략을 통해\n2027년 이후 대규모 용량 확장에 필요한 자금을 안정적으로 충당할 수 있습니다.\nhttps://x.com/DrNHJ/status/2087529754891100661?s=20",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-12T13:21:18+00:00"
+    },
+    {
+      "id": "tg:EMchina/32313",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32313",
+      "text": "Ed Yardeni: S&P500 목표주가 기존 8250pt에서 8400pt로 상향조정\n资深策略师Ed Yardeni将标普500指数目标从8250点上调至8400点。\nhttps://wallstreetcn.com/livenews/3148624?ivk=1#from=ios",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-12T13:18:48+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21080",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21080",
+      "text": "🔹\n근원 상품 물가와 근원 서비스 물가의 전월대비 상승률: 관세의 가격전가 경계  » 7월 근원 상품(Core Goods) CPI는 전월대비 +0.20% 상승하며 지난해 9월 이후 가장 큰 상승폭 기록. 반면 근원 서비스(Core Services)는 +0.23%로 5월 이후 가장 높은 상승률을 기록했지만, 2022~2023년과 비교하면 절대적인 상승 압력은 여전히 낮은 수준  » 특히 근원 상품 물가는 5월과 6월 연속 하락한 이후 7월 반등. 6월까지만…",
+      "images": [
+        "https://cdn5.telesco.pe/file/qMLwBU1crF8U5R1xgjpJY2y9fPBDgDP0S4SmXbcr2IkWW7AFFoqjHK-NuqbrlAT3POInbPnwh7px2GQFi-AkQNVU2YH5tKnqe_9urhBjqBupGZ6ag4a7XSNaG5qsnBFxpmdIzrtRI305OrjcH5klwwt7z4m_DMNLTm8avNCi4gnvUg50JzeTj4EFTn5cgxmIyy4OL2qTklSJWN3FJkU6BfQFOuHig39hQKO9q75ypCP4Kdj2jWMKAcx100q2R_82swiicv7_U8zQRM-2C8xI82WcdPApKREQiBRj1yewx98a3_0Siyw2XLVFfdjvqVf7UB_Wo7ywb1i8uMfzU-Ow9Q.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-12T13:17:28+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21079",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21079",
+      "text": "🔹\n근원 상품 물가와 근원 서비스 물가의 전월대비 상승률: 관세의 가격전가 경계\n» 7월 근원 상품(Core Goods) CPI는 전월대비 +0.20% 상승하며 지난해 9월 이후 가장 큰 상승폭 기록. 반면 근원 서비스(Core Services)는 +0.23%로 5월 이후 가장 높은 상승률을 기록했지만, 2022~2023년과 비교하면 절대적인 상승 압력은 여전히 낮은 수준\n» 특히 근원 상품 물가는 5월과 6월 연속 하락한 이후 7월 반등. 6월까지만 해도 상품가격 하락을 근거로 관세의 소비자가격 전가가 약화되고 있다는 해석이 제기됐던 만큼, 이번 반등이 지속되는지가 중요\n» 관세는 수입업체가 우선 부담한 뒤 기업의 재고 소진과 가격 조정 과정에서 소비자가격에 시차를 두고 반영되는 특성. 실제로 올해 초 의류와 가구·생활용품 등 일부 수입 의존도가 높은 품목에서는 관세 비용의 가격 전가가 확인\n» 따라서 7월 Core Goods +0.20%만으로 관세발 인플레이션이 재개됐다고 단정하기는 어렵지만, 향후 2~3개월 연속 상품 물가 상승이 확인된다면 기업들이 그동안 마진으로 흡수하거나 재고를 통해 지연시켰던 관세 비용을 소비자에게 다시 전가하고 있다는 근거가 강화될 전망. 뉴욕 연은의 서베이에 따르면, 40% 이상 기업들이 여전히 관세의 가격 전가 계획을 가지고 있는 상황\n» 반면 서비스 물가는 +0.23%로 반등했음에도 과거 인플레이션 국면보다는 낮은 수준. 현재로서는 임금·주거비 등 내생적인 서비스 인플레이션이 다시 크게 가속하기보다는 관세 영향을 상대적으로 많이 받는 상품 물가의 방향성이 향후 Core CPI 경로에서 중요한 변수로 부각\n» 결국 이번 CPI는 서비스 인플레이션의 구조적 재가속 신호라기보다, 그동안 디스인플레이션을 지원했던 상품 물가에서 관세발 상방 압력이 다시 나타나는지를 확인해야 하는 지표로 해석 가능. 7월 전체 Core CPI가 +0.2%에 그친 만큼 당장 연준의 정책 경로를 크게 바꿀 정도는 아니지만, Core Goods 상승이 누적될 경우 근원 인플레이션의 하방 경직성을 높이는 요인\n» 시장 관점에서는 향후 ‘관세 → 수입물가·기업 비용 → Core Goods CPI’의 전가 경로가 지속되는지가 핵심. 상품 물가 상승이 일회성에 그친다면 디스인플레이션 전망을 유지할 수 있지만, 수개월간 지속될 경우 연준의 긴축 장기화 가능성과 국채금리 상승 압력으로 작용할 전망",
+      "images": [
+        "https://cdn5.telesco.pe/file/S7JvLmPfTtzp5C8Ejfe-I8BBJePuw1BlqD1QNHRK9Y2guHN6c1aeJZsaecGCA6Vc_RV4TL3pzOxonSwPHwyGGOoZn80AM74c5NsWwl-tk98XqtTdPDzfxX_jcvdCpL_kiGyC-7CPwVXa2P1XIzzhCkmgzgJ4NnXXxDV3WmZ711WHhrsVvc7saiHJlJPsXXpPHLEh5QtmSBsUCgHBf4VBcQkiUPX_mb8OMo4xXl_mLiv3uUsvP-ibSyzG3n5RATRvScsjS1ZDOPP5Q6IJBCY9-5b4cTgOr1mVaxTDQB2gAdN56hKvWbjQFumtSBHvgK8dRO4t-jJ8n6txblHmAdpHAA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-12T13:10:53+00:00"
+    },
     {
       "id": "tg:globaletfi/21078",
       "source": "telegram",
@@ -148,6 +280,20 @@
       "published_at": "2026-08-12T12:32:08+00:00"
     },
     {
+      "id": "tg:globaletfi/21073",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21073",
+      "text": "▪️\n주요 IB들이 예상 중인 미국의 7월 CPI  » Headline CPI • 전월대비: +0.12% 예상 (6월 -0.42%) • 전년대비: +3.4% 예상 (6월 +3.5%)  » Core CPI • 전월대비: +0.22% 예상 (6월 -0.02%) • 전년대비: +2.5% 예상 (6월 +2.6%)  » Headline CPI는 전월대비 +0.12%로 6월의 -0.42%에서 플러스(+) 전환이 예상. 전년대비 상승률은 +3.5%에서 +3.4%로 소폭…",
+      "images": [
+        "https://cdn5.telesco.pe/file/RX3Z-U16m2aP3G5UTpGvmU38Twh1HzLs3TLqhGKKh6FY4HoHrWzrDyupkasOOKNxRU3iq8thZbct3HicaI8t6WnBDhmV21jDn-UXkP0p9rBvK6kI7SXXp7vIvK3AFBouBKFtaOD75hsSfs4uajnlZLFtbYM0Neuoaap9gcWDs_JD30meP0FjiS2kY_yecKoiVZdtOEt2WB_qte5yChSZgcCJ4yVMohRyX9O56SgHGVt0AI-PNLoh1eSHQ_pITKUbJonx-JWPDCzTMs8C6wPWO5pqlkEkrC4c1SVV4OPHfh875Z5etsrhS8C6r_6ebe5sodf7gSN_uxJLI6RltPO5Eg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-12T12:31:39+00:00"
+    },
+    {
       "id": "tg:bornlupin/19688",
       "source": "telegram",
       "author": "bornlupin",
@@ -170,20 +316,6 @@
       "url": "https://t.me/aetherjapanresearch/24541",
       "text": "JP모건) 슈퍼마이크로(Super Micro) F4Q26 리뷰: 견조한 수주 및 마진 추세가 시장 추정치의 상향 조정을 견인; 목표주가 $45로 상향\n슈퍼마이크로는 EPS가 전년 대비 4배 이상 성장하며 강한 분기 실적을 기록했습니다. 방향성 자체는 이미 사전 공시(프리어나운스먼트)를 통해 예고된 바 있어(당사 리포트 참조), 실적 컨퍼런스콜의 논의는 총마진 강세와 수주 모멘텀의 지속 가능성에 집중되었습니다. 먼저 마진과 관련해 경영진은 F4Q의 강세가 우호적인 고객/제품 믹스와 계약 타이밍에 기인했다고 강조했으며, 전분기 대비 총마진 개선폭 560bp 중 약 75%가 믹스에 의한 것이고 나머지 25%, 즉 190bp는 관세 비용 감소와 재고 충당금 축소에 연결된다고 설명했습니다. 중요한 점은 경영진이 이러한 믹스 변화를 일시적인 것으로 규정했다는 점입니다. AI 믹스는 F3Q의 80% 이상에서 F4Q에 약 60%로 낮아졌으나 다시 80% 이상 수준으로 회복될 것으로 예상되는데, 당사는 이를 본질적으로 마진 희석 요인으로 보며 회사의 F1Q 총마진 전망(중간값 10.6%)과도 일치한다고 판단합니다.\n둘째로, 당사는 수주 추세가 마진 대비 방향성 측면에서 더 지속 가능하다고 봅니다. 경영진은 최근 600억 달러 이상의 수주와 F4Q26 종료 시점 기준 사상 최대 백로그를 강조했으며, 이는 FY27 매출 가이던스를 650~720억 달러로 제시하는 자신감의 근거가 되고 있습니다. 이는 전년 대비 300억 달러 이상의 확대를 의미합니다. 별도로 이러한 성장 단계로의 도약에 필요한 운전자본을 조달하기 위해 회사는 F4Q에 56억 달러의 자기자본을 조달했습니다(보통주 약 14억 달러, 의무전환우선주 42억 달러). 다만 회사가 현재 가이던스를 의미 있게 상회하는 매출을 달성할 경우 자기자본이든 부채든 추가적인 자본 조달이 필요할 것이며, 그 비용이 매출의 이익 전환을 추가로 압박할 것으로 판단합니다.\n당사는 매출 및 총마진 추세에 대한 최신 가이던스를 반영해 모델을 업데이트하고 있으며, 이에 따라 향후 연도 이익 전망을 큰 폭으로 상향 조정하고 있습니다. 다만 SMCI 주식에 대해서는 중립(Neutral) 의견을 유지합니다. 견조한 AI 컴퓨팅 수요라는 순풍이 총마진 지속 가능성에 대한 우려, 성장을 뒷받침하기 위한 운전자본 관련 추가 비용, 그리고 기업 지배구조 이슈와 균형을 이루고 있기 때문입니다. 지배구조와 관련해 경영진은 수출 통제 이슈에 관한 이사회 조사 업데이트를 실적 발표 이후에야 제공할 것으로 예상하고 있습니다. 이익 전망 상향에 따라 27년 12월 목표주가를 기존 32달러에서 45달러로 상향합니다.\nF4Q26(6월 결산) 실적: 매출은 대체로 부합한 가운데, 사전 공시된 가이던스보다도 더 우수한 마진에 힘입어 EPS가 견조하게 상회했습니다. 매출은 111억 달러(JP모건 추정치 118억 달러, 컨센서스 113억 달러 대비)로 전년 대비 93% 성장했습니다. 컨센서스 대비 부진은 고객 사이트 준비 지연에 기인하나, 사전 공시된 110~125억 달러 중 하단이라는 가이던스에는 대체로 부합했습니다. 총마진은 17.6%(JP모건 추정치 8.2%, 컨센서스 15.8%, 사전 공시 가이던스 15~17% 대비)를 기록했으며, 이는 개선된 믹스와 재고 충당금 및 관세 비용 감소에 기인합니다. 이에 따라 영업이익률은 14.3%(JP모건 추정치 5.5%, 컨센서스 12.8% 대비), EPS는 1.70달러(JP모건 추정치 0.57달러, 컨센서스 1.59달러 대비)를 기록했습니다.\nF1Q27(9월 결산) 가이던스: 매출과 수익성 전반에 걸쳐 예상보다 강한 전망입니다. 매출 가이던스는 145~155억 달러(JP모건 추정치 124억 달러, 컨센서스 120억 달러 대비)로 제시되었으며, 총마진 가이던스 10.4~10.8%(JP모건 추정치 7.6%, 컨센서스 9.0% 대비) 및 3.26억 달러(전년 대비 +61%)의 내재 Non-GAAP 영업비용 가이던스와 결합해 8% 이상의 내재 영업이익률 가이던스(JP모건 추정치 5.2%, 컨센서스 6.2% 대비)와 1.01~1.10달러의 EPS 가이던스(JP모건 추정치 0.56달러, 컨센서스 0.74달러 대비)로 이어집니다.",
       "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-12T12:31:39+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21073",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21073",
-      "text": "▪️\n주요 IB들이 예상 중인 미국의 7월 CPI  » Headline CPI • 전월대비: +0.12% 예상 (6월 -0.42%) • 전년대비: +3.4% 예상 (6월 +3.5%)  » Core CPI • 전월대비: +0.22% 예상 (6월 -0.02%) • 전년대비: +2.5% 예상 (6월 +2.6%)  » Headline CPI는 전월대비 +0.12%로 6월의 -0.42%에서 플러스(+) 전환이 예상. 전년대비 상승률은 +3.5%에서 +3.4%로 소폭…",
-      "images": [
-        "https://cdn5.telesco.pe/file/RX3Z-U16m2aP3G5UTpGvmU38Twh1HzLs3TLqhGKKh6FY4HoHrWzrDyupkasOOKNxRU3iq8thZbct3HicaI8t6WnBDhmV21jDn-UXkP0p9rBvK6kI7SXXp7vIvK3AFBouBKFtaOD75hsSfs4uajnlZLFtbYM0Neuoaap9gcWDs_JD30meP0FjiS2kY_yecKoiVZdtOEt2WB_qte5yChSZgcCJ4yVMohRyX9O56SgHGVt0AI-PNLoh1eSHQ_pITKUbJonx-JWPDCzTMs8C6wPWO5pqlkEkrC4c1SVV4OPHfh875Z5etsrhS8C6r_6ebe5sodf7gSN_uxJLI6RltPO5Eg.jpg"
-      ],
       "summary_ko": "",
       "published_at": "2026-08-12T12:31:39+00:00"
     },
@@ -446,30 +578,6 @@
       "published_at": "2026-08-12T07:58:11+00:00"
     },
     {
-      "id": "tg:EMchina/32303",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32303",
-      "text": "웨이퍼 가격, 공식 인상(상하이 비철금속망)\n• 두 곳의 주요 웨이퍼 기업이 잇따라 가격 공시 재개. 최신 가격은 N형 웨이퍼—183mm 0.9위안, N형 웨이퍼—210R 1.0위안, N형 웨이퍼—210mm 1.1위안.  기존대비 장당 +0.1위안 상승\n• 이번 웨이퍼 가격 상승은 원가 정책과 밀접한 관련. 웨이퍼 기업의 실제 구매 원가 상승 & 비용 동반 증가 영향. 웨이퍼 가격 상승 당연한 결과\n硅片价格正式报涨\n据上海有色网，已有两家头部硅片企业陆续恢复报价，最新价格为N型硅片—183mm：0.9元/片；N型硅片—210R：1.0元/片；N型硅片—210mm：1.1元/片。硅片新一轮报价较此前上涨0.1元/片，SMM分析本轮硅片涨价与成本政策密切相关，硅片企业实际采购成本上移，对应投炉成本上升，因此硅片涨价属情理之中。\nhttps://wallstreetcn.com/livenews/3148441?ivk=1#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-12T07:04:21+00:00"
-    },
-    {
-      "id": "tg:EMchina/32302",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32302",
-      "text": "L3 & L4 자율주행 안전기준 설정  https://n.news.naver.com/article/422/0000892318?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-12T06:36:01+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/24536",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -496,33 +604,6 @@
       "published_at": "2026-08-12T05:17:12+00:00"
     },
     {
-      "id": "tg:globaletfi/21070",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21070",
-      "text": "🔹\nJP Morgan의 7월 Core CPI 시나리오별 S&P500 전망\n1. 전월대비 +0.30% 초과: 확률 5%\n• 예상보다 강한 물가 압력으로 9월 FOMC 금리 인상 우려가 크게 확대될 수 있는 시나리오\n• S&P500: -1.50%~-2.50% 하락 가능\n2. 전월대비 +0.25%~+0.30%: 확률 25%\n• 근원 인플레이션의 경직성이 지속되고 있다는 인식이 강화되며 연준의 긴축 우려가 높아질 수 있는 구간\n• S&P500: -0.50%~-1.25% 하락 가능\n3. 전월대비 +0.20%~+0.25%: 확률 40% (Base 시나리오\n)\n• 시장이 가장 높은 확률을 부여하는 시나리오로, 물가가 추가적인 긴축을 자극할 정도로 강하지 않은 수준\n• S&P500: +0.25%~+0.75% 상승 가능\n4. 전월대비 +0.15%~+0.20%: 확률 25%\n• 근원 물가 압력이 완화되면서 9월 FOMC의 금리 인상 가능성이 낮아질 수 있는 시나리오\n• S&P500: +0.50%~+1.00% 상승 가능\n5. 전월대비 +0.15% 미만: 확률 5%\n• 물가 둔화가 뚜렷하게 확인되면서 연준의 추가 긴축 우려가 크게 완화될 수 있는 시나리오\n• S&P500: +1.00%~+2.00% 상승 가능\n» 종합\n• JPMorgan은 중동 분쟁에도 미국 경제가 인플레이션 급등 충격을 피한 가운데, 이번 CPI에서\n근원 인플레이션의 경직성이 지속되는지 또는 다시 디스인플레이션 흐름으로 복귀하는지가 핵심\n이라고 판단\n• 특히 7월 CPI가 9월 FOMC의 금리 인상 여부를 결정하는 핵심 변수로 작용할 수 있어,\n발표 직후 주식시장의 변동성이 크게 확대될 가능성\n을 경고\n• 시장의\nBase 시나리오는 근원 CPI가 전월대비 +0.20%~+0.25% 상승\n하는 경우로, JPMorgan은 이 경우\nS&P500이 +0.25%~+0.75%\n의 완만한 상승세를 보일 것으로 전망\n• 반면\n근원 CPI가 전월대비 +0.30%를 넘어설 경우 추가 긴축 우려\n가 급격히 높아지면서 S&P500이 최대 -2.5% 하락할 수 있으며,\n+0.15%를 밑돌 경우에는 디스인플레이션 기대\n강화로 최대 +2.0% 상승할 수 있을 것으로 예상",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-12T05:14:19+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21067",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21067",
-      "text": "» 미국 CPI 전년대비, 전월대비 상승률 추이\n(7월 CPI는 Bloomberg 컨센서스 기준)",
-      "images": [
-        "https://cdn5.telesco.pe/file/drun5a37MKjP42tyz3BiPWcP4n1H6nG-pwAHzdnFvGISXogfhkjfLHRRLbrRLbYv_lKhlCxdNzr8wQc-beBhDWwkLp7Wb0P4AVgVgTZQ4cvTiOEjHmTujvUsJeqke3JKpkJyS2UgdIMLSpyJmU0HGKdtY9DwbCJfT4r-3T7rYCZm742yYH-2OJJP-1Z8ygUu909PdrFZ1KXtRUdmvZJMdPIX_AQO5WBIeE3MP96HeLqoCnineLk_-lPZsj8QrQUHoZIrlkGWkcB1ghrQo_nZssvh6QOED2JB2UhKhRU4Gc5FJUenVViXABb6Cx1F9zpiXVW7LS6o9qQYtbF6LbCqMA.jpg",
-        "https://cdn5.telesco.pe/file/T-WxG1Lg7X2GFC1wEA7wQmQB44iLcQ7tCs_eZKUijLSNmC-8ld4VYUI3D0KhbW8E4c01tsj4FtO7uLtlzI90oF33o2iSVuUd-jn7lyNY_0rXANK70Xs-IM-pIdW7-Tt1VMFAFPCEed6KP1vK7q42FfGnwaac_blx68ENABb3ttc0cBCyrbqc15PbukhHF2JibepjrgB3obHyOyb10QRy_3sLx_dL41gVuQSL4iXq8VLy_4BSnGAYj5bikEAFGDsRnoEdEfrfEu8CNL4xCRziV5uMn8PdBRy3kcmd1XjD_UH6tlu8jfMfS24VySwDUOjkhyrUZVbZDWrgj_Q0OAMnVA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-12T05:11:10+00:00"
-    },
-    {
       "id": "tg:bornlupin/19680",
       "source": "telegram",
       "author": "bornlupin",
@@ -547,20 +628,6 @@
       "published_at": "2026-08-12T04:54:00+00:00"
     },
     {
-      "id": "tg:globaletfi/21066",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21066",
-      "text": "▪️\n주요 IB들이 예상 중인 미국의 7월 CPI\n» Headline CPI\n• 전월대비: +0.12% 예상 (6월 -0.42%)\n• 전년대비: +3.4% 예상 (6월 +3.5%)\n» Core CPI\n• 전월대비: +0.22% 예상 (6월 -0.02%)\n• 전년대비: +2.5% 예상 (6월 +2.6%)\n» Headline CPI는\n전월대비 +0.12%로 6월의 -0.42%에서 플러스(+) 전환\n이 예상. 전년대비 상승률은 +3.5%에서 +3.4%로 소폭 둔화될 전망.\n전년대비 기준으로는 완만한 디스인플레이션\n흐름이 이어지는 한편, 전월의 큰 폭 하락 이후\n월간 물가는 반등 예상\n» Core CPI 역시 전월대비 +0.22%로 6월의 -0.02%에서 반등할 전망. 전년대비 상승률은 +2.6%에서 +2.5%로 낮아질 것으로 예상\n» 핵심은 유가의 영향이 크게 반영되고 있는\nHeadline보다 Core CPI의 전월대비 상승률\n. 컨센서스인 +0.22% 수준에서 확인될 경우 전년대비 Core CPI가 +2.5%로 둔화되면서 기조적 물가의 하향 안정 흐름을 뒷받침할 수 있지만, +0.25%를 넘어서는 결과가 나올 경우\n물가의 경직성에 대한 경계\n가 다시 부각될 가능성\n» 특히\n최근 연준의 9월 통화정책 기대가 물가 지표에 민감하게 반응\n하고 있는 만큼, Core CPI가 예상치를 상회할 경우 금리인상 경계와 미 국채금리 상승을 통해 성장주 중심의 변동성 확대 가능성. 반대로 +0.2% 내외 또는 그 이하로 확인될 경우 디스인플레이션 기대 강화와 함께 금리 부담 완화에 긍정적으로 작용할 전망\n※ 현지 기준 오전 8시30분(한국 기준 오후 9시30분) 발표 예정",
-      "images": [
-        "https://cdn5.telesco.pe/file/NCaRb_XUca5fcHGlvk1-C9WL1OvAKnDS2iCWvZnticlt3P86EIEUncOfOlGPGuFIFQsL5vUW6kezanv90wz3gWGecMbqNNesunC5ocS0-4tqlCqq34qIZMU_MZ4-Y1kHHHW-u--iU6FLXzXRXIAvgbE7oaSztwZiHAh_20CkoBu1IznRwDWe-v-z3I2owgxeP_bgWHaTM3-4tbvlI9KM43_uQmSMYsimb_i9AblUvKb2gWELxbyVS5WxOnkJwOs8_F-oU65cem9zjadVgJO7PDvmHd14hi61mtLUEcQAPdQLG1vfWGhG0BzRYwigS130JPY0XW7bgoQo2LanjMj1bA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-12T04:53:32+00:00"
-    },
-    {
       "id": "tg:bornlupin/19679",
       "source": "telegram",
       "author": "bornlupin",
@@ -573,30 +640,6 @@
       "published_at": "2026-08-12T04:27:07+00:00"
     },
     {
-      "id": "tg:EMchina/32301",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32301",
-      "text": "[한투증권 미국/중국전략 정정영]   • 바뀐 것과 바뀌지 않은 것   >>  미국주식 전략 자료를 작성했습니다. AI의 장기적/구조적 성장 모멘텀에는 변함이 없을 것이나 그 외 분야에서는 변수가 늘어나고 있습니다. 트럼프 행정부가 더 극단적인 시나리오를 이끌어 갈 가능성은 제한적인 것으로 판단하는 가운데, 시장 색깔 전환에 준비해야 한다고 생각합니다. 그동안의 쏠림은 완화될 것으로 전망하며 경기민감주를 주목합니다.   ========================…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-12T04:12:40+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19678",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19678",
-      "text": "트렌드포스) 마이크론, \"매우 높은\" 가격에도 고객들의 메모리 확보 경쟁 속에 데이터센터 수요의 절반 미만만 충족\n데이터센터 공급 난항 및 2027년 전망\n최우선 병목 요소\n: 고객사들은\n데이터센터 확장 시 전력, 부지, 로직 웨이퍼보다 DRAM 수급 부족을 가장 심각한 제약 요인으로 지목\n하고 있습니다.\n수요 충족률 50% 미만\n: 가격이 매우 높게 형성되어 있음에도 고객들의 물량 확보 경쟁이 치열해,\n마이크론은 데이터센터 수요의 절반 이하만 대응하고 있습니다.\n2027년 수급 악화 전망\n: AI 트렌드로 인한\nDRAM 용량 및 대역폭 수요 급증으로, 2027년 수급 불균형은 2026년보다 더욱 심화될 것으로 예상\n됩니다.\n장기 공급 계약(SCA)과 가격 정책\n장기 계약 확보\n:\n매출의 약 절반을 차지하는 16개 장기 고객 계약(SCA)을 체결했으며, 대부분 2030년까지 이어지는 의무 구매(take-or-pay) 조건입니다.\n유연한 가격 관리\n: 단기적인 가격 폭등에만 의존하지 않고, 제품 믹스 개선, 출하량 확대, 적정 가격 정책을 병행하여 고객과의 장기적 관계를 도모하고 있습니다.\n가격 상한선(Ceiling) 구조\n: 이미 체결된 16개 계약의 가격 상한선은 2026년 2분기 가격 기준으로 설정되었습니다\n. 반면 향후 체결될 신규 계약은 체결 시점의 시장 가격을 기준으로 상한선이 정해집니다.\n시장 가격 전망\n: 트\n렌드포스(TrendForce)에 따르면 주요 CSP들의 장기 계약 체결 영향에도 불구하고, 2026년 3분기 서버용 DRAM 고정 거래 가격은 전분기 대비 13~18% 상승할 것으로 추정됩니다.\n미국 내 전공정 팹 독점 및 프리미엄\n제조 인프라 차별화\n: 삼성전자는 파운드리(로직), SK하이닉스는 후공정(패키징) 중심으로 미국에 투자하는 반면,\n마이크론은 미국 내 유일한 전공정(Front-end) 메모리 생산 팹 투자 기업입니다.\n프리미엄 가격 반영: 고객들이 미국산 메모리 공급망의 가치를 인정함에 따라 'Made in USA' 프리미엄을 책정하고 있으며, 이 프리미엄은 이미 SCA 계약 금액에 반영\n되어 있습니다.\nhttps://www.trendforce.com/news/2026/08/12/news-micron-can-meet-less-than-half-of-data-center-demand-as-customers-rush-to-secure-memory-at-very-high-prices/",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-12T04:08:33+00:00"
-    },
-    {
       "id": "tg:enc210406/4313",
       "source": "telegram",
       "author": "enc210406",
@@ -607,30 +650,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-12T00:59:23+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24534",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24534",
-      "text": "은행이 증권사들을 악세사리 취급하던 시절도 끝나야 한다고 생각...",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-12T00:31:51+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24533",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24533",
-      "text": "BofA) RKLB, 스페이스 시스템즈가 전년 대비 62% 매출 성장을 견인; 수주잔고는 사상 최대 23.6억 달러 기록\n투자의견 유지: 매수 | 목표주가: 115.00달러 | 현재가: 80.04달러\n1. 2분기 매출은 발사 부문 부진으로 컨센서스 하회\n로켓랩(RKLB)은 2026 회계연도 2분기 매출 2억 3,400만 달러(전년 대비 62% 증가)를 발표했으며, 이는 BofA 추정치 2억 2,800만 달러를 상회했으나 블룸버그 컨센서스 2억 3,700만 달러는 소폭 하회했고, 기존 가이던스 범위(2억 2,500만~2억 4,000만 달러)의 상단에 위치했습니다. 발사 부문 매출은 4,500만 달러로 BofA 추정치 6,300만 달러를 밑돌았으며 고객사의 배치 활동이 둔화되면서 전년 대비 약 4.4% 감소했으나, 2분기에 체결된 4억 3,700만 달러 규모의 신규 발사 계약은 이러한 추세가 단기에 그칠 수 있음을 시사합니다. 스페이스 시스템즈 매출은 1억 8,900만 달러로 BofA 추정치 1억 6,500만 달러를 상회했고 전년 대비 94% 증가했는데, 이는 주로 SDA 트랜치 II 및 III 계약과 RKLB의 컴포넌트 사업이 견인했습니다. 조정 EBITDA 손실은 880만 달러로 BofA 추정치 1,930만 달러 손실과 블룸버그 컨센서스 2,210만 달러 손실보다 양호했습니다. 로켓랩은 사상 최대인 23.6억 달러의 수주잔고를 보고했으며, 이는 2025년 말 18.5억 달러 대비 28% 증가한 수치입니다. 또한 2026 회계연도 2분기까지 87회의 일렉트론 임무를 성공적으로 완수했습니다.\n2. 3분기 약 66% 성장 전망, 뉴트론은 일정대로 진행\nRKLB는 2026 회계연도 3분기 매출을 2억 5,000만~2억 6,500만 달러로 제시했는데, 이는 블룸버그 컨센서스 2억 3,700만 달러를 상회하며 전년 대비 61~71% 성장(중간값 기준 66%)에 해당합니다. 조정 EBITDA는 1,700만~2,300만 달러 손실로 전망되며, 이는 블룸버그 컨센서스 1,240만 달러 손실 대비 부진한 수준입니다. RKLB는 2분기에 뉴트론 개발에서 진전을 이뤘으며, 현재 이 재사용 로켓을 4분기에 발사대로 인도하는 일정을 유지하고 있습니다. 다만 회사는 개발 사이클에 여전히 불확실성이 남아 있다고 언급했습니다. RKLB는 23.6억 달러 수주잔고 중 약 46%가 향후 12개월 내에 매출로 인식될 것으로 예상하고 있습니다. 저희는 매수 의견을 유지하며, 컨센서스 매출 추정치 하회로 인한 RKLB 주가의 잠재적 약세는 특히 매력적인 진입 기회라고 판단합니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-12T00:29:19+00:00"
     },
     {
       "id": "tg:HI_GS/6887",
@@ -681,21 +700,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-11T23:24:59+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21064",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21064",
-      "text": "[하나 Global ETF Daily (8/12)]\n▶️\n하나 Global ETF 박승진(T.3771-7761)\n▶️\nRA 신민건(T.3771-3269)\n▶️\n텔레그램:\nhttps://t.me/globaletfi\n🔹\n주요 ETF Daily 수익률\n(2026.8.11 종가 기준)\n» 주요 시장 ETF\nSPY -0.32%\nQQQ -0.34%\nDIA -0.32%\nIWM 0.34%\n» 주요 국채 ETF\nTLT 0.16%\nIEF 0.12%\nSHY 0.02%\n» 주요 섹터/테마 ETF\n마리화나(MJ) 4.60%\n원자력(URA) 1.78%\n에너지(XLE) 1.25%\n🔹\nETF News\n[ETF Trends] CPI 발표 앞두고 커지는 인플레이션 우려: 퀄리티 가치주 ETF 'VALQ' 분석\n-\nhttps://buly.kr/7bJU6S6\n- 미국 7월 소비자물가지수(CPI) 발표를 앞두고 물가 우려 및 불확실성이 지속되는 가운데, 가치주 ETF가 인플레이션 환경의 유용한 투자 대안으로 부각\n- 대표적 상품인 American Century U.S. Quality Value ETF(VALQ)는 연 0.29%의 운용 보수로 American Century U.S. Quality Value Index를 추종\n- 이 펀드는 퀄리티, 가치, 배당 수익성을 정밀하게 평가해 우량 종목을 선별\n- ETF Database에 따르면 VALQ는 최근 1년 17.3%, 최근 3년 연환산 14.65%의 수익률을 기록하며 동일 카테고리(Large Cap Value Equities) 평균인 14.2%를 상회\n- 대형 성장주 중심의 지수 펀드가 종목 집중 위험과 높아진 밸류에이션 부담에 노출된 상황에서, VALQ는 실질적인 포트폴리오 분산 수단을 제공\n- 포트폴리오는 금융 및 통신 등 전형적인 가치주 섹터를 포함하며, 대표 보유 종목인 Charles Schwab(SCHW)과 Verizon Communications(VZ)는 YTD 각각 6.4%, 16.6% 상승하며 안정적인 흐름을 유지\n- 이는 퀄리티 요소를 결합한 가치주 전략이 인플레이션 장기화 국면에서 단순 저평가 종목 매수 대비 우수한 하방 방어력과 지속 가능한 인플레이션 헤지 효과를 제공함을 시사\n- 따라서 향후 CPI 수치에서 인플레이션 압력이 확인될 경우, 펀더멘털이 견고하고 배당 창출력을 갖춘 VALQ와 같은 퀄리티 가치주 ETF로의 자금 집결 현상은 한층 강화될 것으로 예상\n[Morningstar] 2026년 모닝스타 선정 유럽 상장 S&P 500 ETF 7선\n-\nhttps://buly.kr/2qb1cN1\n- 모닝스타는 분석 커버리지 100%, 골드(Gold) 등급, 순자산 70억 파운드 이상 기준을 충족하는 미국 대형 혼합형 S&P 500 ETF 7종을 아래와 같이 선정\n- 대표 상품인 iShares Core S&P 500 UCITS ETF(CSSPX, 순자산1,180억 파운드)와 Vanguard S&P 500 UCITS ETF(VUSD, 순자산662억 파운드)는 운용 보수 0.07% 수준으로, 지난 1년간 각각 21.77% 상승하며 동일 카테고리 평균(19.94%)을 상회\n- 또한 State Street SPDR S&P 500 UCITS ETF(SPY5, 순자산327억 파운드)는 0.03%의 매우 저렴한 운용 보수를 바탕으로 지난 1년간 21.78%의 상승률을 나타내며 저비용 효율성을 입증\n- 복제 방식 및 지수 구성 룰에 따른 성과 차이도 관찰됨. Amundi Core S&P 500 Swap UCITS ETF(LSPU, 순자산245억 파운드)와 iShares S&P 500 Swap UCITS ETF(I500, 순자산134억 파운드), Xtrackers S&P 500 Swap UCITS ETF는 스왑 기반 합성 복제 방식을 활용\n- 이들 합성 복제 상품은 미국 주식 배당금에 대한 원천징수세 0% 적용 혜택에 힘입어 지난 1년간 21.93~21.95%의 수익률을 기록하며 물리적 복제 ETF의 성과를 소폭 상회\n- 한편 HSBC S&P 500 UCITS ETF(HSPD, 순자산82억 파운드)는 최근 4분기 합산 및 최신 분기 순이익이 양수인 기업만 편입하는 지수 룰을 적용받아 차별화된 퀄리티 특성을 제공\n- S&P 500 ETF는 시가총액 가중 방식에 따른 빅테크 집중도 확대와 합성 복제 방식의 거래상대방 위험(Counterparty Risk) 요인이 존재\n- 그럼에도 불구하고 극소화된 현금 보유 비중과 낮은 운용 보수를 바탕으로 장기 투자 시 액티브 펀드 대비 뛰어난 성과 안정성을 제공\n- 따라서 S&P 500 ETF는 저비용으로 미국 대형주 시장 전체에 효율적으로 분산 투자할 수 있는 최적의 장기 코어 자산으로 활용될 것으로 판단",
-      "images": [
-        "https://cdn5.telesco.pe/file/nmQ4OVexTU5aq03W0P0yfXy-Knx78aRlJMGf_r6LDQlBeFaGr3EmveC7B9hBwSBx43vmfDJiPQRqufZaTY6UaKu9Rogng-LFvPrS2Mapn362ywAJRDm08vW1Fx-bychAziVlV0AUVQ4p2DGme6wU3weYdV5n5T8Dh0GpmboPaOncG6zGaDvqPd4NvFzUx1XoBCQkOjdYWypvA3ZDuK4dU37oXdOo1-ylrZ0oFzQMz_DynlysxsgQHD3YNnsl_s_N71-IfwmpWak8ORme7daDPWf9Mjy5BZri2EzfoNeSRfHjQTwyfJekfelT4CZi0MHizS-dtoWzfzpmOaxLXRHogg.jpg",
-        "https://cdn5.telesco.pe/file/tqS-6CMtLwD4-3ESH29wLhik689YOBV99LLevzirlbpKdidgmb_pWxwAx21YCjUSkyLUyTIyfQn73AgAYmGa2oCrNrMng66JLeKS5AWnDjCdIXevbVk8tl3KZqAmJ9nA8iy57yWUDbK03czufrwVAH1lufRJ5bqGp0Y46y8sEWzDbYCom0SWyF9sPvnQPUqxKOiqsPGNXRQZNgpt7Rogkx-Zth6eWVd9wt_1akAKuJGhjkEw0mMjLhUZTw9w0OfUw-xUf_QCp1wODSnj9MrVR4zdrepdLGgJ5uJlCuZuki50ojITH91kuhcnC0u2rPXVKpsbfFBMCkGDj9YJYZpqjw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-11T23:19:03+00:00"
     },
     {
       "id": "tg:HI_GS/6882",
