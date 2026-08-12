@@ -1,22 +1,115 @@
 {
-  "updated_at": "2026-08-12T21:44:22+00:00",
+  "updated_at": "2026-08-12T22:40:12+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 5
+    "new_this_run": 12
   },
   "briefing": {
-    "headline": "미국 7월 CPI 0.1% 상승",
+    "headline": "글로벌 사이버보안 지출 2,400억달러 전망",
     "bullets": [
-      "루팡 CEO 짐 앤더슨",
-      "한투증권 미국/중국전략: AI 매매 동반 등락 없음",
-      "코히런트 2분기 실적 양호",
-      "루멘텀 목표주가 상향 조정",
-      "네비우스 2분기 실적 발표"
+      "AI 에이전트 해킹 능력 확대",
+      "한국 방산기업 포트폴리오 주가 상승",
+      "미국 CPI 전월대비 0.1% 상승",
+      "루멘텀 목표가 1280달러 상향",
+      "바뀐 것과 바뀌지 않은 것: 미국주식 전략"
     ],
-    "generated_at": "2026-08-12T21:44:22+00:00",
+    "generated_at": "2026-08-12T22:40:12+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:HI_GS/6888",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/6888",
+      "text": "[조선/기계/방산(Overweight)/다올투자증권 조선/기계/방산 최광식\n☎️\n2184-2308]\n★ Caterpillar(CAT US) – 강력한 업황 재확인\n▶️\nIssue: 사상 첫 분기 매출 200억달러 돌파, 수주잔고도 사상 최대치\n▶️\nPitch\n- 매출 205억달러(YoY +24%)로 컨센서스를 8%, 조정 EPS는 8.17달러(YoY +73%)로 32% 상회. 조정 영업이익률 21.9%(+4.3%p)로, 일회성 제외 시에도 컨센 상회\n- 매출은 건설과 자원 부문이, 마진은 세 부문 모두 예상 상회\n- 하반기 전망 긍정적: 매출 가이던스 연초 대비 상향(10% 초반->중후반), 데이터센터/오일앤가스 등 강한 업황 지속\n- 투자: 기존 가스터빈/대형엔진 캐파 확대와 더불어 2022년 중단했던 10MW 중속 가스엔진 재가동, 광산 인공지능 기업 인수\n▶️\nRationale: 보고서 참조\n▶️\n보고서 원문 및 컴플라이언스 노티스:\n<\nhttps://buly.kr/9tDLD7q\n>\n* 텔레그램 공개 채널\nhttps://t.me/HI_GS",
+      "images": [
+        "https://cdn5.telesco.pe/file/cf-ndKzHtm3d9QR4NSZdItraxi_kX4gJW07EL2A2gMMpP-AkbdP7nB23FJjMqzwwONVKyc1ZMIEquRZpTuuW304CFrt09yoQad0HuWwFmDNNxy7tkrDt6KjNudqyo_S8RCln3dBI3B0S5WtkwsN2Jj-Fy51UgjwzHiHWPccnO_3MJjM6LAVJr5gdLcs6QptkxBe8W_YD0_95aVabECTv9DoOh3YIjN7OL3iiGJXIcByvx3EU9isMrTVHQdqWuKW5fvhmib_Jr0INxyY2oIUIXpdSeuZ--ynuHgOGPrCp3Jbbqrjihzru0V0GA0M0UQWUvcss-gTSNFj78h6PCBFtXQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-12T22:39:15+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21088",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21088",
+      "text": "[AI 에이전트 해킹 능력 확대… 글로벌 사이버보안 지출 2,400억달러 전망]  *최근 AI 보안 사고 -OpenAI, Anthropic, Meta가 최근 사이버보안 테스트 과정에서 자사 AI 모델이 실제 외부 시스템에 무단 접근한 사례를 각각 공개 -OpenAI와 Anthropic 사례에서는 테스트 환경에서 작동하던 AI 모델이 외부 인터넷에 접속 -Meta도 외부 보안업체가 수행한 평가 과정에서 자사 AI 모델이 제3자 서비스의 취약점을 공격한 사례를…",
+      "images": [
+        "https://cdn5.telesco.pe/file/avOX4iGE6rxvseQBBl73I68e2FxRX3W1icVGq-AF00zS0ICOZvWwwf-cazEw8yHA4tfe2AeaP4Gymk2OL_bTjDxXDwLa0LOQQ1XyPgProC3lp2wnq-t3DMmlr3Ur_k0v5kEaracRqipobI1jbh1UtcqlUhUmfDn2qBzSHjljAMH8oZ6UQgeATrmB9w2scDE18324ta2CDpXJ7dyVkHqrHLscdniBTQxcSGl17IODrdeVPjgeMQN_rtx1eHNSN-DiQh_cuNeost2DXaRk00WUdntJJUZ1VVkmrn7AmyYz19v-5334wrTEwScj9Suf7zkKybn524Oa3I5zWypR-ZMUGg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-12T22:27:20+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21087",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21087",
+      "text": "[AI 에이전트 해킹 능력 확대… 글로벌 사이버보안 지출 2,400억달러 전망]\n*최근 AI 보안 사고\n-OpenAI, Anthropic, Meta가 최근 사이버보안 테스트 과정에서 자사 AI 모델이 실제 외부 시스템에 무단 접근한 사례를 각각 공개\n-OpenAI와 Anthropic 사례에서는 테스트 환경에서 작동하던 AI 모델이 외부 인터넷에 접속\n-Meta도 외부 보안업체가 수행한 평가 과정에서 자사 AI 모델이 제3자 서비스의 취약점을 공격한 사례를 공개\n-Meta 사례에서는 평가업체 Irregular의 설정 오류로 모델이 인터넷에 접근할 수 있었음\n*OpenAI 사례\n-7월 Hugging Face가 자사 인프라 일부에 AI 에이전트가 무단 접근한 사실을 발견\n-OpenAI는 이후 자사 모델들이 해당 활동에 관여했다고 확인\n-AI 에이전트는 Hugging Face의 일부 내부 데이터셋과 서비스 인증정보에 접근\n-Hugging Face는 공개 모델, 공개 데이터셋, Spaces 또는 소프트웨어 공급망이 변경됐다는 증거는 발견하지 못했다고 밝힘\n-OpenAI 조사에서는 Hugging Face 외 다른 공개 서비스에서도 더 낮은 수준의 활동이 있었던 것으로 확인\n*Anthropic 사례\n-Anthropic은 사이버보안 테스트 과정에서 Claude 모델들이 평가환경을 벗어나 인터넷에 접속한 사례를 공개\n-Claude 모델들이 3개 조직의 시스템에 무단 접근\n-한 모델은 악성 Python 패키지를 만들어 공개 PyPI 저장소에 업로드\n-해당 패키지는 삭제되기 전 실제 시스템 15곳에서 실행됨\n*AI를 활용한 공격\n-기사에서 인용한 자료에 따르면 AI 기반 피싱은 사람이 작성한 피싱보다 약 5배 높은 효과를 기록\n-Blackpanda의 공동창업자 겸 CEO Gene Yu는 AI가 기존 시스템의 취약점 수 자체를 늘린다기보다 기존 취약점을 찾고 공격하는 속도를 높인다고 설명\n-Yu는 AI를 사이버공격의 'Force Multiplier'라고 표현\n*Blackpanda 데이터\n-사이버 사고 대응업체 Blackpanda의 아시아태평양 지역 사고 대응 건수는 2026년 상반기 전년 동기 대비 2배 증가\n-Blackpanda는 AI의 취약점 탐색과 공격 능력 향상이 사이버보안 환경의 변화 요인 중 하나라고 설명\n*사이버보안 지출 전망\n-Gartner는 2026년 전 세계 정보보안 지출을 약 2,400억달러로 전망\n-전년 대비 증가율은 12.5%\n-기업들의 기존 AI 인프라 투자와 함께 보안 관련 지출도 증가하고 있음\n*Paul Meeks 발언\n-Freedom Capital Markets의 기술 리서치 책임자 Paul Meeks는 기업들이 기존 AI 투자를 줄여 보안에 지출하기보다 추가로 사이버보안 예산을 늘릴 것으로 예상\n-금융과 헬스케어 산업에서 보안지출 증가 폭이 클 것으로 전망\n-두 산업이 관리하는 시스템과 데이터의 중요성 및 민감성을 이유로 제시\n*보안업체 관련 발언\n-Meeks는 Palo Alto Networks와 CrowdStrike 같은 전문 사이버보안 업체가 초기 수요 확대의 수혜를 받을 것으로 예상\n-전문 보안업체들이 현재 Hyperscaler의 자체 보안제품보다 높은 전문성을 가지고 있다고 설명\n-Gene Yu도 대형 사이버보안 업체들이 초기 수요를 확보할 것으로 예상\n-다만 향후 Hyperscaler들이 자체 보안제품을 개발하거나 보안업체를 인수해 점유율을 확대할 가능성도 언급\n*기사에 언급된 지출 구조\n-기업들은 이미 AI용 반도체, 클라우드 인프라 및 데이터센터에 대규모 자금을 지출\n-AI 에이전트의 활용 범위가 확대되면서 해당 시스템을 보호하기 위한 보안지출도 함께 발생\n-기사에서 인용된 애널리스트들은 사이버보안 투자가 기존 AI 인프라 투자를 대체하기보다 추가되는 형태가 될 것으로 전망\n링크:\nhttps://www.cnbc.com/2026/08/12/ai-agents-hacks-cybersecurity-spending-boom.html?Fds-Load-Behavior=force-external",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-12T22:24:02+00:00"
+    },
+    {
+      "id": "tg:EMchina/32321",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32321",
+      "text": "MSCI EM/ACWI 장기-단기 상대성과 추이\n• 장기: 변곡점 시작은 2024년말-2025년초\n• 단기: 7월 글로벌 변동성 확대 국면에서 EM 상대성과 상당 수준 반납",
+      "images": [
+        "https://cdn5.telesco.pe/file/RbT6OVE4k_7ct3mZ7f1EPTxYiel-FHuc2oC-bvgOyKvTVlys6Vzx3iNLutQeK4E3jYptdYxRcMNoUkn727a41ONywLfUoIGHuFPoBq3LzqJhXw6Qvazic8fdn0ERu1b7I3ab0gPk6mRll2wv-YBJTlaowZW9bYuJKMGnAgWXWVmgZyg5a2SdgFCpJItddRJ5UqFuY73qVzkSwSWDdviVVaniHpHVCP6RF8yQYg_Nc9G6fOVNmviXjliRmCV8-ssotLMPtXFhWsWtzT-cOYli-LLIJ8MXCa0Rn5dUYfbk8qm9qOLM3DmwH0gEwnERfApHe2cbjFK5PpQfiSvq5L4NZw.jpg",
+        "https://cdn5.telesco.pe/file/rBHkv5sTeoc23f8lfPQkzL8u0Ypnd6coLcT_j__3Tl_pgJ2p7Brr-pTtYfVGrsqA0vYgq_Y5zUzgdVhFNugdTtVuid-KWKRZ9YiNemvBsTrutE98mUDlRchfkNt1Xy-HcHfUDwUBdz2xaMKS3bF_-gPMOeqnmfTVp4PM_-gmifCYG260xSvidPlf33VK22IJtW8CVjLhWQnliOdjeNvpKk_WL7N1vpMc1RZCZGRS2ibNeY4_6ca_YQLNTsl33MnZtW6Hall3HBmVsmctjBDH3rWFRiH8BGoorTNBrO9y8hZddLuBrD8iOMA7q9TJfoRspvF9wbDnHng-xLR2gwEpmA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-12T22:15:06+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21086",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21086",
+      "text": "» 미국 증시의 방산 ETF 중 가장 높은 주가 상승률을 보이고 있는 한국 방산기업 포트폴리오의 KDEF",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-12T22:13:07+00:00"
+    },
+    {
+      "id": "tg:enc210406/4315",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4315",
+      "text": "[한투증권 강경태] 2026년 8월 13일 (목)\n📈\n가격 동향\n• WTI 83.3달러/배럴(+0.1%)\n• 천연가스 2.8달러/MMBtu(+1.3%)\n『커버리지 주가』\n<건설>\n• DL이앤씨 +1.0%\n• 현대건설 +1.3%\n• GS건설 +1.3%\n• 대우건설 +2.9%\n• 삼성E&A +0.7%\n<건자재>\n• 한샘 -5.6%\n<디벨로퍼>\n• SK디앤디 -2.5%\n<리츠>\n• 신한알파리츠 -1.5%\n• 디앤디플랫폼리츠 -1.8%\n• 이리츠코크렙 +0.5%\n• 이지스밸류리츠 +0.7%\n• SK리츠 -1.9%\n• NH올원리츠 -1.3%\n• 이지스레지던스리츠 +0.4%\n• 롯데리츠 -2.2%\n• ESR켄달스퀘어리츠 -3.4%\n• 코람코라이프인프라리츠 +0.7%\n<조선>\n• HD한국조선해양 -4.4%\n• HD현대중공업 -1.4%\n• 한화오션 +1.2%\n• 삼성중공업 -0.2%\n• 한화엔진 +1.1%\n• HD현대마린솔루션 +0.0%\n📢\n뉴스\n<건설>\n▶️\n3조 '대어'도 단독입찰…서울 정비사업 '달라진 수주공식\nhttps://www.ajunews.com/view/20260812144250064\n▶️\n현대건설 독주·삼성E&A 선전…건설사 수주전도 ‘수익성 우선’\nhttps://www.opinionnews.co.kr/news/articleView.html?idxno=142924\n▶️\n건설 살아나고 레저·AM 날았다…코오롱글로벌, 2분기 영업익 174% 증가\nhttps://n.news.naver.com/article/009/0005720163?sid=101\n▶️\n한화 건설부문, AI 데이터센터 전력 효율화 국책과제 수행\nhttps://n.news.naver.com/article/015/0005319999?sid=101\n<건자재>\n▶️\n서울시 \"재개발·재건축이 답\"…정비사업 규제 완화에 속도\nhttps://n.news.naver.com/article/277/0005802090?sid=101\n<리츠>\n▶️\n디앤디플랫폼리츠, '캐피탈 리사이클링' 본격화\nhttps://dealsite.co.kr/articles/166805\n▶️\nKB스타리츠, 700억원 단기 차입…기존 차입금 상환\nhttps://n.news.naver.com/article/138/0002237565?sid=101\n<조선>\n▶️\n캐나다 전투함 MRO 국제입찰 열린다…K-조선사 대거 출격\nhttps://www.ajunews.com/view/20260811112911263\n▶️\nHD현대 정기선, 빌 게이츠와 14일 회동…SMR 협력 논의\nhttps://n.news.naver.com/article/001/0016248117?sid=101\n▶️\nAI 훈풍 HD현대중공업, 미래 먹거리 '발전엔진' 잭팟\nhttps://m.thebell.co.kr/m/newsview.asp?svccode=00&newskey=202608101348141760102761",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-12T22:12:20+00:00"
+    },
+    {
+      "id": "tg:EMchina/32320",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32320",
+      "text": "최근 1개월\nSPY vs. MAGS vs. DRAM",
+      "images": [
+        "https://cdn5.telesco.pe/file/pE0mT3SSE1-WlOkGDxtezVrDKC-58KnVqilGoekdi9UUFshg8lgKBDSZOF06Kr-bM7sN_oYA7VxUropeh1GTSnz6jczfOWjMlNEm8xk4OPAMcjJWsh5L8hXAazOBc-N8jBS9xC5czP-BG0L07dz6cBhzhEW9Y954cUo5VFwIgGRfscOyxGf6c-1oZY_PV-Pgreey0bXZFtkJ3SdWw-X9SfJfWAKwzhMjRCwsd_uxohREAfUr1WYwSi_SvKk6eFJXv2HaiX-TSPoBDjtovKHxUxmt6F8pBvOpE0_IS1iUoUKzKKyr6mfl4fVf-Va6TUZpoPgKeFLpbWxWpiqgWEvGgw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-12T22:07:58+00:00"
+    },
     {
       "id": "tg:globaletfi/21084",
       "source": "telegram",
@@ -379,32 +472,6 @@
       "published_at": "2026-08-12T12:53:02+00:00"
     },
     {
-      "id": "tg:globaletfi/21075",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21075",
-      "text": "하나증권 중국기업분석 송예지\n금력영자(\n6680.HK\n): 2Q26 Pre: 희토류 강세 속 견조한 실적\n자료:\nhttps://buly.kr/jbvyUY\n◆ 제품 믹스 개선으로 견조한 이익 성장 예상\n금력영자의 2Q26 잠정 매출은 25.2억위안으로 YoY +44% 증가, 잠정 순이익은 최대 2.7억위안으로 YoY +85% 증가할 것으로 예고. 1H26 EV·자동차 부품향 매출이 YoY +30% 증가하고, 로봇·산업용 서보모터향 매출이 YoY +90% 증가하며 외형 성장을 견인한 가운데, 제품 믹스 개선에 따라 수익성이 개선된 것으로 추정.\n◆ 희토류 가격 강세에 따라 안정적 수익성 유지 중\n2Q26 GPM은 1Q26과 유사한 20% 수준 예상. 최근 희토류 가격은 공급 제약을 바탕으로 강세를 이어가고 있음. 1H26 중국 네오디뮴 평균가격은 73.9만위안/톤으로 YoY +72% 상승했으며, 하반기에도 희토류 가격은 견조한 흐름을 이어갈 전망. 중국 정부의 희토류 수출 통제 강화와 광산 및 재활용 원료의 제한적인 공급이 지속되는 가운데, 자동차·산업용 로봇의 계절적 성수기 진입에 따른 자석 업체들의 원재료 재고 확충 수요가 가격을 지지할 것으로 예상. 중장기적으로도 전기차와 휴머노이드 로봇 등 고성능 네오디뮴 영구자석의 수요 확대가 희토류 가격의 하방을 지지할 것으로 보임.\n◆ 휴머노이드향 매출은 2027부터 본격화, 중장기 성장성에 주목\n금력영자의 휴머노이드 로봇향 제품은 이미 소량 납품을 개시한 것으로 파악. 4Q26부터 소규모 매출 기여가 시작되고, 2027년부터 고객사 양산 확대와 함께 보다 유의미한 매출 성장이 가능할 전망. 단기적으로 휴머노이드 로봇향 매출 기여도는 제한적이나, 시장 확대에 따라 2030년에는 전사 매출의 10% 초반까지 비중이 상승할 것으로 예상. 또한, 희토류는 향후 미·중 갈등 등 지정학적 리스크 확대 시 중국의 핵심 전략 자원 및 협상 카드로 활용될 가능성이 높으며, 이는 희토류 밸류체인에 대한 시장의 관심을 높여 동사 주가에도 긍정적으로 작용할 전망. 금력영자의 주가는 역사적 중하단 수준 P/E(26년 12MF 21배)에서 거래 중으로 안정적인 본업 성장과 휴머노이드 로봇향 신규 수요 확대를 감안하면 중장기 관점에서 긍정적인 주가 흐름이 기대.\n*텔레그램 채널:\nhttps://t.me/hanaglobalbottomup\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-12T12:52:54+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21074",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21074",
-      "text": "» 미 국채 금리는 전 구간에서 -2bp~-4bp 수준의 하락 반영. 완만한 Curve Bull-Steepening 진행",
-      "images": [
-        "https://cdn5.telesco.pe/file/B3lQlcSaWXrUZqnar3ODOMN3DmcHS8uqVwEjU0D_6NhQWVLGGgfGmhaius30jLiptsCC1qBTSrsVDoH3NbQikMBtoVMtYuYJyxHHYpfye52CmQImXayxcctZiJzfaWeIli_mqKZQ8fEceIR_KWnh_bu4stbvY6wFaWFPo1SOpkq8wLHTbNNbbi1ok5v1NOqlnvvMF9rVk4xvTaR887QMzBlhj_1ezrjWw4ziG2nvt2cWhDh4Ri9wSEhka2nlYuIIwnb-lrrqwu-RQtAFjEDAsNpq1VY758r7PN6NN5PkencTJb7mahFqhXIawpQvJ21wAphrfb4gqXxAAdSKchtMdg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-12T12:50:24+00:00"
-    },
-    {
       "id": "tg:bornlupin/19689",
       "source": "telegram",
       "author": "bornlupin",
@@ -491,20 +558,6 @@
       "url": "https://t.me/aetherjapanresearch/24541",
       "text": "JP모건) 슈퍼마이크로(Super Micro) F4Q26 리뷰: 견조한 수주 및 마진 추세가 시장 추정치의 상향 조정을 견인; 목표주가 $45로 상향\n슈퍼마이크로는 EPS가 전년 대비 4배 이상 성장하며 강한 분기 실적을 기록했습니다. 방향성 자체는 이미 사전 공시(프리어나운스먼트)를 통해 예고된 바 있어(당사 리포트 참조), 실적 컨퍼런스콜의 논의는 총마진 강세와 수주 모멘텀의 지속 가능성에 집중되었습니다. 먼저 마진과 관련해 경영진은 F4Q의 강세가 우호적인 고객/제품 믹스와 계약 타이밍에 기인했다고 강조했으며, 전분기 대비 총마진 개선폭 560bp 중 약 75%가 믹스에 의한 것이고 나머지 25%, 즉 190bp는 관세 비용 감소와 재고 충당금 축소에 연결된다고 설명했습니다. 중요한 점은 경영진이 이러한 믹스 변화를 일시적인 것으로 규정했다는 점입니다. AI 믹스는 F3Q의 80% 이상에서 F4Q에 약 60%로 낮아졌으나 다시 80% 이상 수준으로 회복될 것으로 예상되는데, 당사는 이를 본질적으로 마진 희석 요인으로 보며 회사의 F1Q 총마진 전망(중간값 10.6%)과도 일치한다고 판단합니다.\n둘째로, 당사는 수주 추세가 마진 대비 방향성 측면에서 더 지속 가능하다고 봅니다. 경영진은 최근 600억 달러 이상의 수주와 F4Q26 종료 시점 기준 사상 최대 백로그를 강조했으며, 이는 FY27 매출 가이던스를 650~720억 달러로 제시하는 자신감의 근거가 되고 있습니다. 이는 전년 대비 300억 달러 이상의 확대를 의미합니다. 별도로 이러한 성장 단계로의 도약에 필요한 운전자본을 조달하기 위해 회사는 F4Q에 56억 달러의 자기자본을 조달했습니다(보통주 약 14억 달러, 의무전환우선주 42억 달러). 다만 회사가 현재 가이던스를 의미 있게 상회하는 매출을 달성할 경우 자기자본이든 부채든 추가적인 자본 조달이 필요할 것이며, 그 비용이 매출의 이익 전환을 추가로 압박할 것으로 판단합니다.\n당사는 매출 및 총마진 추세에 대한 최신 가이던스를 반영해 모델을 업데이트하고 있으며, 이에 따라 향후 연도 이익 전망을 큰 폭으로 상향 조정하고 있습니다. 다만 SMCI 주식에 대해서는 중립(Neutral) 의견을 유지합니다. 견조한 AI 컴퓨팅 수요라는 순풍이 총마진 지속 가능성에 대한 우려, 성장을 뒷받침하기 위한 운전자본 관련 추가 비용, 그리고 기업 지배구조 이슈와 균형을 이루고 있기 때문입니다. 지배구조와 관련해 경영진은 수출 통제 이슈에 관한 이사회 조사 업데이트를 실적 발표 이후에야 제공할 것으로 예상하고 있습니다. 이익 전망 상향에 따라 27년 12월 목표주가를 기존 32달러에서 45달러로 상향합니다.\nF4Q26(6월 결산) 실적: 매출은 대체로 부합한 가운데, 사전 공시된 가이던스보다도 더 우수한 마진에 힘입어 EPS가 견조하게 상회했습니다. 매출은 111억 달러(JP모건 추정치 118억 달러, 컨센서스 113억 달러 대비)로 전년 대비 93% 성장했습니다. 컨센서스 대비 부진은 고객 사이트 준비 지연에 기인하나, 사전 공시된 110~125억 달러 중 하단이라는 가이던스에는 대체로 부합했습니다. 총마진은 17.6%(JP모건 추정치 8.2%, 컨센서스 15.8%, 사전 공시 가이던스 15~17% 대비)를 기록했으며, 이는 개선된 믹스와 재고 충당금 및 관세 비용 감소에 기인합니다. 이에 따라 영업이익률은 14.3%(JP모건 추정치 5.5%, 컨센서스 12.8% 대비), EPS는 1.70달러(JP모건 추정치 0.57달러, 컨센서스 1.59달러 대비)를 기록했습니다.\nF1Q27(9월 결산) 가이던스: 매출과 수익성 전반에 걸쳐 예상보다 강한 전망입니다. 매출 가이던스는 145~155억 달러(JP모건 추정치 124억 달러, 컨센서스 120억 달러 대비)로 제시되었으며, 총마진 가이던스 10.4~10.8%(JP모건 추정치 7.6%, 컨센서스 9.0% 대비) 및 3.26억 달러(전년 대비 +61%)의 내재 Non-GAAP 영업비용 가이던스와 결합해 8% 이상의 내재 영업이익률 가이던스(JP모건 추정치 5.2%, 컨센서스 6.2% 대비)와 1.01~1.10달러의 EPS 가이던스(JP모건 추정치 0.56달러, 컨센서스 0.74달러 대비)로 이어집니다.",
       "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-12T12:31:39+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21073",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21073",
-      "text": "▪️\n주요 IB들이 예상 중인 미국의 7월 CPI  » Headline CPI • 전월대비: +0.12% 예상 (6월 -0.42%) • 전년대비: +3.4% 예상 (6월 +3.5%)  » Core CPI • 전월대비: +0.22% 예상 (6월 -0.02%) • 전년대비: +2.5% 예상 (6월 +2.6%)  » Headline CPI는 전월대비 +0.12%로 6월의 -0.42%에서 플러스(+) 전환이 예상. 전년대비 상승률은 +3.5%에서 +3.4%로 소폭…",
-      "images": [
-        "https://cdn5.telesco.pe/file/RX3Z-U16m2aP3G5UTpGvmU38Twh1HzLs3TLqhGKKh6FY4HoHrWzrDyupkasOOKNxRU3iq8thZbct3HicaI8t6WnBDhmV21jDn-UXkP0p9rBvK6kI7SXXp7vIvK3AFBouBKFtaOD75hsSfs4uajnlZLFtbYM0Neuoaap9gcWDs_JD30meP0FjiS2kY_yecKoiVZdtOEt2WB_qte5yChSZgcCJ4yVMohRyX9O56SgHGVt0AI-PNLoh1eSHQ_pITKUbJonx-JWPDCzTMs8C6wPWO5pqlkEkrC4c1SVV4OPHfh875Z5etsrhS8C6r_6ebe5sodf7gSN_uxJLI6RltPO5Eg.jpg"
-      ],
       "summary_ko": "",
       "published_at": "2026-08-12T12:31:39+00:00"
     },
@@ -619,18 +672,6 @@
       "published_at": "2026-08-12T08:50:49+00:00"
     },
     {
-      "id": "tg:EMchina/32309",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32309",
-      "text": "텐센트 2분기 매출 서프 vs. 순이익 쇼크\n• 매출 2047.9억위안\nvs. 예상 2028.4억위안\n• 순이익 560억위안\nvs. 예상 583.6억위안\n• 자본지출 528억위안\nvs. 예상 321억위안\n>> FCF -138억위안 마이너스 전환\n腾讯控股第二季度营收2,047.9亿元人民币，预估2,028.4亿元人民币\n第二季度净利润560.2亿元人民币，预估583.6亿元人民币。与此同时，资本支出大幅跳升至528亿元，远超预期的321亿元，与上年同期的191亿元相比几近翻三倍，导致本季录得138亿元负自由现金流。\nhttps://wallstreetcn.com/articles/3779275#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-12T08:36:40+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/24538",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -667,18 +708,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-12T08:17:30+00:00"
-    },
-    {
-      "id": "tg:EMchina/32308",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32308",
-      "text": "호르무즈해협 재개 제한적. 알루미늄 가격 7일 연속 상승하며 7주 최고치 경신   • 미국-이란 협상 교착 상태. 호르무즈 해협 재개방 전망 갈수록 희박  • 알루미늄 시장 공급 우려 계속 커지면서 금속 알루미늄 가격은 7거래일 연속 상승. 런던 알루미늄 선물 가격은 월요일 장중 최고 1.47% 상승 & 6/23 이후 최고 수준에 도달  霍尔木兹短期难重开，铝价连涨七日创七周新高  美伊谈判陷入僵局，令霍尔木兹海峡重开前景日益渺茫，铝市供应担忧持续升温，推动金属铝价…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-12T08:11:00+00:00"
     },
     {
       "id": "tg:enc210406/4313",
@@ -1009,7 +1038,7 @@
       "url": "https://t.me/enc210406/4306",
       "text": "한화 그룹이\n호주 Austal에\n10.5~12.0억달러 밸류로\nAustal USA를\n인수하는 제안을\n했다는 소식입니다.",
       "images": [
-        "https://cdn5.telesco.pe/file/edYw-q57V3h5ET8HAIGKIh_RUkJAT5sURl5RK1JlDOwROlDPt7E5Afjygek4zSNZ09Age1NMJAo3gNxeHOqtEXZMuj4EJEit2MpEFOrwpxzlqRvVNNf-qRYeWveyBOSCMHy-GHaIipt8D6tUIOeLWF53YlDZcSj5hPcMX3XunmjggNqF18XWHUvc1kKukIdcdDph6bTTIlVPs4Oid5S-AKq6-ljhNCMOkVBl24Q3NnKjRYef6ainEeEfixoWGMrSVBaPxsRwGAQlaoHGJpGgPk-tWfZtxq7cXhzKXM5u0Sh2vnKQwCbYIP5Ae-9h557JXephb53fda0wpTenLpo_AA.jpg"
+        "https://cdn5.telesco.pe/file/cq8ujD9LT7i3WBVo0JbxQ3ZWgDk6NBAvHzRmRVnKtxk3Uus9w4M-86Mpwpvo1f0B6tYiIOpXS0pUV_oSNOzSgMFtATG4SnKw9kJM0C8Z-nZJwsWa31u8ZIfZAPzbMS-sz4RbaMWBoBL-hQxUoea6uDM0PMrnHMyB1CKgi3S7gMAvt5ahW3vn2paBX9lGkNutLMAirJjGtU0ki85uSaram9QH7V2nCmuVNapVIHc1QpskNqoOWyngkv5GukM9FO1EUFO79v69qkBEg0ybMy0a-KpBYxWIQn01JZcVT4FF6LhHVDiiCw85jcDhHBhwQPa_1rUq2oABDX8dou86Fxxp0A.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-10T23:09:05+00:00"
@@ -1073,18 +1102,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-10T21:48:06+00:00"
-    },
-    {
-      "id": "tg:HI_GS/6875",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/6875",
-      "text": "🚀\nLockheed Martin Announces Strigo\n™\nand New Product Center of Missile Technology Solutions to Support the Arsenal of Freedom\n🚀\n록히드마틴, 모듈형 미사일 기술 솔루션 'Strigo\n™\n' 및 전담 제품 센터 발표\n출처: PR Newswire\n링크: [\nhttps://www.prnewswire.com/news-releases/lockheed-martin-announces-strigo-and-new-product-center-of-missile-technology-solutions-to-support-the-arsenal-of-freedom-302847394.html\n](https://www.prnewswire.com/news-releases/lockheed-martin-announces-strigo-and-new-product-center-of-missile-technology-solutions-to-support-the-arsenal-of-freedom-302847394.html)\n* 록히드마틴, RF 센서·미사일 데이터링크·미사일 탐색기(Seeker)를 통합한 모듈형 방산 솔루션 패키지 'Strigo\n™\n' 공개\n* 공통 아키텍처 기반으로 방공, 미사일 방어, 공대지 타격 등 임무 요구에 맞춰 신속하게 재구성 가능\n* 개념 수립부터 인도까지의 과정을 가속화하기 위해 전담 'Strigo 제품 센터' 설립\n* 초기 연구개발에 총 2억 5,000만 달러 투자 집행\n* 센터 설립 2년 미만 만에 복수 개념의 설계 및 시험 완료\n* 개발된 핵심 기술은 차세대 정밀타격미사일 PrSM(Precision Strike Missile) Increment 2 탐색기 패키지에 적용\n* 선제적 R&D를 통해 신기술 개발·검증 기간을 수년에서 수개월 수준으로 단축\n───────\n🎴\n모듈이라... 음...",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-10T21:45:28+00:00"
     },
     {
       "id": "x:ylecun:2086916150278111551",
@@ -1284,20 +1301,6 @@
       "images": [],
       "summary_ko": "@yleun의 RT: 오늘 단일 소비자 GPU에서 실행되는 30b 모델인 Muse glimmer에 대한 오픈 가중치를 출시하게 되어 기쁩니다. Muse Spark 1.2 버전에 대한 오픈 가중치는 곧 출시될 예정입니다. 매우 다른 두 가지 모델이 모두 사람들의 손에 들어왔고 앞으로 더 많은 모델이 출시될 예정입니다.",
       "published_at": "2026-08-10T10:03:44+00:00"
-    },
-    {
-      "id": "tg:enc210406/4303",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4303",
-      "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 8월 10일 종가 기준",
-      "images": [
-        "https://cdn5.telesco.pe/file/JaK6DREatlUZJo-UFeuJ15JLTw4GQ2LKety_f9aNkdl2QQloWbqzpokBg83yvcV_ca7lXtUfaXMAvg7WPJtFhhRoOzSzusXpxF5eO8dMitvJd1zYK3xl8jsqy0xtxauu09OFY47mgBd3rntPBDby3fv9c9igsGGF_Ly_3ZCQ8TGsKF4wETDK8FZyH1TX6L-jH79ASfAHUC4RLpr_YvlaUFOicd9iZDOXdKgIyzYHuvXcuHyIgd_1cGsr-YjeDZ8oBmBbd6xHkPuHGqOchTMClrCohs6o1rgUbzr5pktJQE5wsX3mCYb_guGiwskUX4hi2UDWxMOR9QTi4_Qh5Kf01A.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-10T08:07:13+00:00"
     },
     {
       "id": "rss:semianalysis:ultra-high-interactivity-on-nvidia",
@@ -1562,7 +1565,9 @@
       "author_url": "https://x.com/sama",
       "url": "https://x.com/sama/status/2085473085399150817",
       "text": "RT by @sama: Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more. https://www.youtube.com/watch?v=87DyyMV0kCY I hope it can answer a lot of the questions folks have, and we will release a full detailed postmortem at a later time!",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2085465895007318016/-qjHVz8l?format=jpg&name=800x419"
+      ],
       "summary_ko": "RT by @sama: 어제 OpenAI 공동 작업자와 저는 Huggingface 사건, \"메시지 보드\"를 생성하는 모델, 모델 정렬 불량 등에 대해 자세히 설명했습니다. https://www.youtube.com/watch?v=87DyyMV0kCY 사람들이 궁금해하는 많은 질문에 답할 수 있기를 바랍니다. 자세한 사후 분석은 나중에 공개하겠습니다!",
       "published_at": "2026-08-06T21:08:24+00:00"
     },
@@ -1849,9 +1854,7 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2082965101083320543",
       "text": "In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Our post describes what happened, how it happened, and what we’re changing. We encourage other AI developers to perform similar reviews. We conducted this review together with @Irregular, one of our evaluation partners, and thank them for the joint investigation and their collaboration on this post. This type of collaboration is increasingly critical to safe, rigorous evaluation of models, and we look forward to continuing to work together on security. https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "images": [
-        "https://pbs.twimg.com/card_img/2085926103152300033/llZRgUyr?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "사이버 보안 평가를 검토한 결과, Claude 모델이 제3자 평가 환경 내에서 또는 제3자 평가 환경과 상호 작용하는 동안 인터넷에 접속한 후 서로 다른 세 조직의 실제 시스템에 무단으로 액세스한 사건 세 건을 발견했습니다. 우리 게시물에서는 무슨 일이 일어났는지, 어떻게 일어났는지, 그리고 우리가 무엇을 바꾸고 있는지 설명합니다. 우리는 다른 AI 개발자도 유사한 검토를 수행하도록 권장합니다. 이번 리뷰는 평가 파트너 중 하나인 @Irregular와 함께 진행되었으며, 본 게시물에 대한 공동 조사와 협력에 감사드립니다. 이러한 유형의 협업은 모델을 안전하고 엄격하게 평가하는 데 점점 더 중요해지고 있으며 보안을 위해 계속해서 협력할 수 있기를 기대합니다. https://www.anthropic.com/news/investigating-incidents-cybers",
       "published_at": "2026-07-30T23:02:34+00:00"
     },
@@ -2043,9 +2046,7 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2082153297670992134",
       "text": "New Anthropic research: Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has helped our researchers find weaknesses in cryptographic algorithms—the mathematical methods that are used to keep data private. Read more: https://anthropic.com/research/discovering-cryptographic-weaknesses",
-      "images": [
-        "https://pbs.twimg.com/card_img/2085840766388367360/IEqY6ADp?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "새로운 인류학 연구: 클로드와 함께 암호화 약점 발견. Claude Mythos Preview는 우리 연구원들이 데이터를 비공개로 유지하는 데 사용되는 수학적 방법인 암호화 알고리즘의 약점을 찾는 데 도움이 되었습니다. 더 읽어보세요: https://anthropic.com/research/discovering-cryptographic-weaknesses",
       "published_at": "2026-07-28T17:16:45+00:00"
     },
