@@ -1,22 +1,45 @@
 {
-  "updated_at": "2026-08-13T14:56:49+00:00",
+  "updated_at": "2026-08-13T16:01:33+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 6
+    "new_this_run": 9
   },
   "briefing": {
     "headline": "딥시크, V4 모델 가격 대폭 인상",
     "bullets": [
-      "미국 PCE 지표 예상보다 견고",
-      "미 국채금리 전 구간 하락",
-      "Cerebras Systems Inc, CY27 코어 매출 3배 성장 전망",
-      "젠슨황, 5000억달러 반도체칩 베팅",
-      "JP모건, 오라클 및 마이크로소프트 비중 확대"
+      "중국 8개 폴리실리콘 기업, 악성경쟁 방지 제안",
+      "샌디스크, FY28~FY30 목표 제시",
+      "미국 PCE 지표, 견고한 흐름 예상",
+      "국민연금, 미국 주식 주요 종목 매수 확대"
     ],
-    "generated_at": "2026-08-13T14:56:49+00:00",
+    "generated_at": "2026-08-13T16:01:33+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32344",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32344",
+      "text": "중국 8개 폴리실리콘 기업 악성경쟁 방지 제안 발표. 관계자에 따르면 가중 처벌 조치 가능성  • 8개 태양광 폴리실리콘 기업은 원가 이하 가격 판매 금지 약속. 저가 덤핑 근절, 자체 점검 및 자기 시정 실시, 감독관리 등  • 이 제안에 참여한 한 기업 책임자는 각 기업이 최근 정부 의지를 적극 이행 & 모두 자발적으로 제안한 것이라고 언급. 동시에 추가적인 처벌 조치 나올 수 있으며 자율 규제 강화할 것이라고 언급  八家硅料企业发布倡议 知情人士称或配套惩罚措施…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-13T15:41:39+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24571",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24571",
+      "text": "SanDisk $SNDK가 FY28~FY30 목표를 제시했습니다.\n10% 중후반대 매출 성장\nNon-GAAP 총이익률 약 80%\n조정 FCF 마진 약 50%\n또한 회사는 잉여 현금의 100%를 주주에게 환원할 것으로 예상하고 있습니다.\nhttps://twitter.com/wallstengine/status/2087917383008805046",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-13T15:08:32+00:00"
+    },
     {
       "id": "tg:globaletfi/21111",
       "source": "telegram",
@@ -56,6 +79,34 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-13T14:44:08+00:00"
+    },
+    {
+      "id": "x:OpenAI:2087912625581719835",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2087912625581719835",
+      "text": "R to @OpenAI: We examine how these orgs are putting AI to work, and how agentic workflows are expanding across industries and functions: https://openai.com/index/how-enterprises-put-ai-to-work",
+      "images": [
+        "https://pbs.twimg.com/card_img/2087525719790465024/jTHij8Df?format=jpg&name=800x419"
+      ],
+      "summary_ko": "R에서 @OpenAI로: 이러한 조직이 AI를 작동시키는 방법과 에이전트 워크플로가 산업 및 기능 전반에 걸쳐 어떻게 확장되고 있는지 조사합니다. https://openai.com/index/how-enterprises-put-ai-to-work",
+      "published_at": "2026-08-13T14:42:16+00:00"
+    },
+    {
+      "id": "x:OpenAI:2087912623883051300",
+      "source": "x",
+      "author": "OpenAI",
+      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
+      "author_url": "https://x.com/OpenAI",
+      "url": "https://x.com/OpenAI/status/2087912623883051300",
+      "text": "The top 10% of enterprises use plugins twice as often and skills six times as often as typical firms. These frontier firms are not ahead by accident.",
+      "images": [
+        "https://pbs.twimg.com/media/HPnBcQ-bAAAQs5j.png"
+      ],
+      "summary_ko": "상위 10%의 기업은 일반 기업에 비해 플러그인을 2배 더 자주 사용하고 기술을 6배 더 자주 사용합니다. 이들 프론티어 기업은 우연히 앞서가는 것이 아닙니다.",
+      "published_at": "2026-08-13T14:42:15+00:00"
     },
     {
       "id": "tg:globaletfi/21109",
@@ -286,20 +337,6 @@
       "published_at": "2026-08-13T11:07:42+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24558",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24558",
-      "text": "테슬라 메가팩 배터리가 미국 I-40고속도로에서 트럭 트레일러에 실려 이송되던중 트레일러에서 떨어짐.\n이후 화재가 발생해서 24시간넘게 불타는중이라고 함",
-      "images": [
-        "https://cdn5.telesco.pe/file/NmSh2-XkEY21IyvgVOd5OuPboJcOC81kdf4glzVOqYdl-5So0NoLN6YdMNnHoRMhkMDskIlrftKfnZPT21mKar4lKGQK-r4WULatF6HDV2lBTi9L3o7h-GKX9PCL7BHiMwEnJw6f_7PoYAnEobsHGn4tt0bSiizD-BPw_Qgyeu94zF7rD63cat4y9USrSWIuPZhvJsRf5cpMUd3NHegjmSF32FPHJJ7CbNKc4jwxSGVVXY8G00oYMck6Njy8YL2GVnxX4G9KlxYvT75II_ir_Sd5IjR2tJ3l6EW8mHE7_DvlRTpubSJDoHeIeKKhu0XoZNJ3ZkjNb496K6VGlPmE7A.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-13T10:11:37+00:00"
-    },
-    {
       "id": "tg:EMchina/32339",
       "source": "telegram",
       "author": "EMchina",
@@ -450,18 +487,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-13T05:21:19+00:00"
-    },
-    {
-      "id": "tg:EMchina/32332",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32332",
-      "text": "다시 움직이는 버크셔  ======================  ~ '투자의 귀재’ 워런 버핏이 60년간 이끌던 버크셔해서웨이의 지휘봉을 넘겨받은 그레그 아벨 최고경영자(CEO)가 버핏이 쌓아놓은 3600억달러(약 500조원) ‘현금 성벽’을 허물기 시작했다. 고평가된 증시를 경계하며 현금을 쌓고 주식을 팔아온 버핏과 달리, 아벨은 취임 반년 만에 구글 모회사 알파벳을 비롯한 주식을 대거 사들이고 자사주 매입도 크게 늘렸다. 버핏이 남긴 막대한 현금을…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-13T05:19:27+00:00"
     },
     {
       "id": "tg:globaletfi/21105",
@@ -838,6 +863,20 @@
       "published_at": "2026-08-12T18:52:01+00:00"
     },
     {
+      "id": "x:ylecun:2087595045884985453",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2087595045884985453",
+      "text": "RT by @ylecun: Here is a list of government recalls and alerts for contaminated food or skipped inspections during Trump's second term: —August 2026: Jalapeños, Salmonella contamination - 345 illnesses, 36 hospitalized —August 2026: Pastrami/Corned Beef, Listeria risk —August 2026: Argentinian Beef, skipped inspection —July 2026: Frozen Blueberries/Mixed Berries, E. Coli contamination - 12 illnesses, 4 hospitalized —July 2026: Bacon, skipped inspection —July 2026: Chicken noodle soup, skipped inspection —July 2026: 19 million eggs - Salmonella contamination, 98 illnesses, 26 hospitalized —July 2026: Iceberg lettuce, Cyclospora contamination - 6,358 illnesses, 278 hospitalized, 2 deaths —June 2026: Ready to eat Chicken Caesar wraps, Listeria risk —June 2026: Infant Formula, Botulism - 4 illnesses, 4 hospitalized —June 2026: Soft Cheese, Listeria - 12 illnesses, 10 hospitalized, 1 death —May 2026: Deli meat, Listeria risk —April 2026: Dairy products, Salmonella risk —April 2026: Raw Cheddar cheese, E. Coli contamination - 9 illnesses, 3 hospitalized —April 2026: Powdered milk/buttermilk, Salmonella risk —March 2026: Beef and pork products, skipped inspection —February 2026: Fish products, skipped inspection —Feb 2026: Ground beef, E. Coli risk —January 2026: Grilled chicken breast, Listeria risk —December 2025: Ground Beef, E. Coli risk —December 2025: Quiche, skipped inspection —December 2025: Salted lamb, skipped inspection —November 2025: Infant formula, Botulism - 48 illnesses —October 2025: Breakfast burritos, Listeria risk —October 2025: Cauliflower, Listeria risk —October 2025: Spinach, Listeria risk — September 2025: Pasta, Listeria risk — September 2025: Turkey wraps, Listeria risks — September 2025: Catfish, skipped inspection — August 2025: Pepperoni pizzas, skipped inspection —August 2025: Meat products, skipped inspection —August 2025: Eggs, Salmonella - 105 illnesses, 19 hospitalized —July 2025: Ham salad, Listeria risk —July 2025: Frozen vegetable products, Salmonella - 12 illnesses, 4 hospitalized —July 2025: Eggs, Salmonella, 134 illnesses, 38 hospitalized, 1 death —July 2025: Turkey bacon, Listeria risk —June 2025: Meat sauce, skipped inspection —June 2025: Beef, E. Coli risk —June 2025: Pork lard and beef tallow, skipped inspection —June 2025: Prepared pasta meals, Listeria - 28 people infected, 27 hospitalized, 7 deaths —June 2025: Pistachio cream, Salmonella - 4 illnesses, 1 hospitalized —May 2025: Chicken products, skipped inspection —May 2025: Smoked sausage, Listeria risk —May 2025: Meat pies, skipped inspection —May 2025: Chicken wraps, Listeria risk —May 2025: Cucumbers, Salmonella - 69 illnesses, 22 hospitalized —May 2025: RTE foods, Listeria - 10 illnesses, 10 hospitalized, 1 death —May 2025: Prosciutto, skipped inspection —May 2025: Ground beef, E. Coli risk —March 2025: White chicken chili, skipped inspection —February 2025: Beef tallow, skipped inspection —February 2025: Frozen shakes, Listeria - 42 illnesses, 41 hospitalized, 14 deaths",
+      "images": [
+        "https://pbs.twimg.com/media/HPigoXkWIAAZmi5.jpg"
+      ],
+      "summary_ko": "@ylecun의 RT: 다음은 트럼프의 두 번째 임기 동안 오염된 식품 또는 검사 생략에 대한 정부 리콜 및 경고 목록입니다. —2026년 8월: 할라피뇨, 살모넬라 오염 - 질병 345건, 입원 36명 —2026년 8월: 파스트라미/콘비프, 리스테리아 위험 —2026년 8월: 아르헨티나 쇠고기, 검사 생략 —7월 2026년: 냉동 블루베리/혼합 베리, 대장균 오염 - 12개 질병, 4개 입원 — 2026년 7월: 베이컨, 검사 건너뛰기 — 2026년 7월: 치킨 누들 수프, 검사 건너뛰기 — 2026년 7월: 계란 1,900만 개 - 살모넬라 오염, 98개 질병, 26개 입원 — 2026년 7월: 빙산 상추, 원포자충 오염 - 질병 6,358건, 입원 278명, 사망 2명 - 2026년 6월: 치킨 시저 랩을 먹을 준비가 되어 있음, 리스테리아 위험 - 2026년 6월: 유아용 분유, 보툴리누스 중독 - 4명",
+      "published_at": "2026-08-12T17:40:19+00:00"
+    },
+    {
       "id": "x:GoogleDeepMind:2087541220494938537",
       "source": "x",
       "author": "GoogleDeepMind",
@@ -1015,7 +1054,9 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2087248033906094175",
       "text": "R to @OpenAI: The ChatGPT desktop app is now available in preview for desktop variants of these Linux distributions: • Ubuntu 24.04 LTS and 26.04 LTS • Debian 13 • Fedora 43 and 44 Install with .deb or .rpm packages for x64 or ARM64. http://openai.com/codex",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2087404715047026688/3BPcvBfP?format=jpg&name=800x419"
+      ],
       "summary_ko": "R에서 @OpenAI로: ChatGPT 데스크톱 앱은 이제 다음 Linux 배포판의 데스크톱 변형에 대한 미리 보기로 제공됩니다. http://openai.com/codex",
       "published_at": "2026-08-11T18:41:25+00:00"
     },
@@ -1310,20 +1351,6 @@
       "images": [],
       "summary_ko": "@yleun의 RT: 이것은 더 강력한 AI 시스템을 탐색하는 Zuckerberg의 글 중 가장 신중하게 고려된 글입니다. 읽어볼 가치가 있고 건설적인 업데이트입니다: https://www.meta.com/thefutureisforeveryone/",
       "published_at": "2026-08-10T10:44:18+00:00"
-    },
-    {
-      "id": "x:ylecun:2086758202964951340",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2086758202964951340",
-      "text": "RT by @ylecun: Meet Muse Glimmer: an open-weight model built for always-on local agents. 30B parameters, Apache 2.0 and tuned for complex multi-step work so it plans, calls tools, hits errors, retries, and sees the task through long-horizon loops. Muse Glimmer is designed to balance capability against the memory and compute constraints of local hardware. We couldn’t be more excited to get this in the hands of developers. Download and start building now: https://bit.ly/4yYUKkS",
-      "images": [
-        "https://pbs.twimg.com/media/HPUQiska4AEbq8S.png"
-      ],
-      "summary_ko": "@yleun의 RT: Muse Glimmer를 만나보세요. 항상 켜져 있는 로컬 에이전트를 위해 구축된 개방형 모델입니다. 30B 매개변수, Apache 2.0 및 복잡한 다단계 작업에 맞게 조정되어 긴 수평 루프를 통해 작업을 계획하고, 도구를 호출하고, 오류가 발생하고, 재시도하고, 확인합니다. Muse Glimmer는 로컬 하드웨어의 메모리 및 컴퓨팅 제약 조건과 성능의 균형을 맞추도록 설계되었습니다. 우리는 이것을 개발자의 손에 맡길 수 있게 되어 매우 기쁩니다. 지금 다운로드하여 구축을 시작하세요: https://bit.ly/4yYUKkS",
-      "published_at": "2026-08-10T10:15:00+00:00"
     },
     {
       "id": "rss:semianalysis:ultra-high-interactivity-on-nvidia",
@@ -1649,34 +1676,6 @@
       "published_at": "2026-08-06T18:35:56+00:00"
     },
     {
-      "id": "x:OpenAI:2085434715675426889",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2085434715675426889",
-      "text": "R to @OpenAI: Plus and Pro users also now have a slider to choose how much reasoning effort ChatGPT puts into each response. We think it’s easier to use, and we’re listening to your feedback.",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2085420902448267264/img/NjCfofTPUe8EsYHR.jpg"
-      ],
-      "summary_ko": "R에서 @OpenAI로: 이제 Plus 및 Pro 사용자에게는 ChatGPT가 각 응답에 얼마나 많은 추론 노력을 쏟는지 선택할 수 있는 슬라이더가 있습니다. 우리는 이것이 사용하기 더 쉽다고 생각하며 여러분의 피드백을 듣고 있습니다.",
-      "published_at": "2026-08-06T18:35:56+00:00"
-    },
-    {
-      "id": "x:OpenAI:2085434713821565297",
-      "source": "x",
-      "author": "OpenAI",
-      "author_name": "OpenAI(오픈AI) · ChatGPT 개발사",
-      "author_url": "https://x.com/OpenAI",
-      "url": "https://x.com/OpenAI/status/2085434713821565297",
-      "text": "R to @OpenAI: The new GPT-5.6 Sol powers all chats for paid users, including Instant, creating one consistent experience. In our high-stakes factuality evaluation covering finance, medicine and law, the new GPT‑5.6 Sol produced 68% fewer responses with factual errors than GPT‑5.5 Instant.",
-      "images": [
-        "https://pbs.twimg.com/media/HPDm8hLagAAF-C_.jpg"
-      ],
-      "summary_ko": "R에서 @OpenAI로: 새로운 GPT-5.6 Sol은 Instant를 포함하여 유료 사용자를 위한 모든 채팅을 지원하여 하나의 일관된 경험을 제공합니다. 금융, 의학, 법률을 다루는 우리의 고위험 사실성 평가에서 새로운 GPT-5.6 Sol은 GPT-5.5 Instant보다 사실 오류가 있는 응답을 68% 더 적게 생성했습니다.",
-      "published_at": "2026-08-06T18:35:55+00:00"
-    },
-    {
       "id": "x:GoogleDeepMind:2085395452657049735",
       "source": "x",
       "author": "GoogleDeepMind",
@@ -1684,9 +1683,7 @@
       "author_url": "https://x.com/GoogleDeepMind",
       "url": "https://x.com/GoogleDeepMind/status/2085395452657049735",
       "text": "R to @GoogleDeepMind: We’re open sourcing the code and model weights on @Github, making them freely available for anyone to build on. This could be for academic purposes, operational forecasting, or developing more specialized, localized models. Explore the research → https://goo.gle/3RRTSOo",
-      "images": [
-        "https://pbs.twimg.com/card_img/2085395360046870528/pwIjaiB0?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "R에서 @GoogleDeepMind로: 우리는 @Github에서 코드와 모델 가중치를 오픈 소스화하여 누구나 자유롭게 구축할 수 있도록 하고 있습니다. 이는 학문적 목적, 운영 예측 또는 보다 전문적이고 지역화된 모델 개발을 위한 것일 수 있습니다. 연구 살펴보기 → https://goo.gle/3RRTSOo",
       "published_at": "2026-08-06T15:59:55+00:00"
     },
