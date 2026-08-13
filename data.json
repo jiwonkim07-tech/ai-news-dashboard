@@ -1,22 +1,100 @@
 {
-  "updated_at": "2026-08-13T13:09:53+00:00",
+  "updated_at": "2026-08-13T14:56:49+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 15
+    "new_this_run": 6
   },
   "briefing": {
-    "headline": "젠슨황 5000억달러 반도체 베팅",
+    "headline": "딥시크, V4 모델 가격 대폭 인상",
     "bullets": [
-      "SK하이닉스 매도 추천",
-      "앤트로픽 9월말 상장 타겟",
-      "네비우스 상업적 모멘텀 상승",
-      "버크셔해서웨이 지휘봉 넘겨받은 그레그 아벨",
-      "Anthropic, Decart AI 인수 협상 중"
+      "미국 PCE 지표 예상보다 견고",
+      "미 국채금리 전 구간 하락",
+      "Cerebras Systems Inc, CY27 코어 매출 3배 성장 전망",
+      "젠슨황, 5000억달러 반도체칩 베팅",
+      "JP모건, 오라클 및 마이크로소프트 비중 확대"
     ],
-    "generated_at": "2026-08-13T13:09:53+00:00",
+    "generated_at": "2026-08-13T14:56:49+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:globaletfi/21111",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21111",
+      "text": "» DeepSeek은 주력 V4 모델의 가격을 대폭 인상하며, 기존 ‘초저가 AI 모델’ 중심의 가격 정책을 주요 AI 경쟁사에 조금 더 가까운 수준으로 조정\n» 새로운 가격 정책은 8월 16일부터 적용되며, 수요가 집중되는 피크 시간대의 가격을 기존 대비 4배 이상 인상\n» DeepSeek-V4-Flash의 출력 토큰 100만 개당 가격은 기존 0.28달러에서 피크 시간대 1.32달러로 약 4.7배 인상. 비피크 시간에는 절반인 0.66달러 적용\n» DeepSeek-V4-Pro 역시 100만 토큰당 기존 0.87달러에서 피크 시간대 3.96달러로 약 4.6배 인상. 비피크 시간에는 1.98달러 적용\n» 가격 인상 이후에도 일부 주요 경쟁 모델 대비로는 여전히 낮은 수준. Anthropic의 Fable5는 100만 출력 토큰당 50달러 수준\n» DeepSeek은 이번 가격 조정의 목적을 ‘자원의 보다 합리적인 배분’이라고 설명. 피크·비피크 시간대에 차등 가격을 적용해 개발자와 기업의 AI 작업을 수요가 적은 시간대로 분산시키려는 전략\n» 한편 DeepSeek은 현재 대규모 자금 조달을 진행하고 있으며, 이르면 연내 IPO를 추진하기 위한 준비에 들어간 것으로 알려진 상황. 이에 따라 시장점유율 확대뿐만 아니라 투자자들이 요구하는 수익성과 대규모 컴퓨팅 인프라 투자 부담까지 동시에 고려 필요\nDeepSeek Increases Prices for AI Services by Multiple Times\nhttps://www.bloomberg.com/news/articles/2026-08-13/deepseek-increases-prices-for-ai-services-by-multiple-times",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-13T14:52:56+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21110",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21110",
+      "text": "» 미국 PCE 지표를 구성하는 PPI 항목들. 연준의 판단 기준인 PCE 지표는 예상보다 견고한 흐름을 보일 가능성",
+      "images": [
+        "https://cdn5.telesco.pe/file/ogGE8TiDJns7tSu8-haESpJYnW_MOsgAvtN6vs-padFcZQYQOpjwmHJb5_vzwjH_mXQV3QA35Svshg6eZKcc8BmnWnrBspLSjYvZGkGp-1LLPANWktIJhGTo69EMpbudK53cAMjq7tJ6pSupj-gEEvfRvuQlq8oC673JwvjGSnkJahYuOn8U5VgsF5l9Z_b1Y4wYHEuwGpMCsmXSJhTA9IOubzVGUmvdV3E08FnxH3GVuOZyYkyQ0S-KLl16TJlzTcLhH0CxIDGUNPIq74Niowi8Ut-UUaQH1GBgIK7AxNL0hUL01z499s8NIDU2DRLq87T7jyNdJsB7jgqK5llnmA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-13T14:51:37+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24570",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24570",
+      "text": "진짜닉스 잘 오르네요",
+      "images": [
+        "https://cdn5.telesco.pe/file/OFFwwMw2GmL27UmtKmpkTDuQkF0wh5ae0YyMSUgpWTJgWPLSwQbBupNzvazpAOkjr__1sJFCq6yIr80qvHVSN-GT9KK36GKU695gBSYz7RgmIg87ypBJGJ_Mc9260ms75lssI2P0F293ybv_KVHbFlabti4kf1y6uvTUPzpiJ0lKv_9Uhgx3Go3qOEMDNRaLBBqNJyR46upBL4ElIXiXpK6B-xutrcSUqZYFDJTBR0N8XwOdcHfUrvpfJP-Zup8Bn1qfXstrKv42BfaO6WaU8G41i6UkhBGiiYUTU55NdCUNWz6wNKV5kpjCfH-IHxeB8PDXsAUbDc77t9j2LaHnaQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-13T14:44:08+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21109",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21109",
+      "text": "» 미 국채금리는 전 구간에서 하락세 시현",
+      "images": [
+        "https://cdn5.telesco.pe/file/gpR-aY2dmBHYMOjg5dElDRLfO2OwjfGSQmqQJYO6ocNTsfTlKMAMbu_MaWoD-dnru4iuS856qxO8j-zI8aHS3oOA30qfTJavg36oJVt4mfFmCYibA2TPhHU12CM64hwTh4R3A_HNO7YRJAa_1P6u9Q5fb4WBHKtsgc5L6TO_fr04w99P-ot2TRwgD-IKiYXJ7ljeDk4dgmYlryuLefctKUdvHalWFLsoYzsv4uT0CuDj3POHfl_xfXGSRfO-ro0OUh-Tv-bkaHLlMlt98ReTW4ci16FfZooWsD1WR3QmqAa5lMbwPw1FJO4iDvkuqI7TfPIWKqNJUDO1RHHfn12wkw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-13T14:27:19+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24569",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24569",
+      "text": "Citi) Cerebras Systems Inc (CBRS.O)CY27 코어 매출 3배 성장 전망, 매수 의견 유지. TP $320(하향)\n씨티의 견해\nCerebras는 강력한 고속 추론(fast inference) 수요를 반영하여 FY26 코어 매출/총이익률/영업이익률 가이던스를 재차 상향했으나, 일부 시스템을 클라우드 고객사로부터 다시 임차하면서 총이익률 저점이 2분기에서 3분기로 이연되었습니다. 다만 경영진은 2027년 코어 매출 3배 성장, 250억 달러 규모의 RPO, 그리고 AWS 및 AMD와의 추가적인 협업 파이프라인에 대해 언급했습니다. 근본적으로 고속 추론 시장에서 Cerebras가 선점 우위를 갖고 있다는 당사의 논지는 그대로 유효합니다. 당사는 FY26/27/28 EPS를 각각 +40센트/+44센트/-1센트 조정하며, 목표주가는 기존 340달러에서 320달러로 하향합니다. 이는 엔비디아의 3년 평균 EV/S에 기반한 14배를 2028년 예상 코어 매출 71억 달러(변동 없음)에 적용하여 산출한 수치입니다. 매수 의견을 유지합니다.\n2027년까지 600MW 캐파: Cerebras는 고속 추론에 대한 막대한 수요로 인해 전 세계에서 매일 캐파를 확보해 나가고 있습니다. Cerebras가 빠르게 배치할수록 클라우드 및 온프레미스 사업 양쪽의 매출도 더 빠르게 성장할 수 있습니다. Cerebras는 2027년 코어 매출이 3배 이상 증가하고 이후 연도에도 배수 단위의 성장을 이어갈 것으로 예상하고 있습니다.\n고객 집중도: 내년에는 신규 고객이 차지하는 비중이 더 커질 것이며, LLM 고객은 시간이 지남에 따라 매출 내 비중이 축소될 수 있으나 내년에도 유의미한 비중을 유지할 것으로 보입니다.\n캐파: Cerebras는 수년에 걸쳐 막대한 성장을 시현할 것으로 보입니다. Cerebras는 올해 말 제조 캐파를 10배로 확대할 가능성이 높으며, 2027년에는 계약된 시설 기준으로 추가로 3~4배 더 늘어날 전망입니다.\n아마존 협업: 아마존은 API 서비스인 Bedrock을 통해 아마존 데이터센터에 배치되어 이용 가능해질 예정입니다. 현재 배치 작업을 준비 중이며, 해당 서비스는 1분기에 개시될 것으로 예상하고 있습니다.\nAMD 배치: Cerebras는 시간이 지남에 따라 AMD와의 신규 제품들을 발표할 예정입니다. 공동 솔루션에서는 Helios가 프리필(prefill)을 담당하고 Cerebras가 디코드(decode)를 담당하게 되며, 이는 매력적인 솔루션입니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-13T13:46:34+00:00"
+    },
+    {
+      "id": "tg:EMchina/32343",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32343",
+      "text": "가격 30배 올려도 여전히 가장 저렴한 모델. 딥시크가 가질 자신감  • 딥시크 곧 가격 인상 예정. 제3자 엔지니어는 이같은 결정이 손실에 대한 압박보다 트래픽 조절일 가능성이 더 크다고 평가  • 낮은 캐시 비용, 높은 캐시 적중률, 아키텍처 최적화 바탕으로 딥시크는 가격 크게 올려도 여전히 가격 경쟁력 보유  • 진정한 해자는 모델 자체에만 있는 것이 아니라, 캐시 메커니즘 및 인프라, 모델 중심으로 구축된 Harness 시스템에도 존재  涨价30…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-13T13:18:11+00:00"
+    },
     {
       "id": "tg:EMchina/32342",
       "source": "telegram",
@@ -284,18 +362,6 @@
       "published_at": "2026-08-13T07:59:48+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24557",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24557",
-      "text": "Citi) 네비우스 (NBIS.O): 상업적 모멘텀이 데이터센터 구축 우려를 앞지르다. TP $278 (8월 12일)\n투자의견은 매수(고위험)이며 목표주가는 278달러입니다. 8월 11일 종가 193.23달러 대비 43.9%의 상승 여력을 의미하며, 시가총액은 약 490억 6,100만 달러입니다.\nCiti는 코어위브의 호실적에 이어 네비우스가 수요 신호 개선과 단위 경제성 강화를 통해 네오클라우드 강세론에 추가적인 낙관론을 제공했다고 평가했습니다. 2분기는 매출 기준으로는 소폭 상회에 그쳤으나 EBITDA는 기대치를 크게 웃돌았습니다. 수주 측면에서는 총계약금액(TCV) 10억 달러 이상 규모의 대형 AI 클라우드 계약 4건을 체결했으며, MW당 연간계약금액(ACV)은 2,000만~2,500만 달러, 캐펙스의 50~60%가 선수금으로 커버되고 회수 기간은 2년 미만입니다. 단기 계약 물량은 더 높은 수준에서 소화되고 있어 경영진은 MW당 4,000만~5,000만 달러 가격과 기존 블랙웰 가격을 상회하는 경매 결과를 언급했습니다. Citi는 FY26 가이던스를 유지한 것이 신중한 판단이며, 바인랜드 관련 일부 지연을 다른 지역의 강한 가격과 캐파 실행력으로 상쇄한 균형적 조치로 보고 주가가 큰 폭으로 상승할 것으로 전망했습니다.\n2분기 실적을 보면 매출은 5억 8,200만 달러로 전년 대비 454% 증가하며 컨센서스 5억 7,800만 달러를 상회했고, 기말 ARR은 30억 달러를 넘어서며 전년 대비 598% 증가해 컨센서스 약 28억 달러와 Citi의 다소 낙관적이었던 29억 달러 전망을 모두 웃돌았습니다. 상회 요인은 코히어, 리플렉션 AI, 익명의 미국 AI 연구소, 익명의 미국 퀀트 트레이딩 기업 등 TCV 10억 달러 이상의 대형 AI 클라우드 계약 4건과 2분기 3배 이상 증가한 토큰 팩토리 추론 워크로드였습니다. 체결된 계약의 약 70%에 고객 선수금이 포함됐습니다. 캐펙스는 데이터센터 확장에 힘입어 57억 달러로 예상치 약 47억 달러를 크게 상회했습니다. 경영진은 2026년 말 계약 전력 목표를 4GW 이상에서 5GW 이상으로 상향했는데, 이는 수요 가시성에 대한 명확한 긍정 신호이자 최근 미국 데이터센터 지연의 영향이 제한적임을 시사합니다. 파이프라인 창출도 사상 최대를 기록해 전분기 대비 4배 증가했고, 평균 수익률은 MW당 2,000만 달러 이상이었으며 최근에는 MW당 4,000만~5,000만 달러에 달하는 계약도 체결했다고 밝혔습니다.\nFY26 가이던스는 전 항목이 유지됐습니다. 매출 30억~34억 달러, 기말 ARR 70억~90억 달러, 조정 EBITDA 마진 약 40%, 캐펙스 200억~250억 달러이며, 경영진은 하반기 캐파 배치 가속에 대한 자신감을 재확인했습니다.\n세부 실적 지표로는 매출총이익이 4억 7,900만 달러(마진 82.2%)로 컨센서스 3억 8,900만 달러를 크게 상회했고, 영업이익은 마이너스 1억 7,600만 달러, 순손실은 3,300만 달러로 컨센서스 2억 달러 손실 대비 크게 개선됐습니다. 영업현금흐름은 22억 4,600만 달러로 컨센서스 11억 300만 달러를 큰 폭으로 상회했습니다. EPS 전망은 2026년 마이너스 0.97달러, 2027년 0.54달러, 2028년 3.29달러로 유지됐으며, 이는 각각 마이너스 2.05달러, 마이너스 2.52달러, 마이너스 0.99달러인 시장 컨센서스와 큰 격차를 보입니다.\n시사점으로 Citi는 네비우스 실적과 전날 코어위브 실적이 네오클라우드 강세론에 필요했던 힘을 실어줬다고 평가했습니다. 데이터센터 이슈가 완전히 해소된 것은 아니지만 두 회사 모두 캐파 증설 개선과 단위 경제성 향상을 통해 강한 실행력을 보여주고 있으며, 이는 향후 연도 추정치 상향과 멀티플 확장으로 이어질 가능성이 크다고 봤습니다.\n밸류에이션은 FY29까지의 매출 성장과 수익성을 투영해 산출했으며, 소프트웨어 유니버스 전반의 거래 멀티플과 성장성·수익성에 대한 회귀분석에 기반합니다. 향후 구축에 따른 재무 레버리지를 반영해 회귀분석이 시사하는 멀티플에 67%의 할인을 적용했고, 목표주가 278달러는 FY27E 기준 EV/매출 약 8배를 의미합니다.\n리스크 측면에서는 제한적인 거래 이력, 멀티기가와트급 AI 데이터센터 확장의 자본집약적 성격, AI 관련 헤드라인 변동성, 소수 대형 하이퍼스케일러 고객에 대한 높은 익스포저를 이유로 고위험 등급을 부여했습니다. 상방 리스크로는 AI 컴퓨트 수요 지속과 예상보다 빠른 GPU 배치, 토큰 팩토리와 오케스트레이션 등 고마진 서비스 채택 확대, 하이퍼스케일러 선수금 확대와 약 37억 5,000만 달러 규모 클릭하우스 지분 현금화를 통한 자본 효율 개선, GPU 가격 상승, 감가상각 기간을 5년에서 6년으로 변경하는 등 자산 수명 연장, 엔비디아의 GPU 공급 확대 등이 제시됐습니다. 하방 리스크로는 마이크로소프트와 메타가 FY26 ARR 가이던스의 약 40%를 차지하는 계약 집중 리스크, 블랙웰·루빈·베라 등 차세대 아키텍처 지연을 포함한 GPU 공급망 제약, 멀티기가와트 데이터센터 구축의 실행 리스크, 예상보다 빠른 GPU 가격 하락, EU 데이터 주권과 AI 거버넌스 등 규제·지정학 리스크, 완전한 지분 정리에도 남아있는 얀덱스 관련 투자자 우려, 하이퍼스케일러 선수금 감소나 거시 신용 여건 악화 시 발생할 자금조달 리스크가 언급됐습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-13T07:52:52+00:00"
-    },
-    {
       "id": "tg:EMchina/32337",
       "source": "telegram",
       "author": "EMchina",
@@ -346,20 +412,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-13T06:05:13+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24556",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24556",
-      "text": "Citi) 양호한 근원 CPI의 양호한 세부 내용 (2026년 8월 12일, Veronica Clark, Andrew Hollenhorst)\n7월 근원 CPI는 전월 대비 0.215% 상승해 시장 컨센서스에는 부합했으나 Citi의 0.162% 전망치는 다소 상회했습니다. 다만 월간 상승폭 자체는 전형적인 수준으로, 전년 대비 상승률은 2.478%까지 둔화됐습니다. 이는 정부 셧다운에 따른 데이터 누락으로 수치가 인위적으로 낮아졌던 2025년 11월부터 2026년 5월까지의 약 6개월을 제외하면 2021년 이후 가장 낮은 연간 상승률입니다. 헤드라인 CPI는 평균 에너지 가격이 재차 하락하며 전월 대비 0.07% 상승에 그쳤고, 전년 대비로는 3.4%로 둔화됐습니다.\n세부 항목도 전반적으로 양호했습니다. 근원 상품 가격은 0.20% 올랐는데 중고차 가격이 0.4%, 컴퓨터 가격이 3.5% 상승한 영향이 있었습니다. 의료 상품 가격은 0.6% 재차 하락했고 의류는 0.09%, 가정용 가구·비품은 0.08% 소폭 상승에 그쳤습니다. 주거 항목에서는 주거임대료와 자가주거비(OER)가 모두 0.26% 상승해 전월보다 다소 강했으며, 숙박비는 2.8% 큰 폭으로 하락했습니다. 주거를 제외한 서비스 물가는 6월 하락 이후 0.35% 상승했습니다. 자동차 보험료는 0.3% 하락한 반면 항공료는 2.2% 올랐고, 의료 서비스는 0.56% 상승, 레저 서비스는 보합, 개인 서비스는 0.16% 하락하는 등 서비스 물가는 혼조를 보였습니다.\nCiti의 견해는 월간 상승폭이 전망보다 다소 높았음에도 세부 내용은 대체로 양호해 인플레이션 경직성에 대한 우려를 자극할 만한 요소가 없다는 것입니다. CPI 데이터에서 연준의 금리 인상을 정당화할 만한 인플레이션 재가속 조짐은 전혀 확인되지 않는다고 평가했습니다. 8월 데이터에서는 근원 CPI가 2.3% 수준까지 추가 둔화되어 사실상 연준의 2% 목표에 부합하는 흐름이 이어질 것으로 전망했습니다.\n당분간 관건은 높아진 에너지 비용이 근원 물가로 얼마나 전이되는지입니다. 근원 항목 중 에너지 가격에 가장 민감한 항공료가 7월에 예상보다 강한 2.2% 상승을 기록했으나, 이르면 8월 데이터부터 연내 둔화될 것으로 보고 있습니다. 운송비에 민감할 수 있는 근원 상품 가격에서는 뚜렷한 상승 압력이 나타나지 않았으며, CPI 상품 물가의 선행 신호를 확인하기 위해 PPI 세부 항목을 계속 주시하겠다는 입장입니다. 중고차 가격은 예상보다 다소 높았지만 도매 중고차 가격이 하락 전환한 만큼 추가 상승 여력은 제한적일 것으로 봤습니다.\nCiti가 가장 중요하게 보는 항목은 주거임대료와 OER인데, 두 항목 모두 예상보다 소폭 강했음에도 주택 가격과 시장 임대료 약세가 수개월의 시차를 두고 CPI에 반영되는 점을 고려하면 향후 추가 둔화가 이어질 것으로 전망했습니다. 자동차 보험료는 최근의 큰 폭 하락세가 예상대로 진정되어 7월 0.3% 하락에 그쳤으며, 향후에도 비슷한 수준의 하락을 예상하되 보험료 인하가 남부 지역을 넘어 확산될 경우 하방 리스크가 있다고 봤습니다.\n근원 PCE와 관련해서는 7월 상승률을 CPI 발표 전 0.20%에서 0.15%로 하향해 추정하고 있으며, 이 수치는 다음날 발표될 PPI 세부 내용과 9월의 대규모 PCE 하향 수정으로 다시 변경될 가능성이 크다고 밝혔습니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/lBXnLIJiBfsUJ6_AFwqhkRiLBcX8oP80iA2UHkr2UdgPp0lQm4DxKV7Ht3EREBw4TmwBhQY_L2hqvEH1dXerpM92WzCkZgBIZ9VbTSwSkHgVQGV8FRn4zpMavdQr_cB1AG6iQC1JaaqDX6WLJqrub2SbqU67QCz_v4ADBbBGhCvc-0whuYXNZ4sdJSHjfh3MnqIAoam4MIG4Fh7tjyuqokT77OjqDBGUXrjFx-2Sns62ifVnWu_UUB457oQtRix9oWWnQGnZEAOJpPk0ByKSnnjkQd1Vh1aqEu6CqxNLk9lYMZPPbiuVwdnWPPfr7r6ghMUVdQrD5XPg7QXE9tRdcg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-13T05:50:29+00:00"
     },
     {
       "id": "x:ylecun:2087778305407959178",
@@ -476,21 +528,6 @@
       "published_at": "2026-08-13T03:56:19+00:00"
     },
     {
-      "id": "tg:EMchina/32330",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32330",
-      "text": "오늘 중국은 본토/홍콩 모두 바이오 강세",
-      "images": [
-        "https://cdn5.telesco.pe/file/PrlU6hZENhz80UTG3gEdoPpl_vbTpTQDRxzo72KnmhY5x9aUxH6AoLOQH3VxKLWZU1ugDuwiLInAggl2owqGXuyIKxXA1-jDnMv8xb2SNctoBY1XSRysk2O-8NzdO2rpQsST-HPDXXfOQP3m6JV-H5KsBlDiziIsXvzCEVRkUP68IfG4Jw8AJiYLSl4XZJTBd2gvMmBZZLnzrYNK3IpVMaGI1prSjA6DHap2Q7kIdtxGfKpw7xFvwl6pTHm9jwWYdfQpMBhP6wBZ__7AhXJqOrIEWr-KUlXUXB7l1L7htHndkyclUS5f-zzprPzekP7_u686Ww_bb4en5FTX19EZww.jpg",
-        "https://cdn5.telesco.pe/file/UUevw2a7tRQ0PGuoji_M-nAFsAF_AKLx9W93G0XmniQ2K5s9aNBSeKNS6gblR8ilqy7_PGMuYfWYQDj8T605MSlWl-Vu6vgzLj75okdzM59AO5gPkXLqBIe9HWHqLnQBNzsjSjG1-cTSqFlpdTbuB9bdZZ-NMjwHp2thEVXTFDD2a7hmg7BTpzVPZoqF2Y2_7od2d3ONslMPhyk0wzBGYy2ougIim8ZxB1vgpiVuKXwly7lJqd_Vysevbl8-67DUqcbKcbA8BFzdzBP71ErNjWenc4jNk0xbgXH-d1J1d7_0GlODScNG8ZnkZ7Qw-UF4KRd_igHeQN0gkFYfzJYDJA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-13T03:56:02+00:00"
-    },
-    {
       "id": "tg:enc210406/4316",
       "source": "telegram",
       "author": "enc210406",
@@ -577,44 +614,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-13T01:45:29+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21097",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21097",
-      "text": "🔹\n회사채 시장 내에서 테크 기업들의 비중이 증가: AI 관련주의 금리 민감도↑\n» AI 인프라 투자 확대가 주식시장뿐 아니라 회사채 시장의 구조까지 변화시키는 모습\n» 과거 투자등급 회사채 시장의 최대 발행사는 JPMorgan, Bank of America, Morgan Stanley, Goldman Sachs 등 대형 금융IB 중심이었으나, 최근 빅테크 기업들이 대규모 자금 조달에 나서면서 상위권으로 빠르게 진입\n» Amazon은 회사채 잔액 1,210억달러로 투자등급 채권 지수 내 5위 발행사에 올라 전체 지수의 1.2%를 차지. Oracle이 회사채 잔액 1,170억달러로 6위에 위치하며 전체 지수의 1.2%를 차지\n» AI 데이터센터와 컴퓨팅 인프라 구축에 수천억달러 규모의 투자가 필요해지면서 테크기업들이 자체 현금흐름뿐 아니라 회사채 발행을 적극적인 자금조달 수단으로 활용하는 흐름\n» 결국 AI 투자 사이클은 빅테크의 성장률과 밸류에이션을 통해 주식시장의 구조를 변화시키는 데 그치지 않고, 대규모 채권 발행을 통해 회사채 시장의 발행 주체 및 수급 구조 변화 요인으로까지 작용. 향후 AI CapEx 확대가 지속될 경우 회사채 시장에서 IT기업의 비중이 더욱 높아지면서 섹터별 채권 수급과 신용 스프레드에도 영향을 미칠 가능성\n» Hyperscalers들을 중심으로 현금흐름이 약화되면서 자금조달 수요가 증가하는 흐름은 금융시장 전반의 유동성 환경과 연결. 금리상승은 기존의 투자 확대 속도와 하위 기업들의 자금조달 계획에 영향. 시장금리와 반도체 및 AI 관련주의 민감도가 더욱 높아지는 시점",
-      "images": [
-        "https://cdn5.telesco.pe/file/vlygbWBDLf0c6brVFZ8WHPR-q_LU73Tz1ztV3YtjqK1wwiKsFcgUSC4fkJ-HavOUU23DbpBrgncDByfBE9Fbg8ZDbHaQ2r2oFM9KiXKCuMDSJ3IhQpf72Cv4GMNqelI_P44NPrlob4l0cimvyYXY1WbaxogA9y-_zgDE05_EDK6-sbttg2kQh7KQuSeYi7IRyhASsHTPUWdF1BVy_tJ_dG4nQc1Wwn9o7OxVAYjEzzxKIE9hoBUuRGPGwdzKtjSjD_x7meFPZGcY98h4Vnxa246zXXNeXfUjjagB6iIW5PZzKxoABIVmcd2w3dAkHk3JKUHiLaNLW39ccLaAoUxRQA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-13T01:31:50+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21096",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21096",
-      "text": "» 한국은행, 2분기에 금 현물 ETF인 GLD를 68만주 가량 매수\n한은 \"금 ETF 3천500억원어치 보유\"…13년 만의 금 투자\n- 美 SEC 공시 통해 밝혀…국내 수출용 금 매입과 병행\nhttps://n.news.naver.com/mnews/article/001/0016248486?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-13T00:36:04+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21095",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21095",
-      "text": "» 독일에서 진행된 미 육군의 대규모 지상전 훈련 ‘Combined Resolve’에서 미군과 우크라이나 드론 부대가 맞붙은 결과, 우크라이나 측이 미군 병력과 장갑차를 빠르게 탐지•격파하며 압도적인 우위 기록\n» 미군은 표준 전자전(EW) 및 대드론 시스템을 갖추고 있었음에도 우크라이나 드론 공격을 효과적으로 방어하지 못했으며, 미 관계자들에 따르면 사실상 미 기갑여단 전체가 격파 판정. 우크라이나 측의 격파 속도가 지나치게 빨라 훈련 지속을 위해 이미 격파 판정을 받은 미군 차량을 다시 투입하는 이른바 ‘리스폰(re-spawn)’까지 실시\n» 단순한 드론 수요 증가보다 ‘저가•대량 드론 + Counter-UAS + 전자전(EW) + 센서•통신망’의 통합 수요 확대에 주목할 필요. 전차•장갑차 등 기존 고가 플랫폼이 사라지기보다 이들을 보호하기 위한 탐지•재밍•요격 시스템 투자가 동시에 확대되면서 글로벌 방산 지출의 구성 자체가 변화할 가능성\n» 상기 관점에서 살펴본다면 전통적인 대형 방산 플랫폼 뿐만 아니라 방산 기술주 포트폴리오에 대한 관심 연결 필요. AeroVironment(AVAV), Kratos Defense & Security Solutions(KTOS), RTX(RTX) 등의 기업들과 방산테크 ETF인 SHLD와 연결되는 투자 아이디어\nU.S. and Ukrainian Forces Went Head-to-Head in an Exercise. Ukraine’s Drones Won.\nhttps://www.wsj.com/politics/national-security/u-s-and-ukrainian-forces-went-head-to-head-in-an-exercise-ukraines-drones-won-cc3663d5?st=k1Ds3a",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-13T00:16:24+00:00"
     },
     {
       "id": "tg:HI_GS/6892",
@@ -1706,20 +1705,6 @@
       "published_at": "2026-08-06T15:59:54+00:00"
     },
     {
-      "id": "x:GoogleDeepMind:2085395442347524506",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2085395442347524506",
-      "text": "Predicting cyclones accurately can help save lives - and every hour of lead time counts. Published in @Nature, our AI model WeatherNext achieves state-of-the-art accuracy in forecasting a storm’s track and intensity, giving us a critical extra 24 hours to prepare on average. 🧵",
-      "images": [
-        "https://pbs.twimg.com/media/HPDPoMdXEAAPAl_.jpg"
-      ],
-      "summary_ko": "사이클론을 정확하게 예측하면 생명을 구하는 데 도움이 될 수 있으며 리드 타임의 매 시간이 중요합니다. @Nature에 게시된 AI 모델 WeatherNext는 폭풍의 경로와 강도를 예측하는 데 있어 최첨단 정확도를 달성하여 평균적으로 대비할 수 있는 중요한 추가 시간을 24시간 제공합니다. 🧵",
-      "published_at": "2026-08-06T15:59:52+00:00"
-    },
-    {
       "id": "x:demishassabis:2085395442347524506",
       "source": "x",
       "author": "demishassabis",
@@ -1731,6 +1716,20 @@
         "https://pbs.twimg.com/media/HPDPoMdXEAAPAl_.jpg"
       ],
       "summary_ko": "@demishassabis의 RT: 사이클론을 정확하게 예측하면 생명을 구하는 데 도움이 될 수 있으며 리드 타임의 매 시간이 중요합니다. @Nature에 게시된 AI 모델 WeatherNext는 폭풍의 경로와 강도를 예측하는 데 있어 최첨단 정확도를 달성하여 평균적으로 대비할 수 있는 중요한 추가 시간을 24시간 제공합니다. 🧵",
+      "published_at": "2026-08-06T15:59:52+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2085395442347524506",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2085395442347524506",
+      "text": "Predicting cyclones accurately can help save lives - and every hour of lead time counts. Published in @Nature, our AI model WeatherNext achieves state-of-the-art accuracy in forecasting a storm’s track and intensity, giving us a critical extra 24 hours to prepare on average. 🧵",
+      "images": [
+        "https://pbs.twimg.com/media/HPDPoMdXEAAPAl_.jpg"
+      ],
+      "summary_ko": "사이클론을 정확하게 예측하면 생명을 구하는 데 도움이 될 수 있으며 리드 타임의 매 시간이 중요합니다. @Nature에 게시된 AI 모델 WeatherNext는 폭풍의 경로와 강도를 예측하는 데 있어 최첨단 정확도를 달성하여 평균적으로 대비할 수 있는 중요한 추가 시간을 24시간 제공합니다. 🧵",
       "published_at": "2026-08-06T15:59:52+00:00"
     },
     {
@@ -1927,20 +1926,6 @@
       "published_at": "2026-07-30T19:00:52+00:00"
     },
     {
-      "id": "x:GoogleAI:2082902334984609936",
-      "source": "x",
-      "author": "GoogleAI",
-      "author_name": "Google AI(구글 AI)",
-      "author_url": "https://x.com/GoogleAI",
-      "url": "https://x.com/GoogleAI/status/2082902334984609936",
-      "text": "What if you could see a city as it looked 100 years ago, or visualize a new basketball court at your local community center? Starting today, we're bringing our latest image generation capabilities to @GoogleEarth on the web. Powered by Nano Banana 2, you can combine rich satellite and 3D imagery with text prompts to reimagine your favorite place around the globe. Just zoom in, tap “create image,” and type whatever you want to see! Available now for everyone to start creating: http://goo.gle/4fNJGyt",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2082902124187262977/img/H36suhVKpKLir-WV.jpg"
-      ],
-      "summary_ko": "100년 전 도시의 모습을 볼 수 있거나 지역 커뮤니티 센터의 새로운 농구 코트를 시각화할 수 있다면 어떨까요? 오늘부터 웹의 @GoogleEarth에 최신 이미지 생성 기능을 제공합니다. Nano Banana 2로 구동되는 풍부한 위성 및 3D 이미지를 텍스트 프롬프트와 결합하여 전 세계에서 가장 좋아하는 장소를 재구성할 수 있습니다. 확대하고 '이미지 만들기'를 탭한 후 보고 싶은 내용을 입력하세요! 이제 누구나 창작을 시작할 수 있습니다. http://goo.gle/4fNJGyt",
-      "published_at": "2026-07-30T18:53:09+00:00"
-    },
-    {
       "id": "x:demishassabis:2082902334984609936",
       "source": "x",
       "author": "demishassabis",
@@ -1952,6 +1937,20 @@
         "https://pbs.twimg.com/amplify_video_thumb/2082902124187262977/img/H36suhVKpKLir-WV.jpg"
       ],
       "summary_ko": "@demishassabis의 RT: 100년 전의 도시를 볼 수 있거나 지역 커뮤니티 센터에 새로운 농구 코트를 시각화할 수 있다면 어떨까요? 오늘부터 웹의 @GoogleEarth에 최신 이미지 생성 기능을 제공합니다. Nano Banana 2로 구동되는 풍부한 위성 및 3D 이미지를 텍스트 프롬프트와 결합하여 전 세계에서 가장 좋아하는 장소를 재구성할 수 있습니다. 확대하고 '이미지 만들기'를 탭한 후 보고 싶은 내용을 입력하세요! 이제 누구나 창작을 시작할 수 있습니다. http://goo.gle/4fNJGyt",
+      "published_at": "2026-07-30T18:53:09+00:00"
+    },
+    {
+      "id": "x:GoogleAI:2082902334984609936",
+      "source": "x",
+      "author": "GoogleAI",
+      "author_name": "Google AI(구글 AI)",
+      "author_url": "https://x.com/GoogleAI",
+      "url": "https://x.com/GoogleAI/status/2082902334984609936",
+      "text": "What if you could see a city as it looked 100 years ago, or visualize a new basketball court at your local community center? Starting today, we're bringing our latest image generation capabilities to @GoogleEarth on the web. Powered by Nano Banana 2, you can combine rich satellite and 3D imagery with text prompts to reimagine your favorite place around the globe. Just zoom in, tap “create image,” and type whatever you want to see! Available now for everyone to start creating: http://goo.gle/4fNJGyt",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2082902124187262977/img/H36suhVKpKLir-WV.jpg"
+      ],
+      "summary_ko": "100년 전 도시의 모습을 볼 수 있거나 지역 커뮤니티 센터의 새로운 농구 코트를 시각화할 수 있다면 어떨까요? 오늘부터 웹의 @GoogleEarth에 최신 이미지 생성 기능을 제공합니다. Nano Banana 2로 구동되는 풍부한 위성 및 3D 이미지를 텍스트 프롬프트와 결합하여 전 세계에서 가장 좋아하는 장소를 재구성할 수 있습니다. 확대하고 '이미지 만들기'를 탭한 후 보고 싶은 내용을 입력하세요! 이제 누구나 창작을 시작할 수 있습니다. http://goo.gle/4fNJGyt",
       "published_at": "2026-07-30T18:53:09+00:00"
     },
     {
