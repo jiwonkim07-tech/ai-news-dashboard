@@ -1,22 +1,96 @@
 {
-  "updated_at": "2026-08-13T06:16:24+00:00",
+  "updated_at": "2026-08-13T08:20:43+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 12
+    "new_this_run": 6
   },
   "briefing": {
-    "headline": "엔비디아, 아폴로/블랙스톤/GIP/브룩필드/골드만삭스/KKR 등과 AI 인프라 투자 위한 컨소시엄 구성",
+    "headline": "젠슨 황, 엔비디아 CEO",
     "bullets": [
-      "버크셔해서웨이, 워런 버핏 후임 그레그 아벨",
-      "Roundhill, 미국에서 ‘삼성그룹주 ETF’ 상장 승인 심사 신청",
-      "엔비디아 CEO 젠슨 황",
-      "네이버, 美 판탈라사에 '바다 위 AI 데이터센터' 투자",
-      "HD현대 파트너, 美 국방부 소형 무인수상정 프로젝트 승인"
+      "엔비디아, AI 인프라 투자 위한 컨소시엄 구성",
+      "Anthropic, AI 스타트업 Decart AI 인수 협상 중",
+      "네비우스, 상업적 모멘텀 데이터센터 구축 우려 앞지름",
+      "한국은행, 금 현물 ETF인 GLD 매수",
+      "현대로템·KAI, KF-21·장거리 미사일 수출 추진"
     ],
-    "generated_at": "2026-08-13T06:16:24+00:00",
+    "generated_at": "2026-08-13T08:20:43+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:globaletfi/21107",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21107",
+      "text": "◈하나증권 해외주식분석◈\n선진국 기업분석 강재구(T.02-3771-3386)\n*텔레그램 채널:\nhttps://t.me/hana_us_stock\n★ [미국 이슈 코멘트] AI 컴퓨팅의 금융화: 엔비디아 리스크 완화 요인\n▶\n자료:\nhttps://buly.kr/1RGyGnA\n- 외부 자본이 AI 인프라의 위험을 분산. 엔비디아는 직접 자금 부담을 낮추며 성장 수혜\n- 1. 외부 자본 유입으로 엔비디아 생태계 확장 부담 완화\n- 2. GPU 임대가격 위험도 금융시장으로 분산\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-13T08:12:52+00:00"
+    },
+    {
+      "id": "tg:EMchina/32338",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32338",
+      "text": "미중은 안 친해집니다\n========================\n~ NDB는 중국·러시아·인도·남아프리카공화국·브라질 등 브릭스 주요국이 회원국 및 신흥 개발도상국 개발을 지원하기 위해 2015년 설립한 국제 금융기구다. 이후 방글라데시·아랍에미리트(UAE)·이집트·알제리·우즈베키스탄 5개국이 추가 가입했고, 우루과이·콜롬비아·에티오피아·앙골라·짐바브웨 5개국은 이사회 가입 승인까지 받은 상태다\n~ 이란은 2024년 브릭스 회원국이 됐으나 아직 NDB 가입 절차를 밟지는 않았다\n~ 헤마티 총재는 오는 9월 인도에서 열리는 브릭스 정상회의에 대해 \"이란이 통화 및 은행 거래를 가장 많이 하고 있는 회원국 당국자들을 만날 수 있는 가장 중요한 기회\"라고 강조했다\n~ 그러면서 \"우리는 브릭스 회원국들이 각자 자국 통화를 이용해 상호 무역을 할 수 있다고 믿는다\"며 \"테헤란은 브릭스 회원국들과 양자 및 3자간 통화 협력을 추진하고 있다\"고 말했다\nhttps://n.news.naver.com/article/003/0014124015?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-13T07:59:48+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24557",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24557",
+      "text": "Citi) 네비우스 (NBIS.O): 상업적 모멘텀이 데이터센터 구축 우려를 앞지르다. TP $278 (8월 12일)\n투자의견은 매수(고위험)이며 목표주가는 278달러입니다. 8월 11일 종가 193.23달러 대비 43.9%의 상승 여력을 의미하며, 시가총액은 약 490억 6,100만 달러입니다.\nCiti는 코어위브의 호실적에 이어 네비우스가 수요 신호 개선과 단위 경제성 강화를 통해 네오클라우드 강세론에 추가적인 낙관론을 제공했다고 평가했습니다. 2분기는 매출 기준으로는 소폭 상회에 그쳤으나 EBITDA는 기대치를 크게 웃돌았습니다. 수주 측면에서는 총계약금액(TCV) 10억 달러 이상 규모의 대형 AI 클라우드 계약 4건을 체결했으며, MW당 연간계약금액(ACV)은 2,000만~2,500만 달러, 캐펙스의 50~60%가 선수금으로 커버되고 회수 기간은 2년 미만입니다. 단기 계약 물량은 더 높은 수준에서 소화되고 있어 경영진은 MW당 4,000만~5,000만 달러 가격과 기존 블랙웰 가격을 상회하는 경매 결과를 언급했습니다. Citi는 FY26 가이던스를 유지한 것이 신중한 판단이며, 바인랜드 관련 일부 지연을 다른 지역의 강한 가격과 캐파 실행력으로 상쇄한 균형적 조치로 보고 주가가 큰 폭으로 상승할 것으로 전망했습니다.\n2분기 실적을 보면 매출은 5억 8,200만 달러로 전년 대비 454% 증가하며 컨센서스 5억 7,800만 달러를 상회했고, 기말 ARR은 30억 달러를 넘어서며 전년 대비 598% 증가해 컨센서스 약 28억 달러와 Citi의 다소 낙관적이었던 29억 달러 전망을 모두 웃돌았습니다. 상회 요인은 코히어, 리플렉션 AI, 익명의 미국 AI 연구소, 익명의 미국 퀀트 트레이딩 기업 등 TCV 10억 달러 이상의 대형 AI 클라우드 계약 4건과 2분기 3배 이상 증가한 토큰 팩토리 추론 워크로드였습니다. 체결된 계약의 약 70%에 고객 선수금이 포함됐습니다. 캐펙스는 데이터센터 확장에 힘입어 57억 달러로 예상치 약 47억 달러를 크게 상회했습니다. 경영진은 2026년 말 계약 전력 목표를 4GW 이상에서 5GW 이상으로 상향했는데, 이는 수요 가시성에 대한 명확한 긍정 신호이자 최근 미국 데이터센터 지연의 영향이 제한적임을 시사합니다. 파이프라인 창출도 사상 최대를 기록해 전분기 대비 4배 증가했고, 평균 수익률은 MW당 2,000만 달러 이상이었으며 최근에는 MW당 4,000만~5,000만 달러에 달하는 계약도 체결했다고 밝혔습니다.\nFY26 가이던스는 전 항목이 유지됐습니다. 매출 30억~34억 달러, 기말 ARR 70억~90억 달러, 조정 EBITDA 마진 약 40%, 캐펙스 200억~250억 달러이며, 경영진은 하반기 캐파 배치 가속에 대한 자신감을 재확인했습니다.\n세부 실적 지표로는 매출총이익이 4억 7,900만 달러(마진 82.2%)로 컨센서스 3억 8,900만 달러를 크게 상회했고, 영업이익은 마이너스 1억 7,600만 달러, 순손실은 3,300만 달러로 컨센서스 2억 달러 손실 대비 크게 개선됐습니다. 영업현금흐름은 22억 4,600만 달러로 컨센서스 11억 300만 달러를 큰 폭으로 상회했습니다. EPS 전망은 2026년 마이너스 0.97달러, 2027년 0.54달러, 2028년 3.29달러로 유지됐으며, 이는 각각 마이너스 2.05달러, 마이너스 2.52달러, 마이너스 0.99달러인 시장 컨센서스와 큰 격차를 보입니다.\n시사점으로 Citi는 네비우스 실적과 전날 코어위브 실적이 네오클라우드 강세론에 필요했던 힘을 실어줬다고 평가했습니다. 데이터센터 이슈가 완전히 해소된 것은 아니지만 두 회사 모두 캐파 증설 개선과 단위 경제성 향상을 통해 강한 실행력을 보여주고 있으며, 이는 향후 연도 추정치 상향과 멀티플 확장으로 이어질 가능성이 크다고 봤습니다.\n밸류에이션은 FY29까지의 매출 성장과 수익성을 투영해 산출했으며, 소프트웨어 유니버스 전반의 거래 멀티플과 성장성·수익성에 대한 회귀분석에 기반합니다. 향후 구축에 따른 재무 레버리지를 반영해 회귀분석이 시사하는 멀티플에 67%의 할인을 적용했고, 목표주가 278달러는 FY27E 기준 EV/매출 약 8배를 의미합니다.\n리스크 측면에서는 제한적인 거래 이력, 멀티기가와트급 AI 데이터센터 확장의 자본집약적 성격, AI 관련 헤드라인 변동성, 소수 대형 하이퍼스케일러 고객에 대한 높은 익스포저를 이유로 고위험 등급을 부여했습니다. 상방 리스크로는 AI 컴퓨트 수요 지속과 예상보다 빠른 GPU 배치, 토큰 팩토리와 오케스트레이션 등 고마진 서비스 채택 확대, 하이퍼스케일러 선수금 확대와 약 37억 5,000만 달러 규모 클릭하우스 지분 현금화를 통한 자본 효율 개선, GPU 가격 상승, 감가상각 기간을 5년에서 6년으로 변경하는 등 자산 수명 연장, 엔비디아의 GPU 공급 확대 등이 제시됐습니다. 하방 리스크로는 마이크로소프트와 메타가 FY26 ARR 가이던스의 약 40%를 차지하는 계약 집중 리스크, 블랙웰·루빈·베라 등 차세대 아키텍처 지연을 포함한 GPU 공급망 제약, 멀티기가와트 데이터센터 구축의 실행 리스크, 예상보다 빠른 GPU 가격 하락, EU 데이터 주권과 AI 거버넌스 등 규제·지정학 리스크, 완전한 지분 정리에도 남아있는 얀덱스 관련 투자자 우려, 하이퍼스케일러 선수금 감소나 거시 신용 여건 악화 시 발생할 자금조달 리스크가 언급됐습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-13T07:52:52+00:00"
+    },
+    {
+      "id": "tg:EMchina/32337",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32337",
+      "text": "젠슨황 5000억달러 베팅의 핵심: 반도체칩이 테크 제품 감가상각 철칙  뒤집을 수 있을까  • 이번 베팅은 AI칩 리스 채권 증권화 &  새로운 금융자산 창출. 핵심 논리는 AI 열풍에 힘입어 움직이는 칩 수요로 가격이 더 오랜 기간 높은 수준으로 유지될 것이라는 점  • 젠슨황은 A100에 대해 25%의 잔존가치 보증 약속. 근본적인 위험은 반도체칩 기술 진화와 불확실한 수요로 테크 제품의 빠른 감가상각이라는 철칙 깨뜨릴 수 있을지 여부  黄仁勋50…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-13T07:51:47+00:00"
+    },
+    {
+      "id": "tg:EMchina/32336",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32336",
+      "text": "앤트로픽 9월말 - 10월초 상장 타겟  =========================  https://n.news.naver.com/article/008/0005398423?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-13T07:22:13+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21106",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21106",
+      "text": "» 서학개미들의 8월 거래금액 상위 TOP20 종목들(8/12 기준, 억달러)\n» 여전히 압도적인 거래대금을 기록 중인 반도체 3배 레버리지 ETF SOXL. 반도체 3배 인버스 ETF인 SOXS는 14위에 자리\n» 이외에도 한국증시 3배 레버리지 ETF인 KORU, NASDAQ100 3배 레버리지 ETF TQQQ가 상위 20개 종목에 포함\n» SOXS를 제외한 세 종목은 매수금액 대비 매도금액이 더 큰 모습. 시장 상승 과정에서 포지션 정리 및 하락 베팅 수요 증가 추정",
+      "images": [
+        "https://cdn5.telesco.pe/file/PVfYJSisqahmqbhRn_BFOkxBwpnlcb01ppcPV-dFgENUQY9zID1tssTHXcSg55CSEMy9SPE0ResebM3aK9DHnHB0SWrQJVswdD4gKh8xbP9ELGDaXLl8uzYzlv7fnToCsXRicwfJHGlsoqlOSBGDSCOzlMv2o-2jDBp748BBKGiVV-C0fkMHwpMjk3hLnLQLRTcCJnc-4smsTn8Odb5wfR2upA00cds8URbCLsEe0x5wWhmySnPahDNcrrzX0-JTDDnWnzEGhtIEeKBhyefGZr02eo--F0cEaKn_1cIEIzuQ-BshFCieQwHoRdKqtR8ZCJmGBAQ-55kkufVo1TDyIA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-13T06:26:56+00:00"
+    },
     {
       "id": "tg:EMchina/32335",
       "source": "telegram",
@@ -388,20 +462,6 @@
       "published_at": "2026-08-13T00:33:39+00:00"
     },
     {
-      "id": "tg:EMchina/32325",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32325",
-      "text": "공포? 공포가 어디?\n• 밤새 미국 시장의 VIX는 14pt로 하락. 기본적으로 올해 들어 가장 낮은 수준\n• 골드만삭스 Ece Kepekci: \"시장은 높은 불안에서 거의 공포가 없는 수준으로 전환. 여름 분위기와 해변 레저가 지금의 주제\"\n”恐慌“？哪有”恐慌”？\n隔夜，美股“恐慌指数”VIX跌至 14 点——基本上是今年以来的最低点；\n高盛的Ece Kepekci对此总结得很好：\n“市场已经从高度焦虑转变为几乎没有恐慌……我想，夏日氛围和海滩休闲是当前的主题。”\nhttps://wallstreetcn.com/charts/41959578",
-      "images": [
-        "https://cdn5.telesco.pe/file/ZFO0BDpPle3oa8ZFqui-zzR4kVRSI8pfLsVn71ObJGXXjFaGT_sSvH01GCQa2xE194hMkrybbV2xwQCNLXZx9F2528gUj-YkOYWgApyzRwu5JFLQ8eHCRg6bap9QFWWZJAxT69PHuECvcSZy0wTEZxn1yWTGOZRd9xtsi6jeP84Ga1AIXMjERMKJiUmDajmdCQbx99OPOWOoxWyjvjIAYQx4jRjWYFhLGyQcrb-Mxz2joCgKA0Ng36p-NXiZFJtaWEE4N_sM6N2JVCGb7F8zgu5Jq_wFGi0y6WQt__6xoh7bLGFiws1U71l7Csp1n1pXwndE28jQLI4FMM-sc_T24Q.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-13T00:27:47+00:00"
-    },
-    {
       "id": "tg:globaletfi/21095",
       "source": "telegram",
       "author": "globaletfi",
@@ -500,18 +560,6 @@
       "published_at": "2026-08-12T23:29:32+00:00"
     },
     {
-      "id": "tg:EMchina/32324",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32324",
-      "text": "[한투증권 미국/중국전략 정정영]   • 바뀐 것과 바뀌지 않은 것   >>  미국주식 전략 자료를 작성했습니다. AI의 장기적/구조적 성장 모멘텀에는 변함이 없을 것이나 그 외 분야에서는 변수가 늘어나고 있습니다. 트럼프 행정부가 더 극단적인 시나리오를 이끌어 갈 가능성은 제한적인 것으로 판단하는 가운데, 시장 색깔 전환에 준비해야 한다고 생각합니다. 그동안의 쏠림은 완화될 것으로 전망하며 경기민감주를 주목합니다.   ========================…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-12T23:21:40+00:00"
-    },
-    {
       "id": "tg:bornlupin/19698",
       "source": "telegram",
       "author": "bornlupin",
@@ -548,47 +596,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-12T23:06:12+00:00"
-    },
-    {
-      "id": "tg:EMchina/32323",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32323",
-      "text": "[한투증권 중국/신흥국 정정영]  • 8월: 방향 전환에서 가속화로  >>  8월 월보를 작성했습니다. 전세계 하드웨어 테크 주식이 큰 변동성을 보인 가운데, 중국도 관련 업종 중심으로 조정이 컸습니다. 중국은 주식시장 하방 압력에 대응해 국가대표 자금을 투입하며 부양 의지를 드러냈고, 동시에 7월 정치국회의를 통해 하반기 거시정책 강화를 시사했습니다. 연초 이후 약해진 경제 회복 탄력을 끌어올릴 의지를 보여준 중국 정부는 상반기 상대적으로 보수적이었던…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-12T23:05:42+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21093",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21093",
-      "text": "» 9월 FOMC의 금리동결 가능성이 현재 59.9% 수준까지 상승 [CME FedWatch]\n» 예상치에 부합한 7월 CPI 확인 과정에서 9월 동결 전망이 상승. 오늘 밤에는 7월 PPI가 발표될 예정\n» 9월 FOMC는 9월 15일~16일에 진행. 한국시간으로는 17일 새벽에 결과 확인 가능",
-      "images": [
-        "https://cdn5.telesco.pe/file/jgZW62KEEEDFGDheoUya0eX6Q3SEm7pvcfhr_gP0ePd9kkc2nFI3lDt2YcBpJtIIhBRwcaSJsjurWHaW1BCHosdSoS1dHgEDe13ibGmyEHBgv5vHoyx6e80B_uF5rxDSetP0JlVwQUXlpS6aeUePryw73UFU39rXPqU4T-FxeEW6AyiAUGCL7pLrC1NU3818rJEs1H6rAusPnEX_A8Koq1hS2Iw2MtJsO0w_gope-zEtR-Q-jphSYfF5VGIWPeQUZdiECLqHXRYuqVGpR6Etzu-4K96vJyFHg7vcP089xV9ooVmdct28htPGwS0rfeMmtjnafyaIlvcx3TVMbePK7w.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-12T22:59:20+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21091",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21091",
-      "text": "[하나 Global ETF Daily (8/13)]\n▶️\n하나 Global ETF 박승진(T.3771-7761)\n▶️\nRA 신민건(T.3771-3269)\n▶️\n텔레그램:\nhttps://t.me/globaletfi\n🔹\n주요 ETF Daily 수익률\n(2026.8.12 종가 기준)\n» 주요 시장 ETF\nSPY 0.25%\nQQQ 0.73%\nDIA -0.02%\nIWM 0.57%\n» 주요 국채 ETF\nIEF 0.10%\nSHY 0.06%\nTLT -0.10%\n» 주요 섹터/테마 ETF\n양자컴퓨팅(QTUM) 2.52%\n반도체(SMH) 2.08%\n마리화나(MJ) 1.70%\n🔹\nETF News\n[Yahoo Finance] 제약 대형(PPH) vs 바이오테크 성장주(PBE): 성향별 맞춤 헬스케어 ETF 비교\n-\nhttps://buly.kr/HSZvOPL\n- 헬스케어 섹터 내 VanEck Pharmaceutical ETF(PPH)와 Invesco Biotechnology & Genome ETF(PBE)는 대형 제약주 중심의 안정형과 바이오테크 모멘텀 중심의 성장형이라는 서로 다른 투자 전략을 제공\n- PPH는 운용 보수 0.36%, 순자산 9억 7,940만 달러 규모로 Eli Lilly & Co(20.17%), Novartis AG(10.32%) 등 대형 제약사 27개 종목에 집중 투자\n- 최근 1년 총수익률 39.0%, 배당 수익률 1.9%를 기록했으며, 베타값 0.46 및 5년 최대 낙폭 -20.3% 수준으로 우수한 하방 방어력을 증명\n- 반면 PBE는 운용 보수 0.58%, 순자산 3억 6,560만 달러 규모로 Regeneron Pharmaceuticals(5.5%), Amgen Inc(5.36%) 등 성장성이 높은 31개 바이오테크 기업을 추종\n- 최근 1년 총수익률은 47.3%로 PPH를 상회했으나, 베타값 0.70 및 5년 최대 낙폭 -37.8%를 기록하며 높은 변동성을 드러냄\n- 5년간 1,000달러 투자 시 최종 자산은 PPH가 1,658달러, PBE가 1,268달러를 기록해 장기 총수익률과 위험 대비 성과 측면에서는 PPH가 우위를 나타냄\n- 이처럼 개별 임상 및 규제 승인 리스크가 큰 헬스케어 섹터 특성상 ETF를 활용한 분산 투자는 필수적\n- 저비용, 배당 수익, 낮은 변동성을 바탕으로 장기 안정성을 추구하는 투자자에게는 대형주 중심의 PPH가 적합\n- 따라서 결론적으로 높은 변동성을 감수하더라도 단기 모멘텀과 이익 성장성을 기대하는 공격적 투자자에게는 PBE가 차별화된 대안이 될 것으로 판단\n[Plan Advisor] 골드만삭스, NEOS 인수로 1,300억 달러 규모 ETF 플랫폼 구축\n-\nhttps://buly.kr/614fdJN\n- 골드만삭스 자산운용(GSAM)이 옵션 기반 인컴 ETF 전문 운용사인 NEOS Investments를 현금 및 주식을 포함해 총 22억 5,000만 달러에 인수하기로 합의\n- 이번 인수는 최근 완료된 Innovator Capital Management 인수와 맞물려 진행\n- NEOS는 19개 파생상품 기반 ETF를 통해 300억 달러의 자산을 운용 중이며, 이는 골드만삭스의 기존 옵션 ETF 자산 400억 달러와 보완 관계를 형성\n- 거래가 최종 마무리되는 2027년 1분기 기준 골드만삭스의 전체 ETF 관리 자산 규모는 기존 대비 3배 이상인 1,300억 달러 규모로 급증할 예정\n- Goldman Sachs CEO David Solomon은 이번 인수가 액티브 ETF에 대한 고조되는 투자자 수요에 대응하고, 버퍼(Buffer) 및 인컴 전략 분야의 역량을 대폭 보완하기 위한 결단임을 밝힘\n- NEOS는 월 분배금 지급과 세금 효율성, 포트폴리오 분산 효과를 강점으로 내세우고 있으며, 인수 완료 후 공동 창업자인 Troy Cates와 Garrett Paolella를 포함한 투자 팀이 GSAM 파트너로 합류할 예정\n- 이는 글로벌 대형 자산운용사들이 액티브 및 옵션 기반 인컴 ETF 시장에서의 지배력을 강화하기 위해 적극적인 M&A를 추진하고 있음을 잘 보여줌\n- 결론적으로 대형 자산운용사의 파생상품 전문 운용사 인수는 고금리 및 변동성 장세 속에서 월배당과 세제 혜택을 추구하는 기관 및 개인 투자자의 자금을 흡수하기 위한 전략적 포석으로 풀이되며, 향후 액티브 인컴 ETF 시장의 경쟁은 한층 격화될 것으로 예상",
-      "images": [
-        "https://cdn5.telesco.pe/file/kqmU1godOIDedI64eYnlg1V_FlnnZIJp_HBx_0YDYVGRWzZe1kAwXkIWurta7waxX23YmE9EWfuuKdw3R73HFyXQjF4KniymnnBb7FN1xBaD0IgZZyCvQpLgMnhdz1zim4aJgqiOr5AiU6URE-e5hiPRtPc0R4ySFC_Wnhch5lLYebEfoNH98GQw9BOeT1zvJFmMWMw7Qq4s0TCK0sk4-1PI_rj7u90dFaE20rZs1bfxJDJfDwAl2ATUisD46a0VjJqOr2IZ2cFOvwXLHOlGgG_dQHyFQ4dnUdFQgeKmWXYdgBNOMTo703M-ftf-G2ZVe-ZCWCOSnN2bPPLhDtDlCQ.jpg",
-        "https://cdn5.telesco.pe/file/TTgRvEJPaYi8UdU4MV7lhJpkhTj4S0vVFLdaqYE-6vcTtDfYdcG8VEBW2kAyxL0BO6kAX-_I5DOyS7VqHeEgO3NE4ES_GnFJCPewRr1ilEZIVa6h5DPO-DQAcvdkQCHjPya-h3t9FWq6C1oTQUWIjmj6B9FaGsWsbHqXkkHNSWVH3CxHCnWneNZoOnKiQzPdeOVw92R57Lqsputq0HPf3FtUukgTdNU8RdU4kqYRtWzXTGCHIWqc5HxlR6DMuBiOflx4nIAAP0OCDTZKD2cqPTKizdXruvcSvH_Q78GOA-jG979a6yym3VIQRQj5ufBWv4ftSVHWEIY7baaf7QYb4Q.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-12T22:53:28+00:00"
     },
     {
       "id": "tg:HI_GS/6889",
@@ -783,20 +790,6 @@
       "published_at": "2026-08-12T13:31:16+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24544",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24544",
-      "text": "뱅크오브아메리카, 미국 AI·에너지 핵심 인프라에 2,500억 달러 투자\n1. 개요\n•\n사업명\n: 중요 인프라 금융 이니셔티브 (Critical Infrastructure Finance Initiative)\n•\n투자 규모\n: 총 2,500억 달러 (약 340조 원)\n•\n투자 기간\n: 2026년 1월 1일 ~ 2027년 7월 4일 (총 18개월)\n2. 3대 핵심 투자 분야\n•\n디지털 인프라\n: AI 데이터 센터, 고성능 연산 인프라 구축\n•\n에너지 및 전력 인프라\n: 신재생 에너지 발전, ESS\n•\n핵심 인프라\n: 운송·수송망, 천연가스 관련 시설 modernization\n3. 시장 배경 및 업계 동향\n•\n시장 트렌드\n: AI 데이터 센터 수요 폭증, 핵심 광물 채굴, 에너지 인프라 현대화 붐 대응\n•\n금융사 경쟁\n:\n모건 스탠리의 1조 5,000억 달러 지원 발표에 이은 대형 금융사의 잇따른 대규모 투자\n•\n금융 지원 방식\n: 일차 시장 대출, 직접 투자, 자본 시장 서비스, 종합 금융 자문 제공",
-      "images": [
-        "https://cdn5.telesco.pe/file/DpzmsWAsB2memMgVouk5FEnNCBe4LlKX6_01m6ahnUZ7E3Jkt0akbdYAdJedyCTSd_h68vMm8fFKjVteQs6pSpvcTDuX0YoFYK7CuTh08hfIE8nStioIl5iW4jz3yMNCEjRiEJwaQNwRkslG7mXNSR1Bx40qtKRbWk60aOtTQJccNLIJD-A8whHnbdKDzmP1NiE9eSN29rBAmZq9UOLxUxU3OePJh_4xYVrkMaMbJN-dyFxx1rWBH9htfmClIWHVxpv7Sh5XFL0m3t7S8oAY9qRu02LT4a8gu2zWzhHDs6YEWRjlFYbF73sGIUPt0vGsze3xUfbLxoMWTEN4Zh8N8g.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-12T12:35:00+00:00"
-    },
-    {
       "id": "x:ylecun:2087501288573460555",
       "source": "x",
       "author": "ylecun",
@@ -819,7 +812,7 @@
       "url": "https://t.me/enc210406/4314",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 8월 12일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/De9C5sER1Ug9NyK2gHwkyoUxOlw2_kWK8_ev0Oa1XTwH1aFN0oqOvpVYYnZuHFuGmU4Ug3Gdk-zt20lwYjBSfm-XM3dl0ntoFoVjpWzknPFtUB3BJYkeTUNH2IAUXJMsIl8jIwAM_CNRxYSyjjpbP98oy18-bSSEZ6Q7oWETz7Qewy73bXUOjy-raMDONK7zTPUxfJCJyR2QogtGYIIRLmWhu79YSVtGAN5FSeclwRcI0XSlcsOrbNDoU6uBMVsu9sc3w-Er9xCwEL_NxIQzg9Fm6uVXbObATh1ZbEwxTPnlno3OlzfhEhk9bO_G1By_htbIwi5xzQ_jFU80crnS8w.jpg"
+        "https://cdn5.telesco.pe/file/ZtAK7sdGFu0EhkXE9EpCspuMRPXKNK_6LErPzTy5Ea2k7jy-hNqpOzxcQgao8DHBu-8d4C3L8Z0UWrIhL-hLvSX2Haqjn-qEdLZZcgjPrN4klUOkraqNk6Samr6fXlYAICUFC4i_nc-agtcjW7mEclKMx_bwKJXzatNSphaHQIlyriPAKhKBctbV4IKFaw0P9vG1q36fYnnditUPAbQp-l2ijiAWTHs6c2Xd_lAXgqJtv58g8qF3cv3miHA-fMW9LP8HNAejZoCldpxvPvJIGNRe5aaD8dNYthW4TD6pV65gSHNG3wjhGA9UT5Re6S7Uo07Eel6HO5-BUB_lU7i6zA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-12T08:17:30+00:00"
@@ -1027,7 +1020,7 @@
       "url": "https://t.me/enc210406/4311",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 8월 11일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/PtVY0z7X7dfZcWquo-Ui8lCxigavaGagC0kDEW99wKJ9mMFZUscDuVY4sSa_IcMwctzlK2pba_z3LLSd15JuGxuviyzunrYwYRXMJZjd7jkq6dOCcaxAY-jbpm_9MlefEF5tnKDipHH11r0LLjgtywxSLwAc1K6pl_xBFQLGr8qfLXvoW6pXfRTo8ZcCZdGF2e9VUh0H71SnskQ5X0GWAkcdqIzYTlOdQPkxI1YtMzA8DRur_-4QsCLCT-6bYzNOK_5hGmXJN2R3stz9Y0SXPXmvySUb0JEAAAlZAangvE87nv6kh6RSbvesA1d4jROhIJ7ybW1qvAYof1QT1Kpcrg.jpg"
+        "https://cdn5.telesco.pe/file/dJVMm9LbmEh7z31MYOycQrO0M8hrwWH7ufrTExXbfUhs5uu5DFP6OQD_Rujiowx0LcWyc5wvEZq0tbgOLwQppqGa-hNz8Q3gFvJv906xeesLv5PhG8qEfyx26MKu8wbUFT22Z9_bZMy-bvhHT6_fXBLb_UOmTycuKBEbUjnTDkJTx5YU1fS1ietib4XuV5Zpd5YTpqbUppXU1kz2gK2dzlq-xTrmKpfehZ59_N6L2MSBRJrXh8N8zbMzkimPPNU9NZeacd5ogolOiQ0xzasAVbKWPbSR63rM60E8I2WNgj-qlqULTibelaK47dKHYmcHCsBW3u8L74XJULMP5F126A.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-11T07:58:43+00:00"
