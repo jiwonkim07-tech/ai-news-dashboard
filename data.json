@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-08-14T15:51:34+00:00",
+  "updated_at": "2026-08-14T16:52:31+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 4
   },
   "briefing": {
-    "headline": "미국주식 전략: AI 성장 모멘텀 유지",
+    "headline": "중국 주식펀드에 500억달러 유입",
     "bullets": [
-      "중국 주식펀드에 500억달러 이상 유입",
       "SMIC 홍콩 주가 4.8% 상승",
       "애플, 알리바바 Qwen 접속 안내 삭제",
       "SK하이닉스, 세계 최대 AI 메모리 구축",
-      "트럼프, 대미투자 외국조선업체 본국서 美군함 2척 건조 승인"
+      "한화에어로, K9 정밀도 6배 높인다",
+      "글로벌 자금 유입 가속화"
     ],
-    "generated_at": "2026-08-14T15:51:34+00:00",
+    "generated_at": "2026-08-14T16:52:31+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:AndrewYNg:2088302050706686198",
+      "source": "x",
+      "author": "AndrewYNg",
+      "author_name": "Andrew Ng(앤드류 응) · AI 교육자",
+      "author_url": "https://x.com/AndrewYNg",
+      "url": "https://x.com/AndrewYNg/status/2088302050706686198",
+      "text": "New: A map of the most important skills in AI Engineering.",
+      "images": [
+        "https://pbs.twimg.com/media/HPsiabfXoAEz0wO.jpg"
+      ],
+      "summary_ko": "신규: AI 엔지니어링에서 가장 중요한 기술을 보여주는 지도입니다.",
+      "published_at": "2026-08-14T16:29:42+00:00"
+    },
     {
       "id": "tg:EMchina/32365",
       "source": "telegram",
@@ -775,7 +789,7 @@
       "url": "https://x.com/GoogleAI/status/2087949045407035766",
       "text": "R to @GoogleAI: — Google AI Pro and Ultra subscribers can experience 3.7 Flash today via Spark in the @GeminiApp — Access the model in the Gemini Enterprise Agent Platform and Gemini Enterprise app — Build in the Gemini API via @googleaistudio and @androidstudio, and explore agent-first workflows in @antigravity — Learn more in the blog ↓ https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "images": [
-        "https://pbs.twimg.com/card_img/2087947843537629184/dzsDPvSQ?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2087947713908191232/h8KUdTlT?format=jpg&name=800x419"
       ],
       "summary_ko": "R에서 @GoogleAI로: — Google AI Pro 및 Ultra 구독자는 오늘 @GeminiApp에서 Spark를 통해 3.7 Flash를 경험할 수 있습니다. — Gemini Enterprise Agent Platform 및 Gemini Enterprise 앱에서 모델에 액세스합니다. — @googleaistudio 및 @androidstudio를 통해 Gemini API를 구축하고 @antigravity에서 에이전트 우선 워크플로를 탐색합니다. — 블로그에서 자세히 알아보기 ↓ https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "published_at": "2026-08-13T17:06:59+00:00"
@@ -1659,7 +1673,7 @@
       "url": "https://x.com/demishassabis/status/2085819205224468973",
       "text": "RT by @demishassabis: Great to see @OpenAI join @ElevenLabs in adopting @Google's SynthID for audio, enabling their users to have access to the same robust, imperceptible safeguards that power our own products. For years, we at @GoogleDeepMind have been pioneering research on SynthID watermarking to address the risks of AI-generated media (particularly acute for audio and voices). We had successfully integrated SynthID to safeguard our product surfaces - Gemini Live, Lyria, and Veo, but protecting the ecosystem requires an industry-wide effort to build foundational safety infrastructure together which is now gaining momentum! SynthID: https://deepmind.google/models/synthid/ OpenAI Verification Portal: https://openai.com/research/verify ElevenLabs: https://elevenlabs.io/blog/synthid",
       "images": [
-        "https://pbs.twimg.com/card_img/2085750287860449281/22uYR9PI?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2088287024830676993/fAZSi92J?format=jpg&name=800x419"
       ],
       "summary_ko": "RT: @demishassabis: @OpenAI가 @ElevenLabs에 합류하여 @Google의 오디오용 SynthID를 채택하여 사용자가 당사 제품을 구동하는 것과 동일하게 강력하고 눈에 띄지 않는 보호 장치에 액세스할 수 있게 된 것을 보니 반갑습니다. 수년 동안 @GoogleDeepMind에서는 AI 생성 미디어(특히 오디오 및 음성의 경우 심각한 위험)를 해결하기 위해 SynthID 워터마킹에 대한 연구를 선도해 왔습니다. 우리는 Gemini Live, Lyria 및 Veo와 같은 제품 표면을 보호하기 위해 SynthID를 성공적으로 통합했지만 생태계를 보호하려면 기본 안전 인프라를 함께 구축하려는 업계 전반의 노력이 필요하며 현재 추진력을 얻고 있습니다! SynthID: https://deepmind.google/models/synthid/ OpenAI 검증 포털: https://openai.com/research/verify ElevenLabs: https://elevenlabs.io/blog/synthid",
       "published_at": "2026-08-07T20:03:45+00:00"
@@ -1701,7 +1715,7 @@
       "url": "https://x.com/sama/status/2085765236876046500",
       "text": "congrats to oklo for achieving criticality! (less than a year after groundbreaking) https://oklo.com/newsroom/news-details/2026/Oklos-Groves-Reactor-Achieves-First-Criticality-in-Under-a-Year/default.aspx",
       "images": [
-        "https://pbs.twimg.com/card_img/2085343031147057152/RKFE7tYi?format=jpg&name=280x280_2"
+        "https://pbs.twimg.com/card_img/2088304382165262336/rKzjM441?format=jpg&name=280x280_2"
       ],
       "summary_ko": "임계치를 달성한 oklo를 축하합니다! (착공 후 1년 미만) https://oklo.com/newsroom/news-details/2026/Oklos-Groves-Reactor-Achieves-First-Criticality-in-Under-a-Year/default.aspx",
       "published_at": "2026-08-07T16:29:18+00:00"
@@ -2542,20 +2556,6 @@
       ],
       "summary_ko": "@karpathy의 RT: 모든 작업을 위한 도구: Claude Code의 동적 워크플로",
       "published_at": "2026-06-02T20:26:32+00:00"
-    },
-    {
-      "id": "x:AndrewYNg:2061477558693384395",
-      "source": "x",
-      "author": "AndrewYNg",
-      "author_name": "Andrew Ng(앤드류 응) · AI 교육자",
-      "author_url": "https://x.com/AndrewYNg",
-      "url": "https://x.com/AndrewYNg/status/2061477558693384395",
-      "text": "One of the new, buzzy jobs in Silicon Valley is the AI Forward Deployed Engineer (FDE), an engineer who is embedded within a client organization to help customize solutions, such as building and tuning agentic workflows that suit the client’s particular needs. I’ve heard from people who are wondering anew about the FDE career path since OpenAI and Anthropic started building new teams to place FDEs within client organizations. The rise of FDEs for AI workloads is one way AI is creating new jobs (and why the jobpolcalypse narrative of upcoming job market collapse is false -- there will be many AI and non-AI jobs). However, I believe there will be far more AI Engineer jobs than FDEs, as I explain below. The FDE role was pioneered about two decades ago by Palantir, which sent engineers to government locations to work on secure, air-gapped networks. In addition to having good technical skills, FDEs need communication skills and sometimes business skills. For example, they may need to speak with clients to understand their needs, formulate a strategy to prioritize projects, explain complex technology, and respectfully push back if a client asks for something unrealistic. They’re enjoying a resurgence because of the amount of work involved in taking an off-the-shelf LLM and building it into a custom agentic workflow that fits particular business needs. However, I believe the number of AI Engineer jobs will be far larger. A company might accept a few FDEs to be embedded within its organization. But most companies will want far more of their own employees working on their projects. While my organizations do hire FDEs, we hire far more AI Engineers! Also, a common client concern is that it is hard to find vendor-neutral FDEs — they are, after all, there to deeply integrate a particular vendor’s product into a company. In this moment when it’s hard to predict which AI service will be the best one in a year’s time, optionality (the ability to pick whatever vendor turns out to fit best in the future) is very valuable. In contrast, letting FDEs tightly bind a company’s processes significantly reduces optionality. Right now, I see surging demand for AI Engineers who can build software applications using AI software components (like LLM prompting, agentic frameworks, evals, etc.) and effectively use AI coding agents (like Claude Code, Codex, Antigravity CLI, and OpenCode). As the AI Engineer role matures, I expect it to fragment into more specialized roles, like the generic Software Engineer role from decades ago fragmented into frontend, backend, mobile, data engineering, devops, and so on. What will be the future, specialized AI engineering roles? I don’t know. Perhaps there will be AI FDEs, LLMOps Engineers, Evals Engineers, AI Data Engineers, Harness Engineers, and other roles we don’t have names for yet. But for now, I see a lot of AI engineers who are generalists create a lot of value. Skilled AI Engineers are in very high demand! As our field continues to mature over the coming decade, I look forward to new specializations within AI Engineering that create even more job opportunities. [Original text: The Batch newsletter]",
-      "images": [
-        "https://pbs.twimg.com/media/HJvWmCHagAAnTxQ.jpg"
-      ],
-      "summary_ko": "실리콘밸리에서 새롭게 떠오른 직업 중 하나는 AI FDE(Forward Deployed Engineer)입니다. 이 엔지니어는 클라이언트의 특정 요구 사항에 맞는 에이전트 워크플로우 구축 및 조정과 같은 솔루션 맞춤화를 돕기 위해 클라이언트 조직에 포함된 엔지니어입니다. OpenAI와 Anthropic이 클라이언트 조직 내에 FDE를 배치하기 위해 새로운 팀을 구성하기 시작한 이후 FDE 경력 경로에 대해 새롭게 궁금해하는 사람들로부터 들었습니다. AI 워크로드에 대한 FDE의 증가는 AI가 새로운 일자리를 창출하는 한 가지 방법입니다(그리고 다가오는 고용 시장 붕괴에 대한 직업 정책 서술이 거짓인 이유 - AI 및 비AI 일자리가 많을 것입니다). 그러나 아래에서 설명하는 것처럼 FDE보다 AI 엔지니어 일자리가 훨씬 더 많을 것이라고 믿습니다. FDE 역할은 약 20년 전 Palantir에 의해 개척되었습니다. Palantir는 엔지니어를 파견하여",
-      "published_at": "2026-06-01T15:58:45+00:00"
     },
     {
       "id": "x:karpathy:2061110056293106118",
