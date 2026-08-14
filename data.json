@@ -1,22 +1,70 @@
 {
-  "updated_at": "2026-08-14T13:05:26+00:00",
+  "updated_at": "2026-08-14T14:51:32+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 5
+    "new_this_run": 4
   },
   "briefing": {
     "headline": "중국 주식펀드에 500억달러 유입",
     "bullets": [
       "SMIC 홍콩 주가 4.8% 상승",
-      "미국 중간선거, AI 관련 주식 급상승 가능성",
-      "마이크론 벤처스, 차세대 AI 투자 펀드 출범",
-      "골드만삭스, 샌디스크 목표가 상향 조정",
-      "SK하이닉스, 세계 최대 AI 메모리 구축"
+      "중국 유동성 지표 7월 위축",
+      "애플, 알리바바 Qwen 접속 안내 삭제",
+      "SK하이닉스, 세계 최대 AI 메모리 구축",
+      "글로벌 자금의 중국 자산 배치 가속화"
     ],
-    "generated_at": "2026-08-14T13:05:26+00:00",
+    "generated_at": "2026-08-14T14:51:32+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32365",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32365",
+      "text": "~ 14일 한국경제신문 취재를 종합하면 미국 상무부(하워드 러트닉 장관·사진)는\n지난달 말에 이어 이번주 한국 정부에 대미 투자 프로젝트, 상호관세와 관련한 이메일을 거듭 발송\n했다. 서한에는 지난해 10월 경주 한·미 정상회담 결과물인 ‘한·미 조인트팩트시트(JFS)’에서 약속한 2000억달러 규모 대미 투자(조선업 협력 1500억달러 제외) 프로젝트가 10개월째 발표되지 않는 데 대한 불만이 담겼다\n~\n대미 투자 발표가 더 늦춰지면 도널드 트럼프 대통령에게 보고하겠다는 언급도 있는 것으로 전해졌다\n. 이는 트럼프 대통령이 상호관세를 올릴 수밖에 없을 것이라는 압박으로 해석됐다. 이번주 초에는 압박 강도가 더 높은 이메일을 한 차례 더 보낸 것으로 알려졌다\nhttps://n.news.naver.com/article/015/0005321136?sid=100",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-14T14:30:43+00:00"
+    },
+    {
+      "id": "tg:EMchina/32364",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32364",
+      "text": "7월 미국 소매판매 쇼크",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-14T14:23:43+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19717",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19717",
+      "text": "뉴 스트리트(New Street)가 마이크론(\n$MU\n)의 투자의견을 '중립(Neutral)'에서 '매수(Buy)'로 상향 조정하고, 목표주가를 1,250달러로 제시\n주가 랠리에도 불구하고\n마이크론은 매출원가 대비 주가(price-to-cost of goods sold) 기준으로 여전히 매력적인 밸류에이션을 유지\n하고 있습니다.\n뉴 스트리트는\n마이크론의 매출원가 개선이 강화된 수익성과 사이클 전반의 현금 창출력을 바탕으로 산업 전반의 수익 구조가 개선\n되고 있음을 보여준다고 분석했습니다.\n또한\n2030년 마이크론이 6,000억 달러 이상의 현금과 연간 1,500억 달러 이상의 잉여현금흐름(FCF)을 확보할 것으로 전망\n했습니다. 이는 현재 약\n1조 달러 수준인 시가총액 대비, 2020년대 말에는 2조~3조 달러 규모의 시가총액에 도달할 수 있음을 의미합니다.\n아울러\nAI 관련 수요에 힘입어 향후 수년간 메모리 수요가 급격히 증가할 것\n으로 내다봤습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-14T13:23:19+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19716",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19716",
+      "text": "Citi, 네비우스(\n$NBIS\n) 목표주가 278달러에서 324달러로 상향 조정\n,\n투자의견 매수를 유지\n​씨티는 실적 발표 이후 네비우스에 대한 실적 추정치를 상향했습니다. 애널리스트는 리서치 노트를 통해 \"\n강력한 AI 수요 속에서 네비우스가 설비 용량 증설을 뒷받침할 탄탄한 수주 잔고(Backlog) 흐름을 보이고 있다\n\"고 투자자들에게 전했습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-14T13:18:52+00:00"
+    },
     {
       "id": "tg:EMchina/32363",
       "source": "telegram",
@@ -416,30 +464,6 @@
       "published_at": "2026-08-14T03:12:45+00:00"
     },
     {
-      "id": "tg:EMchina/32352",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32352",
-      "text": "미중은 안 친해집니다\nhttps://n.news.naver.com/article/001/0016250897?sid=1040",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-14T02:47:53+00:00"
-    },
-    {
-      "id": "tg:EMchina/32351",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32351",
-      "text": "[한투증권 미국/중국전략 정정영]   • 바뀐 것과 바뀌지 않은 것   >>  미국주식 전략 자료를 작성했습니다. AI의 장기적/구조적 성장 모멘텀에는 변함이 없을 것이나 그 외 분야에서는 변수가 늘어나고 있습니다. 트럼프 행정부가 더 극단적인 시나리오를 이끌어 갈 가능성은 제한적인 것으로 판단하는 가운데, 시장 색깔 전환에 준비해야 한다고 생각합니다. 그동안의 쏠림은 완화될 것으로 전망하며 경기민감주를 주목합니다.   ========================…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-14T02:45:40+00:00"
-    },
-    {
       "id": "tg:enc210406/4323",
       "source": "telegram",
       "author": "enc210406",
@@ -577,18 +601,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-13T23:18:36+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19704",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19704",
-      "text": "Evercore ISI , 샌디스크 (Sandisk,\n$SNDK\n)\n, 목표주가 $2,800,  투자의견: 매수 (Outperform)\nSNDK 인베스터 데이 현장 중계\n1) 지속 가능한 장기 모델 (Sustainable LT Model)\n* SNDK는 2030 회계연도(FY30)까지 10% 중후반대의 매출 성장률, 약 80%의 매출총이익률(Gross Margin), 약 75%의 영업이익률(Operating Margin), 약 50%의 조정 자유현금흐름(adj. FCF) 마진을 목표로 하고 있습니다.\n* 매출 대비 설비투자(CAPEX) 비중은 한 자릿수 중간 대(MSDs, 약 4~6%) 수준을 유지할 계획입니다.\n2) 자본 배분 (Capital Allocation)\n* SNDK의 최우선 과제는 영업비용(OPEX), 설비투자(CAPEX), 합작법인(JV) 확장 및 난야(Nanya)와 같은 전략적 투자를 통한 사업 재투자입니다.\n* 두 번째 과제는 부채 없는 재무상태표를 유지하는 것입니다.\n*\n세 번째로, 경영진은 주로 자사주 매입을 통해 잉여 현금의 100%를 주주에게 환원할 계획입니다.\n4분기(FQ4)에 회사는 약 50억 달러의 현금을 창출하고 약 45억 달러를 주주에게 환원했습니다.\n3) 다년간의 수요 가시성 (Multi-year demand visibility)\n* SNDK는\n미국 하이퍼스케일러 3곳을 포함해 8개의 NBM 계약/협의를 진행 중이며, 가장 긴 계약 기간은 최대 5년에 달합니다.\n* 2개 고객사는 자체 요구 사항을 재검토한 후 계약 기간을 연장하거나 비트(bit) 물량을 추가하여 계약 규모를 확대했습니다.\n4)\nNBM 가격 책정 및 경제성\n(NBM Pricing & Economics)\n* NBM 가격 구조는 고정 가격과 변동 가격이 결합되어 있으며, 변동 요소는 하한선(floor)과 상한선(ceiling)으로 보호됩니다.\n*\n경영진은 최저 가격(floor pricing)으로 책정되더라도 약 80%의 매출총이익률을 포함해 매우 매력적인 수익을 창출할 것으로 예상하고 있습니다.\n* 반면, 비(Non)-NBM 비트 가격은 시장 상황에 따라 계속 변동할 예정입니다.\n5)\n계약상의 보호 장치 (Contractual Protections)\n* 8개 NBM 계약은 최저 가격 기준으로 총 계약 가치(TCV) 939억 달러, 잔여 이행 의무(RPO) 911억 달러를 나타냅니다. 기준 가격(base level pricing)으로 출하될 경우 두 수치 모두 상향될 가능성이 있습니다.\n* 거의 모든 계약에서 총 약 165억 달러에 달하는 재무적 보증을 확보하기 위해 이사회 수준의 승인이 필요했습니다.\n* 경영진은 계약이 후반부에 집중되어(back-end loaded) 있는 점을 감안할 때, 서명 후 2년 이내에 보증 대 계약 가치 커버리지 비율이 2배로 증가할 것으로 예상합니다.\n6)\nHBF 기회 (The HBF Opportunity)\n* SNDK는 HBF가 약 16배의 용량과 함께 HBM 급의 읽기 대역폭을 제공하도록 설계되어 GPU 사용률을 약 50% 줄이는 데 도움을 줄 수 있다고 밝혔습니다.\n* 고객사용 샘플은\n2027 달력연도(CY27)에 출하되기 시작할 것으로 예상\n됩니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-13T23:10:19+00:00"
     },
     {
       "id": "tg:HI_GS/6899",
@@ -741,18 +753,6 @@
       ],
       "summary_ko": "아, 그렇습니다. Flash 3.7도 매우 빠릅니다! ⚡️",
       "published_at": "2026-08-13T20:13:33+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19703",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19703",
-      "text": "샌디스크, AI 기반 NAND 성장 전략 및 FY2028–FY2030 재무 모델 발표\n* 샌디스크, FY2030까지 10% 중후반대의 매출 성장률 목표 설정\n*\nNon-GAAP 기준 매출총이익률(Gross Margin) 약 80% 목표\n* Non-GAAP 기준 영업이익률 약 75% 예상\n* 조정 잉여현금흐름(FCF) 마진 약 50% 목표\n*\n사업 투자 후 잉여 현금의 100% 환원 계획\n* 엔터프라이즈 데이터센터 플래시 시장, 2030년까지 1.2제타바이트(ZB) 도달 전망\n* 신규 BiCS10 QLC, BiCS8 대비 비트 밀도 60% 증가\n* 신규 사업 계약을 통해 FY2027 비트(Bit) 물량의 약 50% 확보\n* 해당 계약은 FY2028 비트 물량의 약 3분의 2 수준으로 확대\n* 고대역폭 플래시(HBF), AI 추론 분야에서 모멘텀 확보 중\n이번 발표가 중요한 이유\n*\nAI 추론이 엔터프라이즈 플래시 스토리지 수요를 대폭 증가시킬 수 있음\n*\n80% 매출총이익률 목표는 강력한 장기 수익성에 대한 기대를 시사함\n*\n다년간의 고객 계약을 통해 기존 NAND 시장의 변동성을 완화할 수 있음\n*\n100% 잉여현금 환원 정책으로 주주 환원 규모가 실질적으로 늘어날 수 있음\n*\nHBF가 AI 메모리 아키텍처 내에서 새로운 성장 기회를 창출할 수 있음\n경영진 발언\n데이비드 고에켈러(David Goeckeler), 샌디스크 회장 겸 CEO:\n“오늘날 우리의 강력한 성과는 18개월 전에 수립한 전략을 엄격하게 실행한 직접적인 결과입니다. 우리는 수십 년에 걸친 NAND 플래시 혁신, 깊이 있는 시스템 수준의 전문성, 다각화된 포트폴리오, 자본 효율적인 운영 및 전체 기술 스택 관리를 통해 차별화된 입지를 구축했습니다. 이러한 강점은 우리의 풍부한 지적 자산을 대변하며, 전 세계 고객에게 지속적으로 기여하는 동시에 주주를 위해 장기적이고 지속 가능한 가치를 창출할 수 있는 명확한 토대가 되어 줍니다.”\n루이스 비소소(Luis Visoso), 샌디스크 최고재무책임자(CFO):\n“FY2028부터 FY2030까지의 새로운 재무 모델을 공개하며, 우리는 우호적인 시장 환경 속에서 크고 빠르게 성장하는 시장의 기회를 포착할 수 있는 최적의 위치에 있다고 믿습니다. 우리는 성장, 지속 가능성, 그리고 수익률을 최적화하고 있습니다.\n이에 따라 사업 투자 후 발생하는 잉여 현금의 100%를 주주에게 환원할 계획입니다\n. 재무 모델의 지속 가능성에 대한 우리의 확신은 고객과의 긴밀한 관계, 그리고\n혁신과 협력에 기반을 둔 다년간의 NBM(신규 비즈니스 모델) 계약에서 나옵니다.”",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-13T17:38:20+00:00"
     },
     {
       "id": "x:demishassabis:2087950102455271765",
@@ -922,7 +922,7 @@
       "url": "https://t.me/globaletfi/21110",
       "text": "» 미국 PCE 지표를 구성하는 PPI 항목들. 연준의 판단 기준인 PCE 지표는 예상보다 견고한 흐름을 보일 가능성",
       "images": [
-        "https://cdn5.telesco.pe/file/ogGE8TiDJns7tSu8-haESpJYnW_MOsgAvtN6vs-padFcZQYQOpjwmHJb5_vzwjH_mXQV3QA35Svshg6eZKcc8BmnWnrBspLSjYvZGkGp-1LLPANWktIJhGTo69EMpbudK53cAMjq7tJ6pSupj-gEEvfRvuQlq8oC673JwvjGSnkJahYuOn8U5VgsF5l9Z_b1Y4wYHEuwGpMCsmXSJhTA9IOubzVGUmvdV3E08FnxH3GVuOZyYkyQ0S-KLl16TJlzTcLhH0CxIDGUNPIq74Niowi8Ut-UUaQH1GBgIK7AxNL0hUL01z499s8NIDU2DRLq87T7jyNdJsB7jgqK5llnmA.jpg"
+        "https://cdn5.telesco.pe/file/h-OevQl-8CMz0-ZoItuunuWRhApUGCxEeDMM2kHHq_wdohbp6HOSd8K98EhOW2Bz2YXMUN2Oam_qHgEIgDEPK6m4_G8bwm1nBM_VfWaFZTIhHqeB3QXAMVZuEglnOM-BCm4SJd19DlBOAq9T-tTuhxAMP80nfGrojB1ARfG517W4smDp5UO4a5wXeTqWklqodQDzEV4hUm7vzP4Z8PopF_Nj3oop9I7C5hhtOmfpSEE6nLcBl6D8zcB1N-tEj0NPhoFnrlFd197go7W0lfKnYBP-eErD-btepMV3O2en8cT_HiOgt24aW0MLszZxZA_u97g_J3Zx2FxZtbOPoJnfQw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-13T14:51:37+00:00"
@@ -936,7 +936,7 @@
       "url": "https://t.me/aetherjapanresearch/24570",
       "text": "진짜닉스 잘 오르네요",
       "images": [
-        "https://cdn5.telesco.pe/file/OFFwwMw2GmL27UmtKmpkTDuQkF0wh5ae0YyMSUgpWTJgWPLSwQbBupNzvazpAOkjr__1sJFCq6yIr80qvHVSN-GT9KK36GKU695gBSYz7RgmIg87ypBJGJ_Mc9260ms75lssI2P0F293ybv_KVHbFlabti4kf1y6uvTUPzpiJ0lKv_9Uhgx3Go3qOEMDNRaLBBqNJyR46upBL4ElIXiXpK6B-xutrcSUqZYFDJTBR0N8XwOdcHfUrvpfJP-Zup8Bn1qfXstrKv42BfaO6WaU8G41i6UkhBGiiYUTU55NdCUNWz6wNKV5kpjCfH-IHxeB8PDXsAUbDc77t9j2LaHnaQ.jpg"
+        "https://cdn5.telesco.pe/file/u1Cxft0kyW_kuK6y_55G5-65hNfuknJvAv5zSkFSjxoyz2JBPNTtMgvFfBRXfXyJXp6wmutxu2SV3fSMzNxj24CSG2DgOS6ipdjNsdfop2hKmbFmQamfs08JvWWgpPslw7p09cAJRlcLmL43gzP1CbCjqm89Wt3v2pm-IxYfk9Ik9wyRIpAbIwgKqmyLi2FJew4lLajH3kN-yZGXtY4e5ACMvQdFMJi872F7HbbNM3c5KMfhoolyxSolzeSwrAIgGjM7IODL-zOEFgVih3jIEn22h4AkcylxHBnqrCOaXqcHXe9Dr2Hh3Bq-F-BOkYyvVvFFJ9zpkLdAme_No6CCeQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-13T14:44:08+00:00"
@@ -992,7 +992,7 @@
       "url": "https://t.me/globaletfi/21109",
       "text": "» 미 국채금리는 전 구간에서 하락세 시현",
       "images": [
-        "https://cdn5.telesco.pe/file/gpR-aY2dmBHYMOjg5dElDRLfO2OwjfGSQmqQJYO6ocNTsfTlKMAMbu_MaWoD-dnru4iuS856qxO8j-zI8aHS3oOA30qfTJavg36oJVt4mfFmCYibA2TPhHU12CM64hwTh4R3A_HNO7YRJAa_1P6u9Q5fb4WBHKtsgc5L6TO_fr04w99P-ot2TRwgD-IKiYXJ7ljeDk4dgmYlryuLefctKUdvHalWFLsoYzsv4uT0CuDj3POHfl_xfXGSRfO-ro0OUh-Tv-bkaHLlMlt98ReTW4ci16FfZooWsD1WR3QmqAa5lMbwPw1FJO4iDvkuqI7TfPIWKqNJUDO1RHHfn12wkw.jpg"
+        "https://cdn5.telesco.pe/file/huMs1jNHbZ0XVRltLEAl5KRxeXqhWe8UdmYFsBkDD7T_KbeCTgE3jzlg6cI3qBLYFCkE-63tPkDSIrg86DFOPR7j9pZWejYEIKpKlNPajyS0Y2gNnZDATnyJeIUmx5DytmBsx5_AFkkfbNMU9r3C_I0pvQH-lMth_fzvnSdkDsXmMpfQFUbditkcJ-gvKbHgucZfHVXDQq55XVI53H9zAkHQYRw2B4LouP7uN7Pt_8ANrvYM54NrbQ0SyHX2ds8rrwT9B2vb14ztPIFpvnTjvODJ5nk5v0PSsWgTySSaq7oXWoDzWBg84vDDLxqieToEy1ydtqtz_pXTcoPzarR6vg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-13T14:27:19+00:00"
