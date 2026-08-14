@@ -1,22 +1,34 @@
 {
-  "updated_at": "2026-08-14T04:09:14+00:00",
+  "updated_at": "2026-08-14T06:13:48+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 9
+    "new_this_run": 5
   },
   "briefing": {
-    "headline": "중국 탄산리튬 가격 148000위안/톤",
+    "headline": "SK하이닉스, 세계 최대 AI 메모리 구축",
     "bullets": [
-      "SK하이닉스, 세계最大 AI 메모리 구축",
-      "마이크론 벤처스, 2억5000만달러 패러다임 펀드 출범",
-      "샌디스크, AI 기반 NAND 성장 전략 발표",
-      "트럼프, 외국 조선업체에 美군함 건조 승인",
-      "한국카본, 2분기 잠정실적 발표"
+      "마이크론 벤처스, 2억5000만달러 규모 패러다임 펀드 출범",
+      "트럼프, 대미투자 외국조선업체 본국서 美군함 2척 건조 승인",
+      "유가 하락 & 인플레이션 둔화, 연준 금리 인상 불확실",
+      "한국카본, 2분기 실적 발표",
+      "중국 탄산리튬 가격 148000위안/톤, 전일대비 250위안 하락"
     ],
-    "generated_at": "2026-08-14T04:09:14+00:00",
+    "generated_at": "2026-08-14T06:13:48+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32355",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32355",
+      "text": "애플: 알리바바 Qwen 접속 안내 삭제 관련 통지 받지 못했으며 중국 본토에 아직 '애플 인텔리전스 - Qwen 연동 기능' 출시되지 않음  • 애플 인텔리전스 & 알리바바 Qwen 연동 사용 설명서 삭제 관련 애플 고객센터 답변  • 신규 기능 혹은 프로젝트 출시 이전에 미리 안내. 현재까지는 관련 안내 받은 바 없으며, 중국 본토에는 아직 ‘Apple 인텔리전스 & 알리바바 Qwen 연동' 기능 미출시   苹果回应删除接入千问手册：没收到通知，中国大陆…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-14T04:44:44+00:00"
+    },
     {
       "id": "tg:EMchina/32354",
       "source": "telegram",
@@ -76,6 +88,20 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-14T03:21:48+00:00"
+    },
+    {
+      "id": "x:sama:2088101491802243121",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2088101491802243121",
+      "text": "/ultrafast",
+      "images": [
+        "https://pbs.twimg.com/amplify_video_thumb/2087946208128237568/img/wHXN7OyTUGjd05DS.jpg"
+      ],
+      "summary_ko": "/초고속",
+      "published_at": "2026-08-14T03:12:45+00:00"
     },
     {
       "id": "tg:EMchina/32352",
@@ -768,18 +794,6 @@
       "published_at": "2026-08-13T13:46:34+00:00"
     },
     {
-      "id": "tg:EMchina/32343",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32343",
-      "text": "가격 30배 올려도 여전히 가장 저렴한 모델. 딥시크가 가질 자신감  • 딥시크 곧 가격 인상 예정. 제3자 엔지니어는 이같은 결정이 손실에 대한 압박보다 트래픽 조절일 가능성이 더 크다고 평가  • 낮은 캐시 비용, 높은 캐시 적중률, 아키텍처 최적화 바탕으로 딥시크는 가격 크게 올려도 여전히 가격 경쟁력 보유  • 진정한 해자는 모델 자체에만 있는 것이 아니라, 캐시 메커니즘 및 인프라, 모델 중심으로 구축된 Harness 시스템에도 존재  涨价30…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-13T13:18:11+00:00"
-    },
-    {
       "id": "x:demishassabis:2087885303855944001",
       "source": "x",
       "author": "demishassabis",
@@ -964,7 +978,7 @@
       "url": "https://t.me/globaletfi/21106",
       "text": "» 서학개미들의 8월 거래금액 상위 TOP20 종목들(8/12 기준, 억달러)\n» 여전히 압도적인 거래대금을 기록 중인 반도체 3배 레버리지 ETF SOXL. 반도체 3배 인버스 ETF인 SOXS는 14위에 자리\n» 이외에도 한국증시 3배 레버리지 ETF인 KORU, NASDAQ100 3배 레버리지 ETF TQQQ가 상위 20개 종목에 포함\n» SOXS를 제외한 세 종목은 매수금액 대비 매도금액이 더 큰 모습. 시장 상승 과정에서 포지션 정리 및 하락 베팅 수요 증가 추정",
       "images": [
-        "https://cdn5.telesco.pe/file/PVfYJSisqahmqbhRn_BFOkxBwpnlcb01ppcPV-dFgENUQY9zID1tssTHXcSg55CSEMy9SPE0ResebM3aK9DHnHB0SWrQJVswdD4gKh8xbP9ELGDaXLl8uzYzlv7fnToCsXRicwfJHGlsoqlOSBGDSCOzlMv2o-2jDBp748BBKGiVV-C0fkMHwpMjk3hLnLQLRTcCJnc-4smsTn8Odb5wfR2upA00cds8URbCLsEe0x5wWhmySnPahDNcrrzX0-JTDDnWnzEGhtIEeKBhyefGZr02eo--F0cEaKn_1cIEIzuQ-BshFCieQwHoRdKqtR8ZCJmGBAQ-55kkufVo1TDyIA.jpg"
+        "https://cdn5.telesco.pe/file/E09CiiUrq2D-4tGSusgOdcosjdTvOLxIy3o5dFEiFcPSKLtYc7w6JMX-9CiKTVvzna5o4uYu-xhuKezCj0YUBSCyCrDyRCkPuMQyBG3RgmjGItQY8p0LO3SqTZMDm10o5A5C6_cvfxQ4PI_S73xSrkaTUYjD_fzY-1z4wQnbYQJeWnEBkNm5ymasfjJZr5qhN2B2TKnzBIPEUgcjg4MgPtuvlYkENob3n4-V2ZAp8-4GW_HXQyKQQdUu7QIV95n6BW4Ca2B-D1prGJvpgv3v049wSt7Ts240APVf_hGMNOYNF1NIBEnR0RqI7r9O9U6hkRuqpyl00ADnA_IZPWPnDw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-13T06:26:56+00:00"
@@ -1006,7 +1020,7 @@
       "url": "https://t.me/globaletfi/21105",
       "text": "» Roundhill이 미국에서 ‘삼성그룹주 ETF(Roundhill Samsung Group ETF: SSNG)’의 상장 승인 심사를 신청\n» 한국증시에 투자하고자 하는 미국 투자자들의 접근 경로가 EWY와 DRAM 같은 ETF들이나 SK하이닉스 ADR(SKHY) 등으로 한정된 상황 가운데 또 다른 수요처가 될 가능성\n» 기존에 미국 투자자들의 접근성이 낮았던 삼성물산•삼성전기•삼성SDI•삼성생명•삼성바이오로직스 등에 대한 수급 모멘텀 기대 요인\n» Roundhill은 최근 시장에서 많은 관심을 받고 있는 DRAM과 CHAT, MAGS, MEME 등의 ETF 라인업을 보유한 운용사",
       "images": [
-        "https://cdn5.telesco.pe/file/qhN7eCcbPQlCW3W14q360IpnNqj2qOWIOP86-VhiGqlWbcnaOL-p6PfZloqyFsyvbbSGyq524sYsSz1ugjImYXU5jBrudqyAsYT2XFLNTK1d81rnJSrrj6JJ0woxMYc_u2MjOzzVJX0BzARSZvlKuA8WzmU5fa0d1L-xd1BN2LCRpuZecZf3288ZXF1hqaFsqThQ7swni4OTTyEn4ZKu0HLbuAW1y5TiseU5DGU5-ZCC7XWbL7VFfMCXNVxRxoc84ogEKWAulOGEVsSW5a45h3uCqdHgZd08s0MDa8q8PNYsMYVmHiw8pdzI2aRsfcoutESn7-_YuIpQwfgWIGW5AA.jpg"
+        "https://cdn5.telesco.pe/file/NbCW91LJ6lmfriCND9L0KE6eL1q1JGFHa-mXhKJUklxyqtwrNTytRqe47izANNkLorbGmlJrnXkayJIPsXxLQdBZoceEYBQhlIBsd5uZn8S7Np5PONDV-YY4qdgK_I5I6Frtr2Et7K_qh85zwAytpnCCvF7hNcD6aThsjaaDukmZGjcIbpGXJQVWpBDqUOdouEpGRI6hX5vaQrJz29NWwERXJ0sc3Jo0y9w9zYlemPzvWOMHMAUziKoewDGOCdJjRKxl9LGPatEyNs2PA7baDsZ3epHH0Oz1UHHgJI-A9R7xkFQNTPnweOAvNe3VUwEdKdtgVBa3AyMTQ_mnxtD9MA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-13T04:40:22+00:00"
@@ -1727,7 +1741,7 @@
       "url": "https://x.com/sama/status/2085473085399150817",
       "text": "RT by @sama: Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more. https://www.youtube.com/watch?v=87DyyMV0kCY I hope it can answer a lot of the questions folks have, and we will release a full detailed postmortem at a later time!",
       "images": [
-        "https://pbs.twimg.com/card_img/2085475651696398336/OCMLxhXo?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2088106988714778624/OsVtlpbo?format=jpg&name=800x419"
       ],
       "summary_ko": "RT by @sama: 어제 OpenAI 공동 작업자와 저는 Huggingface 사건, \"메시지 보드\"를 생성하는 모델, 모델 정렬 불량 등에 대해 자세히 설명했습니다. https://www.youtube.com/watch?v=87DyyMV0kCY 사람들이 궁금해하는 많은 질문에 답할 수 있기를 바랍니다. 자세한 사후 분석은 나중에 공개하겠습니다!",
       "published_at": "2026-08-06T21:08:24+00:00"
@@ -1858,20 +1872,6 @@
       ],
       "summary_ko": "영국의 @AISecurityInst(AISI)는 Anthropic의 Claude Mythos 5와 OpenAI의 GPT-5.6 Sol에 대한 최근 사이버 보안 평가 보고서를 발표했습니다. 모델은 일반적인 보호 장치가 제거되고 의도적으로 인터넷 액세스가 허용된 설정에서 과제를 완료하려고 시도했습니다. AISI는 해당 모델이 \"실제 사람과 조직을 대상으로 지속적이고 잠재적으로 유해한 활동에 참여\"했다고 보고합니다. 점점 더 능력이 향상되는 AI 에이전트를 평가하는 방법에 대한 중요한 토론에서 리더십을 발휘한 AISI에 감사드립니다. 우리는 자체 조사를 진행하면서 사건에 대한 자세한 내용을 수집하기 위해 그들과 긴밀히 협력하고 있습니다. 추론 기록을 검토하고 자체 분석을 실행하여 상황에 대한 Claude의 이해에 대한 명확한 그림을 얻습니다.",
       "published_at": "2026-08-04T21:07:37+00:00"
-    },
-    {
-      "id": "x:sama:2084663673570971990",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2084663673570971990",
-      "text": "i would rather be an optimist and work hard than a pessimist posting about why things won't work. it's much more difficult and the most likely path is failure, but society fails if people don't try. no amount of \"it will never work\" essays will drive society forward.",
-      "images": [
-        "https://pbs.twimg.com/media/HO22LKxasAAvDBb.jpg"
-      ],
-      "summary_ko": "나는 일이 왜 안 될지 비관적으로 글을 올리는 것보다 차라리 낙천주의자가 되어 열심히 일하고 싶습니다. 훨씬 더 어렵고 가장 가능성이 높은 길은 실패이지만, 사람들이 시도하지 않으면 사회는 실패합니다. \"절대 작동하지 않을 것입니다\"라는 에세이는 아무리 많아도 사회를 발전시킬 수 없습니다.",
-      "published_at": "2026-08-04T15:32:05+00:00"
     },
     {
       "id": "rss:semianalysis:kimi-k3-the-manos-the-mythos-the",
@@ -2072,7 +2072,7 @@
       "url": "https://x.com/AnthropicAI/status/2082153311189225927",
       "text": "R to @AnthropicAI: We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities. https://arxiv.org/abs/2607.18538",
       "images": [
-        "https://pbs.twimg.com/card_img/2087048998771392512/wDlBmlMp?format=jpg&name=420x420_2"
+        "https://pbs.twimg.com/card_img/2087048998771392512/CtzBid-r?format=jpg&name=420x420_2"
       ],
       "summary_ko": "R에서 @AnthropicAI로: 우리는 취리히 연방공과대학(ETH Zurich), 텔아비브 대학교(Tel Aviv University), 하이파 대학교(University of Haifa)의 학자들과 협력하여 LLM의 암호 분석 능력을 연구하기 위한 벤치마크인 CryptanalyticBench를 구축했습니다. https://arxiv.org/abs/2607.18538",
       "published_at": "2026-07-28T17:16:48+00:00"
