@@ -1,21 +1,72 @@
 {
-  "updated_at": "2026-08-14T18:53:31+00:00",
+  "updated_at": "2026-08-14T19:48:22+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 5
   },
   "briefing": {
-    "headline": "미국 상무부, 중국 주식펀드에 500억달러 유입",
+    "headline": "Anthropic, EU AI법 준수 위해 워터마킹 구현",
     "bullets": [
-      "중국 유동성 지표 위축",
-      "SMIC 홍콩 주가 4.8% 상승",
-      "애플, 알리바바 Qwen 접속 안내 삭제",
-      "SK하이닉스, 세계 최대 AI 메모리 구축"
+      "Google AI, Pixel 11 시리즈 및 Pixel Watch 5 출시",
+      "한투증권, 미국주식 전략 자료 작성",
+      "중국 주식펀드에 500억달러 이상 유입",
+      "SMIC 홍콩 주식 4.8% 상승",
+      "애플, 알리바바 Qwen 접속 안내 삭제"
     ],
-    "generated_at": "2026-08-14T18:53:31+00:00",
+    "generated_at": "2026-08-14T19:48:22+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:AnthropicAI:2088343978873966687",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2088343978873966687",
+      "text": "We’ve written an FAQ to answer some of the questions we've received about watermarking. In summary: • We’re implementing watermarking to comply with the EU AI Act. Other major model developers have signed the same Code of Practice and will also be implementing watermarking; • Our watermarking method doesn’t have any practical impact on the quality or content of Claude’s outputs; • The difference between watermarked and un-watermarked text will not be distinguishable to readers; • Nothing is added to the text and there are no hidden characters; • Watermarking doesn’t require extra tokens, and will not be more expensive; • Watermarks can’t be traced to a specific person, organization, or chat. Read more: https://www.anthropic.com/news/claude-text-watermark",
+      "images": [
+        "https://pbs.twimg.com/card_img/2088343979763159040/al6GoqqO?format=jpg&name=800x419"
+      ],
+      "summary_ko": "워터마킹에 관해 받은 몇 가지 질문에 답변하기 위해 FAQ를 작성했습니다. 요약하면 다음과 같습니다. • EU AI법을 준수하기 위해 워터마킹을 구현하고 있습니다. 다른 주요 모델 개발자들도 동일한 실천 강령에 서명했으며 워터마킹도 구현할 예정입니다. • 당사의 워터마킹 방법은 Claude 출력의 품질이나 내용에 실질적인 영향을 미치지 않습니다. • 워터마크가 있는 텍스트와 워터마크가 없는 텍스트의 차이는 독자가 구별할 수 없습니다. • 텍스트에 아무것도 추가되지 않으며 숨겨진 문자도 없습니다. • 워터마킹에는 추가 토큰이 필요하지 않으며 비용도 더 많이 들지 않습니다. • 워터마크는 특정 사람, 조직 또는 채팅을 추적할 수 없습니다. 더 읽어보세요: https://www.anthropic.com/news/claude-text-watermark",
+      "published_at": "2026-08-14T19:16:18+00:00"
+    },
+    {
+      "id": "x:GoogleAI:2088332438753681700",
+      "source": "x",
+      "author": "GoogleAI",
+      "author_name": "Google AI(구글 AI)",
+      "author_url": "https://x.com/GoogleAI",
+      "url": "https://x.com/GoogleAI/status/2088332438753681700",
+      "text": "It’s (finally) Friday 🎉 Here’s our end-of-week recap: — This year’s @madebygoogle lineup (Pixel 11 series, Pixel Watch 5, and Pixel Tag) brings new AI integrations across devices. A few of the key announcements were Magic Capture for simultaneous video and photo capture, Rambler’s AI voice typing and text transformation, and expanded Live Transcribe for real-time ASL-to-text translation using the Pixel camera. Tying it all together is Gemini Intelligence, our proactive, agentic AI layer to anticipate user needs. — Gemini 3.7 Flash, our most intelligent workhorse model yet for coding and agents, is now available in the Gemini API via @googleaistudio, @antigravity, Spark in the @geminiapp, and the Gemini Enterprise Agent Platform. It’s also rolling out to paid users on @googleworkspace, Gemini App, and Search. — @GoogleDeepMind's WeatherNext 2, an AI forecasting tool that can give meteorologists an extra day of accuracy when predicting a cyclone's track, intensity, and wind structure, is now open source. — The upgraded @Gemini_Notebook experience has been fully rolled out to all Pro users and the ability to copy a notebook has been rolled out to all users.",
+      "images": [],
+      "summary_ko": "(드디어) 금요일입니다 🎉 주말 요약은 다음과 같습니다. — 올해의 @madebygoogle 라인업(Pixel 11 시리즈, Pixel Watch 5 및 Pixel Tag)은 여러 기기에 걸쳐 새로운 AI 통합을 제공합니다. 주요 발표로는 비디오 및 사진 동시 캡처를 위한 Magic Capture, Rambler의 AI 음성 입력 및 텍스트 변환, Pixel 카메라를 사용하여 실시간 ASL을 텍스트로 번역하기 위한 확장된 Live Transcribe가 있었습니다. 이 모든 것을 하나로 묶는 것은 사용자 요구를 예측하는 사전 예방적 AI 계층인 Gemini Intelligence입니다. — 코딩 및 에이전트를 위한 가장 지능적인 주력 모델인 Gemini 3.7 Flash는 이제 @googleaistudio, @antigravity를 통해 Gemini API, @geminiapp의 Spark 및 Gemini Enterprise Agent Platform에서 사용할 수 있습니다. 또한 @googleworkspace, Gemi의 유료 사용자에게도 출시될 예정입니다.",
+      "published_at": "2026-08-14T18:30:27+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2088326407730692538",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2088326407730692538",
+      "text": "RT by @GoogleDeepMind: Gemini 3.7 Flash is now available to all Pro and Ultra users in Gemini chat. This model update delivers improved reasoning and accuracy for multi-step tasks like intelligently connecting the dots across dozens of files and emails into one master document. Give it a try today on the web or in the app!",
+      "images": [],
+      "summary_ko": "@GoogleDeepMind의 RT: 이제 Gemini 채팅에서 모든 Pro 및 Ultra 사용자가 Gemini 3.7 Flash를 사용할 수 있습니다. 이 모델 업데이트는 수십 개의 파일과 이메일의 점을 하나의 마스터 문서로 지능적으로 연결하는 것과 같은 다단계 작업에 대한 향상된 추론과 정확성을 제공합니다. 지금 바로 웹이나 앱에서 사용해 보세요!",
+      "published_at": "2026-08-14T18:06:29+00:00"
+    },
+    {
+      "id": "x:AnthropicAI:2088324824863236248",
+      "source": "x",
+      "author": "AnthropicAI",
+      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
+      "author_url": "https://x.com/AnthropicAI",
+      "url": "https://x.com/AnthropicAI/status/2088324824863236248",
+      "text": "As part of our Responsible Scaling Policy, we publish regular Risk Reports. These share detailed information on the risks of our systems and how prepared we are to address them. Our second Risk Report is now available: https://www.anthropic.com/aug-2026-risk-report",
+      "images": [],
+      "summary_ko": "책임 있는 확장 정책의 일환으로 정기적인 위험 보고서를 게시합니다. 이는 우리 시스템의 위험과 우리가 이를 해결하기 위해 얼마나 준비되어 있는지에 대한 자세한 정보를 공유합니다. 이제 두 번째 위험 보고서를 확인할 수 있습니다: https://www.anthropic.com/aug-2026-risk-report",
+      "published_at": "2026-08-14T18:00:12+00:00"
+    },
     {
       "id": "x:AndrewYNg:2088302050706686198",
       "source": "x",
@@ -734,7 +785,7 @@
       "url": "https://x.com/OpenAI/status/2087996497908609389",
       "text": "R to @OpenAI: Computer History builds on the Chronicle research preview with reduced token usage and more privacy controls. A new timeline view gives you the ability to look back on your work and build skills from your frequent tasks. From there or the menu bar, you can: - Clear all or parts of your history - Include or exclude apps and websites - Pause and resume Computer History https://learn.chatgpt.com/docs/customization/computer-history",
       "images": [
-        "https://pbs.twimg.com/card_img/2087981005995212800/XKytH5Db?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2088322136733630464/houHXRyM?format=jpg&name=800x419"
       ],
       "summary_ko": "R에서 @OpenAI로: 컴퓨터 기록은 토큰 사용량을 줄이고 더 많은 개인 정보 보호 제어 기능을 갖춘 Chronicle 연구 미리보기를 기반으로 구축되었습니다. 새로운 타임라인 보기를 통해 작업을 되돌아보고 자주 수행하는 작업을 통해 기술을 쌓을 수 있습니다. 여기 또는 메뉴 표시줄에서 다음을 수행할 수 있습니다. - 기록 전체 또는 일부 지우기 - 앱 및 웹사이트 포함 또는 제외 - 컴퓨터 기록 일시 중지 및 재개 https://learn.chatgpt.com/docs/customization/computer-history",
       "published_at": "2026-08-13T20:15:32+00:00"
@@ -1700,7 +1751,7 @@
       "url": "https://x.com/demishassabis/status/2085775218249711887",
       "text": "RT by @demishassabis: My column on @demishassabis in The Times. —Given his record of caring about AI safety and impact, people should err on the side of believing his own explanation for stepping back from management. When we spoke a lot last year, he gave me the sense that this moment might come. —Gemini is behind for now, and several famous names have quit the AI research team. But Google has deep commercial strengths. And technical progress probably depends on young cutting edge researchers who are yet to be famous. https://www.thetimes.com/article/5611b33d-3c1a-41ad-a1de-854260de04c2?shareToken=08093b25f32d1aa637ab8a80dfcf0c98",
       "images": [
-        "https://pbs.twimg.com/card_img/2085775042994982912/XHYwKInH?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2088241399107833856/ln-SfChT?format=png&name=420x420_2"
       ],
       "summary_ko": "@demishassabis의 RT: The Times의 @demishassabis에 대한 내 칼럼입니다. —그가 AI의 안전성과 영향에 대해 신경 쓴 기록을 볼 때 사람들은 경영진에서 물러난 것에 대한 자신의 설명을 믿는 편에 서야 합니다. 작년에 많은 이야기를 나누면서 이런 순간이 올지도 모른다는 느낌을 주셨어요. —Gemini는 현재 뒤쳐져 있으며 몇몇 유명 인사들이 AI 연구팀을 그만뒀습니다. 하지만 구글은 상업적으로 큰 강점을 갖고 있습니다. 그리고 기술적 진보는 아마도 아직 유명하지 않은 젊은 최첨단 연구자들에 달려 있을 것입니다. https://www.thetimes.com/article/5611b33d-3c1a-41ad-a1de-854260de04c2?shareToken=08093b25f32d1aa637ab8a80dfcf0c98",
       "published_at": "2026-08-07T17:08:58+00:00"
@@ -1983,20 +2034,6 @@
       "published_at": "2026-07-30T23:02:34+00:00"
     },
     {
-      "id": "x:GoogleDeepMind:2082904278461469091",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2082904278461469091",
-      "text": "R to @GoogleDeepMind: To be truly useful, a robot needs the dexterity that humans take for granted. But asking AI models to coordinate these motions is incredibly complicated. In this demo, we pushed Apollo 2 to master fine motor skills and complete tricky kitchen chores ↓",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2082903401789001729/img/ERGitghxwfO99T7u.jpg"
-      ],
-      "summary_ko": "R에서 @GoogleDeepMind로: 로봇이 진정으로 유용하려면 인간이 당연하게 여기는 손재주가 필요합니다. 그러나 AI 모델에 이러한 동작을 조정하도록 요청하는 것은 엄청나게 복잡합니다. 이 데모에서 우리는 Apollo 2를 사용하여 미세한 운동 능력을 익히고 까다로운 주방 집안일을 완료했습니다 ↓",
-      "published_at": "2026-07-30T19:00:53+00:00"
-    },
-    {
       "id": "x:GoogleAI:2082902334984609936",
       "source": "x",
       "author": "GoogleAI",
@@ -2271,20 +2308,6 @@
       "published_at": "2026-07-21T15:30:06+00:00"
     },
     {
-      "id": "x:AnthropicAI:2079256626771665098",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2079256626771665098",
-      "text": "We're offering grants of up to $50,000 in Claude usage credits to researchers accelerating cures for rare diseases. This is our first focused call within AI for Science, our program supporting scientists using Claude to speed up discovery. https://www.anthropic.com/news/rare-disease-research-grants",
-      "images": [
-        "https://pbs.twimg.com/card_img/2087384470722674688/H61UTX_x?format=jpg&name=800x419"
-      ],
-      "summary_ko": "희귀 질환 치료를 가속화하는 연구자들에게 Claude 사용 크레딧으로 최대 50,000달러의 보조금을 제공하고 있습니다. 이는 Claude를 사용하여 발견 속도를 높이는 과학자를 지원하는 프로그램인 AI for Science 내에서 처음으로 집중된 통화입니다. https://www.anthropic.com/news/rare-disease-research-grants",
-      "published_at": "2026-07-20T17:26:25+00:00"
-    },
-    {
       "id": "x:AndrewYNg:2078144569594761591",
       "source": "x",
       "author": "AndrewYNg",
@@ -2297,32 +2320,6 @@
       ],
       "summary_ko": "새로운 과정: 빠른 추론을 위해 설계된 하드웨어에서 실행하여 사용자 요청에 신속하게 응답하는 LLM 응용 프로그램을 구축합니다. 이 짧은 코스는 @Cerebras와 함께 제작되었으며 @zhennydez, @duerr_seb 및 @MilksandMatcha가 가르쳤습니다. 모델이 텍스트를 생성할 때 가중치를 메모리에서 계산 단위로 이동하는 데 많은 시간이 소요됩니다. 추론 최적화 하드웨어는 이러한 움직임을 최소화하여 일반적인 GPU 설정보다 토큰 생성을 몇 배 더 빠르게 만듭니다. 이 과정에서 사용하게 될 하드웨어는 모델의 가중치를 계산 단위에 가깝게 유지하여 빠른 추론을 위해 설계된 Cerebras의 웨이퍼 스케일 엔진입니다. 빠른 추론을 통해 긴 에이전트 워크플로가 더 빨라지고 실시간 번역 및 음성 에이전트와 같이 대기 시간에 민감한 실시간 애플리케이션이 잠금 해제됩니다. 스키",
       "published_at": "2026-07-17T15:47:30+00:00"
-    },
-    {
-      "id": "x:GoogleAI:2077803351392268314",
-      "source": "x",
-      "author": "GoogleAI",
-      "author_name": "Google AI(구글 AI)",
-      "author_url": "https://x.com/GoogleAI",
-      "url": "https://x.com/GoogleAI/status/2077803351392268314",
-      "text": "RT by @GoogleAI: 3 years ago we started as a tiny experiment with the goal of helping you learn faster. Since then, we grew to bring audio, video, and interactivity to your sources, transitioning from a passive workspace to your true research companion. And now, notebooks have even become an entire ecosystem: you can already access them in the @GeminiApp and soon in Google Search So, with these advancements, it’s time for us to evolve once again: NotebookLM is now Gemini Notebook ✨📓 The same app you know and love isn’t going anywhere, we just have an updated name that reflects our role in Google's AI portfolio. And our mission stays exactly the same: helping you learn, faster. Thank you for believing in us— this wouldn't have been possible without your passion (and feature requests...) Big things to come (yes, even folders📂!) so stay tuned. Sincerely, The Project Tailwind team",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2077803235314896896/img/p59_jo3Rjk99bb7_.jpg"
-      ],
-      "summary_ko": "@GoogleAI의 RT: 3년 전 우리는 여러분이 더 빨리 배울 수 있도록 돕기 위한 작은 실험으로 시작했습니다. 그 이후로 우리는 오디오, 비디오 및 상호 작용 기능을 소스에 제공하여 수동적인 작업 공간에서 진정한 연구 동반자로 전환했습니다. 이제 노트북은 전체 생태계가 되었습니다. @GeminiApp과 곧 Google 검색에서 이미 액세스할 수 있습니다. 따라서 이러한 발전을 통해 우리는 다시 한 번 진화해야 할 때입니다. NotebookLM은 이제 Gemini Notebook입니다 ✨📓 여러분이 알고 사랑하는 동일한 앱은 더 이상 사라지지 않을 것입니다. Google의 AI 포트폴리오에서 우리의 역할을 반영하는 업데이트된 이름만 갖게 되었습니다. 그리고 우리의 사명은 똑같습니다. 즉, 여러분이 더 빨리 배울 수 있도록 돕는 것입니다. 저희를 믿어주셔서 감사합니다. 이는 여러분의 열정과 기능 요청이 없었다면 불가능했을 것입니다.",
-      "published_at": "2026-07-16T17:11:37+00:00"
-    },
-    {
-      "id": "x:AnthropicAI:2077452649000042614",
-      "source": "x",
-      "author": "AnthropicAI",
-      "author_name": "Anthropic(앤스로픽) · Claude 개발사",
-      "author_url": "https://x.com/AnthropicAI",
-      "url": "https://x.com/AnthropicAI/status/2077452649000042614",
-      "text": "R to @AnthropicAI: We tested many AI models, including Claude, in the four scenarios. Even though these weren’t real incidents, they demonstrate clear misaligned behavior that should be studied further and mitigated. Find all the transcripts from the scenarios here: https://www.aenguslynch.com/portfolio-transcript-viewer/",
-      "images": [],
-      "summary_ko": "R에서 @AnthropicAI로: 우리는 네 가지 시나리오에서 Claude를 포함한 많은 AI 모델을 테스트했습니다. 실제 사건은 아니었지만, 더 자세히 연구하고 완화해야 할 명백히 잘못된 행동을 보여줍니다. 여기에서 시나리오의 모든 기록을 찾아보세요: https://www.aenguslynch.com/portfolio-transcript-viewer/",
-      "published_at": "2026-07-15T17:58:03+00:00"
     },
     {
       "id": "rss:semianalysis:the-future-of-meta-superintelligence",
