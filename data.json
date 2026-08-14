@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-08-14T19:48:22+00:00",
+  "updated_at": "2026-08-14T20:30:35+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 5
+    "new_this_run": 0
   },
   "briefing": {
-    "headline": "Anthropic, EU AI법 준수 위해 워터마킹 구현",
+    "headline": "중국 주식펀드에 500억달러 유입",
     "bullets": [
-      "Google AI, Pixel 11 시리즈 및 Pixel Watch 5 출시",
+      "Anthropic, EU AI법 준수를 위한 워터마킹 구현",
+      "Google DeepMind, Gemini 3.7 Flash 모델 출시",
       "한투증권, 미국주식 전략 자료 작성",
-      "중국 주식펀드에 500억달러 이상 유입",
-      "SMIC 홍콩 주식 4.8% 상승",
-      "애플, 알리바바 Qwen 접속 안내 삭제"
+      "SMIC 홍콩 주가 4.8% 상승",
+      "글로벌 자금 유입 가속화"
     ],
-    "generated_at": "2026-08-14T19:48:22+00:00",
+    "generated_at": "2026-08-14T20:30:35+00:00",
     "model": "groq"
   },
   "items": [
@@ -1883,20 +1883,6 @@
       "published_at": "2026-08-06T15:59:54+00:00"
     },
     {
-      "id": "x:demishassabis:2085395442347524506",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2085395442347524506",
-      "text": "RT by @demishassabis: Predicting cyclones accurately can help save lives - and every hour of lead time counts. Published in @Nature, our AI model WeatherNext achieves state-of-the-art accuracy in forecasting a storm’s track and intensity, giving us a critical extra 24 hours to prepare on average. 🧵",
-      "images": [
-        "https://pbs.twimg.com/media/HPDPoMdXEAAPAl_.jpg"
-      ],
-      "summary_ko": "@demishassabis의 RT: 사이클론을 정확하게 예측하면 생명을 구하는 데 도움이 될 수 있으며 리드 타임의 매 시간이 중요합니다. @Nature에 게시된 AI 모델 WeatherNext는 폭풍의 경로와 강도를 예측하는 데 있어 최첨단 정확도를 달성하여 평균적으로 대비할 수 있는 중요한 추가 시간을 24시간 제공합니다. 🧵",
-      "published_at": "2026-08-06T15:59:52+00:00"
-    },
-    {
       "id": "x:GoogleDeepMind:2085395442347524506",
       "source": "x",
       "author": "GoogleDeepMind",
@@ -1908,6 +1894,20 @@
         "https://pbs.twimg.com/media/HPDPoMdXEAAPAl_.jpg"
       ],
       "summary_ko": "사이클론을 정확하게 예측하면 생명을 구하는 데 도움이 될 수 있으며 리드 타임의 매 시간이 중요합니다. @Nature에 게시된 AI 모델 WeatherNext는 폭풍의 경로와 강도를 예측하는 데 있어 최첨단 정확도를 달성하여 평균적으로 대비할 수 있는 중요한 추가 시간을 24시간 제공합니다. 🧵",
+      "published_at": "2026-08-06T15:59:52+00:00"
+    },
+    {
+      "id": "x:demishassabis:2085395442347524506",
+      "source": "x",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2085395442347524506",
+      "text": "RT by @demishassabis: Predicting cyclones accurately can help save lives - and every hour of lead time counts. Published in @Nature, our AI model WeatherNext achieves state-of-the-art accuracy in forecasting a storm’s track and intensity, giving us a critical extra 24 hours to prepare on average. 🧵",
+      "images": [
+        "https://pbs.twimg.com/media/HPDPoMdXEAAPAl_.jpg"
+      ],
+      "summary_ko": "@demishassabis의 RT: 사이클론을 정확하게 예측하면 생명을 구하는 데 도움이 될 수 있으며 리드 타임의 매 시간이 중요합니다. @Nature에 게시된 AI 모델 WeatherNext는 폭풍의 경로와 강도를 예측하는 데 있어 최첨단 정확도를 달성하여 평균적으로 대비할 수 있는 중요한 추가 시간을 24시간 제공합니다. 🧵",
       "published_at": "2026-08-06T15:59:52+00:00"
     },
     {
