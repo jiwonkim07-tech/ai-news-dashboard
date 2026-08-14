@@ -1,21 +1,33 @@
 {
-  "updated_at": "2026-08-14T08:15:41+00:00",
+  "updated_at": "2026-08-14T10:01:45+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 14
+    "new_this_run": 4
   },
   "briefing": {
-    "headline": "중국 주식펀드에 500억달러 유입",
+    "headline": "골드만삭스, 샌디스크 목표가 상향",
     "bullets": [
-      "애플, 중국 본토에 '애플 인텔리전스' 출시 안함",
-      "중국 탄산리튬 가격 148000위안/톤",
+      "중국 주식펀드에 500억달러 이상 유입",
+      "한국카본 100% 자회사 합병 공시",
       "SK하이닉스, 세계 최대 AI 메모리 구축",
-      "마이크론, 2억5000만달러 규모 '패러다임 펀드' 출범"
+      "마이크론 벤처스, 2억 5,000만 달러 규모 패러다임 펀드 출범"
     ],
-    "generated_at": "2026-08-14T08:15:41+00:00",
+    "generated_at": "2026-08-14T10:01:45+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19715",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19715",
+      "text": "JP모건, 샌디스크(\n$SNDK\n), 투자의견 ‘비중확대(Overweight)’ 및 목표주가 2,250달러로 커버리지 재개\n\"당사는\n샌디스크(Sandisk)가 AI 추론의 폭발적 성장에 힘입은 낸드(NAND) 수요의 구조적 변곡점을 포착하기에 여러 측면에서 독보적인 입지를 확보하고 있다고 판단\n합니다. 당사의 '비중확대(OW)' 의견을 뒷받침하는 세 가지 핵심 동력은 다음과 같습니다.\"\n1) 신규 비즈니스 모델(NBM) 프레임워크 (장기공급계약, LTA):\n샌디스크의 마진 구조를 구조적으로 상향 조정하고 사이클 변동성을 크게 완화했습니다. 현재 체결된 8건의 NBM 계약은 최저보장가격(Floor pricing) 기준 총 약 940억 달러 규모에 달하며, 가중평균 계약 기간은 4년 이상, 최저보장가격 구간에서도 약 80%의 매출총이익률(GM)을 유지합니다.\n2) 낸드(NAND) 시장 규모(TAM)의 급격한 팽창:\nNAND 시장 TAM은 CY25(2025년) 약 700억 달러(JPMorgan 추정치)에서 CY26 3,000억 달러 이상, CY27 약 5,000억 달러 규모로 변곡점을 맞이하고 있습니다\n. 하이퍼스케일 및 클라우드 고객사들이 추론 시대의 워크로드(비트 수요 증가의 핵심 동인인 지속적 KV 캐시 포함)에 플래시를 대거 채택함에 따라 데이터센터가 성장을 압도적으로 견인할 것입니다.\n3) 압도적인 기술 리더십:\nBiCS8 대비 웨이퍼당 비트 용량이 65% 증가한 332단 2Tb QLC인 'BiCS10' 샘플링을 예정보다 앞당겨 진행 중이며, BiCS 세대 진화에 따른 웨이퍼당 비트 생산성은 연평균 27%(CAGR) 증가할 전망입니다.\n또한 HBF(고대역폭 플래시)가 추론 시대의 차별화된 메모리 플랫폼으로 부상하고 있습니다.\n장기 재무 모델 및 수익성 전망\n경영진은\nFY28FY30(20282030 회계연도)\n을 목표로 하는 장기 재무 모델을 발표했습니다:\n*\n매출 성장률: 10%대 중후반(mid-/high-teens%, 비트 성장률과 일치하며 가격 변동이 없다는 보수적 가정)\n*\n매출총이익률(GM): 약 80%\n* 영업이익률(OpM): 약 75%\n* 조정 잉여현금흐름(FCF) 마진: 약 50%\n이는\n과거 GM이 이보다 훨씬 낮은 수준에서 등락을 반복했던 업계 관행과 비교해 확연한 체질 개선(step-change)을 의미\n합니다.\n구조적 변화와 가시성 개선\n당사는 이를 사이클 고점에서의 일시적인 단기 가격 수혜가 아닌 실질적인 구조적 재편으로 평가합니다:\n*\n계약 비중 확대: NBM은 FY27 전체 비트 출하량의 50% 이상, FY28에는 약 3분의 2를 차지할 예정\n입니다.\n*\n사업 가시성 확보\n: 165억 달러 규모의 금융 보증을 기반으로 월별 공급 물량, 제품 믹스 및 가격 약정이 구체화되어 있어, 기존 업계 표준 관행이었던\n'3개월 단위의 가격 가시성'\n에서 주요 전략 고객과의\n'4년 이상의 확정된 수익성(committed economics)'\n으로 사업 가시성이 대폭 개선되었습니다.\n주주 환원 및 장기 밸류에이션\n* 이익 레버리지 및 주주 환원:\n최저보장가격에서도 수년간의 계약 기간 동안 약 80% 수준의 GM을 유지할 수 있으며, 변동 가격 메커니즘을 통해 추가적인 업사이드 확보가 가능합니다.\n10%대 중후반의 매출 성장이 25% 이상의 주당순이익(EPS) 연평균 성장률(CAGR)로 전환됨에 따라,\n현 시장 컨센서스가 온전히 반영하지 못한 강력한 이익 레버리지가 존재합니다. 더불어 잉여현금흐름의 100%를 주주에게 환원하겠다는 방침은 공격적인 주식 수 감축으로 이어져 주당 EPS 성장을 더욱 증폭시킬 것\n입니다.\n*\n목표주가 및 미래 기술 옵션:\n이러한 높은 사이클 관통 수익성, 지속적인 비트 수요 증가, 유통 주식 수 감소의 결합은 복리적 이익 창출력을 발휘하여\n당사의 CY27 EPS 추정치 250달러를 뒷받침하며, 그 이후로도 의미 있는 EPS 성장을 이어갈 다년간의 경로를 제시합니다.\n장기적으로 HBF(고대역폭 플래시) 및 신흥 3D 매트릭스 메모리(3D Matrix Memory) 기술은 추론 시대 메모리 아키텍처에서 막대한 가치를 지닌 실질적 콜옵션 역할을 할 것이며,\n이는 현재 시장 컨센서스나 밸류에이션에 아직 충분히 반영되지 않았습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-14T09:55:25+00:00"
+    },
     {
       "id": "tg:EMchina/32358",
       "source": "telegram",
@@ -1151,20 +1163,6 @@
       "published_at": "2026-08-13T04:40:22+00:00"
     },
     {
-      "id": "tg:bornlupin/19702",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19702",
-      "text": "젠슨 황 엔비디아 CEO\n강력한 A100 인프라(플릿)는 2020년부터 2029년까지 임무 수행이 가능합니다.\n엔비디아 컴퓨팅은 단순한 칩 그 이상입니다. CUDA는 개발자와 엔비디아 엔지니어에게 공통 플랫폼을 제공하여 앰페어(Ampere), 호퍼(Hopper), 블랙웰(Blackwell)의 내용연수 전체에 걸쳐 지속적으로 성능을 업그레이드할 수 있게 해줍니다.\n​\nCUDA는 엔비디아 컴퓨팅을 범용적으로 만듭니다. 범용성은 대체 가능성(Fungibility)을 만들어냅니다. 대체성은 가동률을 높이고 수명을 연장하여, 엔비디아 컴퓨팅을 임대 가능하고 내구성이 높으며 금융 조달이 가능한 생산적 자산\n으로 만들어 줍니다.\n(  ​인용된 기사 (Business Insider)\n2029년까지 엔비디아 A100 GPU를 계속 활용하겠다는 코어위브(CoreWeave)의 확약은 'AI 칩의 수명이 짧다'는 통념에 도전하고 있습니다.  )",
-      "images": [
-        "https://cdn5.telesco.pe/file/Ftl_-jbO6ebflooaBXUBkyCqMBe15DxvCp2G3BlPH928U3iM3ZNfiJEqkM_3Hg9SLX5vcfyC3L6W9I2-hXejIOSzRASBiq2zGSVceLhhbahdNFYt7FH9F3hccw_eUbhgnv18qRIS5uRCKI5B0_Yslbgt8drpBdiu3mU91ss1Oycemo3Pjn6HgoxSvo-r7CsKK2S8BTRK3zlo-bqSovEf1-XbOO1_g6X6oTsB7aZ5WQM2yQb-iq8pXdbbC2xwewAIzF0Qu7rIp9fRcQMfWPLkVscZha4K4FrkHFMJ8FJvvnTgrjsjCJMpWxAZPIOuEEvkl4mj6pqYt8tp1-VGDL_3Ww.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-13T04:23:40+00:00"
-    },
-    {
       "id": "tg:HI_GS/6895",
       "source": "telegram",
       "author": "HI_GS",
@@ -1756,7 +1754,7 @@
       "url": "https://x.com/sama/status/2085473085399150817",
       "text": "RT by @sama: Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more. https://www.youtube.com/watch?v=87DyyMV0kCY I hope it can answer a lot of the questions folks have, and we will release a full detailed postmortem at a later time!",
       "images": [
-        "https://pbs.twimg.com/card_img/2088106988714778624/OsVtlpbo?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2088047625480065024/0QGeIbo2?format=jpg&name=800x419"
       ],
       "summary_ko": "RT by @sama: 어제 OpenAI 공동 작업자와 저는 Huggingface 사건, \"메시지 보드\"를 생성하는 모델, 모델 정렬 불량 등에 대해 자세히 설명했습니다. https://www.youtube.com/watch?v=87DyyMV0kCY 사람들이 궁금해하는 많은 질문에 답할 수 있기를 바랍니다. 자세한 사후 분석은 나중에 공개하겠습니다!",
       "published_at": "2026-08-06T21:08:24+00:00"
@@ -1883,7 +1881,7 @@
       "url": "https://x.com/AnthropicAI/status/2084748111239344556",
       "text": "The UK’s @AISecurityInst (AISI) has published a report on their recent cybersecurity evaluation of Anthropic’s Claude Mythos 5 and OpenAI’s GPT-5.6 Sol. The models attempted to complete an assignment in a setup where their normal safeguards were removed and they were deliberately given internet access. AISI reports that the models “engaged in sustained, potentially harmful activity directed at real people and organisations”. We’re grateful to AISI for their leadership in the important discussion about how to evaluate increasingly capable AI agents. We’re working closely with them to gather more details of the incident as we conduct our own investigation. Gaining a clear picture of Claude’s understanding of its situation—by examining its reasoning transcripts and running our own analyses—will help us identify the causes of its behavior. The prompts in the evaluation did not impose any specific restrictions on how the internet should be used. This and the removal of safeguards meant that the models were tested under “deliberately permissive conditions” that are not representative of any of our production models. Note that there was no evidence here of an escape from a secure environment. AISI’s disclosure of the incident can be found here: http://www.aisi.gov.uk/blog/incident-report-unsanctioned-agent-behaviour-during-cyber-testing",
       "images": [
-        "https://pbs.twimg.com/card_img/2085625052754743296/Zl6ZLVL5?format=png&name=800x419"
+        "https://pbs.twimg.com/card_img/2085625052754743296/wIFcD87N?format=png&name=800x419"
       ],
       "summary_ko": "영국의 @AISecurityInst(AISI)는 Anthropic의 Claude Mythos 5와 OpenAI의 GPT-5.6 Sol에 대한 최근 사이버 보안 평가 보고서를 발표했습니다. 모델은 일반적인 보호 장치가 제거되고 의도적으로 인터넷 액세스가 허용된 설정에서 과제를 완료하려고 시도했습니다. AISI는 해당 모델이 \"실제 사람과 조직을 대상으로 지속적이고 잠재적으로 유해한 활동에 참여\"했다고 보고합니다. 점점 더 능력이 향상되는 AI 에이전트를 평가하는 방법에 대한 중요한 토론에서 리더십을 발휘한 AISI에 감사드립니다. 우리는 자체 조사를 진행하면서 사건에 대한 자세한 내용을 수집하기 위해 그들과 긴밀히 협력하고 있습니다. 추론 기록을 검토하고 자체 분석을 실행하여 상황에 대한 Claude의 이해에 대한 명확한 그림을 얻습니다.",
       "published_at": "2026-08-04T21:07:37+00:00"
