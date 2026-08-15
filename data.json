@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-15T15:19:32+00:00",
+  "updated_at": "2026-08-15T16:23:41+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 1
   },
   "briefing": {
     "headline": "레노버: 'AI PC 중국 시장 판매량 50% 이상'",
@@ -10,10 +10,10 @@
       "엔비디아, 2100억 달러 규모 스페이스X 지분 공개",
       "앤트로픽, 2분기 매출 115억 달러 돌파",
       "미중, 반도체 칩 공급 부족 사태 속 애플 비용 억제 노력",
-      "젠슨황, 5000억 달러 베팅의 핵심은 AI칩 리스 채권 증권화",
-      "마이크론, SNDK 모델 적용시 2030년 EPS 컨센대비 73% 폭증 가능성"
+      "젠슨황, 5000억달러 반도체칩 베팅",
+      "마이크론, SNDK 모델 적용시 2030년 EPS 컨센대비 +73% 폭증 가능성"
     ],
-    "generated_at": "2026-08-15T15:19:32+00:00",
+    "generated_at": "2026-08-15T16:23:41+00:00",
     "model": "groq"
   },
   "items": [
@@ -1548,9 +1548,7 @@
       "author_url": "https://x.com/sama",
       "url": "https://x.com/sama/status/2086881528282587524",
       "text": "please consider using our models to help defend your systems",
-      "images": [
-        "https://pbs.twimg.com/card_img/2086864438372564992/mfnG5tI-?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "귀하의 시스템을 보호하는 데 도움이 되도록 당사 모델을 사용해 보십시오.",
       "published_at": "2026-08-10T18:25:03+00:00"
     },
@@ -1562,9 +1560,7 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2086867246073401655",
       "text": "We asked an unreleased research version of Claude to take a stab at the Riemann hypothesis. It didn’t solve it, but it did make strides on a related problem: it increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from 41.6% to 67.2%. https://www.anthropic.com/research/riemann-zeta",
-      "images": [
-        "https://pbs.twimg.com/card_img/2086867140821520384/LMrVaO3G?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "우리는 아직 공개되지 않은 연구 버전의 Claude에게 리만 가설을 검증해 달라고 요청했습니다. 이 문제를 해결하지는 못했지만 관련 문제에서 큰 진전을 이루었습니다. 즉, 가설을 충족하는 리만 제타 함수의 0 비율에 대한 하한을 41.6%에서 67.2%로 늘렸습니다. https://www.anthropic.com/research/riemann-zeta",
       "published_at": "2026-08-10T17:28:18+00:00"
     },
