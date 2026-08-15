@@ -1,22 +1,123 @@
 {
-  "updated_at": "2026-08-15T01:12:31+00:00",
+  "updated_at": "2026-08-15T02:51:15+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 3
+    "new_this_run": 10
   },
   "briefing": {
-    "headline": "엔비디아 & 오픈AI 2500억달러",
+    "headline": "엔비디아, 210억 달러 스페이스X 지분 공개",
     "bullets": [
-      "필리핀, 유로파이터 타이푼 32대 도입 검토",
-      "이란에 전례없는 경제적 고립 조치 시행",
-      "글로벌 자금, 중국 주식펀드에 500억달러 이상 유입",
-      "SMIC 홍콩 주가 4.8% 상승",
-      "중국 유동성 지표 7월 위축"
+      "애플, 치솟는 비용 억제 위해 메모리 공급 부족 대책 마련",
+      "젠슨황, 5000억달러 베팅의 핵심은 AI칩 리스 채권 증권화",
+      "앤트로픽, 2분기 매출 115억 달러 돌파",
+      "마이크론, SNDK 모델 적용시 2030년 EPS 컨센스대비 +73% 폭증 가능성"
     ],
-    "generated_at": "2026-08-15T01:12:31+00:00",
+    "generated_at": "2026-08-15T02:51:15+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19721",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19721",
+      "text": "Situational Awareness, 레오폴드 아셴브레너(Leopold Aschenbrenner)\n2분기 13F 보고서를 제출\n보유 비중 상위 5개 종목 (Top 5 Positions)\n* 샌디스크 $SNDK: 28.52%\n* 마이크론 $MU: 28.01%\n* 블룸에너지 $BE: 9.54%\n* TSMC $TSM: 6.36%\n* 네비우스 $NBIS: 6.20%\n* 주요 매수 종목 (Top Buys):\n$MU\n,\n$SNDK\n,\n$TSM\n,\n$NBIS\n,\n$STM\n* 주요 매도 종목 (Top Sales): $SMH 풋, $NVDA 풋, $ORCL 풋, $AVGO 풋, $AMD 풋\n*\n신규 편입 종목 (New Positions):\n$NBIS\n,\n$STM\n,\n$VSH\n,\n$CBRS\n상위 25개 포지션 (Top 25 Positions)  - 첨부사진",
+      "images": [
+        "https://cdn5.telesco.pe/file/l2asVVoO0i4n3IOx3PdtV-4B1JfIHEcl1jwCMB_5UgtAQNgYKfp53mhBaAunf_2I1Nb-noj7NXBk7Ak3ryX1bmbkh8luyglj0vIRcus2GILhl4KeKx0gW8Ef3XfT_CJwH7ymgBgqKAKl3t7ui0-wFtbn2nGAl5hMdX5G7yjqu_fX2HoG65NJeSRtqa9yBHGJARto9GqfHDZtxL7rF5fuD7DrKHPP3RUOdpfmLj4TXmb2ghguZAAf4rRIx4XsVkopzqxBrrG0z2rHSA0BorG7Uw0VCljDOg4JLAC44FJydgUC3g9nAycCteNapMqTlOF_Qr6r-PmYNRGak-FLQ2iuLg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-15T02:47:16+00:00"
+    },
+    {
+      "id": "tg:EMchina/32372",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32372",
+      "text": "~ 중국의 베테랑 기술산업 연구원인 마지화는 11일 중국 관영매체 글로벌 타임스와 인터뷰에서 \"세계적인 메모리 공급 부족 사태 속에서 애플은 치솟는 비용을 억제하기 위해 공급망을 확대해야 하는 상황\"이라며 이같이 말했다  https://news.einfomax.co.kr/news/articleView.html?idxno=4429525",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-15T02:29:40+00:00"
+    },
+    {
+      "id": "tg:EMchina/32371",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32371",
+      "text": "젠슨황 5000억달러 베팅의 핵심: 반도체칩이 테크 제품 감가상각 철칙  뒤집을 수 있을까  • 이번 베팅은 AI칩 리스 채권 증권화 &  새로운 금융자산 창출. 핵심 논리는 AI 열풍에 힘입어 움직이는 칩 수요로 가격이 더 오랜 기간 높은 수준으로 유지될 것이라는 점  • 젠슨황은 A100에 대해 25%의 잔존가치 보증 약속. 근본적인 위험은 반도체칩 기술 진화와 불확실한 수요로 테크 제품의 빠른 감가상각이라는 철칙 깨뜨릴 수 있을지 여부  黄仁勋50…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-15T02:28:30+00:00"
+    },
+    {
+      "id": "tg:EMchina/32370",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32370",
+      "text": "중국 기술주는 항상 밸류에이션 과열 경고\n• 다만 중국은 귀주모태주에도 20배 주는 시장\n========================\n~ 상하이 증시 대표 기술주 50개사를 추종하는 스타50 지수의 평균 PER은 150배를 웃돈다. 미국 나스닥100 지수의 평균 수치인 35배를 4배 이상 웃도는 수준이다\nhttps://www.g-enews.com/article/Global-Biz/2026/08/202608150951333980fbbec65dfb_1",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-15T02:23:06+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19720",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19720",
+      "text": "엔비디아(NVDA), 약 210억 달러 규모의 스페이스X(SPCX) 지분 공개\n​엔비디아는 최근 미국 증권거래위원회(SEC) 공시를 통해 분기 말 기준 약 210억 달러(약 28조 원) 상당에 달하는 스페이스X의 클래스 A 보통주 1억 2,280만 주를 보유하고 있다고 밝혔습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/pWWkO6nB3Dzp9dMUolQIlWb2ndY4XanMPO_c8rBH-JFZAucJukpuW575F0Hllzxf-ncDdZXkT8pTt3ZiG4fEGKbnjaFRHItjN7i2Rgt9UNdS3FRf17JJbk4-msMHTAp0NA-NCHKL9_wph_ycCKxfCx6eYQr_d-irF3TG0yhSyrpM5lJB2wNO6Zl6YbBgN6crt0wM-qGMTpY58sMNRyye77_AxZr_kSvmOorRrySrs5tuWKFEFKfA44Hs7wX54lLAd6du99DI5r3R-0X-SZLekuOGT3jW6Q1gsfjN6EH7YCHbQFdQcClTKTeVutWJ_HQZ-MhFskwZQfbxu3sVyZjjMA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-15T02:20:37+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19719",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19719",
+      "text": "마이크론 : SNDK 모델 적용시 2030년 EPS 컨센대비 +73% 폭증 가능성 (Bofa)\n1. SNDK 모델의 핵심 전제 조건\n• 매출 성장률: 연간 매출 성장률 15% 이상 유지 전제\n• 총마진율(GM): FY28E~FY30E 기간 동안 80%의 높은 수익성을 안정적으로 유지\n• 잉여현금흐름 마진: 50% 이상의 높은 FCF 마진 창출\n2. 시장 컨센서스 vs SNDK 모델 실적 비교 (FY26~FY30)\n•\n매출 비교\n: 컨센서스는 FY30E $2,805억에 그치나, SNDK 모델 적용 시 FY30E $3,773억 달성\n→\nFY26-30E CAGR 30.7% vs 컨센서스 21.4%\n•\nGM 비교\n:\n컨센서스는 FY29E 73.5%, FY30E 78.0%로 주춤하는 반면, SNDK 모델은 80% 수준 지속\n•\nEPS 성장 궤적\n:\n1) 시장 컨센서스\n: FY28E $168.91, FY29E $168.94 정점 달성 후 FY30E $136.24로 꺾이는 주기성(Cyclicality) 반영\n2) SNDK 모델\n: FY28E $168.80 → FY29E $199.53 → FY30E $236.16으로 지속 성장\n→\nFY26-30E CAGR 34.1% vs 컨센서스 16.8%\n3. 피크아웃 논란 해소 및 밸류에이션 리레이팅\n•\n이익 구조의 변화\n: 단순 사이클 산업에서 구조적으로 높은 이익 체력을 유지하는 모델로 전환\n•\n역사적 PER 적용 시\n: 과거 마이크론의 평균 배수인 PER 10배만 적용해도 상당한 주가 상방 여력 확보\n•\n멀티플 재평가\n: 실적 변동성이 낮아짐에 따라 AI 인프라 수혜기업 수준인 PER 12배~15배로 타깃 멀티플 상향 가능 (현재 마이크론의 PER은 6~7배 수준)",
+      "images": [
+        "https://cdn5.telesco.pe/file/PKWK8yTTTEty7Zd6-NoVn8UNh03hbu0KcwjZJB6Ela473P2lCGpxwNC8hRpn2_3wrcTSmyPJToJGg_eG26rUXfj7s2KCl_5sf1_R-REYee06yeWXR4wzVCYhPfOHgvLQs5i613WYXWLBqnoNNYuNDsm2yAnsIvD3HT9gMpu7AMb6g2fjMNlsW7w5TM32sVYOEKV_agYf4o1X-3tdFKffwW6A_ZRsU9DK1luZZubuGPOY6ZzL8lCFGxomF_ZQu8u9HJEMZkcLWg0gDDrF26511w04LUVcciFY1AvxOEYauUn04WETMqkOHml8gTH-6xwjQGlVzcaoyizKsSqthSvRlQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-15T02:20:12+00:00"
+    },
+    {
+      "id": "tg:enc210406/4335",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4335",
+      "text": "2026년 8월 14일 기준\n클락슨 신조선가 지수는\n185.64pt로\n전주 대비 -pt(-%)\n‘보합‘입니다\n[최근 4주 간 지수]\n185.64pt (26년 8월 7일)\n185.49pt (26년 7월 31일)\n185.39pt (26년 7월 24일)\n185.39pt (26년 7월 17일)\n[주목할 선종과 선형]\n> 탱커(유조선): 보합\n@ VLCC(315-320K DWT)\n- 26년 8월 7일: 131.00백만달러\n- 26년 8월 14일: 131.00백만달러\n@ Suezmax(156-158K DWT)\n- 26년 8월 7일: 90.00백만달러\n- 26년 8월 14일: 90.00백만달러\n@ Aframax(113-115K DWT)\n- 26년 8월 7일: 75.50백만달러\n- 26년 8월 14일: 75.50백만달러\n> 탱커(원유제품선-P/C): 보합\n@ LR1(73-75K DWT)\n- 26년 8월 7일: 61.50백만달러\n- 26년 8월 14일: 61.50백만달러\n@ MR(47-51K DWT)\n- 26년 8월 7일: 52.00백만달러\n- 26년 8월 14일: 52.00백만달러\n> 컨테이너선: 보합\n@ Neo-panamax(13-14K TEU, LNG D/F)\n- 26년 8월 7일: 173.00백만달러\n- 26년 8월 14일: 173.00백만달러\n@ Feeder(1,800-2,100 TEU)\n- 26년 8월 7일: 33.50백만달러\n- 26년 8월 14일: 33.50백만달러\n> LNG 운반선: 보합\n@ Conventional(174K cbm)\n- 26년 8월 7일: 248.50백만달러\n- 26년 8월 14일: 248.50백만달러\n> LPG, 암모니아 운반선: 보합\n@ VLGC(88-91K cbm)\n- 26년 8월 7일: 113.50백만달러\n- 26년 8월 14일: 113.50백만달러\n@ VLAC(88-93K cbm)\n- 26년 8월 7일: 115.00백만달러\n- 26년 8월 14일: 115.00백만달러",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-15T01:54:52+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19718",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19718",
+      "text": "앤트로픽 2분기 매출 115억 달러 돌파 (전년 대비 14배 급증)\n블룸버그(Bloomberg)가 입수한 투자자 대상 문서에 따르면, AI 챗봇 클로드(Claude)의 개발사인\n앤트로픽(Anthropic PBC)의 2026년 2분기 매출이 폭발적인 성장세를 기록했습니다.\n주요 내용\n* 2분기 잠정 매출: 115억 달러(USD) 이상\n*\n전년 동기 대비 성장률: 최소 14배 이상 급증 (2025년 2분기 매출: 7억 8,700만 달러)\n*\n직전 분기 대비 성장세: 2026년 1분기(47억 3,000만 달러) 대비 2배 이상 증가\n*\n수익성 지표: 2026년 2분기 기준 조정 영업이익 흑자(Positive adjusted operating income) 달성\n*\n주요 성장 배경:\n코딩 및 업무 효율화를 위한 전문가 계층의 소프트웨어 도입 급증\nhttps://www.bloomberg.com/news/articles/2026-08-14/anthropic-revenue-ahead-of-ipo-surges-over-14-fold-in-second-quarter\n(26년 5월 20일 WSJ는 Anthropic 내부 전망을 인용해:\n2Q26 매출 전망 $10.9B / 조정 영업이익 $559M\n을 보도했습니다. 당시 1Q 매출은 약 $4.8B였고, 2분기에 창립 후 첫 영업흑자를 달성할 것으로 예상\n3개월 전에 제시했던 내부 전망 5.5% 이상 상회\n당시 WSJ 전망이 이미 QoQ +130%라는 이례적인 성장률을 가정하고 있었는데, 실제 잠정치는 이를 다시 넘어섬. )",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-15T01:20:02+00:00"
+    },
     {
       "id": "tg:EMchina/32368",
       "source": "telegram",
@@ -52,6 +153,20 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-15T00:44:25+00:00"
+    },
+    {
+      "id": "x:demishassabis:2088344782821326980",
+      "source": "x",
+      "author": "demishassabis",
+      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
+      "author_url": "https://x.com/demishassabis",
+      "url": "https://x.com/demishassabis/status/2088344782821326980",
+      "text": "RT by @demishassabis: 3.7 Flash is in the @GeminiApp",
+      "images": [
+        "https://pbs.twimg.com/media/HPtKJRTakAAchm2.jpg"
+      ],
+      "summary_ko": "@demishassabis의 RT: 3.7 플래시는 @GeminiApp에 있습니다.",
+      "published_at": "2026-08-14T19:19:30+00:00"
     },
     {
       "id": "x:AnthropicAI:2088343978873966687",
@@ -354,30 +469,6 @@
       "published_at": "2026-08-14T07:45:41+00:00"
     },
     {
-      "id": "tg:EMchina/32357",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32357",
-      "text": "Z.AI\n, GLM-5.3 모델 출시\n• 차세대 모델 GLM-5.3은 더 강력한 프로그래밍 능력이 앤트로픽 Fable 5와 같은 AI 선두 모델과의 격차 축소하는데 도움될 것으로 평가\n• GLM-5.3은 지난 6월 발표한 기존 모델과 동일한 7000억 파라미터 기반\n智谱将发布GLM-5.3模型\n智谱在声明中表示，下一代模型GLM-5.3将带来更强的编程能力，有助于缩小与AI排行榜头部模型（如Anthropic的Fable 5）之间的差距。GLM-5.3建立在与其6月发布的前代模型相同的7000亿参数基础模型之上。\nhttps://wallstreetcn.com/livenews/3149504?ivk=1#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-14T07:23:59+00:00"
-    },
-    {
-      "id": "tg:EMchina/32356",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32356",
-      "text": "글로벌 자금 유입 가속화. 최근 한 달 중국 주식펀드에 약 500억달러 이상 유입\n•  최근 글로벌 자금의 중국 자산 배치 가속화. 8/5 기준 최근 한달 동안 중국 주식펀드 순유입 규모 508.2억달러. 신흥시장 전체 유입 규모의 약 60% 차지. 해외 상장 중국 ETF 규모도 동시에 확대\n• 최근에는 다수 외국계 기관들은 중국 기업 수익성 회복 및 산업 고도화가 밸류에이션 재평가 장세의 지속을 이끌 것으로 평가. 반도체/인터넷/전력/의료 등 업종을 핵심 투자 포트폴리오 방향으로 제시\n全球资金加速涌入 中国股票基金近一个月吸金逾500亿美元\n近期，国际资金正加速布局中国权益资产。最新资金流向数据显示，截至8月5日的近一个月，中国股票基金净流入508.2亿美元，占新兴市场总额近六成；海外上市的中国ETF规模同步扩张。近期，多家外资机构也密集发声，认为中国企业盈利修复与产业升级将驱动估值重估行情延续，半导体、互联网、电力及医疗等板块被其视为核心配置方向。(上证报)\nhttps://wallstreetcn.com/livenews/3149528?ivk=1#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-14T07:20:19+00:00"
-    },
-    {
       "id": "tg:enc210406/4331",
       "source": "telegram",
       "author": "enc210406",
@@ -478,18 +569,6 @@
       "published_at": "2026-08-14T06:15:15+00:00"
     },
     {
-      "id": "tg:EMchina/32355",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32355",
-      "text": "애플: 알리바바 Qwen 접속 안내 삭제 관련 통지 받지 못했으며 중국 본토에 아직 '애플 인텔리전스 - Qwen 연동 기능' 출시되지 않음  • 애플 인텔리전스 & 알리바바 Qwen 연동 사용 설명서 삭제 관련 애플 고객센터 답변  • 신규 기능 혹은 프로젝트 출시 이전에 미리 안내. 현재까지는 관련 안내 받은 바 없으며, 중국 본토에는 아직 ‘Apple 인텔리전스 & 알리바바 Qwen 연동' 기능 미출시   苹果回应删除接入千问手册：没收到通知，中国大陆…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-14T04:44:44+00:00"
-    },
-    {
       "id": "tg:HI_GS/6904",
       "source": "telegram",
       "author": "HI_GS",
@@ -548,7 +627,7 @@
       "url": "https://t.me/enc210406/4323",
       "text": "[한국카본 2Q26 확정 실적 공시]\n컨센서스 대비\n@ 매출액: 부합(0.3% 상회)\n@ 영업이익: 부합(3.4% 상회)",
       "images": [
-        "https://cdn5.telesco.pe/file/AnCJXlUskD_Reu18j4R8AJbsxbDT_JDYUG2HD4mXr8wWPEnDeqOUjtgTUMJBQMFZi3YSau-UJprhUU2mAAXznRitA9rT5K-kecNPsj5Gxf55iFTgkWITS0_yCOS4kDwg9yi2ikoAJs3hzvk0kokbyCh9BWakbs7GHAZwCJQdLsQv26CSV_q1ijo8cl6i39WXXUuaofFClcQazT3AGLYQpSoE6X1Xs35SST8fmz_744Y463HAEor8yyBjBrIMT0jssXzmjJlnmE-hhuHyVUo6ADvIBfxX4znG3uhdQEw2lYr_ECwAkZqKNvwJwUJqyollGDboTUIjqwfMjDLD2_cLpw.jpg"
+        "https://cdn5.telesco.pe/file/f2mXWwkqcOo4Ur8rX84a-93m9QaSGTtdbLgxszz3vCqqLliu5RSGK2szJw5_5Dkkde9ibK6iK7Kobm3zBmiwIH15RK_qMl3xQbiz-DQ9-I3EJ6jqrq3Hd1DrBSPcGrnbVJMhqVj-xGjXYQP_BgXgNtkIrcpv4X3PhOPZo_HnUME5da5QN62G1LfN4iUVFreL2x_gL7RltYdw-TXCT9DJq56qdJP4LYTPHvIC8YYwkf9Ml6Q374G5xf3h0w4KSiZOnNdu9BGFP1HGLYivij-bcR3wXXvZJs2RgURIgL_Ox6S7KkYWGYAkhhueLv2BulWXFOndYyQ6Czm45Y7ST4xGdA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-14T02:05:52+00:00"
@@ -604,45 +683,6 @@
       "published_at": "2026-08-14T00:05:00+00:00"
     },
     {
-      "id": "tg:bornlupin/19709",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19709",
-      "text": "마이크론 벤처스, 차세대 AI 투자를 위한 2억 5,000만 달러 규모 '패러다임 펀드' 출범\n마이크론 테크놀로지(Micron Technology, Inc.)가 AI의 미래를 이끌어갈 혁신 기업들과 협력하기 위한\n2억 5,000만 달러(약 3,400억 원) 규모의 ‘패러다임 펀드(Paradigm Fund)’\n를 공식 출범했습니다.\n이번 펀드는 마이크론 벤처스의 3번째이자 역대 최대 규모의 펀드로, 모델 아키텍처부터 컴퓨팅 인프라, 엔터프라이즈 애플리케이션, 피지컬 AI(Physical AI)에 이르기까지\nAI 기술 스택 전반에 투자할 예정입니다.\n주요 발표\n* 펀드 규모 확충\n: 기존 펀드 I(2019년) 및 펀드 II(2022년)에 이어 이번 패러다임 펀드가 추가됨에 따라,\n마이크론 벤처스의 총 누적 약정 자금은 5억 5,000만 달러로 늘어났습니다.\n*\n출범 배경:\nAI가 단순히 문장을 생성하는 수준을 넘어 추론하고, 행동하며, 물리적 세계와 상호작용하는 시스템으로 진화함에 따라 메모리 및 스토리지 요구사항도 변화하고 있습니다. 마이크론은 초기 단계 스타트업 투자를 통해 차세대 AI 인프라 기술을 선점하고자 합니다.\n4대 핵심 투자 분야\n마이크론 패러다임 펀드는 미래 메모리·스토리지 수요를 결정지을 4가지 연계 분야에 집중 투자합니다.\n* 모델 아키텍처 (Model Architecture)\n* 미래 컴퓨팅, 메모리, 스토리지 수요를 형성할 AI 모델 구조 및 데이터 인프라의 발전\n* 컴퓨터/연산 (Compute)\n* 인메모리 컴퓨팅(In-memory compute), 차세대 네트워킹, 데이터센터 효율성 등 AI 워크로드의 처리·이동·최적화 기술\n* 엔터프라이즈 애플리케이션 (Enterprise Applications)\n* 반도체 설계 및 제조를 포함해 복잡한 산업 생태계를 혁신하는 AI 솔루션\n* 물리적 AI (Physical AI)\n* AI를 현실 세계로 확장하는 로보틱스 및 새로운 기기 폼팩터(Form factor)\n주요 임원 발언\n> 르네 하트너(Rene Hartner) 마이크론 기업개발 담당 부사장\n> \"\n우리는 AI가 할 수 있는 일과 이를 위해 필요한 요소를 재정의하는 흥미로운 패러다임 전환의 시대를 지나고 있습니다. 이러한 기술적 발전은 결국 '고성능 메모리 및 스토리지 솔루션'이라는 하나의 공통된 니즈로 수렴\n됩니다. 패러다임 펀드는 이러한 혁신을 이끄는 스타트업과 파트너십을 맺고, 늘어나는 AI 수요에 맞춰 선도적인 솔루션을 제공하는 마이크론의 역량을 더욱 강화해 줄 것입니다.\"\nhttps://www.globenewswire.com/news-release/2026/08/13/3344886/14450/en/micron-ventures-launches-250-million-fund-to-invest-in-the-next-generation-of-ai.html",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-13T23:52:22+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19707",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19707",
-      "text": "BofA: CPU TAM\n전체 시장 성장 (TAM 및 AI 확장)\n총 매출 성장: 서버 CPU TAM은 2025년 349억 8,300만 달러에서 2030년(CY30)까지 2,106억 3,700만 달러로 대폭 성장할 것으로 전망\n됩니다.\nAI 주도: AI 서버 CPU가 이러한 확장의 대부분을 견인\n하며, 2025년 190억 달러(비중 53%)에서\n2030년까지 1,800억 달러(비중 86%)로 급증할 것으로 예상됩니다.\n출하량 성장: 전체 서버 CPU TAM 출하량은 2025년 2,990만 대에서 2030년까지 8,200만 대 규모로 확대될 전망\n입니다.\n수량 기준 점유율 전망 (CY30)\n2030년까지 수량(Unit) 기준 시장 점유율은 다음과 같이 분포될 것으로 예상됩니다:\n* 인텔 (INTC): ~35.8% (2025년 62.0%에서 감소)\n* AMD: ~30.3% (2025년 24.2%에서 증가)\n* ARM 상용 (Merchant): ~21.6% (2025년 8.6%에서 증가)\n* ARM 커스텀 (Custom): ~12.3% (2025년 5.2%에서 증가)\n매출 기준 점유율 전망 (CY30)\n2030년까지 매출(Value) 기준 시장 점유율은 다음과 같이 전망됩니다 (Exhibit 4):\n* ARM 상용 (Merchant): ~37.9% (전체 시장 가치 중 가장 큰 비중 차지)\n* AMD: ~30.7% (강력한 매출 입지 유지)\n* 인텔 (INTC): ~22.0%\n* ARM 커스텀 (Custom): ~9.4%",
-      "images": [
-        "https://cdn5.telesco.pe/file/lzR0TX_6Tcbz8kt1rrVruZ5ex2Wd6Ki-QdtJw4OpXzkEhLwO4i6FFrQGQfalFh1cyRcM0Z2KazaQD9Z7mUMDqEomI9zNe76hahEvqqELf8Q_f2QXuC-4QFlU3ic8DPnB_ODYWCGAhFGIS8LzY5xxSEoNmonW0BxwX6GOc0dUrsUay7xx17GxtTk4j2OW1nKGuFPmqccj6u28kF4wVA6vgr4-i2Z0X8Pjkdt_pAv6ZJwA_bq-8o1MzUxp4ZImYOjX2ENsW0fKKxRmKFyqlOYgatqxbtG7fvyGrwsFclllqxu37TJpjjb_UJxfsH8M-4dNDQC8GgCMpPUjvygZtigNpA.jpg",
-        "https://cdn5.telesco.pe/file/RlOFmVNPsjwnUzsAb_8P92pKo1NYHvYqdWwCtILZFPvbTLlV9hVQnSmZcBrGKrqz27LdfM7s-nvfifMqTa21KitZTDcC9fdf0q7ofgJqBoS93FEHw9YZU2v5qTbxMWEZRQh_4xN4rAYjy6G4kIppsJJI6_mRzGdSSL6t6Cek4gM4HCyIUjPYeaoP0d_XwUIMcEydKsvs1tsjxmSeFv2k9JZRysXrXQYNupKKqNde5Msjzrn5r8g4lhu-PXMmhuVe4NUXD_wvhcDsh6RUVx5OvrOfgcb_1iLvxw7BJJlN_sQJmwQdTNqm8k6UCF44gNDBxY2LDnakXAWEK_8rGXsZZQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-13T23:46:42+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19706",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19706",
-      "text": "[메리츠증권 전기전자/IT부품 양승수]\n▶\n북미 광통신 3사 실적 Review\n: 800G에서 1.6T, 그리고 NPO/CPO\n[주요 시사점]\n▶\n높아지는 NPO/CPO에 대한 관심\n- 이번 미국 광통신 3사의 실적 발표에서 CPO/NPO 도입에 대한 고객 관심이 빠르게 확대되고 있음을 공통적으로 확인\n- Coherent는 CPO 수요 지연 움직임을 전혀 확인하지 못했으며, 오히려 최근 3~6개월 동안 CPO뿐만 아니라 NPO 관련 고객 협의가 크게 증가했음을 언급\n- 또한 CPO와 NPO는 광 연결 지점과 구현 방식의 차이에 가깝고, 광부품 업체가 확보할 수 있는 시스템당 공급가치도 대체로 유사함을 설명\n- Lumentum은 NPO를 추가적인 성장 기회로 평가하며, 초기에는 고출력 ELS 방식이 우선 적용된 뒤 광엔진 내 레이저 통합 방식으로 확대될 것으로 전망\n- AAOI는 NPO에 대한 직접적인 언급은 없었으나 최소 5개 고객과 CPO용 고출력 레이저 및 ELSFP 모듈을 공동 개발 중이며 일부 프로그램은 CY3Q27부터 대량 양산에 진입할 예정\n▶\nScale-up CPO의 본격적인 변곡점은 CY2H27~2028년\n- Scale-Up CPO/NPO의 본격적인 도입 시점에 대한 3사의 전망은 CY2H27~2028년으로 대체로 일치\n- Coherent는 scale-up용 CPO 매출이 CY2H27부터 발생할 것으로 전망하며, 현재 scale-out 중심의 적용이 이후 scale-up으로 확대될 것으로 예상.\n- Lumentum 역시 선도 고객사의 scale-up용 CPO 제품을 CY2H27부터 대량 출하해 2028년 시스템에 적용할 계획이며, 차세대 GPU·XPU·TPU의 SerDes 속도 상승을 감안해 2028년을 optical scale-up 전환의 본격적인 시점으로 제시\n- AAOI도 일부 CPO 프로그램의 대량 양산 시점을 CY3Q27로 제시하고 있으며, 2028~2029년 수요 대응을 위한 Fab 증설과 공급망 확보를 추진 중\n▶\nCPO 이전에도 강한 800G·1.6T 수요 → 지속적인 수익성 개선 유효\n- 광통신 3사 모두 기존 Pluggable Optics의 업사이클이 매우 강하게 지속되고 있음을 강조.\n- AAOI는 고객 수요가 공급 가능 물량을 20~40% 상회하고 있으며, 월 생산능력을 현재 약 20만 개에서 연말 65만 개까지 확대할 계획. 1.6T는 CY4Q26부터 본격적으로 확대되며, CY1Q27 매출은 전분기 대비 두 배 이상 증가할 가능성도 제시\n- Coherent 역시 800G의 높은 성장세가 지속되는 가운데 1.6T 램프업이 예상보다 빠르게 진행 중이며, 데이터센터·통신 대부분의 제품군에서 수요가 공급을 초과하고 있다고 설명\n- Lumentum 또한 EML과 초고출력 CW 레이저 모두 공급 부족이 지속되고 있으며, 1.6T 전환과 함께 Silicon Photonics용 CW 레이저 수요도 빠르게 확대될 것으로 전망\n- 동시에 제품 고사양화에 따른 수익성 개선도 본격적인 국면에 진입하였으며 800G → 1.6T → CPO/NPO로 이어지는 제품 믹스 고도화가 중장기 마진 개선을 견인할 것으로 예상\n▶\n단기 주문이 아닌 2028~2030년까지 이어지는 수요 가시성\n- 이번 실적 발표에서 공통적으로 확인된 긍정적인 부분은 강한 수요가 단기 주문에 그치지 않고 장기계약과 선제적 Capa 투자로 연결되고 있다는 점\n- Coherent는 FY27 물량이 사실상 모두 예약된 가운데 CY2028년 물량에 대한 PO까지 유입되고 있으며, 다수의 LTA는 2030년 전후까지 이어지는 구조임을 언급\n-  Lumentum 역시 Pump Laser를 중심으로 대부분 3년 장기계약과 take-or-pay 구조를 운영하고 있으며 일부 고객은 중장기 공급능력을 선점하기 위해 증설 Capex까지 분담\n- AAOI도 내년 2분기까지 생산능력이 상당 부분 예약된 가운데, 2028~2029년 CPO 수요 대응을 위한 설비 투자와 InP 공급망 확보를 선제적으로 추진 중\n[결론]\n- 미국 광통신 3사의 실적 발표에서 확인된 공통된 메시지는 예상보다 강한 AI 광통신 수요와 한층 높아진 중장기 수요 가시성\n- 현재 광통신 업사이클이 단기적인 800G·1.6T 수요 확대를 넘어, AI 데이터센터 내 Optics 전환에 기반한 구조적 성장 국면에 진입한 것으로 판단하며 시장 전망보다 장기화될 것으로 예상\nhttps://buly.kr/5fFA2Ai\n(링크)\n*동 자료는 Compliance 규정을 준수하여 사전 공표된 자료이며, 고객의 증권투자결과에 대한 법적 책임소재의 증빙자료로 사용될 수 없습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-13T23:37:13+00:00"
-    },
-    {
       "id": "tg:HI_GS/6901",
       "source": "telegram",
       "author": "HI_GS",
@@ -665,18 +705,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-13T23:21:24+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19705",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19705",
-      "text": "Mizuho, 샌디스크 (Sandisk,\n$SNDK\n), 투자의견 Outperform , 목표주가: $1,900\n인베스터 데이: 고수익성 장기화, 매출총이익률(GM) 하한선 80%, 4년 이상의 실적 가시성, 자사주 매입 및 HBF의 추가 상승 여력\n1. HBF 기술 혁신 및 차세대 메모리 로드맵\n* 비용 절감 효과: 16단 적층 HBF는 HBM과 유사한 비용으로 8~16배 용량을 제공하며, 대역폭 비용을 1/8 수준으로 절감합니다.\n* 출하 시점: C26E/C27E에 첫 다이 출하 후, C28E부터 본격적인 매출 발생이 예상됩니다.\n* AI 컨소시엄 구축: 구글(GOOGL), 메타(META), SK하이닉스(SKHY), 텐스토렌트와 함께 HBF 컨소시엄을 구성하여 AI 추론용 아키텍처를 활성화합니다.\n* 공정 진화: CMOS 결합 어레이(CBA) 기반 BiCS9 샘플링이 진행 중이며, 향후 BiCS10 및 BiCS13까지 확장할 계획입니다.\n2. 파격적인 재무 모델 & 주주 환원 정책\n*\n매출 성장률: FY28~30E 매출 연평균 성장률(CAGR) 약 17.5% 제시 → FY30E 매출 $800억 이상 달성 전망.\n*\n마진 목표: 매출총이익률(GM) >80%, 영업이익률(OM) >75%의 뛰어난 영업 레버리지 확보.\n*\n추가 상승 여력: HBF 관련 실적은 현재 장기 재무 모델에 미반영되어 있어 향후 추가적인 실적 상향(Upside) 요소로 작용합니다.\n*\n주주 환원\n: 단기 $155억 규모의 자사주 매입 승인(\n유통 주식의 약 5~10% 수준) 및 초과 현금의 100% 주주 환원 방침을 발표했습니다.\n3. 시장 수요 및 가격 전망\n* NAND 가격 상승세\n: 2027E NAND 가격은\n시장의 하락(15~20%) 우려와 달리 에이전틱/에지 AI, HBF 수요에 힘입어 보합상승세를 유지\n할 전망입니다.\n* NBM 물량 배분: FY28E~FY29E 비트 생산량의 2/3를 NBM에 할당하여 최소 4년 이상의 안정적 수요를 확보했습니다.\n* FCF 추정: FY27E 약 $300억, FY28E 약 $500억의 막대한 잉여현금흐름 창출이 예상됩니다.\n밸류에이션 및 투자의견\n* 목표주가 $1,900 제시 사유:\n*\nFY27E 예상 EPS 기준 약 9배 수준으로, 필라델피아 반도체 지수(SOX, ~16배) 대비 보수적이며 매력적인 주가 수준입니다.\n* 소비자용 NAND 시장 리더십 유지 및 AI 서버용 eSSD 수요 증가로 점유율 확대가 지속될 것으로 기대됩니다.\n* 키옥시아(Kioxia)와의 BiCS8 양산 합작법인(JV) 시너지 효과가 강력한 제품 로드맵을 뒷받침하고 있습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-13T23:18:36+00:00"
     },
     {
       "id": "tg:HI_GS/6899",
@@ -739,18 +767,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-13T22:27:13+00:00"
-    },
-    {
-      "id": "tg:enc210406/4319",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4319",
-      "text": "https://n.news.naver.com/article/001/0016250977?cds=news_edit",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-13T22:20:42+00:00"
     },
     {
       "id": "tg:HI_GS/6898",
@@ -837,7 +853,7 @@
       "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
       "author_url": "https://x.com/demishassabis",
       "url": "https://x.com/demishassabis/status/2087950102455271765",
-      "text": "Pinned: Gemini 3.7 Flash brings major upgrades for software engineering, web dev & knowledge work. And introductory price is half the original 3.6 Flash cost. Happy building - enjoy!",
+      "text": "Gemini 3.7 Flash brings major upgrades for software engineering, web dev & knowledge work. And introductory price is half the original 3.6 Flash cost. Happy building - enjoy!",
       "images": [],
       "summary_ko": "고정됨: Gemini 3.7 Flash는 소프트웨어 엔지니어링, 웹 개발 및 지식 작업을 위한 주요 업그레이드를 제공합니다. 그리고 초기 가격은 원래 3.6 플래시 가격의 절반입니다. 행복한 건물 - 즐기세요!",
       "published_at": "2026-08-13T17:11:11+00:00"
@@ -1684,7 +1700,9 @@
       "author_url": "https://x.com/demishassabis",
       "url": "https://x.com/demishassabis/status/2085914742414061886",
       "text": "Really enjoyed talking to @bzcohen about AlphaGo's famous move 37 and the significance of it 10 years on for math and science breakthroughs in verifiable domains",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2088430988229853184/_TgcNKew?format=jpg&name=800x419"
+      ],
       "summary_ko": "AlphaGo의 유명한 수 37과 검증 가능한 영역에서 수학과 과학의 혁신을 위한 10년 간의 중요성에 대해 @bzcohen과 대화하는 것이 정말 즐거웠습니다.",
       "published_at": "2026-08-08T02:23:23+00:00"
     },
@@ -1924,20 +1942,6 @@
       ],
       "summary_ko": "@JeffDean, @Sanjay_Ghemawat, @OriolVinyalsML 및 @quocleix를 축하합니다! 여러분을 알면 정말 놀라운 일이 될 것입니다. 당신의 중요한 일을 응원하고 잘 되길 바랍니다!",
       "published_at": "2026-08-05T17:33:12+00:00"
-    },
-    {
-      "id": "x:demishassabis:2085034334914769203",
-      "source": "x",
-      "author": "demishassabis",
-      "author_name": "Demis Hassabis(데미스 허사비스) · DeepMind CEO",
-      "author_url": "https://x.com/demishassabis",
-      "url": "https://x.com/demishassabis/status/2085034334914769203",
-      "text": "I’ve been working towards AGI my whole life, and as we enter this pivotal moment, I’m stepping into a new role as Chair of Google DeepMind & Chief Scientist of Alphabet. This will allow me to focus on long-term strategy, and accelerating scientific breakthroughs, including leaning into my work at Isomorphic to help cure disease. I’m excited that @koraykv will be stepping up to lead GDM as SVP, alongside @joshwoodward and our exec team. I could not be more excited and confident about our amazing next chapter! 🚀 https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum",
-      "images": [
-        "https://pbs.twimg.com/card_img/2087765990268608512/QVMxg7Hp?format=jpg&name=800x419"
-      ],
-      "summary_ko": "고정됨: 저는 평생 AGI를 위해 노력해 왔으며 이 중요한 순간에 들어서면서 Google DeepMind 의장이자 Alphabet 수석 과학자로서 새로운 역할을 맡게 되었습니다. 이를 통해 나는 장기 전략에 집중하고 질병 치료를 돕기 위해 Isomorphic에서의 작업에 의지하는 것을 포함하여 과학적 혁신을 가속화할 수 있을 것입니다. @koraykv가 @joshwoodward 및 우리 경영진과 함께 SVP로서 GDM을 이끌게 되어 기쁩니다. 우리의 놀라운 다음 장에 대해 이보다 더 기대되고 자신감이 넘칩니다! 🚀 https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum",
-      "published_at": "2026-08-05T16:04:58+00:00"
     },
     {
       "id": "x:AnthropicAI:2084748111239344556",

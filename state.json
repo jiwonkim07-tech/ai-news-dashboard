@@ -1,4 +1,35 @@
 {
+  "telegram:EMchina": [
+    "tg:EMchina/32372",
+    "tg:EMchina/32371",
+    "tg:EMchina/32370",
+    "tg:EMchina/32368",
+    "tg:EMchina/32367",
+    "tg:EMchina/32365",
+    "tg:EMchina/32364",
+    "tg:EMchina/32363",
+    "tg:EMchina/32361",
+    "tg:EMchina/32360",
+    "tg:EMchina/32359",
+    "tg:EMchina/32358",
+    "tg:EMchina/32357",
+    "tg:EMchina/32356",
+    "tg:EMchina/32355"
+  ],
+  "telegram:HI_GS": [
+    "tg:HI_GS/6908",
+    "tg:HI_GS/6907",
+    "tg:HI_GS/6906",
+    "tg:HI_GS/6905",
+    "tg:HI_GS/6904",
+    "tg:HI_GS/6903",
+    "tg:HI_GS/6902",
+    "tg:HI_GS/6901",
+    "tg:HI_GS/6900",
+    "tg:HI_GS/6899",
+    "tg:HI_GS/6898",
+    "tg:HI_GS/6897"
+  ],
   "x:AnthropicAI": [
     "x:AnthropicAI:2088343978873966687",
     "x:AnthropicAI:2088324824863236248",
@@ -55,23 +86,11 @@
     "x:AndrewYNg:2067653578945359898",
     "x:AndrewYNg:2062576164657664469"
   ],
-  "telegram:EMchina": [
-    "tg:EMchina/32368",
-    "tg:EMchina/32367",
-    "tg:EMchina/32365",
-    "tg:EMchina/32364",
-    "tg:EMchina/32363",
-    "tg:EMchina/32361",
-    "tg:EMchina/32360",
-    "tg:EMchina/32359",
-    "tg:EMchina/32358",
-    "tg:EMchina/32357",
-    "tg:EMchina/32356",
-    "tg:EMchina/32355",
-    "tg:EMchina/32354",
-    "tg:EMchina/32353"
-  ],
   "telegram:bornlupin": [
+    "tg:bornlupin/19721",
+    "tg:bornlupin/19720",
+    "tg:bornlupin/19719",
+    "tg:bornlupin/19718",
     "tg:bornlupin/19717",
     "tg:bornlupin/19716",
     "tg:bornlupin/19715",
@@ -99,22 +118,8 @@
     "tg:globaletfi/21107",
     "tg:globaletfi/21106"
   ],
-  "telegram:HI_GS": [
-    "tg:HI_GS/6908",
-    "tg:HI_GS/6907",
-    "tg:HI_GS/6906",
-    "tg:HI_GS/6905",
-    "tg:HI_GS/6904",
-    "tg:HI_GS/6903",
-    "tg:HI_GS/6902",
-    "tg:HI_GS/6901",
-    "tg:HI_GS/6900",
-    "tg:HI_GS/6899",
-    "tg:HI_GS/6898",
-    "tg:HI_GS/6897",
-    "tg:HI_GS/6896"
-  ],
   "telegram:enc210406": [
+    "tg:enc210406/4335",
     "tg:enc210406/4334",
     "tg:enc210406/4333",
     "tg:enc210406/4331",
@@ -154,9 +159,11 @@
     "x:OpenAI:2087248033906094175",
     "x:OpenAI:2087231350134980830",
     "x:OpenAI:2087231351502385266",
-    "x:OpenAI:2086864372500942906"
+    "x:OpenAI:2086864372500942906",
+    "x:OpenAI:2086864365379010729"
   ],
   "x:demishassabis": [
+    "x:demishassabis:2088344782821326980",
     "x:demishassabis:2087995995694960670",
     "x:demishassabis:2087950102455271765",
     "x:demishassabis:2087885303855944001",
@@ -227,6 +234,6 @@
     "x:karpathy:2061110056293106118"
   ],
   "_meta": {
-    "last_x_fetch": "2026-08-14T23:21:47+00:00"
+    "last_x_fetch": "2026-08-15T02:51:15+00:00"
   }
 }
