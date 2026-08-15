@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T09:25:57+00:00",
+  "updated_at": "2026-08-15T10:22:18+00:00",
   "counts": {
     "total": 192,
     "new_this_run": 1
@@ -7,12 +7,12 @@
   "briefing": {
     "headline": "레노버, AI PC 중국 시장 판매량 50% 이상",
     "bullets": [
-      "엔비디아, 약 210억 달러 규모의 스페이스X 지분 공개",
+      "엔비디아, 210억 달러 규모의 스페이스X 지분 공개",
       "앤트로픽, 2분기 매출 115억 달러 돌파",
-      "미국 정부, 애플에 중국산 메모리 칩 구매 자제 촉구",
-      "젠슨황, 5000억달러 베팅의 핵심: 반도체칩이 테크 제품 감가상각 철칙 뒤집을 수 있을까"
+      "마이크론, SNDK 모델 적용시 2030년 EPS 컨센대비 +73% 폭증 가능성",
+      "베센트, 이란에 전례없는 조치 시행"
     ],
-    "generated_at": "2026-08-15T09:25:57+00:00",
+    "generated_at": "2026-08-15T10:22:18+00:00",
     "model": "groq"
   },
   "items": [
@@ -261,7 +261,7 @@
       "url": "https://x.com/AnthropicAI/status/2088343978873966687",
       "text": "We’ve written an FAQ to answer some of the questions we've received about watermarking. In summary: • We’re implementing watermarking to comply with the EU AI Act. Other major model developers have signed the same Code of Practice and will also be implementing watermarking; • Our watermarking method doesn’t have any practical impact on the quality or content of Claude’s outputs; • The difference between watermarked and un-watermarked text will not be distinguishable to readers; • Nothing is added to the text and there are no hidden characters; • Watermarking doesn’t require extra tokens, and will not be more expensive; • Watermarks can’t be traced to a specific person, organization, or chat. Read more: https://www.anthropic.com/news/claude-text-watermark",
       "images": [
-        "https://pbs.twimg.com/card_img/2087171358476107776/n7l4c6Lx?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2088343979763159040/al6GoqqO?format=jpg&name=800x419"
       ],
       "summary_ko": "워터마킹에 관해 받은 몇 가지 질문에 답변하기 위해 FAQ를 작성했습니다. 요약하면 다음과 같습니다. • EU AI법을 준수하기 위해 워터마킹을 구현하고 있습니다. 다른 주요 모델 개발자들도 동일한 실천 강령에 서명했으며 워터마킹도 구현할 예정입니다. • 당사의 워터마킹 방법은 Claude 출력의 품질이나 내용에 실질적인 영향을 미치지 않습니다. • 워터마크가 있는 텍스트와 워터마크가 없는 텍스트의 차이는 독자가 구별할 수 없습니다. • 텍스트에 아무것도 추가되지 않으며 숨겨진 문자도 없습니다. • 워터마킹에는 추가 토큰이 필요하지 않으며 비용도 더 많이 들지 않습니다. • 워터마크는 특정 사람, 조직 또는 채팅을 추적할 수 없습니다. 더 읽어보세요: https://www.anthropic.com/news/claude-text-watermark",
       "published_at": "2026-08-14T19:16:18+00:00"
@@ -373,7 +373,7 @@
       "url": "https://t.me/EMchina/32363",
       "text": "[한투증권 미국/중국전략 정정영]   • 바뀐 것과 바뀌지 않은 것   >>  미국주식 전략 자료를 작성했습니다. AI의 장기적/구조적 성장 모멘텀에는 변함이 없을 것이나 그 외 분야에서는 변수가 늘어나고 있습니다. 트럼프 행정부가 더 극단적인 시나리오를 이끌어 갈 가능성은 제한적인 것으로 판단하는 가운데, 시장 색깔 전환에 준비해야 한다고 생각합니다. 그동안의 쏠림은 완화될 것으로 전망하며 경기민감주를 주목합니다.   ========================…",
       "images": [
-        "https://cdn5.telesco.pe/file/FQSOKwUMWHlfWSuy-KVlVPiG-sLvBm4C2-LjifQ_Bm_6WMwhvuJ7j8DyXdk78tNQWqg4jrkfH3gh9maiYACkPPLKUYdF_gDulhmlcWBtH3oklvdZxgwqvZJYZGDSUT3QyeiW7f7hMZPotSl0-XZ7P17j6uOGFmc7O4KrgcLR6N3YSPQ6lof07V2lK5S5DZmq3EYZzgKaWBwsue0Jy38biPqIumvTodgXF05rLtI7gf87gA8fNimNdyTJnBhlT-HXSQFAda6H1Z_eTBXYovtI1iqNFnRcwRc3BfzezLUUfDsED_Z4Uw68MsHJfKshd8owGKWisHQseOy9PUF_w8LlwA.jpg"
+        "https://cdn5.telesco.pe/file/n2RZpXMn2gdvXS7c1FPOHmCFg86CFzKZBI6nFSys3-HFfVZ4G9nPxmo2Vd_Nf0EGB5s_exqFxCqo-2vDkkDzwH4MeOH0tO2DVdQnda7L8QUfk2NQ0FaxImi-Hz00jre-GKFRa9uyZEw9JwjeJYSejCljog2fSvsoRdu52gWvaLjoKXtEuEgTZwL9VTuFgggDBmDykZ12wGkN5FcAgKyIVcqmvHD_Cy_fjtX68s719b4IreCdI7hqw8ooXOlcN4Q5uu58TUBSDOrTc75xkg3viV2E-XteY8StdKa969up3-Y72OOwyNzAFrNucqlaSw7B9E0zmOzYvGLgk8xmMXljpA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-14T12:40:20+00:00"
@@ -945,9 +945,7 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2087947726269169917",
       "text": "R to @OpenAI: We’re working with an initial group of customers to understand where this speed makes the biggest difference, and how those learnings can inform our products over time. If your business requires frontier intelligence at the highest speed, you can request to be notified as capacity expands. https://openai.com/form/ultrafast/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2087947727347015680/qgSmy_3j?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "R에서 @OpenAI로: 우리는 초기 고객 그룹과 협력하여 이 속도가 가장 큰 차이를 가져오는 부분과 이러한 학습이 시간이 지남에 따라 제품에 어떻게 영향을 미칠 수 있는지 이해하고 있습니다. 귀하의 비즈니스에 최고 속도의 프론티어 인텔리전스가 필요한 경우 용량이 확장될 때 알림을 받도록 요청할 수 있습니다. https://openai.com/form/ultrafast/",
       "published_at": "2026-08-13T17:01:44+00:00"
     },
@@ -1457,9 +1455,7 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2087248033906094175",
       "text": "R to @OpenAI: The ChatGPT desktop app is now available in preview for desktop variants of these Linux distributions: • Ubuntu 24.04 LTS and 26.04 LTS • Debian 13 • Fedora 43 and 44 Install with .deb or .rpm packages for x64 or ARM64. http://openai.com/codex",
-      "images": [
-        "https://pbs.twimg.com/card_img/2087404715047026688/3BPcvBfP?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "R에서 @OpenAI로: ChatGPT 데스크톱 앱은 이제 다음 Linux 배포판의 데스크톱 변형에 대한 미리 보기로 제공됩니다. http://openai.com/codex",
       "published_at": "2026-08-11T18:41:25+00:00"
     },
@@ -2028,7 +2024,7 @@
       "url": "https://x.com/AnthropicAI/status/2082965101083320543",
       "text": "In a review of our cybersecurity evaluations, we found three incidents in which a Claude model reached the internet from within or while interacting with a third-party evaluation environment, and then gained unauthorized access to the real systems of three different organizations. Our post describes what happened, how it happened, and what we’re changing. We encourage other AI developers to perform similar reviews. We conducted this review together with @Irregular, one of our evaluation partners, and thank them for the joint investigation and their collaboration on this post. This type of collaboration is increasingly critical to safe, rigorous evaluation of models, and we look forward to continuing to work together on security. https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
       "images": [
-        "https://pbs.twimg.com/card_img/2085926103152300033/Lcpd7FYi?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2088472074545143808/-8eatnps?format=jpg&name=800x419"
       ],
       "summary_ko": "사이버 보안 평가를 검토한 결과, Claude 모델이 제3자 평가 환경 내에서 또는 제3자 평가 환경과 상호 작용하는 동안 인터넷에 접속한 후 서로 다른 세 조직의 실제 시스템에 무단으로 액세스한 사건 세 건을 발견했습니다. 우리 게시물에서는 무슨 일이 일어났는지, 어떻게 일어났는지, 그리고 우리가 무엇을 바꾸고 있는지 설명합니다. 우리는 다른 AI 개발자도 유사한 검토를 수행하도록 권장합니다. 이번 리뷰는 평가 파트너 중 하나인 @Irregular와 함께 진행되었으며, 본 게시물에 대한 공동 조사와 협력에 감사드립니다. 이러한 유형의 협업은 모델을 안전하고 엄격하게 평가하는 데 점점 더 중요해지고 있으며 보안을 위해 계속해서 협력할 수 있기를 기대합니다. https://www.anthropic.com/news/investigating-incidents-cybers",
       "published_at": "2026-07-30T23:02:34+00:00"
