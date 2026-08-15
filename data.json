@@ -1,21 +1,58 @@
 {
-  "updated_at": "2026-08-15T06:37:32+00:00",
+  "updated_at": "2026-08-15T07:30:30+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 2
+    "new_this_run": 3
   },
   "briefing": {
     "headline": "엔비디아, 210억 달러 스페이스X 지분 공개",
     "bullets": [
+      "레노버: AI PC 중국 시장 판매량 50% 이상",
       "애플, 중국산 메모리 칩 구매 자제",
-      "마이크론, 2030년 EPS 컨센대비 73% 폭증 가능성",
       "앤트로픽, 2분기 매출 115억 달러 돌파",
-      "엔비디아 & 오픈AI, 2500억달러 투자"
+      "미중, 반도체 칩 감가상각 철칙 뒤집을 수 있을까",
+      "엔비디아 & 오픈AI 2500억달러"
     ],
-    "generated_at": "2026-08-15T06:37:32+00:00",
+    "generated_at": "2026-08-15T07:30:30+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:EMchina/32376",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32376",
+      "text": "~ 역외 자산에 대한 세금 부과는 미국식이다. 미국은 납세자의 전 세계 소득에 세금을 물린다  ~ 상하이 안리 파트너스의 세무 전문 변호사인 예융칭 파트너는 \"규제 당국이…부유한 중국인들의 자산 해외 이전이나 역외 수단을 통한 세금 회피를 줄여나가고 있다\"면서 \"미국 세법과 유사한 접근 방식을 취하고 있다\"고 말했다  https://n.news.naver.com/article/014/0005557863?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-15T07:17:59+00:00"
+    },
+    {
+      "id": "tg:EMchina/32375",
+      "source": "telegram",
+      "author": "EMchina",
+      "author_name": "한투증권 미국/중국전략 정정영",
+      "author_url": "https://t.me/EMchina",
+      "url": "https://t.me/EMchina/32375",
+      "text": "레노버: \"AI PC 중국 시장 판매량 50% 이상\"\n• 레노버 AI PC 글로벌 시장 판매 전년동기대비 +86% 증가. 중국 시장 AI PC는 전체 노트북 판매량의 50%를 돌파\n• 기술 측면에서는 단말 & 엣지 컴퓨팅 파워 전면 업그레이드. 토큰 생산 현지화 통해 개인정보 및 비용 모두 고려\n• 생태계 측면에서 Skills 도입 가속화. 텐시AI L3급 작업 수행 능력 강화\n联想集团刘军：AI PC国内市场销量占比过半\n联想集团执行副总裁兼中国区总裁刘军表示，“一体多端”战略下，个人超级智能体加持终端，联想AI PC全球市场同比增86%，国内市场销量占笔记本电脑总销量的比例已突破50%。他透露，在技术侧，联想正全面升级端侧和边缘侧的算力，把Token生产更多留在本地，兼顾隐私与成本；在生态侧则加速引入Skills，增强天禧AI的L3级任务执行能力。\nhttps://wallstreetcn.com/livenews/3149947?ivk=1#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-15T06:54:14+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19723",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19723",
+      "text": "​[글로벌 반도체 분석] 낸드 플래시(NAND), 앞으로 4년간 공급 부족 이어지나?\n파이슨(Phison) CEO 판젠청: \"신규 낸드 증설 양산까지 4년 걸린다\"\n​①\n신규 캐파(CAPEX) 증설의 현실\n​시장에서는 메모리 가격 상승 시 원조 제조사(원자재 Fab)들이 빠르게 설비투자를 늘려 공급을 확대할 것으로 보지만,\n실제로는 투자 결정부터 본격 양산까지 약 4년이 소요됨.\n​따라서\n현재 낸드 가격이 급등하더라도 파이슨은 보유 재고를 무리하게 시장에 풀지 않고\n,\n향후 2년간의 엔터프라이즈 SSD, CSP(클라우드 서비스 제공업체), AI 디자인 윈(Design Win) 물량을 위한 전략적 재고로 유지할 방침.\n​②\nAI가 주도하는 구조적 수요 전환\n​과거: PC·스마트폰 출하량 및 기기당 용량 증가에 의존한 전통적 경기 순환형(Cycle) 시장.\n​\n현재/미래: 생성형 AI(이미지·영상·AI 에이전트)가 방대한 데이터를 생성함에 따라 장기적이고 구조적인 성장 국면으로 진입.\n​\nDRAM 다운스펙 vs 스토리지 강세:\n일부 AI 시스템에서 비용 절감을 위해 DRAM 구성을 낮추는(De-spec) 움직임이 있으나, 스토리지(Storage) 용량은 축소되지 않고 유지되어 낸드 수요 강세를 방증함.\n​③\n파이슨의 실적 및 'Phison 3.0' 전략\n​2분기 실적: AI 생태계 관련 매출 비중이 38%로 확대되어 최대 사업군으로 부상.\n2분기 매출총이익률은 65.3%로 사상 최고치 기록.\n​\n향후 전략: 단순 컨트롤러·모듈 제조사에서 AI 스토리지, 엣지 AI, AI 데이터 플랫폼을 아우르는 고부가가치 맞춤형 기업용 시장(Enterprise) 중심 전략 추진.\nhttps://view.inews.qq.com/k/20260814A047FH00?scene=wap&no-redirect=1",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-15T06:40:46+00:00"
+    },
     {
       "id": "tg:EMchina/32374",
       "source": "telegram",
@@ -331,18 +368,6 @@
       "published_at": "2026-08-14T12:40:20+00:00"
     },
     {
-      "id": "tg:EMchina/32361",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32361",
-      "text": "중간선거는 AI 강세장 분수령? 공화당이 상원 지키면 AI 관련 주식은 2027년까지 급상승 가능성(BofA Hartnett)\n• 2026년 중간선거를 미국 AI 강세장의 핵심 분수령으로 평가. 공화당이 상원 지키고 Abbott 텍사스 주지사 연임된다면 AI 자본지출 지속될 것. 미국 주식 시장, 특히 AI 관련주 2027년까지 '급등' 가능성. 반대 시나리오에서는 시장 -10% 이상 급락\n• 현재 이익 및 AI 투자가 롱포지션 지지. 그러나 포지션 극도로 혼잡 & 채권 금리 급등은 주요 리스크로 작용\n中期选举成AI牛市分水岭？ 美银Hartnett ：若共和党守住参议院，AI股或一路“狂飙”至2027年\n美银Hartnett指出，2026年中期选举是美股AI牛市的关键分水岭。若共和党守住参议院且得州州长Abbott连任，AI资本开支将延续，美股尤其AI板块或“狂飙”至2027年；反之，市场可能大跌超10%。目前盈利与AI投资支撑多头，但仓位极度拥挤，债券收益率飙升构成主要风险。\nhttps://wallstreetcn.com/articles/3779452#from=android",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-14T12:22:21+00:00"
-    },
-    {
       "id": "tg:globaletfi/21117",
       "source": "telegram",
       "author": "globaletfi",
@@ -377,18 +402,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-14T10:46:06+00:00"
-    },
-    {
-      "id": "tg:EMchina/32360",
-      "source": "telegram",
-      "author": "EMchina",
-      "author_name": "한투증권 미국/중국전략 정정영",
-      "author_url": "https://t.me/EMchina",
-      "url": "https://t.me/EMchina/32360",
-      "text": "SMIC 홍콩 +4.8% 상승\nhttps://n.news.naver.com/article/001/0016252554?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-14T10:31:47+00:00"
     },
     {
       "id": "tg:HI_GS/6907",
@@ -487,8 +500,8 @@
       "url": "https://t.me/enc210406/4331",
       "text": "[한국카본의 100% 자회사 합병 공시 IV]\n@ 존속회사: 한국카본\n@ 소멸회사: 한국글로벌솔루션\n@ 소멸회사 사업: 선박 설계, 제조",
       "images": [
-        "https://cdn5.telesco.pe/file/Q4jJ6H5yQZk3lfxDcnmYXMf2WGwXqfJRmW4_bwZ6H5rqC3Yw0qd_L6s4MvzrdINt_nsJY8B-52peJyzzverW34K06ebgKXGWyEMxbFDqYoKB3orZVqRdvaNUqixQ_A2aIATsch1J-Ya1l3fO94LRZ2zXDZt_YPIfAy6znyY59tRVi--3pZUBG3g59x-bdEhH40cBgfmwwBCoReBdtEHcZ_m70Q4VzC-Jw-tdNjdwNwtAczghcFwhZU8M2CrTBpUt0oQF_1uXvW-TbRfnCJQI-ZPAeJi4rREjp4r6DuhxhOPMOItI142xaJach1bLuugSvN-ASEqiIEPWO5lSnYbuxQ.jpg",
-        "https://cdn5.telesco.pe/file/uy4NjXauF0aodfa6Pa_-RTsQFnfueLeyi5aDpKcpUURJj9O4599cOQpLRRGEEcPFleD6SgV0JiCPhaW6uM6aVSE-FeyOdiDN35qbFYXEdslhzJm6C3tMPKQpuhMsXwABNw61zwjiRoGAKhPPTTvUKsQFvC2qqyAeee_FteiAT99DdcgAy8-C1BE-duhDnKxN6aY1nQ6kzNWvXaCaX_Tmk9equnteQoVc7soWZCZXbozuG-E76WBRXINkNLgz6uJzW_PfI1DVk5ZTmGw7atBAx5YVdIdkh5kUKlDCn-lwKnebjHrjBFXa-WOeq0WHDRVbO1pGub3wHeDsKxjM4GSSsw.jpg"
+        "https://cdn5.telesco.pe/file/D7L-12Qvetv6e1eoVvxZSdhx6Pte2SDWLa99DfmclfZlqhJNpedRxC_YT8w7x1JRoDlm11_7klRYitLstz1imlaw5OIY84amviULrGg0W1Z5b9IS3jqs_7FiCtH1qW1yM9wBbg6BLFzn2ZGuCL1qA3m6KyXqt5NuuXEG8awHjwDhOmUcz-A5ur6AEZ1ezXUtygl0OhLnqdvCau3H8yP5QeApf4d-KYMJbUTqJBcajix6mJHtWU6b4AuXJ1R5La5_dSEsVWyTMCeqslQexu0dAa_fcUWwS89hRR_UbIc92KXrIVhjeRt74knsFZndY7EMP4w8y0tqL-UIoY729orCuw.jpg",
+        "https://cdn5.telesco.pe/file/n33mETLyP2dVFQJGNPib7fqkLdYecO8sM8Fx0r7PM2wFXkIuSERpRqBCj6KM9KhThP0T7YSi-VIQBGjKA03MNSiDIoTFcWEGrOtJe__7cUZrtu5BLvZH2Ksuxu8Wxr8bjdLzNgWCSVOsi4Le5rmOe2YCCud5Rq6nflBQs35IWkdDtvXEp7R5W_OheVEy6cbfASWzXKcf3AsXUMxJDwKjAYdNWZ_YfAejQ1ug93ynp_oyyfZ1NUuesFErYM7KhVnMTC5Deiq-CSqKxj06X8jg8rIC57FIAKBfnPmRRYequDT4Tzsa4bCM7eGNdDqPaskCcon3s10CacT_sowsVMRmBg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-14T07:19:35+00:00"
@@ -502,8 +515,8 @@
       "url": "https://t.me/enc210406/4329",
       "text": "[한국카본의 100% 자회사 합병 공시 III]\n@ 존속회사: 한국카본\n@ 소멸회사: 에이치씨네트웍스\n@ 소멸회사 사업: 자원개발 및 소재무역",
       "images": [
-        "https://cdn5.telesco.pe/file/bcQiSseeD4JvMIBaemZxn5GBVqLXHzPjhQJc12SuUpWbdoFmSAnT3zfhYNUy-t7FZsQjCR6UgzQ9aBIyZ3nljVitrRNW8ix4pwVthcW7TNxkCuQNyRcL3x4PJKfspC9vmXssMaC6pnlr3oF2DcOWUnMvrwnJP6huD0KNEKgL89BCq993kPt3T-spkKrgTkSNj29tZzU5EJHSlTIoh1E_-dI2xsCXGrVsyFk5cACz4zn50I6ar2u1zk_fOdMkVF5QAZb1KqGxKl6vK53oAeVphpbIXpEIGXx0PdPaRabRJMFfkMU8lgkzYAIzpiRWyNtisgY-vd_UfbIQ_UIOuyNFUQ.jpg",
-        "https://cdn5.telesco.pe/file/phbfdxc2P9b6Zz3vXYql0bRArjQ1aSkmzYrvYLIBGiMciRN8ZJQWat5oABwiRL6P4sCHd8YNdlaGjDNjkl-xvaL5TWjJCUs51B9szdGdK3qTpgr4NjxQqNRbxNIKEnPk0dAFDxJ08IuNh_LYKVJ5xGqZLBwUxtZJjtflwSI6soOY0YqyuCF9ohtT6fwDxJD-0xn27q75pDTa2eD70hoPLiQ52u7Go3bdWfX5lnFF86O3iZ64ukHWSWnqc-wFkDSai8ko0VGQ-s4UB-2c-mGpd3MLLfhSeKj9kSydryoyPSdOy8OdUXi_vtsT7PYAp7i9huKLN8bMRVsKChFV1kCt_Q.jpg"
+        "https://cdn5.telesco.pe/file/GiKLPqp3Oo7DFHYAD2t4XAOUVirmEq3yc7e_5Ai0m87vgVRRCzk2XymmvpGXLVjdTDNXdTpkudeKFEP_Kh7rf9TsFCKehHWP91mc1VNakfD1PL89eC3n73nDME3AyKPJKHrmHIoexBht9Cck0rYq6IxJCmhePVyMBbm5bi5jxiiWVG3YikmgniH_gOgsIyodS-xqtmijNTb3E7axB0R_Pi8uffCLVd9A1r4BTWs15hI0Bs4ePmao5GTXL5rWqHIbDrXIwpviovwmgyAEckaTSb8wH22xUcpE2ECd4ipbK_pyZp8T9EA1jkZ3SyX5WrzpIPpWY8FuxwnQuW-FyqtRbw.jpg",
+        "https://cdn5.telesco.pe/file/gAdsxj3eaN3sf325gJVw2EHuXLwa00kgQWscRBIwZOhptg-PtgikXag0UKjy1rk4rxHBXJxmXgH8EAkYocSsAK6iU7xA8hL9jT2-19Z1X5MEkGZpvv33At45Wp7Oxa2ByHjvRfVdiyOzQ1f-7d5-YHZdmW5FdcL8fd-5LgKEfi5K2dCx_hIwUzdSF109BMKylEl7QMvCuYXY0RZSiTBfkA74S-wGDIVuSW1rQ9oCrVDJPLTeQG0_3bVLONwN0p_vnT5Aqe7QvI1hb-hUflXY7bbx32dztMVUM9p5bbHP_e9qqRIe7k9lTbooAP-ltNLdPuvuLH2vPkvasKZEpxJnWg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-14T07:10:37+00:00"
@@ -517,8 +530,8 @@
       "url": "https://t.me/enc210406/4327",
       "text": "[한국카본의 100% 자회사 합병 공시 II]\n@ 존속회사: 한국카본\n@ 소멸회사: 립스\n@ 소멸회사 사업: 섬유 제품 제조, 가공",
       "images": [
-        "https://cdn5.telesco.pe/file/SJxURVndfz0mJSSos7g4QDvRDDMWQEo5icYRyR5EhrT-reZBZgws176cFnbdUOI1M5ueUFxWGHV_7uwpCCkRxbCEHnQ06FcGdE55Ym8NXNRphnMdjDpmHFVs6wIy1sr56Ici4MpanDWKiFwrQY0JqNbd7oS94ZIYRHRWNufIhJSsTAXhGn_jbllDZxYF7U2dC-VqZCQC17MbpnG-1WO3Ok5AF_FDCAyzzy4kEfYxGCe9gnDNHS3V_xr-AnoGnfe8suEe4PSR4bXL8a8xc_Maoy8abqSb3hZKZSLCFa8G26qrd1nHKGXRB9ijrKrUS3WAcf2fAd3KGboH86mQ3EcGmw.jpg",
-        "https://cdn5.telesco.pe/file/CnwQXp6ZWSwOI2FtoNy1mObTN-V1AhRtDjp6l8Tb1DZpIiVD2hnbsRfbTJsyMBYKSm4cXVg4eiW752yNIZ3LYNuXwwK9TIgp-phMioqdmavsG9XhpNsQ9lG8m-6pvGux7i0vzz78evUG9ojN89PanA05kIxnlBIFsmcX0arVGmJENkEAG2V96hfKn0ZUvOm2vJw7y3uNZ1OJxMejOZsvUdSO1Q4k3ifGMn2_IDA4AqyrGTtXSV-6IKz2N6cUmlho8T-pw1jswamLu-VszmqYp15C4gO9wkVImIcIK-ZUvCEg_gxyFeCTF_qWV3rluKzU9RFIvZt3xC6PB3dZmoXTfw.jpg"
+        "https://cdn5.telesco.pe/file/B4AxfyEsRvHtt0cI2ig46jr8pkhvGEFyQZJNtYn76FctNqtWG_l35z2mVZkfq0kzbTeT68sTRgth1TE58hwh5AzK-E7B7NPT34rfqWz95htv7jBKdcceRRXKiK4kcJOgqtpbDlaN3DInXsifliXeQA7jQdmCc4V6CqUgxDiKj4UuhlQz_XJB_f7Pto2Mi496MQxgE0AfBt6dNNfFk-wetdgKY8LGgovs5cNXDuYJLGE_IdOWo8xkLPtQJPOF0Wbsx5lYlAFyAIxVm99LMzijUM4UYQKSeAd0vA24plNKEt8rJs_CrEZ0AUagpMKZSHNwYRTeI5gQEhM_ruJUecnuuA.jpg",
+        "https://cdn5.telesco.pe/file/mVuwYSHgd01e6i7xRnp-3aisMWFnemD8L1bXtkdzHzGho5YW8W48chjUohjVH9qQDcctidKBScACVyyupjxQnCtpF-UQx-mi_Uh7ZCmgVyvvXCp-pVlAwo5YAAM8fu3H_fgJhwPUs6wvx3zlBIoOTOMlCgazDdqLFHtH1CiY0bVec-Nz3Jp72PSndHkOxCAtu5nCDC9vUPnWOQQpQFgIWKrhg1sFm6_42IOqKgQC16gT1186-SPK569OOPMWTnFsx8fYaJWrJVLrpqeDWru_KID1_xaur1lEZzLqkKq_2XJMW99LgEKO3-WwYZz4nYPRQDbpRJZzc0fZXfbi4S8FoQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-14T07:09:06+00:00"
@@ -532,8 +545,8 @@
       "url": "https://t.me/enc210406/4325",
       "text": "[한국카본의 100% 자회사 합병 공시 I]\n@ 존속회사: 한국카본\n@ 소멸회사: 한국항공기술케이에이티\n@ 소멸회사 사업: 무인항공기 제조",
       "images": [
-        "https://cdn5.telesco.pe/file/GUKAgs6cOoKKsh5edqoIDZj0RmuXQaTpIp2N52a2XyFA1c9fd2ROeClcHPRxE0XAEm7gPryi4fuhuqAS5RzRDzww18USGkXXY8OwrxLUc0NDlKXhnRiLR1cma8YOtnVReU1VHfPAuoPXEgtBZs8t5m8wKzeN-m9UvMiFLyK4Z6ElpjyfoUOD6bnUD8_I_0xsbxr8F1Il1bWBb5d3PjM_vToNXP5gG04rz_MWF_3sZOQwM6qfgUeGSD7ZV0ywpfiNMWoZ64XPGvZKGXxwtguEp14pTODGE9t7wB0fkx90qIYnCz_Tfp1we8F2iK88SUNNtCfiWEVqb0vZ1TM2wz9obA.jpg",
-        "https://cdn5.telesco.pe/file/Wi8_pJkfcZ7y5CzWanVU01n1MB71w6mWn0FbXx8dNy4qJ03ou76ohhh3S_cf0m0gyGQyHg3vp25dcnX9bW2t0RUKkAmE2yErfLpye4P8GhKFDfOWuSTfQebr9Td4syC6H_cFuZDZ9l_1fVVm8_qxeOoXoPaRKddvQknZ-tGqOQcIp3opqspH3CXgdNDStQKrydad1K0zIn2Z2u-qzFz3JReO5aWy_UglZhyrOsC0Wkg-efszF_grP_z4y0TE8Bw4hvDhy5Ya2vMZeT9ikiCFpyPhls8gTIKyFfKEl7dPdXiToBTJzeKWphhL6r3zinK8bgTWrBnrzjVLaUqrsD2xFQ.jpg"
+        "https://cdn5.telesco.pe/file/rPM_pk79w33LLN8qnZXJ1Cx3WfkQW54fysYw28qz3DP5zVuF7Bq2OUVcDMTy72SzPXKiBjUwlNKz4kvFmvZ95W0xsEIZFlIB0C94aEo12j_SwGsAXyFCIqwzZ9sR76DDxK6mt3LssTKtpyUH9jh0NL_WNE5eibcs-r8BF-JsEF9w8jMdHePXD4DKvql3p8iUIC4U38S1Kr3w6VOSjcPKBJEtZomcaSHak2a-MJuKdaSJZEhfuWMFdBg9LIl6NmwTSyPEpmaGL-VB4rkMmNPRjCwxOa0riGRW3VeHybW9qyhegMQhcwkr3BNf_xy7LZ52rk4EUTyttC6CaehJODbC0g.jpg",
+        "https://cdn5.telesco.pe/file/nFWOW2IYcBWbtC4-CiUvLfdY_8pb2Fr3bSitc1e8yKjSbXmYYDVVs6_ddSEOZXf-xRkmjCawNYBDa8SE9Hbst95IXClNpR_ykPJUq8Cfq15-EDQdM7DdVsjjvCM5_-94UG9hbMX2qrbjlqdxnNflVjSUvmOKXfnkjA6PmALfSWefz7oeJGgOEPXeaOMk-9sQg40An-Log53lZa691ICdrW3g4oIp71BNjd2wsfR8UpGK1P9gvLLWrEPTK4lc9VIP4K2D9VS5bGRECo6Mm6VbZdZFz3aTtM1TdpSuumEM-Br9I0IsU2WQd6KBKvoCbtjBlWG6V2MsjmNgeZFjUx_FlQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-14T07:03:21+00:00"
@@ -601,18 +614,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-14T03:32:48+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19711",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19711",
-      "text": "2026.08.14 12:24:03\n기업명: 유니트론텍(시가총액: 1,276억) A142210\n보고서명: 반기보고서 (2026.06)\n잠정실적 : N\n매출액 : 3,401억(예상치 : -)\n영업익 : 385억(예상치 : -)\n순이익 : 178억(예상치 : -)\n**최근 실적 추이**\n(기간/ 매출/ 영업익/ 순익)\n2026.2Q 3,401억/ 385억/ 178억\n2026.1Q 2,203억/ 184억/ 165억\n2025.4Q 1,986억/ 118억/ 53억\n2025.3Q 1,924억/ 69억/ 56억\n2025.2Q 2,053억/ 36억/ -48억\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814001041",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-14T03:31:58+00:00"
     },
     {
       "id": "x:sama:2088101491802243121",
