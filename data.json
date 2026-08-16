@@ -1,19 +1,18 @@
 {
-  "updated_at": "2026-08-16T18:28:33+00:00",
+  "updated_at": "2026-08-16T19:20:53+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 4
   },
   "briefing": {
     "headline": "미국, Pax Silica 중심 AI 동맹 구축 가속",
     "bullets": [
-      "JP모건: 샌디스크, 마진 프로파일 리셋",
-      "미국 데이터센터, 새로운 성장 동력",
-      "레노버: AI PC 중국 시장 판매량 50% 이상",
-      "마이크론 주가, 1,000달러 선 근접",
-      "낸드 플래시, 4년간 공급 부족 가능성"
+      "JP모건: 샌디스크, 마진 프로파일 리셋 및 경기 순환성 완화",
+      "미국 데이터센터, 새로운 성장 동력으로 밸류에이션 상승",
+      "메타 수석 AI 과학자: AI 기술, 널리 이용 가능하고 공유되는 것 필요",
+      "마이크론 주가, 1,000달러 선 근접"
     ],
-    "generated_at": "2026-08-16T18:28:33+00:00",
+    "generated_at": "2026-08-16T19:20:53+00:00",
     "model": "groq"
   },
   "items": [
@@ -1144,7 +1143,7 @@
       "author_name": "Google AI(구글 AI)",
       "author_url": "https://x.com/GoogleAI",
       "url": "https://x.com/GoogleAI/status/2087949042961514983",
-      "text": "Pinned: Our most intelligent workhorse model yet for coding and agents has arrived ⚡ Meet Gemini 3.7 Flash. — Crush that seemingly endless to-do list. Gemini Spark in the @geminiapp now uses 3.7 Flash. The new model can equip your personal AI agent to work even smarter for you by seamlessly handling complex, multi-step tasks across your @GoogleWorkspace apps like @gmail, @googlecalendar and @googledocs — Enjoy a smoother build experience. The model thinks more diligently, putting more effort into multi-step planning and tool calls. A more disciplined execution means less manual oversight and fewer retries across engineering workflows — Build more, spend less. 3.7 Flash is available through the end of the year with an introductory price of half the original 3.6 Flash cost per million tokens ($0.75/1M input tokens and $3.75/1M output tokens)",
+      "text": "Our most intelligent workhorse model yet for coding and agents has arrived ⚡ Meet Gemini 3.7 Flash. — Crush that seemingly endless to-do list. Gemini Spark in the @geminiapp now uses 3.7 Flash. The new model can equip your personal AI agent to work even smarter for you by seamlessly handling complex, multi-step tasks across your @GoogleWorkspace apps like @gmail, @googlecalendar and @googledocs — Enjoy a smoother build experience. The model thinks more diligently, putting more effort into multi-step planning and tool calls. A more disciplined execution means less manual oversight and fewer retries across engineering workflows — Build more, spend less. 3.7 Flash is available through the end of the year with an introductory price of half the original 3.6 Flash cost per million tokens ($0.75/1M input tokens and $3.75/1M output tokens)",
       "images": [
         "https://pbs.twimg.com/amplify_video_thumb/2087948643621888000/img/OGrdg-g2iTtrORJj.jpg"
       ],
@@ -2156,9 +2155,7 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2082153297670992134",
       "text": "New Anthropic research: Discovering cryptographic weaknesses with Claude. Claude Mythos Preview has helped our researchers find weaknesses in cryptographic algorithms—the mathematical methods that are used to keep data private. Read more: https://anthropic.com/research/discovering-cryptographic-weaknesses",
-      "images": [
-        "https://pbs.twimg.com/card_img/2087144068958605312/Fj_ihAat?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "새로운 인류학 연구: 클로드와 함께 암호화 약점 발견. Claude Mythos Preview는 우리 연구원들이 데이터를 비공개로 유지하는 데 사용되는 수학적 방법인 암호화 알고리즘의 약점을 찾는 데 도움이 되었습니다. 더 읽어보세요: https://anthropic.com/research/discovering-cryptographic-weaknesses",
       "published_at": "2026-07-28T17:16:45+00:00"
     },
