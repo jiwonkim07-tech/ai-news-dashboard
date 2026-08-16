@@ -1,21 +1,49 @@
 {
-  "updated_at": "2026-08-16T01:16:56+00:00",
+  "updated_at": "2026-08-16T02:59:47+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 4
+    "new_this_run": 2
   },
   "briefing": {
     "headline": "마이크론 주가 1,000달러 선 근접",
     "bullets": [
-      "레노버, AI PC 중국 시장 판매량 50% 이상",
-      "애플, 중국산 메모리 칩 구매 자제 촉구",
-      "엔비디아, 210억 달러 스페이스X 지분 공개",
-      "앤트로픽, 2분기 매출 115억 달러 돌파"
+      "엔비디아, 약 210억 달러 규모의 스페이스X 지분 공개",
+      "애플에 중국산 메모리 칩 구매 자제 촉구",
+      "레노버: 'AI PC 중국 시장 판매량 50% 이상'",
+      "앤트로픽 2분기 매출 115억 달러 돌파"
     ],
-    "generated_at": "2026-08-16T01:16:56+00:00",
+    "generated_at": "2026-08-16T02:59:47+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19726",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19726",
+      "text": "IREN CEO\nDaniel Roberts\n새로운 AI 데이터 센터가 생겨날 때마다 AI에 대한 수요는 줄어드는 것이 아니라 오히려 더 늘어납니다. 과거의 호황기를 언급하는 사람들이 이번 흐름에 대해 계속해서 잘못 짚고 있는 부분이 바로 이것입니다.\n더 뛰어난 AI를 구동하려면 더 많은 컴퓨팅 파워가 필요합니다. AI가 저렴해질수록 사용량은 줄지 않고 오히려 더 늘어납니다.\n그리고\n성능의 획기적인 도약이 일어날 때마다 불과 1년 전에는 존재하지 않았던 새로운 활용 사례들이 만들어집니다.\n수요는 '소프트웨어의 속도'로 증가하지만 공급은 그럴 수 없습니다.\n공급은 전력망 연결, 송전선, 콘크리트, 철강, 그리고 이를 짓는 데 투입되는 수천 명의 인력처럼 '현실 세계의 속도'로 증가합니다.\n과거의 붐에서는 기술이 공급을 늘려 수요를 따라잡도록 도왔습니다. 하지만 이번에는 기술이 방정식의 반대편(수요 측면)에 서 있습니다.\n기술이 기하급수적인 수요를 촉발하고 있으며, 현실 세계는 이를 따라잡을 만큼 빠르게 지어내지 못하고 있습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/Dj7qBZoAtmWmwHVabHV8-dxu1da-ogQSyApJDSjZXOxvVRCHCEbYGoOYQCB9LtmEPGA-hvzD13IoV6VkjD_G1EFkADI_UMA7zxI8PNRTGi91dbe4Doq9uDVmLD-mp8fMyUFOAzyTQmFW2D6H3Qk8ddQdw3gh-YtQMfMzdIs1E13ZLgll5gBYeDj0_jQ0S198jSzKDymH8P6dS7uUiGcBDJyGuj7YqMkOZvSy51k7j0lDvaqX-fT8UDmvesLpQnw_MWnuzqGYYkR3gyscOMf5fUvzM6FtWGEbQk5ZKABego3cDpNWnhhXinOpLDTjMbrZVG19w7jMlhMEJZ6TqzVZHw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-16T02:54:07+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19725",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19725",
+      "text": "JP모건: 상위 7대 하이퍼스케일러 설비투자(CapEx) 전망\n​아마존, 마이크로소프트, 구글, 메타, 오라클, 코어위브, 스페이스X의 2027년 설비투자 규모가 약 1조 5,000억 달러에 달할 것으로 전망\n연도별 총 CapEx 및 전년 대비 증가율(YoY):\n​2025년: 4,430억 달러 (전년 대비 +71%)\n​2026년(전망): 9,010억 달러 (전년 대비 +103%)\n​2027년(전망): 1조 4,890억 달러 (전년 대비 +65%)",
+      "images": [
+        "https://cdn5.telesco.pe/file/Vjn4EP87yLA2WzfxrF7DLL4Q_k_INB9HSm_mvgGRwIt4O2ImWw49fK9Va92Vv020d2AIvXzfG0hQt8LdT7vWX6TGPd7nA_gEsrShNUFTdvReJv5jh3lvMTfN4eIlJlpNM5x10-rEWBtoUtVb5Mlc4funQDcoUnSy_2Fl2GLCg4f8fb9HptYh5PGqVmQUixnnOULs4p_s2zaPiIpoAqfb1-yeEyyKcHp44_NcA6W56iqd0_h8lEWYHI6MSYHzmvDWYTj73MQhkYbgcCo5saSIsj3vDFWRHLqiomv6pj7m_qyPYGindr7mkz9jaN4d5lXZoSS0AlEQO1lkWl8c8_3Upw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-16T02:41:54+00:00"
+    },
     {
       "id": "tg:bornlupin/19724",
       "source": "telegram",
@@ -233,7 +261,7 @@
       "url": "https://t.me/bornlupin/19720",
       "text": "엔비디아(NVDA), 약 210억 달러 규모의 스페이스X(SPCX) 지분 공개\n​엔비디아는 최근 미국 증권거래위원회(SEC) 공시를 통해 분기 말 기준 약 210억 달러(약 28조 원) 상당에 달하는 스페이스X의 클래스 A 보통주 1억 2,280만 주를 보유하고 있다고 밝혔습니다.",
       "images": [
-        "https://cdn5.telesco.pe/file/pWWkO6nB3Dzp9dMUolQIlWb2ndY4XanMPO_c8rBH-JFZAucJukpuW575F0Hllzxf-ncDdZXkT8pTt3ZiG4fEGKbnjaFRHItjN7i2Rgt9UNdS3FRf17JJbk4-msMHTAp0NA-NCHKL9_wph_ycCKxfCx6eYQr_d-irF3TG0yhSyrpM5lJB2wNO6Zl6YbBgN6crt0wM-qGMTpY58sMNRyye77_AxZr_kSvmOorRrySrs5tuWKFEFKfA44Hs7wX54lLAd6du99DI5r3R-0X-SZLekuOGT3jW6Q1gsfjN6EH7YCHbQFdQcClTKTeVutWJ_HQZ-MhFskwZQfbxu3sVyZjjMA.jpg"
+        "https://cdn5.telesco.pe/file/sWl1V7A0nGxhyj36KUJe9pNohVESzwRukFxdJg3WXEG4LKUKy9uuk1wI7Qj8LIrbAX-A_XD9UwCHRgFGUHMz5wm_17OkJDezp2vyLltc2C0yJ_Lq8jmZGnCfpychsCIpjo4o8miSGMbZPLwITmfTQJcGCoXYfYwXvFJeUnd_CAY_G9UouCp4WuM1k5HNVYa_YI2RLm9SEq12kNG9vr9DSbcUp_jieDFkfJR35L388GBtfhEm0LCOGMfumfUEok3shviGAqEs1ZUsXGlOJGi6G47qYFoRM8ZOaWBWc4Qll9CE4ptLMVTv1jxtt9RVkaDIsEDgTcf2cvkC9vGHMSTiHg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-15T02:20:37+00:00"
@@ -247,7 +275,7 @@
       "url": "https://t.me/bornlupin/19719",
       "text": "마이크론 : SNDK 모델 적용시 2030년 EPS 컨센대비 +73% 폭증 가능성 (Bofa)\n1. SNDK 모델의 핵심 전제 조건\n• 매출 성장률: 연간 매출 성장률 15% 이상 유지 전제\n• 총마진율(GM): FY28E~FY30E 기간 동안 80%의 높은 수익성을 안정적으로 유지\n• 잉여현금흐름 마진: 50% 이상의 높은 FCF 마진 창출\n2. 시장 컨센서스 vs SNDK 모델 실적 비교 (FY26~FY30)\n•\n매출 비교\n: 컨센서스는 FY30E $2,805억에 그치나, SNDK 모델 적용 시 FY30E $3,773억 달성\n→\nFY26-30E CAGR 30.7% vs 컨센서스 21.4%\n•\nGM 비교\n:\n컨센서스는 FY29E 73.5%, FY30E 78.0%로 주춤하는 반면, SNDK 모델은 80% 수준 지속\n•\nEPS 성장 궤적\n:\n1) 시장 컨센서스\n: FY28E $168.91, FY29E $168.94 정점 달성 후 FY30E $136.24로 꺾이는 주기성(Cyclicality) 반영\n2) SNDK 모델\n: FY28E $168.80 → FY29E $199.53 → FY30E $236.16으로 지속 성장\n→\nFY26-30E CAGR 34.1% vs 컨센서스 16.8%\n3. 피크아웃 논란 해소 및 밸류에이션 리레이팅\n•\n이익 구조의 변화\n: 단순 사이클 산업에서 구조적으로 높은 이익 체력을 유지하는 모델로 전환\n•\n역사적 PER 적용 시\n: 과거 마이크론의 평균 배수인 PER 10배만 적용해도 상당한 주가 상방 여력 확보\n•\n멀티플 재평가\n: 실적 변동성이 낮아짐에 따라 AI 인프라 수혜기업 수준인 PER 12배~15배로 타깃 멀티플 상향 가능 (현재 마이크론의 PER은 6~7배 수준)",
       "images": [
-        "https://cdn5.telesco.pe/file/PKWK8yTTTEty7Zd6-NoVn8UNh03hbu0KcwjZJB6Ela473P2lCGpxwNC8hRpn2_3wrcTSmyPJToJGg_eG26rUXfj7s2KCl_5sf1_R-REYee06yeWXR4wzVCYhPfOHgvLQs5i613WYXWLBqnoNNYuNDsm2yAnsIvD3HT9gMpu7AMb6g2fjMNlsW7w5TM32sVYOEKV_agYf4o1X-3tdFKffwW6A_ZRsU9DK1luZZubuGPOY6ZzL8lCFGxomF_ZQu8u9HJEMZkcLWg0gDDrF26511w04LUVcciFY1AvxOEYauUn04WETMqkOHml8gTH-6xwjQGlVzcaoyizKsSqthSvRlQ.jpg"
+        "https://cdn5.telesco.pe/file/XhiOmQcwm5p0glfsJjy872lAHQwGB2K9k80gkK91MZljjFfRKXXMmfgCUgwhMn0JdRonPkB9E1gKh8i4x5JQmVDlafg3sWt4quXLUhwNHWEEwBdGPtyavUAUlUfl5z9bXj_47-kj9lbkIVH55nIW0Tf_QsQPjcYAz80pSbs8FUBXHDZLNjcAO88hy28exIHUMnH5l-sOfb7v3idjW_scTbK1EhUyJNQHdT4s72q9q4mowjCngq_vx8WlCaDR-88-YaFCkTUi_7n3bvMKqZedQ58UtRoSjGoHVHG75IpXjDmQnJkM7-Kqwtm0GRoB8q6nktmrIrt2BkrAUIvZeqX6iA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-15T02:20:12+00:00"
@@ -477,18 +505,6 @@
       "published_at": "2026-08-14T09:55:25+00:00"
     },
     {
-      "id": "tg:bornlupin/19714",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19714",
-      "text": "2026.08.14 15:55:56\n기업명: 티에스이(시가총액: 2조 8,760억) A131290\n보고서명: 반기보고서 (2026.06)\n잠정실적 : N\n매출액 : 1,888억(예상치 : 1,463억, +29.0%)\n영업익 : 525억(예상치 : 426억, +23.2%)\n순이익 : 424억(예상치 : -)\n**최근 실적 추이**\n(기간/ 매출/ 영업익/ 순익)\n2026.2Q 1,888억/ 525억/ 424억\n2026.1Q 1,507억/ 420억/ 400억\n2025.4Q 1,239억/ 198억/ 219억\n2025.3Q 1,044억/ 115억/ 118억\n2025.2Q 1,176억/ 148억/ 46억\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260814002616",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-14T08:11:09+00:00"
-    },
-    {
       "id": "tg:enc210406/4334",
       "source": "telegram",
       "author": "enc210406",
@@ -589,20 +605,6 @@
       "published_at": "2026-08-14T07:03:21+00:00"
     },
     {
-      "id": "tg:bornlupin/19713",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19713",
-      "text": "Peter Diamandis :\n“\n에이전틱 AI 시대의 속도를 제한하는 병목은 연산(compute)이 아니라 메모리(memory)다\n.”\nElon Musk 답글 :\n\"이를 아는 사람이 거의 없다.\"",
-      "images": [
-        "https://cdn5.telesco.pe/file/m9f4bW3wQuNk1Zt2CED0JrlvCHJXPt9d62paC4J8-wQJoNJW0rVxbCVqqc-Ao7Ad8RxhEt8lBlsUdcxYKsYj1dqjE5E8z2LvaOZ7ZJLq4dHhxCHN020GbmfmZrZBq4lu9_Pdf7KAvPVYP6UejXsV7Gv6hxyoVrnFn6SRDd9a0RYupmKvCysI0PsL5vtCpMOM2mDtK8VKo7O7SKt4euuf53HpHyllGfCLxweu9arO3Tq5CdGWGM3a45dz67VFFm06mWnYUWl4GjPHAwXInJ64V4en-JHQnEFtYqpW2dCc1a89jV6QYriMRnh9fGW7YZiBMYZiF-LlOXGoSoO22cYOKQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-14T06:37:49+00:00"
-    },
-    {
       "id": "tg:enc210406/4324",
       "source": "telegram",
       "author": "enc210406",
@@ -663,7 +665,7 @@
       "url": "https://t.me/enc210406/4323",
       "text": "[한국카본 2Q26 확정 실적 공시]\n컨센서스 대비\n@ 매출액: 부합(0.3% 상회)\n@ 영업이익: 부합(3.4% 상회)",
       "images": [
-        "https://cdn5.telesco.pe/file/f2mXWwkqcOo4Ur8rX84a-93m9QaSGTtdbLgxszz3vCqqLliu5RSGK2szJw5_5Dkkde9ibK6iK7Kobm3zBmiwIH15RK_qMl3xQbiz-DQ9-I3EJ6jqrq3Hd1DrBSPcGrnbVJMhqVj-xGjXYQP_BgXgNtkIrcpv4X3PhOPZo_HnUME5da5QN62G1LfN4iUVFreL2x_gL7RltYdw-TXCT9DJq56qdJP4LYTPHvIC8YYwkf9Ml6Q374G5xf3h0w4KSiZOnNdu9BGFP1HGLYivij-bcR3wXXvZJs2RgURIgL_Ox6S7KkYWGYAkhhueLv2BulWXFOndYyQ6Czm45Y7ST4xGdA.jpg"
+        "https://cdn5.telesco.pe/file/GMmm4uSPENGq3Hg4gc1u-6eEM9JTns8imIL1bs5dYc9kx9iRla1V4QRH8mWOiojG72OEa_YKTQfwJzeeQmPRgMfY7KqRk4g_DAn4w2j7g14EDX1wek-22JZv9QU9nti16-h2bryw3JBsQv8wthpdHZAC9LBycKoWdCRRXf_64N9vJiXhP2zJcZO4APXdrfJUZrO6bRa3ne60Ehhtajsb6llmm-9h-g32whlJsrKDV59C0sGcdNhvx8xJcZq4yKl60IA6L9s5yyGkrlpB06EWeV46G9CYdHqoAm-QJIMJrftgEEPI2z2jwHljGrtgZJ2YpisLCbjwLTeweS3WTClU9g.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-14T02:05:52+00:00"
