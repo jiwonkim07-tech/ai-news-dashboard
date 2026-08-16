@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-08-16T05:27:25+00:00",
+  "updated_at": "2026-08-16T06:38:37+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 1
   },
   "briefing": {
-    "headline": "마이크론 주가, 다시 1,000달러 선 근접",
+    "headline": "루팡: 컴퓨팅 파워 수요 급증",
     "bullets": [
-      "엔비디아, 약 210억 달러 규모의 스페이스X 지분 공개",
-      "애플에 중국산 메모리 칩 구매 자제 촉구",
-      "앤트로픽 2분기 매출 115억 달러 돌파",
-      "레노버: 'AI PC 중국 시장 판매량 50% 이상'",
-      "젠슨황 5000억달러 베팅의 핵심: 반도체칩이 테크 제품 감가상각 철칙 뒤집을 수 있을까"
+      "마이크론 주가 1,000달러 선 근접",
+      "엔비디아, 210억 달러 스페이스X 지분 공개",
+      "애플, 중국산 메모리 칩 구매 자제 촉구",
+      "레노버: AI PC 중국 시장 판매량 50% 이상",
+      "앤트로픽 2분기 매출 115억 달러 돌파"
     ],
-    "generated_at": "2026-08-16T05:27:25+00:00",
+    "generated_at": "2026-08-16T06:38:37+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19727",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19727",
+      "text": "\"사람들은 앞으로 세상에 얼마나 많은 연산 능력(컴퓨팅 파워)이 필요할지 이해하지 못하고 있다.\"\n일론 머스크(​Elon Musk): \"진짜 전혀 모르고 있죠.\"",
+      "images": [
+        "https://cdn5.telesco.pe/file/G_xX079FEXqtVbx0-3ZY7e8QlSHNbLoo0AcVp_DUbxxJc5CMelcUDa2RSTIn0RTjiZsDrPZvpJa4hO7Bcl2mgXGtkJ4gccBu-tBM6XFTIE8K9F8akOCP5bnV_4fFUGm3aedDBFnU9jxeYqsyMD7aZI5eT8MC9L9uxUqzU4Lmv3mZvm6RcGeN-vdoX1B-es_O4UQS93rPB1VOpN21g2b2IXt68Vf5_r-p3iiTr55JeMlhwL_QmAzMgnJ50GQYg0nbw5K8B2hVZL0jay5LR-oRny7O9_d0hm-ZD279EuXSF5L9D_PkHjrNixQUGr89pSIArkNR3LzGgav04dl2U1gtdw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-16T05:48:52+00:00"
+    },
     {
       "id": "tg:bornlupin/19726",
       "source": "telegram",
@@ -494,18 +508,6 @@
       "published_at": "2026-08-14T10:12:03+00:00"
     },
     {
-      "id": "tg:bornlupin/19715",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19715",
-      "text": "JP모건, 샌디스크(\n$SNDK\n), 투자의견 ‘비중확대(Overweight)’ 및 목표주가 2,250달러로 커버리지 재개\n\"당사는\n샌디스크(Sandisk)가 AI 추론의 폭발적 성장에 힘입은 낸드(NAND) 수요의 구조적 변곡점을 포착하기에 여러 측면에서 독보적인 입지를 확보하고 있다고 판단\n합니다. 당사의 '비중확대(OW)' 의견을 뒷받침하는 세 가지 핵심 동력은 다음과 같습니다.\"\n1) 신규 비즈니스 모델(NBM) 프레임워크 (장기공급계약, LTA):\n샌디스크의 마진 구조를 구조적으로 상향 조정하고 사이클 변동성을 크게 완화했습니다. 현재 체결된 8건의 NBM 계약은 최저보장가격(Floor pricing) 기준 총 약 940억 달러 규모에 달하며, 가중평균 계약 기간은 4년 이상, 최저보장가격 구간에서도 약 80%의 매출총이익률(GM)을 유지합니다.\n2) 낸드(NAND) 시장 규모(TAM)의 급격한 팽창:\nNAND 시장 TAM은 CY25(2025년) 약 700억 달러(JPMorgan 추정치)에서 CY26 3,000억 달러 이상, CY27 약 5,000억 달러 규모로 변곡점을 맞이하고 있습니다\n. 하이퍼스케일 및 클라우드 고객사들이 추론 시대의 워크로드(비트 수요 증가의 핵심 동인인 지속적 KV 캐시 포함)에 플래시를 대거 채택함에 따라 데이터센터가 성장을 압도적으로 견인할 것입니다.\n3) 압도적인 기술 리더십:\nBiCS8 대비 웨이퍼당 비트 용량이 65% 증가한 332단 2Tb QLC인 'BiCS10' 샘플링을 예정보다 앞당겨 진행 중이며, BiCS 세대 진화에 따른 웨이퍼당 비트 생산성은 연평균 27%(CAGR) 증가할 전망입니다.\n또한 HBF(고대역폭 플래시)가 추론 시대의 차별화된 메모리 플랫폼으로 부상하고 있습니다.\n장기 재무 모델 및 수익성 전망\n경영진은\nFY28FY30(20282030 회계연도)\n을 목표로 하는 장기 재무 모델을 발표했습니다:\n*\n매출 성장률: 10%대 중후반(mid-/high-teens%, 비트 성장률과 일치하며 가격 변동이 없다는 보수적 가정)\n*\n매출총이익률(GM): 약 80%\n* 영업이익률(OpM): 약 75%\n* 조정 잉여현금흐름(FCF) 마진: 약 50%\n이는\n과거 GM이 이보다 훨씬 낮은 수준에서 등락을 반복했던 업계 관행과 비교해 확연한 체질 개선(step-change)을 의미\n합니다.\n구조적 변화와 가시성 개선\n당사는 이를 사이클 고점에서의 일시적인 단기 가격 수혜가 아닌 실질적인 구조적 재편으로 평가합니다:\n*\n계약 비중 확대: NBM은 FY27 전체 비트 출하량의 50% 이상, FY28에는 약 3분의 2를 차지할 예정\n입니다.\n*\n사업 가시성 확보\n: 165억 달러 규모의 금융 보증을 기반으로 월별 공급 물량, 제품 믹스 및 가격 약정이 구체화되어 있어, 기존 업계 표준 관행이었던\n'3개월 단위의 가격 가시성'\n에서 주요 전략 고객과의\n'4년 이상의 확정된 수익성(committed economics)'\n으로 사업 가시성이 대폭 개선되었습니다.\n주주 환원 및 장기 밸류에이션\n* 이익 레버리지 및 주주 환원:\n최저보장가격에서도 수년간의 계약 기간 동안 약 80% 수준의 GM을 유지할 수 있으며, 변동 가격 메커니즘을 통해 추가적인 업사이드 확보가 가능합니다.\n10%대 중후반의 매출 성장이 25% 이상의 주당순이익(EPS) 연평균 성장률(CAGR)로 전환됨에 따라,\n현 시장 컨센서스가 온전히 반영하지 못한 강력한 이익 레버리지가 존재합니다. 더불어 잉여현금흐름의 100%를 주주에게 환원하겠다는 방침은 공격적인 주식 수 감축으로 이어져 주당 EPS 성장을 더욱 증폭시킬 것\n입니다.\n*\n목표주가 및 미래 기술 옵션:\n이러한 높은 사이클 관통 수익성, 지속적인 비트 수요 증가, 유통 주식 수 감소의 결합은 복리적 이익 창출력을 발휘하여\n당사의 CY27 EPS 추정치 250달러를 뒷받침하며, 그 이후로도 의미 있는 EPS 성장을 이어갈 다년간의 경로를 제시합니다.\n장기적으로 HBF(고대역폭 플래시) 및 신흥 3D 매트릭스 메모리(3D Matrix Memory) 기술은 추론 시대 메모리 아키텍처에서 막대한 가치를 지닌 실질적 콜옵션 역할을 할 것이며,\n이는 현재 시장 컨센서스나 밸류에이션에 아직 충분히 반영되지 않았습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-14T09:55:25+00:00"
-    },
-    {
       "id": "tg:enc210406/4334",
       "source": "telegram",
       "author": "enc210406",
@@ -599,8 +601,8 @@
       "url": "https://t.me/enc210406/4325",
       "text": "[한국카본의 100% 자회사 합병 공시 I]\n@ 존속회사: 한국카본\n@ 소멸회사: 한국항공기술케이에이티\n@ 소멸회사 사업: 무인항공기 제조",
       "images": [
-        "https://cdn5.telesco.pe/file/rPM_pk79w33LLN8qnZXJ1Cx3WfkQW54fysYw28qz3DP5zVuF7Bq2OUVcDMTy72SzPXKiBjUwlNKz4kvFmvZ95W0xsEIZFlIB0C94aEo12j_SwGsAXyFCIqwzZ9sR76DDxK6mt3LssTKtpyUH9jh0NL_WNE5eibcs-r8BF-JsEF9w8jMdHePXD4DKvql3p8iUIC4U38S1Kr3w6VOSjcPKBJEtZomcaSHak2a-MJuKdaSJZEhfuWMFdBg9LIl6NmwTSyPEpmaGL-VB4rkMmNPRjCwxOa0riGRW3VeHybW9qyhegMQhcwkr3BNf_xy7LZ52rk4EUTyttC6CaehJODbC0g.jpg",
-        "https://cdn5.telesco.pe/file/nFWOW2IYcBWbtC4-CiUvLfdY_8pb2Fr3bSitc1e8yKjSbXmYYDVVs6_ddSEOZXf-xRkmjCawNYBDa8SE9Hbst95IXClNpR_ykPJUq8Cfq15-EDQdM7DdVsjjvCM5_-94UG9hbMX2qrbjlqdxnNflVjSUvmOKXfnkjA6PmALfSWefz7oeJGgOEPXeaOMk-9sQg40An-Log53lZa691ICdrW3g4oIp71BNjd2wsfR8UpGK1P9gvLLWrEPTK4lc9VIP4K2D9VS5bGRECo6Mm6VbZdZFz3aTtM1TdpSuumEM-Br9I0IsU2WQd6KBKvoCbtjBlWG6V2MsjmNgeZFjUx_FlQ.jpg"
+        "https://cdn5.telesco.pe/file/THcQqXIjI1JIuRjgtjum-IGCjTCiViDNQYjnNyJK6pRbnkc5pWg_lf-x1aGK_xwhPtEI1yi4rmFBrCYcsyFDAYIPGRrU9figsx9qjUj14Sr65480Rwaflx-dbdDtyfXgSE28k5jul67S8ft5o04qUapxSwNCTFs4PZrSJnpBjegJMJWnf2hdTyl-mcJo_1nKIQvb3Ar5-wPzWQH2aOhEuVnEbNQXwrb5v0LgT4s3MpDGENE_OhPJ6BrLiE-3BGp5bSrBN-dRzBuBpi80cwkStCaJWE5DWt07g5Jh6D0PA0tJHEdApRVIz30e9LJmaIiI8wKTwJeKlmDgOZZNPICyJA.jpg",
+        "https://cdn5.telesco.pe/file/sGwvpwSfTLRoCBI83GRInIOgloKXg_Do1RKWQ3VUSDCQKM9sWSjLZHmyQref4GBarq6jhTCZLE_ZubhP2mvi28SHXOuQA4aOxdNNw-VddiRHAEJTsz5v5VkkeXOqfjolMYIG854CtQY1uh9f9ImRSrcph7-MnA5f4EDPcCSC37XvicwPLGLubF7cUJsDDdCmLOC-aQGGk070F_s_VDGw-Keq_7fh3YbG2UQFcmQn6jjzac-NrXFAu4tW8KKCj_DXpXMM3kp1DJ0j1rLYPqypm1QTjCHLI0WgJpUStpnoMLVoyEphMnonM6l3AIuMFE5iEq2bsSvsbJEU7hg8UdyzHg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-14T07:03:21+00:00"
@@ -614,7 +616,7 @@
       "url": "https://t.me/enc210406/4324",
       "text": "[STX엔진 2Q26 확정 실적 공시]\n컨센서스 대비\n@ 매출액: 12.3% 하회\n@ 영업이익: 12.1% 하회\n당사 추정치 대비\n@ 매출액(2,397억원): 11.1% 하회\n@ 영업이익(257억원): 부합(3.1% 하회)",
       "images": [
-        "https://cdn5.telesco.pe/file/VLU6yRMWbHI076jpjOKGUVqzaemLFxdqb62AH_0q1L_HDBgzRSfPjS6OsJNQum23x5zGvrENTnA7DSqAk0zZAA0mhvnSzmwbX0-1lXDLiXLu71QnA4H0WEmQ1iRlxQRSuAVLm128JmkTq_MNtST151dHb77Bs8BFRWiYb73yawPLjDhJx-ByWIaAKG7HRDS_X2taQ-oCSbRTy8o9moQlAzu5y7tVMmnXCTPYCPiRIFMDy55pop05KrZ2ot3R7ZJyy0q-Rt3e25AjIG3o7pyZfUW-7FlXPMgjJAZdkoq9IjW-BUrILmIEXb3GkQ-poafWTzzqMXNvpoUy53_Ff-_8RQ.jpg"
+        "https://cdn5.telesco.pe/file/N_Jd3Dc9wzHWcxLMdHMrAKXnu2Jine8hO1IRGgTyORipKAjcMXzwciF6bIkXKf7PPQZzc1GqO9EmCppA1exgjaFsQ05pUuT2GjFIbWT0t0t1JDaJHvddTBwlLaLpwOy_R8JSu9PSSwjgxvJQ8XoHmDhU8_53hWF86yNWe4077Oi1JfmLyZExKFbak8HXRLO2sBawARq6w54REZXru36qkjot5Azo-3gOmKYLy37E6swnV7DiVSJjPnbHdP35ecuF7MO7i9ovJpcool-52FbUW2jES-EXzXUL-NuY0MlNyQh7rgXthH5l5TjVKJ3KUKH7vdxpwMmxhPXXtiKXS9c9ug.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-14T06:15:15+00:00"
