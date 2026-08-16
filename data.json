@@ -1,22 +1,61 @@
 {
-  "updated_at": "2026-08-16T06:38:37+00:00",
+  "updated_at": "2026-08-16T07:30:47+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 1
+    "new_this_run": 5
   },
   "briefing": {
-    "headline": "루팡: 컴퓨팅 파워 수요 급증",
+    "headline": "메타 수석 AI 과학자, AI 기술 이용 가능성 주장",
     "bullets": [
-      "마이크론 주가 1,000달러 선 근접",
+      "JP모건: 샌디스크 마진 프로파일 구조적 리셋",
+      "루팡: 마이크론 주가 1,000달러 선 근접",
       "엔비디아, 210억 달러 스페이스X 지분 공개",
-      "애플, 중국산 메모리 칩 구매 자제 촉구",
-      "레노버: AI PC 중국 시장 판매량 50% 이상",
-      "앤트로픽 2분기 매출 115억 달러 돌파"
+      "마이크론: 2030년 EPS 컨센스대비 +73% 폭증 가능성",
+      "애플, 중국산 메모리 칩 구매 자제 촉구"
     ],
-    "generated_at": "2026-08-16T06:38:37+00:00",
+    "generated_at": "2026-08-16T07:30:47+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/24574",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24574",
+      "text": "HSBC) 미국 데이터센터 – 새로운 성장 동력이 밸류에이션 상승을 뒷받침합니다\nHSBC는 2Q26을 미국 데이터센터 섹터의 분수령이 된 분기로 평가합니다. 전통적으로 보수적인 가이던스를 제시해 온 Equinix(EQIX)와 Digital Realty(DLR)가 모두 향후 수년간 과거 수준을 크게 상회하는 AFFO 주당 성장을 시사하기 시작했으며, AI 수요 강세가 실질적인 재무 성과로 전환되면서 연 12~15%의 지속적인 주당 AFFO 성장이 가능하다고 봅니다. DLR은 장기 코어 FFO 주당 성장 가이던스를 기존 \"최소 중반 한 자릿수\"에서 \"최소 두 자릿수\"로 상향했고, EQIX는 2027~29년 매출 성장 목표를 연 300bp 올린 10~13%로, AFFO 주당 성장을 5~9%에서 9~12%로 상향하는 동시에 리테일 데이터센터 캐펙스를 중간값 기준 약 71% 늘렸습니다. 통상 투자 확대는 단기 실적에 부담이 되지만, 수요-공급 불균형에 따른 강한 가격 결정력이 이를 상쇄하면서 캐펙스 증가에도 불구하고 AFFO 추정치가 오히려 상향되는 이례적인 조합이 나타나고 있다는 점을 강조합니다. HSBC의 AFFO 추정치는 2029년 컨센서스 대비 3% 높으며 2030년으로 갈수록 격차가 확대됩니다(EQIX +6.7%, DLR +6.0%).\n전통 데이터센터를 지지하는 세 가지 구조적 순풍으로는 첫째, 하이퍼스케일러 캐펙스의 견조한 증가(5대 하이퍼스케일러 분기 합산 캐펙스가 2년 전 970억 달러에서 2,480억 달러로 확대, FY26/FY27 컨센서스는 각각 약 7,960억 달러와 1.1조 달러), 둘째, 추론(inference) 중심으로의 수요 믹스 전환과 멀티모델 도입 확산으로 저지연·상호연결성이 강한 전통 허브 입지의 가치 상승, 셋째, 지역사회 반대와 규제로 인한 공급 제약 확대를 꼽습니다. 뉴욕주는 7월 14일 50MW 이상 하이퍼스케일 데이터센터에 대해 1년간 모라토리엄을 도입했고, 텍사스 주지사는 수자원·전력망 영향 감사를 위해 신규 승인을 중단했으며, 다수 주에서 건설 취소·보류 사례가 이어지고 있습니다.\nEquinix에 대해서는 Buy를 유지하고 목표주가를 1,250달러에서 1,400달러로 상향했습니다(상승여력 약 36%). 시장이 Equinix의 수익화 역량을 과소평가하고 있으며, 컨센서스는 총고정자산 대비 매출 비율이 계속 하락한다고 가정하지만 HSBC는 2029년 이후 반등할 것으로 봅니다. 2025년 수준의 수익화가 가능하다면 2032년 컨센서스 매출은 28% 상향될 여지가 있습니다. 2029년 AFFO 주당은 회사 가이던스 58달러를 넘어 60달러를 상회할 것으로 예상하며, 2026년 계획 캐비닛 순증이 상반기 내내 확대(2Q26 22,825개)되는 등 실행력도 견조합니다. 밸류에이션 방식은 P/AFFO 목표배수를 26.5배에서 27.5배(2016년 이후 평균 대비 +0.75 표준편차)로 올리고 2027~28년 평균 AFFO에 적용했습니다.\nDigital Realty는 Hold에서 Buy로 상향하고 목표주가를 210달러에서 240달러로 올렸습니다(상승여력 약 26%). 대형 전력 블록(1MW 초과)의 견고한 가격 환경이 최소 2028년까지 지속될 것으로 보이며, 2Q26 대형 블록 갱신 임대료 상승률은 66.7%에 달했습니다. 대형 블록을 시장가로 마크한다면 분기 기준 약 8억 7,300만 달러, 즉 2Q26 연환산 경상매출의 20%에 해당하는 증분 매출 여력이 있다고 추정합니다. 현재 100% 지분 기준 3.1GW 용량에 1.4GW(기존 용량의 45%)가 건설 중이고, 캔자스 1,440에이커 부지 확보와 블랙스톤 JV 지분 인수(지분가치 35억 달러, 288MW 추가) 등으로 장기 파이프라인은 용량을 4배로 늘릴 수 있는 수준입니다. 순레버리지는 4.7배로 장기 목표 5.5배를 하회해 공격적 캐펙스를 뒷받침합니다. 2025~28년 AFFO 주당 CAGR은 약 12%로 예상합니다.\n두 종목 중에서는 EQIX를 선호하는데, 그 이유는 추론 시대에 구조적 우위인 리테일 코로케이션 리더십, 가격 변동성이 큰 대형 전력 블록에 대한 낮은 노출, 그리고 3년 캐펙스 커밋과 가격 결정력에 기반한 장기 전망의 높은 가시성입니다. 밸류에이션 측면에서 DLR과 EQIX는 각각 EQIX의 2017년 이후 역사적 평균 대비 6%와 3% 할인되어 거래되고 있어, 높아진 성장 전망을 감안하면 프리미엄이 정당하다고 봅니다.\n주요 하방 리스크로는 EQIX의 경우 경쟁 심화에 따른 수익률 하락, AI 추론 수요 가속의 지연, 신규 투자 수익률 부진을, DLR의 경우 1MW 초과 세그먼트의 가격 결정력 약화, 주요 시장의 공급 개선, 더 효율적인 LLM으로 인한 수요 둔화를 제시합니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/jvBthcAR5q4rpc1sM4zc7emJF6LmqLEFLlNhaR71zWmJpaPOdwVSPyuaY4E8H-8Er10ikDstuStdZV37ivD7EloMRwtPUS_evreyxWvGtZ2QTLipsF9kez9w779lm4yoTQk9UK2-jNqwcS10XbmNrMhlnT5-c4saGqiBceT4DRYBAqpbklBz2JAvm8vCZa-UsPCvoywuM3at11uf_uqG66WFebTIDgCQrZaVnLnCk9PpEXDXP8MPhuzzORphB_E_MMmiAFzQWiHjU_xE68P3EXf6EaJ0kmh_Ekp0ML0zPKyxjsfREn9ppyOHU5YARoOLb28e83mW2BVhpxnA2cvgAA.jpg",
+        "https://cdn5.telesco.pe/file/pnin3CDvlua-TsMJJd1-DA9mahYQnHT3xR_ZUSoV2CoHq028djY7tHl0yFHhDbgJnjFOKTfWXdyNWyrxkOhOQMI_AUtuvXNwDcCPfii8L8JfQn5_9It2BIhpXhoJFRhcW_-FzRv3J_fBpUKsgBhYnwz1SkJ5WRbvRuwg1VjXNjoUPOyn3sN0u4j5ngYnKgJ6MBbgANVDdhtYcVKXsdoe30ZbPl1IF8ZmkNzRHjc3Yu3hyDwZDueC1YKRyyq8g6W-fhiopF-UjzmVss10O8Jx1sE-R4KY75ctaGTj8LLTagmKzmy8HTeNQ6luHigo6H_WmCgOvanjZrway8uwMIyWfA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-16T07:11:07+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24573",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24573",
+      "text": "JP모건) 샌디스크(SNDK); LTA가 마진 프로파일을 구조적으로 리셋하고 경기 순환성을 완화; 장기 재무 모델이 견조한 두 자릿수 % EPS 성장과 강력한 FCF를 견인; 투자의견 NR에서 OW로 상향. TP $2250\n샌디스크(SNDK)에 대한 제한(restriction) 기간이 종료됨에 따라, 어제 뉴욕에서 열린 동사의 2026년 인베스터 데이를 계기로 투자의견을 OW(비중확대)로 상향(기존 Not Rated)하고 2027년 12월 목표주가 2,250달러(현 주가 대비 약 47% 상승 여력)를 제시합니다. 당사의 견해로 SNDK는 AI 추론(inference)의 급격한 성장에 따른 NAND 수요의 구조적 변곡을 포착할 수 있는 위치에 여러 측면에서 독보적으로 자리하고 있으며, OW 논거를 뒷받침하는 세 가지 핵심 동인은 다음과 같습니다. 1) 신규 비즈니스 모델(NBM) 체계(또는 LTA, 즉 장기 계약)가 SNDK의 마진 프로파일을 구조적으로 상향 리셋하고 경기 순환성을 상당 폭 축소시켰다는 점입니다. 현재 체결된 8건의 NBM은 하한(floor) 가격 기준 총 계약가치 약 940억 달러에 해당하며, 가중평균 계약 기간은 4년 이상, 하한 가격 구간에서도 약 80%의 매출총이익률을 확보합니다. 2) NAND 시장 TAM이 CY25 약 700억 달러(JPMe)에서 CY26 3,000억 달러 이상, CY27 약 5,000억 달러로 변곡하고 있으며, 하이퍼스케일러/클라우드 고객사가 추론 시대의 워크로드(지속형 KV 캐시 포함 — 비트 수요 성장의 주요 동인)를 위해 플래시 채택을 확대함에 따라 데이터센터가 (압도적으로) 최대 성장 동인으로 부상하고 있습니다. 3) SNDK가 기술 리더십을 시현하고 있다는 점으로, BiCS10(332단 2Tb QLC, BiCS8 대비 웨이퍼당 비트 65% 증가)이 일정보다 앞서 샘플링에 들어갔고, BiCS 세대 전반에 걸쳐 웨이퍼당 비트 생산성이 27% CAGR로 전망되며, 고대역폭 플래시(HBF)가 차별화된 추론 시대 메모리 플랫폼으로 부상하고 있습니다. 경영진은 FY28~FY30을 대상으로 하는 장기 재무 모델을 제시하며 중/high-teens%대 매출 성장(비트 성장과 동일 수준 — 가격은 보수적으로 대체로 플랫하게 가정한 것으로 추정), 약 80% 매출총이익률, 약 75% 영업이익률, 약 50% 조정 FCF 마진을 목표로 제시했는데, 이는 매출총이익률이 이 수준을 크게 밑돌며 등락하던 과거 기준선 대비 명확한 단계적 변화(step-change)입니다. 당사는 이를 사이클 정점의 가격 포착이라기보다 실질적인 리셋으로 판단합니다. NBM은 FY27 비트의 50% 이상을 차지하고 FY28에는 약 3분의 2로 확대되며, 계약은 월별 물량, 믹스, 가격 약정을 상세히 규정하고 165억 달러 규모의 재무적 보증(financial guarantees)으로 뒷받침되어, 업계의 \"표준 운영 관행\"이었던 \"3개월의 가격 가시성\"에서 전략 고객과의 4년 이상 확정 경제성으로 향후 가시성을 크게 개선합니다. 하한 가격 기준으로도 NBM은 다년간의 계약 기간 전반에 걸쳐 약 80%의 매출총이익률을 유지할 것으로 보며, 변동 가격 메커니즘을 통해 상방은 추가로 포착될 것으로 판단합니다. 또한 당사는 장기 재무 모델이 현재 컨센서스 추정치에 충분히 반영되지 않은 유의미한 이익 레버리지를 내포하고 있다고 보는데, 중/high-teens%대 매출 성장이 궁극적으로 25%를 상회하는 EPS 성장 CAGR로 이어지기 때문입니다. 여기에 더해 잉여현금흐름의 100%를 주주에게 환원하겠다는 경영진의 약속은 공격적인 주식 수 감소 궤적을 이끌어 주당 기준 EPS 성장을 한층 증폭시킬 것입니다. 당사는 이처럼 사이클 전반의 수익성 개선, 지속적인 비트 수요 성장, 주식 수 감소의 조합이 복리적 이익 창출력(compounding earnings power) 구도를 형성한다고 보며, 이는 당사의 CY27 EPS 추정치 250달러를 뒷받침하고 CY27 이후 EPS가 의미 있게 더 높은 수준으로 향하는 다년간의 경로를 시사한다고 판단합니다. 장기적으로는 HBF와 부상 중인 3D 매트릭스 메모리 기술을 추론 시대 메모리 아키텍처에 대한 의미 있는 사실상의 콜옵션으로 보며, 이는 현재 컨센서스 추정치나 밸류에이션에 충분히 반영되어 있지 않다고 판단합니다. 투자의견을 OW로 상향하며 현 주가 대비 약 47%의 상승 여력을 전망합니다. 당사의 2027년 12월 목표주가 2,250달러는 SNDK가 CY27 EPS 추정치 250달러에 9배(과거 메모리 선행 P/E 밴드 7~10배의 중간값)를 적용해 거래된다는 가정에 기반합니다.\nNBM이 마진 프로파일을 구조적으로 상향 리셋하고 경기 순환성을 상당 폭 축소; 하한 가격 기준 총 계약가치 약 940억 달러와 약 80% 매출총이익률 경제성을 갖춘 8개 고객사 체결. 당사의 견해로 SNDK의 NBM 체계는 플래시 산업 비즈니스 모델의 중대한 구조적 변화를 의미합니다. NBM 하에서 SNDK는 가장 전략적인 데이터센터 및 엣지 고객사와 다년간의 분기별 물량 및 가격 약정을 체결하며, 여기에는 고정 및 변동 가격 요소, 하한 및 상한 가드레일, 이해관계를 일치시키기 위한 재무적 보증, 그리고 상세한 월별 물량/믹스 약정이 포함됩니다. 4월에 5건의 NBM을 최초 발표한 이후 SNDK는 신규 고객사와 3건의 NBM을 추가로 체결했고 기존 NBM 2건을 확대했는데(해당 2개 고객사는 최초 체결 후 한 분기 이내에 약정 물량을 늘렸습니다), 이는 고객 수요가 기존 약정을 앞서고 있음을 강하게 입증합니다. 165억 달러에 달하는 재무적 보증은 고객사가 구매 의무를 이행하지 못할 경우 SNDK를 보호하는 장치입니다. 결정적으로, 당사는 하한 가격 기준 약 80% 매출총이익률 경제성이 사이클 정점 가격의 포착이 아니라 구조적 전환을 나타낸다고 판단합니다. 현재의 수급 여건을 감안할 때 변동 가격은 계약 기간 대부분에 걸쳐 하한을 상회할 것으로 예상되며, 이는 마진 목표에 대한 상방 레버로 작용합니다. SNDK 비트 중 NBM 비중은 FY27 50% 이상에서 FY28 약 3분의 2로 확대될 전망이며, 당사는 이를 SNDK 사업의 과반이 현물가 기반 범용 플래시에서 장기·고마진의 take-or-pay 성격 매출 흐름으로 사실상 전환되는 것으로 봅니다. 당사의 견해로 이 전환은 FY23과 같은 호황-불황 사이클을 만들어냈던 과거의 \"3개월 가격 가시성\" 대비 경기 변동성을 극적으로 압축합니다. 향후 경영진은 추가 NBM 검토에 있어 매우 선별적인 기조를 유지하겠다고 밝혔는데, 이미 상당한 비중의 공급이 확정된 점을 감안하면 적절한 태도라고 판단하며, 이는 SNDK가 비(非)NBM 비트 기반에서 현물시장 상방에 대한 옵션 가치를 보존할 수 있게 합니다.\nNAND TAM이 CY25 약 700억 달러에서 CY26 3,000억 달러 이상, CY27 약 5,000억 달러로 변곡; AI 추론 워크로드가 스토리지 요구사항을 재편하면서 데이터센터가 견인. NAND 시장은 AI 인프라 투자에 힘입어 구조적 변곡을 겪고 있다고 판단하며, TAM은 CY25 약 700억 달러(JPMe)에서 CY26 3,000억 달러 이상, CY27 5,000억 달러에 근접하는 수준으로 성장할 전망입니다(SNDK 추정치 기준이며 JPMe와 상당히 부합합니다 — 여기 참조). 데이터센터가 이 성장의 핵심 동인으로, TAM 내 비중이 CY25 약 30%에서 CY26 약 50%로 상승하고 CY27에도 전체 시장을 계속 상회하는 성장세를 이어갈 전망입니다. 이러한 변화의 기저에는 AI 추론의 부상이 있는데, 이는 근본적으로 메모리 중심의, 스토리지 집약적인 문제입니다. 모든 AI 상호작용은 저지연으로 저장·검색·서비스되어야 하는 콘텐츠를 생성하며, 모델이 더 긴 컨텍스트 길이, 더 많은 파라미터 수, 에이전틱 아키텍처로 확장됨에 따라 지속형 KV 캐시가 핵심적인 신규 NAND 워크로드로 부상하고 있습니다. 중요한 점은 공급 측면이 구조적으로 우호적이라는 것으로, 업계 웨이퍼 캐파는 이전 정점 대비 약 30% 낮은 수준이며 가동률은 약 100%입니다. 이는 단기 비트 성장이 웨이퍼 증설보다는 주로 노드 미세화를 통해 나온다는 것을 의미하며, 이는 가격의 지속성을 구조적으로 뒷받침하고 과거 패턴이 시사하는 것보다 현재의 업사이클을 상당 폭 연장시킬 것으로 판단합니다. 엣지 측면에서는 수요가 프리미엄 믹스로 조정되면서 CY26 스마트폰 및 PC 유닛 성장률이 10%를 상회할 것으로 예상하며, 이후 CY27에 유닛 성장으로 복귀할 가능성이 있고, 온디바이스 AI, 더 풍부한 콘텐츠, 신규 폼팩터가 더 높은 스토리지 요구를 견인함에 따라 기기당 콘텐츠는 계속 확대될 전망입니다. 특히 경영진은 비트가 CY27 이후에도 할당(allocation) 상태를 유지할 것으로 예상한다고 밝혔는데, 이는 향후 10년 잔여 기간 동안 NAND 가격의 지속성 측면에서 상당히 강세 요인이라고 판단합니다.\nBiCS 로드맵, 시스템 역량, 부상 중인 HBF 플랫폼 전반의 기술 및 제품 경쟁력; BiCS10은 일정보다 앞서 샘플링. BiCS 로드맵과 관련해 SNDK는 BiCS10(332단 2Tb QLC)을 공개했으며, 경영진은 이를 세계 최고 밀도의 메모리 칩으로 규정하고 현재 샘플링 중임을 확인했습니다(개발이 예상보다 앞서 진행되고 있다는 점에서 특히 주목할 만한 이정표라고 판단합니다). BiCS10은 BiCS8 대비 메모리 밀도 약 60% 개선, 쓰기/읽기 대역폭 약 100% 개선, 인터페이스 속도 약 33% 개선, 전력 효율 약 75% 개선을 제공하며, 이전 세대 대비 웨이퍼당 65% 더 많은 비트를 담습니다. 이러한 지표들은 당사의 견해로 경쟁사 대비 SNDK의 강력한 경쟁적 포지셔닝을 공고히 합니다. 이와 병행하여 SNDK는 BiCS9 2Tb QLC도 선보였는데, 이는 성숙한 BiCS8 셀 어레이에 BiCS10급 CMOS 특성을 결합한 것으로 최소한의 추가 capex로 BiCS8 QLC 대비 더 높은 성능과 전력 효율을 제공하며, 당사는 이를 SNDK의 업계 선도적 자본 효율성 포지셔닝을 강화하는 요소로 봅니다. BiCS 기술 5개 세대(BiCS5~BiCS11)에 걸쳐 SNDK는 세대 간 웨이퍼당 비트 성장률 평균 54%, 즉 웨이퍼당 비트 생산성 기준 27% CAGR을 시현하고 있으며(장기 모델에서 목표로 제시한 중/high-teens%대 비트 성장률을 상회), 이를 통해 SNDK는 기술만으로도(즉 웨이퍼 증설 없이) 비트 성장 약정을 이행할 수 있는 위치에 있어 자본을 보존하고 MSD%(중간 한 자릿수 %) 자본집약도 목표를 뒷받침합니다. 장기적으로 당사는 HBF(High Bandwidth Flash)를 추론 시대의 차별화된 신흥 메모리 아키텍처로 보며, 메모리 업종에서 가장 매력적인 콜옵션 중 하나라고 판단합니다. SNDK 자체의 HBF 대 HBM 시뮬레이션은 최소 구성 워크로드에서 8배의 CapEx 효율성, 최대 토큰 출력에서 2배의 GPU 효율성을 보여주는데, 이는 2027년까지 의미 있는 고객사 참여가 계속 확대될 것으로 예상하기에 충분히 설득력 있는 데이터 포인트라고 판단합니다. 최초의 HBF 규격은 지난주에 공개되었으며, 첫 HBF 메모리 다이가 테이프아웃되었고 첫 HBF 추론 제품 샘플은 2027년을 목표로 하고 있습니다.\n샌디스크에 대한 투자의견을 Overweight로 상향(기존 Not Rated) - 목표주가 2,250달러. 당사의 2027년 12월 목표주가 2,250달러는 SNDK가 CY27 EPS 추정치 250달러에 9배(과거 메모리 선행 P/E 밴드 7~10배 이내)를 적용해 거래된다는 가정에 기반하며, 이는 현 주가 대비 약 47%의 상승 여력을 의미합니다. 투자의견을 Overweight로 상향합니다(기존 Not Rated).",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-16T06:54:16+00:00"
+    },
+    {
+      "id": "x:ylecun:2088880284129210405",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2088880284129210405",
+      "text": "RT by @ylecun: For about 10 years now, I have argued that the *only* way forward is for AI technology to be widely available, shared, and open. Like the printing press and the Internet, AI amplifies human intelligence and efficiency by improving access to knowledge. To empower individuals, societies require a high diversity of AI systems with different value systems, linguistic abilities, philosophical/political biases, and specific expertise. We need diverse AIs for same reason we need a diverse press. Given the cost and complexity, this can only be achieved through open foundation models on top of which anyone can build systems with their languages, biases, expertise, and value systems. I have been more vocal about this over the last 4 years, since AI popped into the public discourse. I have made the argument in various forums: corporate C-suites, AI safety discussion groups, professional meeting, the US Senate, the UN Security Council, and the public sphere through media interviews, podcasts and social media posts. I totally agree with @finkd Mark Zuckerberg's recent piece in which he writes: \"the notion that AI is so dangerous that the only safe path is an extreme concentration of power seems inherently problematic. Historically, hoping that an absolute power will benevolently provide for humanity if sufficiently enlightened has not led to safe or positive outcomes.” When @DarioAmodei writes: “some may object that we can simply keep AIs in check with a balance of power between many AI systems, as we do with humans\", he is talking about me, among (thankfully) many others. It is the only good path forward. There will be nefarious uses of AI, as there have been with every technology ever invented. But it will be your Bad AI against my Good AI.",
+      "images": [],
+      "summary_ko": "RT by @yleun: 저는 약 10년 동안 앞으로 *유일한* 길은 AI 기술이 널리 이용 가능하고, 공유되고, 개방되는 것이라고 주장해 왔습니다. 인쇄기나 인터넷과 마찬가지로 AI는 지식에 대한 접근성을 향상시켜 인간의 지능과 효율성을 증폭시킵니다. 개인에게 권한을 부여하기 위해 사회에는 다양한 가치 체계, 언어 능력, 철학적/정치적 편견 및 특정 전문 지식을 갖춘 매우 다양한 AI 시스템이 필요합니다. 다양한 언론이 필요한 것과 같은 이유로 다양한 AI가 필요합니다. 비용과 복잡성을 고려할 때 이는 누구나 자신의 언어, 편견, 전문 지식 및 가치 시스템을 사용하여 시스템을 구축할 수 있는 개방형 기반 모델을 통해서만 달성할 수 있습니다. 저는 AI가 공개 담론에 등장한 이후 지난 4년 동안 이에 대해 더욱 목소리를 높여왔습니다. 나",
+      "published_at": "2026-08-16T06:47:23+00:00"
+    },
     {
       "id": "tg:bornlupin/19727",
       "source": "telegram",
@@ -70,6 +109,18 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-16T00:53:44+00:00"
+    },
+    {
+      "id": "x:ylecun:2088788243282272509",
+      "source": "x",
+      "author": "ylecun",
+      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
+      "author_url": "https://x.com/ylecun",
+      "url": "https://x.com/ylecun/status/2088788243282272509",
+      "text": "RT by @ylecun: I am doing my best to stop back from this subject as it should be obvious what we are seeing here. However the arrogance that us commoners are too dumb to catch his grift must be addressed. Receipts: Dario Amodei’s carefully worded reply is a masterclass in having it both ways. He frames regulation as a nuanced force for decentralization while his actual track record and recent actions scream regulatory capture designed to protect Anthropic’s closed, frontier position. The contradictions are not subtle; they are structural. He insists the “concentrate via regulation or distribute widely” framing is a “false choice,” and that Anthropic’s proposals deliberately disadvantage frontier labs while advantaging smaller competitors and open-weights. Look at the evidence. Anthropic was the glaring holdout from Jensen Huang’s open-weights letter—signed by Nvidia, OpenAI, Google, Meta, Microsoft, SpaceX and dozens of others. Amodei’s July 2026 clarification that “Anthropic has never advocated for a ban on open-weight models” arrived only after the absence drew accusations of protectionism. He still rejected the letter’s core claim that open-weights help defenders more than attackers, leaning hard into biology attacker-defender asymmetry instead. Incongruent at best. That is not “leaving room” for open-weights; it is carving out a privileged safety-testing regime for “sufficiently capable” models (open or closed) that inevitably raises the bar for anyone trying to catch up. Compute thresholds and mandatory third-party audits favor the labs that already have the capital, talent, and lobbying muscle—i.e., Anthropic. The same pattern appeared with SB 1047: Anthropic was “ambivalent,” pushed amendments that safety advocates said weakened preemptive accountability, and later celebrated exemptions that conveniently applied only below certain revenue/compute levels. Calling this “hurting the business interests of the frontier labs” while Anthropic is one of the largest frontier labs is pure theater. On messaging he claims balance—one major essay on benefits (Machines of Loving Grace), one on risks—and blames negative clips on media incentives. Reality is the opposite. Amodei’s public record is a steady drumbeat of catastrophic framing: AI that will “test us as a species,” bioweapons capable of millions of casualties, 50% entry-level white-collar job destruction, nation-state-level “country of geniuses in a datacenter,” and the explicit call in Policy on the AI Exponential(June 2026) for government power to block or reverse deployment of models that fail third-party tests. The positive essay exists; the dominant, repeated, high-salience output does not. Gavin Baker is right that this rhetoric is now ammunition for anti-datacenter campaigns. Amodei cannot simultaneously warn that the technology is so existentially dangerous it requires FAA-style pre-deployment veto power and act surprised when the public and local activists take him at his word. Dario is the poster boy for that Anti Clanker movement, just ask them. He further claims his preferred path is succeeding under the current administration’s reported testing regime. Yet the industry-wide rejection of broad open-weights restrictions (everyone but Anthropic signed the letter) and the rapid backlash when his own earlier risk language was turned against Anthropic’s models demonstrate the opposite. His own June essay handed policymakers the exact rhetorical and policy tools that later constrained his company. That is not strategic consistency; it is the predictable outcome of maximalist risk rhetoric from a player whose commercial model benefits from higher barriers. Yet plays the game like it’s not his fault like it is 2008. No one of thought buys it outside the Ends-Justifies-The-Means EA/LessWrong club house. The deeper contradiction is the one he never resolves: he admits scaling laws structurally concentrate power in the hands of those with the most compute and chips, then claims the right “rules of the road” can simultaneously constrain frontier labs and protect open-weights. Those two statements cannot both be true under the policies he actually advances. Mandatory testing for models “when they get closer to the frontier” is a moving gate that keeps the frontier club exclusive. Open-weights that lack “dangerous capabilities” are a public good—until they become competitive, at which point the testing regime kicks in. Even Claude points this out, go check. This is not good-faith institutionalism. It is a closed-lab CEO who has an almost Enron level crisis arguing that the institutions he prefers will benevolently constrain him while the evidence shows those same institutions raise rivals’ costs and keep the most capable systems behind closed APIs. The skepticism is earned. He will return to his ivory tower as he said, he has no time for us commoners on “social media”. as if X is “social media” seeing he brought this story to our real town square.",
+      "images": [],
+      "summary_ko": "RT by @yleun: 우리가 여기서 보고 있는 것이 분명해야 하기 때문에 이 주제에서 벗어나려고 최선을 다하고 있습니다. 그러나 우리 평민들이 너무 멍청해서 그의 사기를 잡을 수 없다는 오만함은 해결되어야 합니다. 영수증: Dario Amodei의 신중하게 표현된 답변은 두 가지 방식을 모두 갖춘 마스터클래스입니다. 그는 규제를 분산화를 위한 미묘한 힘으로 구성하는 반면, 그의 실제 실적과 최근 조치는 Anthropic의 폐쇄적이고 최전선 위치를 보호하기 위해 고안된 규제 캡처를 비명을 지르고 있습니다. 모순은 미묘하지 않습니다. 그들은 구조적입니다. 그는 \"규제를 통해 집중하거나 널리 배포\"하는 프레임은 \"잘못된 선택\"이며 Anthropic의 제안은 의도적으로 소규모 경쟁업체와 개방형 연구실에 유리하면서 프론티어 연구소에 불리한 입장을 취한다고 주장합니다. 증거를보세요. 인류와",
+      "published_at": "2026-08-16T00:41:39+00:00"
     },
     {
       "id": "tg:emchina/2",
@@ -542,7 +593,7 @@
       "url": "https://t.me/enc210406/4333",
       "text": "[대양전기공업 2Q26 확정 실적 공시]\n컨센서스 대비\n@ 매출액: 20.5% 상회\n@ 영업이익: 14.5% 상회",
       "images": [
-        "https://cdn5.telesco.pe/file/hGbay3ro1vf7uBmjteg_6ns-7yWZhbDBChkbtJgSJ1p3BuqJK0F40QAS8EZV9LbQ87fa0TM3W9a1UbB9tfJubnRuhnRWu8IaGQywAJihwvmnTkpjAj0YBfvV_XiUN-7LPAzjT4tkn9qd3KlO1ugJhPgyBm26x1xByDnGfsybUkcfzHKRZCsaEosFkZQWZBVQn8pgUNGjvwUVpNL_sHNZKRlIVn9a_sH3ZCHqBWgK0c30KFdKG5_DTwY0SIjDAkZZbbPcUxs26u9W2AG4TBu8r6SNUmQ1n_jMxX4zBCQsfNabS17yRNdWZtqCPtZRzCl58Vzbz6oMNNwKS-jkBaXstg.jpg"
+        "https://cdn5.telesco.pe/file/FuvjJAlN5n3iGh6Qh2w6vssdNuJ2B-Nb9u8wwwYqP2GNR3SoGbpDwiTYyVX9Y6HwGZ64G_950YgGGHeO0D2MqppotSR6TjrF7wJ9t_f-5MgSpxJzaJkwycNuicVcnnd-wRRoTVjWJPyXuWguDxGBO0-6SpAmdOYC6Mw1u1YeIxEYjSZd4k5ZqUmV5Wl-ejUx5gF3aC-bRPdxYlM_9TxMFIf30wXZ5BTCN5AMUhd6mrZeEOQOFCYx5ay0sm5NDn1DmstZHAkE3dEb4zBXFfLJyCLvrBMUndBoC970ysA3sLxv0qEC6LXwILwnMTao62VGvlseADdCMILY8lOFOJWe-A.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-14T07:45:41+00:00"
@@ -556,8 +607,8 @@
       "url": "https://t.me/enc210406/4331",
       "text": "[한국카본의 100% 자회사 합병 공시 IV]\n@ 존속회사: 한국카본\n@ 소멸회사: 한국글로벌솔루션\n@ 소멸회사 사업: 선박 설계, 제조",
       "images": [
-        "https://cdn5.telesco.pe/file/D7L-12Qvetv6e1eoVvxZSdhx6Pte2SDWLa99DfmclfZlqhJNpedRxC_YT8w7x1JRoDlm11_7klRYitLstz1imlaw5OIY84amviULrGg0W1Z5b9IS3jqs_7FiCtH1qW1yM9wBbg6BLFzn2ZGuCL1qA3m6KyXqt5NuuXEG8awHjwDhOmUcz-A5ur6AEZ1ezXUtygl0OhLnqdvCau3H8yP5QeApf4d-KYMJbUTqJBcajix6mJHtWU6b4AuXJ1R5La5_dSEsVWyTMCeqslQexu0dAa_fcUWwS89hRR_UbIc92KXrIVhjeRt74knsFZndY7EMP4w8y0tqL-UIoY729orCuw.jpg",
-        "https://cdn5.telesco.pe/file/n33mETLyP2dVFQJGNPib7fqkLdYecO8sM8Fx0r7PM2wFXkIuSERpRqBCj6KM9KhThP0T7YSi-VIQBGjKA03MNSiDIoTFcWEGrOtJe__7cUZrtu5BLvZH2Ksuxu8Wxr8bjdLzNgWCSVOsi4Le5rmOe2YCCud5Rq6nflBQs35IWkdDtvXEp7R5W_OheVEy6cbfASWzXKcf3AsXUMxJDwKjAYdNWZ_YfAejQ1ug93ynp_oyyfZ1NUuesFErYM7KhVnMTC5Deiq-CSqKxj06X8jg8rIC57FIAKBfnPmRRYequDT4Tzsa4bCM7eGNdDqPaskCcon3s10CacT_sowsVMRmBg.jpg"
+        "https://cdn5.telesco.pe/file/h8iHrpNegiWYq3WqWDH1Yd7UbOxbuqvtA3zdFw-szykWL7CuN2mUCqweZnpDntaRbQ1XnMlCjkvtq6evjlZ7AL9xFo_Kk44OamE8O_83NfSbwbmYzCDkv1w3Ndg0Yc5T2W7nJkJ8s61HfUAvlFEvGALeFrUqu0brBolI96Lq8nsvbdzL_qvGPlJdlSZRI1L4kPyWhmti1jWDyj78RCD_joPFBfMeXwe9Ym7IXN2M7JiXmjKen-J6gUzuigJ_RktER8fjv5JPZmhny7p0g5KvOVaUdaCqjF5mfBNYp7mCXwfzgSZYt-haGBohWipkFvB-yP-BrjwcAfilT1tNpJiVAQ.jpg",
+        "https://cdn5.telesco.pe/file/FCZbnQFP39C6ZxBwdXKwGfFiiUPHwLI7pVipZKgUM22ebGNEkugq5KZZIe-gsbprO0a5TjlRrzYPeQFmfctu2ZS1KBojg2V3RIucVK7rcIt6cj3qCHozGRrVZw51ep4da8PGcac1cSG5cGl5l-MXZ7RCqh08CACLXfU5p714QXh97ojefzi6wCJ-7VBuYxko1r3HW29zZNjh2Dv27BMa4ZvXfVG-vxDO37yNPBdKEnEqU0tixKL7YSLAIJYsuXt_WRWmdj4CcBYc-Hdkmyltsv90d9UwbOVmE9VGTqoH42VmJFR-0tiplqofXBUHHzi5NEG_vTFq_xUGWjuHBZyKqA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-14T07:19:35+00:00"
@@ -571,8 +622,8 @@
       "url": "https://t.me/enc210406/4329",
       "text": "[한국카본의 100% 자회사 합병 공시 III]\n@ 존속회사: 한국카본\n@ 소멸회사: 에이치씨네트웍스\n@ 소멸회사 사업: 자원개발 및 소재무역",
       "images": [
-        "https://cdn5.telesco.pe/file/GiKLPqp3Oo7DFHYAD2t4XAOUVirmEq3yc7e_5Ai0m87vgVRRCzk2XymmvpGXLVjdTDNXdTpkudeKFEP_Kh7rf9TsFCKehHWP91mc1VNakfD1PL89eC3n73nDME3AyKPJKHrmHIoexBht9Cck0rYq6IxJCmhePVyMBbm5bi5jxiiWVG3YikmgniH_gOgsIyodS-xqtmijNTb3E7axB0R_Pi8uffCLVd9A1r4BTWs15hI0Bs4ePmao5GTXL5rWqHIbDrXIwpviovwmgyAEckaTSb8wH22xUcpE2ECd4ipbK_pyZp8T9EA1jkZ3SyX5WrzpIPpWY8FuxwnQuW-FyqtRbw.jpg",
-        "https://cdn5.telesco.pe/file/gAdsxj3eaN3sf325gJVw2EHuXLwa00kgQWscRBIwZOhptg-PtgikXag0UKjy1rk4rxHBXJxmXgH8EAkYocSsAK6iU7xA8hL9jT2-19Z1X5MEkGZpvv33At45Wp7Oxa2ByHjvRfVdiyOzQ1f-7d5-YHZdmW5FdcL8fd-5LgKEfi5K2dCx_hIwUzdSF109BMKylEl7QMvCuYXY0RZSiTBfkA74S-wGDIVuSW1rQ9oCrVDJPLTeQG0_3bVLONwN0p_vnT5Aqe7QvI1hb-hUflXY7bbx32dztMVUM9p5bbHP_e9qqRIe7k9lTbooAP-ltNLdPuvuLH2vPkvasKZEpxJnWg.jpg"
+        "https://cdn5.telesco.pe/file/TXl-u3lfoXwi2DJ_oSS2IeOypWoD0cuVBOd5zAiV3qqMiWRuZhYUcUZSlBNq5R-GQQnofcwblgPKfBhkCd6-qrD5S9m98Wa9X_HK7kxKsf-swcXkVbE31eydr85Kfx6ggxqfuF8VlY3MmFuydcdwgtD6H5xmLr9NrjTAiZPbUjeFSVpVaoURjH4DeFYpA5tTWQ0KvrqR4m5odVcrZvxYxbo9y9Ch5iBBqsgjcaJYIBLY6V-oxxL_SdnpJzaBsGyUK_I4CZvOAx-bHOKXGc7ypcPvEI-i7K-ws5LwwP_lHptzQAa8zFVv1zU_D5fl_yYNSv22R9zqOPpPoT2Qn10X9Q.jpg",
+        "https://cdn5.telesco.pe/file/mpFbTiil2v_jv0L1MhhlBTtK1G2ixp56tJfX4NRnLWG3IrpOIy9EtF--nDDfSRhlM7BxEVvsNjtgETQCRkpDS8m3z4NaAs8JSnGR5FT9-H444hZL_PHNvXq07Kmb5WazcmJaS_U7sCCPqO2RQZ_ycnWLvZbDlBcYdTMcbfWbtPYJu9hb01B51zri9URD5dFh5bMOZdEIAPSCwqbQKf-CtgrU-kI3kqMlTMYa9zNR_un9THGZa1fLwtjGRjzcN--G5FeDEVIpdxyBaWcwmbXok-9zG90FaJT-B-yXZH2Wz_yZbqDLuk4BvminOusT6_nY-pvTC76Uxr8QTJN5UNgJgA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-14T07:10:37+00:00"
@@ -586,8 +637,8 @@
       "url": "https://t.me/enc210406/4327",
       "text": "[한국카본의 100% 자회사 합병 공시 II]\n@ 존속회사: 한국카본\n@ 소멸회사: 립스\n@ 소멸회사 사업: 섬유 제품 제조, 가공",
       "images": [
-        "https://cdn5.telesco.pe/file/B4AxfyEsRvHtt0cI2ig46jr8pkhvGEFyQZJNtYn76FctNqtWG_l35z2mVZkfq0kzbTeT68sTRgth1TE58hwh5AzK-E7B7NPT34rfqWz95htv7jBKdcceRRXKiK4kcJOgqtpbDlaN3DInXsifliXeQA7jQdmCc4V6CqUgxDiKj4UuhlQz_XJB_f7Pto2Mi496MQxgE0AfBt6dNNfFk-wetdgKY8LGgovs5cNXDuYJLGE_IdOWo8xkLPtQJPOF0Wbsx5lYlAFyAIxVm99LMzijUM4UYQKSeAd0vA24plNKEt8rJs_CrEZ0AUagpMKZSHNwYRTeI5gQEhM_ruJUecnuuA.jpg",
-        "https://cdn5.telesco.pe/file/mVuwYSHgd01e6i7xRnp-3aisMWFnemD8L1bXtkdzHzGho5YW8W48chjUohjVH9qQDcctidKBScACVyyupjxQnCtpF-UQx-mi_Uh7ZCmgVyvvXCp-pVlAwo5YAAM8fu3H_fgJhwPUs6wvx3zlBIoOTOMlCgazDdqLFHtH1CiY0bVec-Nz3Jp72PSndHkOxCAtu5nCDC9vUPnWOQQpQFgIWKrhg1sFm6_42IOqKgQC16gT1186-SPK569OOPMWTnFsx8fYaJWrJVLrpqeDWru_KID1_xaur1lEZzLqkKq_2XJMW99LgEKO3-WwYZz4nYPRQDbpRJZzc0fZXfbi4S8FoQ.jpg"
+        "https://cdn5.telesco.pe/file/Z-2X4a66DdbkjGS_09yGG6h_9pmQKJ1KbRYp1s51_vJsruL7lUIMUTh-crM6l00kz6nyOv5fsOA1lW2hA78AvSWcw_cDzTfvGcmVwFza7o9pYzK5yxYyKZwBGaaBnoQu6CJ0kcYPx5MIplE77L0SF0y43FFz5dNkqG0QoJ836nEYDmN5aJav9T5c4uxs4TTdaN0U4h7DWRxpXNf8m7Ct5S24IVsPnQcnvGGQFYZgy5XZnmcSIiwlH1WFHQCeEAK4wSnZ48ygxxbBjR37N9e1ukzmiln61zbfurBlqk6IFWWp41u1KZmY522GG1l9GTPYG5eeKFmgcAzlJXpp5ACHDg.jpg",
+        "https://cdn5.telesco.pe/file/plp8sBI9LldFZaRCC5icnwIATCsJ4bSGr1QTYaDYGzFrgtl6HW0Tr7i0Aj1O2CJrHXMPJ8h0o-k_3QTb62rvSXSkyJRtKpS-cNPzNZHHQ0kNEltmJy7S8tN3t_Nvb1OrxLAELILEPEQKgSfzQ5t-YCvwu4qIrWggpCWsEK3yIwbrEpWbqpTeQg3Iimj-F629EyMh-VZIKgouIkfxwlIUGlW8btTR4Hs6TytGiaCDXaHt7POO5xS-8zzTTzDNcX9gq2wuEdek4w_FHbLfVw82YR3zNEscTvGBVB156jCIKeTqHj8P4TBMmVvN2DpIJtn7xxzfVLj_69u0wVY6mBUYvw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-14T07:09:06+00:00"
@@ -1243,32 +1294,6 @@
       "published_at": "2026-08-13T11:57:13+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24562",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24562",
-      "text": "JP모건) 마이크로소프트; AI 인프라와 코파일럿의 가속화, 그리고 균형 잡힌 믹스가 동종 그룹 내에서 주가를 유리하게 포지셔닝할 것으로 판단, 비중확대(OW) 유지 및 2027년 12월 목표주가 625달러 신규 제시\n당사는 MSFT 주식에 대해 2027년 12월 목표주가 625달러를 신규 제시하며, 회사의 성장 전망을 긍정적으로 평가합니다. 당사는 Azure와 M365 커머셜 클라우드 양쪽 모두에서 성장이 가속화될 것으로 보며, AI 인프라 구축이 두 사업 모두의 가속화를 이끄는 핵심 동인이 될 것으로 전망합니다. 코파일럿을 포함한 M365 클라우드 제품이 마이크로소프트 AI 인프라의 내부 고객 역할을 하면서, 회사는 해당 구축을 고마진의 차별화된 애플리케이션 소프트웨어 제공이라는 형태로 활용할 수 있는 좋은 위치에 있으며, 동시에 AI 네이티브 기업과 엔터프라이즈로부터의 서드파티 AI 인프라 수요로부터도 수혜를 받습니다. 인프라 구축을 넘어, 퍼블릭 클라우드에서의 마이크로소프트의 풀스택 제공 역량과 공급 제약은 회사가 베어메탈 서비스를 제공하기보다 고마진 기회를 선별할 수 있게 하며, 동시에 컴퓨팅 자원을 고마진 애플리케이션 사업부(생산성 및 비즈니스 프로세스)에 배분하면서 커스텀 실리콘 및 자체 모델 투자를 통해 효율성을 최적화할 수 있게 합니다. 당사는 인프라와 애플리케이션에 걸친 포트폴리오 믹스가 회사로 하여금 10% 후반대의 매출 및 이익 CAGR을 달성하도록 하면서도, 하이퍼스케일러 동종 업체 대비 외부 자본에 대한 의존도는 더 낮은 상태에서 이를 가능하게 할 것으로 판단합니다. 높은 매출 및 이익 성장과 동종 업체 대비 낮은 자본 소요의 조합은, 광의의 시장 대비 역사적 프리미엄으로의 복귀를 정당화하거나 그 이상도 정당화할 수 있다고 봅니다. 이에 따라 당사는 CY28 EPS 26.05달러에 P/E 24배를 적용하여 2027년 12월 목표주가 625달러를 제시합니다(기존 2026년 12월 목표주가 550달러에서 상향).\n애플리케이션 사업과 코파일럿 기회는 이익 측면의 함의가 과소평가되어 있습니다. 생산성 및 비즈니스 프로세스 부문은 향후 연도에 회사 전체 매출의 3분의 1을 차지할 것으로 추정되는데, 이는 인프라 부문의 더 높은 매출 CAGR로 인해 현재 믹스 대비 완화된 수준이며, 전사 이익의 약 45%를 차지하면서 매출 및 이익 성장에 대한 높은 가시성을 제공합니다. 당사는 생산성 부문이 중기적으로 10% 초반대의 성장률을 지속할 것으로 전망하며, 이는 M365 커머셜 클라우드의 성장 가속에 힘입은 것입니다. 여기에는 코파일럿 좌석(seat) 추가의 강한 램프업이 기여할 것으로 보는데, 당사는 그 매출 기회를 240억~410억 달러 규모로 추정하며 이는 현재 추정 런레이트의 약 7배 수준입니다. 이는 좌석 라이선스만이 아닌 코파일럿 제품 활용을 위한 AI 크레딧 판매를 통한 수익화 기회를 반영하기 이전의 수치입니다.\nAI 인프라 구축의 규율이 Azure를 양호한 성장 궤도에 올려놓고 있습니다. 마이크로소프트는 장기간에 걸쳐 AI 인프라 구축을 일관되게 실행해 왔으나, 더 중요한 것은 효율성 확보와 관련한 최근의 노력이 Azure 성장 가속을 뒷받침하고 있다는 점입니다. 당사는 이것이 지난 분기에 보여준 1GW 규모의 캐파 증설로 대표되는 빠른 인프라 구축 속도를 넘어서는 수준의 매출 성장 가속을 더해줄 것으로 예상합니다. 당사는 Azure 성장의 가속과 인텔리전트 클라우드의 마진 안정화가 AI 인프라 구축에 따른 이익 순풍과 관련해 투자자 심리를 더욱 강화할 것으로 전망합니다.\n애플리케이션과 인프라의 믹스가 자본 소요를 제한하고 동종 업체 대비 유리한 재무구조를 이끕니다. 마지막으로, 애플리케이션과 인프라 사업의 가속화는 자본 투자를 뒷받침하는 균형 잡힌 믹스를 제공하며, 이는 FY27E 잉여현금흐름 창출 가이던스에서 확인되듯 회사가 하이퍼스케일러 동종 업체 대비 활용해야 할 외부 자본의 규모를 제한합니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/FfH0_tx8z8812LIqqBHgHyjhELjHWUsXKvdszBrwgm6adPk_gPAug7czq6SCsDj3-g5Vg2LT2Kx1uE6bYiZBBG0SgYyuMtxwdiGQkw_1R7rOzP4KYYTDPC-5pbZeHoTjD9XTP4ypk08i-p2DbFLHZPBkWNF9IV1UM1fGzVx3pto3h9ifmzynHuGsvmhaim7zX_8oRb9E8YLuxW-mdZ6nGP7BXfoqya1H0mRETMEJ_tkMVJ1NqYT5AYXCZQS1ZXQEM4sNZPD-aZePBCyDMTITe-DRJgZKZWPpc5ytrJMJjp5tRBNRIDZ6_qmkBlEvgOiNPfmzZ351_ZqCooYXx7Ak0A.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-13T11:49:30+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24561",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24561",
-      "text": "JP모건 코스피 코멘트\n한국 – APAC 지역 동료들에 따르면 유동성 측면에서 긍정적인 신호들이 나타나고 있으며, 이는 곧 증시의 상승 여력으로 이어질 수 있습니다. 구체적으로는 첫째, 국내 증권사들이 신용거래(빚투) 한도를 다시 늘리고 있다는 점, 둘째, 외국인 투자자들이 활용할 수 있는 스왑 한도(외환 스왑을 통한 자금 조달 여력)가 확대되고 있다는 점, 셋째, 변동성이 낮아지면서 변동성 수준에 따라 기계적으로 포지션을 조절하는 시스테매틱 투자자들이 다시 시장으로 돌아오고 있다는 점입니다. 한편 블룸버그에 따르면 한국은 개인 투자자가 레버리지 ETF를 거래하려면 사전에 모의 거래를 이수하도록 의무화할 예정입니다. 환율 변동 효과를 제외한 기준으로 보면, 한국 증시에 투자하는 미국 상장 ETF인 EWY는 이번 달 들어 6.5% 상승한 반면 KOSPI는 2.0% 하락했습니다.\n동료인 크리스티나 존스의 설명은 다음과 같습니다. “메모리 및 반도체 섹터의 변동성을 매도하려는 흐름이 계속 이어지고 있습니다. 7월 한 달간 진행된 한국 시장의 디레버리징과 헤지펀드들의 리스크 축소 과정에서 시스템 내 레버리지가 상당 부분 정리되었고, 그 결과 변동성이 고점에 있을 때 이를 매도할 수 있는 매력적인 기회가 만들어졌기 때문입니다. 반도체 변동성은 전주 대비 큰 폭으로 떨어졌지만 워낙 높은 수준에서 내려온 것이라, 앞으로 더 낮아질 여지가 여전히 남아 있습니다. JPM 파생 팀은 반도체 변동성이 가장 저항이 적은 방향, 즉 하락 방향으로 움직일 것으로 보고 있으며, 변동성 하락에서 수익이 나는 숏 베가 구조의 옵션 전략을 선호합니다.”\n*숏 베가란\n옵션에서의 베가란, 내재변동성이 1% 변할 때 옵션 가격이 얼마나 움직이는지를 나타내는 민감도 지표를 말합니다. 옵션 가격에는 기초자산이 위로 움직일지, 아래로 움직일지를 포함하고 있을 뿐만이 아니라 앞으로 얼마나 크게 출렁이며 움직일 것이라고 시장이 예상하는지에 따라서도 결정됩니다. 그 예상치가 바로 내재변동성입니다. 시장이 불안해서 변동성 예상치가 올라가면 옵션 프리미엄은 비싸지고, 시장이 안정되면 프리미엄은 싸집니다.\n따라서 변동성 하락에 베팅하는 숏 베가 구조는 만기가 긴 옵션을 매도해 프리미엄으로 수익을 보는 구조라 할 수 있습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-13T11:40:57+00:00"
-    },
-    {
       "id": "tg:globaletfi/21107",
       "source": "telegram",
       "author": "globaletfi",
@@ -1511,18 +1536,6 @@
       "published_at": "2026-08-11T17:35:07+00:00"
     },
     {
-      "id": "x:ylecun:2087217393923694700",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2087217393923694700",
-      "text": "RT by @ylecun: A story in light of the recent math AI results. Last December I invited Julia Kempe (@KempeLab ) to the podcast and asked her what she wanted to talk about. She said: now that math has fallen, what should researchers run after? This was last December. Models were nowhere near solving open problems. So I asked, do you mean we should talk about what AI can currently solve in math? She said, no, Ravid. Math as we know it has changed forever, and so has the work of mathematicians. The problem is they don't know it yet. Today that sounds obvious. Back then it was just one more example of a brilliant scientist seeing where things were going.",
-      "images": [],
-      "summary_ko": "@yleun의 RT: 최근 수학 AI 결과를 고려한 이야기입니다. 지난 12월 저는 Julia Kempe(@KempeLab )를 팟캐스트에 초대하여 그녀에게 무슨 이야기를 하고 싶은지 물었습니다. 그녀는 이렇게 말했습니다. 이제 수학이 떨어졌으니 연구자들은 무엇을 추구해야 할까요? 지난 12월이었습니다. 모델은 열려 있는 문제를 해결하는 데 전혀 도움이 되지 않았습니다. 그래서 저는 AI가 현재 수학에서 무엇을 풀 수 있는지에 대해 이야기해야 한다는 뜻인가요? 그녀는 안 된다고 했어요, 라비드. 우리가 알고 있는 수학은 영원히 변해왔고, 수학자들의 작업도 마찬가지입니다. 문제는 그들이 아직 그것을 모른다는 것이다. 오늘은 그 말이 분명해 보입니다. 그 당시에는 일이 어떻게 진행되고 있는지를 알아낸 뛰어난 과학자의 또 다른 예에 불과했습니다.",
-      "published_at": "2026-08-11T16:39:39+00:00"
-    },
-    {
       "id": "x:demishassabis:2087209342160552253",
       "source": "x",
       "author": "demishassabis",
@@ -1535,18 +1548,6 @@
       ],
       "summary_ko": "@demishsabis의 RT: 🎉 10억 다운로드 🎉 이 흥미로운 이정표를 기념하기 위해 8월 20일 SF에서 Gemmaverse를 발전시키는 오픈 소스 빌더, 연구원 및 기여자 여러분을 위한 독점 저녁을 개최할 예정입니다. 공간이 제한되어 있습니다. 여기에서 신청하세요: https://cerebralvalley.ai/e/gemma-1-billion-celebration",
       "published_at": "2026-08-11T16:07:40+00:00"
-    },
-    {
-      "id": "x:ylecun:2087175635894473004",
-      "source": "x",
-      "author": "ylecun",
-      "author_name": "Yann LeCun(얀 르쿤) · Meta 수석 AI 과학자",
-      "author_url": "https://x.com/ylecun",
-      "url": "https://x.com/ylecun/status/2087175635894473004",
-      "text": "RT by @ylecun: Yesterday was my 40th birthday, and there is no best gift than Meta turning toward open source again, co-announced with a model release from my fabulous ex-team.",
-      "images": [],
-      "summary_ko": "RT by @yleun: 어제는 내 40번째 생일이었고 Meta가 다시 오픈 소스로 전환하고 내 멋진 전 팀의 모델 릴리스를 공동 발표한 것보다 최고의 선물은 없습니다.",
-      "published_at": "2026-08-11T13:53:44+00:00"
     },
     {
       "id": "x:sama:2086881528282587524",
@@ -1842,7 +1843,7 @@
       "url": "https://x.com/sama/status/2085473085399150817",
       "text": "RT by @sama: Yesterday, my OpenAI collaborator and I gave a detailed talk on the Huggingface incident, our models creating \"the message board\", model misalignment, and more. https://www.youtube.com/watch?v=87DyyMV0kCY I hope it can answer a lot of the questions folks have, and we will release a full detailed postmortem at a later time!",
       "images": [
-        "https://pbs.twimg.com/card_img/2088047625480065024/0QGeIbo2?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2088106988714778624/OsVtlpbo?format=jpg&name=800x419"
       ],
       "summary_ko": "RT by @sama: 어제 OpenAI 공동 작업자와 저는 Huggingface 사건, \"메시지 보드\"를 생성하는 모델, 모델 정렬 불량 등에 대해 자세히 설명했습니다. https://www.youtube.com/watch?v=87DyyMV0kCY 사람들이 궁금해하는 많은 질문에 답할 수 있기를 바랍니다. 자세한 사후 분석은 나중에 공개하겠습니다!",
       "published_at": "2026-08-06T21:08:24+00:00"
