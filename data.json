@@ -1,22 +1,61 @@
 {
-  "updated_at": "2026-08-17T04:45:54+00:00",
+  "updated_at": "2026-08-17T05:34:26+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 4
+    "new_this_run": 3
   },
   "briefing": {
-    "headline": "키옥시아, 메모리 업황 개선 기대감에 상승",
+    "headline": "샌디스크, 현금 환원 호재",
     "bullets": [
-      "AI 수요 폭발로 인화인듐 기판 품귀 현상 심화",
+      "키옥시아, 메모리 업황 개선 기대",
+      "인화인듐 기판 공급 가격 10% 이상 상승",
       "미국, Pax Silica 중심 AI 동맹 구축 가속",
-      "마이크론 주가, 다시 1,000달러 선 근접",
-      "JP모건, 상위 7대 하이퍼스케일러 설비투자 전망",
-      "샌디스크, LTA가 마진 프로파일 리셋"
+      "마이크론 주가, 1,000달러 선 근접"
     ],
-    "generated_at": "2026-08-17T04:45:54+00:00",
+    "generated_at": "2026-08-17T05:34:26+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/24584",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24584",
+      "text": "Cantor Fitzgerald) 샌디스크: 말 그대로 날렵한 잉여현금흐름 머신! (2026.8.13)\n투자의견 Overweight, 목표주가 $2,900 유지 (현재가 $1,528.11 대비 90% 업사이드), Top Pick 유지\n샌디스크의 변신이 계속되고 있습니다. 10% 중후반의 비트 성장 공급과 함께 비트의 약 3분의 2를 장기계약으로 확보하는 경로가 핵심이며, BiCS9/BiCS10 출시와 AI 추론의 복잡성을 겨냥한 HBF를 통해 기술 리더십을 유지하는 데 집중하고 있습니다. AI와 KV 캐시가 추가 수요 동력으로 작용해 NAND는 향후 수년간 공급 부족이 지속될 것으로 판단합니다. 목표 재무모델은 매출 성장 10% 중후반, 매출총이익률 약 80%, 영업이익률 약 75%, 자본집약도 한 자릿수 중반, FCF 마진 약 50%이며, FCF의 100%를 주로 자사주 매입으로 환원할 계획입니다. 캔터는 FY27-FY30 누적 FCF가 약 1,250억 달러(주당 $930)로 현 시가총액의 50%를 넘을 수 있다고 추정합니다. 현 주가는 잠재 FY30 EPS $435의 약 3.5배(CY30 기준으로는 3배에 가까움) 수준으로, 무시하기에는 너무 저렴하다는 평가입니다.\n2026 애널리스트 데이 주요 내용을 정리하면 다음과 같습니다.\n첫째, NAND 확장성입니다. 기술 전환을 통한 웨이퍼당 비트 성장 CAGR이 +27%(BiCS5~BiCS11, 5세대)로 목표 비트 공급 성장률(10% 중후반)을 크게 웃돕니다. 그 결과 업계 웨이퍼 캐파는 2022년 피크 대비 약 30% 감소(약 183만 wspm에서 약 127만 wspm)했으며, 웨이퍼 투입은 계속 감소할 가능성이 높지만, 구조적 수요가 장기 공급을 지속적으로 상회할 경우 웨이퍼를 추가할 여지도 있습니다.\n둘째, 기술 리더십 확장입니다. BiCS9은 BiCS8 메모리 어레이에 하이브리드 본딩 CBA 기술로 선단 CMOS 로직(\"BiCS10급\")을 결합한 확장판으로, BiCS8 대비 쓰기/읽기 대역폭 +150%/+75%, 전력 효율 85%/40% 개선을 최소한의 추가 캐펙스로 달성합니다. BiCS10은 일정을 앞당겨 2026년 8월 이미 샘플링 중입니다.\n셋째, AI 추론발 NAND 수요입니다. 추론과 에이전틱 AI가 데이터센터 NAND 수요의 주된 동력이며, 특히 KV 캐시가 가장 빠르게 성장하는 벡터로 2030년 AI 데이터센터 비트 출하 TAM의 35%에 도달하고 설치 기반 1ZB 이상으로 이어질 전망입니다. 토큰 생성 증가, 컨텍스트 길이 확대, 복잡한 추론이 KV 캐시 수요를 크게 끌어올리고 있으며, 핫/웜 티어별로 TLC 성능·TLC 내구성·QLC 용량 제품을 맞춤 제공하고 있습니다.\n넷째, HBF입니다. HBF GPU 4개로 HBM GPU 8개와 유사한 성능을 내고, 최소 모델 구성은 HBF GPU 1개만으로 구동 가능해 GPU 효율 2배 또는 캐펙스 효율 8배 개선이 가능하다고 밝혔습니다. HBF 단독, HBM+HBF, HBM/HBF 캐시드, 분리형(프리필 XPU는 DRAM, 디코드 XPU는 HBF)의 네 가지 아키텍처를 제시했으며, HBM/HBF 캐시드를 제외한 모든 방식에 고객 관심이 있다고 언급했습니다.\n다섯째, NBM입니다. 현재 미국 하이퍼스케일러 3곳을 포함한 주요 고객 8곳과 계약했으며, 가중평균 계약 기간은 4년 이상(최장 5년)입니다. FY27 비트의 약 50%, FY28 비트의 약 67%가 NBM 계약 하에 있습니다. 고정·변동(가드레일 포함) 가격 체계, 계약상 증가하는 물량, 165억 달러의 금융 보증(대부분 제3자 기관 보유) 등이 특징이며, 보증금이 고정되어 있어 계약이 진행될수록 잔여 계약가치 대비 보증 비율이 의미 있게 상승하는 구조입니다. 계약을 파기한 고객은 향후 불가피한 공급 부족 시 물량 확보에 어려움을 겪을 수 있습니다.\n여섯째, 목표 재무모델의 보수성입니다. 캔터는 가이드된 지표를 FY30까지 적용하면 매출/EPS가 $786억/$389로 산출되나, 매출 성장 가이던스가 ASP 보합을 전제로 한 비트 성장률과 사실상 같고 마진도 NBM 플로어 가격 기준이라는 점에서 매우 보수적이라고 평가합니다. NAND 공급 부족이 CY29까지 이어질 것으로 보이며, 매출 성장 +20%, 매출총이익률 83%, 매출 대비 절반 속도의 Opex 증가를 적용하면 FY30 EPS는 $435 이상이 됩니다.\n일곱째, 자본배분입니다. 사업 투자, 견조한 재무구조 유지(현재 무차입), 초과 현금 100% 환원의 우선순위는 유지되며, 자사주 매입이 선호 수단입니다. FCF 마진 약 50% 기준으로 FY30 한 해에만 390억 달러 이상을 환원할 수 있으며, 이는 약 1,400만 주, 현 유통주식의 9%에 해당합니다.\n밸류에이션은 CY27 EPS 추정치 $239에 12배를 적용한 $2,900입니다. 리스크로는 NAND 시장 회복 지연에 따른 수익성 악화, 일본·한국·중국 업체와의 경쟁 심화로 인한 ASP 하락, 빌드투디맨드 전략에 따른 점유율 상실 가능성을 제시했습니다. 캔터 추정치는 FY27 매출 $463.5억/EPS $207, FY28 매출 $569억/EPS $265입니다.\n*클로드로 요약함.",
+      "images": [
+        "https://cdn5.telesco.pe/file/XSPmhH7d3g2LNIhd3mHFJNzMbFnNoXjBMR8iY1jLLi79M1fRRnaGi1K_ofrQ40PYIdjyDcBGq3FOIyTj4_TzHv9fgXui24iDSoLGPaBxn7msSIa1DKTke17dOdJ5Y0RmeEibq4Vd6YCrhzmFGEw9TN-TYSUXA6hJl9ALGxAqP0l6OVKOH90cm8Oa_RjPM2H04TP7Eg-RXdG28jjx0R-veDcsGpHFv4_UYeU0O0_EYwzZQl9pckJ5RqJOxE9P25opk4Oaof2ZaaH3J-fLSx6ZItCjf45FcdyWjvsGutjGHkJVA7ZJHlo9EqmqQz4LkxxFOyBq2IeuqEvdafNNlmERsA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-17T05:21:09+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24583",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24583",
+      "text": "모건스탠리) 샌디스크: 100% 현금 환원은 명확한 호재 (2026.8.14)\n투자의견 Overweight, 목표주가 $1,750 유지 (현재가 $1,528.11, 8/13 종가 기준)\n샌디스크 인베스터 데이는 강력한 업황, AI 데이터센터에서의 NAND 역할, 기술 로드맵에 초점이 맞춰졌으나, 핵심 헤드라인은 잉여현금흐름(FCF) 100% 주주환원 약속이었습니다.\n경영진은 NAND 산업이 장기 AI 수요 성장의 새 시대에 진입했다고 주장하며, NBM(신규 비즈니스 모델)이 고객 수요 가시성을 높이고 NAND의 특성이 AI 캐펙스 ROI를 개선한다는 점에서 현 사이클의 지속 가능성을 강조했습니다. FY28-FY30 목표 모델은 비트 성장률 10% 중후반, 매출총이익률 약 80%, 영업이익률 약 75%, 조정 FCF 마진 약 50%, 자본집약도 한 자릿수 중반이며, FCF 100% 환원을 약속했습니다. 이는 FY30 EPS 기준 약 4~5배 수준이고, 현재부터 FY30까지 누적 FCF는 약 1,000억 달러로 현 시가총액 2,230억 달러 대비 상당한 규모입니다.\n모건스탠리는 경영진의 \"구조적 개선\" 시각에 완전히 동의하지는 않으며, 75% 이상의 영업이익률은 공급 부족 때문에 발생하는 것으로 지속 가능하지 않다고 봅니다. 다만 공급 증가가 20%에 그치는 가운데 데이터센터 수요가 훨씬 강하고 HDD와 DRAM 등 메모리·스토리지 계층 전반이 부족한 상황이어서, 이 마진 수준을 수년간 유지할 수 있다고 판단합니다. AI 투자가 현 속도로 지속되는 한 NAND 부족이 이어질 것이라는 확신이 매우 높다고 밝혔습니다.\n주요 하이라이트를 정리하면 다음과 같습니다. 첫째, 현금 환원 약속입니다. 초과 현금의 100%를 주주에게 환원하며 자사주 매입이 선호 수단입니다. FY26 4분기에 50억 달러의 FCF를 창출해 45억 달러의 자사주를 매입했고, 현재 승인 잔액은 155억 달러입니다. 둘째, 공정 리더십과 자본 효율성입니다. BiCS5~BiCS10 5개 노드에 걸쳐 웨이퍼당 비트 출력 연평균 27% 성장을 달성했고, 샌디스크·키옥시아 JV는 2021~2025년 업계 비트의 29%를 생산하면서 업계 캐펙스의 13%만 지출해 최인접 경쟁사 대비 약 2배의 자본 효율성을 보였습니다. 지난주 발표된 BiCS9은 CBA 하이브리드 본딩 파생 로드맵을 적용한 첫 제품으로 하이퍼스케일러 사양에 맞춰 설계되어 이미 NBM 계약의 일부로 출하 중이며, BiCS10(2026년 8월 샘플링)은 BiCS8 대비 비트 밀도를 약 60% 추가 개선합니다. 셋째, HBF 등 신기술의 비대칭적 업사이드입니다. 첫 HBF(High-Bandwidth Flash) 다이를 테이프아웃했고 내년 첫 고객 샘플을 제공할 예정입니다. Meta가 컨소시엄에 합류한 두 번째 하이퍼스케일러가 되었고, 텐스토렌트 CEO 짐 켈러가 자문위원회에 합류했습니다. 자체 시뮬레이션에서는 HBF 시스템이 GPU 절반으로 HBM 기반 성능에 맞먹는 결과를 보였습니다. HBF와 3D 매트릭스 메모리 모두 재무 모델에는 포함되어 있지 않습니다. 넷째, 사업 믹스입니다. FY28 물량의 3분의 2가 이미 확정되어 FY29-30 믹스는 소수 고객의 데이터센터 중심 계약에 크게 치우칠 전망이며, 최고 성장 시장에 대한 레버리지는 긍정적이나 집중도 리스크도 존재합니다. 소비자 부문은 CY27 모바일·PC 수량이 감소하겠지만 특히 PC에서 콘텐츠 믹스가 크게 개선될 전망입니다.\nDRAM에 부정적인가에 대해서는, 추론 확대에 따라 일부 워크로드에서 DRAM에서 NAND로의 지출 이동이 있을 수 있으나, 두 기술은 용도가 다르고 성능 차이가 커 대체 관계가 아니며, AI 워크로드 계층화에 따른 혁신 기회가 늘어날 뿐 제로섬은 아니라고 평가했습니다.\n결론적으로 3분기 NAND 수급이 타이트해지고 있고, 미지근한 가격 인상을 전하는 서드파티 보도는 낡은 정보이며 최근 구매에서는 시장을 크게 웃도는 조건이 확인된다고 밝혔습니다.\n현금이 빠듯한 하이퍼스케일러들이 2029년 메모리에 선수금을 넣는 것 자체가 AI 빌드아웃이 지속되는 한 업황이 견조할 것이라는 명확한 증거라며 Overweight 의견을 유지했습니다.\n밸류에이션은 스루사이클 EPS $62.50에 28배를 적용했으며, 강세 시나리오 $2,635(31배 x EPS $85), 약세 시나리오 $1,100(25배 x EPS $44)입니다. FY27 Non-GAAP EPS 추정치는 $212.37, FY28은 $173.37입니다.\n*클로드로 요약함.",
+      "images": [
+        "https://cdn5.telesco.pe/file/XlquLaR1fwVC-9ovDVMM3lwSFb1BPXg_nSI_-7IQIrpqDySgBqmEV4HBBrj1W1MmjVjc93wR8zyMMYIbAlyXIt-zAcvwKvU6twh6SCrl_s-1SIN32NK4crSoDb3y-_GJBWGA0LzJIPnBkpaI_TT5nKhm1oU2_lRAuarIpyWf3YjI5AZrrMdTgXHj8PTDWgekz-pgfRMyNGO0hSti3jxdvVTUclAbG2NFrV2rxJo5qf3nMYDdenR-AdWVOpamyrcMlUC9u7j8h-IRx2c1AivI6mWvkStkcuj4PpckODua1qI160I8FRzRC5HA3BoLxpSnOTpYwcFPU7zKCdIqKybEww.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-17T05:20:21+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24582",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24582",
+      "text": "미즈호) AI 서버 콘퍼런스콜: 2027년 HBM 및 NPO/CPO를 탑재한 VR, 첨단 패키징 EMIB-T/CoPoS 램프업\n미즈호의 데일 가이(Dale Gai, 일본)와 케빈 왕(Kevin Wang, 홍콩/아시아)과 함께 분기 AI 서버 콘퍼런스콜을 진행했습니다. 핵심 포인트는 다음과 같습니다. 1) 2027년(E) VR200 NVL72의 강한 램프업으로, xAI와 META가 주도하며 4Q26E부터 램프업이 시작됩니다. NVDA가 4-die 전환을 페인만(Feynman)으로 지연시키면서 VR-Ultra는 2-die 구성으로 갈 가능성이 있습니다. 2) NPO/CPO 커넥티비티를 통한 성능 향상에 초점이 맞춰지고 있으며 Spectrum-X가 램프업될 것으로 봅니다(LITE에 긍정적). 3) GPU당 HBM 탑재량은 GB300에서 VR200으로 넘어가면서 288GB로 변동이 없고, VR-ultra는 256GB HBM4e로 이동하는 것으로 봅니다. 다만 HBM4e 가격은 70~100% 높으며, 페인만에서는 HBM 탑재량 성장이 재개될 가능성이 있습니다. 4) 2027년(E) CoWoS는 NVDA/AVGO와 함께 75% 이상 성장하고, 2028년(E)에는 CoPoS의 물량 램프업이 예상됩니다. 5) MTK의 TPU가 2028년(E) 첫 대량 고객이 되면서 INTC EMIB-T에 순풍이 예상됩니다. 6) AgenticAI/추론이 가속화되면서 CSP RPO/수주잔고는 현재 2.3조 달러(전년 대비 3.5배 증가)에 달합니다. 저희는 2027년(E) DELL/CRDO/NVDA/AVGO/LITE에 대해 상방 여지가 있다고 보며 긍정적 시각을 유지합니다.\n핵심 포인트\n2027년(E) 5만 랙 이상의 강력한 VR 출시, 2028년(E) VR Ultra는 2-die 구성으로만 갈 가능성이 있으며, 성능은 NPO/CPO와 HBM 업사이드가 견인합니다. 이번 콜에서 VR 생산은 9월 분기 출시와 12월 분기 물량 램프업 일정대로 진행 중이며, 2026년(E) NVL72 랙 기준 2,500~3,000대 수준이 가능하다는 점이 언급되었습니다. 저희는 이를 META(로이드 월슬리 커버리지)와 xAI가 견인하는 것으로 판단합니다. 2027년(E)에는 VR 랙이 5만 대 이상, GB는 2만 대 이상으로 성장할 것으로 보며, NVDA는 CoWoS와 데이터센터 전력에 제약을 받고 있습니다. VR-Ultra는 4-die에서 2-die 아키텍처로 전환하는 것으로 판단하며, 카이버(Kyber, 페인만)는 미드플레인 관련 난관으로 지연되고 있습니다. 신규 아키텍처인 NVL576(Oberon x4, Taycan)은 NVL72 대비 HBM 밀도가 3.5배 증가합니다(MU에 긍정적). DRAM HBM 탑재량은 BW300에서 VR200으로 이동해도 288GB(HBM4)로 변동이 없고, VR-ultra는 256GB HBM4e로 이동하며 HBM4e 가격은 70~100% 상승하는 것으로 봅니다. 페인만은 HBM4e/16Hi 기반 GPU당 768GB로 예상하나, LTA/SCA/NBM이 가격을 결정하면서 제약을 받을 가능성이 있습니다.\n2026~27년(E) NPO 램프업, 2028년 CPO로 이어지는 광통신 부문의 순풍. 초기 NPO/CPO 램프업은 Quantum-X/Spectrum-X와 함께 2026년(E) 말에 시작되어 2028년(E) VR-Ultra와 함께 가속화될 것으로 판단합니다. CPO/Spectrum-X는 2027년(E) 약 8만~10만 대, 2028년(E) 13만 대 이상으로 램프업되며, Spectrum-X6/7이 믹스의 80% 이상을 차지할 것으로 봅니다. 레이저 공급업체의 캐파는 NPO와 CPO 간 상호 전용이 가능하며, NPO에서의 탑재 콘텐츠는 동등하거나 더 높습니다(LITE에 긍정적).\n2027년(E) CoWoS 전년 대비 75% 이상 성장, 2028년(E)에는 CoPoS/EMIB-T를 주목합니다. 이번 콜에서 CoWoS가 2027년(E)까지 강하게 램프업되며, 주요 고객인 NVDA와 AVGO가 전년 대비 75% 이상의 성장을 견인한다는 점이 언급되었습니다. ASX(NC)와 AMKR(NC)이 CoWoS를 2배로 늘리며 상방 여지를 제공하고, NVDA/AVGO/AMD/MRVL(NC)에 공급할 가능성이 있습니다. EMIB-T는 97% 이상의 양호한 수율을 보이고 있으며, TPUv9에 사용될 가능성이 있는 MTK(2454TW, 케빈 왕-홍콩 커버리지)를 포함해 채택이 확산되는 것으로 판단합니다. 2028년(E)에는 CoPoS/EMIB-T 채택으로 레티클 사이즈가 8~12배(또는 ASIC 아웃풋 5~10배 증가)까지 열릴 것으로 보며, 이는 현재 CoWoS-L의 5.5배 대비 개선된 수준입니다.\nCSP 캐펙스와 RPO 성장에 따른 AI 스택 전반의 순풍. NVDA는 머천트 GPU 강자로서 선도적 지위를 유지할 것으로 보며, VR-Ultra로의 전환은 NPO/CPO 채택 확대와 HBM 상방 여지를 견인할 수 있습니다(LITE/MU/SNDK에 긍정적). AVGO는 TPU/MTIA/할라페뇨(Jalepeno)/발트라(Baltra)가 모두 2027년(E) 이후 램프업될 가능성이 있어 ASIC 리더 자리를 유지할 것으로 판단합니다. DELL은 최근 동종업체들의 강한 가이던스에 이어 파이프라인이 추가로 확대될 여지가 있어 AI 서버 리더 지위를 유지하고 있으며, CRDO는 AEC, ALC/마이크로LED, ZFO, Sipho 램프업으로 계속 순풍을 받고 있습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-17T05:16:57+00:00"
+    },
     {
       "id": "tg:bornlupin/19732",
       "source": "telegram",
@@ -364,7 +403,7 @@
       "url": "https://t.me/bornlupin/19727",
       "text": "\"사람들은 앞으로 세상에 얼마나 많은 연산 능력(컴퓨팅 파워)이 필요할지 이해하지 못하고 있다.\"\n일론 머스크(​Elon Musk): \"진짜 전혀 모르고 있죠.\"",
       "images": [
-        "https://cdn5.telesco.pe/file/G_xX079FEXqtVbx0-3ZY7e8QlSHNbLoo0AcVp_DUbxxJc5CMelcUDa2RSTIn0RTjiZsDrPZvpJa4hO7Bcl2mgXGtkJ4gccBu-tBM6XFTIE8K9F8akOCP5bnV_4fFUGm3aedDBFnU9jxeYqsyMD7aZI5eT8MC9L9uxUqzU4Lmv3mZvm6RcGeN-vdoX1B-es_O4UQS93rPB1VOpN21g2b2IXt68Vf5_r-p3iiTr55JeMlhwL_QmAzMgnJ50GQYg0nbw5K8B2hVZL0jay5LR-oRny7O9_d0hm-ZD279EuXSF5L9D_PkHjrNixQUGr89pSIArkNR3LzGgav04dl2U1gtdw.jpg"
+        "https://cdn5.telesco.pe/file/L28wN5X38UXiO2_nYtTXG-2JRsL7vkj1kbSEZ2wt7fAfJiU8qgdl9dN3HbCAwMf1AQLP1RH2OpTOm37TDdoej6pgLo6kuuFfug5C4aAFL-CTReDqC2WwJrheJ5rmHcVRdFTL-nouegEUbbacUG6sra8Be0p9gSg0vZENRJfE1wtz0Tg-1_DVZmnSks0rsI_rQ_CeFBIPlcKCFWhgl8-pS0DA13Dl4SuFeODGV_ab-gvitkmI4A4tE5WGr5mUhUyFPDNeTUq-5oNtZbxL7akCSjSEz_Tn_rMdUm2Gn54oRyIEwqKV-r5iEraK7xFUdd5bKcNW7mKLuX_RD11O7aRFXA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-16T05:48:52+00:00"
@@ -942,7 +981,7 @@
       "url": "https://t.me/enc210406/4324",
       "text": "[STX엔진 2Q26 확정 실적 공시]\n컨센서스 대비\n@ 매출액: 12.3% 하회\n@ 영업이익: 12.1% 하회\n당사 추정치 대비\n@ 매출액(2,397억원): 11.1% 하회\n@ 영업이익(257억원): 부합(3.1% 하회)",
       "images": [
-        "https://cdn5.telesco.pe/file/N_Jd3Dc9wzHWcxLMdHMrAKXnu2Jine8hO1IRGgTyORipKAjcMXzwciF6bIkXKf7PPQZzc1GqO9EmCppA1exgjaFsQ05pUuT2GjFIbWT0t0t1JDaJHvddTBwlLaLpwOy_R8JSu9PSSwjgxvJQ8XoHmDhU8_53hWF86yNWe4077Oi1JfmLyZExKFbak8HXRLO2sBawARq6w54REZXru36qkjot5Azo-3gOmKYLy37E6swnV7DiVSJjPnbHdP35ecuF7MO7i9ovJpcool-52FbUW2jES-EXzXUL-NuY0MlNyQh7rgXthH5l5TjVKJ3KUKH7vdxpwMmxhPXXtiKXS9c9ug.jpg"
+        "https://cdn5.telesco.pe/file/MEEKURIekCWA1rQfgZAgtE61bfvneU9-_KRcJfhDdGvsDtIBQF9oFp1FhfVYX5wZNIVc2Y-6TGCZK6rIpZ8SJ9gOV_zkJLYwVH-laZ0r3ekleFPx33W5lwWcuWyNeaI6ttwq9zA4Fcm6qW6Kby7XfBubj3FrNMH2N261AmFSzZxDe_Xg4b5dX28Z5JTdEad2Hevc5ZUSsgvCqfjWaWjNWXNcgpy5fCn0lbJNAnu4EU9AZaBcUc9rb7c7mL-tXWDA1v1M3t4VHw0DforL-UUvSFHDIVsGaqJnlX4d2x3d2zAO_O5R41iAMIaLPTzcpI-BmYC6ckeuLQAJ6R2osD-prA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-14T06:15:15+00:00"
@@ -1301,20 +1340,6 @@
       "published_at": "2026-08-13T15:08:32+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24570",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24570",
-      "text": "진짜닉스 잘 오르네요",
-      "images": [
-        "https://cdn5.telesco.pe/file/QUglEDJUVKPxLvi32Ag5pT-GnM-tDUHFXTOYj9zzFXn5m6Fdn-PlYNnCUyLB9QeR2dcM3ZH-rcOSc43WGT-_msIsnU5ZP60QY01L3hZvI7jxc4oyeR_FO9KxmFZV_z-xCwqq-clND6uYG6n9IeMwpyW1GrHL-ExBsF2edGwzNAlUSp2Iacsi5P1Izgp4GisBq-qtcyJxUvwieIVh603QdlXe5Jd9eBbkvv8HyG5-E19c1l3iqTO1c_twVUWWNzhFsU7BU6gdjLHBeGFi1UjPQxzi9ODvnVZutOtDFcSd_Q96W3xh7eZ_fuXmCfUDnB_4UsdA_qxzys3Mxj2uoZlM1g.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-13T14:44:08+00:00"
-    },
-    {
       "id": "x:OpenAI:2087912625581719835",
       "source": "x",
       "author": "OpenAI",
@@ -1357,18 +1382,6 @@
       "published_at": "2026-08-13T14:37:50+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24569",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24569",
-      "text": "Citi) Cerebras Systems Inc (CBRS.O)CY27 코어 매출 3배 성장 전망, 매수 의견 유지. TP $320(하향)\n씨티의 견해\nCerebras는 강력한 고속 추론(fast inference) 수요를 반영하여 FY26 코어 매출/총이익률/영업이익률 가이던스를 재차 상향했으나, 일부 시스템을 클라우드 고객사로부터 다시 임차하면서 총이익률 저점이 2분기에서 3분기로 이연되었습니다. 다만 경영진은 2027년 코어 매출 3배 성장, 250억 달러 규모의 RPO, 그리고 AWS 및 AMD와의 추가적인 협업 파이프라인에 대해 언급했습니다. 근본적으로 고속 추론 시장에서 Cerebras가 선점 우위를 갖고 있다는 당사의 논지는 그대로 유효합니다. 당사는 FY26/27/28 EPS를 각각 +40센트/+44센트/-1센트 조정하며, 목표주가는 기존 340달러에서 320달러로 하향합니다. 이는 엔비디아의 3년 평균 EV/S에 기반한 14배를 2028년 예상 코어 매출 71억 달러(변동 없음)에 적용하여 산출한 수치입니다. 매수 의견을 유지합니다.\n2027년까지 600MW 캐파: Cerebras는 고속 추론에 대한 막대한 수요로 인해 전 세계에서 매일 캐파를 확보해 나가고 있습니다. Cerebras가 빠르게 배치할수록 클라우드 및 온프레미스 사업 양쪽의 매출도 더 빠르게 성장할 수 있습니다. Cerebras는 2027년 코어 매출이 3배 이상 증가하고 이후 연도에도 배수 단위의 성장을 이어갈 것으로 예상하고 있습니다.\n고객 집중도: 내년에는 신규 고객이 차지하는 비중이 더 커질 것이며, LLM 고객은 시간이 지남에 따라 매출 내 비중이 축소될 수 있으나 내년에도 유의미한 비중을 유지할 것으로 보입니다.\n캐파: Cerebras는 수년에 걸쳐 막대한 성장을 시현할 것으로 보입니다. Cerebras는 올해 말 제조 캐파를 10배로 확대할 가능성이 높으며, 2027년에는 계약된 시설 기준으로 추가로 3~4배 더 늘어날 전망입니다.\n아마존 협업: 아마존은 API 서비스인 Bedrock을 통해 아마존 데이터센터에 배치되어 이용 가능해질 예정입니다. 현재 배치 작업을 준비 중이며, 해당 서비스는 1분기에 개시될 것으로 예상하고 있습니다.\nAMD 배치: Cerebras는 시간이 지남에 따라 AMD와의 신규 제품들을 발표할 예정입니다. 공동 솔루션에서는 Helios가 프리필(prefill)을 담당하고 Cerebras가 디코드(decode)를 담당하게 되며, 이는 매력적인 솔루션입니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-13T13:46:34+00:00"
-    },
-    {
       "id": "x:demishassabis:2087885303855944001",
       "source": "x",
       "author": "demishassabis",
@@ -1381,20 +1394,6 @@
       ],
       "summary_ko": "SL2T는 사용자가 처음으로 휴대폰에 직접 서명할 수 있는 놀라운 수화-텍스트 모델입니다. 청각 장애인 커뮤니티와의 긴밀한 협력을 통해 구축된 이 제품은 AI로 할 수 있는 좋은 일을 보여주는 훌륭한 예입니다. 출시를 축하합니다!",
       "published_at": "2026-08-13T12:53:42+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24568",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24568",
-      "text": "🚨\n경제 지표 발표\n🚨\n━━━━━━━━━━━━━━━\n🔵\n미국 생산자물가지수\n(PPI MoM, 7월)\nㆍ실제치(Actual): 0.0%\n🔵\nㆍ예상치(Forecast): +0.2%\nㆍ이전치(Previous): -0.1%\n━━━━━━━━━━━━━━━\n🔵\n미국 신규 실업수당청구건수\n(Initial Jobless Claims)\nㆍ실제치(Actual): 209,000건\n🔵\nㆍ예상치(Forecast): 202,000건\nㆍ이전치(Previous): 200,000건\n━━━━━━━━━━━━━━━\n📌\n요약\nㆍ생산자물가지수가 예상치를 하회하며 생산단계 인플레이션 압력 완화\n🟢\nㆍ신규 실업수당청구건수는 예상보다 증가하며 노동시장 완화 신호\n🟢\nㆍ물가와 고용 지표 모두 연준의 통화정책 완화에 우호적인 방향\n🟢\nㆍ전반적으로 시장의 금리 인하 기대를 지지하는 지표 조합\n🟢\n━━━━━━━━━━━━━━━\n📈\n주식시장 영향\nㆍPPI 예상 하회는 인플레이션 우려 완화 및 국채금리 하락 측면에서 기술주·성장주에 긍정적\n🟢\nㆍ고용시장 완화 역시 금리 부담을 낮추는 요인으로 성장주 투자심리에 긍정적\n🟢\nㆍ다만 실업수당 증가가 지속될 경우 경기민감주에는 경기 둔화 우려로 작용할 가능성\n🔴\nㆍ금융주는 금리 하락에 따른 순이자마진 기대 약화 가능성\n🔴\nㆍ종합적으로 증시에는 긍정적인 지표 조합으로 평가\n🟢\n━━━━━━━━━━━━━━━\n🏦\n금리 인하 영향\nㆍPPI 예상 하회는 인플레이션 압력 완화를 시사해 금리 인하 기대에 긍정적\n🟢\nㆍ실업수당청구건수 증가는 노동시장 냉각 신호로 연준의 완화적 정책 전환을 지지\n🟢\nㆍ물가 둔화와 고용 완화가 동시에 확인되면서 비둘기파적 해석 강화\n🟢\nㆍ향후 금리 인하 시점 및 추가 인하 기대에 긍정적으로 작용할 가능성\n🟢\n━━━━━━━━━━━━━━━\n작성자: 미국 주식 인사이더\nt.me/insidertracking",
-      "images": [
-        "https://cdn5.telesco.pe/file/V1LyIG3H4c2--J1rKAKV-G3Kkx5CZDWPGl3Rq8H5TSzKQxmrfYbbtwAUI5lskD5aK4I7nITFnj5nrJY6tb6giDB5BMTFR_miTwqeDYpZzDFYPYaep2-jLNHhsJpLvtlpFTJFPFQJiZedSNOEoLh_z1vYg-G6QVwgF1Z1emv6eGlLA04afIF8-Oy-lwjuP-kbmqumVZHIGXUC0fb1KmjCO6Engg8QL5wJNXcgcS1AqqhpBoB0il2EnuH53a4KvpejQaxdVcnZpX1afToBHhyqNknoH5R241QYSPoclWRGlnEykuCShmRKULzlC2k84iSyI0_g4l8gN-a22cvRz10Vhg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-13T12:33:14+00:00"
     },
     {
       "id": "x:ylecun:2087778305407959178",
