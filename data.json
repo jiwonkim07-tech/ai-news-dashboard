@@ -1,22 +1,36 @@
 {
-  "updated_at": "2026-08-17T03:56:39+00:00",
+  "updated_at": "2026-08-17T04:45:54+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 2
+    "new_this_run": 4
   },
   "briefing": {
-    "headline": "AI 수요 폭발로 인화인듐 기판 공급 가격 10% 이상 상승",
+    "headline": "키옥시아, 메모리 업황 개선 기대감에 상승",
     "bullets": [
-      "미국 납세자들의 돈 120억 달러 낭비",
+      "AI 수요 폭발로 인화인듐 기판 품귀 현상 심화",
       "미국, Pax Silica 중심 AI 동맹 구축 가속",
-      "마이크론 주가 1,000달러 선 근접",
-      "JP모건, 샌디스크 마진 프로파일 리셋 전망",
-      "미국 데이터센터, 새로운 성장 동력"
+      "마이크론 주가, 다시 1,000달러 선 근접",
+      "JP모건, 상위 7대 하이퍼스케일러 설비투자 전망",
+      "샌디스크, LTA가 마진 프로파일 리셋"
     ],
-    "generated_at": "2026-08-17T03:56:39+00:00",
+    "generated_at": "2026-08-17T04:45:54+00:00",
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19732",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19732",
+      "text": "* 키옥시아, 메모리 업황 개선 기대감에 오후장 상승폭 확대한 (+7.3%) 57,680엔 기록 중",
+      "images": [
+        "https://cdn5.telesco.pe/file/ciOsJAwDg4sGIK8ooBCuK0QHDFGmvDGYRHWvrSQopgh8O87n5n9f4gp6gwoI4wWD6Tiont_cKjEPoRLJyvDfhG3ecvOiYTAaJp4cqxGvPDVM_G0gG6rvf8HFBzqkWJZ0pVI55Ee5Xju53R2UF284_tmQp6xahAk_b6oO1wwFL4-592Iywxc5Y3gO-zOUo0RNuq4Q2FO2YMI1v7r5K09o4gnmraUfSKEbL1k_TwBnPxtoKrw0R1Vs4BLK4tEijpGzj25z09XCYbnOhQrFxmWWb7ghQNgsyNDMA1OKvck3mNoqa6-_0fB0SkBIci1qQTIQtp3_ADFB6UAs4X-I_rXJBQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-17T04:09:55+00:00"
+    },
     {
       "id": "tg:bornlupin/19731",
       "source": "telegram",
@@ -628,20 +642,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-15T02:23:06+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19720",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19720",
-      "text": "엔비디아(NVDA), 약 210억 달러 규모의 스페이스X(SPCX) 지분 공개\n​엔비디아는 최근 미국 증권거래위원회(SEC) 공시를 통해 분기 말 기준 약 210억 달러(약 28조 원) 상당에 달하는 스페이스X의 클래스 A 보통주 1억 2,280만 주를 보유하고 있다고 밝혔습니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/F_i0p9nFyMB3Ccvk1X228xpTwljNh5dqgXfzs5_SIyz3g7Fl3CDplrVu0eQxsjqyrdUC5kqiF5wCHvZDuD-Mt8Z4trhRpkt5IZEc3OWGVDKW2Q1iN46spuWkPJae_RrhuV0b9UinbYZObkMVLoItbWIjU_WT3Dg8bHEfsgwwEHsRVcvfN-sYRrIDU5H0R-jd6fOrQezaEpxfLXeY1SouDWVzCJiyDRCLvA2ZGTWoExlkD5qYavLn82YM93aVDqvOwZ7hpoByWSuKafPoO7R1PqppuRunJJsIbShWAt66ba0P9UQ7bE9SHlzdB0pELOBXcWXnJMcDhwNoAtWa_r97JA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-15T02:20:37+00:00"
     },
     {
       "id": "tg:enc210406/4335",
@@ -2118,7 +2118,9 @@
       "author_url": "https://x.com/AnthropicAI",
       "url": "https://x.com/AnthropicAI/status/2082228994653696371",
       "text": "We support this petition, signed by our CEO, several co-founders, and senior staff. Our own research on recursive self-improvement, published last month, points to the need for tools to deliberately pace the frontier of AI development so society can prepare. We’re glad to see broad agreement across the field. https://www.pacingthefrontier.com/",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2087271139743838208/1F4qjf99?format=jpg&name=800x419"
+      ],
       "summary_ko": "우리는 CEO, 여러 공동 창립자 및 고위 직원이 서명한 이 청원을 지지합니다. 지난 달 발표된 반복적 자기 개선에 대한 우리의 자체 연구는 사회가 준비할 수 있도록 AI 개발의 최전선을 의도적으로 보조할 수 있는 도구의 필요성을 지적합니다. 우리는 현장 전반에 걸쳐 폭넓은 합의를 보게 되어 기쁩니다. https://www.pacingthefrontier.com/",
       "published_at": "2026-07-28T22:17:32+00:00"
     },
@@ -2157,7 +2159,7 @@
       "url": "https://x.com/AnthropicAI/status/2082153311189225927",
       "text": "R to @AnthropicAI: We also worked with academics at ETH Zurich, Tel Aviv University, and the University of Haifa to build CryptanalysisBench, a benchmark for studying LLMs’ cryptanalysis abilities. https://arxiv.org/abs/2607.18538",
       "images": [
-        "https://pbs.twimg.com/card_img/2087048998771392512/CTt9pJHd?format=jpg&name=420x420_2"
+        "https://pbs.twimg.com/card_img/2087048998771392512/5eyz1fPL?format=jpg&name=420x420_2"
       ],
       "summary_ko": "R에서 @AnthropicAI로: 우리는 취리히 연방공과대학(ETH Zurich), 텔아비브 대학교(Tel Aviv University), 하이파 대학교(University of Haifa)의 학자들과 협력하여 LLM의 암호 분석 능력을 연구하기 위한 벤치마크인 CryptanalyticBench를 구축했습니다. https://arxiv.org/abs/2607.18538",
       "published_at": "2026-07-28T17:16:48+00:00"
