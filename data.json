@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-17T07:53:00+00:00",
+  "updated_at": "2026-08-17T08:42:29+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 3
+    "new_this_run": 1
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,21 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/24585",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24585",
+      "text": "JP모건) 소프트웨어 산업 전망 및 커버리지 랭킹: AI 디스럽션 우려가 오히려 성장과 저평가 매력의 기회\nJP모건은 AI로 인한 소프트웨어 대체 우려가 과도하게 반영되어 있다고 판단합니다. 엔터프라이즈급 소프트웨어는 고객의 시스템 오브 레코드(기간계) 일부로서 대체 장벽이 높은데, 투자자들이 애플리케이션과 인프라 소프트웨어를 구분 없이 일괄적으로 디스카운트하고 있다는 지적입니다. 디스럽션이 시장 우려보다 훨씬 작을 근거로 세 가지를 제시합니다. 첫째, 소프트웨어 비용의 80%는 구축이 아닌 업데이트·유지보수에서 발생하므로 대기업 외 고객군이 자체 대안을 모색하기 어렵습니다. 둘째, 기업들의 토큰 비용 상승이 이미 예산 결정에 반영되기 시작해, 배포·유지·운영 역량을 갖춘 소프트웨어 기업의 솔루션이 상대적으로 유리해집니다. 셋째, 결정론적(deterministic) 결과 도출을 위해서는 시스템 오브 레코드 통합과 워크플로우 지식이 필수적이어서 엔터프라이즈 시스템에 대한 컨텍스트를 가진 기업의 중요성이 커집니다. 다만 시스템 통합이 약하고 가치가 UI에 집중된 애플리케이션 레이어에는 역풍이 있으나, 이는 핵심 포트폴리오보다 인접 사업 매출에 영향을 줄 것으로 봅니다.\n밸류에이션 측면에서 섹터는 EV/매출 약 4배로 거래 중이며, 이는 금융위기 저점 1.5배와 팬데믹 고점 약 20배 대비 낙관론이 거의 반영되지 않은 수준입니다. JP모건은 현 밸류에이션을 정당화하는 데 성장 재가속이 필수는 아니라고 보면서도, 2026년 하반기~2027년 상반기 성장 재가속으로 디스럽션 리스크가 반증되는 시점이 리레이팅의 타이밍을 결정할 것으로 전망합니다. 비용 측면에서는 AI 토큰 비용 상승으로 인한 그로스마진 둔화가 AI 수익화와 함께 SLM·오픈웨이트 모델 활용 확대로 반전될 것으로 예상하며, 이는 중기 이익 가속의 추가 레버가 됩니다.\n토큰 비용 절감 전략으로는 세 가지가 부각됩니다. 첫째, 페더레이티드 멀티모델 오케스트레이션으로, Zoom(Z-Scorer 기반 단계적 모델 승격), Microsoft(Foundry Model Router), Intuit(GenOS로 Claude·GPT 분배), Salesforce(Agentforce), Cloudflare(AI Gateway로 라우팅 자체를 수익화) 등이 사례입니다. 둘째, 도메인 특화·소형언어모델(SLM) 활용으로, ServiceNow는 자체 오픈웨이트 추론 모델을 보유하며 \"편지 부치러 페라리를 탈 필요는 없다\"는 표현으로 이를 설명했습니다. 셋째, 오픈웨이트 모델의 비용 우위입니다. 프론티어 모델 중 Anthropic의 Claude Fable 5가 백만 토큰당 입력 10달러/출력 50달러로 최상단이며, AA 인텔리전스 인덱스 실행 총비용 기준 Fable 5가 5,631달러, Opus 4.8이 3,753달러인 반면 Kimi-K3는 2,710달러, qwen3.7-plus는 311달러, deepseek-v4-flash는 74달러에 불과합니다. Epoch AI의 ECI 스코어 기준 오픈웨이트와 클로즈드웨이트 상위 모델 간 성능 격차는 수렴하지 않고 안정적으로 유지되고 있으나, 오픈웨이트가 성능을 따라가고 있다는 점 자체가 장기 제품 전략에 긍정적이라는 평가입니다.\n수익화 모델 전환과 관련해서는 시트 기반에서 소비량 기반으로의 이동이 대부분 커버리지 기업에 순풍이 될 것으로 봅니다. ServiceNow는 신규 순증 비즈니스의 50%가 이미 비시트 기반이고, Snowflake는 소비 기반 매출이 전체의 90% 이상이며, Twilio는 사용량 기반 수수료가 2025년 매출의 74%를 차지합니다. 인당 매출은 커버리지 평균 약 67.9만 달러, 중간값 48.4만 달러로, Intuit(103.5만 달러)과 Adobe(73.4만 달러)가 상위권이며 동종 대비 낮은 기업들에 생산성 개선 여지가 있다고 분석합니다.\n커버리지 랭킹에서는 Microsoft(MSFT)를 최선호주로 제시합니다. 고마진 애플리케이션 사업과 Azure 인프라 수익화의 균형 잡힌 포트폴리오로, 현금창출력 있는 애플리케이션 사업이 자본집약적 AI 인프라 투자를 뒷받침한다는 논리입니다. 2위 ServiceNow(NOW)는 AI ACV 10억 달러 돌파와 장기 평균 대비 50% 이상 할인된 FCF 멀티플이 매력적인 진입점으로 평가됩니다. 이어 Datadog(DDOG), Snowflake(SNOW), Twilio(TWLO), Oracle(ORCL), Salesforce(CRM), Apple(AAPL) 순이며, 옵저버빌리티에서는 클라우드 네이티브·DevOps 정렬도가 높은 DDOG을 Dynatrace보다 선호합니다. 매출성장에 2배 가중치를 두는 Rule of X 기준으로도 DDOG, SNOW, NOW의 우위가 재확인됩니다. 중립 등급으로는 Cloudflare(NET), CoreWeave(CRWV), Akamai(AKAM), Figma(FIG), Zoom(ZM), DocuSign(DOCU), Dropbox(DBX), Paycom(PAYC)이 있습니다.\nAI 인프라는 수요 관점에서 여전히 유리한 위치에 있으며, 컴퓨트 가격 인상과 프리미엄 전가에도 고객이 지불 의사를 보인다는 점이 ROI 우려를 일부 완화합니다. 다만 매출 실현에 앞선 대규모 캐펙스와 자본시장 접근 필요성, 기업가치 중 부채 귀속분에 대한 불확실성으로 주가 변동성은 높게 유지될 전망입니다. JPM 아시아 테크팀 전망 기준 글로벌 컴퓨트 공급 부족은 2026년 70,496MW에서 2031년 278,603MW로 확대될 것으로 추정됩니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/YJcfkZoJuAP6NZO4qlWdDKavz4qcyuopTIoQxiOihjNAMyfFc4k8RgVtmp0AwxvC1REjAKN4nsR5WzrioKaK6p65YhPxh8nLQhuELzIsYHD3ewCPSUrFR5qOmmvGEgDiWGcNmtA1Uz9AREU9NH_yCJ2uTMhJd2v1eQjIPiAXW9e2MA9TSgJ6gHIYxQxhX2sSEYzZgDdkp2eVwIlKE6kRo0yGoGqj-u43wHdtXsm9bkqpwXELs5Zwmt5BMtCnl4_LmPWnY-nmlUCZYOD1A5bkPCMzzfXIOIptwKYCHLBeHCwt8Xx2vUC8uJJ2IXxOuHAny3VUlJ1y3dL_1yGY8fMRjg.jpg",
+        "https://cdn5.telesco.pe/file/OiEy8w0Ph7lo_qmECB22etczxq7lOl88aMFdQfbozBfiWMsPRc148yA4GMBaX_qg8coes_iGhr-tfgvVIWC1uO31jTgIG9kuKZL8kvBKDK-QafkK9ncJCzRW-OohDk9a5cyjx_t1L8J58TuovLyTYs4BMuiqeillnqLdHYYtQUeQjxfWj5zaxlD8j4jJCkaU6NMyEAsIX57eeKfuLjWmQLcTQ7pmaVMHOh09KQXMT0v28vq4el8CUUw0VIiQKV8op5bDgxr-jUqiogIMRwk2Xd6QgFawWITaQrfmAZjmd8PB2PVRAxMf2dQ4dSLrDO9RdSP7X56h_HYeweROqSqaxA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-17T08:38:10+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24584",
       "source": "telegram",
@@ -350,7 +365,7 @@
       "url": "https://t.me/aetherjapanresearch/24576",
       "text": "미국, Pax Silica 중심 AI 동맹 구축 가속, 중국과 양자택일 요구\n: 미국이 AI 패권 경쟁에서 동맹 및 파트너 국가들에 미국과 중국 중 한쪽을 선택하도록 요구하는 방안 추진\n: 미 국무부는 6월 AI Opportunity Statement에 서명한 35개국을 대상으로 서한 초안 작성\n: 중국 주도 AI 협력체에 동시에 가입할 경우 미국 주도 Pax Silica에서 배제될 수 있다고 경고\n: Pax Silica는 미국이 지난해 출범한 AI 공급망 동맹으로 AI 모델, 반도체, 핵심 광물의 안정적 공급망 구축 및 중국 의존도 축소가 목적\n: 현재 한국, 일본, 호주 등 약 20여 개 국가 참여. EU, 영국, 인도, UAE 등도 참여국에 포함\n: 중국은 7월 World Artificial Intelligence Cooperation Organization을 출범시키며 오픈웨이트 AI 기술을 중심으로 미국에 맞서는 별도 AI 생태계 구축 추진\n: 카자흐스탄은 현재까지 양측 이니셔티브에 모두 가입한 것으로 알려진 유일한 국가. 이를 계기로 미국은 “양쪽을 모두 가질 수는 없다”며 참여국의 명확한 선택 요구\n: 미국은 동시에 Pax Silica 참여국에 실질적인 경제적 인센티브 제공 확대\n: 파나마에 AI 인프라, 반도체, 핵심 광물 등 핵심 물자의 통관 및 물류를 AI로 신속 처리하는 시범 플랫폼 구축. 최대 5,000만 달러 지원\n: 앞서 에너지 및 핵심 광물 프로젝트 지원 컨소시엄에도 최대 2.5억 달러 출연 계획 발표\n: Pax Silica가 공동 투자, 수출 통제, 핵심 광물, 반도체, AI 인프라 및 물류까지 포괄하는 미국 중심 AI 경제권으로 확대되는 모습\nhttps://t.me/Samsung_Global_AI_SW",
       "images": [
-        "https://cdn5.telesco.pe/file/pMCsnKszUmkF_Vtxfyonq6aLO6o02uWBV2HXuZ5WmYXVZaxUO-AZjpDdjoOMGZO2o4IOKQPkOhvZhrpjuUAodMassHH1uRDndOyJNBXq27Fe52-LEiPz_CtBBMstH8GwCCzKObk2ZoUxaQ-joJfgTl5tfs9ZEPxuJBzO_srEWDFtjqlaMo-HwfJkSCqZZgKFInyzbkoSb1UCdu5P_mgFULvLfT1o4fCgo7Wh_DiP2tAwPEHNHHgPezK9C-_W_SCRUoqkwv6iTZ89NB_2_hk1ISeHwRqs1l9OlhcZqqDMisI7EGbDMdZMkaJ6z7rrEL_43N_f2pismusMbENc1d7IHQ.jpg"
+        "https://cdn5.telesco.pe/file/uoorGVUoBORJ79zsZNcwlLn_Mag6fQrqinkZQ6a4eQ1lnvDvQfmJM1Jz6c3LuN1NYPGae5UyaBNkwdyDhrrIkDxjc19P8GdwhG329fy5UC7Ek3MaGxErqn1NXoe7TvVpHEeZsoydrTabsO1jAXraKuGofc9Url2nNmqHE_v_1gG5eNeW4O9a6PViAT4ZGzA2v1AzwVS7gDBVDcdhux11uuIOwicok8o4WeGev2VyRbRMzMO5kDxuOkWp1pYTHOs7nqxTBI1Dmm-2keM7UjEQHbOWj1TvpkSggUBIwzRt4OCiH5n_I8ClrStrzB0YLdl2Smg8-d77jHdisR25YEUxSg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-16T08:20:39+00:00"
@@ -1326,18 +1341,6 @@
       ],
       "summary_ko": "@yleun의 RT: 근로자의 GDP 점유율은 사상 최저 수준인 반면 기업 점유율은 사상 최고치에 가깝습니다. 트럼프의 재정 정책이 기업과 부유층에 불균형적으로 이익을 주면서 이러한 역동성은 더욱 악화될 수 있습니다.",
       "published_at": "2026-08-13T15:56:45+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24571",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24571",
-      "text": "SanDisk $SNDK가 FY28~FY30 목표를 제시했습니다.\n10% 중후반대 매출 성장\nNon-GAAP 총이익률 약 80%\n조정 FCF 마진 약 50%\n또한 회사는 잉여 현금의 100%를 주주에게 환원할 것으로 예상하고 있습니다.\nhttps://twitter.com/wallstengine/status/2087917383008805046",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-13T15:08:32+00:00"
     },
     {
       "id": "x:OpenAI:2087912625581719835",
