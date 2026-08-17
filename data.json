@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-17T19:27:32+00:00",
+  "updated_at": "2026-08-17T20:26:52+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 2
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,20 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:GoogleAI:2089437060310434098",
+      "source": "x",
+      "author": "GoogleAI",
+      "author_name": "Google AI(구글 AI)",
+      "author_url": "https://x.com/GoogleAI",
+      "url": "https://x.com/GoogleAI/status/2089437060310434098",
+      "text": "Bring your spreadsheet data to life",
+      "images": [
+        "https://pbs.twimg.com/media/HP8riG1WMAA1q0-.jpg"
+      ],
+      "summary_ko": "스프레드시트 데이터에 생기를 불어넣으세요",
+      "published_at": "2026-08-17T19:39:49+00:00"
+    },
     {
       "id": "tg:globaletfi/21131",
       "source": "telegram",
@@ -1577,7 +1591,7 @@
       "url": "https://x.com/sama/status/2086881528282587524",
       "text": "please consider using our models to help defend your systems",
       "images": [
-        "https://pbs.twimg.com/card_img/2086864438372564992/mfnG5tI-?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2086864438372564992/fgCnBv6p?format=jpg&name=800x419"
       ],
       "summary_ko": "귀하의 시스템을 보호하는 데 도움이 되도록 당사 모델을 사용해 보십시오.",
       "published_at": "2026-08-10T18:25:03+00:00"
@@ -1591,7 +1605,7 @@
       "url": "https://x.com/AnthropicAI/status/2086867246073401655",
       "text": "We asked an unreleased research version of Claude to take a stab at the Riemann hypothesis. It didn’t solve it, but it did make strides on a related problem: it increased the lower bound for the fraction of zeros of the Riemann zeta function that satisfy the hypothesis from 41.6% to 67.2%. https://www.anthropic.com/research/riemann-zeta",
       "images": [
-        "https://pbs.twimg.com/card_img/2086867140821520384/LMrVaO3G?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2086867140821520384/MMMbJD5v?format=jpg&name=800x419"
       ],
       "summary_ko": "우리는 아직 공개되지 않은 연구 버전의 Claude에게 리만 가설을 검증해 달라고 요청했습니다. 이 문제를 해결하지는 못했지만 관련 문제에서 큰 진전을 이루었습니다. 즉, 가설을 충족하는 리만 제타 함수의 0 비율에 대한 하한을 41.6%에서 67.2%로 늘렸습니다. https://www.anthropic.com/research/riemann-zeta",
       "published_at": "2026-08-10T17:28:18+00:00"
@@ -1775,7 +1789,9 @@
       "author_url": "https://x.com/demishassabis",
       "url": "https://x.com/demishassabis/status/2085775218249711887",
       "text": "RT by @demishassabis: My column on @demishassabis in The Times. —Given his record of caring about AI safety and impact, people should err on the side of believing his own explanation for stepping back from management. When we spoke a lot last year, he gave me the sense that this moment might come. —Gemini is behind for now, and several famous names have quit the AI research team. But Google has deep commercial strengths. And technical progress probably depends on young cutting edge researchers who are yet to be famous. https://www.thetimes.com/article/5611b33d-3c1a-41ad-a1de-854260de04c2?shareToken=08093b25f32d1aa637ab8a80dfcf0c98",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2088241399107833856/ln-SfChT?format=png&name=420x420_2"
+      ],
       "summary_ko": "@demishassabis의 RT: The Times의 @demishassabis에 대한 내 칼럼입니다. —그가 AI의 안전성과 영향에 대해 신경 쓴 기록을 볼 때 사람들은 경영진에서 물러난 것에 대한 자신의 설명을 믿는 편에 서야 합니다. 작년에 많은 이야기를 나누면서 이런 순간이 올지도 모른다는 느낌을 주셨어요. —Gemini는 현재 뒤쳐져 있으며 몇몇 유명 인사들이 AI 연구팀을 그만뒀습니다. 하지만 구글은 상업적으로 큰 강점을 갖고 있습니다. 그리고 기술적 진보는 아마도 아직 유명하지 않은 젊은 최첨단 연구자들에 달려 있을 것입니다. https://www.thetimes.com/article/5611b33d-3c1a-41ad-a1de-854260de04c2?shareToken=08093b25f32d1aa637ab8a80dfcf0c98",
       "published_at": "2026-08-07T17:08:58+00:00"
     },
@@ -2301,20 +2317,6 @@
       "images": [],
       "summary_ko": "LLM 작업에 유용하다고 생각되는 패턴 중 하나는 길고 멋진 세션입니다. 때때로 LLM은 달성하려는 내용을 이해하기 위해 더 많은 비트가 필요하지만 입력하기에는 너무 게으르다. 이런 경우에 나는 뒤로 기대어 /voice로 전환하고 10분 정도 그냥 어지러워지고 모든 일이 진행되고 의식의 흐름이 완전히 흐트러지는 것을 좋아합니다. 때로는 \"음성 인식으로 전환하겠습니다. 오타가 있어서 죄송합니다...\"와 같이 위에서 선언하기도 합니다. 때로는 몇 차례의 소규모 인터뷰로 전환하기도 합니다. 그러나 나는 LLM이 길고 일관되지 않은 장황한 말을 재구성하는 데 매우 능숙하며 종종 자신의 얽힌 생각에 대한 반향이 처음보다 훨씬 더 깨끗하게 나온다는 것을 알았습니다. 결과적으로 당신은 마음의 융합을 향상시키고 그 시점부터 수정하는 일을 덜하게 됩니다.",
       "published_at": "2026-07-21T16:53:55+00:00"
-    },
-    {
-      "id": "x:GoogleAI:2079589742535118985",
-      "source": "x",
-      "author": "GoogleAI",
-      "author_name": "Google AI(구글 AI)",
-      "author_url": "https://x.com/GoogleAI",
-      "url": "https://x.com/GoogleAI/status/2079589742535118985",
-      "text": "Today, we're introducing not one but TWO new models, striking the balance between efficiency and quality to enable you to build production AI agents. — Gemini 3.6 Flash: Addresses efficiency feedback we received from Gemini 3.5 Flash with upgrades in coding, knowledge work, and multimodal tasks faster, more accurately, and with substantially fewer tokens per task — Gemini 3.5 Flash-Lite: Our fastest, most cost-effective 3.5-class model yet built for agentic workflows, hitting ~350 output tokens/sec with improved coding and overall quality Start building with these today via the Gemini API in @GoogleAIStudio or try them out in the @GeminiApp",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2079589450276126720/img/gzagGlMU4nNVaAyi.jpg"
-      ],
-      "summary_ko": "고정됨: 오늘 우리는 프로덕션 AI 에이전트를 구축할 수 있도록 효율성과 품질 사이의 균형을 맞추는 하나가 아닌 두 개의 새로운 모델을 소개합니다. — Gemini 3.6 Flash: 코딩, 지식 작업 및 다중 모달 작업을 더 빠르고 정확하게 업그레이드하고 작업당 훨씬 적은 토큰을 사용하여 Gemini 3.5 Flash에서 받은 효율성 피드백을 처리합니다. — Gemini 3.5 Flash-Lite: 에이전트 워크플로용으로 제작된 가장 빠르고 비용 효율적인 3.5 클래스 모델로 향상된 코딩 및 전반적인 품질로 초당 최대 350개의 출력 토큰을 달성합니다. 지금 바로 @GoogleAIStudio의 Gemini API를 통해 구축을 시작해 보세요. 또는 @GeminiApp에서 사용해 보세요.",
-      "published_at": "2026-07-21T15:30:06+00:00"
     },
     {
       "id": "x:AndrewYNg:2078144569594761591",
