@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-18T16:30:28+00:00",
+  "updated_at": "2026-08-18T17:26:47+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 2
+    "new_this_run": 3
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,20 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "x:sama:2089758522678657212",
+      "source": "x",
+      "author": "sama",
+      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
+      "author_url": "https://x.com/sama",
+      "url": "https://x.com/sama/status/2089758522678657212",
+      "text": "excited to work together on this. thank you jensen!",
+      "images": [
+        "https://pbs.twimg.com/media/HP7LcKmaQAAo4tT.jpg"
+      ],
+      "summary_ko": "이 일을 함께 하게 되어 기쁩니다. 고마워요 젠슨!",
+      "published_at": "2026-08-18T16:57:12+00:00"
+    },
     {
       "id": "tg:globaletfi/21144",
       "source": "telegram",
@@ -83,6 +97,20 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-18T14:39:14+00:00"
+    },
+    {
+      "id": "x:GoogleDeepMind:2089717134129565763",
+      "source": "x",
+      "author": "GoogleDeepMind",
+      "author_name": "Google DeepMind(딥마인드)",
+      "author_url": "https://x.com/GoogleDeepMind",
+      "url": "https://x.com/GoogleDeepMind/status/2089717134129565763",
+      "text": "RT by @GoogleDeepMind: Matrix multiplication is the basic computational operation that powers modern computing (including AI). Yet, the theoretical fastest speed at which computers can multiply matrices (omega ω) is still unknown and has been a longstanding challenge for complexity theory and computer science. Today, we announce a new record for omega (ω<2.371177). This is the result of a great team effort between @GoogleDeepMind, our academic collaborators, and our Gemini-powered coding agent AlphaEvolve! 🧮 https://arxiv.org/abs/2608.16884v1",
+      "images": [
+        "https://pbs.twimg.com/card_img/2089543466275516416/Pqz29dYN?format=jpg&name=420x420_2"
+      ],
+      "summary_ko": "@GoogleDeepMind의 RT: 행렬 곱셈은 AI를 포함한 현대 컴퓨팅을 지원하는 기본 계산 연산입니다. 그러나 컴퓨터가 행렬을 곱할 수 있는 이론적으로 가장 빠른 속도(오메가 Ω)는 아직 알려지지 않았으며 복잡성 이론과 컴퓨터 과학에서 오랫동안 도전해 왔습니다. 오늘 오메가(Ω<2.371177) 신기록을 발표합니다. 이는 학술 협력자인 @GoogleDeepMind와 Gemini 기반 코딩 에이전트 AlphaEvolve 간의 훌륭한 팀 노력의 결과입니다! 🧮 https://arxiv.org/abs/2608.16884v1",
+      "published_at": "2026-08-18T14:12:44+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/24615",
@@ -1719,7 +1747,9 @@
       "author_url": "https://x.com/demishassabis",
       "url": "https://x.com/demishassabis/status/2085914742414061886",
       "text": "Really enjoyed talking to @bzcohen about AlphaGo's famous move 37 and the significance of it 10 years on for math and science breakthroughs in verifiable domains",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2088430988229853184/_TgcNKew?format=jpg&name=800x419"
+      ],
       "summary_ko": "AlphaGo의 유명한 수 37과 검증 가능한 영역에서 수학과 과학의 혁신을 위한 10년 간의 중요성에 대해 @bzcohen과 대화하는 것이 정말 즐거웠습니다.",
       "published_at": "2026-08-08T02:23:23+00:00"
     },
@@ -1876,20 +1906,6 @@
       "published_at": "2026-08-06T20:18:32+00:00"
     },
     {
-      "id": "x:sama:2085454964814753990",
-      "source": "x",
-      "author": "sama",
-      "author_name": "Sam Altman(샘 알트먼) · OpenAI CEO",
-      "author_url": "https://x.com/sama",
-      "url": "https://x.com/sama/status/2085454964814753990",
-      "text": "5.6 Sol much better in chat now and unlimited text chat for free users!",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2085433949489377280/img/4uce3Ngds5vczB6t.jpg"
-      ],
-      "summary_ko": "5.6 Sol 이제 채팅이 훨씬 더 좋아지고 무료 사용자에게는 무제한 문자 채팅이 제공됩니다!",
-      "published_at": "2026-08-06T19:56:24+00:00"
-    },
-    {
       "id": "x:GoogleDeepMind:2085395452657049735",
       "source": "x",
       "author": "GoogleDeepMind",
@@ -2025,20 +2041,6 @@
       "images": [],
       "summary_ko": "몇 주 동안 바빴어요! ICYMI의 요약은 다음과 같습니다 ⬇️ — @GoogleDeepmind의 Gemini Robotics 2는 로봇에 전신 지능을 제공합니다. — Gemini 3.5 Flash-Lite는 고속 에이전트 워크플로에 최적화된 가장 빠르고 비용 효율적인 모델입니다. — Gemini 3.6 Flash는 훨씬 적은 수의 토큰을 사용하면서 작업 전반에 걸쳐 더 빠르고 정확한 성능을 제공합니다. — Gemini 3.5 Flash Cyber는 대규모 소프트웨어 취약점을 찾아 해결하는 데 최적화된 새롭고 비용 효율적인 모델입니다. 정부와 신뢰할 수 있는 파트너에게만 제공됩니다. — @GoogleEarth의 Nano Banana 2를 사용하면 위성, 항공 및 3D 이미지를 사용하여 장소를 재구성하고 맞춤 이미지를 생성할 수 있습니다. — Lyria 3.5는 Google Deepmind의 최신 음악 모델로 이제 @googleflowmusic을 지원합니다. — @Gemini_Notebook(이전의 Notebo)",
       "published_at": "2026-07-31T16:01:11+00:00"
-    },
-    {
-      "id": "x:GoogleDeepMind:2083138039954489528",
-      "source": "x",
-      "author": "GoogleDeepMind",
-      "author_name": "Google DeepMind(딥마인드)",
-      "author_url": "https://x.com/GoogleDeepMind",
-      "url": "https://x.com/GoogleDeepMind/status/2083138039954489528",
-      "text": "RT by @GoogleDeepMind: Here’s a first look at Gemini Robotics 2 from @GoogleDeepMind on the FR3 Duo: 20 minutes of uninterrupted, real-time tool kitting. Notice the emergent recovery behaviours - generalized dexterity & precision at a whole new level. More demos dropping over the next days! Stay tuned!",
-      "images": [
-        "https://pbs.twimg.com/amplify_video_thumb/2083136730035597312/img/uvD4FqbiHxNnv2kH.jpg"
-      ],
-      "summary_ko": "@GoogleDeepMind의 RT: FR3 Duo에서 @GoogleDeepMind가 제공한 Gemini Robotics 2의 첫 번째 모습입니다. 20분 동안 중단 없이 실시간 툴킷팅이 가능합니다. 긴급 회복 동작에 주목하세요. 완전히 새로운 수준의 일반화된 손재주와 정확성입니다. 앞으로 더 많은 데모가 공개될 예정입니다! 계속 지켜봐 주시기 바랍니다!",
-      "published_at": "2026-07-31T10:29:46+00:00"
     },
     {
       "id": "x:AnthropicAI:2082965101083320543",
