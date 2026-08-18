@@ -1,33 +1,4 @@
 {
-  "telegram:bornlupin": [
-    "tg:bornlupin/19744",
-    "tg:bornlupin/19743",
-    "tg:bornlupin/19742",
-    "tg:bornlupin/19741",
-    "tg:bornlupin/19740",
-    "tg:bornlupin/19739",
-    "tg:bornlupin/19738",
-    "tg:bornlupin/19737",
-    "tg:bornlupin/19736",
-    "tg:bornlupin/19735",
-    "tg:bornlupin/19733",
-    "tg:bornlupin/19732",
-    "tg:bornlupin/19731"
-  ],
-  "telegram:aetherjapanresearch": [
-    "tg:aetherjapanresearch/24601",
-    "tg:aetherjapanresearch/24600",
-    "tg:aetherjapanresearch/24599",
-    "tg:aetherjapanresearch/24598",
-    "tg:aetherjapanresearch/24597",
-    "tg:aetherjapanresearch/24596",
-    "tg:aetherjapanresearch/24595",
-    "tg:aetherjapanresearch/24594",
-    "tg:aetherjapanresearch/24593",
-    "tg:aetherjapanresearch/24592",
-    "tg:aetherjapanresearch/24591",
-    "tg:aetherjapanresearch/24590"
-  ],
   "telegram:HI_GS": [
     "tg:HI_GS/6921",
     "tg:HI_GS/6920",
@@ -40,8 +11,37 @@
     "tg:HI_GS/6911",
     "tg:HI_GS/6910",
     "tg:HI_GS/6909",
-    "tg:HI_GS/6908",
-    "tg:HI_GS/6907"
+    "tg:HI_GS/6908"
+  ],
+  "telegram:bornlupin": [
+    "tg:bornlupin/19744",
+    "tg:bornlupin/19743",
+    "tg:bornlupin/19742",
+    "tg:bornlupin/19741",
+    "tg:bornlupin/19740",
+    "tg:bornlupin/19739",
+    "tg:bornlupin/19738",
+    "tg:bornlupin/19737",
+    "tg:bornlupin/19736",
+    "tg:bornlupin/19735",
+    "tg:bornlupin/19733",
+    "tg:bornlupin/19732"
+  ],
+  "telegram:aetherjapanresearch": [
+    "tg:aetherjapanresearch/24603",
+    "tg:aetherjapanresearch/24602",
+    "tg:aetherjapanresearch/24601",
+    "tg:aetherjapanresearch/24600",
+    "tg:aetherjapanresearch/24599",
+    "tg:aetherjapanresearch/24598",
+    "tg:aetherjapanresearch/24597",
+    "tg:aetherjapanresearch/24596",
+    "tg:aetherjapanresearch/24595",
+    "tg:aetherjapanresearch/24594",
+    "tg:aetherjapanresearch/24593",
+    "tg:aetherjapanresearch/24592",
+    "tg:aetherjapanresearch/24591",
+    "tg:aetherjapanresearch/24590"
   ],
   "telegram:enc210406": [
     "tg:enc210406/4339",
@@ -97,7 +97,8 @@
     "x:OpenAI:2087912623883051300",
     "x:OpenAI:2087248033906094175",
     "x:OpenAI:2087231350134980830",
-    "x:OpenAI:2087231351502385266"
+    "x:OpenAI:2087231351502385266",
+    "x:OpenAI:2086864365379010729"
   ],
   "x:ylecun": [
     "x:ylecun:2089227290769080656",
@@ -226,6 +227,6 @@
     "x:karpathy:2061110056293106118"
   ],
   "_meta": {
-    "last_x_fetch": "2026-08-18T02:55:08+00:00"
+    "last_x_fetch": "2026-08-18T06:41:48+00:00"
   }
 }
