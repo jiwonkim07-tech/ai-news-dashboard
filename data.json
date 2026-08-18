@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-18T04:35:00+00:00",
+  "updated_at": "2026-08-18T05:29:06+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 1
+    "new_this_run": 2
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,32 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:HI_GS/6921",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/6921",
+      "text": "[푸틴, 우크라 드론 부담됐나?…군사축제 돌연 취소]\n• 푸틴 러시아 대통령 지시로 8월 21~30일 모스크바 붉은광장에서 열릴 예정이던 제18회 '스파스카야 타워' 군사음악축제가 개막 사흘 앞두고 2027년으로 연기됨\n• 주최 측은 통제 불가능한 사유를 들었으나 최근 모스크바 등 러시아 본토를 겨냥한 우크라이나의 장거리 드론 공습 확대에 따른 보안 우려가 주요 원인으로 지목됨\n• 러시아는 지난 5월 전승절 및 7월 해상 퍼레이드 축소에 이어 29~30일 예정된 전투드론 행사 '드론니차'도 무기한 연기하는 등 주요 군사 행사를 잇따라 취소·축소함\n❗️\n장거리 드론 공습이 러시아 수도권까지 위협하면서 정유·군수시설 타격 및 공항 마비와 함께 국가 주도 대형 군사 행사마저 중단되는 상황 발생\n출처: [나우뉴스]\nURL:\nhttps://nownews.seoul.co.kr/news/newsView.php?id=20260818601004\n─────────────────────\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n🎴\n우크라이나도 상당히 선전하고 있다는 것 + 중동 전쟁도 과연 이게 끝날 수 있나? 호르무즈 해협은 영국 봉쇄?",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-18T04:58:32+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19744",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19744",
+      "text": "엔비디아의 차세대 플랫폼 '베라 루빈(Vera Rubin)'이 메모리 수요를 고대역폭 메모리(HBM4)를 넘어 낸드(NAND) 영역까지 확장하고 있습니다. 특히 CMX(Context Memory eXtension)가 핵심 동인으로 부상하면서 TLC 낸드 플래시 현물 가격이 일주일 만에 약 5% 상승\n베라 루빈 아키텍처의 계층별 메모리 구조와 역할은 다음과 같이 세분화\n​1. HBM4 (초고속 데이터 처리)\n​용량: 루빈 GPU당 288GB / 랙(Rack)당 20.7TB\n​역할: 핫 데이터 처리(Hot Data Processing)\n​주요 공급사: SK하이닉스, 삼성전자, 마이크론\n​2. LPDDR5X / SOCAMM2 (완충 메모리)\n​용량: SOCAMM 모듈당 192GB(96GB 옵션도 검토 중) / 베라 CPU당 1.5TB / 랙당 54TB\n​역할: 웜 캐시 버퍼(Warm Cache Buffer)\n​주요 공급사: 삼성전자, SK하이닉스, 마이크론\n​3. NAND / eSSD (대용량 문맥 저장소)\n​용량: CMX당 576개 eSSD 탑재 / 총 스토리지 용량 9.6PB\n​역할: 거대언어모델(LLM) 구동을 위한 KV 캐시 용량 확장(KV Cache Capacity Expansion)\n​주요 공급사: 삼성전자, SK하이닉스, 마이크론, 키옥시아(Kioxia)",
+      "images": [
+        "https://cdn5.telesco.pe/file/oPuvfC-_9b2gIf04E7XsE9S1fzSlAthkUvd7T28wFkuEIQK1R-d0-59dNmd08fdDAsOWcXt1v9KznzuXDL4_-Rlf2xrr8km4plYTRO8CbhP9aF46CCwhgZYIaTl2lzX8VTqpFs3YgNlJSml5JaJc9v8lrLUxcRb-LL-B9dCpnAw_1TIeSehwEOwDSVDZLhLiT1l7qSixgZBU2ysXuxB_D1BzMSyBWMeCZB2R_2y2sypbiHuu5V3JR_era3tL5OUSSghDv5sS3PP84msJpDC9cptT9NI1hx3dcWiWtYbsXscWKoJgr-b2UnmMZBevtCvZ6FcwJHZIjQByWZDvWslPmg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-18T04:47:52+00:00"
+    },
     {
       "id": "tg:bornlupin/19743",
       "source": "telegram",
@@ -625,20 +651,6 @@
       "published_at": "2026-08-17T04:09:55+00:00"
     },
     {
-      "id": "tg:bornlupin/19731",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19731",
-      "text": "일론 머스크 (Elon Musk)\n​\"\n토큰 수요가 엄청나게 빠른 속도로 증가하고 있습니다.\"",
-      "images": [
-        "https://cdn5.telesco.pe/file/Ip7-l8kBdcosADME2Ghi7X6CKhHUMLNS4bHHlABYwN9FcHGkrM4MgXn-tM4xC-NioWeKsgaTUEaubi-AXlYptZn6L8l0ggcEvgYp39HQE0NcCWyFwY89TvUrUWkp_FmR4nahpu-Z5dmeSNaAzBJi64a1-3ixlvFuX2O4tzJRmIjYEj6qDCEyfKxbvL9f7oX0c15X-zTHC57raYXNkgq9JrwjwNb2oqUssccdmkzz3TEDRqXfbJaeyUWvxX2M9DD-vQ7kxnWeOOmemIC61fedQzVoL1uwRUN-oEBIVGKUsAbZz0TP9DWV6yuvOQa01aCm49d3nwvsFlwi5ms2Nun1LQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-17T03:24:31+00:00"
-    },
-    {
       "id": "tg:HI_GS/6912",
       "source": "telegram",
       "author": "HI_GS",
@@ -1091,18 +1103,6 @@
       "published_at": "2026-08-14T15:06:53+00:00"
     },
     {
-      "id": "tg:HI_GS/6907",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/6907",
-      "text": "[한화, 거제서 美군함 건조 가능 … HD현대, 美조선소 인수 속도낼듯]\n• 트럼프 행정부, 미국 해군 함정 건조에 외국 조선소 활용 허용하는 각서 발표\n• 한화오션, 거제 사업장에서 미 해군 함정 수주 및 건조 직접 수행 가능성 열림\n• HD현대, 미국 내 현지 조선소 인수 추진을 통한 현지 생산 거점 확보 속도 전망\n• 미 조선업의 공급망 부족 해소를 위해 동맹국 건조 역량을 적극 활용하는 가교 전략 본격화\n❗️\n트럼프 행정부의 각서 발표로 국내 조선사들의 미 해군 함정 사업 참여 길이 열리며 현지 투자 및 수주 전략 변화 예상\n출처: [매일경제]\nURL:\nhttps://www.mk.co.kr/news/business/12128234\n─────────────────────\n🎴\n현대가 뭘 살지/투자할지가 초미의 관심…\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-14T10:20:52+00:00"
-    },
-    {
       "id": "tg:enc210406/4334",
       "source": "telegram",
       "author": "enc210406",
@@ -1199,7 +1199,7 @@
       "url": "https://t.me/enc210406/4324",
       "text": "[STX엔진 2Q26 확정 실적 공시]\n컨센서스 대비\n@ 매출액: 12.3% 하회\n@ 영업이익: 12.1% 하회\n당사 추정치 대비\n@ 매출액(2,397억원): 11.1% 하회\n@ 영업이익(257억원): 부합(3.1% 하회)",
       "images": [
-        "https://cdn5.telesco.pe/file/MEEKURIekCWA1rQfgZAgtE61bfvneU9-_KRcJfhDdGvsDtIBQF9oFp1FhfVYX5wZNIVc2Y-6TGCZK6rIpZ8SJ9gOV_zkJLYwVH-laZ0r3ekleFPx33W5lwWcuWyNeaI6ttwq9zA4Fcm6qW6Kby7XfBubj3FrNMH2N261AmFSzZxDe_Xg4b5dX28Z5JTdEad2Hevc5ZUSsgvCqfjWaWjNWXNcgpy5fCn0lbJNAnu4EU9AZaBcUc9rb7c7mL-tXWDA1v1M3t4VHw0DforL-UUvSFHDIVsGaqJnlX4d2x3d2zAO_O5R41iAMIaLPTzcpI-BmYC6ckeuLQAJ6R2osD-prA.jpg"
+        "https://cdn5.telesco.pe/file/Y_LQJfNWvw88e7TC1O9ifqjiV1kxlWNohUGvYYmwHddCMrJaYTBBaBO61Q9Q8-4nOe4F50BOT2nU4LexpDmRKYtvxdgIRKLX_4aOzLOBYK3xT9EV03DwvGNyBT85xIAULEKvSTRkMGP89Z41lQolSQ2uTXsOuzmqIPOV2krIuNnT4Iigi4fvHrUh39eA6OnGadwIMfwv0ehwIDB9P6KZJlCq64nrO2zKdc6KXDpM1Uu4_tO2Hc9SdN1nps_Mm31Y3wwdu0h1HqhM6PSomRHAgyap4BlIKewc_hXRbHQHlztTWvNGOVgM33D_iwE-ESO8oB84iMGx826b_ou7PXO40Q.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-14T06:15:15+00:00"
