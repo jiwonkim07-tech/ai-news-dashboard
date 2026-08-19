@@ -1,4 +1,33 @@
 {
+  "telegram:aetherjapanresearch": [
+    "tg:aetherjapanresearch/24624",
+    "tg:aetherjapanresearch/24621",
+    "tg:aetherjapanresearch/24620",
+    "tg:aetherjapanresearch/24619",
+    "tg:aetherjapanresearch/24618",
+    "tg:aetherjapanresearch/24617",
+    "tg:aetherjapanresearch/24616",
+    "tg:aetherjapanresearch/24615",
+    "tg:aetherjapanresearch/24614",
+    "tg:aetherjapanresearch/24612",
+    "tg:aetherjapanresearch/24611",
+    "tg:aetherjapanresearch/24610",
+    "tg:aetherjapanresearch/24609"
+  ],
+  "telegram:bornlupin": [
+    "tg:bornlupin/19749",
+    "tg:bornlupin/19747",
+    "tg:bornlupin/19746",
+    "tg:bornlupin/19745",
+    "tg:bornlupin/19744",
+    "tg:bornlupin/19743",
+    "tg:bornlupin/19742",
+    "tg:bornlupin/19741",
+    "tg:bornlupin/19740",
+    "tg:bornlupin/19739",
+    "tg:bornlupin/19738",
+    "tg:bornlupin/19737"
+  ],
   "telegram:globaletfi": [
     "tg:globaletfi/21152",
     "tg:globaletfi/21151",
@@ -11,26 +40,7 @@
     "tg:globaletfi/21143",
     "tg:globaletfi/21141",
     "tg:globaletfi/21140",
-    "tg:globaletfi/21139",
-    "tg:globaletfi/21138",
-    "tg:globaletfi/21137"
-  ],
-  "telegram:aetherjapanresearch": [
-    "tg:aetherjapanresearch/24621",
-    "tg:aetherjapanresearch/24620",
-    "tg:aetherjapanresearch/24619",
-    "tg:aetherjapanresearch/24618",
-    "tg:aetherjapanresearch/24617",
-    "tg:aetherjapanresearch/24616",
-    "tg:aetherjapanresearch/24615",
-    "tg:aetherjapanresearch/24614",
-    "tg:aetherjapanresearch/24612",
-    "tg:aetherjapanresearch/24611",
-    "tg:aetherjapanresearch/24610",
-    "tg:aetherjapanresearch/24609",
-    "tg:aetherjapanresearch/24608",
-    "tg:aetherjapanresearch/24607",
-    "tg:aetherjapanresearch/24605"
+    "tg:globaletfi/21139"
   ],
   "telegram:HI_GS": [
     "tg:HI_GS/6928",
@@ -44,9 +54,7 @@
     "tg:HI_GS/6920",
     "tg:HI_GS/6919",
     "tg:HI_GS/6918",
-    "tg:HI_GS/6915",
-    "tg:HI_GS/6914",
-    "tg:HI_GS/6913"
+    "tg:HI_GS/6915"
   ],
   "x:AnthropicAI": [
     "x:AnthropicAI:2089842395722678689",
@@ -102,7 +110,8 @@
     "x:OpenAI:2087947721936359705",
     "x:OpenAI:2087912625581719835",
     "x:OpenAI:2087912623883051300",
-    "x:OpenAI:2087248033906094175"
+    "x:OpenAI:2087248033906094175",
+    "x:OpenAI:2087231350134980830"
   ],
   "x:GoogleDeepMind": [
     "x:GoogleDeepMind:2089717134129565763",
@@ -117,22 +126,6 @@
     "x:GoogleDeepMind:2085395452657049735",
     "x:GoogleDeepMind:2085395450656428306",
     "x:GoogleDeepMind:2085395442347524506"
-  ],
-  "telegram:bornlupin": [
-    "tg:bornlupin/19749",
-    "tg:bornlupin/19747",
-    "tg:bornlupin/19746",
-    "tg:bornlupin/19745",
-    "tg:bornlupin/19744",
-    "tg:bornlupin/19743",
-    "tg:bornlupin/19742",
-    "tg:bornlupin/19741",
-    "tg:bornlupin/19740",
-    "tg:bornlupin/19739",
-    "tg:bornlupin/19738",
-    "tg:bornlupin/19737",
-    "tg:bornlupin/19736",
-    "tg:bornlupin/19735"
   ],
   "x:GoogleAI": [
     "x:GoogleAI:2089437060310434098",
@@ -149,6 +142,14 @@
     "x:GoogleAI:2079617029473182132"
   ],
   "x:ylecun": [
+    "x:ylecun:2089803408114856078",
+    "x:ylecun:2089779449998774673",
+    "x:ylecun:2089764902512501099",
+    "x:ylecun:2089752502908473532",
+    "x:ylecun:2089700300567298378",
+    "x:ylecun:2089683265426702818",
+    "x:ylecun:2089537890191888674",
+    "x:ylecun:2089504680603009025",
     "x:ylecun:2089227290769080656",
     "x:ylecun:2089089308406042791",
     "x:ylecun:2089081475580694853",
@@ -163,6 +164,7 @@
     "x:ylecun:2088281209822388536"
   ],
   "rss:semianalysis": [
+    "rss:semianalysis:cerebrass-next-generation-cs-4-fast",
     "rss:semianalysis:12b-of-us-ratepayers-money-wasted",
     "rss:semianalysis:ultra-high-interactivity-on-nvidia",
     "rss:semianalysis:spacex-10gw-in-2027-why-its-real",
@@ -233,6 +235,6 @@
     "x:karpathy:2061110056293106118"
   ],
   "_meta": {
-    "last_x_fetch": "2026-08-18T23:21:30+00:00"
+    "last_x_fetch": "2026-08-19T02:57:03+00:00"
   }
 }
