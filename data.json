@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-20T01:12:21+00:00",
+  "updated_at": "2026-08-20T02:56:22+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 16
+    "new_this_run": 4
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,58 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/24671",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24671",
+      "text": "JP모건) 홍하이정밀(폭스콘); J.P. 모건 아시아 테크 투어의 주요 시사점\n1. AI 수요는 여전히 견조하며, 네 가지 AI 고객 유형 중 CSP가 여전히 가장 큰 비중을 차지하고 네오클라우드로의 침투가 진행 중입니다: 경영진은 AI 서버 수요를 AI 개발자, CSP/네오클라우드, 정부, 기업 고객이라는 네 가지 고객 유형으로 구성된다고 설명했습니다. 홍하이의 AI 사업은 현재 CSP에 집중되어 있으며, 동사는 2026년 말까지 네오클라우드에 침투할 것으로 예상하고 있습니다. 정부(소버린 AI)는 정부들이 통제 가능한 데이터셋과 현지 서버 용량을 원하기 때문에 보다 긴 준비 기간이 필요하며, 기업 고객과의 협업은 이제 막 시작 단계로, 두 영역 모두 아직 초기 단계이나 시간이 지나면서 성장할 것으로 예상됩니다. 전반적으로 홍하이는 협상력이 더 우위에 있다는 점을 감안할 때 네오클라우드의 매출총이익률이 CSP 및 기업 고객 대비 높을 것으로 예상합니다. 고객과의 논의에서 경영진은 AI 수요가 여전히 견조하며 홍하이가 향후 몇 년간 더 많은 생산능력을 구축해야 한다고 언급했는데, 이는 (2026년 30% 증가에 이어) 설비투자가 계속 높은 수준을 유지할 것임을 시사합니다. 전반적으로 당사는 AI 서버가 향후 몇 분기 동안 주된 성장 동력이 될 것으로 판단하며, 홍하이의 AI 서버 매출은 2026년/27년에 각각 전년 대비 130% 이상/70% 이상 성장할 것으로 예상합니다.\n2. ASIC이 AI GPU를 상회하는 성장세를 보이며, 2026년 말까지 AI 서버 매출의 약 20%에 도달할 전망입니다: 경영진은 ASIC이 GPU를 상회하는 성장을 보일 것으로 예상하며, GPU와 ASIC 간 AI 매출 비중이 작년 말 90:10에서 2026년 말까지 약 80:20으로 이동할 것으로 봅니다. 홍하이는 또한 강력한 GPU 랙 조립 역량, 높은 자동화 수준(경영진에 따르면 과거 몇 시간이 소요되던 컴퓨트 트레이 조립이 현재 약 100% 자동화로 단 몇 분 만에 완료), 제조를 고려한 설계(DFM), 그리고 최대 ASIC 고객(당사가 보기에는 구글)에서의 점유율 상승을 활용해 장기적으로 최소 40%의 ASIC 시장점유율을 목표로 하고 있습니다. 전반적으로 당사는 홍하이의 주요 ASIC 프로그램에 TPU v8용 구글 CPU 트레이 및 랙 조립과 AWS 트레이니엄 3 랙 조립으로의 진입이 포함되며, 2026년 말까지 TPU v8 프로젝트의 TPU 트레이에서 점진적인 점유율 확대가 이루어질 것으로 예상합니다.\n3. 베라 루빈은 3Q26 양산 일정대로 진행 중입니다: 경영진은 최근 일정 변경 없이 3Q26부터 베라 루빈 양산이 이루어질 것임을 확인했으며, 홍하이의 점유율이 2026년 말까지 약 50%로 상승할 것으로 보고 있습니다. 전체 AI 랙 출하량과 관련해 경영진은 업계 전반의 랙 단위 AI 서버 출하량이 2026년 7만~7만 5천 대라는 최근 시장 전망치에 근접할 수 있다고 언급했는데, 이는 2026년 AI 랙 출하 전망에 상승 여력이 있음을 시사하며, 4Q26 블랙웰에서 루빈으로의 제품 전환에도 불구하고 연중 내내 전분기 대비 AI 랙 출하 성장을 예상하고 있습니다. 당사 또한 VR200이 3Q26 말에서 4Q26에 양산에 진입하고 올해 업계 전반의 VR 랙 출하량이 최대 1만 대에 이를 것으로 예상하며, 높은 ASP(VR200 랙 ASP는 GB300 대비 약 2배)와 엔비디아 내 점유율 확대(구글, 그리고 잠재적으로 스페이스X와 같은 신규 고객)를 감안할 때 홍하이가 베라 루빈 플랫폼의 램프업에서 수혜를 볼 것으로 판단합니다.\n4. CPO 스위치는 예상을 상회하는 ASP 상승을 보이고 있으며, ASIC에서의 CPO 기회도 주목할 또 다른 핵심입니다: 경영진은 CPO 스위치 제품의 상당한 ASP 상승, 즉 스위치당 10만~15만 달러 수준일 것으로 보이는 점을 감안할 때 CPO의 가치가 기존 예상을 상회한다고 언급했습니다. 홍하이는 또한 올해 약 1만 대의 CPO 스위치를 예상하며 내년에는 물량이 수 배 성장할 것으로 보고 있어 동사의 지배적인 시장 지위를 부각하고 있습니다. 경영진은 ASIC 측면의 CPO 기회를 주목할 또 다른 핵심 동력으로 보고 있습니다. 당사는 네트워킹 및 광학 매출이 2027년/28년에 각각 440%/74% 성장하고, AI 랙 조립 대비 의미 있게 높은 마진(JP모건 추정: CPO 스위치는 20% 이상, NVL72는 한 자릿수 중반)을 시현할 것으로 예상합니다.\n5. 영업이익 성장에 자신감을 보이며 3% 영업이익률 목표를 유지하고, 컨사인먼트 비중은 점진적으로 상승할 전망입니다: 경영진은 약 3%의 영업이익률 목표를 재확인했으며 일부 매출총이익률 희석 우려에도 불구하고 영업이익이 계속 성장할 것으로 예상합니다. 홍하이는 보다 강력한 ASIC 성장(대부분의 ASIC 고객이 컨사인먼트 모델을 채택)과 일부 GPU 프로젝트의 컨사인먼트 모델 채택(당사는 대부분의 NVL72 랙이 여전히 매입·매출 모델을 사용하는 것으로 판단)에 따라 컨사인먼트 사업 모델 비중이 점진적으로 상승할 것으로 예상하며, HGX도 컨사인먼트로 전환되고 있습니다. GPU 랙에서 매입·매출 모델의 비중이 여전히 높고 이것이 홍하이의 재무상태표에 계속 의존한다는 점을 감안해, 경영진은 차입을 통해 운전자본을 조달할 계획이며 지분 희석은 명확히 원하지 않는다고 밝혔습니다. 홍하이는 또한 GPU와 메모리를 제외한 부품의 약 50%를 공급할 수 있는 능력을 갖춘 수직계열화를 핵심 강점으로 강조했는데, 이는 원자재 가격 상승에도 불구하고 매출총이익률을 뒷받침하는 데 도움이 될 것입니다. 당사는 수직계열화(액체냉각, 커넥터, 미드플레인 PCB, L12 조립)가 원자재 비용 상승에 따른 매출총이익률 희석을 완충해줄 것으로 판단하며, 홍하이의 영업이익률이 향후 몇 분기 동안 3.3~3.4%로 유지될 것으로 예상합니다.\n6. 2026년 스마트폰 매출의 견조한 성장을 예상하며, 메모리 공급의 영향은 제한적이고 폴더블 아이폰의 지연도 없습니다: 경영진은 스마트 컨슈머 일렉트로닉스 부문 매출이 2026년에 상당폭(전년 대비 4~14%) 성장할 것으로 예상합니다. 매출 가이던스에는 이미 메모리 공급의 영향이 반영되어 있으나, 홍하이는 최대 고객사(당사가 보기에는 애플)로부터 큰 영향을 받지 않고 있으며 압력은 주로 엔트리급 CE 제품군에 집중되어 있습니다. 홍하이는 주력 고객사의 폴더블 폰에 어떠한 지연도 없다고 보고 있으며 8월 출하를 위한 재고 축적을 시작했습니다. 홍하이는 일반적으로 약 60%의 아이폰 EMS 시장점유율을 보유하고 있는데, 주요 NPI 및 생산 파트너로서의 지위를 감안할 때 램프업 국면에서 이 비중이 더 높아질 수 있습니다.\n7.주식에 대한 견해: 당사는 지속적인 견조한 AI 서버 수요와 함께 베라 루빈 랙(구글, 잠재적으로는 스페이스X 등 신규 고객)에서의 점유율 확대 및 구글 TPU v8 프로젝트를 감안해 동사에 대해 비중확대 의견을 유지합니다. 추가적인 TAM은 광 네트워킹에서 나올 것으로 보이며, 이는 영업이익률에 기여하는 기회로 홍하이가 초기에 강력한 시장점유율을 확보한 영역입니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-20T02:20:58+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19771",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19771",
+      "text": "[단독]삼성전자, 사상 최대 주주환원 100조 시대 공식화..\"내년에 더\"\n삼성전자가 이달말 이사회를 열고 국내 기업으로서는 사상 최대 규모인 100조원대 주주환원 정책을 확정해 발표한다. 반도체 초호황기를 맞아 매분기 실적 신기록을 세우고 있는 상황에서 회사의 주인인 주주와 성과를 나눈다는 원칙을 분명히 하는 취지다.\n20일 관련업계에 따르면 삼성전자는 8월 중으로 이사회를 소집하고 특별현금배당 등 주요 주주환원 방안을 의결할 예정\n이다. 환원 규모는 100조원을 넘을 것으로 전해졌다. 전날 40조원의 자사주 소각을 발표한 SK하이닉스에 이어 또 한번 역대 최대 수준의 주주환원 정책이다.\n일단 재원은 FCF(잉여현금흐름)의 50%가 활용된다.\n증권가 일각에서는 최대 200조원의 주주환원까지 거론됐지만 갈수록 확대될 시설투자 금액 등을 고려하면 이는 비현실적이라는게 중론이다. 삼성전자는 상반기에만 연구개발(R&D)과 시설투자에 55조원이 넘는 돈을 썼는데 비용처리와 감가상각으로만 반영되는 영업이익과 달리 FCF에서는 장비구입 비용 등이 고스란히 차감되기 때문이다.\n업계 관계자는 \"증권가 추측과 별개로 100조원대의 주주환원을 공식화한다는 건 주주가치 제고에 분수령이 되는 사건\"이라며 \"\n내년에는 실적이 더 좋아질 것으로 예상되는 만큼 'FCF의 50%'에 해당하는 주주환원의 절대 금액도 훨씬 더 많아질 것\n\"이라고 밝혔다.\n구체적인 방안은 현금배당 중심이 될 전망이다. SK하이닉스의 경우 SK스퀘어가 공정거래법상 일정 지분을 확보해야하기 때문에 지분율을 높일 수 있는 주식소각을 상대적으로 선호하는 반면 삼성전자는 배당 방식이 지배구조 관리에 더 도움이 된다. '금융산업의 구조개선에 관한 법률(금산법)' 규제에 따라 주식소각으로 삼성생명과 삼성화재의 삼성전자 보유 지분이 높아지면 그만큼 부담이 되는 탓이다.\n삼성전자는 이번 발표 이후에도 현금흐름 등 실적 변동을 살펴 추가적인 주주환원을 지속적으로 검토한다는 계획이다.\n삼성전자 소액주주가 800만명(6월말 기준 797만1242명)에 달할 정도로 국민 회사가 됐는데 주가는 여전히 실적을 제대로 반영하지 못해 저평가되고 있다는 판단도 깔렸다.\n앞서 삼성전자는 지난달 말 실적발표에서 \"\n현재 이사회와 경영진은 올해 특별배당을 포함한 주주환원 정책의 구체적인 실행 방안을 적극적으로 논의하고 있다\n\"며 \"\n주주가치 제고 효과를 극대화하고 미래 성장 목적의 재투자와 주주환원 사이에서 최적의 균형점을 확보할 수 있는 방안을 마련해 조만간 주주들에게 공유하겠다\n\"고 예고한 바 있다.\nhttps://v.daum.net/v/20260820105952813",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-20T02:08:55+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19770",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19770",
+      "text": "마이크론 CEO 산제이 메흐로트라(Sanjay Mehrotra)\nCNBC 단독 인터뷰 진행 예정\n20일 목요일 미국 동부시간 오후 6시\n(한국 시간: 21일 오전 7시)",
+      "images": [
+        "https://cdn5.telesco.pe/file/tDjv_POC-sk3HbGDRrBrQoukyC_kaeP_EEf6OIeZmslU3tKTfSM7nmTSOHitDsEKYMBtNZ2eXdEBEC0y7No-LrxWWLKlfxSril22BiqGgSLhlxZpS_gPSvLxRx6Jkr0rBrD_PCiQDIbFZ1ElI5TfgSfQ3flctV5pOkt7-ERWnqQQxmmppX-tvCl0DzClSHg4uL7NOaDZdFoQB880RrASJnsRkkR5dcyTB_RRriYBigLfYU8hounPnvaUbejC-LTqHJbvWA4RvbleaEx5NDgcANRWGq_ektHLH9iU8HZjVYFBkxgUbKG4TJyjXTupjAVNJR2hLtk4diR-zFCUfgB1Uw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-20T02:04:48+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19769",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19769",
+      "text": "—-\n하닉 자사주 40조 감이 잘 없으신거 같은데...\n상반기 외국인이 코스피 전체 매도 금액이 149조입니다.\n기관 상반기 매수 35조\n개인 상반기 매수 100조\n하닉 자사주는 3개월 동안 40조 매수\n근데 전자도 한방 남음",
+      "images": [
+        "https://cdn5.telesco.pe/file/g_y_cRI8OvYZ5p1Yz6BdNVr2SZEbITdCOzBQjZ2fbz2PFb4cF8SsRBAddyfEMl34goTYDCJ5Fz2q2NOZYH6TsgV-0SK68_xVbcpaq0PQ0vLSk1UHUX9ULBr62x-Bekzuu8--9ymepJFp9cbxJJyievn0Wwxn7pNCAUi318ZbYsoUojVT2HgOEHcKOSEkYOBdgEMn2TFwS40F9DHvyPoG0ZpzWlI9T28jAqH_WAZXWoVSAUeMN8utyYeEl3MWFSTp7OXYecegGrEeU9f4N7esJIhlU3c_D7EFFQl4sx8DnSIJ3MZUGSvPPX38J1FBzIb54IdowEDPOrelQPwU57QYjw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-20T01:55:37+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24670",
       "source": "telegram",
@@ -501,18 +553,6 @@
       "published_at": "2026-08-19T13:41:05+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24656",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24656",
-      "text": "Citi) Moderna(MRNA) 중립(Neutral) / 고위험(High Risk) 인티스메란, 보조요법 흑색종에서 성공했으나 효능의 크기는 여전히 불명확. TP $60(유지)\n씨티의 견해\nINTerpath-001은 사전에 규정된 중간분석 시점에서 1차 평가변수인 RFS와 주요 2차 평가변수인 DMFS를 충족했으며, 이는 머크와 제휴한 인티스메란에 긍정적인 인상을 제공하고 규제 당국과의 논의를 뒷받침합니다. 실제로 저희는 MRNA와 MRK 주가가 긍정적으로 반응할 것으로 예상합니다. 그러나 RFS 위험비(hazard ratio), 절대적 격차, 이벤트 건수, 병기별 결과, 내부 중간분석 경계값이 공개되지 않아 보조요법 흑색종에서 효익의 크기, 지속성, 상업적 관련성을 평가하기 어렵습니다(자세한 내용은 저희 프리뷰 여기 참조). 이는 종양 시퀀싱, 제조 리드타임, 반복 투여, 펨브롤리주맙과의 병용 조율이 필요한 개별화 치료제에 있어 중요한 부분입니다. 새로운 안전성 신호 없이 DMFS를 충족한 점은 고무적이지만, 모더나 종양학 플랫폼의 검증은 전체 데이터셋(마드리드 ESMO, 10/23~10/27 발표 가능성)과 효능이 여러 종양 유형에 걸쳐 재현된다는 근거에 달려 있습니다. 현재로서 이번 결과 발표는 임상 3상 리스크를 낮추었을 뿐, 차별화, 상업적 채택, 플랫폼 차원의 확장 해석에 대한 의문을 해소하지는 못했습니다. 중립/고위험 및 목표주가 60달러를 유지합니다.\n1) 통계적 유의성은 긍정적이나 효과 크기는 여전히 불명확 — INTerpath-001은 사전에 규정된 중간분석에서 RFS를 충족했고 DMFS에서도 통계적 유의성을 달성해 잠재적 규제 신청을 뒷받침합니다. 그러나 RFS 또는 DMFS 위험비는 공개되지 않았으며, 신뢰구간, 절대 생존 추정치, 이벤트 건수, 내부 중간분석 효능 경계값 역시 공개되지 않았습니다. 이러한 세부 정보 없이는 데이터가 명확한 성공이었는지, 아니면 완만한 점추정치로 통계적 경계를 넘어선 것인지 판단하기에는 시기상조라고 봅니다.\n2) DMFS는 신뢰도를 더하고 안전성은 일관된 것으로 보임 — RFS와 함께 DMFS를 달성한 것은 효익이 국소 또는 국부 재발을 넘어 확장된다는 근거를 제공하며, 1차 평가변수만 단독으로 나온 결과일 위험을 낮춥니다. 안전성은 기존 연구들과 일관되었고 새로운 신호는 확인되지 않았습니다. 시험은 OS 평가를 계속 진행하겠지만, 보조요법 흑색종에서 RFS 기반 승인의 기존 선례를 감안하면 성숙한 생존 데이터가 초기 규제 논의에 반드시 필요하지는 않을 가능성이 높습니다.\n3) 상업적 잠재력은 절대적 효익과 병기 간 일관성에 좌우 — INTerpath-001은 임상 2상 KEYNOTE-942보다 넓은 병기 IIB-IV 환자군을 등록했으며, 여기에는 기저 재발 위험이 더 낮은 환자들도 포함되었습니다. 따라서 최종 데이터셋은 의미 있는 절대적 격차와 질환 병기 전반에 걸친 일관된 효익을 보여주어야 합니다. 개별화 제조, 치료 리드타임, 반복 투여, 물류 조율이 기성품 치료제보다 높은 상업적 문턱을 만들기 때문에 이러한 세부 사항이 특히 중요합니다.\n광범위한 종양학 검증은 아직 시기상조 — 이번 결과는 개별화 신생항원 치료제이자 mRNA 기반 암 치료제로서는 최초의 긍정적인 임상 3상 중간분석으로, 중요한 기술적 성취입니다. 그러나 흑색종은 면역원성이 높은 종양이며 면역관문억제제에 대한 감수성이 확립되어 있어, 이 결과를 폐암, 방광암, 신장암 및 기타 암종으로 직접 외삽하는 데는 한계가 있습니다. 보다 광범위한 플랫폼 검증에는 추가 종양 유형에서의 유사한 효능과 개별화 제조가 안정적으로 확장될 수 있다는 근거가 필요합니다.\n4) 전체 데이터 발표가 다음 분수령 — 상세한 RFS 및 DMFS 위험비, 절대 랜드마크 비율, 신뢰구간, 병기별 분석, 이벤트 발생 시점, 치료 수령률, 제조 소요 기간, 안전성이 이번 결과의 임상적·상업적 질을 결정할 것입니다. 그 전까지 오늘의 발표는 시험의 성공을 확인해 줄 뿐, 효능이 통계적 문턱을 얼마나 상회했는지 또는 인티스메란과 광범위한 종양학 플랫폼에 어느 정도의 가치를 부여해야 하는지를 규명하지는 못합니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-19T13:27:55+00:00"
-    },
-    {
       "id": "tg:globaletfi/21171",
       "source": "telegram",
       "author": "globaletfi",
@@ -683,42 +723,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-19T10:03:42+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19759",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19759",
-      "text": "Stifel, 엔비디아(\n$NVDA\n), 투자의견 매수, 목표주가: $282\n\"당사는 8월 26일 예정된 2027 회계연도 2분기(F2Q27) 실적 발표에서\n시장 예상치 상회 및 가이던스 상향(beat and raise) 추세가 지속될 것으로 전망합니다.\n이번 실적 시즌은 수요 강세를 일관되게 뒷받침했습니다. 클라우드 서비스 제공업체(CSP)의 설비투자(CAPEX)가 유의미하게 상향되었고, 폭스콘의 클라우드 및 네트워킹 부문 매출 비중이 사상 처음으로 50%를 돌파했으며, 연간 AI 랙 출하량 가이던스는 2배 이상으로 제시되었습니다.\n또한 슈퍼마이크로는 단일 분기에만 600억 달러 이상의 신규 수주를 달성했습니다.\n주목할 점은 공급망 점검 결과,\n베라 루빈(Vera Rubin)의 양산이 본격화되는 시점에도 GB300 수요가 2027년 상반기까지 견고하게 유지될 것으로 확인되었다는 점입니다.\n이는 신구 제품 간 전환기 동안 발생할 수 있는 일시적 수요 공백(air pocket) 위험을 낮춰줄 것으로 판단합니다.\n그 외 주요 쟁점인 메모리 비용 증가와 추론(inference) 시장 경쟁은 수요 자체보다는 매출총이익률(Gross Margin)에 영향을 줄 가능성이 더 높으며, 이는 이미 밸류에이션 멀티플에 일정 부분 반영되어 있다고 봅니다.\"",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-19T09:44:59+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19758",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19758",
-      "text": "[메리츠증권 반도체/디스플레이 김선우]\nSK하이닉스 (000660) 주주환원 계획: 3원칙 모두 기대 이상\n[40조원 자사주 매입·소각 + 배당 발표 계획 + FCF의 50% 이상]\n- SK하이닉스는 8월 19일 장 마감 후 공시를 통해 주주환원 계획을 발표\n- 이는 지난 7일 발표했던, ‘3분기 내 발표’ 계획 대비 다소 이른 시점에 발표된 것으로, 시장에서는 발표일자를 서프라이즈로 받아들일 가능성이 높음\n- 아울러 즉각적인 주주환원 목표 역시 ‘사업 경쟁력과 현금 창출력이 현 주가에 충분히 반영되지 않았다는 판단’에 40조원의 자사주를 3개월 내에 매입·소각 실시하겠다고 언급\n- 아울러 거기에서 그치지 않고, 3분기 실적설명회 (10월말)을 통해 기본배당과 특별배당 정책을 새롭게 발표하겠다 언급하며 기대감을 강화\n- 동사의 주주환원 계획 발표는 ‘타이밍·인식·기대감’이라는 주주환원의 주요 원칙 측면에서 상당히 긍정적으로 평가\n- 이는 1) 시장이 예상하지 못한 시점에, 2) 사측의 저평가 탈출을 위한 실효적 방안을 제시했고, 3) 추가적인 후속책을 제시함으로써 선반영의 산물인 주가에 효과적인 방안으로 도출됐기 때문\n- 7월부터 이어진 주가 조정 기간 내 실적발표회에서 주가부양안이 등장하지 않았던 투자자들의 실망이 이어졌지만, 동사는 제시된 3개월 매입기간 이내에 자사주 매입을 압축적으로 완료하며 주가 부양을 견인할 것으로 예상\n- 특히 내년에는 감액배당 정책마저 도입하며 주주들의 배당소득세 관련 혜택을 추진하는 것 역시 인상적\n- 아울러 주주환원 정책 규모를 기존의 ‘FCF (잉여현금흐름)의 50% 이내’에서 ‘FCF의 50% 이상’으로 상향조정한 것 역시 긍정적\n- 당사는 2027년 동사의 FCF를 250조원~300조원으로 예상하고 있으며, 이 경우 무려 125~150조원의 주주환원이 도출 가능\n- 현 시가총액 기준 10% 이상의 주주환원수익률이 도출될 수 있는 규모로서, 자사주 매입·소각으로 진행될 경우 파격적 수준의 주가 상승을 견인할 수 있을 것으로 추정\n- 한편 동사는 현재 40%가량 괴리를 보이고 있는 본주와 ADR의 격차 해소에도 총력을 다할 것으로 예상\n- 현재 미국 시장에 상장돼 있는 ADR는 본주 대비 적은 변동성과 주가 프리미엄을 보유하고 있는 상태로, 동사는 본주와 ADR의 교환가능성 (Fungibility)를 개선시키려는 노력을 지속하겠다 밝힘\n- 제도적 개선 및 ADR 발행량 증가 등을 통해 본주의 주가 상승 뿐 아닌 질적 향상의 리레이팅을 이끌어낼 수 있을 것으로 예상\n이 외에 Q&A는 아래 링크 참조 부탁드립니다\nhttps://vo.la/2EOE2tv\n(링크)\n* 동 자료는 Compliance 규정을 준수하여 사전 공표된 자료이며, 고객의 증권 투자 결과에 대한 법적 책임소재의 증빙자료로 사용될 수 없습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-19T09:35:21+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19757",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19757",
-      "text": "삼성전자가 AI 반도체 수요 급증과 생산 여력 부족에 따라 4나노(SF4) 등 첨단 파운드리 가격을 신규 주문 기준 최대 15% 인상\n공정별 가격 인상 내용\n* 4나노(SF4):\n중국 및 미국 고객사 대상 10%~15% 인상 (대만 고객사는 5%~10% 인상)\n*\n5나노(SF5)\n: 웨이퍼 기준 10%~15% 인상\n*\n8나노\n: 레거시 공정 약 10% 인상\n주요 원인 및 배경\n* TSMC 생산 능력 포화\n: 시장 점유율 70% 이상을 차지하는 TSMC의 첨단 공정 용량이 포화되자 고객사들이 삼성전자로 분산되며 가격 협상력이 강화되었습니다.\n*\n중국 수요 급증:\n미국의 첨단 반도체 장비 수출 규제로 인해 중국 팹리스 기업들의 해외 파운드리 의존도가 심화되었습니다.\n*\n생산 라인 풀가동:\n평택 공장의 SF4 라인은 퀄컴 물량과 자체 차세대 HBM(고대역폭 메모리)용 베이스 다이 생산으로 작년 말부터 완전 가동 상태를 유지하고 있습니다.\n사업 전망 및 고객사 동향\n* 흑자 전환 기대:\n2022년 이후 적자를 이어오던 파운드리 사업부가 단가 인상과 수율 개선, 가동률 상승에 힘입어 이르면 내년 흑자로 돌아설 것으로 전망됩니다.\n*\nAI·첨단 공정 비중 확대:\n올해 파운드리 전체 매출 중 첨단 공정 비중이 절반을 넘고, AI 및 고성능 컴퓨팅(HPC) 비중이 30% 이상(2025년 말 15~20%)으로 확대될 예정입니다.\n*\n주요 고객사 확보: 테슬라, 애플, 브로드컴과의 계약 및 엔비디아의 신규 AI 추론 칩 수주에 이어 현재 구글과도 4나노 칩 생산을 협의 중입니다.\nhttps://www.reuters.com/business/autos-transportation/samsung-hikes-chipmaking-prices-by-up-15-demand-spike-sources-say-2026-08-19/",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-19T09:05:55+00:00"
     },
     {
       "id": "tg:enc210406/4343",
@@ -1057,7 +1061,7 @@
       "url": "https://x.com/GoogleDeepMind/status/2089717134129565763",
       "text": "RT by @GoogleDeepMind: Matrix multiplication is the basic computational operation that powers modern computing (including AI). Yet, the theoretical fastest speed at which computers can multiply matrices (omega ω) is still unknown and has been a longstanding challenge for complexity theory and computer science. Today, we announce a new record for omega (ω<2.371177). This is the result of a great team effort between @GoogleDeepMind, our academic collaborators, and our Gemini-powered coding agent AlphaEvolve! 🧮 https://arxiv.org/abs/2608.16884v1",
       "images": [
-        "https://pbs.twimg.com/card_img/2089543466275516416/Pqz29dYN?format=jpg&name=420x420_2"
+        "https://pbs.twimg.com/card_img/2089543466275516416/1Ff6h_Wm?format=jpg&name=420x420_2"
       ],
       "summary_ko": "@GoogleDeepMind의 RT: 행렬 곱셈은 AI를 포함한 현대 컴퓨팅을 지원하는 기본 계산 연산입니다. 그러나 컴퓨터가 행렬을 곱할 수 있는 이론적으로 가장 빠른 속도(오메가 Ω)는 아직 알려지지 않았으며 복잡성 이론과 컴퓨터 과학에서 오랫동안 도전해 왔습니다. 오늘 오메가(Ω<2.371177) 신기록을 발표합니다. 이는 학술 협력자인 @GoogleDeepMind와 Gemini 기반 코딩 에이전트 AlphaEvolve 간의 훌륭한 팀 노력의 결과입니다! 🧮 https://arxiv.org/abs/2608.16884v1",
       "published_at": "2026-08-18T14:12:44+00:00"
@@ -1448,7 +1452,9 @@
       "author_url": "https://x.com/OpenAI",
       "url": "https://x.com/OpenAI/status/2087996497908609389",
       "text": "R to @OpenAI: Computer History builds on the Chronicle research preview with reduced token usage and more privacy controls. A new timeline view gives you the ability to look back on your work and build skills from your frequent tasks. From there or the menu bar, you can: - Clear all or parts of your history - Include or exclude apps and websites - Pause and resume Computer History https://learn.chatgpt.com/docs/customization/computer-history",
-      "images": [],
+      "images": [
+        "https://pbs.twimg.com/card_img/2088322136733630464/houHXRyM?format=jpg&name=800x419"
+      ],
       "summary_ko": "R에서 @OpenAI로: 컴퓨터 기록은 토큰 사용량을 줄이고 더 많은 개인 정보 보호 제어 기능을 갖춘 Chronicle 연구 미리보기를 기반으로 구축되었습니다. 새로운 타임라인 보기를 통해 작업을 되돌아보고 자주 수행하는 작업을 통해 기술을 쌓을 수 있습니다. 여기 또는 메뉴 표시줄에서 다음을 수행할 수 있습니다. - 기록 전체 또는 일부 지우기 - 앱 및 웹사이트 포함 또는 제외 - 컴퓨터 기록 일시 중지 및 재개 https://learn.chatgpt.com/docs/customization/computer-history",
       "published_at": "2026-08-13T20:15:32+00:00"
     },
@@ -1667,9 +1673,7 @@
       "author_url": "https://x.com/GoogleAI",
       "url": "https://x.com/GoogleAI/status/2087279319202570453",
       "text": "R to @GoogleAI: You can also check @NASA’s map for your local eclipse timing and exact path details. https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/",
-      "images": [
-        "https://pbs.twimg.com/card_img/2090139618616410112/T021G6q6?format=jpg&name=800x419"
-      ],
+      "images": [],
       "summary_ko": "R에서 @GoogleAI로: @NASA의 지도에서 지역 일식 시기와 정확한 경로 세부정보를 확인할 수도 있습니다. https://science.nasa.gov/eclipses/future-eclipses/total-solar-eclipse-on-august-12-2026/",
       "published_at": "2026-08-11T20:45:44+00:00"
     },
@@ -2388,7 +2392,7 @@
       "url": "https://x.com/karpathy/status/2074973674332123157",
       "text": "RT by @karpathy: Rewriting Bun in Rust https://bun.com/blog/bun-in-rust",
       "images": [
-        "https://pbs.twimg.com/card_img/2087693945048608768/ZZZXQjF3?format=jpg&name=800x419"
+        "https://pbs.twimg.com/card_img/2090230688926797824/YhwEXJCD?format=png&name=800x419"
       ],
       "summary_ko": "@karpathy의 RT: Rust에서 Bun 다시 작성 https://bun.com/blog/bun-in-rust",
       "published_at": "2026-07-08T21:47:29+00:00"

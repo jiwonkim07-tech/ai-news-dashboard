@@ -1,35 +1,6 @@
 {
-  "telegram:globaletfi": [
-    "tg:globaletfi/21174",
-    "tg:globaletfi/21173",
-    "tg:globaletfi/21172",
-    "tg:globaletfi/21171",
-    "tg:globaletfi/21170",
-    "tg:globaletfi/21169",
-    "tg:globaletfi/21168",
-    "tg:globaletfi/21167",
-    "tg:globaletfi/21166",
-    "tg:globaletfi/21165",
-    "tg:globaletfi/21164",
-    "tg:globaletfi/21163"
-  ],
-  "telegram:HI_GS": [
-    "tg:HI_GS/6941",
-    "tg:HI_GS/6940",
-    "tg:HI_GS/6937",
-    "tg:HI_GS/6933",
-    "tg:HI_GS/6932",
-    "tg:HI_GS/6931",
-    "tg:HI_GS/6930",
-    "tg:HI_GS/6929",
-    "tg:HI_GS/6928",
-    "tg:HI_GS/6927",
-    "tg:HI_GS/6926",
-    "tg:HI_GS/6925",
-    "tg:HI_GS/6924",
-    "tg:HI_GS/6923"
-  ],
   "telegram:aetherjapanresearch": [
+    "tg:aetherjapanresearch/24671",
     "tg:aetherjapanresearch/24670",
     "tg:aetherjapanresearch/24669",
     "tg:aetherjapanresearch/24668",
@@ -41,12 +12,24 @@
     "tg:aetherjapanresearch/24660",
     "tg:aetherjapanresearch/24658",
     "tg:aetherjapanresearch/24657",
-    "tg:aetherjapanresearch/24656",
-    "tg:aetherjapanresearch/24655",
-    "tg:aetherjapanresearch/24654",
-    "tg:aetherjapanresearch/24651",
-    "tg:aetherjapanresearch/24652",
-    "tg:aetherjapanresearch/24653"
+    "tg:aetherjapanresearch/24656"
+  ],
+  "telegram:bornlupin": [
+    "tg:bornlupin/19771",
+    "tg:bornlupin/19770",
+    "tg:bornlupin/19769",
+    "tg:bornlupin/19768",
+    "tg:bornlupin/19767",
+    "tg:bornlupin/19766",
+    "tg:bornlupin/19765",
+    "tg:bornlupin/19764",
+    "tg:bornlupin/19763",
+    "tg:bornlupin/19762",
+    "tg:bornlupin/19761",
+    "tg:bornlupin/19760",
+    "tg:bornlupin/19759",
+    "tg:bornlupin/19758",
+    "tg:bornlupin/19757"
   ],
   "telegram:enc210406": [
     "tg:enc210406/4346",
@@ -60,9 +43,35 @@
     "tg:enc210406/4338",
     "tg:enc210406/4337",
     "tg:enc210406/4336",
-    "tg:enc210406/4335",
-    "tg:enc210406/4334",
-    "tg:enc210406/4333"
+    "tg:enc210406/4335"
+  ],
+  "telegram:HI_GS": [
+    "tg:HI_GS/6941",
+    "tg:HI_GS/6940",
+    "tg:HI_GS/6937",
+    "tg:HI_GS/6933",
+    "tg:HI_GS/6932",
+    "tg:HI_GS/6931",
+    "tg:HI_GS/6930",
+    "tg:HI_GS/6929",
+    "tg:HI_GS/6928",
+    "tg:HI_GS/6927",
+    "tg:HI_GS/6926",
+    "tg:HI_GS/6925"
+  ],
+  "telegram:globaletfi": [
+    "tg:globaletfi/21174",
+    "tg:globaletfi/21173",
+    "tg:globaletfi/21172",
+    "tg:globaletfi/21171",
+    "tg:globaletfi/21170",
+    "tg:globaletfi/21169",
+    "tg:globaletfi/21168",
+    "tg:globaletfi/21167",
+    "tg:globaletfi/21166",
+    "tg:globaletfi/21165",
+    "tg:globaletfi/21164",
+    "tg:globaletfi/21163"
   ],
   "x:OpenAI": [
     "x:OpenAI:2090165328290701800",
@@ -105,27 +114,6 @@
     "x:ylecun:2089876520848515525",
     "x:ylecun:2089830669102796976",
     "x:ylecun:2089803408114856078"
-  ],
-  "telegram:bornlupin": [
-    "tg:bornlupin/19768",
-    "tg:bornlupin/19767",
-    "tg:bornlupin/19766",
-    "tg:bornlupin/19765",
-    "tg:bornlupin/19764",
-    "tg:bornlupin/19763",
-    "tg:bornlupin/19762",
-    "tg:bornlupin/19761",
-    "tg:bornlupin/19760",
-    "tg:bornlupin/19759",
-    "tg:bornlupin/19758",
-    "tg:bornlupin/19757",
-    "tg:bornlupin/19756",
-    "tg:bornlupin/19755",
-    "tg:bornlupin/19754",
-    "tg:bornlupin/19753",
-    "tg:bornlupin/19752",
-    "tg:bornlupin/19751",
-    "tg:bornlupin/19750"
   ],
   "rss:semianalysis": [
     "rss:semianalysis:cerebrass-next-generation-cs-4-fast",
@@ -240,6 +228,6 @@
     "x:karpathy:2061110056293106118"
   ],
   "_meta": {
-    "last_x_fetch": "2026-08-19T22:24:23+00:00"
+    "last_x_fetch": "2026-08-20T02:56:22+00:00"
   }
 }
