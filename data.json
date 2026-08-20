@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-20T04:36:54+00:00",
+  "updated_at": "2026-08-20T05:30:27+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 3
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,42 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/24676",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24676",
+      "text": "JP모건) 마벨(MRVL); 구글 파트너십, FY33까지 1,200억 달러 규모의 TPU 어태치(attach) 기회를 시사; ASIC TAM 논지를 입증하고 시장 컨센서스 추정치 대비 상향 여력을 뒷받침; OW 유지\n오늘 오전 마벨 테크놀로지(Marvell Technology Inc., MRVL)는 구글의 TPU 생태계를 지원하는 광범위한 커스텀 칩/ASIC 포트폴리오를 개발하기 위해 구글과의 장기 파트너십을 확대한다고 발표했습니다(TPU 수주가 아니라 TPU를 지원하는 칩입니다). 여기에는 AI 추론 오프로드 엔진(SRAM 기반, LPU 유사 아키텍처), 실리콘, 스토리지 컨트롤러, NIC/SmartNIC/DPU 유형 컨트롤러, 그리고 CXL 기반 메모리 인터페이스 컨트롤러가 포함됩니다. 초기 시장 반응을 보면, MRVL이 8-K에서 사용한 표현, 특히 \"AI 추론 가속기(AI inference accelerators)\"라는 언급을 둘러싸고 일부 혼선이 있었던 것으로 추정됩니다. 다만 저희는 이번 발표를 핵심 TPU 가속기 수주로 해석하지 않는다는 점을 분명히 하는 것이 중요하다고 봅니다. 강조된 커스텀 실리콘 프로그램들은 XPU 어태치/TPU 인접 제품(예: 핵심 TPU 칩 옆에 위치하는 칩들)으로 보이며, MRVL 역시 이를 \"TPU 생태계에 어태치되는 프로그램\"이라고 표현했습니다. 그럼에도 불구하고 저희 계산에 따르면, 이번 거래 구조는 FY33까지 MRVL에 연평균 약 192억 달러의 잠재적 구글 ASIC 어태치 매출을 시사합니다(240개 트랜치 × 5억 달러 = 6.25년간 1,200억 달러 매출). 이는 동사 AI ASIC 사업이 기존 애널리스트 데이에서 제시한 CY28 총 AI ASIC 매출 약 110억 달러 목표를 크게 상회하게 됨을 의미합니다(여기 참조). 저희는 이 계약에 따른 매출의 대부분이 현재 시장 기대치에 추가되는 증분(incremental)이라고 판단하며, 이번 거래를 모델에 반영한 결과 CY28 기준 주당 약 11.00달러의 이익 창출력(현재 시장 컨센서스 9.52달러를 크게 상회) 경로를 확인할 수 있었습니다. 이번 계약이 구글의 공식적인 구매 확약을 의미하는 것은 아니지만, 저희는 이것이 MRVL이 가진 기회의 잠재적 규모를 보여주며, 실제 구매가 본격화될 경우 긍정적인 상향 조정을 뒷받침할 수 있다고 봅니다. 또한 저희는 오늘 발표가 구글이 커스텀 실리콘 개발을 핵심 TPU 칩을 넘어 네트워킹, 스토리지, 메모리 인터페이스, 니어 메모리 컴퓨트 등 다수의 파트너가 참여할 수 있는 인접 영역으로 확장하고 있음을 반영한다고 생각합니다. 종합적으로 저희는 오늘의 발표를 MRVL에 명백한 긍정 요인이자, 확대되고 있는 커스텀 ASIC TAM에 대한 보다 광범위한 입증으로 보고 있습니다. 이번 거래는 MRVL의 다년간에 걸친 데이터센터 성장 스토리에 또 하나의 축을 더하고, 현재 FY27/FY28 시장 컨센서스 매출 추정치 대비 상향 여력에 대한 보다 명확한 경로를 만들어 주며, MRVL이 하이퍼스케일 AI 인프라 고객들에게 점점 더 중요한 머천트 실리콘 파트너가 되고 있다는 저희 견해를 강화합니다. OW를 유지합니다.\n저희는 이번에 발표된 프로그램들을 핵심 TPU 수주가 아니라 XPU 어태치/TPU 인접 기회로 봅니다… MRVL의 8-K가 \"AI 추론 가속기\"를 언급하고 있으나, 저희는 이번 발표를 핵심 TPU 수주로 해석하지 않습니다. 오히려 강조된 커스텀 실리콘 프로그램들은 구글의 TPU에 인접해 이를 지원하는 칩들, 즉 스토리지 컨트롤러, NIC/SmartNIC/DPU 유형 컨트롤러, 메모리 인터페이스 컨트롤러, 니어 메모리 컴퓨트, 기타 AI 인프라 실리콘에 초점이 맞춰져 있다고 판단합니다. 저희 견해로는 이 구분이 중요한데, 이번 거래가 기존 핵심 TPU 실리콘 파트너를 대체하는 것이 아니라 TPU 플랫폼을 둘러싼 구글의 커스텀 실리콘 개발 확대를 반영하는 것으로 보이기 때문입니다.\n워런트 구조가 대규모 매출 기회를 시사합니다… 이번 계약의 일환으로 MRVL은 구글에 최대 약 5,900만 주의 MRVL 주식을 매입할 수 있는 워런트를 부여했으며, 이 중 약 136만 주는 첫 1년간 균등하게 베스팅됩니다. 나머지 약 5,760만 주는 MRVL의 F3Q27부터 FY33까지 구글의 MRVL 커스텀 제품 구매 실적에 따라 베스팅되며, 관련 커스텀 제품 매출 5억 달러당 240개 균등 트랜치 중 1개가 베스팅됩니다. 저희 계산에 따르면 전량 베스팅은 누적 약 1,200억 달러의 커스텀 제품 매출, 즉 약 6.25년에 걸쳐 연평균 약 192억 달러를 의미합니다.\n이번 파트너십은 MRVL에 대한 현재 시장 컨센서스 추정치 대비 유의미한 상향 여력을 시사합니다… 워런트 전량 베스팅이 함의하는 연 약 192억 달러라는 수치는 FY27과 FY28에 대한 현재 시장 컨센서스 매출 추정치 약 115억 달러 및 약 168억 달러를 크게 상회합니다. 저희가 워런트 프레임워크 전체를 확정된 매출로 간주하는 것은 아니지만, 해당 기회의 상당 부분이 현재 시장 기대치에 대한 증분이 될 수 있다고 봅니다. 이번 거래를 모델에 반영한 결과, 현재 시장 컨센서스 EPS 9.52달러 대비 CY28 기준 약 11.00달러의 이익 창출력 경로가 확인되며, 이는 구글 프로그램이 본격화될 경우 유의미한 상향 여력을 시사합니다.\n보다 광범위한 커스텀 ASIC 생태계에 대한 시사점도 긍정적이라는 것이 저희 판단입니다… 이번 발표는 하이퍼스케일러들이 핵심 TPU/XPU 컴퓨트를 넘어 네트워킹, 스토리지, 메모리 인터페이스, 니어 메모리 컴퓨트 등 인접 영역으로 커스텀 실리콘 노력을 확대하고 있음을 반영합니다. 종합하면, 저희는 이번 거래를 MRVL에 명백한 긍정 요인이자 확대되는 커스텀 ASIC TAM에 대한 보다 광범위한 입증으로 봅니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-20T05:05:11+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24675",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24675",
+      "text": "SK하이닉스, 성과급 40% 자사주로 지급\nhttps://www.news1.kr/industry/general-industry/6264345",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-20T05:04:32+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21176",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21176",
+      "text": "대만 TSMC, 1.6나노칩 개발 성공…올해 4분기 양산\n- 대만 언론 보도…\"데이터 병목현상 없애 전력효율·성능 극대화\"\n해당 소식통은 TSMC가 업계 최고의 웨이퍼 후면전력공급(BSPDN) 기술인 슈퍼 파워 레일(SPR)을 채택한 옹스트롬(Å·100억분의 1ｍ)급 A16(1.6나노)을 성공적으로 개발하고 검증을 완료했다면서 이같이 밝혔다.\n그는 TSMC가 SPR을 통해 전력 공급망을 기존의 웨이퍼 전면이 아닌 후면으로 분리 배치해, VB(Vertical Backside Contacts)를 통해 전력을 각각의 트랜지스터의 소스 및 드레인 영역에 직접 공급한다고 설명했다.\n이어 이를 통해 데이터가 오가는 신호 배선과 전력 배선 간의 병목현상 등을 없애 전력 효율과 성능의 극대화에 나섰다고 덧붙였다.\nhttps://n.news.naver.com/article/001/0016261071?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-20T04:53:53+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24673",
       "source": "telegram",
@@ -464,22 +500,6 @@
       "published_at": "2026-08-19T16:15:14+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24662",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24662",
-      "text": "골드만삭스 글로벌 인스티튜트 | 두 번째 우주 시대: 시장·기술·패권이 재편하는 최후의 개척지 (2026.8)\n이 리포트는 우주가 탐사의 영역을 넘어 산업경제의 새로운 축으로 자리 잡고 있으며, 자본시장·산업 역량·국가 전략이 충돌하는 경제적 경쟁의 무대가 되고 있다고 진단합니다. 발사 비용 하락과 민간 투자 확대가 우주 접근성을 재편하는 가운데, 발사 능력·제조 역량·궤도 인프라·우주 기반 데이터를 통제하는 기업과 국가가 가치 창출의 구조를 결정하게 될 것이라는 것이 핵심 논지입니다.\n1차 우주 경쟁은 정부가 주도했습니다. 미국 정부는 아폴로 프로그램에 260억 달러(현재 가치 약 3,180억 달러)를 투입했고, 약 40만 명과 2만 개 기업이 참여했습니다. 특히 NASA와 공군의 집적회로 대량 발주가 TI와 페어차일드에 규모의 경제를 제공하면서 마이크로칩 단가가 1961년 32달러에서 1971년 1.25달러로 급락, 미국 반도체 산업의 토대가 됐습니다. 위성통신, GPS 등 PNT, 지구관측 서비스 모두 군사 R&D에서 출발해 상업화된 사례입니다.\n현대 우주경제는 재사용 로켓, 스몰샛(SmallSat) 혁명, LEO(저궤도) 활용 확대라는 세 가지 혁신으로 재편됐습니다. 1981년 우주왕복선 기준 kg당 65,400달러였던 LEO 발사 비용은 팰컨 헤비 기준 1,500달러까지 떨어졌습니다. 발사 서비스는 여전히 업스트림의 초크포인트로서 산업 전체의 비용 구조를 규정합니다. 스타링크는 출시 4년 만에 고객 1,000만 명을 넘어 2025년 매출 110억 달러 이상을 기록했고 현재 약 1만 기의 위성을 운용 중이며, 아마존은 Amazon Leo 구축과 함께 DTC 주파수 권리를 포함한 글로벌스타 인수를 발표했습니다. 브로드밴드는 단말기 비용으로 전환비용이 높아 선점자에게 유리한 반면, DTC는 기존 통신사 제휴로 하드웨어 없이 고객 기반을 확보할 수 있어 경쟁이 더 치열해질 수 있다고 분석합니다. 장기적으로 LEO는 광섬유·5G의 대체재가 아니라 연결성을 '상시화'하는 새로운 커넥티비티 레이어가 될 것으로 전망합니다.\n차세대 성장 영역으로는 우주 내 서비스·조립·제조(ISAM), 미세중력 바이오제조, 달 경제와 함께 궤도 컴퓨팅(우주 데이터센터)을 특히 역동적인 분야로 꼽았습니다. 태양동기궤도의 태양광으로 사실상 무제한 전력을 확보할 수 있으나, 진공 환경에서의 GPU 방열, 업링크·다운링크 대역폭 제약, 궤도상 수리 불가, 방사선 경화 문제가 과제로 남아 있습니다. 한편 위성 급증에 따른 궤도 혼잡과 우주 쓰레기, ITU의 선착순 슬롯 배분에 따른 선점자 우위, 규제 공백이 리스크로 지적됩니다.\n자금조달 모델도 진화하고 있습니다. NASA 예산은 연방지출의 4.5%에서 0.5% 미만으로 축소됐지만, 고정가격 계약 전환과 팰컨 9의 등장(LEO 발사 비용 약 90% 절감)이 상업 우주 시대를 열었습니다. 2035년 글로벌 우주경제는 1.8조 달러로 전망되며, 2025년 우주 생태계 투자액은 550억 달러 이상, 2026년 1분기에는 사상 최대인 360억 달러를 기록했습니다. 2025년 이후 항공우주 기업들의 IPO 조달액은 890억 달러에 달하는데, 파이어플라이 약 9.99억 달러, 요크 스페이스 시스템즈 약 6.29억 달러, 호크아이 360 약 4.78억 달러에 이어 스페이스X가 사상 최대 규모인 860억 달러 이상을 조달했습니다. 향후 우주 산업화에는 벤처 자금을 넘어서는 대규모 자본이 필요해, 자본 접근성 자체가 경쟁우위가 될 것이라고 강조합니다.\n지정학적으로는 '아스트로폴리틱스'의 부상을 다룹니다. 우크라이나에서 스타링크가 통신을 보장한 사례, 러시아가 이란에 위성 이미지를 공유한 사례처럼 궤도 인프라가 군사력의 기본 아키텍처가 됐습니다. 미 국방부의 우주 예산은 FY2026 577억 달러에 이르고 FY2027 예산안은 710억 달러를 요구했으며, 골든돔 미사일 방어 프로젝트는 2028년까지 1,750억 달러가 소요될 전망입니다. ESA는 향후 3년간 투자를 31% 확대할 계획이고, 중국의 우주 투자도 2015년 3.4억 달러에서 2024년 29억 달러로 급증했습니다. 아르테미스 II 성공 이후 2025년 12월 행정명령으로 2028년 유인 달 착륙(아르테미스 IV), 2030년 영구 달 전초기지 구축이 명시되면서, 차기 우주 경쟁은 미·중 구도로 전개될 것으로 봅니다. 중국은 달 뒷면 착륙·샘플 귀환 등 미국이 달성하지 못한 이정표를 확보했고, 2010년 이후 해외 고객용 위성의 70% 이상을 개도국에 공급하며 우주를 경제적 국가책략의 수단으로 활용하고 있습니다. 다만 미국은 민간 사업자에 발사 역량이 집중된 반면 중국은 상업 부문이 국가 전략의 연장선으로 기능해, 민간 이해와 국가 전략의 정렬이 미국의 구조적 과제로 지적됩니다.\n거버넌스 측면에서는 냉전기에 체결된 5개 우주 조약이 궤도 혼잡, 데브리 제거, 달 자원 채굴, 우주 내 제조 같은 새로운 활동을 규율하지 못하는 공백을 짚습니다. 미국 주도의 아르테미스 협정에 61개국이 서명했으나 러시아와 중국은 불참했으며, 미국은 세제 인센티브와 발사·재진입 인허가 간소화로 국내 규제 정비를 추진 중입니다.\n결론적으로 리포트는 궤도 산업화 시대에 우주 인프라와 지상 인프라의 구분이 점차 소멸할 것이며, 오늘날 모든 기업이 스스로를 인터넷 기업으로 여기듯 앞으로는 우주 스택을 필수 인프라로 인식하게 될 것이라고 전망합니다. 이를 조기에 인식하고 포지셔닝하는 조직과 국가가 이후 경제의 형태를 규정하게 될 것이라는 메시지로 마무리됩니다.\n*클로드로 요약함.",
-      "images": [
-        "https://cdn5.telesco.pe/file/saswTh2EAPdtucBS2A_obph2kC4ubWJIzWpnLTsR_C306Pvv1WGMk9ze0Rt3Qyawr_jjexI5vUS_ZHSg1lrv-Ep4FKNQWlGbhTdjSGaqlehkzNMm1NRNIo50yJGkljgto6wJ4gV-M7kCEgJdlSRD5guMtvJJ5e084fNG92YdmkxujAcRJKHCbSg-5l5CXrJ1E3mayO-4cS_5W5OqP5YtyAtzIYpJLy5yBMh6EIvgTZWcy8twukWuASQBe-lJ0ldnkrEFxsBBo6PDcFQouwmWCaWlRqLZZ2T21abuGQ5VZdcs64_hXMotmjtkmbBg2Akyt9C0TbN8Qt0sazxVxYnKFA.jpg",
-        "https://cdn5.telesco.pe/file/Z5Z7K9-UgA1jS3eo9DtpiK19zaw5UbcirO1mzvyn7eShqnvbXN0dWCKem7FOhPZ1zCYHHjEj48UKd30k0txKdOGU5Wjv-9sjD4KSC1ARBQxNP6CWlKIT_Ys3MfqApCkbO72GEWBMFBistlz_4TSAw3oAkiU5NAGPDkuZJWEXoKFcZfo2B3hkkU2pRYXnEE-d0B89X42M0HCXliZurKjx_i5qz2C1f-PNJICwUCmzd3nwEukKW_wB3tnzyNPXJHNBNOwtMYvid2SgWUxmyJS8XKRgSw_B7s9sZAknteMU4NaiObFHgcaYyQD5rIU_8HJ0JMWD7Lt7pHZtd0r7iS0Vug.jpg",
-        "https://cdn5.telesco.pe/file/GBw-5EMf4b-5UzmA2uqVgOFlo20FpEiDrGUzAOiNgj8ZB6ldK_BoDvMpbfsEIxmTCeu5dJBKdqrA3TWXGsHW_Bh7xIkXa2t3H7gapLvkvbtKuc6M_H1V7YfL_0YbqTuR8xwcLbPaIjTqnOag6KvO3W9r9WnZjJCIvMxKEaBlH4nZ2U6JESw1z34l1T_nZ6AuHOdOh9KdyBf91VUMKWyqIzgGjCZuHagXiSYUcKMshAufk2dJu7m71c2j7B_VMeTZQ0oi6LfK6o6Xq42OygQ388iQevpanoB6qbzeZYfKwvcMZMPqrSpUHFmcz8RpBj22040sLmAI2do6Z6-MlXuTEA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-19T15:13:03+00:00"
-    },
-    {
       "id": "x:ylecun:2090089738413973848",
       "source": "x",
       "author": "ylecun",
@@ -506,18 +526,6 @@
       ],
       "summary_ko": "@yleun의 RT: 작년 이맘때, 케네디 보건복지부 장관은 5억 달러 규모의 22건의 mRNA 연구 계약을 종료했습니다. 트럼프가 선물한 카타르 비행기와 가격이 같다. 오늘 머크와 모더나는 이전에 NIH가 자금을 지원한 mRNA 연구를 통해 개발된 실험적 혁신 백신 치료법이 고위험 흑색종 환자를 대상으로 한 연구에서 암의 재발이나 확산을 예방하는 징후를 보였다고 발표했습니다. 케네디와 트럼프 행정부가 나타나 미국의 건강과 리더십을 저하시키기 전에 NIH가 이에 자금을 지원한 것을 다행스럽게 생각합니다. 어느 공화당 상원의원이 케네디 장관에게 자신의 결정이 미국인들을 더욱 병들게 하고 중국이 연구, 과학, 기술 분야에서 선두를 차지하게 하고 있다고 말할 용기를 갖고 있습니까? 시간을 절약하고 답변을 드리겠습니다. n",
       "published_at": "2026-08-19T14:52:54+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24661",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24661",
-      "text": "JP모건) Moderna; I(N)T 팩터: 이제부터는 다른 적응증으로의 확장 해석이 관건\n저희는 모더나와 머크의 INT가 보조요법 흑색종에서 거둔 긍정적 톱라인 결과가 저희가 이 시험에 부여했던 85%라는 높은 성공 확률과 매우 부합한다고 봅니다. 예상대로 보도자료에 수치는 없지만, 저희는 중간분석에서의 긍정적 결과가 위험비(hazard ratio)상의 효과 크기에 우호적으로 읽힌다고 보며, 이르면 10월 ESMO에서 이를 확인할 수 있을 것으로 판단합니다(보도자료는 \"국제\" 학술대회라고 언급). 1차 평가변수인 무재발생존(RFS) 충족에 더해, 이 시험은 주요 2차 평가변수인 무원격전이생존(DMFS)도 충족했습니다. 최근 흑색종 전문의인 야나 나자르 박사와 진행한 KOL 콜에서, 그는 DMFS가 대단히 의미 있으며 진정한 가치 제안이라고 설명했습니다.\nMRNA 주식으로 돌아오면, 저희는 보조요법 흑색종에서의 인티스메란 출시가 MRNA의 흑자 전환 복귀에 핵심적이라고 봅니다. 다만 이는 파트너십 자산이고 면역항암(IO) 기준으로는 상대적으로 작은 적응증이며 이미 저희 모델에 85% POS로 반영되어 있었기 때문에, 뉴스 이전 시가총액이 약 250억 달러였던 점을 감안하면 보조요법 흑색종에서의 성공은 이미 주가에 반영되어 있다고 봅니다. 보조요법 흑색종의 리스크 조정을 해제하면 저희 밸류에이션에 약 3%를 더할 수 있지만, 포지셔닝을 감안하면 주가가 프리마켓에서 랠리를 보이는 것이 놀랍지는 않습니다. 저희는 다른 적응증으로의 확장 해석이 지금부터의 가치를 판단하는 데 결정적이며, 오히려 더 중요하다고 봅니다. 저희의 현재 밸류에이션에는 다른 적응증에 대한 리스크 조정 반영분이 주당 약 15달러 포함되어 있으며, 저희는 발표 자료의 세부 내용에서 더 많은 인사이트를 찾고자 하며, 흑색종 외 후속 시험들이 이 파트너십으로부터 모더나가 얻을 궁극적 가치를 판단하는 데 핵심적이라고 봅니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-19T14:46:56+00:00"
     },
     {
       "id": "x:OpenAI:2090076648276185555",
@@ -706,20 +714,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-19T11:49:11+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21163",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21163",
-      "text": "» KOSPI200 야간선물은 +2.8% 가량 상승 중",
-      "images": [
-        "https://cdn5.telesco.pe/file/u-gQpGjayDoVfgAFC7AGmT6z-6r-6c0mbmE3g1WXt6cbXEfw2HBf7GCtJFbzKZVN4XeINWnfu7a4GPYf1fNs3HqD2Mqus4zXMvYNZ7pU8whamcvi7h9LhlFKv6t-04EmTuU2coEZG4NgKwxwVxbNi17wGnqc6qFXYZ2w5362I63959czljSbkl_cvYs38xlhXNCqab_8ZWoJMtjkOa4YO90btENieSLr660X_PIS23nFt_g-dfdSUsLGZqmvZcCEDhcv_Iw0Tk39ouJxw-fUas65oaCuqDJ1HYXSOfz3ZKDcEEki8gR9SdrABf_XoImv_N9HYQwGzlxnZe2oqEmYMw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-19T11:33:48+00:00"
     },
     {
       "id": "tg:HI_GS/6933",
