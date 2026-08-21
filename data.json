@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-21T16:33:51+00:00",
+  "updated_at": "2026-08-21T17:32:10+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 1
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,20 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "rss:semianalysis:are-open-models-catching-up",
+      "source": "rss",
+      "author": "semianalysis",
+      "author_name": "SemiAnalysis",
+      "author_url": "https://semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/are-open-models-catching-up",
+      "text": "Are Open Models Catching Up?\n\nComparing open vs. closed models across the eras of frontier models",
+      "images": [
+        "https://substack-post-media.s3.amazonaws.com/public/images/e6140337-64a1-422d-b974-9af923ba0e9e_1200x630.png"
+      ],
+      "summary_ko": "개방형 모델이 따라잡고 있나요?\n\n프론티어 모델 시대의 개방형 모델과 폐쇄형 모델 비교",
+      "published_at": "2026-08-21T16:40:02+00:00"
+    },
     {
       "id": "tg:globaletfi/21213",
       "source": "telegram",
@@ -2380,20 +2394,6 @@
       ],
       "summary_ko": "@karpathy의 RT: Rust에서 Bun 다시 작성 https://bun.com/blog/bun-in-rust",
       "published_at": "2026-07-08T21:47:29+00:00"
-    },
-    {
-      "id": "rss:semianalysis:anthropic-3q26-profit-over-1b-the",
-      "source": "rss",
-      "author": "semianalysis",
-      "author_name": "SemiAnalysis",
-      "author_url": "https://semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/anthropic-3q26-profit-over-1b-the",
-      "text": "Anthropic 3Q26 Profit Over $1B: The Anthropic IPO Financials Sneak Peak\n\nAnthropic’s Opportunity is Theirs to Lose",
-      "images": [
-        "https://substack-post-media.s3.amazonaws.com/public/images/426a8938-e175-4dec-9198-109c0b352390_957x633.png"
-      ],
-      "summary_ko": "10억 달러 이상의 인류적 3Q26 이익: 인류적 IPO 금융 정보 엿보기\n\nAnthropic의 기회는 그들이 잃을 수 있는 것입니다",
-      "published_at": "2026-07-08T06:04:28+00:00"
     },
     {
       "id": "x:karpathy:2073047118801993910",
