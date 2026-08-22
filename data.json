@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T10:26:33+00:00",
+  "updated_at": "2026-08-22T11:20:23+00:00",
   "counts": {
     "total": 192,
     "new_this_run": 1
@@ -16,6 +16,20 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19813",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19813",
+      "text": "엔비디아 DGX Spark,  데스크톱 미니 PC 랭킹에서 1위\n(일본 최대 규모의 가전·IT 기기 가격 비교 및 랭킹 사이트 (\nKakaku.com\n)",
+      "images": [
+        "https://cdn5.telesco.pe/file/YTm3PCKAmLCAMAyhGKOOKjoAs0mUcWTGFPv4hXOKLLzNEVJQgwnEDkPLgOoE4NBSIjuUHP1qMCNZIGuA_7JYdg6sCvEJLGZEbWckOvV2mmyn-zVko3uT3K_rti3hqwCjLWIjOYhoc1Q22k-aXxw9IJH7DyBrJ7FF5_X82vz8otFRIs0S1-EYGpO4Wq3dh3z14FouNiXpXEC1FhxNlrHMDF6kiTC3QxeWHJ77XOkUyTM6DsgPdFdY55KjWFjkHiJMisICik3sekD8ksMDxh34dJEQkFmAlctwuwv_vdwSgGPoTmvbVB2ZOeCryM_oKyaoUE9G4AYy5VSCfLB5gBFTHg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-22T10:58:10+00:00"
+    },
     {
       "id": "tg:bornlupin/19812",
       "source": "telegram",
@@ -517,20 +531,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-21T06:42:35+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19801",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19801",
-      "text": "블룸버그) 조업일수를 조정한 한국의 8월 1~20일 수출은 지난 7월 약 +63%를 기록한 데 이어 전년 동기 대비 61.5% 증가세를 이어갔습니다.\n이 헤드라인 이면에는 현재 진행 중인 AI 사이클의 막강한 위력이 뚜렷하게 드러나 있습니다. 이러한 성장은 반도체가 압도적으로 견인하고 있으며,\n반도체 수출은 전년 대비 약 200% 급증해 해당 기간 한국 전체 수출의 47%에 육박하는 비중을 차지했습니다. 결과적으로 수출액 2달러 중 거의 1달러가 반도체에서 나오는 셈입니다.\n여기서 하이퍼스케일러, 데이터센터, GPU, HBM, DRAM, NAND, 컴퓨터 장비로 이어지는 전체 밸류체인을 고스란히 확인할 수 있습니다.\n한편, 이 헤드라인 수치는 균형 잡힌 시각으로 살펴볼 필요가 있습니다. 한국의 모든 품목 수출이 60%씩 성장하는 것은 아니며, 반도체를 제외하면 수출 증가율은 약 10% 수준으로 내려앉습니다. 이 역시 여전히 양호한 수준이지만, 전체 수출 지표가 테크 분야에 얼마나 편중되어 있는지를 보여줍니다. 지역별 흐름도 마찬가지입니다. 중국, 미국, 베트남, 홍콩을 향한 강력한 수출 증가는 광범위한 최종 수요의 폭발이라기보다는 아시아 전자제품 공급망의 구조를 일부 반영한 결과입니다.\n또 다른 중요한 점은 이 수치가 ‘금액 기준’ 수출이라는 사실입니다.\n이번 증가는 물량 확대뿐만 아니라 메모리 가격의 가파른 반등, 그리고 HBM을 필두로 한 훨씬 유리해진 제품 믹스(고부가가치 품목 비중 확대)가 반영된 결과입니다\n. 이는\n수요 신호의 유효성을 약화시키는 것이 아니라, 한국이 이번 사이클에서 얼마나 막대한 경제적 부가가치를 창출하고 있는지를 여실히 보여줍니다.\n반도체 수출이 여전히 +180%~+200% 안팎의 성장을 이어가는 한, AI 투자 사이클이 벌써 꺾이기 시작했다고 보기는 어렵습니다\n.\nhttps://x.com/C_Barraud/status/2090679962307076401?s=20",
-      "images": [
-        "https://cdn5.telesco.pe/file/ghKxzdzhowRGnblaXucdKDNulbzioc8MW1yjqqu6qVXWqpgoImM67CrGWnF2jiIvWxqeCm6hA7td35LIR14UwYhFbO1mHiHtnx3vVRLUct-eIh1cOwWvJS0Q87-fnw9LdrLM4Kq6oSpCI8sLQaRV8dgOQUFfcSaQbQpp2SaN_t9dwmM04DpR3E_0Dbs35yNu23vAL4l3gXWkUaK2nDKjmD5eul6ok8f1TN_vEJ70lA0gXO_PbzP31u_osixIQAhA8xBPXqX3p0HU651yXvXlzkyIOQODhny7YVbhY6buaYrrZdPqYGrfK2_rv9qPo4FqIltWJWoUxfp_TjOIH2xObw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-21T06:19:47+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/24706",
