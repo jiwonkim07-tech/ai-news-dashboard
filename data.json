@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-22T08:29:21+00:00",
+  "updated_at": "2026-08-22T09:26:09+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 1
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,20 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/24714",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24714",
+      "text": "웰스파고) 엔비디아 — 루빈 울트라 메모리 전략 심층 분석: 차세대 아키텍처가 HBM 탑재량 축소를 이끄는가?\n최근 수 주간 엔비디아가 루빈 울트라의 HBM4E 구성을 기존 루빈의 288GB(HBM4) 대비 192GB로 축소(또는 옵션 제공)하는 방안을 검토 중이라는 보도가 이어지고 있습니다. 시장은 이를 DRAM 공급 제약과 가격 인플레이션 탓으로 해석하는 경향이 있으나, 웰스파고는 보다 근본적인 아키텍처 전환의 관점에서 접근할 필요가 있다고 보며, 투자자들이 \"HBM 단독 시대 이후(post HBM-only era)\"의 초입에 와 있는 것은 아닌지 질문해야 한다고 주장합니다.\n첫 번째 아키텍처는 AMMA(HBM 프로세싱 인 메모리)입니다. 올해 4월 엔비디아-삼성 공동 연구 논문에서 소개된 기술로, HBM4부터 5nm 미만 로직 다이에서 충분한 트랜지스터 밀도를 확보해 상용화가 가능해집니다(삼성 HBM4E는 4nm, 마이크론·SK하이닉스는 HBM4E에서 TSMC 3nm로 이전한다는 보도). AMMA는 GPU 컴퓨트 다이를 HBM-PNM 큐브로 대체해 메모리 바운드 어텐션 워크로드에 약 2배의 가용 대역폭을 제공하며, 16개 큐브 구성 기준 H100 대비 어텐션 레이턴시 15.5배, 에너지 6.9배 개선을 보였습니다. 산술 강도 60 FLOPs/byte 미만 워크로드에서 루빈 대비 효율 우위가 있으며, PIM에 로직을 추가하면 DRAM 셀 면적을 잠식하기 때문에 본질적으로 저용량 구조라는 점이 HBM 축소 검토와 맞닿아 있다는 분석입니다. d-Matrix Corsair + 루빈 배포 사례처럼 LPU와의 병행 구성도 가능하다고 봅니다.\n두 번째는 파인 그레인드(fine-grained) DRAM입니다. GTC 2026에서 빌 댈리(Bill Dally) 수석과학자가 발표한 기술로, DRAM 다이를 다수의 독립 단위(grain)로 분할하고 각각에 인접 I/O를 부여해 공유 버스를 제거하는 구조입니다. 줄당 출력 토큰 효율(joule/output token)을 10배 이상 개선하고, KV 캐시 기준 레티클 다이당 대역폭이 HBM 대비 5배 이상 우수합니다. 댈리는 용량이 트레이드오프임을 직접 인정했으나, 문제를 올바르게 분할하면 HBM 수준의 용량은 불필요하다고 언급했습니다. TrendForce가 8월 4일 보도한 루빈 울트라 세대의 핵심 목표가 I/O 속도 향상이라는 점과 가장 직접적으로 연결되는 기술입니다.\n세 번째는 RDMA 기반 DRAM 풀링(엔파브리카 인수 관련)입니다. 엔비디아가 작년 9월 인수한 엔파브리카(Enfabrica)의 EMFASYS는 시스템당 최대 18TB(향후 28TB)의 CXL 연결 DDR5 DRAM을 풀링하는 시스템으로, HBM을 범용 DRAM으로 오프로드해 GPU/HBM 활용률을 극대화합니다. RDMA 읽기 접근 시간 6µs, GPUDirect Storage 대비 50~200배 레이턴시 감소가 강조되었습니다. 삼성의 CXL 풀 성능(DRAM 대비 92.3% TPS), Meta Vistara CXL 배포(서빙 처리량 4~12% 증가, 컴퓨트 용량 20~25% 절감) 등 풀링 효익 사례도 함께 제시되었습니다.\n하드웨어 외에 모델 레이어의 진화도 강조됩니다. 디퓨전 모델이 산술 강도를 높여 메모리 병목을 컴퓨트 쪽으로 이동시키는 핵심 사례로, 구글 DiffusionGemma(6월 출시)는 GPU에서 최대 4배 빠른 토큰 생성을 보였고, 엔비디아 Nemotron-Labs-Diffusion 계열도 정확도와 속도 모두에서 오픈소스 AR·디퓨전 모델을 능가하는 것으로 평가됩니다.\n추가로 업계 전반의 차세대 메모리 전환 움직임도 정리했습니다. 인텔은 소프트뱅크 Saimemory와 Z-Angle Memory(ZAM, 2027년 프로토타입 출하 목표) 및 Cross-Batch Memory(XBM)를 개발하며 메모리 시장 재진입을 검토 중이고, 립부 탄 CEO는 전 SK하이닉스 CEO 이석희 영입을 언급했습니다. 삼성은 FMS 2026에서 zHBM(HBM5 대비 성능 8배, 밀도 10배, 에너지 효율 3배, 가속기 위에 수직 적층)과 LPDDR5X-PIM을 소개했습니다. 이 외에 크레도(Credo)의 Weaver 메모리 팬아웃 기어박스(오프-서브스트레이트 LPDDR, 최대 6.4TB), SK하이닉스-샌디스크의 HBF(최대 512GB, 8월 초 구글·메타·텐스토렌트 컨소시엄 합류), CXL 기반 메모리 풀링(2027년 이후 가시화 전망)이 언급되었습니다.\n밸류에이션 측면에서 목표주가 315달러는 C2028E EPS 기준 약 19배 P/E이며, FY27 EPS 9.06달러, FY28 EPS 13.17달러(컨센서스 대비 각각 +1.0%, +2.8%)를 전망합니다. 상방 시나리오는 375달러, 하방은 180달러이고, 차기 촉매는 8월 26일 F2Q27 실적 발표입니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/vtug-1TBvXNjIAWuq9pgaTFeq39ztLuZH51drkoZSh-mjOyjesTsUu_H46pllyPTEHzsKTPzg7r87BTmUd7Bfjv9w8-2CPgXlU1JYBHZiq6v-2AJPOimrdqoxJp4Y7bjioudinMWUa6hEeLjAYWxKUeH0bqjl1-SvYlzQilaPzyZlVchH90_4T7EcytzdKUjn1hSFMpuulZEoQXINgGeKjKs1DfHw42ju_05PzIWojrQeY_2CRgZYkuzhJFIuRChhyF9ZudNrOkVzwK0j0R5XzmLGhSZ2Cm-nFWHfregCHreNvHXoS7KzxC2td5FheEHRBLngJEMo2TLblX2DKGQDg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-22T09:07:33+00:00"
+    },
     {
       "id": "tg:globaletfi/21217",
       "source": "telegram",
@@ -569,18 +583,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-21T04:54:11+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24702",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24702",
-      "text": "JP모건 APAC 코멘트\n삼성전자: 블룸버그 보도에 따르면 경영진은 금일 오후 4시(한국시간) 이사회 이후 90조~110조원 범위의 신규 주주환원 패키지를 발표할 계획입니다. Jay는 FY27에 지급되는 배당(FY26 이익 기준)을 126.8조원으로 모델링하고 있어, 보도된 범위는 당사 추정치를 하회합니다. 또한 SK하이닉스의 40조원 자사주 매입 + 소각 및 50% 이상 FCF 환원 계획에 이어, 삼성전자 투자자들은 동종업체 압박(peer pressure)을 감안할 때 60% 이상의 FCF 환원율을 기대하고 있을 수 있습니다. 추가로 현지 언론 보도에 따르면 삼성전자와 SK하이닉스는 각각 FY40까지 광주에 팹 1기를 추가 건설할 예정이며, SK하이닉스 최태원 회장은 이재명 대통령과 미국의 전공정 웨이퍼 팹 건설 압박에 대해 논의했습니다. 현재 SK하이닉스의 유일한 대미 투자 약속은 인디애나 패키징 시설로, 8월 27일 착공 예정입니다. 시장이 상장을 앞둔 YMTC의 생산능력 확장에 대한 의문을 점점 더 제기하는 가운데, 투자자들은 키옥시아에도 이에 상응하는 주주환원을 요구할 것으로 보입니다.\n어드반테스트: 경영진은 10월 28일 만료 예정이었던 1,500억엔 규모 자사주 매입 전량을 조기에 완료했습니다. 투자자들은 어드반테스트를 SPE(반도체 장비) 중 가장 깔끔한 어닝 비트로 꼽았으며, 일본 테크 전반에서 가속기(accelerator) 및 CPU가 성장 동력으로 부각되고 있다고 언급했습니다. 당사는 또한 어드반테스트의 핵심 고객 중 하나인 KYEC에 관한 투자자 문의를 다수 받았는데, 시장에서는 NVDA 테스트 시간 증가가 +30%에 그쳤다는 점과 ASE가 궁극적으로 파이널 테스트(Final Test)에서 경쟁에 나설 것이며 당면 초점은 어드밴스드 패키징(Advanced Packaging)이라는 점을 거론하고 있습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-21T04:18:02+00:00"
     },
     {
       "id": "tg:HI_GS/6945",
