@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T09:26:52+00:00",
+  "updated_at": "2026-08-23T10:23:14+00:00",
   "counts": {
     "total": 192,
     "new_this_run": 2
@@ -16,6 +16,32 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/24722",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24722",
+      "text": "JP모건) 서버: 2026 APAC OCP(Open Compute Project) 서밋 10대 핵심 시사점 (2026.8.23)\n1. 토큰 수요는 견조하나 데이터센터 인프라 딜리버리가 잠재적 병목으로 부상\n토큰 가격이 신규 투자에 우호적으로 유지되면서 컴퓨트 수요는 계속 견조합니다. 다만 AI 데이터센터가 수백 MW급에서 GW급으로 대형화·복잡화되면서 구축 기간이 기존 약 8개월에서 12-18개월 이상으로 연장되었습니다. 건설 일정이 지연될 경우 최종 수요가 건강하더라도 리드타임이 짧은 영역(섀시, 커넥터, 소켓, PSU, 서멀 부품)을 중심으로 일시적인 재고 조정 사이클이 발생할 수 있다고 경고합니다.\n2. 800VDC 램프는 2026년 말/27년 일정 유지, ±400V 대 800VDC 논쟁은 진행 중\n다수의 전력 시스템 인테그레이터들이 HVDC 파워랙의 2026/27년 램프 일정을 재확인했으며, 2027/28년 SST(솔리드 스테이트 트랜스포머) 이행 가능성도 언급됐습니다. JPM은 HVDC 파워랙이 4Q26/1Q27 램프 궤도에 있으며 VR200 서버와 일부 ASIC 모델에서 선택적으로 채택될 것으로 봅니다. 흥미로운 점은 ±400V 대비 직접 800VDC 방식에 대한 선호가 커지고 있다는 것인데, 미드포인트 접지가 복잡성을 더하고 향후 유연성을 제한할 수 있기 때문입니다. 800VDC 비중 확대는 Delta와 SiC 벤더에 긍정적입니다. SST에 대해서는 2.5MW+ IT 랙에 적합한 솔루션으로 보아 채택 시점에 보수적이며, GPU TDP 업그레이드와 Kyber 랙 구조 이행이 예상보다 느린 만큼 SST 변곡점도 2029년 이후로 밀릴 수 있다고 판단합니다.\n3. 수직 전력 전달(VPD)이 패시브 콘텐츠 업그레이드의 또 다른 라운드를 견인\n두 곳의 ASIC 벤더가 전력 경로 단축과 손실 저감을 위해 수평(lateral)에서 수직 전력 전달(VPD)로 이행한 것으로 파악됩니다. VPM 설계는 더 작고 고밀도이며 저임피던스의 전력 부품을 요구하므로, 고용량 0201/0402 MLCC와 고Isat 몰디드 인덕터 등 하이엔드 패시브에 긍정적이며 임베디드/백사이드 커패시터 채택 가능성도 있습니다. 무라타, 삼성전기 등 하이엔드 MLCC 벤더와 Delta, Flex 같은 VPM 벤더의 수혜가 예상됩니다.\n4. HVDC 이행으로 테스트 장벽과 범위 확대, 토탈 솔루션 벤더에 유리\n54V 파워쉘프에서 HVDC 파워랙과 100kW-MW급 시스템으로 전환되면서 훨씬 높은 전압·전력의 소스 장비가 필요해졌습니다. 특히 AI 워크로드의 부하 급변으로 동적 응답 테스트 요구가 높아져, 급격한 부하 변동 시 전압 언더슈트/오버슈트를 포착하고 PSU·CBU·BBU·DC 버스 간 상호작용을 검증해야 합니다. 이는 Chroma 같은 전력 테스트 벤더의 물량 성장과 와트당 ASP/콘텐츠 상승을 동시에 견인합니다. 별도로, 단품이 아닌 폭넓은 제품 스펙트럼을 제공할 수 있는 전력 시스템 인테그레이터의 기회도 확대되고 있습니다.\n5. NPO는 현재 풀 양산, 온다이 CPO는 본격 배치까지 시간 필요\n이번 OCP 네트워킹 논의는 CPO 기술·생태계 개발에 집중됐습니다. 지난 1년간 AI 데이터센터용 CPO 개발이 빠르게 진전됐는데, 올해 OFC에서 OCI MSA, Open CPX MSA 등 업계 표준화 협약이 결성됐고 오픈 NOS SoNIC 커뮤니티도 소프트웨어 업데이트로 CPO 지원에 나섰습니다. 엔비디아, 브로드컴, AMD, 하이퍼스케일러 ASIC 등 주요 벤더별로 다양한 구성의 CPO 프로젝트가 등장하고 있습니다. OE와 ASIC 패키징 간 신호 경로 길이에 따라 OBO(PCB 마더보드), NPO(서브스트레이트), 온다이/온인터포저 CPO의 3단계로 구분되며, 엔비디아와 서플라이체인은 Spectrum-6 포토닉스 스위치가 CPO 기반으로 현재 풀 양산 중이라고 밝혔습니다. NPO/CPO 온서브스트레이트 스위치는 향후 1-2년 내 양산 예정 파이프라인이 다수 있으나, 온다이 CPO는 선별적 채택에 그칠 전망입니다.\n6. 스케일업 옵틱스 채택으로 향후 2년간 CPO TAM 대폭 확대\n현재 스케일업 옵틱스는 랙 내 짧은 거리(1-2M) 덕분에 구리 기반 인터커넥트에 의존하고 있습니다. 그러나 향후 AI 서버 세대에서는 CPO 필요성이 커지는데, 그 이유는 첫째 물리적 한계로 200G/레인에서 400G/레인 이행 시 신호 감쇠 심화로 구리 솔루션의 도달 거리가 1-3M 미만으로 짧아지고 서멀·토폴로지가 제약되며, 둘째 랙 간 스케일업 수요로 NVL576, Feynman NVL1152, AMD MI500 Arcadia, Trainium 4, TPU v9 등 단일 랙을 넘어서는 구성에는 장거리 네트워크용 옵틱스가 필수이고, 셋째 전력 효율 측면에서 CPO는 DSP/리타이머가 불필요해 OCP 데이터 기준 비CPO 시스템 대비 약 30% 전력 절감이 가능하기 때문입니다.\n7. Rubin Ultra NVL576(VR300)의 스케일업 옵틱스\nJPM 리서치에 따르면 VRU 576의 스케일업 파이버 수는 스케일아웃 파이버의 8배에 달해, VRU 세대부터 CPO TAM의 큰 폭 확대를 시사합니다. 핵심 관전 포인트는 VRU에서 NVL576 구성의 채택률입니다. CPO 산업 전반에 긍정적이며, Accton은 엔비디아의 스케일업 스위치 기회는 잡기 어려울 수 있으나 AMD/ASIC 진영의 스케일업 CPO 스위치에서 수혜가 예상됩니다. CPO 시스템의 콘텐츠 가치는 기존 전기식 패킷 스위치 대비 스위치 벤더에게 훨씬 높다는 점도 주목할 부분입니다.\n8. NPO 소켓 채택의 근거 증가\nOCP에서 조립 수율 개선을 위한 소켓형 NPO 제안이 다수 관찰됐습니다(Open CPX MSA의 PCB 마더보드 소켓형 NPO, NTT의 LGA 소켓 기반 Open CPO 플랫폼 등). 이는 소켓 미채택 시 낮은 조립 수율로 Spectrum 포토닉스 스위치 램프가 예상보다 느렸던 것과 맥을 같이합니다. Hon Hai가 수율 개선을 위해 소켓 채택을 제안 중인 것으로 파악되며, Lotes가 잠재 수혜주 중 하나가 될 수 있습니다.\n9. ASPEED, BMC를 넘어 서버 관리·보안 플랫폼으로 확장\nASPEED는 OCP에서 AMD의 OpenPRoT와 인텔의 OBMF 하드웨어 지원 등 BMC를 넘어선 포트폴리오 확장을 선보였습니다. 차세대 HRoT 칩 AST1080(2H27 양산 예상)은 OpenPRoT를 지원해 AMD Venice 플랫폼에서 콘텐츠 기회를 확대할 수 있으며, PQC(포스트 퀀텀 암호) 기능은 높아지는 서버 보안 요구에 대응합니다. 인하우스 보안 IC를 제외하면 전체 서버의 50-60%가 TAM에 해당하는 것으로 추정합니다. 인텔 레퍼런스 플랫폼에서는 AST1030 SMC를 OBMF 브리지로 시연했으며, AST1030/1040/1080의 점진적 채택은 서버당 실리콘 콘텐츠를 늘려 종합 서버 관리·보안 솔루션 공급자로서의 입지를 강화할 전망입니다.\n10. Vera Rubin Ultra에서 QD 스펙 업그레이드 가능성\n엔비디아가 컴퓨트/(잠재적으로 스위치) 트레이 입구 QD와 랙 매니폴드 QD에 현행 UQD08을 대체하는 ZQDB14 구성을 개발할 것으로 파악됩니다. QD 벤더들은 더 큰 사이즈와 신규 설계로 ASP가 높아지고 마진도 개선될 가능성이 있다고 언급했으며, Lotes와 Fositek이 QD 스펙 업그레이드의 수혜주가 될 수 있습니다.\n*클로드로 요약함.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-23T09:56:03+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21227",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21227",
+      "text": "🔹\nDRAM ETF 포트폴리오의 TOP10 종목들(8/23 기준)\n» 메인 포지션인 삼성전자(26.2%), 마이크론(24.9%), SK하이닉스(21.6%)로 총 72.7% 비중\n» CXMT 4.7%, Seagate 4.5%, Sandisk 4.5%, Wester Digital 3.8%, Kioxia 3.3% 등의 비중으로 총 13개 기업들을 편입\n» SK하이닉스 포지션은 한국 증시 본주와 TRS 중심을 활용하여 구축. SK하이닉스 ADR은 0.50% 수준 유지 중",
+      "images": [
+        "https://cdn5.telesco.pe/file/sZ3sPDd3PG5AUU53agV2hc4rPSufg3SFa2e1f_JoHb8lu0IeiL7SARJ_WVMag7OCcWwS59V8voKT90hVpCbsX2E7mI80dQWV1AnB41x7I_lCcBfHTyYGdoWyl6PulBm63EsAlgwC46ohzgLzTM92agcyqVv8pvOSE_bQN0k4mbZVN8zNIlosa1W4UXBWwbUsgE7Ea3zP589MpTaeTi5TYKkonU4AHW0nHI-Id-Q8uvpC4o8yAcoml7Da14YjIR59sTF8lEFZ1l15XWgi7m4p_d9d2hJw0KprPFCNkMLX8fzpP24mdvWw29V8dRJCEtOIO8vnmZ5dZ90r1AojP2Prnw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-23T09:35:48+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24721",
       "source": "telegram",
@@ -419,18 +445,6 @@
       "published_at": "2026-08-22T03:35:30+00:00"
     },
     {
-      "id": "tg:globaletfi/21215",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21215",
-      "text": "◈하나증권 해외주식분석◈\n선진국 기업분석 강재구(T.02-3771-3386)\n*텔레그램 채널:\nhttps://t.me/hana_us_stock\n★ [HANA US Weekly] 미국 지역사회의 데이터센터 반대와 엔비디아의 AI인프라 금융\n▶\n자료:\nhttps://buly.kr/DlM46lG\n- 데이터센터 구축비용과 기간 증가, 외부자본의 역할 확대\n- 지난 주(8월 17일~8월 21일) 리뷰: 높은 미국채 장기물 금리부담\n- 이번 주(8월 24일~8월 28일) 프리뷰: 잭슨홀미팅, PCE 가격지수, 엔비디아 실적 등\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-22T03:10:21+00:00"
-    },
-    {
       "id": "tg:HI_GS/6950",
       "source": "telegram",
       "author": "HI_GS",
@@ -593,18 +607,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-21T08:21:33+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24709",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24709",
-      "text": "- 2026년 경영실적 및 투자 등에 따라 변동\n가능하나, 2026년 주주환원 잔여 재원(3년간 총\nFCF 50%에서 2024~2025년에 시행한 29.3조원\n차감)은 약 90~110조원 규모로 예상",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-21T08:16:44+00:00"
     },
     {
       "id": "tg:enc210406/4352",
