@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-24T15:38:34+00:00",
+  "updated_at": "2026-08-24T16:37:19+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 5
+    "new_this_run": 3
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,44 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:globaletfi/21263",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21263",
+      "text": "🔹\n재무부 TGA를 활용한 장기 국채 바이백의 의미\n» 미국 연방정부 총부채가 사상 처음 40조달러를 돌파하고 대규모 재정적자와 국채 발행 부담이 이어지는 가운데, 미 재무부에서 약 9,500억달러 규모의 재무부 일반계정(TGA) 일부를 장기 국채 바이백에 활용하는 방안 검토\n» 재무부는 유동성이 낮은 비지표물 장기 국채의 회당 매입 규모를 20억달러에서 최소 40억달러로 확대했으며, 향후 실제 매입 규모가 이보다 커질 가능성도 시사\n» TGA는 세금과 국채 발행으로 조성된 연방정부의 운영자금. 정부지출과 국채 만기 상환에 필요한 현금도 포함. 따라서 현금정책상 필요 수준을 초과하는 일부 자금만 사용될 가능성\n» TGA 활용 바이백은 정부부채를 실질적으로 줄이기보다 재무부의 자산과 부채 구성을 조정하는 거래. TGA 자금으로 장기 국채를 매입하면 TGA 잔액과 시장에 유통되는 장기채가 함께 감소하고, 민간에 지급된 매입대금만큼 은행 지급준비금이 증가해 장기채 수급 개선과 금융시장 유동성 확대 효과 발생\n» 이후 TGA를 기존 수준으로 복구하기 위해 T-bill을 발행하면 유동성이 다시 흡수되고 단기물 공급 부담 확대. 결과적으로 장기채를 매입하고 단기채를 발행하는 ‘Treasury Twist’로 전환되며, 전체 차입 규모를 줄이기보다 정부부채의 평균 만기를 단축하는 효과\n» 단기적으로는 장기금리 하락과 수익률곡선 평탄화 가능성. 비지표물 장기채 매입을 통해 유동성 할인과 장기물 공급 부담이 완화되면서 금리 급등을 억제. 다만 장기금리 하락 효과의 지속성은 제한적일 전망. TGA 재적립을 위한 T-bill 발행이 뒤따르면 유동성 공급 효과가 되돌려지고, 바이백 규모도 재정적자와 대규모 차환 발행에 비하면 작은 편\n» 시장이 바이백을 유동성 개선보다 정부의 이자 부담을 낮추기 위한 인위적인 금리 관리로 해석할 경우, 인플레이션과 재정 위험 프리미엄이 상승하면서 초기의 장기금리 하락 효과가 되돌려질 가능성도 존재",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-24T16:24:36+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21262",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21262",
+      "text": "[NVIDIA Groq 3 LPX 양산 시작… Agentic AI용 초고속 추론 가속기]\n*발표 개요\n-NVIDIA가 8월 24일 Groq 3 LPX의 양산을 시작했다고 발표\n-Groq 3 LPX는 Interactive AI Inference Accelerator\n-NVIDIA Vera Rubin 플랫폼을 확장하는 형태로 제공\n-Agentic AI의 초고속 토큰 생성을 목적으로 설계\n-Nebius가 Groq 3 LPX를 채택하는 첫 번째 AI Cloud 사업자\n*Groq 3 LPX의 역할\n-Agentic AI는 하나의 작업을 완료하기 위해 수백~수천 단계의 추론을 수행할 수 있음\n-각 단계에서 대규모 토큰을 생성하기 때문에 토큰 생성속도가 Agent의 작업속도에 영향을 미침\n-Groq 3 LPX는 Vera Rubin NVL72의 추론 성능을 확장해 토큰 생성속도를 높이는 역할\n-특히 개별 사용자를 위한 토큰 생성속도인 Interactivity를 높이도록 설계\n-NVIDIA는 Context가 큰 작업과 지연시간에 민감한 Agentic AI 작업을 주요 활용처로 제시\n*Artificial Analysis 벤치마크\n-Groq 3 LPX는 Artificial Analysis 테스트에서 초당 3,400개의 Output Token을 기록\n-테스트 모델은 오픈소스 Agentic 모델 Gemma 4 31B\n-Context Length는 100,000 Token\n-NVIDIA에 따르면 해당 모델 기준 지금까지 기록된 가장 빠른 성능\n-Agentic Coding 및 Latency-sensitive workload를 주요 적용 사례로 제시\n*경쟁 플랫폼 대비 성능\n-NVIDIA는 Groq 3 LPX가 Agent와 Latency-sensitive workload에서 가장 가까운 대안 플랫폼 대비 4배 빠른 Responsiveness를 제공한다고 설명\n-Agentic Coding 작업의 경우 몇 시간이 걸리던 작업을 몇 분 단위로 수행할 수 있다고 설명\n-구체적인 비교 대상 플랫폼 이름은 보도자료에서 공개하지 않음\n*Agentic AI에서 필요한 두 가지 연산\n-NVIDIA는 Agentic AI가 크게 두 가지 컴퓨팅 과제를 발생시킨다고 설명\n-첫째는 대규모 Context를 효율적으로 처리하는 것\n-둘째는 매우 낮은 Latency로 Token을 생성하는 것\n-Groq 3 LPX는 이 가운데 빠른 Token Generation에 특화\n-Token 생성속도가 빨라지면 Agent가 파일 확인, 코드 작성, 테스트, Tool Call, 결과 검증, 재작업을 더 빠르게 수행할 수 있음\n*Vera Rubin NVL72와의 관계\n-Vera Rubin NVL72는 Training과 Inference를 모두 처리하는 AI Factory 플랫폼\n-Groq 3 LPX는 Vera Rubin NVL72를 대체하는 제품이 아니라 추론 성능을 확장하는 제품\n-Vera Rubin NVL72가 다양한 AI 연산을 처리하고 Groq 3 LPX가 초고속 Token Generation을 담당하는 구성\n-고객의 AI Factory에서 워크로드 특성에 따라 두 플랫폼을 함께 활용할 수 있도록 설계\n*Nebius\n-Nebius가 Groq 3 LPX를 도입하는 첫 번째 AI Cloud 사업자\n-Nebius는 자사 Production Inference Platform인 Nebius Token Factory에 Groq 3 LPX를 적용할 계획\n-개발자들은 기존 Nebius API를 그대로 이용하면서 Groq 3 LPX의 Token Generation 성능을 사용할 수 있음\n-Nebius는 별도의 새로운 Software Stack으로 Migration할 필요가 없다고 설명\n*Groq\n-Nebius에 이어 AI Inference Cloud 사업자 Groq도 Groq 3 LPX의 초기 도입 사업자 가운데 하나가 될 계획\n-NVIDIA 보도자료에서는 Groq와 관련된 구체적인 도입 규모나 시점을 공개하지 않음\n*Vera Rubin AI Factory 구성\n-NVIDIA는 Vera Rubin을 7개의 칩과 5개의 목적별 Rack을 공동 설계한 AI Factory 플랫폼이라고 설명\n-Vera Rubin NVL72와 Groq 3 LPX를 고객별 AI Factory 요구에 맞춰 활용\n-Frontier Model 개발사와 Open Model Service Provider 등을 주요 고객으로 제시\n*함께 사용되는 NVIDIA 인프라\n-NVIDIA BlueField-4 DPU\n-NVIDIA Vera CPU Rack\n-NVIDIA Vera BlueField-4 STX Storage\n-NVIDIA Spectrum-6 SPX Ethernet\n-NVIDIA는 이들 시스템을 함께 사용해 Multi-Agent System의 Throughput per Watt와 Inference Latency를 개선하도록 설계했다고 설명\n*Jensen Huang 발언\n-Jensen Huang은 Inference를 AI 성장의 핵심 동력이라고 설명\n-Grace Blackwell과 NVL72가 LLM Inference의 성능과 효율성을 크게 높였다고 언급\n-Vera Rubin에서는 Agentic AI 시대에 맞춰 워크로드별로 최적화된 AI Factory 구성을 제공한다고 설명\n-LPX는 초고속 Token Generation을 담당하는 구성이라고 설명\n*현재 상태\n-Groq 3 LPX는 현재 Full Production 상태\n-Nebius는 첫 AI Cloud 도입 사업자로 발표\n-Groq도 초기 도입 사업자 가운데 하나가 될 계획\n-구체적인 판매가격은 공개되지 않음\n-출하량과 고객별 주문규모도 공개되지 않음\n-NVIDIA는 일부 제품과 기능의 출시시점 및 사양이 변경될 수 있다고 명시\n*핵심 수치\n-Output Generation: 초당 3,400 Token\n-Benchmark Model: Gemma 4 31B\n-Context: 100,000 Token\n-Responsiveness: 가장 가까운 대안 플랫폼 대비 4배\n-Vera Rubin Platform: 7개 Chip + 5개 Purpose-built Rack\n-첫 AI Cloud 고객: Nebius\n링크:\nhttps://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-24T16:23:57+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21261",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21261",
+      "text": "🔹\nGlobal X 운용, Magnificent Six ETF(SIX)의 상장 승인 심사 신청\n» Global X는 지난주에 Magnificent7에서 Tesla를 제외한 미국 대형 기술주 6개 기업에 집중 투자하는 ‘Global X Magnificent Six ETF(SIX)’를 출시하기 위해 SEC에 등록신고서 제출\n» Alphabet, Amazon, Apple, Meta Platforms, Microsoft, NVIDIA 등 6개 기업으로 구성. Tesla는 투자 대상에서 제외\n» 액티브 ETF로 설계. 기존의 Magnificent7에서 Tesla를 제외함으로써 전기차 노출도를 제거하고 AI·클라우드·디지털 플랫폼·반도체 중심의 빅테크 익스포저를 강화\n» 등록신고서상 예상 효력 발생일(Effective Date)은 2026년 10월 28일",
+      "images": [
+        "https://cdn5.telesco.pe/file/SU0WC0CQaJ6ihJxN6Z8wF04upTIFlfFIuq4rBtKcC-XO8BW4jX3SAJ0n1-ulwe0TKQ7ndJh14cDJg6DI-cfOXQ2P-BnUs8ildLihQ7Xv_bZgYh213Ecuvy86ylnyyoG4_n763rVu9P8r8HYziaI4jQ6XxxOusEdyWHj-bMmdl4Gosf6M6054v14olTn-vsd566MxeGBjPBnegbHNwCL63AdzYv2qhzWUSl28PEwbJuUJcsWmhflhBw3-vaKDKHZajVPFMzP1pEuf4s-OU7SCQqDnPWEHgkOFWiynypyCa5BoftMmLGPX5wrvv2K9iNuG_7nrh2jzeSn5hljE2lo7gw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-24T16:22:45+00:00"
+    },
     {
       "id": "tg:globaletfi/21258",
       "source": "telegram",
@@ -396,46 +434,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-24T05:56:28+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21247",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21247",
-      "text": "» 전고점 수준을 넘어선 Amazon, Apple, Broadcom, Oracle의 CDS 추이",
-      "images": [
-        "https://cdn5.telesco.pe/file/RlneyOJyFerpahvUYTnswrXUVLhSo0Hf_n1c_mxNhvFbA3v6rtxaxYxIRYHT0NavGL5OMub1qz0F1IZXkHR23KUHcf2yYXfTszJeUpAUA2XoAU9aWYSIxJuwNXk0RzPOseDHCnE_D7P5x-U2YdO3JCQtalMl-kHYphmDaa8OnlyAVKcMQK_J4yxZR0ShxBJQOEpJLekkY9f7KAmZOME7A2XaZsS_Qir0xPPDhuRIBvC3cTq0SHtywabpy1EaZq1cKsQSybxjnH83Q9P2ijh44RrQJvSYK6LANOsdcHTvRsKmRN3_Uh5642VrfKDUcpmtiXfkP6_TuF7eM0RgLfcTvg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-24T05:56:12+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21246",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21246",
-      "text": "» 전고점 수준 대비 상대적으로 양호한 Nvidia, Alphabet, Meta, Microsoft의 CDS 추이",
-      "images": [
-        "https://cdn5.telesco.pe/file/k1DhWftUjGUY4Y6t_WwHHdnOgDRWvhUdMUTY9cmuz1XLsxpn_4O9-2qBtqSMhHSvyUxg9k-p3FNQhm6an5Bws3nKMARg8ajtRgYq2z9hyESs8bMP7P-FFFCXfh6hgF00eBk7m2N1ZYJJKZWjfZoqV63fmQX8bF2Ua6teBvi8k70-MtZVFKO_xuAEKOGLJHnhj9puvTezVCF6V3Qd8DqaHXUhIAUCQ_HYpyZ1vR29cUi9lK30nVcl_S1dEEJfrFcrGPYNRSFRJkLsROmpXLXHjcdz4ULxBdgxcGiiyWzAglRkTlengiI734e44LT-UuJH14_fzc28zaWItupLCBvBUA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-24T05:55:53+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21245",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21245",
-      "text": "[엔비디아, Perplexity에 300억달러 이상 밸류에이션으로 투자 논의]\n*투자 논의\n-엔비디아가 Perplexity의 신규 지분투자 라운드 참여를 논의 중\n-이번 라운드는 Perplexity의 기업가치를 300억달러 이상으로 평가하는 방안\n-라운드 규모는 수십억달러 수준으로 논의\n-성사될 경우 Perplexity 기업가치는 1년 전 마지막 자금조달 대비 50% 이상 상승\n-아직 투자조건이나 최종 계약이 확정됐다는 내용은 없음\n-관련 내용은 논의에 정통한 복수의 관계자를 인용한 보도\n*Perplexity 매출 성장\n-Perplexity의 연환산 매출은 7억5,000만달러 이상으로 증가\n-2026년 초에는 2억5,000만달러 미만\n-연초 대비 연환산 매출이 3배 이상으로 증가\n-매출 증가에는 Perplexity Computer의 성장도 기여\n-Perplexity Computer는 전문가들이 컴퓨터 작업을 자동화하는 데 사용하는 AI 에이전트\n*과거 기술 라이선스 논의\n-엔비디아는 이전에 Perplexity의 일부 기술을 라이선스하고 일부 직원을 채용하는 거래도 검토\n-해당 거래에서 엔비디아가 Perplexity에 수십억달러를 지급하는 방안이 논의\n-목적은 엔비디아의 AI 모델과 관련 소프트웨어 개발 역량 강화\n-이후 논의가 전통적인 지분투자 방식으로 바뀐 것으로 전해짐\n-왜 거래 구조가 변경됐는지는 확인되지 않음\n*기존 투자 관계\n-엔비디아는 이미 Perplexity에 여러 차례 투자\n-Jensen Huang CEO는 인터뷰에서 Perplexity를 자주 사용하는 챗봇이라고 밝힌 바 있음\n-Perplexity는 지금까지 엔비디아, NEA, Accel, SoftBank 등으로부터 총 17억달러 이상을 조달\n*Poolside 거래\n-엔비디아는 지난주 AI 스타트업 Poolside와 60억달러 규모의 소프트웨어 라이선스 계약에 합의\n-대상은 Poolside의 AI 모델 개발 소프트웨어\n-엔비디아는 Poolside 직원 100명 이상에게 채용 제안을 할 계획\n-대상에는 최근 출시된 Laguna 오픈웨이트 AI 모델 개발진도 포함\n-별도로 엔비디아는 Poolside에 10억달러를 투자\n-Poolside의 투자 전 기업가치는 120억달러로 평가\n*Poolside 거래 목적\n-엔비디아는 Nemotron 직원들에게 Poolside 거래가 Nemotron 모델을 더 빠르고 효과적으로 개발하기 위한 것이라고 설명\n-새롭게 합류할 직원들을 조직에 어떻게 배치할지는 아직 명확하지 않음\n*Perplexity와 Nemotron 협력\n-Perplexity는 2026년 3월 NVIDIA Nemotron Coalition에 참여\n-Nemotron Coalition은 엔비디아의 오픈모델 개발을 지원하는 협력체\n-엔비디아와 Perplexity 관계자들은 하드웨어와 소프트웨어 개발을 위해 주당 여러 차례 회의를 진행\n-협력은 엔비디아의 Nemotron 오픈소스 모델 개발 확대의 일부\n*엔비디아의 오픈모델 전략\n-엔비디아는 최근 1년 동안 Nemotron 오픈소스 모델 개발을 확대\n-기사에 따르면 중국 개발사들의 오픈 AI 모델에 대응하기 위한 목적\n-엔비디아는 서방에서 개발된 오픈 AI 모델을 앱 개발자들에게 제공하면 엔비디아 하드웨어 수요가 증가할 것으로 판단\n-이 전략으로 엔비디아는 자사 GPU를 사용하는 주요 고객이면서 동시에 자체적으로도 대규모 GPU를 사용하는 회사가 됨\n*엔비디아의 자체 컴퓨팅 지출\n-엔비디아는 앞으로 수년 동안 Lambda, Amazon 등 클라우드 사업자를 통해 엔비디아 서버를 임차하는 데 수백억달러를 지출하기로 합의\n-해당 클라우드 사업자들은 엔비디아 GPU 구매 고객이기도 함\n-임차한 컴퓨팅은 엔비디아의 자체 AI 모델과 소프트웨어 개발 등에 사용\n*Perplexity 사업\n-Perplexity는 AI 검색엔진으로 출발\n-현재는 Perplexity Computer 등 AI 에이전트 제품으로 영역을 확대\n-OpenAI, Anthropic 및 오픈소스 개발사들이 만든 AI 모델에 대한 접근 서비스도 판매\n-Perplexity는 자체 기반모델을 처음부터 직접 학습하지 않음\n-업무에 따라 가장 적절한 AI 모델로 요청을 보내는 Routing 방식을 사용\n*Perplexity 수익성\n-Perplexity의 Gross Margin은 약 60% 수준을 유지\n-다만 회사가 과거 Gross Margin을 계산할 때 무료 이용자나 체험 이용자 관련 비용을 포함하지 않았다고 기사에서 지적\n*엔비디아 하드웨어 사용\n-Perplexity는 Agentic AI 쿼리 처리를 위해 엔비디아 Vera CPU를 사용할 계획이라고 밝힘\n-과거 CoreWeave를 통해 엔비디아 GPU를 사용하는 계약도 체결\n-CoreWeave는 엔비디아가 대규모로 지원하고 있는 클라우드 서버 사업자\n*IPO\n-Perplexity CEO Aravind Srinivas는 CNBC 인터뷰에서 IPO 시점으로 2028년을 검토하고 있다고 밝힘\n-이번 투자 거래가 성사되면 잠재적인 IPO 이전까지 사업 확장을 위한 추가 자금을 확보하게 됨\n*현재 확인된 것\n-엔비디아와 Perplexity가 300억달러 이상 기업가치의 투자 라운드를 논의 중\n-투자 라운드는 수십억달러 규모로 논의\n-Perplexity 연환산 매출은 7억5,000만달러 이상\n-엔비디아와 Perplexity는 이미 투자·하드웨어·Nemotron 개발에서 협력 관계\n-과거 기술 라이선스와 인력채용을 포함한 별도 거래도 검토\n-현재 지분투자 거래가 최종 확정됐다는 내용은 없음\n링크:\nhttps://www.theinformation.com/articles/nvidia-discusses-perplexity-investment-30-billion-plus-valuation-considered-tech-licensing-deal",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-24T05:55:43+00:00"
     },
     {
       "id": "tg:bornlupin/19835",
