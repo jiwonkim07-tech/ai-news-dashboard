@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T08:00:13+00:00",
+  "updated_at": "2026-08-24T08:58:24+00:00",
   "counts": {
     "total": 192,
     "new_this_run": 2
@@ -16,6 +16,34 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/24736",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24736",
+      "text": "SK하이닉스가 Hot Chips 2026에서 HBM4 16단 인증 절차를 진행 중이라고 밝혔습니다\nHBM3E 기준 16단 두께는 12단 대비 7.6%밖에 높아지지 않네요\nhttps://wccftech.com/sk-hynix-advanced-packaging-technologies-intel-emib-next-gen-hbm-memory/",
+      "images": [
+        "https://cdn5.telesco.pe/file/NQMp_-C3ODibzBbG-Df5Io9ysDtD-JGzLsQDpTMBZ8EER1tOJQb9FzGf2PGHY8FSX9ZMezAYWLYyZWxhdzog5R11EyC-6tRskB8vTBn8cp-xzpax11TrlVob81GGxN1hASc63cNoNap5ZqzxnmbDNh5ZuFzX5enS8XcCpR3LVVsbZUpV8B-YNI2Vv-dKH8Ab_ExmtmfbVenwOvFNfa4JhnGUM1saphVVeeORmsoitKoa6NyyFDQFn0jUCwVymhB23tT9jJtMPpXd9iCBYmNSfj0HpHjHLlFnm79bgnUGFlZ6_cFJm5Y_Fr1294a371lrtDiFc6MyLI9oMeAey6-4XQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-24T08:29:05+00:00"
+    },
+    {
+      "id": "tg:enc210406/4356",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4356",
+      "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 8월 24일 종가 기준",
+      "images": [
+        "https://cdn5.telesco.pe/file/XdPawHQDdHNQCNgrBpq6oV_vjg-0U97o-ySjsTsBoMoR-22YqxQln6ObADujkZqe59CQMJxHsyD1F4sDvXupZE1SAVE3HjO4OqdfP319T1ES9MLteN6jHD3iXEmiUFBaPoLw3J6p8gDTnacQE-VEuX4Ix_6DEVku0i5cfMda6pwmf46B1AZCOTyzM8gBnDLCs9fBR9U4l6wsjbak_X2f-G9vbK7Pp4gXKBWI9dStM3PwQGuVvCZ0cPDbp9KQsTv6INLLQHhba-HbYy9t65zcDAnmOryIgzCwGrTgmpYGWdi0SsmOWI8KgX7VTVZwoj0zEpR0RYr5mkroSxV-DJIfEA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-24T08:08:15+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24735",
       "source": "telegram",
@@ -562,18 +590,6 @@
       "published_at": "2026-08-23T11:47:17+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24722",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24722",
-      "text": "JP모건) 서버: 2026 APAC OCP(Open Compute Project) 서밋 10대 핵심 시사점 (2026.8.23)\n1. 토큰 수요는 견조하나 데이터센터 인프라 딜리버리가 잠재적 병목으로 부상\n토큰 가격이 신규 투자에 우호적으로 유지되면서 컴퓨트 수요는 계속 견조합니다. 다만 AI 데이터센터가 수백 MW급에서 GW급으로 대형화·복잡화되면서 구축 기간이 기존 약 8개월에서 12-18개월 이상으로 연장되었습니다. 건설 일정이 지연될 경우 최종 수요가 건강하더라도 리드타임이 짧은 영역(섀시, 커넥터, 소켓, PSU, 서멀 부품)을 중심으로 일시적인 재고 조정 사이클이 발생할 수 있다고 경고합니다.\n2. 800VDC 램프는 2026년 말/27년 일정 유지, ±400V 대 800VDC 논쟁은 진행 중\n다수의 전력 시스템 인테그레이터들이 HVDC 파워랙의 2026/27년 램프 일정을 재확인했으며, 2027/28년 SST(솔리드 스테이트 트랜스포머) 이행 가능성도 언급됐습니다. JPM은 HVDC 파워랙이 4Q26/1Q27 램프 궤도에 있으며 VR200 서버와 일부 ASIC 모델에서 선택적으로 채택될 것으로 봅니다. 흥미로운 점은 ±400V 대비 직접 800VDC 방식에 대한 선호가 커지고 있다는 것인데, 미드포인트 접지가 복잡성을 더하고 향후 유연성을 제한할 수 있기 때문입니다. 800VDC 비중 확대는 Delta와 SiC 벤더에 긍정적입니다. SST에 대해서는 2.5MW+ IT 랙에 적합한 솔루션으로 보아 채택 시점에 보수적이며, GPU TDP 업그레이드와 Kyber 랙 구조 이행이 예상보다 느린 만큼 SST 변곡점도 2029년 이후로 밀릴 수 있다고 판단합니다.\n3. 수직 전력 전달(VPD)이 패시브 콘텐츠 업그레이드의 또 다른 라운드를 견인\n두 곳의 ASIC 벤더가 전력 경로 단축과 손실 저감을 위해 수평(lateral)에서 수직 전력 전달(VPD)로 이행한 것으로 파악됩니다. VPM 설계는 더 작고 고밀도이며 저임피던스의 전력 부품을 요구하므로, 고용량 0201/0402 MLCC와 고Isat 몰디드 인덕터 등 하이엔드 패시브에 긍정적이며 임베디드/백사이드 커패시터 채택 가능성도 있습니다. 무라타, 삼성전기 등 하이엔드 MLCC 벤더와 Delta, Flex 같은 VPM 벤더의 수혜가 예상됩니다.\n4. HVDC 이행으로 테스트 장벽과 범위 확대, 토탈 솔루션 벤더에 유리\n54V 파워쉘프에서 HVDC 파워랙과 100kW-MW급 시스템으로 전환되면서 훨씬 높은 전압·전력의 소스 장비가 필요해졌습니다. 특히 AI 워크로드의 부하 급변으로 동적 응답 테스트 요구가 높아져, 급격한 부하 변동 시 전압 언더슈트/오버슈트를 포착하고 PSU·CBU·BBU·DC 버스 간 상호작용을 검증해야 합니다. 이는 Chroma 같은 전력 테스트 벤더의 물량 성장과 와트당 ASP/콘텐츠 상승을 동시에 견인합니다. 별도로, 단품이 아닌 폭넓은 제품 스펙트럼을 제공할 수 있는 전력 시스템 인테그레이터의 기회도 확대되고 있습니다.\n5. NPO는 현재 풀 양산, 온다이 CPO는 본격 배치까지 시간 필요\n이번 OCP 네트워킹 논의는 CPO 기술·생태계 개발에 집중됐습니다. 지난 1년간 AI 데이터센터용 CPO 개발이 빠르게 진전됐는데, 올해 OFC에서 OCI MSA, Open CPX MSA 등 업계 표준화 협약이 결성됐고 오픈 NOS SoNIC 커뮤니티도 소프트웨어 업데이트로 CPO 지원에 나섰습니다. 엔비디아, 브로드컴, AMD, 하이퍼스케일러 ASIC 등 주요 벤더별로 다양한 구성의 CPO 프로젝트가 등장하고 있습니다. OE와 ASIC 패키징 간 신호 경로 길이에 따라 OBO(PCB 마더보드), NPO(서브스트레이트), 온다이/온인터포저 CPO의 3단계로 구분되며, 엔비디아와 서플라이체인은 Spectrum-6 포토닉스 스위치가 CPO 기반으로 현재 풀 양산 중이라고 밝혔습니다. NPO/CPO 온서브스트레이트 스위치는 향후 1-2년 내 양산 예정 파이프라인이 다수 있으나, 온다이 CPO는 선별적 채택에 그칠 전망입니다.\n6. 스케일업 옵틱스 채택으로 향후 2년간 CPO TAM 대폭 확대\n현재 스케일업 옵틱스는 랙 내 짧은 거리(1-2M) 덕분에 구리 기반 인터커넥트에 의존하고 있습니다. 그러나 향후 AI 서버 세대에서는 CPO 필요성이 커지는데, 그 이유는 첫째 물리적 한계로 200G/레인에서 400G/레인 이행 시 신호 감쇠 심화로 구리 솔루션의 도달 거리가 1-3M 미만으로 짧아지고 서멀·토폴로지가 제약되며, 둘째 랙 간 스케일업 수요로 NVL576, Feynman NVL1152, AMD MI500 Arcadia, Trainium 4, TPU v9 등 단일 랙을 넘어서는 구성에는 장거리 네트워크용 옵틱스가 필수이고, 셋째 전력 효율 측면에서 CPO는 DSP/리타이머가 불필요해 OCP 데이터 기준 비CPO 시스템 대비 약 30% 전력 절감이 가능하기 때문입니다.\n7. Rubin Ultra NVL576(VR300)의 스케일업 옵틱스\nJPM 리서치에 따르면 VRU 576의 스케일업 파이버 수는 스케일아웃 파이버의 8배에 달해, VRU 세대부터 CPO TAM의 큰 폭 확대를 시사합니다. 핵심 관전 포인트는 VRU에서 NVL576 구성의 채택률입니다. CPO 산업 전반에 긍정적이며, Accton은 엔비디아의 스케일업 스위치 기회는 잡기 어려울 수 있으나 AMD/ASIC 진영의 스케일업 CPO 스위치에서 수혜가 예상됩니다. CPO 시스템의 콘텐츠 가치는 기존 전기식 패킷 스위치 대비 스위치 벤더에게 훨씬 높다는 점도 주목할 부분입니다.\n8. NPO 소켓 채택의 근거 증가\nOCP에서 조립 수율 개선을 위한 소켓형 NPO 제안이 다수 관찰됐습니다(Open CPX MSA의 PCB 마더보드 소켓형 NPO, NTT의 LGA 소켓 기반 Open CPO 플랫폼 등). 이는 소켓 미채택 시 낮은 조립 수율로 Spectrum 포토닉스 스위치 램프가 예상보다 느렸던 것과 맥을 같이합니다. Hon Hai가 수율 개선을 위해 소켓 채택을 제안 중인 것으로 파악되며, Lotes가 잠재 수혜주 중 하나가 될 수 있습니다.\n9. ASPEED, BMC를 넘어 서버 관리·보안 플랫폼으로 확장\nASPEED는 OCP에서 AMD의 OpenPRoT와 인텔의 OBMF 하드웨어 지원 등 BMC를 넘어선 포트폴리오 확장을 선보였습니다. 차세대 HRoT 칩 AST1080(2H27 양산 예상)은 OpenPRoT를 지원해 AMD Venice 플랫폼에서 콘텐츠 기회를 확대할 수 있으며, PQC(포스트 퀀텀 암호) 기능은 높아지는 서버 보안 요구에 대응합니다. 인하우스 보안 IC를 제외하면 전체 서버의 50-60%가 TAM에 해당하는 것으로 추정합니다. 인텔 레퍼런스 플랫폼에서는 AST1030 SMC를 OBMF 브리지로 시연했으며, AST1030/1040/1080의 점진적 채택은 서버당 실리콘 콘텐츠를 늘려 종합 서버 관리·보안 솔루션 공급자로서의 입지를 강화할 전망입니다.\n10. Vera Rubin Ultra에서 QD 스펙 업그레이드 가능성\n엔비디아가 컴퓨트/(잠재적으로 스위치) 트레이 입구 QD와 랙 매니폴드 QD에 현행 UQD08을 대체하는 ZQDB14 구성을 개발할 것으로 파악됩니다. QD 벤더들은 더 큰 사이즈와 신규 설계로 ASP가 높아지고 마진도 개선될 가능성이 있다고 언급했으며, Lotes와 Fositek이 QD 스펙 업그레이드의 수혜주가 될 수 있습니다.\n*클로드로 요약함.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-23T09:56:03+00:00"
-    },
-    {
       "id": "tg:HI_GS/6954",
       "source": "telegram",
       "author": "HI_GS",
@@ -858,18 +874,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-20T00:31:56+00:00"
-    },
-    {
-      "id": "tg:enc210406/4344",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4344",
-      "text": "[한투증권 강경태] 2026년 8월 20일 (목)\n📈\n가격 동향\n• WTI 85.8달러/배럴(+1.0%)\n• 천연가스 2.8달러/MMBtu(+1.4%)\n『커버리지 주가』\n<건설>\n• DL이앤씨 +1.7%\n• 현대건설 +5.8%\n• GS건설 +2.3%\n• 대우건설 +0.2%\n• 삼성E&A +1.3%\n<건자재>\n• 한샘 -1.1%\n<디벨로퍼>\n• SK디앤디 +1.0%\n<리츠>\n• 신한알파리츠 -1.9%\n• 디앤디플랫폼리츠 -0.9%\n• 이리츠코크렙 -0.6%\n• 이지스밸류리츠 -1.6%\n• SK리츠 -2.9%\n• NH올원리츠 -1.5%\n• 이지스레지던스리츠 -1.5%\n• 롯데리츠 -1.0%\n• ESR켄달스퀘어리츠 -2.8%\n• 코람코라이프인프라리츠 -0.1%\n<조선>\n• HD한국조선해양 -2.0%\n• HD현대중공업 -3.2%\n• 한화오션 -3.1%\n• 삼성중공업 -3.1%\n• 한화엔진 -1.6%\n• HD현대마린솔루션 +2.7%\n📢\n뉴스\n<건설>\n▶️\n서울선 ‘무혈입성’, 경기에선 ‘진검승부’…엇갈린 정비사업 수주전\nhttps://www.smarttoday.co.kr/ko-kr/articles/110606\n▶️\n롯데건설 회사채 수요예측서 1천510억…예정액의 3배\nhttps://n.news.naver.com/article/001/0016259525?sid=101\n▶️\n대우건설, 천안 '두정역 푸르지오 그랑피크' 분양\nhttps://n.news.naver.com/article/215/0001262801?sid=101\n<건자재>\n▶️\n'합리화 설비'로, 시멘트업계 불황 넘는다\nhttps://n.news.naver.com/article/008/0005401593?sid=101\n<리츠>\n▶️\n\"당산 팔아 25% 차익\"…NH올원리츠 떠난 오피스, 삼성FN리츠가 샀다\nhttps://n.news.naver.com/article/018/0006354365?sid=101\n<조선>\n▶️\n美 군함 해외 건조 허용에…한·미 조선 협력 급물살 기대\nhttps://n.news.naver.com/mnews/article/018/0006354282\n▶️\n한화 ‘인수’·HD현대 ‘기술’·삼성 ‘FLNG’…조선 빅3 엇갈린 美 전략\nhttps://www.ceoscoredaily.com/page/view/2026081911095551248\n▶️\nHD한국조선해양, 미국에 투자법인 설립…현지 조선소 인수 나설까\nhttps://www.ilyo.co.kr/?ac=article_view&entry_id=512331\n▶️\nHD현대重, 페루 현지 조선소서 군함 공동 건조…새 수출 모델 개척\nhttps://www.donga.com/news/Economy/article/all/20260819/134503772/1\n▶️\n한화엔진, 창원에 선박 발전용 중속엔진 공장 준공\nhttps://n.news.naver.com/article/001/0016258930?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-19T22:07:16+00:00"
     },
     {
       "id": "x:ylecun:2090186439917027794",
