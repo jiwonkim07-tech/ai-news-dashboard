@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-24T04:43:24+00:00",
+  "updated_at": "2026-08-24T05:37:24+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 5
+    "new_this_run": 1
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,18 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19835",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19835",
+      "text": "Phison CEO 판젠청 - 메모리·스토리지 전망: \"수급 불균형은 장기화될 것\"\n공급 확대 속도의 한계: 단기적인 가격 상승세 둔화보다 본질적인 핵심은 공급의 증가 속도가 AI 수요 폭증을 전혀 따라잡지 못하고 있다는 점\n입니다.\n추론(Inference) 중심의 수요 급증:\nAI 산업이 모델 '학습' 단계에서\n실전 '추론' 단계로 넘어가면서, 연산 성능을 뒷받침할 메모리·스토리지 수요가 지속적으로 확대\n되고 있습니다.\n산업적 위상의 구조적 변화:\n메모리는 과거의 단순 경기 순환형(시클리컬) 품목에서 벗어나, AI 산업 확장에 없어서는 안 될 필수 인프라로 자리 잡았습니다.\nhttps://wallstreetcn.com/charts/41959663",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-24T05:15:00+00:00"
+    },
     {
       "id": "tg:bornlupin/19834",
       "source": "telegram",
@@ -391,21 +403,6 @@
       "published_at": "2026-08-23T23:25:09+00:00"
     },
     {
-      "id": "tg:bornlupin/19822",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19822",
-      "text": "골드만삭스(Goldman Sachs), 2026년과 2027년에 걸쳐 글로벌 메모리 반도체(DRAM 및 NAND) 시장의 공급 부족(Undersupply)이 심화될 것으로 전망하며, 기존 대비 공급 부족 폭을 대폭 확대하여 수정 제시\nDRAM 수급 전망\n핵심 전망\n: 2026년 5.0% 공급 부족에 이어, 2027년에는 공급 부족률이 5.9%로 더 확대될 것으로 예상됩니다.\n과거 추이\n: 2021년(-2.7%) 이후 2022년(+1.3%)과 2023년(+2.9%)에는 초과 공급 상태였으나, 2024년(-0.9%)과 2025년(-1.4%)을 거치며 다시 공급 부족 국면으로 전환되었습니다.\n전망치 수정(New vs. Old)\n:\n2026년: 기존 -4.9%에서 -5.0%로 소폭 하향 조정(부족 심화)\n2027년: 기존 -2.5%에서 -5.9%로 공급 부족 폭 대폭 확대\n2028년: -3.9% 수준의 공급 부족 지속 전망\nNAND 수급 전망\n핵심 전망\n: 2026년 4.4% 공급 부족, 2027년에는 4.6%의 공급 부족이 나타날 것으로 예상됩니다.\n과거 추이\n: 2019~2023년 동안 지속되었던 공급 과잉(2023년 +3.2%)이 마무리되고, 2024년(-0.8%)과 2025년(-0.6%)부터 본격적인 공급 부족세에 진입했습니다.\n전망치 수정(New vs. Old)\n:\n2026년: 기존 -4.2%에서 -4.4%로 소폭 하향 조정\n2027년: 기존 -2.1%에서 -4.6%로 공급 부족 폭이 2배 이상 확대\n2028년: -3.0% 수준으로 수급 불균형 유지 전망\n수급 환경 종합 분석\nDRAM과 NAND 모두 2024년을 기점으로 공급 과잉에서 공급 부족으로 돌아섰으며,\n2026~2027년에 공급 부족 현상이 정점에 달할 것으로 분석됩니다.\n특히 2027년 수급 전망치가 두 메모리 제품군 모두 대폭 하향(DRAM -3.4%p 추가 하락, NAND -2.5%p 추가 하락)된 점은\n향후 수년간 타이트한 공급 환경과 가격 상승 압력이 지속될 가능성을 시사합니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/YyWoi-yBimRt-Y6B5hlAuNPmm0RG1Kn5pEYQnbmowoY88GxPwuCZf_ZglAkk-MvMU5dVh4OTr2NDVqi3YXuUKT_coMDWRCRNRYJqagWzl3EfPM-EjaIEyTuCLfcB9LVufbwxN4vKLSWPCDWQRnL9K5QVxuFBnCAFpLqMy6PGJh-Qm5tcT6a0rAzzMbQb03-WsRfLsAbgjS7eX5FFg9M66e1G1aQHL4K2CnoQ40mLCMYGYwgBYqFDMqO4OgmMba_1FzFvJ5f_lq26qrDOzyQ7huOkpcLfPyF9G79mHMf8wxGdnDyoC1wRPcrm_a9KWvPuXJjsjZ6aofqPYnUSzrjfug.jpg",
-        "https://cdn5.telesco.pe/file/XeKOn1Yfp-N6JITRMgXzPxurHnl8TQGvVAdYn15_1ExZsJToZUYSqqDyuN1W1tDcC9Xwrc0IfQEDmQDNZ9c8oYIA0QS837p6XNKaFXKAYTsqWbFStvS5jKba44WxoRdKb_kp3r5rhrgsCjYblTtgspzCidtU4ykezewjL4zUFZvtK59Rdbi-ZL2uZVB7j_ZW3jztShMkxfJfNSOFOMWHKsULaP7PgjDzPSHFw6PDBbRUlR_aLasgi70n4SDKSp08Xp8XQC9GGU9kO7ckDWOOUHgWDQMpMzKehJGKL7gzdtgWvrk45VnNsc8PjTHTMYrps6tpWrLq5DYgMYKXQUHJwQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-23T23:19:14+00:00"
-    },
-    {
       "id": "tg:globaletfi/21235",
       "source": "telegram",
       "author": "globaletfi",
@@ -582,7 +579,7 @@
       "url": "https://t.me/HI_GS/6954",
       "text": "🛳\n일본 나무라도 LNG선 건조 추진, 중국의 수주들\n☞\nhttp://bit.ly/DOS836\n⚓️\n주시 뉴스\n💲\n선가, 실적, 캐파\n△ VLGC 신조선가 상승 및 신조선가지수 소수점 상승. 중고선가지수 214P로 상승\n🌏\n그린쉽\n▼ HD 단골 Ray, 중국 GSI에 PCTC 최대 14척 발주 협의 중\n🌪\nLNG\n△ Namura Shipbuilding, LNG선 건조를 위한 신규 대형 드라이도크 건설 추진\n▽ 선복량 증가로 LNG선 스팟 운임 8개월 만에 최저치 급락, 2027년까지 침체 분위기 지속\n▼ 후동중화와 Everllence는 하이브리드 전기 추진 LNG선 설계 협력\n▽ Jiangsu Yangzijiang Shipbuilding, 첫 대형 LNG선 인도. 자기 발주 건조\n💨\n가스선: N/A\n🚢\n컨테이너\n△ Maersk 가이던스 상향으로, 주가 급등\n🛳\n탱커\n▲ 수에즈막스 중고선가, VLCC 신조선가 수준에 거래\n▲ Sonangol도 20살 수에즈막스 매각. 작년말대비 크게 오른 가격\n▽ Evalend Shipping, 중국 양지장조선에 LR1 4척 발주\n🌉\n해양/디펜스/바람\n△ HD현대, 미국 서·남부 조선소 2~3곳 인수 후보로 압축\n▷ HD한국조선해양, 인도 코친조선소와 합작법인 추진 중단\n▽ Aramco, 이란 공격 속 걸프만 원유 수출 재개 및 장금상선 VLCC 3척 선적\n📌\n기타\n▷ 파나마 운하 급행료 지불\n------------------------------------------------------\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n✅\n컴플라이언스 승인을 득한 보고서입니다.\n------------------------------------------------------\n⚓️\n코멘터리: 보고서 참고",
       "images": [
-        "https://cdn5.telesco.pe/file/DyCg265tXaSaIzB2Qj7E2X1Xdu_FRERovERr8Vaa4TClFKam3595ZLddffXaylhBxU8yl3hKiUEROPy-B0T0GoCQSO9kALuQUF-8PiHvW33LQUJzxxq8Km0q_U7j5O0Xygxyttm1YwTDVJKpZWwezmiOeGPSQjYQZANMmFWnfeD8IkgLP0Qm391lPY1XrNvF727qscvexc6XGvTCELDMfP5Z3mkK0GNl55Hfb_7XwdaAmzyfWuDZ91IaOacUom0VEJMhbMWjkiE21U4kQx7YFW2GK1hmB3aQH5Nb2f2rpwJHCkmsiCn5xx3R8XFhjORSBELTy9KPosyFla-Slp1YSg.jpg"
+        "https://cdn5.telesco.pe/file/plOA4VETLxCBABH8mNvrPktMNiVwOwhcVsG7WPXVA9GtwyDoK0aaIukohkWkWszLfD3pE7Yg1hgQdZIbuUWoFyUfxFLzRG2bdfV2RuaYDP9Qv4SF4N0LAS-Oxsp1nfs9e7XCjOhpUdoNNVUZi3_XrjO-yWhkUQXJQu9Rn5dlofLKVGczHHqMVPbdghrP4G31Z1yKghZ6woJY44gDW_bxqk-U-3RTrORE844RZHMDKoiVvIE7L2nvJNwZ-hzvzIpichBo9iheaAqT60sQnKLnlWyFUoOpewXyX9g5Rndz6WfkWh0Rc5h-1HgRBC2CD5jv7zdhyXvJgwXzX4t1GCg4Kw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-23T04:59:56+00:00"
