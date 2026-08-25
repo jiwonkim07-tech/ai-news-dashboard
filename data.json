@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T13:50:32+00:00",
+  "updated_at": "2026-08-25T14:44:04+00:00",
   "counts": {
     "total": 192,
     "new_this_run": 2
@@ -16,6 +16,32 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/24761",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24761",
+      "text": "OPENAI’S JALAPENO CHIP OUTPACES NVIDIA IN TESTS  OPENAI SAYS ITS NEW JALAPENO AI CHIP BEAT NVIDIA’S GB300 IN POWER EFFICIENCY AND RESPONSE SPEED DURING TESTING.  DEVELOPED WITH BROADCOM, JALAPENO TARGETS AI INFERENCE AND COULD LOWER DATA-CENTER COSTS WHILE…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-25T14:16:23+00:00"
+    },
+    {
+      "id": "rss:semianalysis:openai-jalapeno-better-than-nvidia",
+      "source": "rss",
+      "author": "semianalysis",
+      "author_name": "SemiAnalysis",
+      "author_url": "https://semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "text": "OpenAI Jalapeño: Better Than Nvidia Blackwell\n\nOpenAI’s self-designed ASIC compared with Rubin, Jalapeño’s TCO, throughput per MW, and spicy deets",
+      "images": [
+        "https://substack-post-media.s3.amazonaws.com/public/images/8f308659-4472-47f2-bb48-10442949f1a6_1535x1024.png"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-25T14:00:38+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24760",
       "source": "telegram",
@@ -567,18 +593,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-24T14:16:23+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24747",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24747",
-      "text": "최태원 \"마진율 내려야하나\" 걱정…돈 쓸어담는 삼전닉스, 못웃는 이유\n비정상적 시장 기대도 복잡성 더해…\n\"최대 변수는 대한민국 정부\" 지적도\nhttps://n.news.naver.com/article/008/0005403992?type=editn&cds=news_edit",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-24T13:34:57+00:00"
     },
     {
       "id": "tg:enc210406/4357",
@@ -2310,20 +2324,6 @@
       ],
       "summary_ko": "베라 루빈 NVL72 vs GB200 NVL72? 추론 TCO 및 아키텍처 분석\n\n3비트 Rubin LUT 기반 텐서 코어, SM140 Feynman, 랙 규모, 메가와트당 성능, 달러당 성능, 소프트웨어 개선, 공용 Rubin 소프트웨어, PyTorch, vLLM, OpenAI Triton",
       "published_at": "2026-07-23T00:47:48+00:00"
-    },
-    {
-      "id": "rss:semianalysis:metas-infrastructure-team-needs-a",
-      "source": "rss",
-      "author": "semianalysis",
-      "author_name": "SemiAnalysis",
-      "author_url": "https://semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/metas-infrastructure-team-needs-a",
-      "text": "Meta’s Infrastructure Team Needs A Culture Reset\n\nMeta Infrastructure has become bloated, with middle managers expending resources on over-engineered technology solutions that lose sight of broader organizational needs.",
-      "images": [
-        "https://substack-post-media.s3.amazonaws.com/public/images/878a18e1-75b4-47a5-9b28-91d2f27ebf03_1376x768.png"
-      ],
-      "summary_ko": "Meta의 인프라 팀에는 문화 재설정이 필요합니다\n\n중간 관리자가 더 광범위한 조직 요구 사항을 간과하는 과도한 엔지니어링 기술 솔루션에 리소스를 지출하면서 메타 인프라가 비대해졌습니다.",
-      "published_at": "2026-07-22T02:41:34+00:00"
     },
     {
       "id": "x:GoogleAI:2079617029473182132",
