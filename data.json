@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-25T17:31:41+00:00",
+  "updated_at": "2026-08-25T18:38:29+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 1
+    "new_this_run": 2
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,32 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:globaletfi/21281",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21281",
+      "text": "» 미국의 8월 Conference Board 소비자신뢰지수는 89.4pt로 시장 예상치 90.2pt를 하회. 7월 수치도 기존 90.8pt에서 90.2pt로 하향 조정\n» 현재상황지수는 114.4pt에서 121.2pt로 상승하며 현 경기 여건에 대한 평가는 개선. 반면 기대지수는 74.0pt에서 68.2pt로 큰 폭 하락하며 향후 경기와 고용·소득 전망에 대한 소비자 불안 확대\n» 현재 상황에 대한 인식은 견조했으나 미래 기대가 크게 약화되면서 전체 소비자신뢰지수 하락 견인",
+      "images": [
+        "https://cdn5.telesco.pe/file/CB_nTDeRQemtStSPbvRATkbNeziEz4hlPw8qMlfujBqasCDTB4iUjeQs6d2cmUXG29Xyqv6OgfTQKECD6NsqBELJCISC1Dg83ICE82gGnuTTWPC9RbV_ZIkzlrNg1Id2v2e1JnNZ5h43LIBOqWlX59vgtHTS5xFRqx16QWoHV-rNVpl0tFZ0DjCHXyymvpw30V3VJ89JBet7ItYwKTcfquy84GWg4wZXUoMf1jL_0fgwXvvH3uCWCGL51xoNuBROR_ZFWh9x-lMrgjGU8L6tfg7HgHVktRpuiuV1PjjV6e3J4e6BJ84b23v3cVjY-bEEHqn9XgvouLSxrn5gC_My8w.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-25T18:04:41+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21280",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21280",
+      "text": "[엔비디아, Jetson Orin Nano 2 공개… Edge AI 추론 성능 2배·전력 효율 개선]\n*Jetson Orin Nano 2 공개\n-엔비디아가 Entry-level Edge AI용 신규 Robotics Computer Jetson Orin Nano 2 공개\n-로봇·Delivery Drone·Inspection Drone·Vision AI System 등 Physical AI Application을 겨냥\n-소형 AI Model의 성능 향상과 효율 개선으로 Edge Device에서도 실시간 AI 추론이 가능해지고 있다는 점을 제품 출시 배경으로 설명\n*성능\n-Jetson Orin Nano 2는 78 TOPS의 AI Compute 성능 제공\n-8GB Memory와 8-core Arm CPU 탑재\n-기존 Jetson Orin Nano Super 대비 Inference 성능 2배\n-개선된 Tensor Core와 더 높은 Memory Bandwidth를 통해 성능 향상\n-기존 제품과 동일한 Compact Form Factor 유지\n*전력 효율\n-15W Mode에서 기존 제품과 동일한 성능을 구현할 경우 전력 소비를 40% 절감\n-Edge AI는 전력과 공간 제약이 큰 로봇·Drone 등에 적용되는 만큼 성능뿐 아니라 Energy Efficiency 개선을 강조\n*Edge AI\n-엔비디아는 소형·중형 Frontier Model의 성능이 빠르게 향상되면서 Edge Device에서 실시간 Reasoning이 가능해지고 있다고 설명\n-Device가 Context를 이해하고 Language·Image를 해석한 뒤 실시간으로 행동하는 Physical AI 구현을 목표\n-Cloud에 의존하지 않고 로봇과 Edge Device 자체에서 AI Model을 실행하는 범위를 확대\n*지원 AI Model\n-NVIDIA의 Open Software Stack과 Jetson Agent Skills 지원\n-Large Language Model과 Vision Language Model을 Memory-efficient Edge Inference 방식으로 구동 가능\n-NVIDIA Cosmos·Nemotron과 Gemma 4·Qwen 3 등 Open Model 지원\n-개발자가 최신 Generative AI Model을 Jetson 기반 Edge Device에 적용할 수 있도록 Ecosystem 제공\n*Developer Ecosystem\n-현재 NVIDIA Robotics Stack을 사용하는 Developer는 300만명 이상\n-Jetson Orin Nano 2를 통해 기존 Robotics Developer Ecosystem을 Entry-level Physical AI 시장으로 확대\n-Hardware와 Software를 함께 제공해 Robot 개발부터 실제 제품 출시까지의 기간 단축을 목표\n*Cognex\n-Cognex가 Jetson Orin Nano 2를 초기 도입 및 평가하는 기업 가운데 하나\n-산업용 Vision AI System에 신규 Jetson Platform을 활용하는 방안을 검토\n-엔비디아의 Edge AI Platform이 산업용 Machine Vision 영역으로 확대되는 사례\n*Doosan Bobcat\n-Doosan Bobcat도 Jetson Orin Nano 2 초기 도입 및 평가 기업에 포함\n-건설·산업 장비의 Autonomous System과 Physical AI 적용 가능성을 확대\n*Matic\n-가정용 Cleaning Robot 업체 Matic이 Jetson Orin Nano 2 채택\n-Conversational AI·Gesture Detection·Precision Mapping·Semantic Understanding 등을 Robot에서 구현\n-주변 환경과 사물 배치를 이해하고 Autonomous Cleaning을 수행하는 데 활용\n-Edge에서 최신 AI Model을 직접 실행해 실시간 Perception·Interaction·Navigation 구현\n*Wing\n-Alphabet 자회사 Drone Delivery 업체 Wing도 Jetson Orin Nano 2 평가 계획\n-Wing은 현재 Delivery Drone Fleet에 Jetson Orin Nano Super와 NVIDIA Software Stack을 사용\n-신제품을 활용해 실시간 AI Perception과 Reasoning을 개선하고 더 빠르고 효율적인 Drone Delivery 구현을 검토\n*Hardware Ecosystem\n-AAEON·ADLINK·Advantech·Aetina·Aptiv·Seeed Studio 등 다수 Partner가 Jetson Ecosystem 참여\n-Carrier Board·Hardware System·Customized AI Software·Reference Solution 등을 개발\n-고객사가 Jetson 기반 Edge AI 제품을 빠르게 상용화할 수 있도록 지원\n*출시 일정\n-Jetson Orin Nano 2 Module과 Developer Kit은 2027년 상반기 출시 예정\n-엔비디아는 Data Center AI뿐 아니라 Robot·Drone·Machine Vision 등 Edge Physical AI 영역에서도 Computing Platform 확대\n링크:\nhttps://nvidianews.nvidia.com/news/nvidia-announces-jetson-orin-nano-2-robotics-computer-to-redefine-entry-level-edge-ai",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-25T17:34:40+00:00"
+    },
     {
       "id": "tg:globaletfi/21279",
       "source": "telegram",
@@ -422,18 +448,6 @@
       "published_at": "2026-08-25T04:40:29+00:00"
     },
     {
-      "id": "tg:globaletfi/21268",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21268",
-      "text": "🔹\n장기국채 바이백 확대에 대한 드라켄밀러의 비판적 견해\n[WSJ] 채권시장이 이야기 하도록 두어야 하는 이유\n» 미국 재무부는 10~30년 만기 장기국채 바이백 규모를 회당 20억달러에서 최소 40억달러로 두 배 확대하고, 9월 9일부터 11월 4일까지 시행하겠다고 발표했다. 발표 직전 30년물 금리는 19년 만의 최고치를 기록했고, 발표 직후 하락했지만 다음 날 다시 이전 수준을 웃돌았다. 시장은 이번 조치를 유동성 관리가 아니라 장기국채 가격과 금리를 관리하려는 개입으로 판단했다.\n» 당시 국채 입찰 실패나 딜러의 중개 기능 마비, 투자자의 강제 청산은 없었다. 2020년 3월 미국 국채시장이나 2022년 9월 영국 국채시장과 같은 기능 장애도 발생하지 않았으며, 변동성은 통제 가능한 수준이었고 거래도 질서 있게 이뤄졌다. 장기금리 상승은 시장의 고장이 아니라 미국의 경제·재정 여건을 정상적으로 반영한 가격 조정이었다.\n» 미국의 물가상승률은 3~4%로 연준 목표를 웃돌고 있고, 실업률은 4.1%로 완전고용에 가깝다. 그런데도 재정적자는 GDP의 약 6%에 이르고 국가부채는 40조달러를 돌파했다. 이번 회계연도 순이자비용도 1.1조달러를 넘어 국방예산보다 커질 전망이다. 그럼에도 10년물 금리는 미국 경제의 명목성장률과 비슷하거나 낮아, 금융환경은 재정위험에 비해 여전히 완화적이다.\n» 장기국채 금리는 미국 정부가 재정건전성을 개선하도록 압박하는 사실상 시장의 마지막 신호이다. 금리 상승은 정부의 재정정책에 대한 시장의 경고이며, 모기지 금리와 정부 이자비용 상승을 통해 정치권에 재정개혁을 압박한다. 재무부가 바이백으로 금리를 인위적으로 낮추면 미래 이자비용과 재정 문제의 시급성이 실제보다 작아 보이고, 의무지출 개혁을 미룰 유인이 커진다. 몇 bp의 금리를 낮추는 대신 개혁 지연으로 훨씬 큰 비용을 부담할 수 있다.\n» 장기국채를 매입하고 단기국채 발행으로 재원을 마련하면 민간이 보유한 장기 듀레이션 위험이 줄어든다. 이는 재무부가 시행하는 소규모 양적완화와 유사하며 금융환경을 완화하는 효과를 낸다. 물가가 이미 목표를 웃도는 상황에서는 인플레이션 압력을 높이거나 물가 안정의 진전을 방해할 수 있다. 시장이 재무부가 특정 금리 수준을 방어한다고 인식하면 금리가 오를 때마다 정책 의지를 시험하게 되고, 방어를 유지하기 위해 바이백 규모를 계속 확대해야 할 위험도 생긴다.\n» 1942년~1951년 연준의 장기국채 금리 상한제도 처음에는 전쟁 자금조달을 위한 기술적 조치로 시작했지만, 전쟁 이후까지 지속되며 통화발행을 통한 재정적자 조달과 두 자릿수 인플레이션을 촉진했다. 부채 관리와 국채가격 관리 사이에 경계를 설정한 데에는 이러한 역사적 이유가 있다. 이번 바이백 확대는 그 경계를 약화시키고 미국 국채시장에 대한 신뢰를 훼손할 수 있다.\n» 바이백은 비지표물의 유동성을 개선하기 위한 소규모·정례적 수단으로 운용하고, 특정 금리 수준에 대응하는 비정례적 개입으로 사용해서는 안 된다. 30년물 국채가 원활하게 소화되기 위해 5.5%의 금리가 필요하다면 이는 시장의 위기가 아니라 미국의 재정정책에 대한 비용 청구서이다.\n» 장기금리를 지속적으로 낮추려면 바이백이 아니라 기초 재정적자를 줄여야 한다. 의무지출은 소득·자산 기준 강화, 물가연동 방식 변경, 수급자격 조정 등을 통해 장기간에 걸쳐 점진적으로 개혁해야 한다. 신뢰할 수 있는 재정개혁은 대규모 바이백보다 장기금리를 안정시키는 데 훨씬 효과적이다. 미국 정부가 해야 할 일은 시장의 경고를 억누르는 것이 아니라 채권시장이 이야기하도록 두고, 그 신호에 맞춰 재정구조를 개혁하는 것이다.\nLet the Bond Market Speak\n- By Stanley F. Druckenmiller\n- Rising interest rates are a signal of trouble ahead. Artificially suppressing it heightens the danger.\nhttps://www.wsj.com/opinion/let-the-bond-market-speak-81529d74?st=gz2L17&reflink=desktopwebshare_permalink",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-25T04:33:12+00:00"
-    },
-    {
       "id": "tg:bornlupin/19857",
       "source": "telegram",
       "author": "bornlupin",
@@ -542,21 +556,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-24T23:32:49+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21266",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21266",
-      "text": "[하나 Global ETF Daily (8/25)]\n▶️\n하나 Global ETF 박승진(T.3771-7761)\n▶️\nRA 신민건(T.3771-3269)\n▶️\n텔레그램:\nhttps://t.me/globaletfi\n🔹\n주요 ETF Daily 수익률\n(2026.8.24 종가 기준)\n» 주요 시장 ETF\nSPY -0.29%\nQQQ -1.00%\nDIA 0.27%\nIWM -0.66%\n» 주요 국채 ETF\nTLT 0.62%\nIEF 0.20%\nSHY -0.01%\n» 주요 섹터/테마 ETF\n필수소비재(XLP) 1.70%\n금융(XLF) 1.29%\n여행/레저(PEJ) 1.25%\n🔹\nETF News\n[Yahoo Finance] 피델리티 'FNCL' vs 퍼스트 트러스트 'FTXO': 금융 섹터 투자 성향별 ETF 비교\n-\nhttps://buly.kr/4FvAAss\n- 미국 금융 섹터 내에서 Fidelity MSCI Financials Index ETF(FNCL)와 First Trust Nasdaq Bank ETF(FTXO)는 광범위 지수 추종과 규칙 기반(스마트베타) 은행 집중 투자라는 상이한 전략적 특성을 보유\n- FTXO는 운용 보수 0.60%, 순자산 3억 950만 달러 규모로 모멘텀과 유동성 등을 고려해 선별된 49개 은행주에 집중 투자\n- 최근 1년 총수익률 25.07%, 배당 수익률 1.72%를 기록하며 은행 랠리 수혜를 누렸으나, 베타값 1.11 및 5년 최대 낙폭 -46.57%에 달해 높은 하방 변동성을 나타냄\n- 반면 FNCL은 운용 보수 0.08%, 순자산 24억 달러 규모로 금융 전반 387개 종목을 편입하며 5년 최대 낙폭을 -25.68%로 방어\n- 장기 성과 및 포트폴리오 구조 측면에서도 뚜렷한 차이가 관찰됨. 5년간 1,000달러 투자 시 누적 자산은 FNCL이 1,686달러로 FTXO(1,525달러)를 앞서며 장기 총수익률에서 우위를 점함\n- FNCL은 JPMorgan Chase(10.4%), Berkshire Hathaway(7.8%), Visa(6.8%) 등 결제 네트워크와 보험사를 아우르는 시가총액 가중 방식을 취함\n- 반면 FTXO는 Bank of America(8.6%), Citigroup(8.3%) 등 순이익과 자산이익률(ROA) 기반의 은행주 중심 포트폴리오를 구성해 금리 및 대출 사이클 호재에 민감하게 반응하는 모습을 보여줌\n- 이러한 특성 차이는 특정 하위 팩터의 단기 모멘텀 활용과 장기적 변동성 관리 사이의 전략적 선택 필요성을 시사\n- 단기 은행업 랠리와 팩터 프리미엄을 겨냥한다면 FTXO가 유효하나, 장기 투자 관점에서는 극히 저렴한 운용 보수와 섹터 다각화 효과를 갖춘 FNCL의 구조적 안정성이 돋보임\n- 따라서 금융 섹터의 장기적인 성장 과실을 안정적으로 향유하고자 하는 투자자에게는 하방 방어력과 비용 효율성이 우수한 FNCL을 코어 자산으로 편입하는 전략이 더 유리할 것으로 판단\n[ETFdb] 달러화 전망 약세 속 실물 금 ETF 'AAAU' 주목: 인플레이션 및 부채 리스크 헤지 수단\n-\nhttps://buly.kr/1GMHV5Q\n- Scott Bessent 미 재무장관이 국채 바이백 재원으로 재무부 일반계정(TGA) 자금 1조 달러를 활용할 수 있다고 밝히면서 달러화 약세 전망이 짙어지고 있음\n- 호르무즈 해협 분쟁에 따른 에너지 가격 불안, 국가 부채 증가, 국채 금리 상승이 맞물려 통화 가치 불안이 가중되는 가운데, Goldman Sachs Physical Gold ETF(AAAU)가 효과적인 포트폴리오 방어 수단으로 주목받음\n- 통상 국채 금리 상승은 달러 강세 요인이지만, 현재의 금리 급등은 고착화된 인플레이션과 막대한 연방 부채 등 구조적 거시경제 위험을 반영하고 있어 달러화 가치에 실질적인 하방 압력으로 작용하고 있음\n- AAAU는 연 0.18%(18bps)의 저렴한 운용 보수로 현물 금 가격을 추종하며, 영국 보관소의 실물 금괴에 직접 투자하고 LBMA PM Gold Price를 기준으로 일일 순자산가치(NAV)를 산정\n- AAAU는 연초 대비(YTD) 7%의 수익률을 기록해 동일 귀금속 카테고리 평균을 상회\n- 아울러 최근 3년 및 5년 장기 성과에서도 동종 금 및 귀금속 ETF 대비 꾸준한 초과 수익을 입증\n- 이는 ETF 구조가 갖는 높은 유동성, 세제 효율성, 투명성을 바탕으로 실물 금에 손쉽게 접근할 수 있는 효율적인 자산 배분 도구임을 보여줌\n- 연준(Fed)의 완화된 포워드 가이던스로 통화 정책 및 환율 변동성 불확실성이 지속되는 환경에서, 실물 금 ETF는 포트폴리오의 하방 안정성을 강화하는 핵심 헤지 수단으로 평가됨. 주식 시장의 상승 여력과 별개로 달러 가치 희석 리스크가 상존하는 국면\n- 따라서 거시경제적 불확실성과 통화 가치 하락에 선제적으로 대응하려는 투자자에게 AAAU는 견고한 방어력과 비용 효율성을 제공하는 대체 자산 대안으로 활용될 수 있을 것",
-      "images": [
-        "https://cdn5.telesco.pe/file/GfE_VZ8OL4zfWTrApde0EoJuHANTG0qi6lemf6ac_1u1GWwXZeK08qUGuXpbCGlQpAlL5o12rHQb8fO5Q2BL3F6xLOLwOBklh76CEMTkZIum9KPSEhwzQ8NySpU1QMA4wzSPHlRyIu85z_ZCzem2kChe4XCNp0EASgzi57Blndb2gXv0cmOo3ed7cP9A197goG0QO10_Fk47Kb0iOMkg8umLk7ObYCW3l78uPeC7kUlQuxwMPwHlaLMiFT1M3A3fUkvSrW0HiH2K8IhoAvcGd3hlCg2g9Ty8vDQObXKwZnaPvunJJSR4cXogw9axpcsipCra3zr18OI45aD__t38yQ.jpg",
-        "https://cdn5.telesco.pe/file/VcRDdj0mnf223pXSyhvKmRF26Iu2DRF52h4tsf_4yii5y2QgePX89Ykt3OwFQP__e22IqzEkvmhp4kJGIMYalseHTdJD6sNlD02dAr8Zdx_fY3wvHTT7hC229HGL0A7u6aa6-5L8r6VuMMgh4S_q-4aFMTs8luQTBbGR-LnV2GInBb6mi_4XBYnR2ekyu4I1RomzX-6cxFK6j6K6vwrz1x9lUEm0RR1ooKtc-ZwXW8jC-aa4wp7-jo15UyDMnnSMbfwgM6JyF5ilchv1QxkWByz2eOWE7RbJDQay4JKH3hU_ThX7pEnhX1veOL3vDPrEeq-x_ywea5xsGRIVI_SlZg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-24T22:47:37+00:00"
     },
     {
       "id": "tg:HI_GS/6961",
