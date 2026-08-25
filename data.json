@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-25T18:38:29+00:00",
+  "updated_at": "2026-08-25T19:31:26+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 2
+    "new_this_run": 3
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,42 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:globaletfi/21284",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21284",
+      "text": "🔹\nOpenAI, 자체 AI 추론칩 ‘Jalapeno’ 공개. Nvidia GB300 대비 성능 우위 주장\n» OpenAI는 Broadcom과 공동 개발한 자체 AI 반도체 ‘Jalapeno’가 테스트에서 Nvidia의 현행 제품군보다 우수한 성능을 기록했다고 발표. 공개 벤치마크에서 Nvidia GB300과 비교한 결과, 전력당 AI 작업 처리량과 응답 속도에서 모두 우위 기록 설명\n» Jalapeno는 AI 모델 학습이 아닌 추론 단계에 특화된 반도체로, 높은 처리량과 낮은 지연시간을 동시에 구현해 비용 절감과 빠른 응답 속도 제공. 700와트의 비교적 낮은 전력으로 높은 성능을 구현해 전력비 비중이 큰 데이터센터 운영비 절감에 기여할 전망\n» OpenAI는 올해 말부터 자체 AI 모델 운영에 Jalapeno를 투입하고, 생산량 확대에 맞춰 자체 칩으로 처리하는 AI 작업의 비중을 높일 계획. OpenAI의 소형 오픈소스 모델과 DeepSeek·Moonshot AI 모델을 이용해 공개 테스트 진행. 가장 규모가 큰 Moonshot의 Kimi 모델에서 더욱 뚜렷한 성능 우위 확인\n» 미공개 OpenAI 대형 모델을 활용한 내부 테스트에서도 양호한 성능 기록. 작업량이 크고 복잡해질수록 Jalapeno의 효용이 높아질 가능성 제시\n» 다만 비교 대상에 Nvidia의 차세대 Vera Rubin 제품이 포함되지 않았고, Jalapeno도 Nvidia가 강점을 보유한 AI 학습용 칩은 아닌 만큼 Nvidia 제품군 전반에 대한 우위로 해석하기에는 한계. OpenAI 역시 막대한 컴퓨팅 수요를 고려하면 자체 칩이 Nvidia나 Cerebras 등 기존 공급업체를 단기간에 대체하지는 않을 것이라며, Nvidia를 핵심 반도체 공급업체로 계속 활용할 방침\n» OpenAI는 수개월 내 2세대 칩의 설계를 확정할 예정이며 3세대 제품의 개념 설계에도 착수. 자체 AI 칩을 통해 글로벌 AI 인프라의 비용과 전력 부담을 낮추겠다는 목표\nOpenAI Claims Its New Chips Can Outperform Nvidia Processors in Tests\nhttps://www.bloomberg.com/news/articles/2026-08-25/openai-claims-its-new-chips-can-outperform-nvidia-processors-in-tests",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-25T18:48:52+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21283",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21283",
+      "text": "[BofA] 필라델피아 반도체지수(SOX) 최대 10% 추가 하락 가능성 제시. 밸류에이션 매력은 긍정적으로 평가\n🔹\n주요 코멘트 내용\n» SOX 추가 하락 가능성: 금리 상승과 데이터센터 투자에 대한 반발, 순환금융 우려, 높은 투자 비중 등으로 필라델피아 반도체지수가 최대 10% 추가 하락할 가능성 존재\n» 단기 수급 부담: 반도체주 보유 비중이 S&P 500 대비 13%포인트 높은 수준으로, 투자자들의 높은 포지셔닝이 단기 주가 상승을 제한할 수 있다는 판단\n» S&P 500 대비 프리미엄 축소: ChatGPT 출시 전 SOX의 주가수익비율은 S&P 500 대비 약 9% 할인됐으나, AI 붐 이후 한때 15% 프리미엄으로 전환. 최근 조정으로 두 지수의 선행 주가수익비율은 약 20배로 수렴\n» 이익 성장 대비 밸류에이션 매력: SOX 편입 기업들의 선행 주당순이익 증가율이 연평균 약 70%에 달하는 점을 고려하면, 현재 20배 수준의 선행 주가수익비율은 저렴하다는 평가\n» 조정 시 매수 기회 확대: 단기적으로 추가 하락 위험이 존재하지만 계절적 요인은 강한 상승 요인으로 평가. 추가 조정이 발생할 경우 반도체주의 매수 기회가 확대될 수 있다는 판단\n» 선호 종목 제시: Nvidia, Marvell Technology, Micron, Lam Research, AMD, Intel, Analog Devices, ON Semiconductor를 조정 시 매수 기회가 커질 수 있는 종목으로 제시\n» Nvidia 하방 위험 점검: 투자자본수익률 둔화 가능성과 신규 기업용 시장에서의 불규칙하고 예측하기 어려운 매출 흐름을 주요 위험 요인으로 지목\n» Marvell 성장 가시성 개선 가능성: 주요 맞춤형 AI 반도체 프로젝트의 매출 확대 속도와 가시성이 예상보다 빠르게 개선될 가능성",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-25T18:47:24+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21282",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21282",
+      "text": "캐나다, 美에 200억달러 보복관세…700개 품목에 15~50%\n- 美 50% 관세에 '달러 대 달러' 맞불…내달 8일부터 적용\n- 양국 무역전쟁 격화…캐나다, 관세 피해 기업·근로자 대상 지원 패키지도\n캐나다 재무부는 이날 미국산 제품 약 700개 품목에 15%, 25%, 50%의 보복관세를 차등 부과한다고 발표했다. 보복관세 대상 수입액은 276억캐나다달러(미화 약 200억달러) 규모다.\n이번 관세 조치는 오는 9월 8일부터 적용된다.\n이는 미국이 지난 22일부터 약 200억달러 규모의 캐나다산 제품에 50% 관세를 부과한 데 대한 맞대응 조치다.\nhttps://n.news.naver.com/article/001/0016270543?sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-25T18:46:52+00:00"
+    },
     {
       "id": "tg:globaletfi/21281",
       "source": "telegram",
@@ -359,32 +395,6 @@
       "published_at": "2026-08-25T06:26:17+00:00"
     },
     {
-      "id": "tg:globaletfi/21272",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21272",
-      "text": "» 트럼프 대통령의 지지율은 2기 최저 수준인 33%",
-      "images": [
-        "https://cdn5.telesco.pe/file/lWmy8BQItjLxDuArcIm_vB02S8lFSCELjbdlMO4TpU_yNGBKC8B18MOb1VbRSUVPvsoGFxeDZB9HyGol6Ki-f31rMTczX4IIU57tUoZWbMgSGNm7LYJ7v7vwqmvyAUcTyTllZ7giUhQO6PCcWCRtdTyy9foOwGzM9P6Sw43StF8D6SeUhUI14QIadY_0a9GCF96ki3vnkkYSutLZSyuUytctX8Nq4eDYVyK4mMIUtj5ewNrf9s5RfHN_qrRWRhNWGrEpUnhfII9o6iTsFVA64PDmSkwKJBjWOpZem1or3SqCTYjBDpji0EVNME4oOuhqnYhAlgF8JH0Xhdu5RaXZ2A.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-25T06:18:38+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21271",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21271",
-      "text": "[하나채권] TGA 활용의 진의는 만기 축소. 연준과의 공조로 이어질까\n▶\n바이백의 순발행 영향 無. ‘만기 축소’ 여부가 핵심. 연준의 오퍼레이션 트위스트와 유사\n▶\nTGA 언급은 단기채 비중 확대 가능성으로 해석. TGA 규모보다 실제 바이백 규모가 중요\n▶\n향후 단기채 발행 확대 시 연준이 단기자금 시장 안정 위해 RMP 재개할 가능성\n▶\n재무부의 만기 축소 + 연준의 단기채 매입 = 강력한 장기금리 안정 및 부양 정책\n채권전략 박준우 (T.3771-7262)\n보고서:\nhttps://bit.ly/3SSowYk\n(컴플라이언스 승인을 득함)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-25T06:16:12+00:00"
-    },
-    {
       "id": "tg:HI_GS/6964",
       "source": "telegram",
       "author": "HI_GS",
@@ -407,21 +417,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-25T05:47:43+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21269",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21269",
-      "text": "🔹\nVolatility Shares, 아이스하키팀의 경기력에 연동되는 NHL ETF 승인 심사 신청\n» Volatility Shares가 NHL 32개 전 구단별 ETF 출시를 위해 SEC에 등록서류 제출. 각 ETF는 특정 NHL 구단의 지분이나 주식에 투자하는 상품이 아니라 해당 팀의 경기 성과에 연동되는 선물계약에 투자하는 구조\n» 각 ETF는 FutureSports가 산출하는 CME FutureSports Performance Index(FSPI)를 기초자산으로 하는 CME 선물을 편입. 즉 NHL 경기 데이터 → 팀별 FSPI → CME 선물 → ETF의 구조로 투자자에게 팀 경기 성과에 대한 익스포저를 제공\n» FSPI는 NHL의 공식 실시간 경기 데이터를 활용해 55개 통계 지표와 승·패 등을 기반으로 팀의 경기력을 하나의 숫자로 환산. 긍정적인 플레이는 지수에 가산되고 부정적인 플레이는 차감되며, 정규시즌과 포스트시즌 동안 경기 진행에 따라 실시간으로 지수가 변동. 특히 각 팀의 지수는 매 시즌 7,500pt에서 시작하고 포스트시즌 종료 후 다시 7,500pt로 리셋되는 구조. 따라서 기업의 이익 성장과 재투자가 누적되는 일반적인 주가지수와 달리 매 시즌의 경기 성과를 독립적으로 측정하는 성격\n» 개별 팀의 시즌별 경기 성과에 투자하는 파생상품형 ETF에 가까운 상품.\n또한 구단 기업가치, 구단 매각가격, 티켓 판매, 중계권, 스폰서십, 경기장 수익 등과 지수는 직접적으로 연계되지 않는 구조. 해당 구단의 지분이나 수익에 대한 권리를 취득하는 것은 아님\n» 실제 ETF 수익률은 경기 성과지수 자체가 아니라 이를 기초로 하는 선물 가격을 통해 구현. 이에 따라 경기 성과뿐 아니라 선물의 가격 형성, 만기구조와 롤오버, 유동성 및 추적오차 등이 ETF 성과에 영향을 미칠 가능성. CME는 관련 NHL 선물을 2026년 9월 28일 출시할 계획이나 규제 심사를 전제로 하고 있음. ETF 역시 아직 제안 단계로, 실제 출시를 위해서는 관련 규제 절차 확정 필요",
-      "images": [
-        "https://cdn5.telesco.pe/file/thWpYEq_daV1-KSfjKboXnsCA5R8lCe7nOIDOlQs-YMSqwwvAoHH5M3wfsggJrnLKpqkMTBOiODrVoZQgbWqNRF5oHXSYi0lZnRcCc24ZbhtJWkAcAl98euahpktUUfjfRsnq7_uQyULYVgofUWhxlIa0EgcfXkqWHOKBxVp0Gdv4kFr06mneYC35TIEvopLZkeMq34BVdk3dgpbZQUpjjz5wZrkPGK9YL0V_V3Kx18PTXwL3_eaP-Mmx8793F7tA4Z-Nz_KtDQyslff5636C1OeVQVmGl0wYSRzYlIKgRgrmETDwLJeewolUpQtgBYuloaJoSEahaGpj9XUIkwS9g.jpg",
-        "https://cdn5.telesco.pe/file/LyBJi7OKEJFZNon5hq7ptonDwH33xCSVvJRGI6hmozXhvefU6WNy1RBH9eb8W3Dzj2Tz79yPBFgQydqp-rE03wWMmjfh-nLQ5FBgPySWqBVNAixL6Q5S4LnPpyjJSQqP9cokye2UjcboBOcPdJ3xoJSqetJRNzqU5hq7LxZLA-RTYnatsmGgtjXDztxWk2M2apSUJQeMVFd5KWjwgj9nqdkx2zp_6DjDTyvPZvFpqMzYljkUA7i_afS2bslwmsDP-W_nS11olo9wHSQtf_5I28LARRdchtm3b-BQUPr1_ACL-ZENJZcFawxU0KbOm6oV7Gu8CmETlR9bN6_KiF_heQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-25T05:47:28+00:00"
     },
     {
       "id": "tg:bornlupin/19859",
