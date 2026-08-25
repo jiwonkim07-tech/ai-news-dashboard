@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-25T04:38:12+00:00",
+  "updated_at": "2026-08-25T05:31:13+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 3
+    "new_this_run": 2
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,30 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19859",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19859",
+      "text": "Citadel, Hard Choices\n1. 미 재무부의 장기 국채 개입과 금융 억압\n국채 바이백 한도 확대:\n미 재무부(베센트 장관)는 10~30년물 유동성 지원 국채 바이백 한도를 회당 20억 달러에서 40억 달러로 2배 상향했습니다. 이는 11월 4일까지 약 140억 달러 규모의 추가 매입을 의미하며, 분기별 20년·30년물 예상 발행량의 약 13%에 달합니다.\n오퍼레이션 트위스트(Operation Twist)의 성격:\n이번 조치는 전체 국채 잔액을 줄이지 않고 단기 국채(T-Bills/CMBs) 발행으로 재원을 조달하므로 양적완화(QE)가 아닙니다. 민간이 소화해야 하는 장기물 듀레이션 부담을 줄여 수익률 곡선을 평탄화(플래트닝)하려는 조치입니다.\n엔화 개입과의 공조:\n미 국채 최대 보유국(약 1조 1,200억 달러)인 일본의 엔화 약세 및 JGB 금리 상승에 따른 미 국채 투매 위험을 선제적으로 차단하기 위한 목적도 내포되어 있습니다.\n거시경제적 왜곡 위험:\n경기 호조와 완전고용 상태에서 장기 금리를 인위적으로 누르는 행위는 '금융 억압(Financial Repression)'에 가깝습니다. 채권 시장의 금리 상승 압력을 억누르면 압력이 외환 시장으로 전이되어 달러 약세와 수입 물가 상승(인플레이션)을 유발할 수 있습니다. 근본적 해결책은 인위적 개입이 아닌 재정 긴축과 중앙은행의 선제적 금리 인상입니다.\n2. AI의 물리적 병목현상과 전력화된 연산력(Energized Compute)\n핵심 희소 자산의 정의:\nAI 성장의 병목은 단순한 GPU 칩 재고가 아니라,\n전력·데이터센터 공간·메모리·네트워킹·냉각 인프라가 완전히 결합되어 '즉시 가동 가능한 연산력'의 부족입니다.\n하이퍼스케일러의 수익성 재평가:\n2024~2025년에 체결된 기존 데이터센터 저가 계약들이 만료되어 재계약될 때, 가격 인상과 고정비 기반 가동률 상승으로\n하이퍼스케일러(MS, 구글 등)의 실제 현금 창출력과 영업 레버리지가 시장 예상보다 크게 뛸 수 있습니다.\n토큰 가격 하락과 수요 탄력성:\nAI 에이전트의 확산으로 단일 명령에도 수백 번의 모델 호출이 발생합니다. 토큰당 단가가 하락하더라도\n작업당 연산 소모량이 폭증하므로, 수요 탄력성에 의해 전체 시장 파이는 축소되지 않고 오히려 급팽창합니다.\n생태계 이원화:\n프론티어 랩(OpenAI, Anthropic 등)은 고부가가치 추론 및 기획 작업을 담당해 프리미엄 수익을 얻고, 오픈소스 및 경량화 모델은 대규모 실행을 맡습니다.\n하이퍼스케일러는 모든 연산의 기반 인프라를 제공하며 양쪽에서 이익을 회수합니다.\n3.\n글로벌 AI 경쟁과 로컬 인허가(Permission) 리스크\n정치적 갈등 심화:\n연방 정부는 AI 데이터센터를 대중국 패권 경쟁의 전략적 인프라로 보지만, 지역 사회는 전기 요금 인상, 막대한 용수 소비, 제한적인 일자리 창출을 이유로 반발하고 있습니다.\n초당적 규제 움직임:\n뉴욕주의 대형 데이터센터 인허가 보류, 펜실베이니아의 인프라 기여금 요구에 이어, 친기업 성향의 텍사스주(ERCOT 전력망 연결 대기 용량 474GW 중 약 90%가 데이터센터)조차 전면 감사와 승인 중단을 명령했습니다.\n비용 부담 주체의 변화:\n논의의 초점이 \"AI로 무엇을 할 수 있는가?\"에서\n\"인프라 가동 비용을 누가 부담할 것인가?\"로 전환되었습니다. 향후 개발사는 자체 전력 확보, 계통 보강 비용 부담, 지역 사회 보상안을 직접 마련해야 합니다.\n빅테크의 새로운 진입 장벽:\n인허가 규제가 까다로워질수록 이미 전력과 허가를 확보한 기존 부지의 가치는 폭등\n하며,\n자본력이 풍부해 전력망 직접 투자와 규제 협상이 가능한 대형 빅테크 기업들의 시장 지배력이 더욱 견고해지는 역설\n이 발생합니다.\nhttps://www.citadelsecurities.com/news-and-insights/macro-thoughts/hard-choices/?utm_source=chatgpt.com",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-25T05:14:47+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19858",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19858",
+      "text": "[한투증권 화장품 김명주] 금일 에이피알 주가 상승 코멘트\n★ 금일 에이피알 주가 7.2% 상승 중 (13시 30분 기준)\n- 시장 조정에도 불구하고(코스피 -0.54%), 에이피알 주가 7.2% 상승 중\n★ 밸류에이션 매력 여전히 존재. 양호한 주가 흐름을 예상\n- 섹터 순환매 기조 속 회사의 밸류에이션 매력이 부각되면서 금일 양호한 주가 흐름을 보이는 중\n- 에이피알의 압도적인 매출 성장률을 고려 시 에이피알의 밸류에이션은 여전히 매력적(12MF PER, 에이피알 20.6배 vs. 브랜드 상장사 4사 평균 20.6배)\n- 현재 유럽 주요 국가의 아마존 화장품 카테고리 내 랭크된 에이피알의 제품 수는 프라임데이 보다 크게 증가한 상태\n- 특히 프랑스/스페인 아마존에서 양호한 흐름을 보이는 중\n- 8월 1~20일 기준 에이피알의 주요 시장인 미국/유럽향 수출 또한 견조. 현재 흐름이 지속될 경우 8월 미국향 수출은 7월(역대 최대치)을 넘어갈 가능성 존재\n- 양호한 산업 업황과 안정적인 3분기 실적 등을 고려 시 에이피알은 화장품 섹터에서 가장 안전한 선택지가 될 걸로 판단\n- 밸류에이션 매력이 부각되며 양호한 주가 흐름을 이어갈 걸로 전망\n관련 리포트:\n- 에이피알 코멘트: 브랜드사 중 밸류에이션이 가장 싸(8/3):\nhttps://alie.kr/3NLFI2K\n- 에이피알 2Q26 Review: 실적도 좋은데 밸류까지 매력적(8/6):\nhttps://alie.kr/1wrk8H\n감사합니다.\n김명주 드림",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-25T04:40:29+00:00"
+    },
     {
       "id": "tg:globaletfi/21268",
       "source": "telegram",
@@ -205,34 +229,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-25T00:18:21+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19847",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19847",
-      "text": "테슬라 세미\n다음 달 네바다주 신규 세미(Semi) 공장 준공식\nSEMI ROLLOUT: 2026년 9월 24일",
-      "images": [
-        "https://cdn5.telesco.pe/file/R0EXdr9qBnhFCPFDlIzKX2iqoe0t5TNbW-KUw2KBEZGWMK82SuQyWrz3LEq42873DmYBJ3PM456aglZ6baCfn9eP6OY9Vm7OelUiiHD6YkvCfw1fkPu6LG43lZ-fTXICBfbcRcwrx1yPqrR-CrXEYhKWnjgXzpqdFQxXAaePIsmuz0WJzx1Qs-Umxn92hGL59yseC1aBe9oT4o0qW1RfC2YV2EHTywM0ppCxNDhr_fgkoVw7MMrdbpnA_1oxSYUPskCAqYQRr0R1aJ796pBt4VwC0uYvW0brTHghvYJpqVYQKY3k5lJJPyiJUShQhA2b-10im582BDXUE3HZHfe-Rw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-24T23:59:06+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19846",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19846",
-      "text": "일론 머스크 재게시글\n\"\n우리는 미국 GDP 통계가 엔비디아(Nvidia)가 미국 경제에 창출하는 가치의 대부분을 누락하고 있다는 사실을 발견했습니다.\"\n\"그 결과,\n지난 1년 동안의 GDP 성장률은 약 0.3%포인트(pp)가량 과소평가\n되었습니다.\"",
-      "images": [
-        "https://cdn5.telesco.pe/file/gn0fBDMv1KFIhBbgcA8-JLvFVLxqZyMqkQUtQDspThIVtjhTNKJEeSo7xHbhUJAoJa9NjHgSbIA-KlWDrQlzCjuIQqAQNhhswEHBMBuoWzMP1BPJpP-AWEJQ1uvpagNN4JQM6KWlhaKTcdqS0WG5koXm-_YL5hmuZVWkkLbfju5RY-PJXKyDRawxk00cHW_sVTIUV5drfliqtCguz8IP409I4UEaEejCnrpjhqTfZdj7XLILSMAGSvYJf5WX2p7ro9i2yndGWTcoPAeTqJVLc5CTBalaa6PSMdJjdMn4qadzAm_bPpMokhCmRhmqLCSaK-1Ui5bcJ16e90fgphKeMw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-24T23:56:01+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/24750",
