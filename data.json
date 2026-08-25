@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-08-24T23:21:57+00:00",
+  "updated_at": "2026-08-25T01:14:02+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 5
+    "new_this_run": 15
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,194 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/19849",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19849",
+      "text": "Vera Rubin NVL72 실측 성능 및 벤치마크\n압도적인 처리량 및 비용 절감:\n차세대 플래그십 랙 시스템인 Vera Rubin NVL72에서 DeepSeek-V4-Pro(1.6T)를 구동한 결과,\n기존 GB300 NVL72 대비 전력당(MW당) 처리량이 최대 30배 증가하고 토큰당 생성 비용은 최대 35배 절감되었습니다.\n전력 효율 극대화: NVIDIA DSX MaxLPS 전력 관리 기술을 통해 동일한 전력 예산 내에서 최대 40% 더 많은 GPU를 배치\n할 수 있습니다.\n새로운 평가 기준(AgentX):\n단순 챗봇용 벤치마크 대신, 긴 컨텍스트와 도구 호출 및 하위 에이전트 생성을 반영한 SemiAnalysis의 'AgentX' 벤치마크를 적용해 실제 에이전트 코딩 환경 성능을 입증했습니다.\n아키텍처 및 핵심 기술 혁신\n분리형 아키텍처 및 NVFP4:\n분산 KV 캐시, KV 인식 라우팅, MegaMoE 및 품질 저하 없이 메모리 점유율을 대폭 낮춘 NVFP4 양자화 기술이 적용되었습니다.\n6세대 NVLink:\n이더넷 대비 10배 빠르고 지연 시간을 3분의 1로 줄여 72개 GPU 간 MoE 전문가 모델 호출을 최적화했습니다.\n초저지연 추론 가속기 'Groq 3 LPX' 양산\n역할 분담 구조:\n대규모 컨텍스트 처리는 Rubin GPU가 담당하고, 토큰 생성은 전용 가속기인 Groq 3 LPX가 전담하는 분리 구조를 채택했습니다.\n폭발적인 출력 속도:\nGemma 4 31B(10만 토큰 컨텍스트) 기준 3,400 token/s, 코딩 작업 시 최대 6,981 token/s의 속도를 기록했습니다. 5,000 토큰 생성 시간이 50초에서 1.5초로 대폭 단축(34배 단축)되었습니다.\n에이전트 전용 'Vera CPU' 및 SpaceXAI 협력\nVera CPU 스펙:\n복잡한 에이전트의 도구 호출, 파이썬 코드 실행, 스케줄링을 전담하기 위해 88개의 자체 설계 'Olympus' 코어와 1.2TB/s 대역폭의 LPDDR5X 메모리를 탑재했습니다.\nSpaceXAI 대규모 도입:\n일론 머스크의 SpaceXAI는 Grok 구동을 위한 기가와트(GW)급 데이터센터에 Vera CPU를 대규모로 도입했습니다.\n우주 배치 계획 (2028년):\n2028년 발사 예정인 1세대 AI 인공위성 'Starmind'에 우주 환경에 최적화된 Vera Rubin NVL72 랙 시스템을 탑재할 계획입니다.\nNVIDIA는 단순한 개별 GPU 공급업체를 넘어 CPU, 전용 추론 가속기, 고속 인터커넥트를 유기적으로 통합하여 완결된 '에이전트 AI 공장' 인프라를 구축하는 전략적 전환을 공식화했습니다.\nhttps://wallstreetcn.com/articles/3780194#from=ios",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-25T00:57:30+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24753",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24753",
+      "text": "엔비디아, 베라 루빈 첫 테스트 충격. 딥시크 처리량 30배 급증!\n• 엔비디아, 베라 루빈 NVL72 온칩 실측 데이터 최초 공개. 딥시크-V4-Pro로 에이전트 코딩 작업 통해 GB300 대비 메가와트당 처리량은 최대 30배 급증, 토큰 비용은 35배 감소\n• 에이전트 전용으로 설계된 베라 CPU는 SpaceXAI에 대규모 배포. 2028년 우주로 보낼 계획. 그록 가속기는 전면 양산\n英伟达震撼首测Vera Rubin，DeepSeek吞吐暴涨30倍！\n英伟达首次公布Vera Rubin NVL72片上实测数据，搭配DeepSeek-V4-Pro跑Agent编码任务，较GB300每兆瓦吞吐量最高飙升30倍，Token成本暴降35倍。同日，专为Agent设计的Vera CPU已被SpaceXAI规模化部署，并计划2028年送上太空。Groq加速器全面量产。\nhttps://wallstreetcn.com/articles/3780194#from=android",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-25T00:37:20+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24752",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24752",
+      "text": "[단독] 美, 호남 반도체 언급하며 \"공장 지어달라\" 압박\n현지 반도체 투자 지연에 불만\n메모리 물량 안정적 공급도 요구\nhttps://www.chosun.com/politics/blue_house/2026/08/25/UOLWZRV3INGBFLAMU63ULWU4NA/",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-25T00:36:09+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24751",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24751",
+      "text": "[속보] SK하이닉스 잠정합의안 노조 투표 부결…반대 50.1%\n자사주 말고 현금 지급 현행을 유지하면 CAPEX와 주주환원에 제동이 걸린 셈이네요\nhttps://www.yna.co.kr/view/AKR20260825041400003?section=industry/all&site=topnews02",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-25T00:19:59+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19848",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19848",
+      "text": "엔비디아 루빈(Rubin) GPU - Hot Chips\n단일 칩 단위가 아닌 대규모 AI 팩토리 환경에서 업계 최고 수준의 전력 대 성능비(와트당 FLOPS)를 달성하도록 설계된 차세대 아키텍처입니다.\n100MW급 AI 팩토리 기준 성능 사양\nNVFP4 추론 성능:\n2 ZFLOPS (제타플롭스)\nNVFP4 학습 성능:\n1.4 ZFLOPS\nHBM4 메모리 용량:\n11 PB (페타바이트)\nHBM4 메모리 대역폭: 800 PB/s\n(초당 페타바이트)\n(해당 수치는 MaxLPS 기반의 DSX 대규모 AI 팩토리 구축 기준)",
+      "images": [
+        "https://cdn5.telesco.pe/file/pJs7Xm5tPdm2Fj4D_T5lBN0uQIH8NBU3UzpW981X3ENtKcvudB9UrCQNAaRK1oG1vEr-tZOkuSq3lQY39fGx4QL8m3y-8lNZDigKnSlmL5jilRYnXTAlQO2l9N-KduS2CPyLHu5S4TxDlaARhJ6vAqaCmfOGfWv0EFNiVwTsRVE9kMsnMJvLHc5W3VjgQjjKFEtFeURnFHLqVkeh3KSsPeHZ37qsw-jBeVnYDU1wAet_Tr9AcRyOuXn1RyO2MH2bA0TtE45HrUgdN51ApvdQDRCXQM37ZrwWa1nFd-Zy4yR82ezqLulim1mw9FJ9NcE9JxTwjVhYRNYTWkFmMm69lw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-25T00:18:21+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19847",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19847",
+      "text": "테슬라 세미\n다음 달 네바다주 신규 세미(Semi) 공장 준공식\nSEMI ROLLOUT: 2026년 9월 24일",
+      "images": [
+        "https://cdn5.telesco.pe/file/R0EXdr9qBnhFCPFDlIzKX2iqoe0t5TNbW-KUw2KBEZGWMK82SuQyWrz3LEq42873DmYBJ3PM456aglZ6baCfn9eP6OY9Vm7OelUiiHD6YkvCfw1fkPu6LG43lZ-fTXICBfbcRcwrx1yPqrR-CrXEYhKWnjgXzpqdFQxXAaePIsmuz0WJzx1Qs-Umxn92hGL59yseC1aBe9oT4o0qW1RfC2YV2EHTywM0ppCxNDhr_fgkoVw7MMrdbpnA_1oxSYUPskCAqYQRr0R1aJ796pBt4VwC0uYvW0brTHghvYJpqVYQKY3k5lJJPyiJUShQhA2b-10im582BDXUE3HZHfe-Rw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-24T23:59:06+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19846",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19846",
+      "text": "일론 머스크 재게시글\n\"\n우리는 미국 GDP 통계가 엔비디아(Nvidia)가 미국 경제에 창출하는 가치의 대부분을 누락하고 있다는 사실을 발견했습니다.\"\n\"그 결과,\n지난 1년 동안의 GDP 성장률은 약 0.3%포인트(pp)가량 과소평가\n되었습니다.\"",
+      "images": [
+        "https://cdn5.telesco.pe/file/gn0fBDMv1KFIhBbgcA8-JLvFVLxqZyMqkQUtQDspThIVtjhTNKJEeSo7xHbhUJAoJa9NjHgSbIA-KlWDrQlzCjuIQqAQNhhswEHBMBuoWzMP1BPJpP-AWEJQ1uvpagNN4JQM6KWlhaKTcdqS0WG5koXm-_YL5hmuZVWkkLbfju5RY-PJXKyDRawxk00cHW_sVTIUV5drfliqtCguz8IP409I4UEaEejCnrpjhqTfZdj7XLILSMAGSvYJf5WX2p7ro9i2yndGWTcoPAeTqJVLc5CTBalaa6PSMdJjdMn4qadzAm_bPpMokhCmRhmqLCSaK-1Ui5bcJ16e90fgphKeMw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-24T23:56:01+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19845",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19845",
+      "text": "(아래) 지분율 올려야 하는 하닉 vs 지분 넘치면 안 되는 삼전\n두 회사의 접근법을 가른 핵심 배경으로는 '지배구조 규제'가 꼽힌다.\nSK하이닉스는 자사주 소각이 지주사 지분율 방어에 직결된다.\n공정거래법상 지주회사인 SK스퀘어는 자회사인 SK하이닉스 지분을 20% 이상 보유해야 한다.\n지난달 미국 ADR 발행으로 SK스퀘어의 SK하이닉스 지분율은 규제 마지노선인 20% 턱밑까지 낮아진 상태다. SK하이닉스가 자사주를 사들여 소각하면 전체 발행주식 수가 줄어들어 SK스퀘어의 지분율이 자연스럽게 올라가는 일석이조 효과를 누릴 수 있다.\n반면 삼성전자는 정반대 규제에 묶여 있다. 금산법상 금융회사는 비금융 계열사 지분을 10% 초과해 가질 수 없다.\n올해 6월 말 기준 삼성생명(8.51%)과 삼성화재(1.49%)의 삼성전자 합산 지분율은 정확히 10.00%로 턱 끝까지 찼다.\n만약 삼성전자가 대규모 자사주를 소각해 주식 수를 줄이면 금융 계열사 합산 지분율이 10%를 초과하게 돼, 두 계열사는 규제 준수를 위해 삼성전자 주식을 시장에 내다 팔아야 하는 부담을 안게 된다.\n대주주 일가의 지분율 구조도 변수로 거론된다.\nSK하이닉스는 최태원 SK그룹 회장 등 오너 일가의 직접 지분이 사실상 전무해 배당 확대가 오너 일가 현금흐름에 미치는 영향이 미미하다. 반면 삼성전자는 이재용 삼성전자 회장 1.67%를 비롯한 오너 일가가 직접 지분을 보유하고 있어 배당 확대 시 직접적인 현금 유입이 발생하는 구조다.\nhttps://www.etoday.co.kr/news/view/2617536\n**당사 컴플라이언스 승인을 받아 발송되었습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-24T23:43:39+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24750",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24750",
+      "text": "JP모건) 한국 로봇&휴머노이드; 휴머노이드 시대 전망; HMG 로보틱스 가치 570억 달러; 현대차/기아 비중확대 유지\nJP모건은 휴머노이드에 대한 강세 관점을 유지했습니다. 근거는 두 가지로, 첫째 조기 배치가 데이터와 학습의 플라이휠을 만들어 실제 작업 환경에 로봇을 투입할수록 반복을 통해 성능 개선이 가속화되고, 둘째 휴머노이드는 업그레이드가 가능해 작업이 변해도 재배치할 수 있으므로 좌초 자본(stranded capex) 리스크가 통상적인 인식보다 구조적으로 낮다는 점입니다. 데이터 보안 우려는 온프레미스 배치와 데이터 거버넌스 체계로 완화 가능하며, 민감한 운영 데이터를 역설계가 어려운 추상화된 모션 벡터로 변환하고 고객 소유 데이터센터에 저장하는 방식으로 도요타가 HMG 휴머노이드를 도입하는 것도 가능하다고 봤습니다. 궁극적으로는 데이터 공유 수준에 따라 구독료와 OTA 업데이트 속도를 차등화하는 계층형 구독 구조가 자리잡을 것으로 예상했습니다.\n태스크 특화 로봇의 강점도 인정하면서도, 미국 초기 휴머노이드 수요가 공급을 초과할 것으로 전망했습니다. 절차가 명확하고 예외가 적은 환경에서는 태스크 특화 로봇이 달러당 처리량에서 우위지만, 절차가 가변적이고 엣지 케이스가 빈번한 비정형 업무에서는 휴머노이드가 점유율을 확대할 것이며, 최고 ROI는 두 형태를 병치하는 하이브리드 배치에서 나올 수 있다고 분석했습니다. 미국 제조업의 미충원 일자리는 현재 약 46만 2천 개에서 2030년 약 160만 개로 확대될 전망이고, 창고 부문에서는 시간당 10~12달러 수준의 휴머노이드가 30달러 수준의 인건비 대비 경쟁력을 갖습니다. 이를 종합해 2030년 미국 휴머노이드 수요를 약 53만 1천 대(소비자 제외 약 30만 6천 대)로 추정했으며, 이는 생산능력 전망치 약 30만 대를 상회하는 수치입니다.\n시장은 지불의사와 ROI가 명확한 산업용에서 먼저 개화한 뒤 BOM 하락과 함께 소비자 시장이 변곡점을 맞을 것으로 봤습니다. 소비자 지불의사는 월 수백 달러 수준(Figure AI, 1X Technology 언급 기준 약 500달러)인 반면 현재 범용 휴머노이드 BOM은 수만~10만 달러 이상이어서 소비자 페이백이 매력적이지 않고, 가정 환경에서의 안전성·신뢰 검증도 과제입니다. 처음부터 소비자 호환 가능하게 설계하되 산업 현장에서 먼저 수익화·검증하는 것이 최적 전략이며, HMG가 대체로 이 플레이북을 따르고 있다고 평가했습니다.\n휴머노이드 스케일업의 3대 병목으로는 브레인(특히 양질의 학습 데이터), 손, 공급망 준비도를 꼽았습니다. 로봇 파운데이션 모델은 이미 다수 존재해 결국 데이터가 실전 성능 차별화의 핵심 동인이 될 것이고, 정교한 손은 기술적으로 가장 어려운 부분이지만 2030년 이전 초기 배치는 단순 그리퍼로 우회 가능하다고 봤습니다. 공급망 측면에서는 휴머노이드가 약 5천 개 부품을 필요로 하는데 EV 공급망과 70% 이상 겹쳐 자동차 OEM의 역량이 유의미하게 활용될 수 있다고 분석했습니다. HMG는 3대 요건 중 독점 데이터 접근성과 공급망 준비도 두 가지를 충족하며, 올여름 개소한 로봇 트레이닝 센터 RMAC이 데이터 플라이휠 구축의 중심이 될 것으로 전망했습니다. 초기 배치 대상이 머신 텐딩 등 고난도 손기술을 요하지 않는 작업이어서 손 파트너를 기다릴 시간적 여유도 있다고 봤습니다.\n밸류에이션 측면에서는 초기 배치가 원가에 근접한 가격으로 적자를 지속할 수 있어 P/S를 더 적합한 방법으로 유지했습니다. 산업 부문의 지불의사를 기준으로 2028~30년 ASP를 대당 약 12만 달러로 가정했는데, 이는 20시간/일 가동과 2년 페이백 기준 시간당 약 8.2달러에 해당해 미국 제조업 인건비 대비 경쟁력이 있습니다. 초기 생산 BOM은 대당 약 5만 3천~6만 3천 달러로 추정하며 손이 최대 변수이고, 장기적으로는 60~70% 절감돼 2만 1천~2만 5천 달러까지 하락할 수 있다고 봤습니다. 2030년 아틀라스 3만 대 양산을 가정하고 20배 P/S를 적용해 HMG 로보틱스 사업 가치를 약 570억 달러로 산출했는데, 이는 2026년 1월 평가치 약 490억 달러 대비 16% 상향된 것입니다.\n이에 따라 현대차 목표주가를 54만 원(기존 53만 원), 기아를 21만 원(기존 20만 원)으로 상향하고 두 종목 모두 비중확대를 유지했습니다. 현대차는 SOTP 기준 자동차 사업에 2028년 순이익 대비 9배 P/E를 적용해 106조 원, HMG 로보틱스 사업 지분 28%에 지주회사 할인 30%를 적용해 약 16조 원을 반영했으며, 기아는 자동차 사업 7배 P/E에 로보틱스 지분 17%로 약 10조 원을 반영했습니다. 밸류체인 내 가치가 시스템 통합자로 이동하고 있다는 판단하에 부품사(모비스, 만도, 오토에버)보다 로봇 OEM(현대차/기아)을 선호하며, 자동차 실적이 바닥을 통과한 것으로 보이는 만큼 투자자 관심은 로보틱스의 가시적 진전이라는 장기 내러티브로 이동할 것으로 전망했습니다. 리스크 요인으로는 매크로 불확실성에 따른 판매 부진, ADAS 개발 마일스톤 지연, HMG 로보틱스 개발·양산 계획 차질을 제시했습니다.\n*클로드로 요약함",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-24T23:42:27+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19844",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19844",
+      "text": "Nebius Token Factory, AI 클라우드 최초로 NVIDIA Groq 3 LPX 도입\nNebius가 자사의 AI 추론 플랫폼인 'Token Factory'에\nAI 클라우드 최초로 NVIDIA Groq 3 LPX를 도입하여 에이전트 워크로드의 토큰 생성 속도를 대폭 개선했습니다.\n핵심 기술 및 하드웨어 사양\nGroq 3 LPX 도입\n:\nNVIDIA Vera Rubin NVL72 플랫폼의 확장 형태로, 응답성과 속도가 중요한 에이전트(Agentic) 사용 환경에 맞춰 초고속 토큰 생성을 지원합니다.\n하드웨어 스펙\n: 각 NVIDIA LPX 랙은 256개의 LPU 가속기, 128GB 온칩 SRAM, 640TB/s의 스케일업 대역폭을 갖추었으며, NVIDIA MGX 기반의 완전 수랭식 냉각 방식을 채택했습니다.\n에이전트 지연 시간 최소화\n: 여러 단계의 모델 호출이 연속적으로 이어지는 에이전트 워크로드의 특성상, 생성 지연 시간(latency)이 누적되는 병목 문제를 극복하는 데 초점을 맞췄습니다.\n성능 벤치마크 결과\nGemma 4 31B 신기록\n: Artificial Analysis 벤치마크 기준, 단일 사용자 대상\n초당 3,400 출력 토큰\n을 기록하며 해당 모델 기준 역대 최고 속도를 달성했습니다.\n전력 효율 및 처리량 개선\n: 긴 컨텍스트 및 저지연 환경에서 2조(2T) 파라미터 모델 구동 시, Vera Rubin NVL72 결합 환경은 기존 GB200 NVL72 대비 메가와트(MW)당 추론 처리량이 최대\n35배\n향상되었습니다.\n개발자 편의성 및 무중단 적용\n인프라 재설계 불필요\n: 새로운 가속기를 사용하기 위해 기존 기술 스택을 재설계할 필요 없이, 기존 Token Factory 플랫폼에서 즉시 구동됩니다.\n기존 엔터프라이즈 기능 지원\n: 오토스케일링, 모니터링(관측성), 네이티브 함수 호출(Function Calling), 구조화된 JSON 출력, 보안 가드레일 등 기존 기능을 동일하게 이용할 수 있습니다.\n간단한 전환\n: 별도의 SDK 교체, 새로운 공급업체 계약, 결제 설정 변경 없이 모델 선택 옵션만 변경하여 지연 시간에 민감한 작업에 즉시 배포할 수 있습니다.\nhttps://nebius.com/blog/posts/nvidia-groq-3-lpx-nebius-token-factory",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-24T23:40:26+00:00"
+    },
+    {
+      "id": "tg:HI_GS/6962",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/6962",
+      "text": "[다올투자증권 조선/기계/방산 최광식]\n8/25(화) 데일리뉴스\n🛳\n조선\n[TradeWinds]\nPascoGas linked to order for large LPG carriers at HD Hyundai\nAsean Seas Line linked to largest container ship order in its history\nFrontline VLCCs dominate lucrative Brazil spot trade as Baltic-assessed rates find new high\nUK revives plans for an FSRU to ease gas storage fears\nGreek suezmax tanker clinches near-record, one-year charter amid fresh Iran escalation\nValles Steamship said to have sold oldest aframax tanker for eye-catching price\n[Upstream]\nEquinor eyes four-fold tieback boost with AI push\nMcDermott confirms prize for Adnoc's $6.2 billion offshore project\nNorway's big three team up to drill for major discoveries\nIraq aims to double production as it seeks Saudi alliance\nEU gas storage levels 'worrying', says Equinor CEO\n🚢\n조선\nHD한국조선해양, LPG 운반선 4척 5천154억원에 수주\nhttps://tinyurl.com/2b2yjsvf\nHD현대중공업 노사, 최종 조정 결렬…파업 전운 ‘고조’\nhttps://buly.kr/450PCyL\n한화오션, 경남서 키운 MRO 역량 제주에 이식…근접지원형 사업 '시동'\nhttps://tinyurl.com/2dzbr7dz\nK-조선 수주 잔액 200조, 수익성도 개선\nhttps://tinyurl.com/26nx7xlz\n일본 9조원 쏟는 조선 재건, 인력난에 한국 반사이익 기대\nhttps://tinyurl.com/273nu822\n신임 통상본부장 \"과거 한미 FTA 버금가는 양자 협력 판 만들 것\"\nhttps://tinyurl.com/2bbfrjk4\n🚀\n방산\n\"무기+MRO 풀패키지 수출\" 한화에어로, 북유럽 방산 정조준\nhttps://tinyurl.com/2xoltc5g\n인니•말레이, KAI KF-21 동시 도입 추진…동남아서 K-전투기 뜬다\nhttps://tinyurl.com/292xvsbq\n한화, 美 육•해상 방산 거점 확장 속도전…\"현지화로 수주 확대 노린다\"\nhttps://buly.kr/BeMzO1S\n韓방산기업 '나토 표준정보' 확보 원활해진다…방사청 지침 제정\nhttps://tinyurl.com/2xl7nzzk\n펜스가 콕 집은 \"한국산 요격미사일\"…우크라에 '천궁-Ⅱ' 지원?\nhttps://tinyurl.com/2845cjut\n* 위 내용은 보도된 사실의 단순요약으로 별도의 컴플라이언스 절차 없이 제공됩니다",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-24T23:37:25+00:00"
+    },
+    {
+      "id": "tg:enc210406/4359",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4359",
+      "text": "[한투증권 강경태] 조선\n텔레그램:\nhttp://t.me/enc210406\n보고서 링크:\nhttps://buly.kr/DwGq8NE\n■ 실적에 부정적으로 작용할 환율 효과, 삼성중공업 제외 조선 3사 영업이익률 하락 압력\n- 삼성중공업을 제외한 대형 조선 3사의 2026년 3분기 실적은 부진할 것. USD/KRW가 2분기에 비해 가파르게 하락했기 때문.\n- 3분기 USD/KRW 평균은 8월 24일 종가 누적으로 1,455원이며, 8월 24일 종가(1,383원)가 9월 30일까지 유지될 경우 1,426원. 2분기 평균 환율 1,502원에 비해 각각 47원과 75원 하락한 것.\n- 대형 조선 4사의 2026년 2분기 말 매출 기준 수주잔고와 반기보고서 상 선도환 매도 금액을 이용해 USD/KRW 평균 10원 당 분기 영업이익 민감도를 구하면, HD현대중공업은 141억원, HD현대삼호 66억원, 한화오션 177억원으로 추정할 수 있으며, 삼성중공업은 변화 없음.\n- 지속적인 원화 강세 추세로 3분기 USD/KRW 평균이 2분기 대비 100원 하락할 경우, 환율 효과로만 HD현대중공업의 3분기 영업이익률은 1.9%p, HD현대삼호는2.1%p, 한화오션은 3.9%p 하락할 것.\n- 수주 연도별 매출 mix 개선세는 3분기에도 이어지지만, 2분기와 다른 양상으로 전개된 환율 효과가 이를 상쇄할 개연성이 큼.\n■ 인건비, 원가 절감, 도급 증액 등 3분기에 발생할 수 있는 일회성 손익 감안해 추정치 조정할 것\n- 부정적인 방향으로 작용할 환율 효과를 아직 3분기 실적 추정치에 반영하지 않았음. 부문별 일회성 손익을 점검해야 하기 때문이며, 10월 Preview 시즌에 여러 요소를 종합적으로 고려해 추정치를 변경할 계획.\n- 3분기 환율 효과 외 추가적으로 발생할 수 있는 일회성 손익은 인건비와 관련돼 있음. 조선사마다 임단협 결과 및 성과급 지급액 전망치를 회계적으로 인식하는 방법에 차이가 있지만, 매년 3~4분기는 인건비로 인한 실적 하락 압력을 고려해야 했던 시기였음.\n- 9월 말 추석 연휴를 전후로 임금단체협상이 타결될 경우, 1인당 지급할 타결 일시금은 3분기 비용으로 반영될 수 있으며, 기본급 인상폭 또한 경영계획 상 예상치와의 차이를 조정해 충당금을 전입하거나 환입하는 조선도 있음.\n- 원가 절감 활동을 통해 인건비 영향을 모두 상쇄하는 경우도 있으며, 해양 플랜트 부문 특정 공사에서 change order 또한 발생할 수 있어, 환율 효과로만 실적을 판단할 수 없음.\n■ 환율로 인한 3분기 실적 불확실성에서 자유로운 삼성중공업을 2028년 P/E 9.9배에서 매수 제안\n- 단기 투자 매력도 높은 조선사로 삼성중공업을 제시. 환율 등락으로 인한 실적 영향에 자유로운 조선사이기 때문이며, 하반기 부유식 데이터센터 수주 가능성을 감안한 pick.\n- 원화 강세 속도가 빠를수록, 삼성중공업과 경쟁사 간 수익성 격차는 빠르게 좁혀질 것. 삼성중공업 상선 수주잔고의 빈티지별 구성은 HD현대중공업과 유사하고, 선종별 구성은 한화오션과 유사. 수주잔고의 구성면에서 경쟁사와 큰 차이가 없다는 의미.\n- 매출과 원가를 인식하는 환율 수준에 큰 차이가 없다면, 삼성중공업의 수익성은 경쟁사 수준으로 꾸준히 붙어갈 것. 2028년 순이익 컨센서스 기준 P/E 9.9배(2026년 8월 24일 종가)에서, 실적 불확실성없이 곧 발현될 모멘텀을 기다리면서 편안하게 매수할 때.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-24T23:37:15+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/24749",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/24749",
+      "text": "엔비디아, 그록 3 LPU 본격 양산 돌입 발표\n- 삼성파운드리 4나노로 생산하는 그록\n- 세계 최고 수준의 생산 속도로 양산 중\n- 베라루빈 플랫폼부터 본격 도입\n- 네비우스는 그록 기반 추론 인프라 제공\nhttps://nvidianews.nvidia.com/news/nvidia-groq-3-lpx-now-in-full-production-with-world-class-speed-for-agentic-ai",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-24T23:32:49+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19843",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19843",
+      "text": "DDR4, DDR5 현물 가격은 계속 상승중",
+      "images": [
+        "https://cdn5.telesco.pe/file/rcah2Jzo6MiISRJOTZJvwz9QybE_Dr85NevkyALBYwVByJ-Yv4bjnTpkF5J8zMW9WL-Jw4ZWYu9mB3L8C_-DkdadnPd5oN1cZVEPSdlNT9VakHk6Bx5bEzb98-a4wfXgWVU_ugrvNwUUovy_xMTQgyFfz8VCZvsvMNdKj2raxfXKG29pAwgEMnroZ8t87rau8ovAYXI1XIaJy8hrXMiJbO_TUlST-sf3StJxGL84TBEkSrFkYyUMsNfcYQYOCafMF-RNyFsQ6Jy-2f2jgnuJ_TSB1nCR2Klx9yxBk9Qi05dF599LkO1K-LPP281-fdLuVtVTTv3DNGRpd2rgUJMp7Q.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-08-24T23:32:44+00:00"
+    },
+    {
+      "id": "tg:bornlupin/19842",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/19842",
+      "text": "[속보] 엔비디아, 삼성파운드리 위탁 추론가속기 양산 돌입…“고객사 이미 확보”\nD램 메모리 대신 S램 채택해 AI 답변을 빠르게 받아\n저지연 추론 연산자원 확보가 주도권 경쟁에서 열쇠\n스페이스XAI도 엔비디아 ‘베라’ 도입, 우주DC에도\n삼성전자 파운드리사업부가 생산을 맡은 엔비디아의 추론 전용 칩이 고객을 확보하고 본격 양산 단계에 돌입했다.\n엔비디아는 AI 에이전트 구동에 특화해 추론 속도를 높인\n‘그록(Groq)3 LPX’의 양산을 시작했다고 24일(현지시간) 밝혔다.\n그록3 LPX는 추론 전용 칩인 언어처리장치(LPU)를 256개 묶어 캐비닛 크기의 랙으로 구성한 시스템이다.\n그록 LPU는 엔비디아가 지난해 말 우회 인수를 통해 라이선스를 획득한 칩으로, 일반적인 D램 메모리 대신 S램을 채택해 AI 답변을 빠르게 받을 수 있도록 한 것이 특징이다.\nAI 훈련용으로는 다소 부적합하지만, 코딩 등 에이전트 기반 작업은 기존 AI 칩으로 몇 시간이 걸릴 내용을 몇 분 만에 완료할 수 있다.\n엔비디아는 기존의 그래픽처리장치(GPU)가 모델 훈련을 포함한 범용 작업을 담당하고, 훈련을 마친 AI가 답변을 도출하는 추론 과정은 속도가 빠른 ‘그록3 LPX’가 맡는 방식의 AI 시스템을 설계했다.\n양산에 맞춰 고객사도 유치했다. AI 클라우드 운영업체 네비우스가 그록3 LPX의 첫 고객사라고 엔비디아는 소개했다.\n젠슨 황 엔비디아 최고경영자(CEO)는 “추론은 AI의 성장 엔진”이라며 “세계적으로 AI 연산 수요가 가속하는 시점에 맞춰 AI 처리량·효율성·반응성에서 다시 한번 거대한 도약을 가져올 것”이라고 강조했다.\n엔비디아는 그록3 LPX를 전량 삼성전자 파운드리(반도체 수탁생산) 사업부를 통해 양산하고 있다.\n엔비디아는 ‘베라 루빈’ AI 시스템의 다른 핵심 제품인 에이전트 전용 중앙처리장치(CPU) ‘베라’의 고객사도 확보했다.\n엔비디아는\n일론 머스크의 AI 기업으로, 스페이스X의 자회사인 스페이스XAI가 베라 CPU를 대규모 도입하기로 했다고 이날 밝혔다.\n베라 CPU는 다양한 AI 에이전트를 통솔하는 역할을 도맡는 제품으로, 이를 통해 GPU 등 다른 AI칩이 모델 연산에만 집중할 수 있도록 해준다.\n베라 CPU는 기존에 인텔·AMD 등이 생산하는 x86 기반 CPU와 견줘 이 같은 에이전트 작업 처리 속도가 1.8배에 이른다는 게 엔비디아의 설명이다.\n특히\n스페이스XAI는 이와 같은 AI 시스템을 지상 데이터센터뿐 아니라 우주 궤도상 데이터센터에도 확장할 계획이다.\n스페이스XAI는 자사의 1세대 ‘스타마인드’(Starmind) AI 위성에 우주 환경 최적화를 마친 엔비디아 베라 루빈 시스템을 탑재하겠다는 청사진도 제시\n했다.\n다만 엔비디아는 네비우스, 스페이스XAI 등과의 거래 규모와 공급 일정 등은 공개하지 않았다.\n이처럼\n엔비디아가 그록3 LPX와 베라 CPU의 대형 고객사 확보 소식을 연이어 쏟아내며 시장 수성에 나선 것은 저지연 추론 연산자원을 확보하려는 거대 기술기업의 주도권 다툼이 점점 치열\n해지고 있기 때문이다.\n특히 경쟁사인 AMD가 ‘베라 루빈’ 시스템에 맞서는 랙 시스템 헬리오스를 선보이고, 저지연 칩 스타트업 세레브라스와도 협력하자 견제에 나선 것으로 보인다.\nhttps://n.news.naver.com/mnews/article/029/0003044069?rc=N&ntype=RANKING&sid=104",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-08-24T23:29:29+00:00"
+    },
     {
       "id": "tg:bornlupin/19841",
       "source": "telegram",
@@ -367,30 +555,6 @@
       "published_at": "2026-08-24T11:06:31+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24737",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24737",
-      "text": "📮\n[메리츠증권 ESG 이진아] 2026.8.24 (월)\n[ESG Focus] 같은 FCF, 다른 TSR DNA: 삼성전자·SK하이닉스 주주환원 비교\n(보고서)\nhttps://tinyurl.com/kzexpnhz\n- 삼성전자와 SK하이닉스의 연이은 발표는 AI가 만든 현금이 성장투자뿐 아니라 주주환원으로 연결되기 시작했음을 보여주는 사례\n- 삼성전자는 기존 FCF 50% 원칙과 장기간 축적된 배당 이력을 바탕으로 Persistence를 재확인한 반면, SK하이닉스는 환원 기준 상향과 40조원 자기주식 취득·소각으로 정책 변화의 폭을 확대\n- 주주환원의 효과는 절대 규모보다 시장 기대와 실제 결정 사이의 Expectation Gap 및 배당과 주가 상승을 합한 총주주수익률(TSR) 관점에서 평가할 필요\n- 삼성전자가 최대 110조원의 상단을 제시해 시장의 기대 기준을 높인 만큼, 향후 거버넌스 프리미엄은 최종 환원 구성과 실질적인 주식 수 감소, FCF 지속성 및 반복 실행 여부가 결정할 전망\n* 동 자료는 Compliance 규정을 준수하여 사전 공표된 자료이며, 고객의 증권 투자 결과에 대한 법적 책임소재의 증빙자료로 사용될 수 없습니다.\n* 메리츠 투자전략팀 통합 채널 링크 :\nhttps://t.me/Meritz_strategy",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-24T09:45:30+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24738",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24738",
-      "text": "📮\n[메리츠증권 ESG 이진아] 2026.8.24 (월)  [ESG Focus] 같은 FCF, 다른 TSR DNA: 삼성전자·SK하이닉스 주주환원 비교  (보고서) https://tinyurl.com/kzexpnhz  - 삼성전자와 SK하이닉스의 연이은 발표는 AI가 만든 현금이 성장투자뿐 아니라 주주환원으로 연결되기 시작했음을 보여주는 사례  - 삼성전자는 기존 FCF 50% 원칙과 장기간 축적된 배당 이력을 바탕으로 Persistence를 재확인한 반면…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-24T09:45:30+00:00"
-    },
-    {
       "id": "tg:HI_GS/6959",
       "source": "telegram",
       "author": "HI_GS",
@@ -401,20 +565,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-24T09:06:21+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24736",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24736",
-      "text": "SK하이닉스가 Hot Chips 2026에서 HBM4 16단 인증 절차를 진행 중이라고 밝혔습니다\nHBM3E 기준 16단 두께는 12단 대비 7.6%밖에 높아지지 않네요\nhttps://wccftech.com/sk-hynix-advanced-packaging-technologies-intel-emib-next-gen-hbm-memory/",
-      "images": [
-        "https://cdn5.telesco.pe/file/NQMp_-C3ODibzBbG-Df5Io9ysDtD-JGzLsQDpTMBZ8EER1tOJQb9FzGf2PGHY8FSX9ZMezAYWLYyZWxhdzog5R11EyC-6tRskB8vTBn8cp-xzpax11TrlVob81GGxN1hASc63cNoNap5ZqzxnmbDNh5ZuFzX5enS8XcCpR3LVVsbZUpV8B-YNI2Vv-dKH8Ab_ExmtmfbVenwOvFNfa4JhnGUM1saphVVeeORmsoitKoa6NyyFDQFn0jUCwVymhB23tT9jJtMPpXd9iCBYmNSfj0HpHjHLlFnm79bgnUGFlZ6_cFJm5Y_Fr1294a371lrtDiFc6MyLI9oMeAey6-4XQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-24T08:29:05+00:00"
     },
     {
       "id": "tg:enc210406/4356",
@@ -431,82 +581,6 @@
       "published_at": "2026-08-24T08:08:15+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/24735",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24735",
-      "text": "[단독] 장기전세 입주자 '떼쓰기' 통했나... 서울시, SH에 만기 대책 검토 요청\n서울시, SH에 장기전세 대체 공공임대 검토 요청\n내년부터 장기전세 20년 거주 만기 본격 도래\n입주민, 계약 연장·분양전환 요구하며 집단 반발\nSH, 기존 아파트 대신 다가구주택 등 대안 검토\nhttps://www.meconomynews.com/news/articleView.html?idxno=132810\n이게 버티면 되는거엿어?",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-24T07:41:58+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/24734",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/24734",
-      "text": "Hot Chips 2026 컨퍼런스의 사전 프로그램(Advance Program)에서 삼성의 한상욱(Sangwook Han)은 삼성전자가 핀당 16Gbps 속도의 HBM4E 메모리 출하를 준비하고 있다고 확인했습니다. 이는 올해 5월 말부터 핀당 14Gbps 속도의 HBM4E를 출하해 온 삼성전자 반도체 사업부에 상당한 자신감을 더해주는 소식입니다. 본질적으로 삼성전자는 HBM의 성능 확장 과정이 순조롭게 진행되고 있음을 확인한 것이며, HBM4E는 삼성전자가 매우 높은 속도로 생산할 수 있는 고대역폭 메모리 기술의 또 하나의 이정표입니다. 삼성전자의 HBM4는 현재 11.7Gbps 속도로 출하되고 있어, HBM4E로의 도약은 더욱 인상적입니다.\n현재 HBM4E 스택당 2,048개의 핀과 핀당 14Gbps 속도를 기준으로 삼성전자는 최대 3.6TB/s의 대역폭을 구현할 수 있습니다. 그러나 속도가 16Gbps로 높아지면 단일 HBM4E 스택의 최대 메모리 대역폭은 4TB/s로 증가합니다. AI 가속기나 GPU 하나에 약 12개의 메모리 스택이 탑재된다는 점을 고려하면 전체 메모리 대역폭은 상당한 수준입니다. 삼성전자는 현재 이 메모리를 12단(12-layer 또는 12-high) 구성으로 제공하고 있으며, 스택당 메모리 용량은 48GB입니다. 다만 향후 고객 요구사항에는 8단 32GB 및 16단 64GB 스택도 포함될 예정입니다.\n기술 측면에서 삼성전자는 DRAM에 최적화된 6세대 10나노급 공정을 사용하며, 이렇게 제조된 DRAM을 여러 층으로 적층합니다. HBM4E 기술에는 삼성전자의 4nm SF4 노드에서 제조되는 커스텀 베이스 다이도 포함되며, 이는 다양한 패키지에서 보다 향상된 통합을 원하는 고객의 요구를 충족하기 위해 설계되었습니다.\nhttps://www.techpowerup.com/351859/samsung-confirms-hbm4e-memory-running-at-16-gbps-per-pin",
-      "images": [
-        "https://cdn5.telesco.pe/file/JQxQoV_ucXbODwinc9P3_p820VFNMRX6nvcz3sL1CI6ybziDEn0pqsSz9v5xP-H1iMTbtfrZT5c_VcF6-b138Fk6mIcCn3yrY6byd6I2vF46-BwBKRdO0XFDpvPrZd9Kqrgdsg5fKQauUru8S4SiUd7MQtmYJAbE4l-_7JbeY6ufAK7_f92toGvldZUB1TqkJvPuyDVfBhWnHnYRjXnTv9dLleqoiz_Of-oryrRITWySu8shbm-kD_Y2Bd9WuzdrfCHvIA2KOSj0YJMzc7VlZwCytdWC9gMWJ8E7mK6NAWRboaAfTGo4xtyoCBKD5TAl4OiY4LAz8lbGwGcTT0O2Hg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-24T07:21:19+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19837",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19837",
-      "text": "[속보]이억원 “스테이블코인 디지털자산기본법, 본격 속도낼 것”\n이억원 금융위원장은 24일 국회 정무위원회 전체회의에서 이강일 더불어민주당 의원이 스테이블코인 관련 디지털자산기본법(2단계 입법)에 대해 질의하자 “\n저희들이 다 준비하고 있고 말씀주신 대로 본격적으로 협의에 속도를 내겠다”\n고 말했다.\n이 위원장은 이 의원이\n‘디지털자산기본법 처리가 올해를 넘기면 안 된다’고 하자 “그럼요”\n라며 화답했다. 이어 이 위원장은 이 의원이\n‘가을에는 정부안을 발의할 것인지’ 묻자 “최대한 노력하겠다”\n고 강조했다.\nhttps://www.edaily.co.kr/news/read?newsId=03630966645550600",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-24T06:54:21+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19836",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19836",
-      "text": "이란의 해협 장악력 약화 속, 호르무즈 해협 통항량 400% 가까이 급증 – 뉴욕포스트",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-24T06:39:51+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19835",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19835",
-      "text": "Phison CEO 판젠청 - 메모리·스토리지 전망: \"수급 불균형은 장기화될 것\"\n공급 확대 속도의 한계: 단기적인 가격 상승세 둔화보다 본질적인 핵심은 공급의 증가 속도가 AI 수요 폭증을 전혀 따라잡지 못하고 있다는 점\n입니다.\n추론(Inference) 중심의 수요 급증:\nAI 산업이 모델 '학습' 단계에서\n실전 '추론' 단계로 넘어가면서, 연산 성능을 뒷받침할 메모리·스토리지 수요가 지속적으로 확대\n되고 있습니다.\n산업적 위상의 구조적 변화:\n메모리는 과거의 단순 경기 순환형(시클리컬) 품목에서 벗어나, AI 산업 확장에 없어서는 안 될 필수 인프라로 자리 잡았습니다.\nhttps://wallstreetcn.com/charts/41959663",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-24T05:15:00+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19834",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19834",
-      "text": "전력이 부족합니다.\nAI 칩 수요로 인한 글로벌 전력 수요는 2033년까지 사상 최고치인 약 315기가와트(GW)로 급증할 것으로 전\n망됩니다.\n이는 2025년 대비 1,100% 이상 증가한 수치입니다.\n미국은 이러한 신규 AI 전력 수요의 약 64%(약 200GW)를 차지할 것으로 예상됩니다.\n한편, AI 데이터 센터는 전력 인프라에도 막대한 부담을 주고 있습니다.\n모델 학습 중 수십만 개의 GPU가 동시에 켜지고 꺼지면서, 전력 사용량이 설계 용량보다 최대 50%까지 치솟을 수 있습니다.\n이러한\n급격한 전력 변동은 배터리, 발전기, 냉각 시스템 등 주요 인프라의 마모를 가속화하여 유지보수 및 교체 비용을 증가\n시킵니다.\nhttps://x.com/KobeissiLetter/status/2091609670297485728?s=20",
-      "images": [
-        "https://cdn5.telesco.pe/file/ISpjAjR7VuY4Pe69gWBi7Gzp8DYqsn0tiO7zGg4iV4PVsO2mqrNBeSWN40fDkwdJl8ZoGd8ny11rbDVXHNPm-Y-ygkSYkJxcybc_qe6zAcLiVmLIwEixGdGam4_OERGlm6j-ZRJmqveT52XOvwd2zlIu27wqiC07OYJTk4MCR4d7X296eBrGaAAW6HVXSYGjvn8lnxE8QQIkQRLrqSZUhU45ddAGfFIyt8KdGAnzZgzFTqJdQjzBFwR6DJpvh0o6bUbWx41UDMTo7K2k8vvXisNoLmABgkyVvedqr5Lpqt3N4LxdT7X87pCQ78zeLt65m-uUbkhxgsSLZpEadVTPNQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-24T04:41:23+00:00"
-    },
-    {
       "id": "tg:HI_GS/6958",
       "source": "telegram",
       "author": "HI_GS",
@@ -517,18 +591,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-08-24T04:35:54+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19833",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19833",
-      "text": "엔비디아, 300억 달러 이상의 기업가치로 퍼플렉시티 투자 논의\n해당 논의에 정통한 관계자들에 따르면,\n엔비디아(Nvidia)는 AI 스타트업 퍼플렉시티(Perplexity)의 기업가치를 300억 달러 이상으로 평가하는 지분 투자 라운드 참여를 논의\n하고 있습니다.\n이번 펀딩 라운드는 수십억 달러 규모에 달할 것으로 보이며, 직전 투자 유치 대비 기업가치가 50% 이상 상승할 전망\n입니다.\nhttps://www.theinformation.com/articles/nvidia-discusses-perplexity-investment-30-billion-plus-valuation-considered-tech-licensing-deal",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-24T03:23:45+00:00"
     },
     {
       "id": "tg:HI_GS/6957",
@@ -557,44 +619,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-08-24T01:37:44+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19832",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19832",
-      "text": "2026.08.24 10:12:07\n기업명: 엘에스일렉트릭(시가총액: 28조 4,550억) A010120\n보고서명: 단일판매ㆍ공급계약체결\n계약상대 : LS ELECTRIC AMERICA Inc.\n계약내용 : ( 기타 판매ㆍ공급계약 ) Big Tech Data Center 전력설비 공급 PJT\n공급지역 : 미국\n계약금액 : 2,309억\n계약시작 : 2026-06-08\n계약종료 : 2027-01-30\n계약기간 : 7개월\n매출대비 : 4.65%\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260824800095\n최근계약 :\nhttps://www.awakeplus.co.kr/board/contract/010120\n회사정보:\nhttps://finance.naver.com/item/main.nhn?code=010120",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-24T01:18:19+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19831",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19831",
-      "text": "[글로벌 주요국 아마존 B&P Top 100 브랜드별 SKU 수]\n1위 메디큐브\n6위 바이오던스\n12위 셀리맥스\n15위 달바\n21위 아누아\n메디큐브 전주 40개에서 65개로 급증\n🔥",
-      "images": [
-        "https://cdn5.telesco.pe/file/RcsLtglEmPpgE4MWz-x6VEc9ylyTzm_zjFM4fOf74VQ1bevLCzT7Kc4xsD1X5oGrGoDlP8rqq1kUFc_RgE4k7_ReUVzJxDDfiFrQYkFmU30ehN9VDpNTnV4Z92ZuHrPVjiNDMoPS2rpafIaliNNvOv3hFE65BkI5y2ZQtklGkptKoaTRPO2gTa2mdZgHdsPUvEHVgPloxeEJSHR5EbOUc7327mDDHwrNi9BHW_dzfq69m_HjGEav22jGic5EYgXTqPkWK5p38R3dh99yrb95-UQJe3f6NWcLWSasR5rhCIv4DMr5RBagXlJPs0gNQekTryAUD0CWCUNDDb9B6u3FnQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-24T00:53:31+00:00"
-    },
-    {
-      "id": "tg:bornlupin/19830",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/19830",
-      "text": "HYPE 이어 두나무도? 美, 해외 코인기업 러브콜…웹3 '온쇼어' 속도\n미국이 해외에서 성장한 가상자산 기업과 거래를 자국 규제체계 안으로 끌어들이는 데 속도를 내고 있다\n. 과거 규제 불확실성 탓에 싱가포르와 두바이 등으로 빠져나갔던 가상자산 사업을\n미국으로 되돌리는 이른바 '온쇼어(onshore)' 전략이다.\n최근 국내에서 두나무를 비롯한 국내 기업의 미국 증시 상장 가능성이 부각된 것도 이 같은 정책 변화와 맞물려 있다는 분석이 나온다.\n24일 가상자산업계에 따르면\n미국 증권거래위원회(SEC)와 상품선물거래위원회(CFTC)는 올 들어 가상자산 기업의 미국 진입 문턱을 낮추는 제도 정비를 잇달아 추진하고 있다\n. 마이클 셀리그 CFTC 위원장은 지난 19일 백악관 행사에서 \"\n금융의 새로운 최전선이 미국 땅에서 만들어지고 있다\n\"고 강조했다.\n도널드 트럼프 미국 대통령이 같은 날 탈중앙화 파생상품 플랫폼 하이퍼리퀴드를 직접 거론한 것도 이런 흐름을 보여준다. 트럼프 대통령은 셀리그 위원장이 하이퍼리퀴드를 규정을 준수하는 방식으로 미국 시장에 들여오기 위해 노력하고 있다는 취지로 말했다. 미국 이용자의 공식 거래를 제한해온 역외 플랫폼까지 규제의 테두리 안으로 끌어들이겠다는 의미로 해석됐다.\nCFTC는 이미 길을 닦고 있다. 지난 5월 미국 규제 거래소가 비트코인 가격을 기초로 한 무기한선물을 상장할 수 있도록 허용하고 관련 정책 기준을 내놨다. 만기가 없는 무기한선물은 그동안 하이퍼리퀴드 등 역외 가상자산 플랫폼이 강점을 보여온 시장이다. 미국 밖에서 이뤄지던 거래를 규제시장 안으로 가져오겠다는 정책 변화가 구체적인 상품으로 이어지고 있는 셈이다.\nSEC의 움직임은 더 분명하다. SEC는 지난 18일 가상자산에 특화한 새로운 규제안인 'Regulation Crypto Assets'를 제안했다.\n일정 요건을 충족한 가상자산 관련 자금조달에 별도의 등록 면제와 세이프하버를 제공하는 내용이다. SEC는 규제안의 목적 가운데 하나로 해외에서 사업할 유인을 낮추고 미국 내 가상자산 시장의 자본 형성과 혁신을 촉진하는 것을 명시했다.\n폴 앳킨스 SEC 의장도 이날\n\"혁신가들을 미국으로 다시 불러들이는 길을 만들고 있다\n\"고 밝혔다. 과거 미국의 규제 방식이 가상자산 기업과 자본을 해외로 밀어냈다는 게 현 SEC의 판단이다. SEC는 지난 3월에도 CFTC와 함께 가상자산에 대한 증권법 적용 기준을 내놓으며 대부분의 가상자산 자체가 증권은 아니라는 입장을 명확히 했다.\n미국의 전략은 규제를 없애는 것과는 거리가 있다. 해외 사업자가 미국에서 영업하려면 거래소 등록과 고객보호, 시장감시 등 미국법에 따른 요건을 갖춰야 한다. 대신 사업자가 지켜야 할 기준을 명확하게 제시해 미국 밖에서 영업할 유인을 줄이겠다는 쪽에 가깝다.\n이 같은 변화는 글로벌 가상자산 기업의 미국 진출에도 영향을 줄 가능성이 있다.\n국내에서는 업비트를 운영하는 두나무가 미국식 회계기준(US GAAP)에 맞춰 재무제표를 정비한 것으로 알려지면서 미국 증시 상장 가능성이 다시 부상하고 있다.\n남은 변수는 의회의 시장구조법 입법이다.\nSEC와 CFTC는 현재 행정 권한 안에서 규제체계를 정비하고 있지만 가상자산의 증권·상품 구분과 두 기관의 관할권을 장기적으로 확정하려면 의회 입법이 필요하다.\n앳킨스 의장 역시 지난 18일 가상자산 시장구조법의 필요성을 재차 강조했다.\n가상자산업계에서는 미국의 정책 변화가 글로벌 시장의 무게중심을 바꿀 수 있다고 보고 있다\n. 업계 한 관계자는 \"\n미국의 규제를 피해 역외에서 성장한 거래소와 파생상품 시장을 미국 규제체계 안으로 끌어들이면 거래뿐 아니라 기업공개(IPO)와 자금조달까지 미국 자본시장으로 흡수할 수 있다\n\"며 \"\n하이퍼리퀴드의 미국 진입 추진은 이런 정책 변화를 보여주는 상징적인 사례\"\n라고 분석했다.\nhttps://www.techm.kr/news/articleView.html?idxno=154551",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-24T00:45:13+00:00"
     },
     {
       "id": "rss:semianalysis:agentx-inferencexv3-does-cuda-moat",
@@ -709,18 +733,6 @@
       "published_at": "2026-08-22T03:52:39+00:00"
     },
     {
-      "id": "tg:HI_GS/6950",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/6950",
-      "text": "[K-방산 신무기 선정...LIG D&A 자폭정·풍산 드론 킬러]\n• 방위사업청, 26-2차 신속 시범 사업 대상으로 LIG D&A 자폭용 무인 수상정과\n• 풍산 대드론 탄약 선정\n• 신속 시범 사업은 2년간 시제품 운용 후 성능 입증 시 대규모 양산으로 이어지는 패스트 트랙 방식\n• 제안 기업은 입찰 가점 확보로 향후 본사업 수주 경쟁에서 유리한 위치 점함\n• LIG D&A는 비리 의혹에도 사업 참여 지속, 풍산은 기존 탄약 기술을 대드론 시장으로 확장\n❗️\n신속 시범 사업 선정은 대규모 양산 계약으로 가는 첫 관문으로, LIG와 풍산이 방산 시장 내 입지 강화 및 미래 성장 동력 확보\n출처: [한국경제TV]\nURL:\nhttps://v.daum.net/v/fDseWc3GpQ\n─────────────────────\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n🎴\n하늘의_드론만_보시는데, 바다의 무인수상정도 중요합니다. 해검(정찰용), 다음 공격용도 해검시리즈가 받습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-08-22T02:09:20+00:00"
-    },
-    {
       "id": "rss:semianalysis:are-open-models-catching-up",
       "source": "rss",
       "author": "semianalysis",
@@ -771,7 +783,7 @@
       "url": "https://t.me/enc210406/4350",
       "text": "조회공시요구에 대한\nHD현대중공업의 답변",
       "images": [
-        "https://cdn5.telesco.pe/file/a5vEIxgVkgiKS4pLqp9GXHLiYwrRi3YdlL9JdBeOTWeS1FHBIKJxVLSCFH2ccpwDU8-tEqf1_KHGFO9iILEQgwwJTd9y485h5v1R_pDlxWf9Gd_ROgN7JMdQwlzMlSu-pqBakzG5O3v2lF3uoDSAq_2p9tvKE3Bm8WRGqvgtN4Sv0L_kzdfEkdJAbnqaMq_4ir2Wetw7edMsJBEZpedRgRLMxphQTIu6OV_1FhhG1KhaCkoN290_ihh7Q1HFrjmma6E1GWbrIHcJkdW9zUCboxmqbtWKPFraNMpEJWo-s0kSrmWH2R5Z4I4f7FySKYPcikYc5p2nebDpOYTavSnq1A.jpg"
+        "https://cdn5.telesco.pe/file/vnj7bbrrMvU-wKLUnHMf6JCB3C3eiamECVjrC5-wRe75goHl-DypF9jg0bsH4H5_PCSqPkMdFyRBqgweFHXIUie8ONQVwg_ooWRYJFkO2p2bOd5efFpTLuHH54C3RluY2bLNw0vSKkJuSNgVFt4PyRg0Or6ecMP_dYEXlahdDAvPf38D3K-DGc2Q6kli73bI1-8F2aaS8XGEXlpBFA_V_E54CQMugICbbWrWWnQNMtT6nn0BrfqDwrA_WmDANmO0iPblgVB8gryJ4gUaNl00CRmp7odVRnyW5f1xH-1eD-OwXv1KmirVbDK-hXxL8VgfisX9Zb4R4ncpAFpwfzv2Ww.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-21T01:43:15+00:00"
@@ -841,20 +853,6 @@
       ],
       "summary_ko": "@yleun의 RT: 음악 필사 모델인 MuScriptor로 이제 악보와 탭을 만들 수 있습니다! PDF와 편집 가능한 MusicXML을 내보냅니다. 내부적으로는 @musescore + 일부 사용자 정의 전처리를 사용하여 MIDI에서 이를 생성합니다.",
       "published_at": "2026-08-20T15:56:12+00:00"
-    },
-    {
-      "id": "tg:enc210406/4347",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4347",
-      "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 8월 20일 종가 기준",
-      "images": [
-        "https://cdn5.telesco.pe/file/BM29N_3BPhVGmg8nhqtdNBg51zI1GKvXvgiV2VsrWlprYa8KVHiXHGiu0yUno8BFJ_J-GucEFkSWQvMEq-lDfpt6PPtdqM2e0HgiAcGMcnbZHxgRC8banZ3DBU7Vvda1Ny1zid5JLmzy0nZMZdEIKCZr_RiznyKdH3QWv1sUm8kueTGkQHyUM5IBZB0hvHUrbnJYX4OojUxyrfPgodvqwZrhgk5i3g12KOCW8f8_dkrnnd_iWB51Hv_tmq5MmEIj-NH_uYwthRkVBzUKpVMgPmldqy5y5_VAG7K8iAq_xfrKZu9wkHuaTvXs4qnX7hsx7xGf4YetB1LtoZBUEifJcQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-20T07:44:22+00:00"
     },
     {
       "id": "x:ylecun:2090332612376056298",
