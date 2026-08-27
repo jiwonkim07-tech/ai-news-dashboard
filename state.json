@@ -1,39 +1,8 @@
 {
-  "telegram:aetherjapanresearch": [
-    "tg:aetherjapanresearch/24791",
-    "tg:aetherjapanresearch/24792",
-    "tg:aetherjapanresearch/24793",
-    "tg:aetherjapanresearch/24794",
-    "tg:aetherjapanresearch/24789",
-    "tg:aetherjapanresearch/24790",
-    "tg:aetherjapanresearch/24788",
-    "tg:aetherjapanresearch/24787",
-    "tg:aetherjapanresearch/24786",
-    "tg:aetherjapanresearch/24783",
-    "tg:aetherjapanresearch/24782",
-    "tg:aetherjapanresearch/24781",
-    "tg:aetherjapanresearch/24780",
-    "tg:aetherjapanresearch/24779",
-    "tg:aetherjapanresearch/24778",
-    "tg:aetherjapanresearch/24777",
-    "tg:aetherjapanresearch/24776",
-    "tg:aetherjapanresearch/24775"
-  ],
-  "telegram:HI_GS": [
-    "tg:HI_GS/6973",
-    "tg:HI_GS/6972",
-    "tg:HI_GS/6971",
-    "tg:HI_GS/6970",
-    "tg:HI_GS/6969",
-    "tg:HI_GS/6968",
-    "tg:HI_GS/6967",
-    "tg:HI_GS/6966",
-    "tg:HI_GS/6965",
-    "tg:HI_GS/6964",
-    "tg:HI_GS/6963",
-    "tg:HI_GS/6962"
-  ],
   "telegram:globaletfi": [
+    "tg:globaletfi/21308",
+    "tg:globaletfi/21307",
+    "tg:globaletfi/21305",
     "tg:globaletfi/21304",
     "tg:globaletfi/21303",
     "tg:globaletfi/21302",
@@ -45,13 +14,19 @@
     "tg:globaletfi/21295",
     "tg:globaletfi/21294",
     "tg:globaletfi/21292",
-    "tg:globaletfi/21290",
-    "tg:globaletfi/21289",
-    "tg:globaletfi/21286",
-    "tg:globaletfi/21285",
-    "tg:globaletfi/21284"
+    "tg:globaletfi/21290"
   ],
   "telegram:bornlupin": [
+    "tg:bornlupin/19899",
+    "tg:bornlupin/19898",
+    "tg:bornlupin/19897",
+    "tg:bornlupin/19896",
+    "tg:bornlupin/19895",
+    "tg:bornlupin/19894",
+    "tg:bornlupin/19893",
+    "tg:bornlupin/19892",
+    "tg:bornlupin/19891",
+    "tg:bornlupin/19890",
     "tg:bornlupin/19889",
     "tg:bornlupin/19888",
     "tg:bornlupin/19887",
@@ -63,16 +38,7 @@
     "tg:bornlupin/19880",
     "tg:bornlupin/19879",
     "tg:bornlupin/19878",
-    "tg:bornlupin/19877",
-    "tg:bornlupin/19876",
-    "tg:bornlupin/19875",
-    "tg:bornlupin/19874",
-    "tg:bornlupin/19873",
-    "tg:bornlupin/19872",
-    "tg:bornlupin/19871",
-    "tg:bornlupin/19870",
-    "tg:bornlupin/19869",
-    "tg:bornlupin/19868"
+    "tg:bornlupin/19877"
   ],
   "telegram:enc210406": [
     "tg:enc210406/4363",
@@ -86,8 +52,41 @@
     "tg:enc210406/4355",
     "tg:enc210406/4354",
     "tg:enc210406/4353",
-    "tg:enc210406/4352",
-    "tg:enc210406/4351"
+    "tg:enc210406/4352"
+  ],
+  "telegram:aetherjapanresearch": [
+    "tg:aetherjapanresearch/24799",
+    "tg:aetherjapanresearch/24798",
+    "tg:aetherjapanresearch/24797",
+    "tg:aetherjapanresearch/24796",
+    "tg:aetherjapanresearch/24795",
+    "tg:aetherjapanresearch/24791",
+    "tg:aetherjapanresearch/24792",
+    "tg:aetherjapanresearch/24793",
+    "tg:aetherjapanresearch/24794",
+    "tg:aetherjapanresearch/24789",
+    "tg:aetherjapanresearch/24790",
+    "tg:aetherjapanresearch/24788",
+    "tg:aetherjapanresearch/24787",
+    "tg:aetherjapanresearch/24786",
+    "tg:aetherjapanresearch/24783",
+    "tg:aetherjapanresearch/24782",
+    "tg:aetherjapanresearch/24781"
+  ],
+  "telegram:HI_GS": [
+    "tg:HI_GS/6974",
+    "tg:HI_GS/6973",
+    "tg:HI_GS/6972",
+    "tg:HI_GS/6971",
+    "tg:HI_GS/6970",
+    "tg:HI_GS/6969",
+    "tg:HI_GS/6968",
+    "tg:HI_GS/6967",
+    "tg:HI_GS/6966",
+    "tg:HI_GS/6965",
+    "tg:HI_GS/6964",
+    "tg:HI_GS/6963",
+    "tg:HI_GS/6962"
   ],
   "rss:semianalysis": [
     "rss:semianalysis:openai-jalapeno-better-than-nvidia",
@@ -244,6 +243,6 @@
     "x:karpathy:2061110056293106118"
   ],
   "_meta": {
-    "last_x_fetch": "2026-08-26T22:46:21+00:00"
+    "last_x_fetch": "2026-08-27T04:18:27+00:00"
   }
 }
