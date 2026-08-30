@@ -1,34 +1,4 @@
 {
-  "telegram:HI_GS": [
-    "tg:HI_GS/6989",
-    "tg:HI_GS/6988",
-    "tg:HI_GS/6986",
-    "tg:HI_GS/6985",
-    "tg:HI_GS/6984",
-    "tg:HI_GS/6983",
-    "tg:HI_GS/6982",
-    "tg:HI_GS/6981",
-    "tg:HI_GS/6980",
-    "tg:HI_GS/6979",
-    "tg:HI_GS/6978",
-    "tg:HI_GS/6977",
-    "tg:HI_GS/6976",
-    "tg:HI_GS/6974"
-  ],
-  "telegram:aetherjapanresearch": [
-    "tg:aetherjapanresearch/24863",
-    "tg:aetherjapanresearch/24862",
-    "tg:aetherjapanresearch/24861",
-    "tg:aetherjapanresearch/24860",
-    "tg:aetherjapanresearch/24858",
-    "tg:aetherjapanresearch/24857",
-    "tg:aetherjapanresearch/24856",
-    "tg:aetherjapanresearch/24855",
-    "tg:aetherjapanresearch/24854",
-    "tg:aetherjapanresearch/24853",
-    "tg:aetherjapanresearch/24851",
-    "tg:aetherjapanresearch/24850"
-  ],
   "telegram:globaletfi": [
     "tg:globaletfi/21335",
     "tg:globaletfi/21334",
@@ -41,8 +11,38 @@
     "tg:globaletfi/21326",
     "tg:globaletfi/21325",
     "tg:globaletfi/21324",
-    "tg:globaletfi/21323",
-    "tg:globaletfi/21322"
+    "tg:globaletfi/21323"
+  ],
+  "telegram:HI_GS": [
+    "tg:HI_GS/6989",
+    "tg:HI_GS/6988",
+    "tg:HI_GS/6986",
+    "tg:HI_GS/6985",
+    "tg:HI_GS/6984",
+    "tg:HI_GS/6983",
+    "tg:HI_GS/6982",
+    "tg:HI_GS/6981",
+    "tg:HI_GS/6980",
+    "tg:HI_GS/6979",
+    "tg:HI_GS/6978",
+    "tg:HI_GS/6977"
+  ],
+  "telegram:aetherjapanresearch": [
+    "tg:aetherjapanresearch/24866",
+    "tg:aetherjapanresearch/24865",
+    "tg:aetherjapanresearch/24864",
+    "tg:aetherjapanresearch/24863",
+    "tg:aetherjapanresearch/24862",
+    "tg:aetherjapanresearch/24861",
+    "tg:aetherjapanresearch/24860",
+    "tg:aetherjapanresearch/24858",
+    "tg:aetherjapanresearch/24857",
+    "tg:aetherjapanresearch/24856",
+    "tg:aetherjapanresearch/24855",
+    "tg:aetherjapanresearch/24854",
+    "tg:aetherjapanresearch/24853",
+    "tg:aetherjapanresearch/24851",
+    "tg:aetherjapanresearch/24850"
   ],
   "telegram:bornlupin": [
     "tg:bornlupin/19926",
@@ -73,6 +73,7 @@
     "tg:enc210406/4357"
   ],
   "rss:semianalysis": [
+    "rss:semianalysis:most-neoclouds-suck-at-security",
     "rss:semianalysis:openai-jalapeno-better-than-nvidia",
     "rss:semianalysis:agentx-inferencexv3-does-cuda-moat",
     "rss:semianalysis:are-open-models-catching-up",
@@ -227,6 +228,6 @@
     "x:karpathy:2061110056293106118"
   ],
   "_meta": {
-    "last_x_fetch": "2026-08-30T13:45:11+00:00"
+    "last_x_fetch": "2026-08-30T17:57:03+00:00"
   }
 }
