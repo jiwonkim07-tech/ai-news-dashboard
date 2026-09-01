@@ -1,22 +1,13 @@
 {
-  "telegram:bornlupin": [
-    "tg:bornlupin/19973",
-    "tg:bornlupin/19972",
-    "tg:bornlupin/19971",
-    "tg:bornlupin/19969",
-    "tg:bornlupin/19964",
-    "tg:bornlupin/19960",
-    "tg:bornlupin/19959",
-    "tg:bornlupin/19958",
-    "tg:bornlupin/19957",
-    "tg:bornlupin/19956",
-    "tg:bornlupin/19955",
-    "tg:bornlupin/19954",
-    "tg:bornlupin/19953",
-    "tg:bornlupin/19952",
-    "tg:bornlupin/19951"
-  ],
   "telegram:aetherjapanresearch": [
+    "tg:aetherjapanresearch/24910",
+    "tg:aetherjapanresearch/24909",
+    "tg:aetherjapanresearch/24908",
+    "tg:aetherjapanresearch/24907",
+    "tg:aetherjapanresearch/24906",
+    "tg:aetherjapanresearch/24905",
+    "tg:aetherjapanresearch/24904",
+    "tg:aetherjapanresearch/24903",
     "tg:aetherjapanresearch/24902",
     "tg:aetherjapanresearch/24901",
     "tg:aetherjapanresearch/24900",
@@ -28,11 +19,10 @@
     "tg:aetherjapanresearch/24893",
     "tg:aetherjapanresearch/24891",
     "tg:aetherjapanresearch/24890",
-    "tg:aetherjapanresearch/24889",
-    "tg:aetherjapanresearch/24888",
-    "tg:aetherjapanresearch/24887"
+    "tg:aetherjapanresearch/24889"
   ],
   "telegram:enc210406": [
+    "tg:enc210406/4376",
     "tg:enc210406/4375",
     "tg:enc210406/4374",
     "tg:enc210406/4373",
@@ -44,10 +34,52 @@
     "tg:enc210406/4367",
     "tg:enc210406/4366",
     "tg:enc210406/4365",
-    "tg:enc210406/4364",
-    "tg:enc210406/4363"
+    "tg:enc210406/4364"
+  ],
+  "telegram:bornlupin": [
+    "tg:bornlupin/19975",
+    "tg:bornlupin/19974",
+    "tg:bornlupin/19973",
+    "tg:bornlupin/19972",
+    "tg:bornlupin/19971",
+    "tg:bornlupin/19969",
+    "tg:bornlupin/19964",
+    "tg:bornlupin/19960",
+    "tg:bornlupin/19959",
+    "tg:bornlupin/19958",
+    "tg:bornlupin/19957",
+    "tg:bornlupin/19956",
+    "tg:bornlupin/19955",
+    "tg:bornlupin/19954"
+  ],
+  "telegram:HI_GS": [
+    "tg:HI_GS/7010",
+    "tg:HI_GS/7009",
+    "tg:HI_GS/7008",
+    "tg:HI_GS/7007",
+    "tg:HI_GS/7006",
+    "tg:HI_GS/7005",
+    "tg:HI_GS/7004",
+    "tg:HI_GS/7003",
+    "tg:HI_GS/7002",
+    "tg:HI_GS/7001",
+    "tg:HI_GS/7000",
+    "tg:HI_GS/6999",
+    "tg:HI_GS/6998",
+    "tg:HI_GS/6997",
+    "tg:HI_GS/6996",
+    "tg:HI_GS/6995",
+    "tg:HI_GS/6994"
   ],
   "telegram:globaletfi": [
+    "tg:globaletfi/21371",
+    "tg:globaletfi/21369",
+    "tg:globaletfi/21368",
+    "tg:globaletfi/21367",
+    "tg:globaletfi/21366",
+    "tg:globaletfi/21365",
+    "tg:globaletfi/21364",
+    "tg:globaletfi/21363",
     "tg:globaletfi/21362",
     "tg:globaletfi/21361",
     "tg:globaletfi/21359",
@@ -60,24 +92,6 @@
     "tg:globaletfi/21352",
     "tg:globaletfi/21351",
     "tg:globaletfi/21350"
-  ],
-  "telegram:HI_GS": [
-    "tg:HI_GS/7005",
-    "tg:HI_GS/7004",
-    "tg:HI_GS/7003",
-    "tg:HI_GS/7002",
-    "tg:HI_GS/7001",
-    "tg:HI_GS/7000",
-    "tg:HI_GS/6999",
-    "tg:HI_GS/6998",
-    "tg:HI_GS/6997",
-    "tg:HI_GS/6996",
-    "tg:HI_GS/6995",
-    "tg:HI_GS/6994",
-    "tg:HI_GS/6993",
-    "tg:HI_GS/6992",
-    "tg:HI_GS/6991",
-    "tg:HI_GS/6990"
   ],
   "rss:semianalysis": [
     "rss:semianalysis:most-neoclouds-suck-at-security",
@@ -234,6 +248,6 @@
     "x:karpathy:2061110056293106118"
   ],
   "_meta": {
-    "last_x_fetch": "2026-09-01T07:21:07+00:00"
+    "last_x_fetch": "2026-09-01T13:09:42+00:00"
   }
 }
