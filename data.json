@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-01T17:38:56+00:00",
+  "updated_at": "2026-09-01T20:38:42+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 3
+    "new_this_run": 1
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,20 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "rss:semianalysis:koreas-trillion-dollar-sovereign",
+      "source": "rss",
+      "author": "semianalysis",
+      "author_name": "SemiAnalysis",
+      "author_url": "https://semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/koreas-trillion-dollar-sovereign",
+      "text": "Korea’s Trillion-Dollar Sovereign AI Investment: Nvidia Wins, Hynix Loses\n\nKorea hosts a Squid Games, National AI Tournament, the best non-Chinese open source model gets eliminated, why Nvidia needs open source, implications for Hynix and Samsung",
+      "images": [
+        "https://substack-post-media.s3.amazonaws.com/public/images/161bd7c0-9c37-4634-9798-3219d0b4018b_1672x941.png"
+      ],
+      "summary_ko": "한국의 수조 달러 주권 AI 투자: 엔비디아가 승리하고 하이닉스가 패함\n\n한국에서 오징어 게임, 전국 AI 토너먼트 개최, 최고의 비중국 오픈소스 모델 탈락, 엔비디아에 오픈소스가 필요한 이유, 하이닉스와 삼성에 미치는 영향",
+      "published_at": "2026-09-01T20:14:32+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/24913",
       "source": "telegram",
@@ -2313,20 +2327,6 @@
       "images": [],
       "summary_ko": "@JensenHuang의 좋은 움직임입니다. Nvidia 편지는 잘 작성되었으며 읽을 가치가 있습니다. OpenAI-Hugging Face 해킹에서 살펴본 것처럼 방어를 위해서는 개방형 모델과 하네스가 필요합니다. 폐쇄형 모델이 더 안전하다는 PR을 믿지 말자. - 그것은 단지 규제 캡처입니다.",
       "published_at": "2026-07-27T17:01:38+00:00"
-    },
-    {
-      "id": "rss:semianalysis:can-amd-break-the-cuda-moat-amd-advancing",
-      "source": "rss",
-      "author": "semianalysis",
-      "author_name": "SemiAnalysis",
-      "author_url": "https://semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/can-amd-break-the-cuda-moat-amd-advancing",
-      "text": "Can AMD break the CUDA Moat? AMD Advancing AI 2026\n\nAgentic Kernel Generation, Improvement in Software Quality, Unstable Internal Development Clusters, Helios MI455X Production Ramp Hell, Up to 105% Discounts from Finance Engineering",
-      "images": [
-        "https://substack-post-media.s3.amazonaws.com/public/images/063138e3-7270-4e4a-9127-49175f68c3f6_1668x898.png"
-      ],
-      "summary_ko": "AMD가 CUDA 해자를 깰 수 있을까요? AMD 고급 AI 2026\n\n에이전트 커널 생성, 소프트웨어 품질 개선, 불안정한 내부 개발 클러스터, Helios MI455X 생산 램프 지옥, 금융 엔지니어링 최대 105% 할인",
-      "published_at": "2026-07-25T00:33:23+00:00"
     },
     {
       "id": "x:AndrewYNg:2080333504446108104",
