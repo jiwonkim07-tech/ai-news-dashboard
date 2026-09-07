@@ -1,36 +1,13 @@
 {
-  "telegram:globaletfi": [
-    "tg:globaletfi/21455",
-    "tg:globaletfi/21454",
-    "tg:globaletfi/21453",
-    "tg:globaletfi/21452",
-    "tg:globaletfi/21451",
-    "tg:globaletfi/21450",
-    "tg:globaletfi/21449",
-    "tg:globaletfi/21448",
-    "tg:globaletfi/21447",
-    "tg:globaletfi/21446",
-    "tg:globaletfi/21444",
-    "tg:globaletfi/21443",
-    "tg:globaletfi/21442",
-    "tg:globaletfi/21441"
-  ],
-  "telegram:aetherjapanresearch": [
-    "tg:aetherjapanresearch/25036",
-    "tg:aetherjapanresearch/25035",
-    "tg:aetherjapanresearch/25034",
-    "tg:aetherjapanresearch/25033",
-    "tg:aetherjapanresearch/25032",
-    "tg:aetherjapanresearch/25031",
-    "tg:aetherjapanresearch/25030",
-    "tg:aetherjapanresearch/25029",
-    "tg:aetherjapanresearch/25028",
-    "tg:aetherjapanresearch/25027",
-    "tg:aetherjapanresearch/25024",
-    "tg:aetherjapanresearch/25023",
-    "tg:aetherjapanresearch/25022"
-  ],
   "telegram:bornlupin": [
+    "tg:bornlupin/20051",
+    "tg:bornlupin/20050",
+    "tg:bornlupin/20049",
+    "tg:bornlupin/20048",
+    "tg:bornlupin/20047",
+    "tg:bornlupin/20046",
+    "tg:bornlupin/20045",
+    "tg:bornlupin/20044",
     "tg:bornlupin/20043",
     "tg:bornlupin/20042",
     "tg:bornlupin/20041",
@@ -42,13 +19,63 @@
     "tg:bornlupin/20035",
     "tg:bornlupin/20034",
     "tg:bornlupin/20033",
-    "tg:bornlupin/20032",
-    "tg:bornlupin/20031",
-    "tg:bornlupin/20030",
-    "tg:bornlupin/20029",
-    "tg:bornlupin/20028"
+    "tg:bornlupin/20032"
+  ],
+  "telegram:enc210406": [
+    "tg:enc210406/4398",
+    "tg:enc210406/4397",
+    "tg:enc210406/4396",
+    "tg:enc210406/4395",
+    "tg:enc210406/4394",
+    "tg:enc210406/4393",
+    "tg:enc210406/4392",
+    "tg:enc210406/4390",
+    "tg:enc210406/4389",
+    "tg:enc210406/4388",
+    "tg:enc210406/4387",
+    "tg:enc210406/4386",
+    "tg:enc210406/4385",
+    "tg:enc210406/4384"
+  ],
+  "telegram:globaletfi": [
+    "tg:globaletfi/21462",
+    "tg:globaletfi/21461",
+    "tg:globaletfi/21460",
+    "tg:globaletfi/21459",
+    "tg:globaletfi/21458",
+    "tg:globaletfi/21457",
+    "tg:globaletfi/21455",
+    "tg:globaletfi/21454",
+    "tg:globaletfi/21453",
+    "tg:globaletfi/21452",
+    "tg:globaletfi/21451",
+    "tg:globaletfi/21450",
+    "tg:globaletfi/21449",
+    "tg:globaletfi/21448",
+    "tg:globaletfi/21447",
+    "tg:globaletfi/21446",
+    "tg:globaletfi/21444",
+    "tg:globaletfi/21443"
+  ],
+  "telegram:aetherjapanresearch": [
+    "tg:aetherjapanresearch/25038",
+    "tg:aetherjapanresearch/25037",
+    "tg:aetherjapanresearch/25036",
+    "tg:aetherjapanresearch/25035",
+    "tg:aetherjapanresearch/25034",
+    "tg:aetherjapanresearch/25033",
+    "tg:aetherjapanresearch/25032",
+    "tg:aetherjapanresearch/25031",
+    "tg:aetherjapanresearch/25030",
+    "tg:aetherjapanresearch/25029",
+    "tg:aetherjapanresearch/25028",
+    "tg:aetherjapanresearch/25027",
+    "tg:aetherjapanresearch/25024",
+    "tg:aetherjapanresearch/25023"
   ],
   "telegram:HI_GS": [
+    "tg:HI_GS/7039",
+    "tg:HI_GS/7038",
     "tg:HI_GS/7037",
     "tg:HI_GS/7036",
     "tg:HI_GS/7035",
@@ -61,22 +88,6 @@
     "tg:HI_GS/7028",
     "tg:HI_GS/7027",
     "tg:HI_GS/7026"
-  ],
-  "telegram:enc210406": [
-    "tg:enc210406/4396",
-    "tg:enc210406/4395",
-    "tg:enc210406/4394",
-    "tg:enc210406/4393",
-    "tg:enc210406/4392",
-    "tg:enc210406/4390",
-    "tg:enc210406/4389",
-    "tg:enc210406/4388",
-    "tg:enc210406/4387",
-    "tg:enc210406/4386",
-    "tg:enc210406/4385",
-    "tg:enc210406/4384",
-    "tg:enc210406/4383",
-    "tg:enc210406/4382"
   ],
   "rss:semianalysis": [
     "rss:semianalysis:koreas-trillion-dollar-sovereign",
@@ -233,6 +244,6 @@
     "x:karpathy:2061110056293106118"
   ],
   "_meta": {
-    "last_x_fetch": "2026-09-06T23:31:42+00:00"
+    "last_x_fetch": "2026-09-07T03:11:43+00:00"
   }
 }
