@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-09T03:22:41+00:00",
+  "updated_at": "2026-09-09T08:41:58+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 7
+    "new_this_run": 9
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,120 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:globaletfi/21493",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21493",
+      "text": "» Brent 유가는 배럴당 100달러선을 상회",
+      "images": [
+        "https://cdn5.telesco.pe/file/rKMWZfGOHkU3SAqUXX371aJAGFNZMUYEOLcwcdS6DKGMl5Y8ecCCJy_wOvEZVykUpWFS9Bj75btuPMJf1zam2g3qO7yEvKgE7zPN2POELqtwEyS-5wrUtai4adfVBjhfPAV3zkLycnuY00CGTNQ6DPFk5EYbMhW2LbGpgJt_lyZtkMAkbV-oIpYv8Elx9lR_x55QqhKXf8XHaPQ-acZ_q81f3uIHvSEaQRPO418Y7fJRNrViYWBMq8tv4aGaIAYF53UxGobxf82mzsf9jwsjheICwP193fTBZ9Lh8Mfn1zGFIn2qeMbghbNca4QqCY13Kd2e_i2SHR2RHrEXnETgGg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-09T08:02:48+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25109",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25109",
+      "text": "모건스탠리 AI 가이드북: 추론의 시대를 항해하다 (2026년 9월 7일)\n모건스탠리는 7개 팀이 공동 작성한 이번 가이드북에서 GenAI를 둘러싼 8가지 핵심 논쟁에 대한 자사의 시각과 프레임워크를 제시하고, 투자 자금이 하드웨어/반도체/메모리에서 인에이블러와 소프트웨어 레이어로 점진적으로 이동할 것이라는 큰 그림을 내놓았습니다. 하드웨어 레이어 종목이 비싸지 않고 투자 사이클도 다년간 이어질 것이므로 급락을 예상하지는 않지만, 2028년 capex 성장 둔화와 함께 스택 상단에서 실적 상향과 멀티플 확장 기회가 더 크다고 보며 AMZN, META, GOOGL, MSFT 등 GenAI 인에이블러에 긍정적인 입장을 유지하고 있습니다. 모바일 시대에 반도체(퀄컴/ARM), 인프라·디바이스(삼성/애플), 소프트웨어·서비스(구글/아마존) 순으로 아웃퍼폼이 이어졌던 것처럼 AI 사이클에서도 유사한 흐름이 나타날 것이며, 이번에는 반도체와 인프라의 아웃퍼폼 속도가 과거 사이클보다 빨랐던 만큼 소프트웨어·서비스 레이어가 다음 상승 구간을 맞을 준비가 되어 있다는 판단입니다.\n첫 번째 논쟁인 하이퍼스케일러 capex에 대해서는 2027년 데이터센터 capex가 전년 대비 약 5,000억 달러(60%) 증가한 1.5조 달러에 이르지만, 2028년에는 성장률이 약 12%(1,700억 달러 증가)로 둔화될 것으로 전망합니다. 둔화 근거로는 칩·랙 단위의 바텀업 추정에서 구매 가능한 칩 수량에 한계가 있다는 점, 2026년 capex 중 상당 부분(일부 기업은 30~40%)이 2027~2029년 개소 예정 데이터센터를 위한 토지·건물·전력 등 장기 선투자(pre-build)에 쓰이고 있어 이러한 선행 건설이 무한정 확대될 수는 없다는 점, 노동·자재·전력 등 물리적 제약, 그리고 META가 과거 Llama 때처럼 AWS/Azure를 활용해 모델 및 API를 확장할 경우 장기 컴퓨트 수요가 낮아질 수 있다는 점을 들었습니다. 기업별로는 AMZN 데이터센터 capex가 2026년 1,800억 달러에서 2027년 50%, 2028년 6% 성장하고, GOOGL은 2,050억 달러에서 83%, 7%, META는 1,450억 달러에서 55%, 11%, MSFT는 1,750억 달러에서 43%, 20% 성장할 것으로 추정합니다. 다만 메모리와 에너지 비용 등 부품 인플레이션이 계속 오르고 차세대 칩이 더 비싸질 경우, 그리고 2029년 수요가 예상보다 클 경우 2027~2028년 선투자가 확대될 수 있다는 점을 리스크로 언급했습니다.\n두 번째 컴퓨트 용량 논쟁에서는 2027년과 2028년에 각각 38GW, 44GW 등 약 80GW의 용량이 새로 가동되어 하이퍼스케일러 총 컴퓨트 용량이 2025년 35GW에서 2028년 약 145GW로 4배가량 늘어날 것으로 봅니다. GOOGL이 2027년과 2028년 각각 약 9GW, 11GW로 가장 많은 용량을 추가하며 이는 Gemini 프론티어 모델 학습, GCP 성장, 검색·유튜브 전반의 GenAI 기능 배포 수요를 반영한 것입니다. 커스텀 ASIC 비중은 2025년 신규 용량의 34%에서 2028년 66%로 상승하며 TPU와 Trainium이 이를 주도하고, 2028년에는 이 두 칩의 합산 가동 용량이 12GW로 NVDA의 13GW에 근접할 것으로 추정합니다. GW당 비용은 랙 BOM에 GB200/GB300/VR200 전반의 메모리 인플레이션을 반영하고 파워드 셸·건설 인건비 등 랙 외 비용을 상향하면서 Rubin Ultra 기준 GW당 500억 달러까지 높아졌으며, 현재 GB300 아키텍처에서는 파워드 셸이 약 40%, 가속기 랙이 약 30%로 가장 큰 비용 항목이지만 차세대 칩으로 갈수록 DRAM과 HBM의 기여도가 의미 있게 커질 것으로 봅니다.\n세 번째 ROIC 논쟁에서는 세 가지 프레임워크를 통해 25~50%의 GenAI ROIC 경로를 제시합니다. 하이퍼스케일러가 GB300 1GW 용량을 임대하는 IaaS 모델은 GW당 약 230억 달러 매출에 80억 달러 영업비용(IT 감가상각 46억 달러 포함)으로 약 150억 달러의 증분 EBIT(마진 67%)과 세후 약 120억 달러 NOPAT을 창출해 약 30% ROIC가 나오고, 자체 인프라 위에서 API를 서비스하는 모델 기업은 GW당 약 300억 달러 매출로 증분 EBIT 마진 75%, NOPAT 약 180억 달러, ROIC 약 46%를 기록하며, 3자 인프라를 임대해 API를 서비스하는 경우는 GW당 약 410억 달러 매출에서 280억 달러의 임대 비용을 제하고 NOPAT 약 100억 달러로 약 25% ROIC가 산출됩니다. 즉 자체 인프라 위에서 모델 레이어를 운영하는 META, GOOGL, SPCX에 가장 높은 수익이 귀속되며, 하이퍼스케일러 모델도 약 30% ROIC를 낼 수 있다는 결론입니다.\n네 번째 TAM 논쟁에서는 글로벌 지식노동 지출 중 20~30조 달러가 GenAI 도구를 통해 디지털화·증강될 수 있고, 여기에 리테일·여행(약 16조 달러), 라이드셰어·자율주행(4조 달러), 음식 배달(약 4조 달러), 광고(약 3조 달러) 등 약 30조 달러의 소비자 지출이 향후 10년간 디지털화될 것으로 보아 총 50~60조 달러 규모를 제시합니다. ILO 데이터 기준 글로벌 고용 36억 명 중 지식노동자 약 9억 명에 상위 25% 임금 수준(월 약 2,100달러)을 적용하면 약 22.5조 달러의 지식노동 TAM이 산출됩니다. 퍼블릭 클라우드가 도입 2년차에 IT 예산의 4%에 도달했던 사례를 적용하면 2027년 엔터프라이즈 AI 지출은 약 8,000억 달러로 지식노동 TAM의 약 4% 침투율에 해당하지만, AI는 대규모 인프라 이전이 필요 없고 생산성 개선을 통한 가치 실현이 빠르며 뒤처질 경우의 경쟁상 기회비용이 크기 때문에 클라우드보다 더 빠르게 확산될 것이라고 봅니다. 과거 PC, 인터넷, 모바일, 클라우드 사이클에서 초기 전망이 실제 대비 평균 38% 과소 추정되었다는 점도 강조했으며, 소비자 측에서는 이미 미국 인구의 약 25%가 AI 도구를 매일 사용하고 있고 페이스북이 미국·캐나다에서 8년 만에 약 45% 침투율을 달성했던 것처럼 유통·데이터·투자 여력을 갖춘 기존 대형 플랫폼이 소비자 AI 도입을 주도할 것으로 전망합니다.\n다섯 번째 도입 신호 논쟁에서는 2026년 2분기 기준 S&P 500 기업의 약 25%가 GenAI 효과를 정량화하고 있으며 이는 1년 전 14%에서 크게 늘어난 수치입니다. 기술, 커뮤니케이션 서비스, 금융, 헬스케어 섹터가 가장 앞서 있고 전년 대비로는 기술(28%에서 51%), 금융(8%에서 37%), 산업재(19%에서 21%) 순으로 언급이 증가했습니다. 구체적인 기업 코멘트로는 Shopify의 AI 유입 트래픽과 주문이 전년 대비 3배 증가한 점, Meta의 GEM 모델이 페이스북 광고 클릭 8.3%와 전환 15.7% 상승을 이끈 점, 구글의 Antigravity 주간 활성 사용자 240만 명 및 AI 모드 월간 활성 사용자 10억 명 돌파, 오픈 모델을 통해 클로즈드 모델 대비 8% 미만의 트랜잭션 비용을 달성했다는 점, Snap의 AI 코드 리뷰어가 PR의 90%를 검토하며 3만 시간을 절감한 점, 금융 부문에서 특정 영역의 인력을 30~40% 감축했다는 언급, IQVIA가 상위 20개 제약사 중 19곳에 AI 솔루션을 배포한 점 등이 소개되었습니다.\n여섯 번째 오픈웨이트 모델 논쟁에 대해서는 추론의 시대에 서빙 비용 우위가 핵심이며, 오픈웨이트 모델이 컴퓨트 수요 자체를 바꾸지는 않고 오히려 저비용 모델이 경제 전반의 도입을 촉진하는 데 필수적이라고 봅니다. 오픈웨이트 확산은 제번스의 역설을 강화해 평균 토큰 가격을 낮추고 토큰 수요를 확대하며, 프론티어 랩에는 차별화와 가격 경쟁 압박을 가하는 동시에 AWS Bedrock, MSFT Foundry, GOOGL Vertex처럼 클로즈드와 오픈웨이트 모델을 모아 과업별로 컴퓨트 효율을 최적화하는 하이퍼스케일러 컨시어지 레이어의 가치를 재확인시킨다는 것입니다. 오픈웨이트 모델은 라이선스 비용이 거의 없더라도 GPU 컴퓨트, 파인튜닝, 데이터·임베딩 파이프라인 등의 지출을 발생시켜 하이퍼스케일러가 어떤 모델이든 수익화할 수 있게 하며, 자사의 API ROIC 분석이 이미 최대 프론티어 모델보다 훨씬 낮은 토큰 가격을 가정하고 있어 오픈웨이트가 더 확산되더라도 GB300 1GW 기준 20~40% ROIC가 유지된다고 밝혔습니다.\n일곱 번째 크레딧 파이낸싱 논쟁에서는 우려하지 않는다는 입장입니다. 2026년 연초 이후 글로벌 AI 관련 부채 발행이 약 4,500억 달러로 이미 2025년 연간의 두 배를 넘었지만 AI 관련 부채가 IG 지수의 약 7%에 불과해 고품질 하이퍼스케일러를 중심으로 추가 발행을 흡수할 여력이 충분하며, 시장 조정은 발행 제약이 아니라 스프레드 확대를 통해 이루어질 것으로 봅니다. 2026~2028년 데이터센터 capex 소요 3.21조 달러 중 크레딧 시장이 1.75조 달러, 자기자본이 1.46조 달러를 담당하고, 크레딧 시장 내에서는 IG 6,500억 달러, 프라이빗 크레딧 7,000억 달러, ABS/CMBS 2,000억 달러, 하이일드·론 2,000억 달러로 구성될 것으로 추정합니다. 고품질 하이퍼스케일러 스프레드는 현재 IG 지수 대비 7bp 확대된 수준이며, AMZN, GOOGL, META, MSFT 4사의 영업현금흐름은 2027년 9,800억 달러, 2028년 1.2조 달러로 가속되어 같은 기간 필요 조달 부채 2,900억 달러의 7~8배에 달한다는 점을 근거로 들었습니다. 다만 데이터센터 셸 장기 리스와 대규모 컴퓨트·칩·전력 구매 약정 등 부외 레버리지가 커지고 있고 신용평가사가 이를 조정 부채에 포함하므로 현 등급 수준에서의 발행 여력은 그만큼 줄어든다는 점, 그리고 NVDA의 경우 2028년 말 총 신용 익스포저가 약 2,000억 달러(이 중 약 1,700억 달러가 펀디드 부채 외)로 확대될 것으로 보이며 테일 리스크가 아직 초기 단계이고 불투명하며 규모가 커서 중립 의견으로 커버리지를 개시했다는 점도 언급했습니다.\n여덟 번째 규제 및 전력 병목 논쟁에서는 주·지방 정부의 데이터센터 반대가 전기요금 상승 우려, 물 사용과 폐열 등 환경 우려, 소음·분진·교통 등 지역 생활 문제라는 세 가지 범주로 나뉘며 모라토리엄이 주·지방 차원에서 확대되고 있다고 진단합니다. 이러한 반발은 대체로 관리 가능하며 결국 이미 장기 전망에 반영된 하이퍼스케일러의 전력 비용 상승으로 귀결되겠지만, 지방 정책이 영구화·확대되거나 연방 차원으로 반영될 경우 미국이 중국과의 AI 경쟁에서 뒤처질 위험이 있고, 특히 2028년 대선을 앞두고 민주당이 집권할 경우 행정부 차원에서 데이터센터 확장에 정치적 리스크가 커질 수 있다는 점을 주시하고 있습니다. 미국이 38GW의 전력 부족에 직면한 가운데 전력 공급 시점(time to power)은 계속 중대한 병목으로 남을 것이며, 데이터센터는 점차 현장(behind-the-meter) 발전을 채택할 것으로 보아 BE, INIO, SEI 등 온사이트 발전 기업과 WULF, HUT, CIFR, RIOT 등 파워드 셸 제공 기업에 긍정적인 시각을 유지합니다. BTM 전력은 GW당 약 30억 달러의 추가 capex를 발생시키며, 이는 2027년 하반기와 2028년부터 가동될 Rubin Ultra 세대(GW당 총 500억 달러)부터 이미 바텀업 추정에 반영되어 있습니다.\n끝으로 모건스탠리는 2027년 이후 부상할 다음 논쟁으로 전력 및 노동·자재 등 물리적 제약과 중간선거·대선 사이클에서의 규제 역풍이 데이터센터 비용·개소·ROIC에 미칠 영향, GenAI 효과가 확산되면서 어떤 기업과 산업이 가장 먼저 대규모 인력 감축에 나설지와 미국 노동력 재교육의 재원 조달 및 이것이 GenAI 정치 논의와 도입 속도에 미칠 영향, 어떤 산업과 AI 도구가 경제 전반의 도입과 지출을 이끌지, 커스텀 실리콘 등을 통한 하이퍼스케일러의 서빙 비용 개선과 토큰 처리량 향상, 프론티어 랩이 온프레미스와 하이퍼스케일러 중 어느 쪽에 의존할지, 그리고 향후 10년간 수조 달러에 이를 추론 지출을 두고 오픈웨이트 모델과 프론티어 랩의 경쟁 구도가 어떻게 전개될지를 꼽았습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-09T07:55:59+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25108",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25108",
+      "text": "ASML과 TSMC, High NA EUV용 대형 포토마스크로의 업계 전환을 선도하기 위한 공동 협력 계획 발표\n• ASML과 TSMC는 SPIE BACUS 콘퍼런스를 앞둔 9월 7일,\n12인치 포토마스크로의 전환을 추진하고 고개구수 극자외선(High NA EUV) 노광 기술의 가치를 극대화하기 위한 업계 공동 협력체계\n를 구축했습니다.\n• 이번 협력은\n2031년까지 12인치 마스크 시험생산 라인을 구축\n하고, 이를 통해\n2033년까지 첨단 공정 생산에 필요한 노광 시스템 전반의 준비를 완료\n하는 것을 목표로 합니다.\n• High NA EUV 도입 기업과 주요 공급업체들도 참여 의사를 밝혀, 이번 협력에 대한 업계의 폭넓은 지지를 보여주었습니다.\nASML 홀딩(유로넥스트: ASML, 나스닥: ASML)과 대만반도체제조기업 TSMC(대만증권거래소: 2330, 뉴욕증권거래소: TSM)는 반도체 업계의\n대형 극자외선(EUV) 노광용 포토마스크 전환을 주도하기 위한 공동 협력 계획\n을 발표했습니다.\nHigh NA EUV는 우선 현재 사용 중인\n6인치 마스크를 활용해 생산에 도입\n될 예정입니다. 이후 더 큰\n12인치 마스크로 전환하면 반도체 공장의 생산성을 더욱 높이고, 칩 제조 비용을 낮추며, 스티칭(분할 노광한 패턴을 이어 붙이는 방식)의 제약을 해소\n하여 반도체 산업 전반에 도움이 될 것으로 기대됩니다. 이를 통해 첨단 반도체 제조업체들은 High NA EUV의 장점을 충분히 활용하고, 차세대 최첨단 칩을 더욱 경제적으로 생산할 수 있게 됩니다.\nASML의 크리스토프 푸케 사장 겸 최고경영자(CEO)는 다음과 같이 말했습니다.\n“반도체 소자 미세화 로드맵에 따라\nHigh NA EUV 도입이 점진적으로 확대\n될 것으로 예상합니다. 초기에는 현재의 6인치 마스크를 사용하고, 이후에는 12인치 마스크가 도입 확대를 뒷받침할 것입니다. 12인치 마스크는 노광 장비의 생산성을 높이고, 업계가 더 작고 빠르며 에너지 효율이 높은 칩에 대한 수요를 충족할 수 있도록 해줄 것입니다. 이번 협력에 대해 반도체 제조업체와 마스크 공급업체, 협력사들이 초기부터 강력한 지지를 보내주고 있어 기쁘게 생각합니다.”\nTSMC의 웨이저자(C. C. Wei) 회장 겸 최고경영자(CEO)는 다음과 같이 말했습니다.\n“우리는 업계가 복잡한 문제를 해결하기 위해 협력할 때, 개별 기업이 혼자서는 달성할 수 없는 가능성을 열 수 있다고 늘 믿어왔습니다. 업계 가치사슬 전반의 전문성을 결집하고, 도입 장벽을 낮춰 첨단 솔루션을 대규모로 활용할 수 있도록 지속적으로 혁신함으로써 최첨단 기술의 혜택을 계속 제공하고자 합니다.”\nTSMC는 2030년부터 첨단 공정의 대량생산에 ASML의 High NA 기술을 사용할 계획입니다.\n공정 기술이 발전함에 따라\nHigh NA EUV가 필요한 레이어 수가 증가할 것으로 예상\n하고 있으며, 이는 주로\nAI 애플리케이션에 필요한 트랜지스터 구조가 갈수록 복잡해지는 데 따른 것\n입니다.\nASML과 TSMC는 미국 캘리포니아주 몬터레이에서 열리는 연례 SPIE BACUS 콘퍼런스를 앞둔 9월 7일, 12인치 포토마스크로의 전환을 추진하기 위한 업계 전반의 공동 협력체계를 구축했습니다. 이번 협력은\n2031년까지 12인치 마스크 시험생산 라인을 마련\n하고, 이를 토대로\n2033년까지 12인치 마스크를 사용하는 High NA 노광 시스템이 첨단 공정 생산에 투입될 수 있도록 하는 것\n을 목표로 합니다.\nhttps://pr.tsmc.com/english/news/3338",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-09T07:48:56+00:00"
+    },
+    {
+      "id": "tg:enc210406/4408",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4408",
+      "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 9월 9일 종가 기준",
+      "images": [
+        "https://cdn5.telesco.pe/file/LKP4_iUWisG7Un1sss8Y1-PN91EnrY__xwx_CGCH_vraaFyp8MsPUFznTed8o3OWKVVXL5qVY7FVqf73i_IWtlzdPe-Y1L50azrGCMNhU77wgR0fgqqzWwV2yHfco_QkOHev-gXuhO4iO-0_UmXug26SoRFRiVZpXZN58L1VsO0Yv9g97E3Z5ShE7RDRbuYkSajSO9soV80cNFfWYdyyX2Uh5UswYCBtIVU6VI3_SmcIDdrDO6Aie79R15ZfpvrMSyUYRY9xyUc5YLg5GgwMMfK0jOh7k-hl7Rt6p8YbzajpEb8jU5SDZNApcxOBbb4qJie-zPxpJvW56uT9dWlPHQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-09T07:38:58+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20086",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20086",
+      "text": "코어위브 CoreWeave - 골드만삭스 Communacopia 2026 ( 26.9.9)  1. 아키텍처 차별화: 범용 클라우드 vs AI 전용  설계 철학: 레거시 환경을 개조(Retrofit)한 기존 빅3 하이퍼스케일러와 달리, 창업 초기부터 병렬 연산 및 AI 워크로드에만 맞춘 전용 인프라 구축.  복리적 의사결정: 하드웨어 배치부터 소프트웨어 스택에 이르기까지 수천 가지 미세 최적화가 누적되어 타사 대비 압도적인 GPU 훈련 퍼포먼스 달성.  통합…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-09T06:37:12+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20085",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20085",
+      "text": "코어위브 CoreWeave - 골드만삭스 Communacopia 2026\n( 26.9.9)\n1. 아키텍처 차별화: 범용 클라우드 vs AI 전용\n설계 철학\n: 레거시 환경을 개조(Retrofit)한 기존 빅3 하이퍼스케일러와 달리, 창업 초기부터 병렬 연산 및 AI 워크로드에만 맞춘 전용 인프라 구축.\n복리적 의사결정\n: 하드웨어 배치부터 소프트웨어 스택에 이르기까지 수천 가지 미세 최적화가 누적되어 타사 대비 압도적인 GPU 훈련 퍼포먼스 달성.\n통합 인프라 전략\n: 훈련용과 추론용 인프라를 인위적으로 분리하지 않고 'AI 인프라'로 통합 운영. 자체 관제 도구(Mission Control)와 가시성(Observability) 스택을 통해 워크로드 성격에 맞춰 최적의 자원 효율과 비용 절감 지원.\n2. 수요 환경 및 엔터프라이즈 시장의 구조적 변화\n공급 부족 장기화\n:\n연산 공급 능력은 지능(Intelligence)에 대한 폭발적 수요를 따라가지 못하고 있으며, 2030년 말까지 공급-수요 불균형이 지속될 것으로 전망.\n9개월 룰\n:\n9개월 전 완료한 인프라 규모가 작아 보일 정도로 기존 대형 고객(프론티어 랩, AI 네이티브, 하이퍼스케일러)의 컴퓨팅 수요가 기하급수적으로 팽창 중.\n엔터프라이즈의 자체 클러스터 구축 (캐터필러 사례)\n:\n지난 20년간 클라우드 종속(삶은 개구리 현상)을 경험한 전통 제조/기업들이 AI에서는 통제권을 잃지 않기 위해 초기부터 자체 클러스터를 구축하려는 움직임 본격화.\n기존 3대 과점 하이퍼스케일러의 대안으로 CoreWeave를 선택해 전용 AI 환경을 구축하고 있으며, 이를 통해 CoreWeave가 엔터프라이즈 AI 클라우드로 자리매김.\n월드 모델 및 에이전틱 AI\n: 데이터 형태는 다를 수 있으나 핵심 가치 제안(투자 금액당 추출 가능한 연산 효율 극대화)은 동일하게 적용.\n3. 데이터센터 인프라 장벽과 수직 계열화\n부지 확보 및 지역 사회 갈등\n: 중간선거 국면에서\n데이터센터 설립 반대 여론이 고조되고 있으나, 이를 막는 것은 연산 수요 자체를 없애는 것이 아니라 건설 위치와 비용을 바꿀 뿐임\n.\n냉각 기술 대응\n: 전력 집약적인 최신 AI 인프라는 완전 폐쇄 루프(Closed-loop) 냉각 시스템이 필수적이며, 이를 통해 수자원 소모 논란 대응 중.\n글로벌 전력 분산\n: 미국 국내 규제 및 용량 한계에 대응해\n미국 외 글로벌 지역에 이미 1GW 이상의 전력 계약을 체결하여 포트폴리오 다각화 완료.\n자체 DC 구축(다운스트림 수직 계열화)\n:\n마진 누적 효과도 있지만, 핵심 목적은 '인프라 통제력 및 혁신 샌드박스 확보'.\n전력(MW)을 확보하는 것과 이를 실제 AI 슈퍼컴퓨터로 가동·유지보수하는 운영 난이도는 완전히 다름. 연내 최초 2~3개 자체 구축(Self-build) 데이터센터 가동 예정.\n4. 하이퍼스케일러 계약 회수 우려(Bear Case)에 대한 반박\n역사적 패턴 불일치\n: 하이퍼스케일러가 자체 구축 후 외부 계약을 회수할 것이라는 우려는 지속되어 왔으나, 실제로는 상장 이후에도 재계약 및 규모 확대를 5회 이상 반복.\n시간 확보와 독자 생태계 완성\n: 초기 빅테크 대상 '원가 가산(Cost-plus)' 대규모 계약을 통해 회사가 성장할 '시간'을 벌었음.\n현재는 획득한 규모의 경제를 바탕으로 엔터프라이즈, 정부, 자체 매니지드 추론(Managed Inference) 등 다변화된 수요층을 흡수하여 특정 고객 의존도 탈피 및 자립형 클라우드로 전환 완료.\n서비스 결합도\n:\n고객의 75% 이상이 스토리지, 메모리, 네트워킹 등 3개 이상의 핵심 소프트웨어 사일로를 복합 소비 중.\n5. 소프트웨어(Omni) 및 엔비디아 파트너십 레버리지\nNVIDIA 레퍼런스 아키텍처 지정\n: CoreWeave의 소프트웨어 스택이 엔비디아 공식 레퍼런스 아키텍처로 공인받음.\n타사 재무제표 레버리지 (Asset-light 확장)\n:\n독자 소프트웨어 레이어인 'Omni'를 자체 인프라를 직접 소유하려는 제3자에게 라이선싱 판매.\n물리적 자산 소유가 부담스러운 국가/지역에서는 타사의 자본과 하드웨어를 활용하고 소프트웨어만 공급함으로써 자본 리스크 없이 TAM 확장 및 고수익 창출.\n6. 자본 구조 혁신: SPV 구조화와 차입 비용 최적화\nSPV 기반 프로젝트 파이낸싱\n: 대형 고객(마이크로소프트 등)의 고신용 오프테이크(Offtake) 계약을 기반으로 SPV를 설립. 매출이 SPV로 직행해 부채를 상환하는 투명한 구조를 구축하여 부채 시장 자금을 대규모 조달.\n신용 조건 고도화\n:\n과거 업계 최초 GPU 담보 대출을 시작으로, 최근 거래에서는 대주(Lenders)가 단기 계약에 따른 '갱신 리스크(Renewal risk)'까지 인수하는 구조화 성공.\n벤처 기반 기업임에도 투자적격(A- 등급) 수준의 저금리 차입에 성공하여 기존 하이퍼스케일러와 대등한 자본비용(Cost of Capital) 경쟁력 확보.\nhttps://x.com/DrNHJ/status/2097574254799933626?s=20",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-09T06:34:28+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20084",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20084",
+      "text": "OpenAI- Tibo\nAstra에 대한 수요가 정말 전례가 없을 정도로 엄청납니다.\n수요를 감당하기 위해 가능한 모든 수단을 동원하고 있지만, 이전에도 매우 가파른 성장을 겪어봤음에도\n지금까지 이런 수준은 본 적이 없습니다.\n기존 이용자분들께 최상의 서비스를 유지하는 것이 언제나 최우선이겠지만,\n이런 상황이 계속된다면 신규 Pro 구독을 당분간 잠시 중단해야 할 수도 있습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/S3syiEs2lJJjiRwN1q6f7k-Gr-jcQNjG0kbhHQtU_NTI3u6-Muqt9j-5ghXgHTOzVRXU3J11l6fpAk3y7MKjLTuaKs07DNpe0x7y0nDdhxULebu-wYfEuCEm7tpXOIP3c3ZzhydgHZksKMMi8Z1rxC3MqPPz2xgDTDopXnEhrHhN8Ec-QeYN1BlyrHTwQID3sFz6y0pj_XLL_27qQjEexgyGoTfCNx3yBgD9O3FH8RU3SSWWLFS9V6u-VvuoowHu7wrmrNWBs8oeSBU8XCm00dWUSOQHD9-E9Q-a4G2gM-VDuybmRwXcMf87K0K1Hadtf6m89uCL4bb70NcqMT8p1A.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-09T06:27:54+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20083",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20083",
+      "text": "2026.09.09 15:11:15\n기업명: 코스메카코리아(시가총액: 1조 3,051억) A241710\n보고서명: 신규시설투자등\n*투자구분 및 목적\n- 신규시설투자\n- 화장품 수요 증가 대응을 위한 생산능력 확대\n투자금액 : 1,360억\n자본대비 : 40.45%\n투자시작 : 2026-09-09\n투자종료 : 2030-12-31\n투자기간 : 4.3년\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20260909900323\n종목공시 :\nhttps://www.awakeplus.co.kr/disclosure/241710",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-09T06:15:15+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20082",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20082",
+      "text": "트럼프 행정부, 포드의 중국 기업과의 사업 제휴 맹비난\n미 교통부의 경고 및 관계 단절 요구\n숀 더피(Sean Duffy) 미국 교통부 장관은 짐 팔리(Jim Farley) 포드 최고경영자(CEO)에게 서한을 보내 중국 CATL, 지리(Geely), BYD와의 협력에 대해 \"심각한 우려\"를 표명하고 주요 중국 기업들과의 관계를 끊을 것을 촉구\n했습니다.\n교통부는 국가 안보 우려를 제기하며,\n특히 미 국방부의 중국군 연계 기업 목록에 올라 있는 CATL의 기술 라이선스를 미시간주 마셜(Marshall) 공장에서 사용하는 점을 지적했습니다.\n링컨 노틸러스(Nautilus) 차량의 생산 기지를 2030년까지 미국으로 이전하지 않아 대중국 제조 의존도를 장기화하고 있는 점, 지난 1월 디트로이트 오토쇼에서 팔리 CEO가 미 행정부 관계자들에게 \"미국 내 중국 합작사 설립 지원\"을 제안했던 점도 함께 비판했습니다.\n배경 및 시장 영향\n이번 압박은 이달 말로 예정된 도널드 트럼프 대통령과 시진핑 중국 국가주석의 정상회담을 앞두고 나왔습니다.\n현재 미국 의회는 중국산 차량의 자국 내 유입 금지를 강화하는 법안을 추진 중이며, 주요 글로벌 자동차 업체들 역시 BYD 등 중국 기업에 예외를 두지 말 것을 의회에 요청한 상태입니다.\n미 하원 미·중전략경쟁특별위원회(존 뮬레나 의원 등) 역시 지난 7월 포드와 지리의 제휴가 유럽 자동차 시장 잠식을 부추길 것이라며 포드의 중국 파트너십을 연이어 비판해 왔습니다.\nhttps://www.reuters.com/business/autos-transportation/trump-administration-blasts-ford-business-deals-with-chinese-firms-2026-09-08/?utm_source=chatgpt.com",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-09T05:08:01+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/25107",
       "source": "telegram",
@@ -431,30 +545,6 @@
       "published_at": "2026-09-08T13:40:59+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/25097",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25097",
-      "text": "CNBC) 퀄컴 주가, 아마존과의 데이터센터 인프라 계약으로 10% 급등\n* 퀄컴은 AWS의 AI 인프라 구축을 지원하기 위해 \"여러 세대에 걸친 맞춤형 실리콘\"과 관련해 아마존과 협력하고 있다고 밝혔습니다.\n* 이 반도체 기업은 AI 붐 속에서 엔비디아가 지배적 사업자로 군림해 온 데이터센터 사업으로 진출을 시도하고 있습니다.\nhttps://www.cnbc.com/2026/09/08/qualcomm-amazon-data-center-infrastructure-deal.html",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-08T13:25:49+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25096",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25096",
-      "text": "META: 최첨단 LLM 연구소이면서 동시에 세계 최대 규모이자 가장 수익성 높은 디지털 광고 사업을 영위하는 기업이 2027년 예상 EPS의 18배에 거래되고 있다면 관심이 가시겠습니까? 그것이 바로 META입니다. 사실상 올해 내내 투자자들은 저커버그가 눈에 잡히는 ROIC도 없이 돈을 흥청망청 쓴다며 애를 태워 왔습니다. 그러나 무즈 스파크 1.3이 META를 최첨단 LLM 경쟁의 선두권에 확실히 올려놓으면서 그 ROIC의 윤곽이 빠르게 드러나고 있습니다. 게다가 워터멜론(META의 다음 주요 모델 출시)은 아직 나오지도 않았습니다… 저는 9월 말이나 10월에 나올 것이라는 데 걸겠습니다. 여기에 곧 있을 컨슈머 & 비즈니스 에이전트의 출시(9월 23일 메타 커넥트에서 공개될 가능성이 높으며… 유출 정보가 하나둘 나오기 시작했습니다), 그리고 META가 다른 AI 기업에 GPU 용량을 판매하는 네오클라우드 방식 거래를 성사시킬 가능성이라는 '공짜' 옵션 가치까지 더하면, 지금부터 연말까지 촉매가 즐비합니다. 여기에 더해 핵심 사업도 순항을 이어가고 있어 광고 매출 성장률은 20% 중후반대를 기록 중이며, 이는 노출량과 단가 양쪽 모두가 견인하고 있습니다. META는 두말할 나위 없는 AI 승자입니다 – 그런데 주가는 그렇게 거래되지 않고 있습니다. 아직은 말이지요. 그러나 이 촉매들이 몇 가지만 더 현실화되면 연말까지는 그 상황이 바뀔 가능성이 높습니다. 마지막으로, 저는 META가 헤지펀드의 과밀 롱 포지션이라는 견해를 계속 견지합니다. 많은 투자자들이 이 촉매 경로를 이미 파악하고 있고 거기에 매료되어 있기 때문인데, 특히 지금부터 3분기 실적 발표까지의 구간에서 그렇습니다. 제가 META 빙고 카드를 다시 업데이트해야겠다고 느낄 때쯤이면 더 많은 투자자들이 이 판에 합류할 것입니다… 아마도 워터멜론(메타의 차세대 AI 코드명)이 공개되는 시점이 되겠지요.\n*JP모건 오늘 노트 코멘트 발췌",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-08T13:08:51+00:00"
-    },
-    {
       "id": "tg:globaletfi/21484",
       "source": "telegram",
       "author": "globaletfi",
@@ -477,18 +567,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-09-08T12:40:20+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20073",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20073",
-      "text": "네비우스와 팔란티어, 팔란티어 고객에게 완전한 소버린 AI 스택을 제공하기 위한 파트너십 체결\n팔란티어 테크놀로지스(Palantir Technologies)와 네비우스 그룹(Nebius Group)이\n네비우스의 AI 전용 컴퓨팅 인프라 및 클라우드 플랫폼을 팔란티어 상업용 고객에게 제공하기 위한 전략적 파트너십을 체결\n했습니다.\n주요 협업 내용\n* 선호 소버린 AI 파트너 지정\n: 팔란티어는 네비우스를 자사의 '선호 소버린(Sovereign) AI 인프라 파트너'로 공식 선정했습니다.\n*\n보안 경계 내 직접 통합\n: 시스템 연동 후 네비우스의 컴퓨팅 및 추론(Inference) 엔드포인트가 팔란티어 엔터프라이즈 보안 경계 내로 편입되어 배포됩니다.\n*\n인프라 확충 가속: 전력 확보가 완료된 사이트를 중심으로 모듈형 데이터센터를 구축하는 등 신규 AI 컴퓨팅 역량의 가동 속도를 높이기 위해 공동 협력\n합니다.\n도입 효과 및 기술적 의의\n*\n데이터 및 모델 주권 확보:\n팔란티어의 소버린 AI 운영체제(AIP, Ontology, Foundry, Apollo 기반)를 통해 기업은 자체 기밀 데이터를 활용해 모델을 훈련하면서 컴퓨팅·데이터·모델에 대한 전권을 유지할 수 있습니다.\n*\n맞춤형 오픈 모델 배포:\n적격 고객은 신뢰할 수 있는 인프라에서 오픈소스 모델을 실행하고 도메인별 데이터를 결합해 지속적으로 고도화할 수 있어, 폐쇄형 범용 AI 모델 대비 뛰어난 성능을 안전하게 구현할 수 있습니다.\n*\nAI 네이티브 아키텍처\n: 기존 범용 컴퓨팅을 AI용으로 개조한 타 클라우드와 달리, 네비우스는 설계 단계부터 AI 워크로드 전용으로 하드웨어와 소프트웨어를 일체화해 팔란티어 OS와의 긴밀한 통합이 가능합니다.\n경영진 발언\n* 알렉스 카프(Alex Karp), 팔란티어 CEO: \"네비우스의 컴퓨팅 인프라는 기업이 직접 통제하는 조건 속에서 독자적인 AI 모델을 실행할 수 있도록 뒷받침합니다.\n팔란티어의 온톨로지와 네비우스의 인프라가 결합되어 파트너들이 요구하는 데이터 주권을 확실히 보장할 것입니다.\"\n*\n아르카디 볼로지(Arkady Volozh), 네비우스 CEO: \"기업에는 대규모 AI 인프라의 고성능과 데이터·모델에 대한 통제권이 모두 필요합니다.\n팔란티어와 함께 상업 고객들이 신뢰성 높은 인프라에서 최적화된 오픈 모델을 안정적으로 운영할 수 있도록 지원하겠습니다.\"\nhttps://nebius.com/newsroom/palantir-and-nebius-partner-to-deliver-a-complete-sovereign-ai-stack-to-palantir-customers?utm_source=chatgpt.com",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-08T11:59:53+00:00"
     },
     {
       "id": "tg:globaletfi/21482",
@@ -527,18 +605,6 @@
       "published_at": "2026-09-08T10:26:18+00:00"
     },
     {
-      "id": "tg:bornlupin/20072",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20072",
-      "text": "UBS,\n블룸 에너지(Bloom Energy,\n$BE\n), 목표주가 300달러에서 325달러로 상향\nS&P 다우존스 지수(S&P Dow Jones Indices)가 9월 21일부로 블룸 에너지를 S&P 500 지수에 편입한다고 발표한 이후, 블룸 에너지의 목표주가를 300달러에서 325달러로 상향 조정하고 투자의견 '매수(Buy)'를 유지했습니다.\n역사적으로 S&P 500 편입이 패시브 자금의 유의미한 확대로 이어졌음을 지적하며, 이번 편입을 \"주가에 있어 중대한 긍정적 촉매제\"라고 평가했습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-08T08:37:59+00:00"
-    },
-    {
       "id": "tg:enc210406/4402",
       "source": "telegram",
       "author": "enc210406",
@@ -547,60 +613,10 @@
       "url": "https://t.me/enc210406/4402",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 9월 8일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/uyPbFCLH7Aogdc-QgqbjIVD4RnQ75o-xpN2DxULqbKLip6XoPKzl0Pj10v48XIVwwYkrXrnoP9l3xkEuNgiYLm4QISZClhp1SG5V5GJmiwzFBFfyg16oE_xYqdB6a9L_35MkTHPJ7wCNeHbNoj7PY92ctwzBT2SWvNMffbR0KecnmLCAL9J9dSuNwaZ9eebYbZR6GQIohZAA99N5eomeLnYaIp0gDsi1hUk3IaJn7Yo54PEKWTWRjYrR-pM9mZAkXm3FFuVW5FlSiSxxKDipDET6AOxk7Hdrd9G0LopvkVs-LY3nFmssKavAH8rUzjI3uonTitHNjlOB7vGrxSHEhA.jpg"
+        "https://cdn5.telesco.pe/file/FOOHGp5kWmFnCAr20a7yTEzNQUptldD1n8OLu4CessPQD3U3nrQw6Hb4IXEns9QzHJpXAlA7i-trhje0AmzCb7_AioEFv3RnZI1qP3QmlKe01fRqnR3PhUdiPxmD2m7uEDhaYfxEHGTN11CFa-dvgoAf6-SEbISfRQj9SRcTz2HuA8PZEHwRVON32bB6liZzxLrY6u4zRTP25pmmHNQ8lj524vtyWiBOLqjOL5oZG9alrI6qGRRLCWif-gzZkzJEdg_CVZ9GngPQvjl2lQeMIXW6mH3-E6i0NCvtIGbDMfKKTm_Vnj3orztZ5xc9K0Bwdc7KLLRpKgfgHK4m9stAzg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-09-08T07:37:28+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20071",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20071",
-      "text": "애플, 이례적으로 3~5년 NAND 장기 계약 추진·가격 상한선 미설정 가능성… AI 생산능력 잠식으로 메모리 가격 협상력 역전\n애플이\n일본 키옥시아(Kioxia)와 3~5년 단위의 NAND 플래시 장기 공급 계약을 협상 중이며, 고정 가격 상한선(Price Cap)을 두지 않을 가능성이 제기\n되었습니다. 글로벌 부품 시장에서 가장 강력한 바이어였던 애플의 구매 전략이 '단가 인하+공급선 다변화'에서 '물량 확보+장기 계약'으로 완전히 전환되었음을 보여줍니다.\n구매 전략의 구조적 전환\n관행 파괴:\n기존에는 강력한 구매력을 바탕으로 단기 계약과 공급사 간 가격 경쟁을 유도했으나,\n3~5년 장기 계약에 가격 상한까지 풀며 180도 선회했습니다.\n배경:\nAI 데이터센터 고객들이 고액의 프리미엄을 지불하며 장기 계약으로 팹(Fab) 생산능력을 대거 선점하자,\n애플 역시 단가 인하보다 수년 치 NAND 공급량을 선점하는 것이 시급해졌습니다.\n공급선 현황: 현재 키옥시아와 SK하이닉스 등이 장기 계약 모델을 적극 도입 중인 주요 공급사로 꼽힙니다.\nAI 수요 잠식과 완제품 원가 압박\n메모리 원가 폭등:\n트렌드포스(TrendForce)에 따르면\n2026년 3분기 기준 256GB 아이폰 18 프로의 메모리 비용은 전년 대비 4배 가까이 증가할 것으로 추산됩니다.\nBOM 비중 급등:\n전체 부품 원가(BOM)에서 메모리가 차지하는 비중은 초기 256GB 프로 모델의 약 10% 수준에서 약 34%로 상승했으며, 2027년 상반기에는 40%를 넘어설 전망\n입니다.\n초고가 단말 출시:\n고성능 메모리가 대거 탑재될 첫 폴더블 아이폰은 출고가가 2,099~2,299달러에서 시작해 고용량 모델은 3,000달러를 넘길 것으로 예상되어, 고원가를 감수하고라도 선제적 공급 확보가 불가피한 상황입니다.\n가격 협상권 역전 및 시장 전망\n업계 전반 확산: 애플의 장기 계약 대상은 모바일 D램(LPDDR5X, LPDDR6)을 공급하는 삼성전자, SK하이닉스, 마이크론 등으로 확대\n될 수 있습니다. (삼성전자는 전체 생산능력의 60~70%를 장기 계약 물량으로 배정할 계획으로 알려짐)\nNAND 점유 구도:\n폴더블 기기용 NAND 기준 SK하이닉스가 약 30%, 삼성전자가 15%를 차지할 것\n으로 보이며\n, 남은 점유율을 키옥시아 등이 확보하면서 애플과의 협력을 넓히고 있습니다.\n메모리 슈퍼사이클 지속성:\n시장은 기존의 '실리콘 사이클(가격 급등 후 과잉공급 및 급락)' 프레임으로 접근하고 있으나,\nAI 중심의 생산능력 잠식은 구조적 성격을 띱니다. 이에 따라 이번 메모리 업사이클의 정점과 지속 기간은 시장의 기존 예상을 크게 웃돌 가능성이 큽니다.\nhttps://wallstreetcn.com/articles/3781290#from=ios",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-08T05:26:57+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21480",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21480",
-      "text": "» Anthropic은 AI 스타트업 Decart AI 인수를 검토(약 60억달러 규모)하고 실사를 진행했으나, 최종적으로 거래를 추진하지 않기로 결정\n» Decart는 AI 칩의 활용 효율을 높여 모델 학습 및 운영 비용을 절감하는 소프트웨어를 개발하는 기업. Anthropic의 컴퓨팅 비용 절감 및 인프라 효율화 전략과 높은 연관성\n» Anthropic이 M&A에 적극적인 기업은 아니지만, 최근 Claude 서비스 확대와 신규 제품 개발을 위해 컴퓨팅 인프라 투자를 크게 늘리고 있는 상황\n» 향후 IPO를 앞두고 있는 만큼, 대규모 인수에 따른 현금 부담과 재무구조 악화를 피하고 핵심 사업 및 컴퓨팅 투자에 자본을 집중하려는 판단도 인수 철회 배경으로 해석 가능\n» 인수는 무산됐지만 양사가 다른 형태의 협업을 추진할 전망\nAnthropic Said to Walk Away From $6 Billion Decart Acquisition\nhttps://www.bloomberg.com/news/articles/2026-09-08/anthropic-said-to-walk-away-from-6-billion-decart-acquisition?srnd=homepage-americas",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-08T02:09:15+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20070",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20070",
-      "text": "엔비디아 CEO 젠슨 황\n엔비디아의 컴퓨팅 자원은 대체 가능하고 내구성이 뛰어나며 임대 가치가 매우 높습니다. 이는 생산적이면서 수익을 창출하는 자산입니다.\n(H100은 출시된 지 3년 된 학습용 칩입니다. 한 달 새 대여 가격이 22%나 올라 시간당 3.28달러를 기록하고 있습니다.\n모든 감가상각 기준은 이 정도 연식의 칩이라면 가치가 떨어지기만 할 것으로 가정합니다.\n하지만 시장은 오히려 더 비싼 값을 치르고 있습니다.)",
-      "images": [
-        "https://cdn5.telesco.pe/file/QZxt6S5jTesTOP29OPubLVWVX0_QME56blKRl0qQowr5V5GqaL45j1UNszOUi6oO5QUW0dpuzxMfcxRUI-XTMIbX3urjPWJeOxWVKwNtp-ObbWoCkhgLANOIbKAjcZVA5uV9J4PqJm-aJoS-_tztP1lhaYgaKZJ5cWvVmTFArCcKndAiIDSjopPySVzOuPBNBqgwTMN1u-oPcljQWl8n9ftFkhiahzOehq6WhVAKIdX5k2PIp3nb24P0tlYPY4UPwFhwAIwsbk5ujoiXB0kRs7od7L0pwOeWkmI2y1jh5z_6cr6T8eTeWdCuK-hcIW574wZO9MWYWU4uMFGcrabAMQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-09-08T02:07:33+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20069",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20069",
-      "text": "메모리 성적표 발표, 2배 급증은 기본·사상 최고치는 일상… 3곳 이미 1,000억 대만달러 돌파, 기업별 매출 총정리\n3대 호재 업고 Macronix, ADATA, Etron 릴레이 최고치 경신, Innodisk는 5배 이상 폭증\n시장 개황 및 주요 배경\n메모리 '슈퍼 사이클'이 본격화되면서 대만 메모리 업체들의 8월 매출이 잇따라 사상 최고치를 경신했습니다.\n글로벌 AI 인프라 투자 지속 확장\n-상공정 제조사의 공급 부족(타이트한 수급)\n-메모리 가격 상승세 지속\n-원제조사, IC 설계, 모듈 제조사 전반에서\n제품 가격 상승이 실적 성장으로 이어지며 3분기 성수기 랠리가 강력하게 지속되고 있습니다.\n기업별 실적\n1.\nMacronix\n8월 연결 매출: 81억 4,500만 대만달러 (전월 대비 +5.4%, 전년 대비 +218.5%) → 월간 사상 최고치 경신\n1~8월 누적 매출: 454억 6,300만 대만달러 (전년 대비 +149.1%) → 역대 동기 최고치\n이번 메모리 경기 회복세의 대표적인 지표 기업으로 부각\n2.\nADATA\n8월 연결 매출: 189억 3,000만 대만달러 (전월 대비 +3%, 전년 대비 +279.8%) → 6개월 연속 월간 사상 최고치 경신\n1~8월 누적 매출: 1,015억 8,000만 대만달러 (전년 대비 +218.1%) → 역대 최초로 1,000억 대만달러 돌파\n8월 SSD 매출 50억 3,000만 대만달러(단월 최고치 경신),\n제품별 비중은 DRAM 69.3%, SSD 26.6%\n천리바이 회장은 글로벌 AI 투자가 지속되고 비AI 메모리 공급이 여전히 부족해 가격 상승세가 유지\n되고 있으며, PC·산업용·유통 채널 수요도 동반 확대되고 있다고 언급. 상공정 파트너와의 협력을 통해 안정적 공급망을 확보할 계획\n3.\nEtron\n8월 매출: 22억 6,000만 대만달러 (전월 대비 +6.36%, 전년 대비 +525.32%) → 5개월 연속 사상 최고치 경신\n1~8월 누적 매출: 120억 1,900만 대만달러 (전년 대비 +488.92%)\n메모리 업종 내 최상위권의 폭발적인 성장률 기록\n4.\nTeam Group\n8월 연결 매출: 35억 1,300만 대만달러 (전월 대비 +38.04%, 전년 대비 +275.06%) → 역대 동월 사상 최고치\n1~8월 누적 매출: 226억 9,100만 대만달러 (전년 대비 +87.02%) → 작년 연간 전체 매출 조기 초과 달성\n5.\nTranscend\n8월 매출: 48억 4,000만 대만달러 (전년 대비 약 275% 증가)\n1~8월 누적 매출: 424억 8,000만 대만달러 (전년 대비 +384%)\n기업용 서버, 산업 자동화 등 고부가가치 시장 공략 지속\n6.\nInnodisk\n8월 매출: 86억 8,000만 대만달러 (전년 대비 +576.29%) → 업계 최고 수준의 가파른 증가세\n산업용 제어 및 AI 수요 확대에 힘입어 제품 가격 상승세가 내년 말까지 이어질 것으로 전망\n7.\nApacer\n8월 매출: 27억 8,900만 대만달러 (전년 대비 +177.1%)\n현재 시장은 여전히 공급자 우위(판매자 시장)이며, 가격 상승 폭은 이전보다 다소 완만해졌으나\n3분기 매출총이익률에 자신감을 표명\nhttps://www.ctee.com.tw/news/20260908700069-430501",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-08T01:53:42+00:00"
     },
     {
       "id": "tg:HI_GS/7045",
@@ -709,7 +725,7 @@
       "url": "https://t.me/enc210406/4400",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 9월 7일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/Zs7Jmr5J-mkIkBa_HP3-EVlgxU2Dhh86kP_1K8rd7NPiVS6tyHmnrI8T732xgmzRDq6gvbeE5ydGQduAL7kgN_T4y_Z7J59XQuUgPoNIVaYGu2uQKo_o8z8pqmG6cl-lASDMbPCj5Ts-mmPco9EKwENxURTNuL0JOAlrw5sPOrIzfd3LnxTnKpBKV-eW5oTuoPW3fCVkaOx0wbuCfITmCi8zzWt3SXCAxTRt-igN1StsqZX7tCAZs0e7E8rB-w7zEjYZjIBZYjg2FeCGbXqse8jgichxPnsAbvu2QkXU6Vks8071N6Q6rBS7EyeGKq34oD440Fc-eoNsl6AlpH0few.jpg"
+        "https://cdn5.telesco.pe/file/tVbY0sTWAWSqSSjmHRmbAGmyzD38-m-n7ytYCD1wIcC0RoM3O-CWs8YunUnY9rj6cGzXx357rFp5We3hy3MJKwD4HRAh9e7zuPhMkvmgcs5ijvXS9zUckVWNtxwJFHoq3BPLyeEqP3VrHWVVZLZ-kIejd-p3R9uTui6NQRuDpdLvRKW6FJow3___PP8mRs0QGp_PLUD0hA7pAr5fK3J2K_D7h010xjqqj3uRGxo7Ji1NbzLynpqOhwNCy9qQq0X17KHfbN0yvLggCacsrsMPGH9SuT6shAWSYw6EvFE-7X8KwOnp5IdERIvfI_MgPGIM5mtPPQsZeBP8MOexlI_71w.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-09-07T07:33:24+00:00"
@@ -723,7 +739,7 @@
       "url": "https://t.me/enc210406/4399",
       "text": "[한국카본 풍문 해명 공시]\n케이조선 인수 SI 참여 보도에 대한\n해명 공시",
       "images": [
-        "https://cdn5.telesco.pe/file/LnmSDielcHxoB6fPIMKRCtgqGiPwtDybfQnMhXrfytHCbX4zgzHVxlLi5o-LvQiX8mMpmH8qzKktFw37_FdhOPoubilccM_vQtUg_m7yoEvjrFq4gFObQjoiZcGfs3kBmhfRrzE4LbC44nWrzTMzm615yPTRi-knhUh8eFAlOt7H4u0LeFUyhdDc8xkJcQNsm9NUB7GxTp-vExBm-i7Txj_T_n4ya8VnBIyGpI3ZPLfnLA3HVTRCiEJ6nksqViPiRu7j9niS1VQx1KCmaUYvm-LHY9LqDXO8BaQ_AHRdjXS0aGz7a4GhTpeDbi_2itrTT3DDPlEz7e7z3PYGz2Nx-w.jpg"
+        "https://cdn5.telesco.pe/file/G0cv-HwiQNtMcb9FhfObtjT7a4gVdFDgMbfo1lpkTXZkglkgzrB_kswpA9MNNZymxRUgyJoxBb7bCEsAFGHZeTDBs7mXwduzRBXyTZPzmfNcp6OULyHNkIA453cYrNgbk2HdntoszIKsjYJk7DGUPaovT-t2jxD0DlqhUhCnJkTmC4ufyvSSNS7qIqhVGfLWc9dFk_VyH9nE3g12D6tbh5L5pc-FJHuF00NqVLRdamWqY2PSyxY9SFqw4gylVsKL0vDxmnVeGCpP4pFbefNYFL7ohGAuOm2oAUJxSZLBsbd6xRoZpEgAiYLUOtzSUP1Vi0-JkPPha9b-3jxXiG0Bjg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-09-07T06:28:24+00:00"
@@ -763,18 +779,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-09-07T00:07:52+00:00"
-    },
-    {
-      "id": "tg:enc210406/4396",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4396",
-      "text": "[한투증권 정다솜] ESG: N% 성과급 의무 교섭대상 제외\n▶️\n영업이익 N% 성과급 의무 교섭대상 제외\n- 9월 3일 고용노동부 노사 교섭대상 관련 행정지침 발표\n- 영업이익 N% 성과급 요구는 의무 교섭·쟁의대상으로 볼 수 없다고 명시\n- 경영성과급 자체는 의무 교섭대상이나, 이익 연동 성과급은 자율 합의사항으로 판단\n- 이미 노사가 유효한 단체협약을 체결한 경우 이번 지침을 근거로 이를 일방 변경하거나 불이행할 수 없음\n- 향후 갱신 과정에서 성과급 구조 변경을 논의할 수 있으나, 이익 연동 방식의 전면 폐기는 근로자 반발로 어려울 전망\n- N% 성과급 요구는 감소하고 인건비 연동 또는 정액 지급하는 방식의 성과급 요구 증가할 것\n▶️\n성과급 자사주 지급 시 주총 승인여부 관건\n- 주주들은 주주총회를 거치지 않은 영업이익 연동 성과급 지급과 이를 위한 자사주 취득은 무효라고 주장\n- 정부는 영업이익 연동 성과급 지급 시 주총 승인을 의무화하는 방향의 상법•자본시장법 개정 논의 중\n- 자사주로 성과급 지급 시 자기주식 보유·처분 계획 주총 승인 필요\n▶️\n근로조건의 변동이 ‘객관적으로 예상될 경우’에만 의무 교섭대상\n- 사업경영상 결정 자체는 교섭대상이 아니며, 공장 이전·사업 매각·AI 도입에 따른 근로조건 변동이 객관적으로 예상될 때만 해당\n- 교섭 범위는 근로조건과 보호정책에 한정\n- 이번 지침으로 교섭 범위 불확실성은 완화될 전망\n- 노사 간 자율 협의는 가능. 구조조정이나 사업 매각 등과 관련된 노사 갈등 가능성 잔존\n리포트 링크:\nhttps://vo.la/qrz8V1n",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-06T23:14:04+00:00"
     },
     {
       "id": "rss:semianalysis:koreas-trillion-dollar-sovereign",
