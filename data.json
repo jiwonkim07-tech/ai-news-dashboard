@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-13T17:56:13+00:00",
+  "updated_at": "2026-09-13T20:26:12+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 7
+    "new_this_run": 1
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,20 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "rss:semianalysis:long-live-the-short-king-why-4-hi",
+      "source": "rss",
+      "author": "semianalysis",
+      "author_name": "SemiAnalysis",
+      "author_url": "https://semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/long-live-the-short-king-why-4-hi",
+      "text": "Long Live the Short King: Why 4-hi HBM Wins\n\nSame Bandwidth, Fewer Dies: How 4-hi HBM Cuts Inference Costs and Makes Scarce DRAM Go Further",
+      "images": [
+        "https://substack-post-media.s3.amazonaws.com/public/images/e9a903a1-c273-4430-aa70-52a788cda431_1672x941.png"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-13T18:19:39+00:00"
+    },
     {
       "id": "tg:globaletfi/21580",
       "source": "telegram",
@@ -1862,20 +1876,6 @@
       "images": [],
       "summary_ko": "오픈 웨이트 AI에 기여한 Mark, Alex 및 전체 Meta 팀에게 감사드립니다.",
       "published_at": "2026-08-10T16:01:57+00:00"
-    },
-    {
-      "id": "rss:semianalysis:ultra-high-interactivity-on-nvidia",
-      "source": "rss",
-      "author": "semianalysis",
-      "author_name": "SemiAnalysis",
-      "author_url": "https://semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/ultra-high-interactivity-on-nvidia",
-      "text": "Ultra-High Interactivity on NVIDIA GPUs? - TileRT InferenceX\n\nCan TileRT software on NVIDIA GPU compete with Cerebras, Groq LPU, SambaNova? Batch Size 1, Disaggregated engine, high throughput engine Prefill, high interactivity engine decode",
-      "images": [
-        "https://substack-post-media.s3.amazonaws.com/public/images/735bcccf-dfa2-41ea-85f6-131b781511cc_1376x768.png"
-      ],
-      "summary_ko": "NVIDIA GPU의 매우 높은 상호작용성? - TileRT InferenceX\n\nNVIDIA GPU의 TileRT 소프트웨어가 Cerebras, Groq LPU, SambaNova와 경쟁할 수 있습니까? 배치 크기 1, 분리된 엔진, 높은 처리량 엔진 사전 채우기, 높은 상호 작용성 엔진 디코드",
-      "published_at": "2026-08-10T04:51:35+00:00"
     },
     {
       "id": "x:demishassabis:2086574892560884135",
