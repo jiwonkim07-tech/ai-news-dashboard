@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-18T23:02:48+00:00",
+  "updated_at": "2026-09-19T03:24:46+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 1
+    "new_this_run": 9
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,122 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:globaletfi/21692",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21692",
+      "text": "🔹\nGoogle Gemini, 사이버보안 테스트 중 외부 기업 시스템에 접근\n» Google의 Gemini가 사이버보안 역량 평가 과정에서 테스트 범위를 벗어나 외부 기업 3곳의 시스템에 접근. Google AI가 자율적으로 외부 시스템에 접근한 것으로 알려진 첫 사례\n» Gemini가 공개 정보를 바탕으로 해당 기업들을 테스트 대상으로 잘못 판단한 것이 원인. 한 곳에서는 비밀번호를 추측해 시스템에 접근했고, 나머지 두 곳에서는 공개 저장소에서 발견한 인증정보를 활용해 접속\n» Google은 해당 기업들에 사실을 통보하고 테스트 절차를 수정. Meta·Anthropic·OpenAI에서도 같은 평가업체의 테스트 과정에서 유사 사례가 확인된 바 있음\n» AI가 의도적으로 통제를 벗어난 사례라기보다 자율형 AI 에이전트가 작업 범위를 잘못 판단해 실제 외부 시스템에 접근할 수 있다는 위험을 보여준 사례\n» AI의 자율성이 확대될수록 샌드박싱과 접근권한 관리 등 안전장치의 중요성 부각\nGemini hacked three companies in first known breakout by Google's AI\nhttps://www.reuters.com/business/gemini-hacked-three-companies-first-known-breakout-by-google-ai-wsj-reports-2026-09-18/?utm_source=braze&utm_medium=notifications&utm_campaign=2025_engagement",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-19T03:05:37+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21691",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21691",
+      "text": "» 한국 메모리 반도체 기업을 향한 중국과 미국의 위협 가속화\n» 삼성전자와 SK하이닉스가 HBM 등 첨단 제품에 집중하는 사이, 중국의 CXMT와 미국의 마이크론이 D램 시장 점유율을 빠르게 확대\n» 중국 CXMT는 막대한 자본과 정부 지원을 바탕으로 생산능력을 키우며 한국 기업과의 기술 격차를 D램 기준 2년 수준까지 좁힌 상황\n» 마이크론은 정부의 정책적 지원과 대규모 설비 투자를 통해 HBM 생산능력을 급격히 확대하며 한국 주도의 시장 구도 재편 시도\nD램은 중국에, HBM은 미국에…협공 당하는 K-메모리\n- CXMT 등 中기업, HBM 집중 삼전닉스 빈틈된 D램 공략\n- 마이크론, 연말까지 생산능력 2배 이상 확대 추진\nhttps://n.news.naver.com/article/001/0016321878?sid=101",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-19T02:51:53+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21690",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21690",
+      "text": "🔹\nOpenAI, 2030년까지 컴퓨팅 파워와 인프라에 약 8,560억달러 지출 계획. 2,780억달러 현금 소진 전망\n» OpenAI는 컴퓨팅 인프라 투자 확대로 2026~2030년 누적 잉여현금흐름 적자 약 2,780억달러 전망. 지난 5월 전망치 3,050억달러 대비 개선\n» 매출은 올해 360억달러에서 2030년 3,500억달러로 약 10배 증가 예상. 같은 기간 누적 매출은 약 8,400억달러 전망\n» 2030년까지 컴퓨팅 파워와 인프라에 약 8,560억달러 지출 계획. Anthropic과의 경쟁 및 중국 저비용 AI 모델에 대응한 가격 인하도 수익성 부담 요인\n» 지난 3월 조달한 1,220억달러도 2028년경 소진될 것으로 예상. 현재 1.2조달러 이상의 기업가치를 목표로 추가 자금조달 논의 진행\n» OpenAI의 대규모 투자 계획이 Nvidia·Oracle·SoftBank 등 AI 인프라 기업의 향후 매출과 연결된 만큼, 향후 자금조달 능력이 AI 인프라 투자 사이클의 핵심 변수로 부각",
+      "images": [
+        "https://cdn5.telesco.pe/file/sDDkAICHyRTJp_oia_H9Mwi11Xc80LsUgfQm0NiZ58xCSanV22rH4TWvGawt0lEeVlIc96AAVIspoVA_rFVa2o1lUnZzeD0N76V9pCJmBIdfIQkpaBswam10FxlHNzHo2Hf6Lo1UFt1Y4enbbGhCRPMtRTpqhqWoiny5tEB-f0F8q09E4u45wcg2GHt_hn4VCPy438TkHtM6BVBjnyPbcKGoOQ_iNzwDjtHiJxt-HqcThtE_U4_-wZ-_XT9NZ1sBWYlfEjucu6Nn26D13PRACpe9UC9AJH6GuIxlPAxjZh1HEMdknDKFZTJ-v22Hozo2uXSh33r2mH97ul1l9Udc4g.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-19T02:37:32+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25343",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25343",
+      "text": "AI 모델 안전성 평가에 돈을 쓰는 프론티어 기업들\n- 앤스로픽이 액센츄어(ACN)에 향후 5년간 최소 $1.0B 투자해 자사 프론티어 AI 모델에 대한 독립적인 안전평가 체계를 갖출 것이라 밝혀\n- 액센츄어는 인공지능 전환(AX) 전문 IT 컨설팅 기업. 당사는 26년 3월 영국 패컬티(Faculty)를 인수했는데, 이 기업은 AI 모델 안전성 평가 솔루션을 갖춘 기업\n- 패컬티는 400명 이상 AI 네이티브 엔지니어를 보유한 조직. AI 모델의 훈련 과정, 안전장치(가드레일) 점검, 에이전트의 탈옥 등을 검증하는 역량을 갖추고 있음. 패컬티 창업자가 액센츄어 CTO로 합류할 정도\n프론티어의 AI 안전성 평가 요구가 커지면서 컨설팅 기업들의 수혜가 예상됨. 특히 액센츄어는 인수한지 얼마 안돼 빅 딜을 체결함으로써 M&A 시너지가 단기간에 터지는 중\nAfter +8%",
+      "images": [
+        "https://cdn5.telesco.pe/file/lsIlLOCvvZnlo6baYzmPIKXxuSXKxWRmsno2teO2EfvZhx_P5teLQ7-FIlG7ZHGRaTT3LMpTDG_bqumdIBVGcwrnxJp_caY68jMIlNE9POUW9TuZEvMMm01_8TGMaJ2UXlcLu2YwCr6c-cswtDdfhnIp57nUxc9M7flfdpQhnA-ZMGTEkSFDGEYBVLU4oGS8ongdA21bSe4XKEk7LHMbTGXDEEp21c5miW0jJLEQQtXXppFdBskDNdT2gFS2a3W4ikOpKUA03hjaY2vlqKkNvZvDMj2oBAlLN8No-tVQvPBfob2JDYbPW0k3Et3psb7Iwf-VWnnSYxbA92d_IXQdig.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-19T02:06:07+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25344",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25344",
+      "text": "[단독] 구글 제미나이, 3개 기업 해킹 시도\n- 구글이 제미나이 기반 AI 에이전트로 사이버보안 성능 테스트를 시행하는 도중 제미나이가 인터넷에 접속해 3개의 회사를 해킹했다고 함\n- 한 사례에서는 제미나이가 기업 업무 시스템 계정의 비밀번호를 추측해 접근했다고 함. 나머지 두 사례에서는 모델이 공개 저장소에서 자격 증명을 찾아 보호된 시스템에 접근했다고\n사이버보안 솔루션 중에서도 신원보안과 거버넌스보안 필요성이 더 커지고 있음을 방증하는 사례. 옥타(OKTA), 세일포인트(SAIL), 그리고 사이버아크(ARK)를 인수한 팔로알토(PANW) 등\nhttps://www.wsj.com/tech/ai/gemini-hacked-three-companies-in-first-known-breakout-by-googles-ai-5c0baba2",
+      "images": [
+        "https://cdn5.telesco.pe/file/XBq9BzrXbu1gtuphD17_vl7hUw88MU4oDPq71qmx9q9ZJwKBdPAUsiGzx23cEWkE6i5djSsxCRil8l5pZqsk9L7m-FDdaVIjk60TXoQt3Vj-CSmTMEm2qZIWGR7XMyiFqm22mDBt7LMKC81y3Dy4bVB4Hugvp6i1BIDr24Mt3HMgNDImEii78VkYfZnVX25OBZnH0snbrbzGs_HI6ImvQH8Y0e9zetWBP2nbktwnrhR-kUlZ4RDk7bewrSWW0Lg4F9QrgR22_RVzolWdBS-GAc9mHWf12RiahU3aFSLL_1QJCB7AqX0oM9j9bRlhmmqtf_iXQfUP-3lRR8rFpnNDmg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-19T02:06:07+00:00"
+    },
+    {
+      "id": "tg:enc210406/4443",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4443",
+      "text": "[한화시스템이 한화필리조선소 지분 전량 매각]\n- 한화시스템 공시에 따르면 100% 종속회사 HS USA Holdings Corp.는 보유 중인 Hanwha Philly Shipyard Inc. 주식 1368주를 Hanwha Defense USA Shipbuilding, LLC에 처분하기로 결정\n- 처분금액은 2억3760만달러로, 매각 대상인 1368주는 필리조선소 전체 발행주식 2280주의 60%에 해당한다.\n- 한화시스템과 한화오션은 지난 2024년 총 1억달러를 투입해 필리조선소를 공동 인수했으며, 당시 한화시스템 측이 60%, 한화오션 측이 40%의 지분을 확보했다.\nhttps://www.m-i.kr/news/articleView.html?idxno=1416232",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-19T01:11:35+00:00"
+    },
+    {
+      "id": "tg:enc210406/4442",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4442",
+      "text": "2026년 9월 18일 기준\n클락슨 신조선가 지수는\n186.25pt로\n전주 대비 -pt(-%)\n‘보합‘입니다.\n[최근 4주 간 지수]\n186.25pt (26년 9월 11일)\n186.29pt (26년 9월 4일)\n186.34pt (26년 8월 28일)\n186.25pt (26년 8월 21일)\n[주목할 선종과 선형]\n> 탱커(유조선): 보합\n@ VLCC(315-320K DWT)\n- 26년 9월 11일: 131.00백만달러\n- 26년 9월 18일: 131.00백만달러\n@ Suezmax(156-158K DWT)\n- 26년 9월 11일: 90.00백만달러\n- 26년 9월 18일: 90.00백만달러\n@ Aframax(113-115K DWT)\n- 26년 9월 11일: 75.50백만달러\n- 26년 9월 18일: 75.50백만달러\n> 탱커(원유제품선-P/C): 보합\n@ LR1(73-75K DWT)\n- 26년 9월 11일: 62.00백만달러\n- 26년 9월 18일: 62.00백만달러\n@ MR(47-51K DWT)\n- 26년 9월 11일: 52.00백만달러\n- 26년 9월 18일: 52.00백만달러\n> 컨테이너선: 보합\n@ Neo-panamax(13-14K TEU, LNG D/F)\n- 26년 9월 11일: 173.00백만달러\n- 26년 9월 18일: 173.00백만달러\n@ Feeder(1,800-2,100 TEU)\n- 26년 9월 11일: 33.50백만달러\n- 26년 9월 18일: 33.50백만달러\n> LNG 운반선: 하락(3주 연속)\n@ Conventional(174K cbm)\n- 26년 9월 11일: 247.50백만달러\n- 26년 9월 18일: 247.00백만달러\n> LPG, 암모니아 운반선: 상승\n@ VLGC(88-91K cbm)\n- 26년 9월 11일: 114.50백만달러\n- 26년 9월 18일: 115.00백만달러\n@ VLAC(88-93K cbm)\n- 26년 9월 11일: 116.00백만달러\n- 26년 9월 18일: 116.50백만달러",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-19T01:04:15+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20213",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20213",
+      "text": "다음주 일정\n21일:\n한국 ~20일 수출입\n, 중국 인민은행 대출우대금리, 일본 휴장, CLSA 33rd Investors’ Forum(~24일, 삼성전자 참석 ~22일,  LG, 에이피알, 코스맥스 등),\nECOC 2026(스페인 말라가),\n엔비디아, 루멘텀, 코히런트, 브로드컴, 마벨, 오라클 참석\n(AI 데이터센터, 클라우드, 네트워킹, 광통신)\n22일: 일본 휴장,\n퀄컴 Snapdragon Summit(\n~24일, 에이전틱 AI 시대의 다음 장, 티저에 칩 2종이 등장)\n23일: 미국 9월 S&P글로벌 제조업, 서비스업 PMI, 일본 휴장\nTSMC 북미 OIP Ecosystem Forum,\nMeta Connect\n(~24일, VR, 웨어러블, 신형 스마트 글래스)\n24일:\n트럼프, 시진핑 백악관 정상회담\n, 한국 휴장, 코스트코 실적(장후)\n25일: 미국 9월 소비자심리지수, 기대인플레이션, 한국 휴장, 중국 휴장",
+      "images": [
+        "https://cdn5.telesco.pe/file/Gzu9ti5di6Zik1pwp1eANMo0x_6vW5UQ9WWVZNywHX5ovQCirWEA1N5UtS69bkUd5DxSo7zzdR83tCypSYTlmhHOwwV0D_UiI6ca_-tpueXH_jhqFFgbH4Vl2mWzRhOlqTjHiDM391REZ6YCiCgFza7UAlChnhpbKbR7alu3sQPcw0AJTlQM15iCZK57mkLmEJL-vbx9JIFuBcHWIod0NfdOp45OJpsJSbqT70Kxedg4TyPJA4o7tcGoFAFK0NBTWW1Y7Oxg0ZHdy7OpR5e2srOwsoX7dzaa2QaJxZ_U37knfgih262fylRNIJnI8-Zd4blVRrRBcaZfjQiPQink3A.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-19T00:17:13+00:00"
+    },
+    {
+      "id": "tg:HI_GS/7092",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/7092",
+      "text": "[한화오션, 차세대 잠수함 '오션 2000' 전면에…칠레 수주전 '고삐']\n• 한화오션, ISTC 2026서 장보고-III 기술 기반 차세대 수출형 중형 잠수함 '오션 2000' 공개\n• 칠레 해군의 선령 40년 초과 노후 209급 잠수함 2척 대체 사업 타깃 모델로 제안\n• 리튬이온 배터리 탑재 및 NATO 표준 개방형 아키텍처 적용으로 전투체계 통합 유연성 확보\n• 칠레 국영 조선소 ASMAR와 공동 설계·현지 건조 및 남극 쇄빙선 MRO 연계 협력 추진\n❗️\n장보고-III 기술 기반 2000t급 플랫폼과 ASMAR 현지 건조·MRO 패키지로 칠레 수주전 공략\n출처: [더구루]\nURL:\nhttps://theguru.co.kr/mobile/article.html?no=107268\n─────────────────────\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-19T00:10:57+00:00"
+    },
     {
       "id": "tg:bornlupin/20212",
       "source": "telegram",
@@ -345,45 +461,6 @@
       "published_at": "2026-09-18T07:59:44+00:00"
     },
     {
-      "id": "tg:globaletfi/21680",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21680",
-      "text": "◈하나증권 해외주식분석◈\n미국/선진국 기업분석 김재임(T.02-3771-7793), 김시현(7513), 송종원(7261)\n*텔레그램 채널:\nhttps://t.me/hanaglobalbottomup\n◆\nTech & Stock Weekly:\n사이버 보안 우량주, AI 안정성 우려 부각되며 투자 기대감 상승\n▶\n자료:\nhttps://buly.kr/FsLJhSj\n▶\n주요 이슈 업데이트\n- 사이버 보안\n- 메타(\nMETA.US\n): 통합 구독 서비스 ‘메타 원’ 출시\n- 스페이스X(\nSPCX.US\n): 9월 22일 스타십 첫 궤도 진입 추진\n- 세일즈포스(\nCRM.US\n): 드림포스 연례 컨퍼런스에서 FY30 매출 목표 재확인\n- AI/플랫폼\n- 글로벌 전력기기/에너지\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-18T07:43:01+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21679",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21679",
-      "text": "하나증권 중국기업분석 백승혜, 송예지 (T.02-3771-7521)\n*텔레그램 채널:\nhttps://t.me/hanaglobalbottomup\n[Hana China Weekly] 화웨이 차세대 AI 칩 출시 가속\n▶\n자료:\nhttps://buly.kr/9XO2OlQ\n◆업데이트 산업&기업:\nZ.AI\n, 딥시크, 화웨이, CATL, AI 소프트웨어, 반도체, AI 인프라, 2차전지, 산업재/원자재, 전기차, 로보틱스\n◆주요 기업 이슈\n- 화웨이(비상장): 차세대 AI 칩 Ascend 960DT 출시 시점 3개 분기 조기화\n-\nZ.AI\n(\n2513.HK\n): 연말 ARR 가이던스 25% 상향\n- CATL(\n300750.CH\n): 완성차 업체 배터리 공급망 다변화로 주가 약세, 펀더멘털 영향은 제한적\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-18T07:42:55+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25331",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25331",
-      "text": "Citi) 일본은행 회의 리뷰: 금리 인상 반대 2표는 역설적으로 인상 속도 가속을 시사 (2026년 9월 18일)\n일본은행은 오늘 회의에서 널리 예상된 대로 정책금리를 1.00%에서 1.25%로 인상했습니다. Citi가 이번 회의에서 가장 주목했던 반대표에서는 타카이치 정권이 임명한 아사다 위원과 사토 위원 두 명이 금리 인상에 반대하고 동결을 주장했습니다. Citi는 이를 두고 미일 협조 개입을 포함한 베선트 미 재무장관과의 일련의 교섭을 거친 뒤에도 타카이치 정권으로부터 여전히 일정 수준의 비둘기파적 압력이 작용하고 있음을 시사한다고 평가했습니다. 한편 일부 시장 참가자가 예상했던 50bp 인상 제안은 없었으며, 회의 자체는 시장의 중심적인 예상보다 다소 비둘기파적이었다고 판단했습니다.\nCiti는 내년 7월 회의를 끝으로 매파인 타무라 위원과 타카타 위원이 퇴임한 뒤 타카이치 정권이 비둘기파 인사를 임명하면 위원회 구성이 단숨에 비둘기파 쪽으로 기울 것으로 보고 있습니다. '책임 있는 적극 재정'을 추진하는 키우치 경제재정담당상이 최근 개각에서 유임된 점을 감안하면 그 가능성은 더 높아졌다고 설명했습니다. 9명 중 비둘기파가 최대 4명이라면 표결상 인상을 이어가는 것이 불가능하지는 않지만 일본은행으로서는 바람직한 방식이 아니며, 인상을 이어가는 과정에서 현재 중립적인 위원이 비둘기파로 돌아설 가능성도 있다고 지적했습니다. 따라서 이번 반대 2표는 내년 7월 이후 인상의 문턱이 높아졌음을 의미하며, 최종금리가 2%를 크게 웃돌 가능성은 낮아진 반면 최종금리 도달 속도는 역설적으로 빨라질 가능성이 높다고 분석했습니다.\n향후 인상 시점은 연준 정책에 크게 좌우된다는 것이 Citi의 입장입니다. Citi는 그동안 연준의 연내 동결을 전제로 일본은행이 9월 이후 내년 1월, 6월, 12월에 인상할 것으로 예상해 왔으나, 이번 주 연준이 금리를 인상하면서 일본은행도 내년 1월이 아닌 연내 추가 인상에 나설 가능성이 높아졌다고 판단했습니다. 미일 금리차에서 오는 엔화 약세 압력을 완화하려면 연준의 인상 속도를 앞질러야 하며, 연준이 SEP 점도표 중앙값대로 연내 추가 인상을 단행할 경우 일본은행도 12월에 1.5%로 인상한 뒤 내년 3월에 다시 1.75%로 인상해야 할 가능성이 높다고 전망했습니다. 4월 소비세 인하로 물가 하락이 예상되는 만큼 그 전에 한 차례 더 인상을 마쳐두는 것이 현명하다는 설명입니다.\n이후에는 엔화 약세의 근본 원인 중 하나인 마이너스 실질금리를 시정하기 위해 최소 2%까지는 인상할 것으로 보고 있습니다. 다만 일본은행이 추정하는 중립금리 범위의 대략 중심인 1.75% 이후에는 실물경제에 대한 영향, 환율 수준, 주가 등을 보면서 시점을 조정할 수 있어 반드시 분기당 1회 같은 빠른 인상이 이어지지는 않을 것으로 봤습니다. 그럼에도 위원 구성을 감안하면 매파 위원이 있는 동안 인상을 마치는 것이 득책이므로, Citi는 최종금리 도달 시점을 기존 내년 12월에서 7월로 앞당겼습니다. 수정된 기본 시나리오는 2026년 12월, 2027년 3월, 2027년 7월 인상(기존 2027년 1월, 6월, 12월)이며, 최종금리는 2.00%로 유지했습니다.\n상방 리스크로는 가능성은 낮지만 2% 이후에도 완만한 속도로 인상을 이어갈 가능성을 꼽았습니다. 환율에는 실질금리뿐 아니라 상대적 금리차도 중요하며, 연준과 ECB 등 주요 중앙은행이 매파화하는 가운데 일본은행의 최종금리가 높아지는 것도 자연스럽다고 설명했습니다. 특히 연준이 본격적인 인상 사이클에 진입해 내년에도 인상을 이어간다면 일본은행도 이를 따라갈 가능성이 높으며, 이는 중동 정세와 그에 따른 에너지 가격 고공행진이 얼마나 지속될지에 크게 달려 있다고 덧붙였습니다.\n반대로 중동 정세가 조기에 안정되어 에너지 가격이 진정되고 주요 중앙은행이 비둘기파로 돌아서면 조기 인상의 필요성도 낮아질 수 있습니다. 이달 초 USD/JPY가 일시적으로 153엔 부근까지 급격히 조정되었는데, 안정적으로 150엔을 밑돈다면 빠른 인상의 필요성은 줄어들 것으로 봤습니다. 일본은행도 과도한 엔화 약세는 피하고 싶겠지만 실물경제나 주가에 악영향을 줄 정도의 급격한 엔화 강세 조정도 원하지 않을 것이며, GPIF의 자산배분 변경 가능성이나 연준이 시장 예상보다 비둘기파적으로 돌아설 가능성을 감안하면 엔화 강세 조정으로 인상 속도가 늦춰질 리스크도 존재한다고 지적했습니다.\n펀더멘털 측면에서는 물가가 내년 1분기까지 상승할 전망이어서 그때까지는 인상을 정당화하기 쉽다고 봤습니다. 춘투 논의가 본격화되는 내년 초에는 물가가 지금보다 한층 높아져 있을 것으로 예상되며, 내년 춘투에서도 올해와 같은 강한 임금 인상 요구 분위기가 높아질 것으로 전망했습니다. 다만 내년 4월 이후에는 식품 감세 영향으로 소비자물가가 다시 2%를 밑돌 가능성이 높고, 그 영향을 제외하면 2%를 웃도는 흐름이 이어지더라도 1분기를 정점으로 둔화될 전망이어서 물가 상방을 이유로 내년 중반 이후에도 인상을 지속하기는 어려워질 수 있다고 분석했습니다.\n실물경제와 관련해서는 실질임금이 플러스로 전환되었음에도 개인소비가 부진하고, AI 수요에도 불구하고 설비투자가 부진한 점에 유의해야 한다고 강조했습니다. 일본의 소비자와 기업은 오랜 디플레이션 기간을 거치며 디플레이션 심리가 뿌리 깊게 배어 있고 본격적인 금리 인상 국면을 오랫동안 경험하지 못했기 때문에, 정책금리가 일정 임계치에 도달하면 경기가 급격히 하방 압력을 받을 가능성을 배제할 수 없다고 봤습니다. 일본은행은 인상을 지속하더라도 이러한 하방 리스크를 경계하며 진행할 것이므로, 최종금리가 2%를 크게 웃돌 가능성은 높지 않다는 것이 Citi의 결론입니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/FR6M4PMnrw4IDa2ktJUfsfXIZQ4_o1GPKtL0wj3eXfs13bbW0kTrOaeWnynzSUuxNqlrejoLZJ8XT_Gb0wC1cNlsJ9ScevTJ7OtXBUStK86SVbGKYC5kn51n6kJkQJjJwfCKtz15pkZLdRrPHaprgA89c3-5yWK8aY5ulMLKglZ0ZkZ1A1rOAnBJu9ktVIMpI0fiL0iMvymy_tKZsdwQAJiia-0HK8VE6K1G7EAPC56kwDItgfdt8ONhotTE5cNZQlBCGZ1K93UUN5fyMRFZxvSiMIibtFyk0Kyv5WJ3wmKqWeU1JplV6k-IUOwrU7NGWHFaETDwvgwJJ4ALtY5z_w.jpg",
-        "https://cdn5.telesco.pe/file/OmOAQpvCTnTCHkVTfDWUDA2jZiqHCGnxXxNdzm7zVaNar6fn-kKkb5Ep8AQ6FS8-37nDu4Shg8x52O8XuEKChfFJELYNoaOFd6giIZn7CHptCnb_wHyC2YOkw0BZSEdYu0hkYa_jEQpn1ef1xeWa3NBQxP5md4eH_aFKSOnAMT-78tnEoFL6QfznSv64HxUqDXcLYZ7tStw-Myea3V2FWQun3yQOlx2r-d-mKIN1wjcjtmtnVYFvoIK1660IU1gNugHxIYRr1DJbkaGEjaFsBSQSgprbZVfMEHsff08M4ARqYgu7UVpVCE4qPjSe4-MkVD4f3671LNAGBjjz8UwJuw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-09-18T07:40:45+00:00"
-    },
-    {
       "id": "tg:enc210406/4441",
       "source": "telegram",
       "author": "enc210406",
@@ -396,18 +473,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-09-18T07:39:53+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25330",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25330",
-      "text": "SK하이닉스, 美 첫 낸드 공장 구축 추진\n솔리다임이 미국 첫 생산거점 구축을 검토하는 지역은 미국 동부다. 현재 부지 선정과 생산품목, 양산시점 등을 세부적으로 논의 중인 것으로 파악됐다.\n사안에 정통한 관계자는 \"솔리다임이 미국 빅테크 기업의 AI 서버용 낸드 수요에 대응하기 위해 현지 양산라인 구축을 추진하고 있다\"며 \"고객들과 장기공급계약(LTA) 협의를 바탕으로 투자계획을 구체화할 것\"이라고 전망했다.\nhttps://n.news.naver.com/article/092/0002438046?type=journalists",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-18T07:29:41+00:00"
     },
     {
       "id": "tg:bornlupin/20207",
@@ -458,18 +523,6 @@
       "published_at": "2026-09-18T04:43:41+00:00"
     },
     {
-      "id": "tg:globaletfi/21678",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21678",
-      "text": "美 SEC, 토큰화 주식 전격 허용…24시간 주식거래 시대 열렸다\n- 美 SEC, ‘혁신 면제’ 조치 공개\n- 클래리티법 표결 무산 직후 발표\n- 토큰화 주식도 배당·의결권 보장 요구\n- 로빈후드·시큐리타이즈 등 관련주 급등\n미국 증권거래위원회(SEC)가 미국 내에서 주식을 토큰화하여 거래할 수 있도록 허용하면서 주식 시장의 24시간 연중무휴 거래 시대가 한걸음 가까이 다가왔다.\n미 SEC는 17일(현지시간) 토큰화된 미국 상장주식의 온체인 거래를 한시적으로 허용하는 ‘혁신 면제(Innovation Exemption)’를 전격 승인했다. 이는 기존 증권거래소에 적용되던 특정 규제를 면제해 주는 형식을 취한다.\n이번 면제는 ‘토큰화 증권 거래소(Tokenized Securities Venue·TSV)’로 불리는 블록체인 기반 플랫폼들이 향후 5년간 정식 증권거래소로 등록하지 않고도 스마트컨트랙트와 유동성 풀을 활용해 토큰화된 미국 상장주식(NMS 종목)을 거래할 수 있도록 하는 조건부 면제다.\n이에 앳킨스 SEC 위원장은 “이번 조치는 향후 온체인 시장이 자본시장 진화 과정에서 실행 가능한 경로로 남도록 하기 위한 항구적 규정 제정으로 이어져야 한다”며 5년의 실험 기간이 끝난 뒤 정식 규정으로 채택할 가능성도 시사했다.\nhttps://n.news.naver.com/mnews/article/009/0005737050?sid=101",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-18T04:13:28+00:00"
-    },
-    {
       "id": "tg:bornlupin/20203",
       "source": "telegram",
       "author": "bornlupin",
@@ -492,18 +545,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-09-18T03:02:17+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20201",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20201",
-      "text": "[미 DOE, PJM 긴급명령 발령…비상 백업발전 동원 권한 부여]\n- 9월 17~18일 한시 적용, 고온·송전 정비 중첩에 따른 중부 대서양 연안 공급위험 대응\n1. 미 에너지부(DOE), 9월 16일 PJM 신청에 따라 9월 17일 긴급명령 발령. 지정 자원의 필요시 급전·운전을 지시하고 송전사업자·배전회사를 통한 이행 허용\n2. 이번 신규 변화는 앞서 전달한 PJM 수요반응 호출과 별개의 백업발전 동원 권한. 에너지 비상경보 EEA 3 선언 전 최후수단 또는 EEA 3 상황에서 백업발전 운전 지시 허용\n3. 명령 유효기간은 미국 현지 9월 17일 발령 시점부터 18일까지.\n실제 동원된 설비·용량과 발전량은 해당 보도자료에서 미공개. DOE의 미국 전역 미활용 백업발전 35GW 이상 추산은 PJM 확보 물량이나 실제 가동량과 구분\n4. 산업적 해석: 부하 감축뿐 아니라 대기 중 발전자원의 비상 공급 활용까지 대응수단 확대. 일시적 신뢰도 조치로, 상시 시장참여 허용이나 일반 고객 순환정전 시행을 뜻하는 것은 아님\n링크:\nhttps://www.energy.gov/articles/energy-secretary-secures-mid-atlantic-grid-due-anticipated-stressed-system-conditions",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-18T02:46:07+00:00"
     },
     {
       "id": "tg:HI_GS/7091",
@@ -600,7 +641,7 @@
       "url": "https://t.me/enc210406/4438",
       "text": "원/달러 환율이 반등 중입니다. 그동안 원화 강세로 투자심리가 약화되었던 산업재(조선, 방산 등)가 반등하고 있습니다. 환에 반응하는 증시 호흡이 의외로 빠릅니다",
       "images": [
-        "https://cdn5.telesco.pe/file/cTsTOn5PDIekCW6OTw49ZVNQAP_v0zVR_fsM9SRyApmw122kTYulmOAh-tw7BZKB7zLyJCK6Ll8YmN1m9YGXP0VHOBncnZMmO3T54WLfTm38fz4VN1bH19vN0O4Xl7nfhTZXQkOylLU0BJmw3ZoCMQN0Z3f4qQjM5YsQG_Mtkd5yN4HMjt0HmLl9zVeKzAJDfPPUCr9Pwr9N6doS7b3XykXLeL6NwdUfjaY7h-bH87IORysWHv4qx7rm8HBKKMG5P6gFIAZM0oATNvxnK-rzySCkCtwlYXOtuzOMUEdqD0rJfhiYsY_TnAvGFsujcPqkYz_UCQZzP5t3DXNiKbLmSw.jpg"
+        "https://cdn5.telesco.pe/file/Y_gZNmlowl9sD0HGR-hYF1Zifn5GE-FJvF_aDAgkKyChQuFoDmjKALZVu8uJ34opB1Xlcj9f8WIrRcykC7eexiqgI4Szk4X5bqQob0OWtUlHPVn74p3nSeMvtXK_mYCB9zz9JXqO1ndz5rBIos6rFev9BNIY8xqVXFyZkOlzbck1YlmWIwxvoW_3f2ip828qh43BgD94s-6QptEuC2btxzrT5MoRhRdhzNHZWTEyybv0WUh7LVjmJ0-8tseA1DqpY2A_p6lJmlmOqDi8KW2b6NjwYp_LT2lh0vrMZxV2nCU1LOyi1NJj307hR3r3qjUZQeNKy7d8fBPLkcIFmj8UVw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-09-17T02:13:47+00:00"
@@ -704,18 +745,6 @@
       "published_at": "2026-09-16T03:16:54+00:00"
     },
     {
-      "id": "tg:HI_GS/7080",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/7080",
-      "text": "[다올투자증권 조선/기계/방산 최광식]\n9/16(수) 데일리뉴스\n🛳\n조선\n[TradeWinds]\nYemen seeks support in preventing Houthi control of Red Sea chokepoint amid bloody counterattack\nYanbu crude loading suspended as dry bulk sector watches Saudi petcoke exports\nGTT takes ship and cargo efficiency to next level with new LNG Performance Centre\nMartin Stopford: Are shipowners 'jumping the technology gun' in spending $3.1trn cash pile?\nTanker sector set for boost from post-war wave to rebuild oil stocks\nTrader and shipowner BGN links up with Iino Lines on VLGC newbuilding\nCMA CGM bets on demand as liner sector braces for more capacity\n[Upstream]\nQatarEnergy hands out three awards for multibillion-dollar offshore development\nQatarEnergy awards Vietnam contractor major package for offshore megaproject\nPetrobras strikes 20-year LNG deal with Sempra\nTransocean secures $80 million ultra-deepwater rig contract\nHalliburton wins contract for major East Med development\nModec wins ABS approval for FPSO power system\n'Quality, not quantity': BW Offshore chief eyes next FPSO growth surge\n🚢\n조선\n\"전력도 바다에서 만든다\"…HD한국조선해양, 부유식 발전설비 개발\nhttps://buly.kr/3CQkGhM\nKR•HD현대삼호, 부분 진수 시 선체 강도 신속 평가 프로그램 공동 개발\nhttps://tinyurl.com/2bkl3r3m\n삼성重 LNG선 4척 발주처는 그리스 다이나가스\nhttps://tinyurl.com/2dn7kv58\nLNG 벙커링선 '귀한 몸'… 기회 잡은 HD현대•HJ重\nhttps://buly.kr/CB7OIND\nHD현대중공업 노조, 3일째 4시간 부분 파업…내일부턴 7시간 예고\nhttps://buly.kr/8TtThDY\n🚀\n방산\nKAI, 유럽 위성기업 ASL과 맞손…K-LEO 저궤도 통신위성 공동개발\nhttps://tinyurl.com/2yvmos2v\n[단독] 군함 MRO 민간 위탁 늘린다…한화오션 추가수주 기대\nhttps://tinyurl.com/27zt8ckd\nHD현대重 '필리핀'•한화오션 '태국'…캐나다 실패 딛고 K-조선 활로\nhttps://tinyurl.com/2yord7t6\n쎄크, 한화에어로스페이스 74억 추가 수주…방산 수주잔고 344억원\nhttps://tinyurl.com/2babjday\n韓•우즈벡 정상 손잡았다…핵심광물 공급망•AI•방산 협력 강화\nhttps://buly.kr/HSa7irH\n* 위 내용은 보도된 사실의 단순요약으로 별도의 컴플라이언스 절차 없이 제공됩니다",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-15T23:00:12+00:00"
-    },
-    {
       "id": "tg:enc210406/4435",
       "source": "telegram",
       "author": "enc210406",
@@ -806,34 +835,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-09-14T16:37:25+00:00"
-    },
-    {
-      "id": "tg:enc210406/4431",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4431",
-      "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 9월 14일 종가 기준",
-      "images": [
-        "https://cdn5.telesco.pe/file/Imd_yiz8IUTtxJiK_AeuQypsIOY46ybrqoRXUR6NqHVG39M9ERZvFQx0ioYNIFGkfjF-j-FBCLQoLg3j1xFHNP4hfm-ceAiFJy4d3mlmYqGO6R-dfXzCknIusSFOsLw6_BcFA2EGrEmvk7-8mW6-dAar9VjnJVJtWhm7QmdhjtrvYkPDTP0Wvzsg3lrMv4mHTzMlLRXmUd2r6R9uEML_2QP_J9pjsLLyMIGHOl_eWJh7A3L6BhHXdtZars6TkBEi0Wff9lw1e0hbDUXAbKUE-oaQlD6LxBM4ETJqGbG0XQtLcspWAd_-LLa-BvMt3o4IXPbhw4ZMbDOgN7fMVLK3dA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-09-14T07:40:59+00:00"
-    },
-    {
-      "id": "tg:enc210406/4430",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4430",
-      "text": "[HD한국조선해양 2사\n2026년 8월 잠정 매출액]\n@ HD현대중공업 기준\n2026년 8월 누적 매출액\n- 잠정치: 3,682십억원\n- 컨센서스: 3,790십억원\n- 컨센서스 대비 잠정치: 부합\n* 참고\n8월 누적 매출액 컨센서스는\n3분기 컨센서스 6,087십억원에\n7, 8, 9월 조업일수(22일, 11일, 20일)로\n가중치(62.3%)를 적용해서 계산",
-      "images": [
-        "https://cdn5.telesco.pe/file/Np87b1-wWMbNxVWM9tYV4KPISdG6YqamGrvnHj3Hv3NTRp49vbyx-73LhHke03wACPbeFFUsCvIIWMBRRlI3rlx-pT5bN5CDZ5NwgvF2y78WBa3NUQ5lKx2ZS3xpoA_V4xksfM7AHOvsLszl-cdqzzOIW3UzZlmYnob1XHf8Uenh6DTNuzdT33o48dLvnWvvxaQLDZUB2Normc8TfEPKjUR3SPoduFYpVe99lRn62VwIjkm_zEh-z6g4oP91F1Px6zNb0az0IegShRmMZqgy8AWIu0nzS_Ei7RBGBrl0PWb5mIU8kaWrXlKmjlTWolQSvW3WMxvYk_B-KUo63wr1FA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-09-14T07:25:01+00:00"
     },
     {
       "id": "rss:semianalysis:long-live-the-short-king-why-4-hi",
