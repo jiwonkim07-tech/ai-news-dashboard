@@ -1,4 +1,32 @@
 {
+  "telegram:aetherjapanresearch": [
+    "tg:aetherjapanresearch/25396",
+    "tg:aetherjapanresearch/25395",
+    "tg:aetherjapanresearch/25394",
+    "tg:aetherjapanresearch/25393",
+    "tg:aetherjapanresearch/25392",
+    "tg:aetherjapanresearch/25391",
+    "tg:aetherjapanresearch/25390",
+    "tg:aetherjapanresearch/25389",
+    "tg:aetherjapanresearch/25388",
+    "tg:aetherjapanresearch/25385",
+    "tg:aetherjapanresearch/25384",
+    "tg:aetherjapanresearch/25383"
+  ],
+  "telegram:bornlupin": [
+    "tg:bornlupin/20247",
+    "tg:bornlupin/20246",
+    "tg:bornlupin/20245",
+    "tg:bornlupin/20244",
+    "tg:bornlupin/20243",
+    "tg:bornlupin/20242",
+    "tg:bornlupin/20241",
+    "tg:bornlupin/20239",
+    "tg:bornlupin/20233",
+    "tg:bornlupin/20232",
+    "tg:bornlupin/20231",
+    "tg:bornlupin/20230"
+  ],
   "telegram:globaletfi": [
     "tg:globaletfi/21722",
     "tg:globaletfi/21721",
@@ -12,32 +40,6 @@
     "tg:globaletfi/21712",
     "tg:globaletfi/21711",
     "tg:globaletfi/21710"
-  ],
-  "telegram:aetherjapanresearch": [
-    "tg:aetherjapanresearch/25396",
-    "tg:aetherjapanresearch/25395",
-    "tg:aetherjapanresearch/25394",
-    "tg:aetherjapanresearch/25393",
-    "tg:aetherjapanresearch/25392",
-    "tg:aetherjapanresearch/25391",
-    "tg:aetherjapanresearch/25390",
-    "tg:aetherjapanresearch/25389",
-    "tg:aetherjapanresearch/25388",
-    "tg:aetherjapanresearch/25385",
-    "tg:aetherjapanresearch/25384",
-    "tg:aetherjapanresearch/25383",
-    "tg:aetherjapanresearch/25382",
-    "tg:aetherjapanresearch/25381",
-    "tg:aetherjapanresearch/25380",
-    "tg:aetherjapanresearch/25379",
-    "tg:aetherjapanresearch/25378",
-    "tg:aetherjapanresearch/25377",
-    "tg:aetherjapanresearch/25376",
-    "tg:aetherjapanresearch/25375",
-    "tg:aetherjapanresearch/25374",
-    "tg:aetherjapanresearch/25373",
-    "tg:aetherjapanresearch/25372",
-    "tg:aetherjapanresearch/25371"
   ],
   "telegram:enc210406": [
     "tg:enc210406/4448",
@@ -67,22 +69,8 @@
     "tg:HI_GS/7094",
     "tg:HI_GS/7093"
   ],
-  "telegram:bornlupin": [
-    "tg:bornlupin/20247",
-    "tg:bornlupin/20246",
-    "tg:bornlupin/20245",
-    "tg:bornlupin/20244",
-    "tg:bornlupin/20243",
-    "tg:bornlupin/20242",
-    "tg:bornlupin/20241",
-    "tg:bornlupin/20239",
-    "tg:bornlupin/20233",
-    "tg:bornlupin/20232",
-    "tg:bornlupin/20231",
-    "tg:bornlupin/20230",
-    "tg:bornlupin/20229"
-  ],
   "rss:semianalysis": [
+    "rss:semianalysis:computation-and-data-movement-for",
     "rss:semianalysis:engrams-embedding-entendre-codesign",
     "rss:semianalysis:everyone-says-datacenter-moratoriums",
     "rss:semianalysis:vera-rubin-nvl72-agentic-inference",
@@ -94,8 +82,7 @@
     "rss:semianalysis:tpu-inferencex-full-steam",
     "rss:semianalysis:koreas-trillion-dollar-sovereign",
     "rss:semianalysis:most-neoclouds-suck-at-security",
-    "rss:semianalysis:openai-jalapeno-better-than-nvidia",
-    "rss:semianalysis:agentx-inferencexv3-does-cuda-moat"
+    "rss:semianalysis:openai-jalapeno-better-than-nvidia"
   ],
   "x:ylecun": [
     "x:ylecun:2090600582805430353",
@@ -238,6 +225,6 @@
     "x:karpathy:2061110056293106118"
   ],
   "_meta": {
-    "last_x_fetch": "2026-09-21T16:14:57+00:00"
+    "last_x_fetch": "2026-09-21T20:48:30+00:00"
   }
 }

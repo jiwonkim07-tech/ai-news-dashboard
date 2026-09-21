@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-21T16:14:58+00:00",
+  "updated_at": "2026-09-21T20:48:30+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 13
+    "new_this_run": 1
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,20 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "rss:semianalysis:computation-and-data-movement-for",
+      "source": "rss",
+      "author": "semianalysis",
+      "author_name": "SemiAnalysis",
+      "author_url": "https://semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/computation-and-data-movement-for",
+      "text": "Computation and Data Movement for Inference\n\nMapping MoE models onto inference hardware: structure, flow, and efficient serving",
+      "images": [
+        "https://substackcdn.com/image/fetch/$s_!L_rU!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0ab3a5dc-803c-4d91-b513-ca10e9ea2df6_2048x1289.png"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-21T18:14:15+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/25396",
       "source": "telegram",
@@ -944,20 +958,6 @@
       "published_at": "2026-08-30T15:46:22+00:00"
     },
     {
-      "id": "rss:semianalysis:openai-jalapeno-better-than-nvidia",
-      "source": "rss",
-      "author": "semianalysis",
-      "author_name": "SemiAnalysis",
-      "author_url": "https://semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
-      "text": "OpenAI Jalapeño: Better Than Nvidia Blackwell\n\nOpenAI’s self-designed ASIC compared with Rubin, Jalapeño’s TCO, throughput per MW, and spicy deets",
-      "images": [
-        "https://substack-post-media.s3.amazonaws.com/public/images/8f308659-4472-47f2-bb48-10442949f1a6_1535x1024.png"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-08-25T14:00:38+00:00"
-    },
-    {
       "id": "x:ylecun:2090600582805430353",
       "source": "x",
       "author": "ylecun",
@@ -1336,7 +1336,7 @@
       "url": "https://t.me/emchina/2",
       "text": "🟡\nThis community is now protected by Collab.Land\nToken-gate your community and verify members automatically.\nClick below to verify your wallet and gain access.",
       "images": [
-        "https://cdn4.telesco.pe/file/Hm2ArPNfrdm2bh7hhZriA6JDkx7_OO-gxoFaq-PonV3oc60lxXGPLPDIT26ivBXWU_qmkEfNpfoT82om4fs6ff1NikOjYjHawNO0b60VsRK_LWRq3Gxf9h6VRpGMrHIonq7RDa3ERXrSU3V8MiXSyDw_l4vCad24kYm7T1bY9BhWJehsjsu78Cp-PFbiuP33NLdm6a4RqNCNYx8usu5eFTBZEJ2cI1pN_HQDXZRvt_mC3ji8jbf0AA9Nq7TLUl5V8H_6L4c7Zo2iQXbzHE67_Y-raivfOg9y5Z3atyKQ7CPRjUs7pXf-fXZPcrHGfrQfgf71SvCuAKJuKV-Nj8ombw.jpg"
+        "https://cdn4.telesco.pe/file/WeZm9-b8NgUraCGNGtZUhzyWvevNCKc5nfphKQ5D4RAzM91Qj_eopMR_df3xzmclwaO_LdAU-NxrftdnM7SjIz_c2Q4o6XflYII1yWWq6Xe6e3Z0Y3wQALn8fVg5YMzMbfegZm1V8wRyLObH4sLUoPWRJwN_br35p4IO5q8MUSQhgrX-To9OduIkn8nlR1D4KuRZF7OtXkuyT_i55Z3DuLFk6GU3mO0A5nNLAZ5MP7MnSi5P7YD7BxK2O61onqAQ_23tfd-3tj48rq004-q7KcC13BjjWcprJHw7YVQdJknQGfZgpNFyNzZMg8xvDwG_aSfHVMMxdeXTi4H9-R-puw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-16T00:25:43+00:00"
