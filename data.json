@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-23T19:28:46+00:00",
+  "updated_at": "2026-09-23T22:43:44+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 4
+    "new_this_run": 1
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,20 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "rss:semianalysis:clustermax-30-the-industry-standard",
+      "source": "rss",
+      "author": "semianalysis",
+      "author_name": "SemiAnalysis",
+      "author_url": "https://semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/clustermax-30-the-industry-standard",
+      "text": "ClusterMAX 3.0: The Industry Standard GPU Cloud Rating System Returns\n\nIn gory detail: reliability, performance, support, pricing—and, of course, security—in our most thorough analysis of GPU cloud providers globally.",
+      "images": [
+        "https://substackcdn.com/image/fetch/$s_!uBlF!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F247f46f3-f80c-4487-bba4-e7aa10d36e30_1448x1086.png"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-23T21:20:29+00:00"
+    },
     {
       "id": "tg:globaletfi/21758",
       "source": "telegram",
@@ -928,20 +942,6 @@
       "published_at": "2026-09-01T20:14:32+00:00"
     },
     {
-      "id": "rss:semianalysis:most-neoclouds-suck-at-security",
-      "source": "rss",
-      "author": "semianalysis",
-      "author_name": "SemiAnalysis",
-      "author_url": "https://semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/most-neoclouds-suck-at-security",
-      "text": "Most Neoclouds Suck At Security\n\nOpenAI vs HuggingFace, Container Escapes, Kernel Bypass, Network Policies, Security Keys, Multi-tenant Grafana, and a ClusterMAX 3.0 Preview",
-      "images": [
-        "https://substackcdn.com/image/fetch/$s_!zWz0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc647fca6-8c53-43a7-af27-f4396a31077b_1448x1086.png"
-      ],
-      "summary_ko": "대부분의 네오클라우드는 보안에 취약합니다.\n\nOpenAI 대 HuggingFace, 컨테이너 이스케이프, 커널 우회, 네트워크 정책, 보안 키, 다중 테넌트 Grafana 및 ClusterMAX 3.0 미리보기",
-      "published_at": "2026-08-30T15:46:22+00:00"
-    },
-    {
       "id": "x:ylecun:2090600582805430353",
       "source": "x",
       "author": "ylecun",
@@ -1320,7 +1320,7 @@
       "url": "https://t.me/emchina/2",
       "text": "🟡\nThis community is now protected by Collab.Land\nToken-gate your community and verify members automatically.\nClick below to verify your wallet and gain access.",
       "images": [
-        "https://cdn4.telesco.pe/file/YYn7jvzpPpmmLodlAdOHcOhbyFStwGXOWsrCtXxaMi-Xr5UU5zp3rbKi4bAUSSSq4b-5dkKc0J90tqG_-4PrTg_cZkJxr48NqaQulzt21T_p-wurvxsAKroBR_YPOmUBBJrhkfyKvK-qEU_N4pGpoGn_54MTnrW-QB7eHh85qT4N0mm7PTZ_Rrld9gJPSw_q-qsY-vXqQXntYUXXYydd91IHxmQf2ln6QwIhf6mm9pNc02o5fVaG_2sAo0S5qY1ChKUqwrALT3CyZYs_62Hgsc4PjZdpZU64g-lCF3wEEXVYycWG2Salkt0yiKPSl6jU-rBGHhBppuhviRkIW2VSqg.jpg"
+        "https://cdn4.telesco.pe/file/S4aeW7sAYfvJbI3-864zG0zWw8_iTSMwE7dDFspj7i_cae0JNhO_023HYgChCEo3xqc-uQ1pYCANXBfe38CEYeizHPNRqbD7kolXvoo-s4MAfXZD865xVe3-_JTbpPJ1_uqsBaz0q-9Bxw_GkQ85jZ29RMOmU-exmrfD4PmPXu2mL5OgxP81WFKVtk1bJR7YFk91yYWX7_k9Q_OSLEVK8hrjtOnsSLVCS9GlLjd6DwnQ47B3RKrIgLlkKcVBPl9BT2kIqthMzLWaWeaoGHe2xZNjUyUloW0qJdITnCUmpIdytBujBQPpZnV_Ui4nfVn3LMWZrKjDmy79X8i12B9-zQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-16T00:25:43+00:00"

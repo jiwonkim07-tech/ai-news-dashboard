@@ -1,4 +1,18 @@
 {
+  "telegram:globaletfi": [
+    "tg:globaletfi/21758",
+    "tg:globaletfi/21757",
+    "tg:globaletfi/21756",
+    "tg:globaletfi/21755",
+    "tg:globaletfi/21754",
+    "tg:globaletfi/21753",
+    "tg:globaletfi/21752",
+    "tg:globaletfi/21751",
+    "tg:globaletfi/21750",
+    "tg:globaletfi/21749",
+    "tg:globaletfi/21748",
+    "tg:globaletfi/21747"
+  ],
   "telegram:aetherjapanresearch": [
     "tg:aetherjapanresearch/25461",
     "tg:aetherjapanresearch/25460",
@@ -12,24 +26,6 @@
     "tg:aetherjapanresearch/25450",
     "tg:aetherjapanresearch/25451",
     "tg:aetherjapanresearch/25449"
-  ],
-  "telegram:globaletfi": [
-    "tg:globaletfi/21758",
-    "tg:globaletfi/21757",
-    "tg:globaletfi/21756",
-    "tg:globaletfi/21755",
-    "tg:globaletfi/21754",
-    "tg:globaletfi/21753",
-    "tg:globaletfi/21752",
-    "tg:globaletfi/21751",
-    "tg:globaletfi/21750",
-    "tg:globaletfi/21749",
-    "tg:globaletfi/21748",
-    "tg:globaletfi/21747",
-    "tg:globaletfi/21746",
-    "tg:globaletfi/21745",
-    "tg:globaletfi/21744",
-    "tg:globaletfi/21743"
   ],
   "telegram:bornlupin": [
     "tg:bornlupin/20287",
@@ -74,6 +70,7 @@
     "tg:HI_GS/7112"
   ],
   "rss:semianalysis": [
+    "rss:semianalysis:clustermax-30-the-industry-standard",
     "rss:semianalysis:computation-and-data-movement-for",
     "rss:semianalysis:engrams-embedding-entendre-codesign",
     "rss:semianalysis:everyone-says-datacenter-moratoriums",
@@ -85,8 +82,7 @@
     "rss:semianalysis:where-does-a-robot-think-on-device",
     "rss:semianalysis:tpu-inferencex-full-steam",
     "rss:semianalysis:koreas-trillion-dollar-sovereign",
-    "rss:semianalysis:most-neoclouds-suck-at-security",
-    "rss:semianalysis:openai-jalapeno-better-than-nvidia"
+    "rss:semianalysis:most-neoclouds-suck-at-security"
   ],
   "x:ylecun": [
     "x:ylecun:2090600582805430353",
@@ -229,6 +225,6 @@
     "x:karpathy:2061110056293106118"
   ],
   "_meta": {
-    "last_x_fetch": "2026-09-23T19:28:46+00:00"
+    "last_x_fetch": "2026-09-23T22:43:44+00:00"
   }
 }
