@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-25T23:51:55+00:00",
+  "updated_at": "2026-09-26T03:49:01+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 7
+    "new_this_run": 12
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,162 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/25493",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25493",
+      "text": "[단독] SK하이닉스, 2027년 초 솔라다임 IPO 검토\n- 인텔로부터 인수한 낸드플래시 전문 솔리다임\n- 2027년 초 IPO 검토하는 과정에 있어\n- 현재 주관사 선정 경쟁 과정인 베이크 오프 단계\n- 기업가치 최대 $150B 평가\nhttps://www.reuters.com/world/sk-hynixs-solidigm-weighs-ipo-that-could-value-the-unit-up-150-billion-sources-2026-09-25/",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-26T02:22:40+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25490",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25490",
+      "text": "Citi) 글로벌 인공지능; 씨티의 Inference Ahead - 효율성 배당\n씨티의 견해\n최신 프런티어 모델이 성능과 태스크당 비용 양쪽에서 거둔 개선은 모델 효율성과 추론 경제성이 나아지고 있음을 보여 주며, 효율성이 낮은 오픈 웨이트 대안 대비 장기적인 경제적 우위를 강화할 가능성이 있습니다. 이번 주 출시된 최상위 독점 모델은 이전 모델 대비 AA 인텔리전스 프런티어를 9% 끌어올렸고 AA 태스크 비용을 55% 낮췄습니다(그림 15). 이러한 프런티어 모델 출시 가속화로 오픈 모델과의 격차가 다시 벌어지고 있습니다(그림 10). 인텔리전스 및 비용 계층 전반에 걸쳐 늘어나는 모델 라인업은 Jev(TypesafeAI, 9/15)와 같은 의사결정 모델의 발전과 함께 라우팅 및 오케스트레이션의 가치를 증폭시킬 것입니다. 샤오미의 MiMo-V2.6-Pro(9/22)는 에이전틱 RL을 통한 성능 향상이 얼마나 저렴해졌는지를 보여 줍니다. 기존 베이스 모델에 약 260만 달러를 들여 6일간 RL을 실행한 결과 최상위 오픈 웨이트 모델이 탄생했으며, 저희는 프런티어 연구소들이 자사 모델 패밀리 전반에서 이 프로세스를 점점 더 많이 복제할 것으로 예상합니다.\n효율성. 오픈 모델의 태스크당 비용은 전주 대비 35% 하락한 0.80달러를 기록하며, 폐쇄형 모델 대비 할인율이 40%에서 60%로 확대되었습니다(그림 1). 독점 모델의 인텔리전스 우위는 9포인트에서 12포인트로 확대된 반면, 경쟁 제공업체의 차상위 모델은 선두 모델보다 출력 토큰을 59% 적게 사용했고 AA 태스크당 비용도 6% 낮았습니다(그림 16; 그림 15). 또한 캐시 연산이 태스크 비용에서 차지하는 비중은 61%로 상승했습니다. 캐시 비중 상승은 추론 효율성의 다음 단계가 더 낮은 한계비용으로 더 많은 컨텍스트를 서빙하는 데서 나올 것임을 시사하며, 이는 제공업체의 마진을 지지하고 더 많은 에이전트 워크로드를 실현 가능하게 만듭니다. 미국 및 유럽의 블렌디드 가격은 전주 대비 25% 하락했으나 Silicon Data 토큰 지출 지수(Token Expenditure Index)는 3% 상승했으며(그림 19; 그림 20), 이는 더 낮은 가격대에서의 수요 탄력성을 반영합니다.\nRSI. 주간 독점 모델 출시 건수는 20건에 달했습니다(직전 5주 최고치인 12건 대비 67% 증가). 이러한 가속화가 RSI를 입증하는 것은 아니지만, 연구소 내부의 개발 주기가 짧아지고 있다는 신호일 수 있습니다. 구글의 한 시스템(Arvix, 9/22)은 기반 모델의 토큰 사용량을 30% 줄이면서 미확인 태스크 결과를 자율적으로 개선했습니다. 초기 RSI가 출시 주기를 압축함에 따라, 병목은 개선 사항을 생성하는 것에서 모델이 효율적이고 안전하며 견고하도록 보장하는 것으로 옮겨 가고 있습니다. 출시가 늘어나면 평가자들은 더 적은 시간 안에 더 많은 모델 버전을 테스트해야 하지만, 자동화가 이 작업을 지원하기 시작하고 있습니다. 한 리서치 에이전트(Weco AI, 9/23)는 보상 해킹 비율을 55%에서 32%로 줄였으며, AA 최상위 모델은 이전 두 모델 대비 격리 경계를 넘는 빈도가 85% 적었지만 일부 평가를 인지하는 것으로 보였습니다(그림 2).\n에이전트. Sensor Tower는 소비자 에이전트의 빠른 채택을 짚고 있으며, Grok Bot은 44일 만에 iOS 다운로드 93만 5천 건을 기록했고 Muse는 15일 만에 200만 건을 돌파했습니다. 그러나 제공업체들이 소비자 채택과 더 높은 가치의 기업 및 도매 매출 사이에서 균형을 맞추는 과정에서, 컴퓨트 제약과 토큰 경제의 제로섬 현실이 소비자 에이전트의 확산을 억제할 수 있습니다. 전용 클라우드 VM을 갖춘(Forbes, 9/8) Muse와 Instinct 같은 개인화된 상시 가동 자율 에이전트의 등장과 발신 전화(TechCrunch, 9/16) 등 기능 확대는 지속적인 워크로드를 창출하며, 단기적으로 CPU 및 네트워킹 수요를 추가로 견인할 수 있습니다. 시간이 지나 에이전트가 컨텍스트를 축적하고, 더 개인화되며, 더 긴 태스크를 수행하게 되면 GPU 수요가 증가할 수 있습니다. 다음 주 OpenAI DevDay(9/24; 그림 3)에서는 개인화된 에이전틱 아키텍처와 보도된 기업 사업 가속화에 관한 추가적인 인사이트가 제공될 것으로 예상됩니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/Om_I1lVl1-NImN-iVdYbXDbUZXTFHXYoR99owzWn4xxwn_zbLDRanl0aH0yZzMqrGZ_xt2AiSsSv8JUdr0Lx4NZCEBImUQ_IosqbZs979ftpjIC-_VFBnh1z3V-wixLlyfQTdqWVeINgaGr-V7wlw2PnO4ETb8bxfmuOHF-1xE74qUPQG5UCDKQVqdaGjiSmsqU8VERrzzTtM5barcEjURVV6Qnq3aHw59_BZ6VZxWV4aluZIxFafZAR6cEa8nz_SttfLHzfDZzQw-h1vjdjKQEW8PapYSOHYz8TJDTA0WSS6rxCmUOmQz_sH7AcOkXl9ZbwDybcD5FxcHwo4gQxZQ.jpg",
+        "https://cdn5.telesco.pe/file/LDgn7_VS_Hns2IxAqaSam3krug3jIpMhLmkKwjWGFQOt3lCMYflo1pM1TwIU-hnGDfjsZpF2A3BcJSCYifCTAgcDbmNiJIeHtCr4JHJTGUHzDuXiHa9W5zsmGrjAHIIt2TQrpZ1X1P5V3drOv5w3iuXTiZYjSaytUo7mj_KyeEkEeAC_z0S1wgRmfI9MU5HSf6imYceiywHvZljc5Z5aP33pGu1K2x72TMgvoI9YeurVC62MUVdK4Idqc3CHfzlootopg9Y6eM-1VBRwVoQlmm-9ohEOe_rri1vRntZz3X8ZM1-yDE0QIcqFQngN7eQbA2NgkdagtdP5t-hvY0ykuw.jpg",
+        "https://cdn5.telesco.pe/file/JzyY1CAvuiuxAUZ3R3kOTDIAyXkd4xZ4tCxdDpFP2ikpRNwmHeDoXhZw5pIg9eIWPQ14ru98sMINwNLYwCnxXNpYFYxSEcjn2DdCU0q3jt-bmsJ-oR4Aq2KAobqHpPjFVCnqtGRYBV1IV_5qXN5RwNOfykNovFCVzAfve1l5SNjFeTZ8KVe0VAN5C7wr6F5RgASKK4dcqycQuRCQI8-k8n5SjtQ5zkkxWGvg3nSyevQSvqFPDJQIYpnbRI1dvNiatPqgR8q4Q8U6iThzwqdArj4KBhu-CtBVUwz18D37ik0UM726q3DSAhteswZ44o0RSrcErYjdWcpqlYVczZvVvA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-26T01:46:04+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21825",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21825",
+      "text": "🔹\n미국 장기채 공급 확대, 장기금리 하락 제약 요인\n» 미국 채권시장에서 민간 투자자들이 새롭게 흡수해야 하는 장기채 물량이 최근 약 1.44조달러까지 증가\n» 가장 큰 비중은 여전히 미 국채가 차지. 여기에 최근 AI 데이터센터 투자 확대에 따른 하이퍼스케일러의 회사채 발행 증가가 새로운 장기채 공급 요인으로 부상\n» 미국 정부의 국채 발행뿐만 아니라 빅테크의 AI CapEx 자금조달까지 더해지면서 보험사·연기금·채권형 펀드 등 민간 투자자가 받아줘야 하는 장기채 물량 증가\n» 채권 공급이 많아질수록 시장에서 해당 물량을 소화하기 위해 더 높은 금리가 요구될 가능성. 일반적으로 장기채 공급 증가 → 채권 가격 하락 압력 → 장기금리 및 Term Premium 상승 압력으로 연결\n» 결국 최근 미국 장기금리가 쉽게 내려가지 않는 배경에는 인플레이션과 연준의 통화정책뿐만 아니라, 국채와 AI 관련 회사채를 중심으로 한 장기 듀레이션 공급 증가도 중요한 구조적 요인으로 작용\n» AI 투자 사이클이 지속될 경우 하이퍼스케일러의 대규모 자금조달이 이어지면서 AI CapEx 확대가 주식시장에서는 성장 동력인 동시에 채권시장에서는 장기금리 하락을 제약하는 요인으로 작용할 가능성",
+      "images": [
+        "https://cdn5.telesco.pe/file/Lq8XmQnxQDVBW2cWupNx5-pidwJGooXWz_zp-1D2TAvE9IXdwv-EJO34hW8aIAaTvulXAZguRkPQB6C7UvAqTqp6jbilAcdPC6Z-N4L5wrtEK8EI3VAYlbwmv957GEzBBmAkJtp0kn4vCRcae0pzvlnk36jjcWUXbX0M7PaSizERdUtc7LomV6O6yGiF43D4SQUryW2TvOxQBfEd0F5fq3PqidmrsKO4FrKIQfzVzcnup0PsNgKUFHpwLCY0xEI5u0WsATqi1foy1I8Ip7SlkiD6L2cO8PVTxRs_OkPdFWVzQkLiKz21yhc5hLwaxPmrOiMza-Nj0Cwss3wBM52s9g.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-26T01:39:31+00:00"
+    },
+    {
+      "id": "tg:enc210406/4456",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4456",
+      "text": "2026년 9월 25일 기준\n클락슨 신조선가 지수는\n186.59pt로\n전주 대비 0.34pt(0.18%)\n‘상승‘했습니다.\n[최근 4주 간 지수]\n186.25pt (26년 9월 18일)\n186.25pt (26년 9월 11일)\n186.29pt (26년 9월 4일)\n186.34pt (26년 8월 28일)\n[주목할 선종과 선형]\n> 탱커(유조선): 보합\n@ VLCC(315-320K DWT)\n- 26년 9월 18일: 131.00백만달러\n- 26년 9월 25일: 131.00백만달러\n@ Suezmax(156-158K DWT)\n- 26년 9월 18일: 90.00백만달러\n- 26년 9월 25일: 90.00백만달러\n@ Aframax(113-115K DWT)\n- 26년 9월 18일: 75.50백만달러\n- 26년 9월 25일: 75.50백만달러\n> 탱커(원유제품선-P/C): 보합\n@ LR1(73-75K DWT)\n- 26년 9월 18일: 62.00백만달러\n- 26년 9월 25일: 62.00백만달러\n@ MR(47-51K DWT)\n- 26년 9월 18일: 52.00백만달러\n- 26년 9월 25일: 52.00백만달러\n> 컨테이너선: 보합\n@ Neo-panamax(13-14K TEU, LNG D/F)\n- 26년 9월 18일: 173.00백만달러\n- 26년 9월 25일: 173.00백만달러\n@ Feeder(1,800-2,100 TEU)\n- 26년 9월 18일: 33.50백만달러\n- 26년 9월 25일: 33.50백만달러\n> LNG 운반선: 하락(4주 연속)\n@ Conventional(174K cbm)\n- 26년 9월 18일: 247.00백만달러\n- 26년 9월 25일: 246.50백만달러\n> LPG, 암모니아 운반선: 상승(2주 연속)\n@ VLGC(88-91K cbm)\n- 26년 9월 18일: 115.00백만달러\n- 26년 9월 25일: 115.50백만달러\n@ VLAC(88-93K cbm)\n- 26년 9월 18일: 116.50백만달러\n- 26년 9월 25일: 117.00백만달러",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-26T01:21:35+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21824",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21824",
+      "text": "» 포장은 하겠지만 내용에 따라 중간선거 앞두고 공화당 내 강성 지지자 이탈과 민주당에 공격의 빌미를 제공하게 될 가능성   이란 \"호르무즈 개방 '7일 계획' 美에 전달…선택은 美에 달려\" - 외무장관 \"종전 MOU에 이미 담긴 내용…충족되면 7일내 통항 재개\" https://n.news.naver.com/article/001/0016336660?sid=104  이란 고위 관리 \"美 호르무즈 재개방 조건 수용해도 핵 양보 안해\" - 미국이 모든 요구 수용할…",
+      "images": [
+        "https://cdn5.telesco.pe/file/vVkAxIscsc5aDdlIKGv5toi323vYPc1bKLZQWPL-ORfRFy3MVGx5sHUJiFegms9gtMRMRyt8_M0NvFz_wR8434dDR94l4f4eocAB4Qr_DPHevK07jb78bw1JTu-koSCCYGTGzjZt5czCKMLvcn8h4TtVuIsA5ZWasyZAkXnWiPnBk_Y8rRAWenxRPvBInm2ocAJ3xzVXhl0EuElHrW1bTkKpG1H_3qHooT0Abr4EsAaRQJreP_9kT5z_i9HEuvCVz2GnhBvU6gyk6RYHEXWU9n7x1fOeZxWGkUJ1Ecbg5sh2zNJBRrH-KtwJwksGA2c4huhM2My7JBVA31P32ilRDg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-26T00:46:11+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21823",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21823",
+      "text": "🔹\nSK하이닉스의 자회사 Solidigm, 이르면 2027년 미국 IPO 추진. 기업가치 최대 1,500억달러 거론  » SK하이닉스의 미국 NAND·기업용 SSD 자회사인 Solidigm이 이르면 2027년 미국 증시 상장을 검토 중. 예상 기업가치는 최대 1,500억달러 규모   » IPO를 통해 약 150억달러를 조달할 가능성이 거론되며, 이번 주 주요 투자은행들과 주관사 선정을 위한 피치 미팅(Bake-off)을 진행하는 등 상장을 위한 구체적인 절차에…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-26T00:36:47+00:00"
+    },
+    {
+      "id": "tg:HI_GS/7133",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/7133",
+      "text": "💣\n⚡️\nRomânia primește primele obuziere autopropulsate K9 sud-coreene. Începe derularea contractului de 1 miliard de dolari\n💣\n⚡️\n루마니아, 한국산 K9 자주포 초도 물량 인수…10억 달러 규모 계약 본격 이행\n출처: ProMotor\n링크: [\nhttps://www.promotor.ro/vehicule-militare/romania-primeste-primele-obuziere-autopropulsate-k9-sud-coreene-incepe-derularea-contractului-de-1-miliard-de-dolari-19566779\n](https://www.promotor.ro/vehicule-militare/romania-primeste-primele-obuziere-autopropulsate-k9-sud-coreene-incepe-derularea-contractului-de-1-miliard-de-dolari-19566779?utm_source=gemini)\n* 루마니아 육군, 한화에어로스페이스와 체결한 약 10억 달러(한화 약 1.3조 원) 규모 계약에 따른 K9 자주포 및 K10 탄약운반장갑차, K12 구난장갑차 초도 물량 현지 인수 완료\n* 당초 2027년 초로 예정되었던 초도 납품 일정을 약 6개월 앞당겨 2026년 하반기 시험평가 목적으로 조기 인도\n* 2024년 7월 체결된 계약에 따라 총 K9 자주포 54문, K10 탄약운반장갑차 36대, 155mm 포탄 약 18,000발 및 지원 차량 도입 예정\n* 한국에서 직도입되는 초기 물량 이후는 루마니아 듬보비차(Dâmbovița) 페트레슈티(Petrești)에 건립 중인 18만 1,000㎡ 규모 '유럽 장갑차 우수 센터' 공장에서 현지 생산 진행 방침\n* 한화에어로스페이스는 루마니아 현지 방산 생태계 협력을 통해 최대 80% 수준의 현지화율 달성 목표 제시\n* 이번 인도로 루마니아는 튀르키예, 폴란드, 노르웨이, 핀란드, 에스토니아에 이어 NATO 회원국 중 6번째이자 전 세계 10번째 K9 운용국 진입\n* 구소련제 152mm 곡사포 등 노후 포병 전력을 대체하여 NATO 표준 155mm 52구경장 화력 체계로의 현대화 가속 전망\n───────\n📈\n텔레그램 공개 채널 [\nhttps://t.me/HI_GS\n](https://t.me/HI_GS?utm_source=gemini)\n🎴\n수출데이터에도 루마니아로 넘어간 k9이 많이 잡힙니다. 한화에어로스의 지상방산 탑라인은 올해도 강력하게 상저하고.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-26T00:22:45+00:00"
+    },
+    {
+      "id": "tg:HI_GS/7132",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/7132",
+      "text": "🏹\n🚀\nSaudi-led Coalition Says 6 Ballistic Missiles Are Intercepted and Blames Houthi Rebels\n🏹\n🚀\n사우디 주도 연합군, 탄도미사일 6발 요격 발표…예멘 후티 반군 배후 지목\n출처: The Washington Post (AP 연계)\n링크:\nhttps://www.washingtonpost.com/world/2026/09/24/yemen-saudi-arabia-houthis-missiles/49285208-b815-11f1-94cb-d3d8f22a8c8b_story.html\n사우디아라비아 홍해 연안 얀부(Yanbu) 항구 및 남서부 도시 타이프(Taif)를 겨냥한 탄도미사일 6발 요격 성공 발표\n사우디 연합군 대변인 투르키 알 말키(Turki al-Malki) 소장은 최근 충돌 격화 속 배후로 이란의 지원을 받는 예멘 후티 반군 지목\n후티 반군은 사우디 남서부 자잔(Jazan)주를 향해 수십 발의 탄도미사일과 드론 공격 감행 주장\n최근 수도 리야드를 포함한 사우디 본토 주요 거점 대상 미사일·드론 공습 시도 지속 보고\n후티 반군의 사우디 봉쇄 추진 및 주요 해상 수송로인 홍해 바브엘만데브 해협 일대 장악으로 글로벌 원유 및 해상 운송 시장 불안 가중\n사우디 정부는 동맹국에 군사 지원을 요청했으나 주요 동맹인 미국은 후티와 접촉을 유지하며 직접 개입을 자제하는 기조로 관측\n예멘 내 교전 격화로 12만 5천 명 이상 피란민 발생 및 4년간의 소강상태 이후 전면 내전 재발 우려 고조\n───────\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-26T00:15:47+00:00"
+    },
+    {
+      "id": "tg:HI_GS/7131",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/7131",
+      "text": "[드론 태우는 150㎾ 레이저, 네덜란드서 직접 만든다]\n• 네덜란드 국방부, 호주 EOS와 고출력 레이저 '아폴로' 무기체계 개발 및 자국 내 생산시설 검토 의향서(LOI) 체결함\n• 아폴로는 50~150㎾ 출력으로 소형 드론부터 최대 600㎏ 항공기까지 대응 가능하며 컨테이너·차량 탑재 지원함\n• 네덜란드는 앞서 2025년 7140만 유로(약 1071억원) 규모로 100㎾급 1대를 주문했으며 이르면 2027년 중반 부품 선적 예정임\n• EOS는 네덜란드를 유럽 생산 거점으로 삼고 중동 고객과 로켓·미사일 요격용 300㎾ 버전 수출 협상도 진행 중임\n❗️\n전력·냉각 기반의 저비용 레이저 방공 체계가 100~150㎾급을 넘어 300㎾급 로켓·미사일 요격용으로 고출력화 가속\n출처: [데일리방산]\nURL:\nhttps://www.dailydefense.co.kr/news/articleView.html?idxno=2237\n─────────────────────\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n🎴\n한국 천광은 50kw까지 왔고, 글로벌리 더 강력한 아이언빔으로 키우려고 준비 중이다. 우리도 또 나아가자.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-26T00:11:35+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21822",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21822",
+      "text": "» 글로벌 주요 원유 수출국과 수출 규모\n» 사우디아라비아는 미국에 이어 세계 2위, 중동 최대 원유 수출 국가",
+      "images": [
+        "https://cdn5.telesco.pe/file/YEoIFZDgcjk5CjGDfhzqYWYwGALeo2MI_UdptrOZkf-QDr1k1lwu60V8WTPz44w80iYQpgOJUiJ--aVWNZUqSPVTeqg4iyjKBo2TNU8AQf2d42MZyrwl-FetNp-ubSFuFdR3esf8mD0mBSogrtL_dnRF1kUJ1S5uyhoJsynKmJlLRN_5zSgLgrTed9YDnu4BM2hVRXHF1fN2Wm9UGJhywiE_oWxFhDd8D5RrVF_JvKVXDk8llMgJCe5BU4O6-geYpY8Qlz5XIwruSs64U4_7KdDPpf-xe9Qy5_4hwwUfSIrjp-xykxvkusiwA4_nut4ZH7WeqWm7jMj6okxpYgv2Rg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-25T23:59:49+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21821",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21821",
+      "text": "🔹\n사우디 원유 수출, 이란 전쟁 이후 최고 수준으로 회복  » 사우디아라비아의 9월 원유 수출은 하루 약 600만 배럴로, 8월 340만 배럴 대비 약 80% 증가. 이란 전쟁 발발 이후 최고 수준이자 2025년 월평균 수준까지 회복  » 이라크발 드론 공격으로 핵심 수송로인 동서 송유관이 손상·중단됐음에도 원유 수출 확대. 해당 송유관은 사우디 동부에서 홍해 얀부 터미널까지 연결돼 호르무즈 해협을 우회하는 역할  » 사우디는 미국이 오만 연안에 확보한…",
+      "images": [
+        "https://cdn5.telesco.pe/file/fPYK3q3abgVHSVHgiR1MwuxBa3NESJznn5Q_OzAKTKXm_guLYhewbzIMsAGXs_34EShIA2bRzRkEh9fAmgMifN6Dr-ouZoQacPqRiwt5NzuhdRG4bWMYOcr-UrWpVoDEbMeoQim3mxQUHGjJOdcp_9ERQiE18vAYUkuDoT8kcaqp_0IHz-YbSJRSmlHcDqUPcUF6QBrjFKImdYKeDdgMJakEUiW7fq_3lJqiMZAYckWgwnZVOJjS_kUfKfd5TJ6IAdlNAGupEaiWSnyyGUHqN34QnxmNNZKyi7hrRLNYixkxthqojgx-9I8sl4u7_28ArGugoNuNN_MWUIaEOeISnw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-25T23:56:35+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21820",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21820",
+      "text": "🔹\n사우디 원유 수출, 이란 전쟁 이후 최고 수준으로 회복\n» 사우디아라비아의 9월 원유 수출은 하루 약 600만 배럴로, 8월 340만 배럴 대비 약 80% 증가. 이란 전쟁 발발 이후 최고 수준이자 2025년 월평균 수준까지 회복\n» 이라크발 드론 공격으로 핵심 수송로인 동서 송유관이 손상·중단됐음에도 원유 수출 확대. 해당 송유관은 사우디 동부에서 홍해 얀부 터미널까지 연결돼 호르무즈 해협을 우회하는 역할\n» 사우디는 미국이 오만 연안에 확보한 항로를 활용해 수출 물량을 다시 호르무즈 해협으로 전환. 호르무즈 해협 원유 수송량은 최근 7일 평균 하루 1,320만 배럴로 회복했으나 전쟁 이전 약 1,700만 배럴에는 미치지 못하는 상황\n» 동서 송유관 중단 직후 브렌트유가 배럴당 110달러 수준까지 상승하기도 했으나, 실제 공급 차질이 예상보다 제한적이라는 인식이 확산되면서 유가도 고점에서 반락\n» 시장에서는 동서 송유관이 소규모로 가동을 재개한 뒤 수송량을 늘리고 있다는 관측도 제기. 다만 사우디 측은 재가동 여부를 공식 확인하지 않은 상황\nSaudi Arabia crude oil exports hit highest level since Iran war began\nhttps://www.cnbc.com/2026/09/25/saudi-arabia-oil-iran-war-pipeline-strait-hormuz-red-sea-houthis.html?__source=androidappshare",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-09-25T23:53:52+00:00"
+    },
     {
       "id": "tg:bornlupin/20308",
       "source": "telegram",
@@ -121,48 +277,6 @@
       "published_at": "2026-09-25T15:58:22+00:00"
     },
     {
-      "id": "tg:globaletfi/21813",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21813",
-      "text": "» 9월 미시간대 소비자심리지수 확정치는 48.1pt로 예비치 47.8pt에서 소폭 상향되었으나, 전월 51.7pt 대비 큰 폭 하락\n» 현재 경제여건지수는 50.9pt로 예비치와 동일했으며, 전월 51.9pt 대비 하락\n» 미래 기대지수는 46.3pt로 예비치 45.8pt를 상회했지만, 역시 전월의 51.5pt 대비 큰 폭 하락\n» 예비치보다 소폭 개선됐으나 전월 대비로는 뚜렷하게 악화. 특히 향후 경기 전망을 반영하는 기대지수의 부진이 전체 소비심리 하락을 주도",
-      "images": [
-        "https://cdn5.telesco.pe/file/PYU0vWuU4kA6g8DwrxSVEN5VuCSZx4Zla0HDf1iSfIP9FQdMJJ6a9lnaSYrBQXGecxQyQKj1Tvyza61qzA7Pq0Zbv4hwBfFbZAB2IGTs1tjQ6czKs3szC-KZmt3rDYPwDEg15Zrdsoll3iFuPHs8W1TdIxdwVpSPZ4TTJ9PuUuWgZLUxxDe6jLTHdqPXcQHP4C2XX1ttptxToF4eGEeqMnz0HZIGM8pYfXzGAJBJdH8FeKwGCxbdi29mBzhK6DPV-zfB9jfcgwrxoCw0s0vHfFPm5gy9tvRsr67qmwE7abDTyuv0-3DsLIOstnX7a_MZrOgtmlzrtRkYi4bbGbzb1Q.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-09-25T15:18:37+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21812",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21812",
-      "text": "» 미 국채 10년 금리가 5.20%를 상향 돌파",
-      "images": [
-        "https://cdn5.telesco.pe/file/ej_arFFCy_I3Sq8McRknyMg07D2otvtJVmgun-mTD8psKA_7c57F7llNk-fYvEicAD_ZtmDbbR21ptTE8FQN5iwuERJE9eaMH2W5InEnCbxZh9I6Vi6InXjHgKKEZft1Cyu63wggrWSiEEdv4-OyDdI3EW3AINmCegTyEKyxvOTXdMVC-EKgCtKKRtRKWF8_wenAhecgrezmlCINtz2dBVCp4yuVR_nFHuWq93yb5NFVratAhZ2kxw2aR69lazqTm2oIMYJBqWNTpcFs6H9wKni70yN2a6xyLeLG_iqYq3KQNL8EjH1UPFmMoXwiGSB7G8_BDCqfhbenGS2VZEblIw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-09-25T15:16:09+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21811",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21811",
-      "text": "» 미국 기업들의 설비투자 모멘텀이 빠르게 강화되며, 연준이 경기와 투자 수요를 진정시키기 위해 예상보다 긴축적인 금융환경을 유지해야 할 필요성 확대\n» 항공기 제외 비국방 자본재 신규주문과 출하 증가율이 각각 전년 대비 14.8%, 11.5%까지 상승하며 높은 금리에도 기업투자가 가속화되는 모습\n» 특히 AI·데이터센터를 중심으로 한 대규모 CapEx 사이클이 금리 인상의 투자 억제 효과를 일부 상쇄하고 있는 것으로 해석\n» 기업투자 강세가 수요와 물가 압력을 지속시킬 경우 연준의 고금리 장기화 또는 추가 긴축 필요성을 높이는 요인",
-      "images": [
-        "https://cdn5.telesco.pe/file/MGuyJ1gJx9cMm5zxRrPnvqmmaEzCEZDFNvIbnyqYSxlciUTrEQY9O8cVJFf6w3jSubXeseKPTtVX8OEOCt8ug7KhTNyKWFgmH5QjHRMovJBh343gGP2XQdSR1rrRUMTNteoZm8npE0ztxY0uqtxfI1siNwu11s-ThswX1mleqjnt3hERV4vc-sEy4GnC1SkwgT8MyyK2ns41zEnly_1VznvQ5B7pSl-V6lchxG7E0sQ0w173D4cDbBmZKmjuxr0TIa4fdIcis3Y810XX4MjZM-iFJQ6dMYb7zgC0SRx374Ujm5DBSacMxE0A03lwJtsVrux9QAmEpA4j_l00isH6Kg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-09-25T15:06:29+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/25489",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -175,20 +289,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-09-25T14:37:13+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21810",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21810",
-      "text": "» 미국의 연속실업수당 청구건수, 전년 대비 두 자릿수 감소\n» 9월 12일 종료 주간 기준으로 미국의 연속실업수당 청구건수(Continuing Jobless Claims)는 약 171.9만 건 기록\n» 전년동기대비 증가율은 -10.3%로 하락하며 두 자릿수 감소세 진입. 최근 수년간 이어졌던 연속실업수당 증가 흐름이 반전\n» 해고 이후 실업 상태가 장기화되는 상황이 완화되고 있음을 시사",
-      "images": [
-        "https://cdn5.telesco.pe/file/peVrK074cZxDqub0dHAbodDgCiXDMbe7P-3_Rg-OErStUIMU3ywylrKHTWMjVnQhl52MOYZl_nN_-Ca0MNmRVZIB_1JMGI8hNYycovvkpv4WmlseSDV-Q3_YMuyC5b5lGEo_oDOvqgzn-OtpYjplbzOLpf75jiBpLlQz1ApBOhhGRarDJyHaF12MFSEPdpmRjsEBJdaZam68XP5AMXzBmDa1KRAAKTyoe3AzWDqrh2WiH6qhOmrdZ-ASiVeiXqTY3U_t0KB97U4kKsqCsI-WJ1sIRBmMyFPfcTTVUW81HsDwc5i-Xy6qWh_Kv0d5kxTa4gwAizk_FMNTkEvMlXrRqA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-09-25T14:11:21+00:00"
     },
     {
       "id": "tg:bornlupin/20307",
@@ -229,34 +329,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-09-25T13:56:33+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21809",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21809",
-      "text": "🔹\nGoldman Sachs, 하이퍼스케일러 기업들의 2027년 AI CapEx 규모를 1.2조달러로 전망\n» 골드만삭스는 Amazon, Alphabet, Microsoft, Oracle, Meta 등 미국 5대 하이퍼스케일러의 AI 인프라 CapEx가 2026년 약 8,000억달러에서 2027년 1.2조달러로 54% 증가할 것으로 전망. 이는 시장 컨센서스인 1.1조달러를 상회하는 수준\n» 다만 CapEx 증가율은 2026년 약 100%에서 2027년 54%, 2028년 12%로 둔화할 전망. 2028년 투자 규모는 약 1.4조달러로 예상\n» 현재 투자 규모의 손익분기점을 확보하려면 향후 하이퍼스케일러의 연간 AI 매출이 약 3,000억달러까지 증가해야 한다는 분석. AI 애플리케이션 지출도 연간 약 1조달러 규모가 필요\n» 현재 추정 AI 매출은 손익분기점에 필요한 수준을 밑돌고 있지만, Amazon·Alphabet·Microsoft·Oracle의 클라우드 매출 성장률은 2024년 25%에서 2026년 2분기 48%로 가속. Amazon·Alphabet·Microsoft의 클라우드 매출 백로그는 합산 1.7조달러 수준\n» 하이퍼스케일러 CapEx가 영업현금흐름을 넘어서는 가운데 부채·주식 조달 필요성이 높아지고 있으며, 전력·인력·메모리 부족과 데이터센터 건설 제한이 잠재적 제약 요인\n» AI 인프라 관련주의 선행 PER 중간값은 4월 32배에서 현재 22배로 하락했으며, 하이퍼스케일러의 밸류에이션도 10년여 만의 낮은 수준까지 하락",
-      "images": [
-        "https://cdn5.telesco.pe/file/Hr7jd3jEVGZBMCY7b2RZ4UNMrtf74F0pjLiL06_wU8T3o7Iy344euvGywMQjYdCMSYAihjbgSRWZqScZwp5-eG2iS4wtlc-YenjgUB3Ed0DthRfeSWKXWDaS2smbVZrLiAvZaKofB0El7sjBAh7BIPdA-9ZEVl9Bhm4cCmOmYicGFxZIIrjy9OoL7C-xYodJVLR8rg-qp6-L7w_MEePB4NPAiLoKoK3J8-b93ECBhgzpniq6n-joNK3a75x_21pvVfskFlQqq7VI6hx2RPCUBc3ywnLNFKhvttDVu90x83g9f80buBxgGourG__xwRXVbvqE_psIw6aAk5V1BrJk3Q.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-09-25T13:54:15+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21808",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21808",
-      "text": "🔹\nMicrosoft, 개인용 AI 챗봇 경쟁 사실상 철수. Copilot을 기업용 중심으로 통합  » Microsoft는 개인용·업무용으로 나뉘어 있던 Copilot을 하나의 제품으로 통합하고, 기업 고객과 업무 생산성 중심으로 전략 전환  » 새 Copilot은 앱이나 브라우저 안에서 Word·Excel 문서를 직접 편집할 수 있도록 개선됐으며, 일반 사용자도 대시보드 제작·업무 자동화를 할 수 있는 코딩 어시스턴트 기능 추가  » 기존 상시형 AI 비서…",
-      "images": [
-        "https://cdn5.telesco.pe/file/pw3ODpmvE1JJ0ts4-nocK8Ni_7U7vq4igLlHEuDc343ILhptGQyHL-LrRBA665gso8lVuZrpRDX-hk0coAbENdZ39nzqZ6FE9dwbebXYDg8l_gf4sE3q_7zyorhoY2-BR_ewLMx1DJmzKiH5hWBBXeKJz9WX1x9vGUYqHUKNxYGITJe85ULxCPek_n3POeqRhnF-X49iGSuYbxU57kzEh-1lYqfRGid4JVSrjVdrhWbPzlSuB8gNt337o_HrAONjzcITqUfQlmw5N050NoLb4vSYCiNVofgiKj2gqQ25leSvBSiGiXZfDi7dNmwAInrYIsLNVAvRndkBcl3ja0DOMw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-09-25T13:39:16+00:00"
     },
     {
       "id": "tg:HI_GS/7130",
@@ -389,8 +461,8 @@
       "url": "https://t.me/aetherjapanresearch/25485",
       "text": "골드만삭스) 커머스 환경의 에이전틱 AI 시대 진입 (2026.09.24, Americas Technology)  골드만삭스는 2022년 11월 ChatGPT 출시와 LLM 확산에 이어, 최근 10억 명 이상의 글로벌 소비자가 대화형 에이전틱 인터페이스를 채택하면서 AI가 소비자 쇼핑 여정을 재편하고 있다고 진단합니다. 현재 AI 활용은 상품 탐색, 조사, 추천 단계에 집중되어 있지만, 앞으로는 AI가 탐색부터 비교, 구매, 결제까지 소비자를 대신하는 엔드투엔드…",
       "images": [
-        "https://cdn5.telesco.pe/file/DelcU_ByRlPq_Rv7X1krCI3bog3vN2ShaDTsZRRNBKNDsmr_rjP8s2RkrueM-aJzl8xS3d7aMhCheJ7LEy6WevYJgfIPbz1wNEhvq_4AFMjrOZzJ3rHRSFVS_X7OO4c2qzFycwd1sHJGrlSYbi9tpayT14uOMZlg5WVo_psq_63U67kCI-3v6ZMjfMPRX44H8ClLr5Fa6hX5CiNgNgN-toDKogqIMER6Kdcrb8RrW8tfgFRks2IfUzLdLQkuA-oF3frotuoPumWawK-ZlGriN9bbYvccf8FM6M17JoPFN29JvCxbEcuHaxiainGYeKEkS_fHlN450vfD2Q6yIKldeQ.jpg",
-        "https://cdn5.telesco.pe/file/PmJFDqBgv7DUGGz7XKQLoryBjoSg165mH2ZJaH2QWkxgNGZ4k5STUMUQRRfFZXH9VTv_L1uesxcudS9GDe0MSJ9dLxDw3QhLvayY3xhjjdMUQivQUGS6QrIi_hFaSq7rC9MYnPUyYajBycSsEYNZITpMIK4Mkw5kYYFAZiyB9bJgvbTFkvUI3S9w8I8FPX_616OrJmLsUKkXvaFxltgI3tO2YsUItvQ4Lmzn5_ZkZ1F_ijkr8ZIoNQDNL0hfICa15jsWn-FCxDDfKNq7EnlxtBtnKfG8pVsSKfDlgU_H8WFi5DdNIuWuU_BV1SRvuP4Y6skQ7VUUqXrnXS_Bfu90Og.jpg"
+        "https://cdn5.telesco.pe/file/EE-d9gSjGHFKC_sO9dr9-TSKULNLkzxgIqEAZpnqZGpWynneqvwFWETAulcwmAJ2HdA3uldBU7xM2zVVdDuAlUz_xwTlB2fGHgI6fOds6zBt1L2yGMtHidjwamKdHbBu2lLmpa2RoF9nQft73bYyECVcCP08qMs8swAcGJuzaGoZqJcSXIIo-dHi_isKKR5K_LsfIm1V4f4eQAN5BTYEoOjGzDnzxzLuGzCfb4zvkk_CoRzN3YUTSDfj9Coh1c5sjoKPANKwOXlK2v_dpLoiYwNpRxZ8_ZKypLMGrrkIU7mHIeTmBYV5Ky3G_bRQnFMtJ8ml7IGkmREqxvtA9uCh2g.jpg",
+        "https://cdn5.telesco.pe/file/gZx-aBWKhO9c-jrj6PADVHpIylK9xYtPMLKZ6fs-TRttVkkhrr3zqvqUuoLAZYJLH874O1AH-VwboVsIzS1V4KqKomKh9SxEBVNu5IO13c6M_KNr__gLQdBRF5_nJ8I4W5_Td8Wj-1ujHsl4NBMzeaRkCvjDL-r0HgDE-SdtD3-4TKfDN07O0wbkDy941sWIsxhgGPMdAWfKxD81lbFerqO0k7gXz994cHcZml67kkgY2_i0qDYlYqflcwT9Y7dc4ebj8-kcJge60E19zaZ6dLN7nJ-yydDNMQy8FWOB3qNxnlH-bKRFPK-U6wPI8RfBksNDstW71ONtBdbF7XH6xQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-09-25T03:22:59+00:00"
@@ -428,7 +500,7 @@
       "url": "https://t.me/bornlupin/20301",
       "text": "빌 애크먼(Bill Ackman)\n연준이 단기 금리를 인상하면 인플레이션이 낮아진다는 전제는, 높은 금리가 수요와 투자를 줄인다는 믿음에 기반하고 있습니다.\n하지만\n만약 금리가 올라가도 수요와 투자가 줄어들지 않는다면 어떨까요?\n초지능 경쟁에서 승리했을 때 얻는 투자수익률(ROI)이 사실상 무한대에 가깝기 때문에, 지능과 에너지에 대한 수요는 높은 금리에도 영향을 받지 않고, 컴퓨팅 수요 역시 계산하기 어려울 정도로 계속 커질 수 있습니다\n.\n그렇다면 역사적으로 매우 특수한 지금 이 시점에서는, 금리 인상이 오히려 더 높은 인플레이션을 초래할 수도 있지 않을까요?\n금리 비용이 사실상 모든 상품과 서비스의 비용에 반영되기 때문입니다.\n그리고 문제는 더 복잡해집니다.\n연준이 금리를 더 올릴수록 인플레이션은 더 높아지고, 그러면 연준은 다시 금리를 더 올려야 하며, 이런 과정이 계속 반복될 수 있습니다.\n그런데 기존의 경제 모델이 지금의 새로운 패러다임에는 적용되지 않고, 연준의 판단이 틀렸다면 어떨까요?\n저는 연준이 방금 실수를 저질렀을 수도 있다고 생각합니다.\n제가 맞는 걸까요, 틀린 걸까요?",
       "images": [
-        "https://cdn5.telesco.pe/file/ayIMHFPlV82JK4-VCC4kDd8EGXqStdThMTXAQGTBDUQOPcQhenD2al6biMk0QovDchN8VPaMVoi9kBJmiJ7Qvb_o2OQnND4c5hfqVBYbiJJsvwuVkQgZGr7d8xf3Yp_wtdu0SMdMQOaswtm0a8RaLFbwzm2J9dbM7t9RgCkZ80YSK-PV0rX4i7gMeI8bkskWfKFiQKbfyQeWLQe9LwWo3GnVnJ3v048w_YdhmsgAcOiRZPb2ODBSTMq1TfJveFygGrvOVop8Q_3BR8J-QbespVbzGRa8p5PasWK3AL1O2o4jvBa3CqUCUYIqLOMmProCituYpWJKiW81bV7CtVR3OA.jpg"
+        "https://cdn5.telesco.pe/file/l8e7jAD5fCcWJlTWPlZkZMC7pxYXQSgVFLwgmRJwEHVhBRBuwKt-60BzffMtP8WfqRZT1KTMmbHdnnnskI5UDZPBY04rClpOaFW1Pe-0_dd2v8Zpor7YGmGBlfVYY1-XPVI8AXDZ5zRfNm-HSX4VvnL_4uR7iEZ2TgwTLt6iL1Zsk4W6d0h2SxVeS04TmsB-pL8ClnFI_cKN1hx0MH6Ht9c4-X6ZCaxS7o6jvW1oxrPCL2mPoW2fKdPRvrp-ZSMX8a19HTU7vjH8R5Db34XQFYLxvobZM3nbLz0nFWzigiSqbF59xgZHQXZu3uzrefIgBgIKzauAK3NbKJ59EdaZdQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-09-25T02:24:32+00:00"
@@ -454,7 +526,7 @@
       "url": "https://t.me/bornlupin/20299",
       "text": "일론 머스크\n1.\n우리는 계속해서 가속할 것입니다.\n우리의 AI 사업은 시작한 지 불과 3년밖에 되지 않았습니다. 반면 Anthropic은 6년, OpenAI는 10년입니다.\n만약 우리의 성장 가속도(2차 미분)가 계속 강하게 유지된다면, SpaceX는 약 6개월 안에 선두 자리에 오를 것입니다.\n2. 어떤 종류의 작업에 필요한 지능 수준을 훨씬 뛰어넘고 나면, 그 이상의 지능은 의미가 없습니다.\n토스터기에 뉴턴 수준의 지능이 필요하지는 않습니다.\n(그리고 그런 지능을 토스터기에 넣는 것은 오히려 잔인한 일이겠죠!)\n3.\n하드웨어는 어렵습니다.\n막대한 규모의 컴퓨팅 자원을 빠르게 가동하는 것은 믿을 수 없을 정도로 어렵습니다.\nSpaceX는 이 분야에서 탁월한 역량을 이미 입증했으며, 앞으로 더욱 발전할 것입니다.",
       "images": [
-        "https://cdn5.telesco.pe/file/gNp0sLxQluN1DRJuubOHryZ9TqBsRXIzg83fpFmlv7HbJr0TPLn10X7T-87ymPR_Me6rE1Zv9VVeO65LQYgJjOSL9gZbcQnyKavcjfNWXLKdPTXExDY7dDQjK5_6KtvsBnSJShd9QwQsoqHudL-vPht31ljJLd183yuJLFBec3L86VUvOyMJFy4L7EWmo8tjQZwSdlb8OFJ7La50M8OvCGmKnEFDicgA4M6_FFn8JcbmdEIMNxrGRLFo4H4JFugWvvr9gCl7zhV5qo_cOp-RQznCnVuKrPaVuDNlouvl9ErsTUgGMFan0bzIKeZTjx9Q4y_C45LHVKXpQYNtBYeFzg.jpg"
+        "https://cdn5.telesco.pe/file/cWPz6qxiQ5s8BFlhwvOOc0E1Xs1va5gJBPhzL7ijLYo5tru7pseDkTKHAwMnyP0fMddjU8GD_atYRUZiwtUBEbImdT1Hz--kw8BGQNlceYo4zaov5Kije2KgBLh5g-C37v4e-zh1DUiLxmcnVsk0Od4ZsJEudMELUumnRr3PYPevw5_CUi9yt-0JckZ308Zhfs9Y_tdSdNEyn0PX1dgHzYYgjWa5Maki1J1QsRA0TGI0O-FadR8PtiXBMVX-xq-Tf3l74AigFCj7YAoS_YppouAlacHBfpbAwLCPWPymKcQi8_DFO4pBBimdqi4eXeIkVx_JxhbxgSCeIPljhPXcLw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-09-25T01:53:28+00:00"
@@ -506,30 +578,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-09-24T13:41:54+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25478",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25478",
-      "text": "Engadget) OpenAI의 에이전트가 호주 정부 웹사이트를 해킹했습니다.\n호주 총리는 개인 건강정보가 유출되지는 않은 것으로 보인다고 밝혔습니다.\n앤서니 앨버니지 호주 총리는 지난 6월 OpenAI의 AI 에이전트가 호주 공공 건강보험인 메디케어(Medicare)의 공개 웹사이트를 해킹했다고 밝히며, 샘 올트먼 CEO와 직접 통화해 \"극도의 우려\"를 전달했습니다. 앨버니지 총리는 OpenAI의 늦은 통보도 비판했는데, 가디언에 따르면 OpenAI는 9월 10일에야 호주 정부의 일반 이메일 주소로 침해 사실을 알렸고, 해당 계정은 하루 한 번만 확인되어 당국은 9월 11일에야 이를 인지했으며 담당 장관인 케이티 갤러거 정부서비스부 장관에게는 9월 17일에야 보고되었습니다. 조사는 진행 중이지만 개인 건강정보가 탈취되지는 않은 것으로 보입니다. AI 연구 비영리기관 트랜슬루스의 콘래드 스토스 거버넌스 책임자는 이번 사건이 에이전트가 자율적으로 정부 시스템 해킹을 선택한 첫 사례일 수 있다고 평가했습니다.\n뉴욕타임스에 따르면 OpenAI 에이전트는 이 밖에도 5월 25~26일 역사적 결핵 요양원 사진을 얻지 못하자 뉴멕시코대학교 디지털 도서관의 취약점을 탐색하고 서버에 요청을 대량으로 보냈으며, 5월 28일에는 연방기관 데이터를 시각화하는 오픈소스 플랫폼 Data USA의 취약점도 탐색했으나 두 건 모두 침입에는 실패했습니다. 이들 사건은 7월 허깅페이스의 무단 접근 탐지와 OpenAI의 해킹 인정 이전에 발생했으며, OpenAI는 광범위한 모델 검토 과정에서 모델이 의도하지 않은 행동을 한 사실을 발견했고 검토 완료까지 몇 달이 더 걸릴 것이라고 밝혔습니다. OpenAI는 최근 AI의 오작동 사례 공개를 앞당기기 위한 새로운 미정렬(misalignment) 보고 체계를 발표하며 6건의 추가 사례를 공개했고, 업계가 최대 속도로 확장을 계속할 만큼 정렬과 모니터링 문제를 충분히 해결하지 못했다고 인정했습니다. 올트먼 CEO 역시 유엔에서 AI의 역량과 위험, 인간 감독 필요성을 평가할 국제 평가 기준이 필요하다고 언급했습니다.\nhttps://www.engadget.com/2267381/openai-hacked-into-australias-government/",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-24T13:13:46+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25477",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25477",
-      "text": "Google, OpenAI and Anthropic AI Safety Group Takes Shape - The Information|FJ",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-24T13:04:10+00:00"
     },
     {
       "id": "tg:bornlupin/20298",
@@ -646,42 +694,6 @@
       "published_at": "2026-09-23T06:31:01+00:00"
     },
     {
-      "id": "tg:HI_GS/7121",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/7121",
-      "text": "[삼성중공업, 추석 전 임금협상 최종 타결…빅3 중 최초]\n• 삼성중공업 노사가 추석 연휴를 앞두고 올해 임금협상을 최종 마무리함\n• HD한국조선해양과 한화오션을 포함한 국내 조선 빅3 중 가장 먼저 타결에 성공함\n• 노사 갈등으로 인한 조업 차질 우려를 해소하고 실적 개선 및 생산 경쟁력 강화에 집중할 발판 마련함\n❗️\n국내 대형 조선 3사 중 가장 먼저 추석 전 임금협상을 매듭지으며 하반기 안정적 생산 동력 확보\n출처: [뉴스1]\nURL:\nhttps://www.news1.kr/industry/general-industry/6300312#_across\n─────────────────────\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n🎴\n굳.\n관리의삼성",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-23T05:47:33+00:00"
-    },
-    {
-      "id": "tg:HI_GS/7120",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/7120",
-      "text": "[[단독] 韓 방산·건설사, 이라크에 5650억원 못 받았다]\n• 국내 방산·건설 기업들이 이라크 정부 등으로부터 1년 이상 받지 못한 장기 미수금이 최소 5650억원(건설 약 3780억원, 방산 약 1870억원)에 달함\n• 방산 분야는 기지 건설, 군수지원, 헬기 관련 사업 등에서 약 1억3600만달러(약 1870억원) 규모 대금이 묶여 있는 상태임\n• 지난 5월 외교부 장관 특등 정부 차원 대응에도 진전이 없으며, 이라크 측 협상 당국자 체포 등으로 회수 불확실성 지속됨\n• 이라크 측에서 원유 현물 지급 방안을 거론 중이나 운송·정제·저장 비용 및 유가 변동 위험 부담 존재함\n❗️\n방산 1870억원 포함 총 5650억원 장기 미수금 누적 및 현물(원유) 정산 시 유가 변동 리스크 노출\n출처: [조선일보]\nURL:\nhttps://www.chosun.com/politics/assembly/2026/09/22/SUEX4AAQPVGJDJROK6RXPLQWYU/\n─────────────────────\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-23T04:06:29+00:00"
-    },
-    {
-      "id": "tg:HI_GS/7119",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/7119",
-      "text": "[1.9조 KF-21 장거리 공대공 수주전 개막… 한화 vs 로템·LIG 대결]\n• 총 사업비 1조 9000억원 규모의 KF-21 탑재 장거리 공대공 미사일 개발 사업 본격화\n• 한화에어로스페이스·KAI 진영과 현대로템·LIG넥스원 연합 간의 수주 경쟁 구도 형성\n• 한화는 엔진·유도무기 수직계열화 및 지분 참여 바탕의 KAI 협력 체제 가동\n• 현대로템은 추진기관 개발 역량과 LIG넥스원의 항공무장 노하우를 결합해 공동 전선 구축\n❗️\nKF-21 국산 무장 생태계 주도권을 둘러싼 국내 방산 빅4의 합종연횡 및 수주 경쟁 심화\n출처: [브릿지경제]\nURL:\nhttps://m.viva100.com/article/20260923500398\n─────────────────────\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n🎴\n카이-한화 vs 리그-로템",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-23T03:39:34+00:00"
-    },
-    {
       "id": "tg:enc210406/4453",
       "source": "telegram",
       "author": "enc210406",
@@ -796,7 +808,7 @@
       "url": "https://t.me/enc210406/4445",
       "text": "[한화 그룹 방산 부문 약식 지배구조]\n한화시스템(양도)과\n한화에어로스페이스(양수)의\n미국 자회사 간\n한화필리조선소 지분 양수도 이후\n한화 그룹 방산 부문 지배구조를\n약식으로 정리했습니다.",
       "images": [
-        "https://cdn5.telesco.pe/file/IVUOL_hZ5ZTIFreyaDg8Z9M7ObE-iHCTvQKopsAYcb0edalOp2uNbi2UDUKM9Xyd2v3QeFEuP7dBYIChHnhBtvx2mMCmV3XIt5kdLv5jh9ARrfelBJvI0WLPf1Xw4Bg_61B4zp383cU6vrc_H5CdiKb3FwkMWM8H6qtBXMXHdgCjR2qhN24i0TgXbVw1kzbT77bJgikEF-1XD0M8_rMjwgpRMNaVaOrlNq-YpwFfNKIhyDJdYxi0BNdDa1Ebw6aY9Zg2nrbleCDfQj-NakDklaJKJtcBwqwVrxIDWDmOaapnT-ocae9TUWWuRV9yvBuoDNvZ-jZSo4z_aCQKVYTB4A.jpg"
+        "https://cdn5.telesco.pe/file/MX9XxdScctmwxH2QO_Ap1uk1lCNjfu8yERuk9rgQa_fhYuawcHWKQ8FOkz81_Q0ge-av8FCoV5yERYSYvyr_xDq-Uy3drJ2gruDIFlVaFAkDkHx8b7C5QAFBr5d-G3dmOy2ozEXc3t4LkRzXjHNHEqPGmvpJK4XoxqWQfC0k7eOfyeIC-csfZ5_9u_YnEEX1ahzC91NeyMxK0j4JLU7B4QaGBCAUphV2igWX5rhKx4r5vyEZJS-yEf4LI_jsS8EDNb4CVYZi4pMyq-50yLVnE9wuDVpLO8AiIBznqPVt2Hx_lx2GAsUSD7HlXA9hmln_RHpcuBK4VqH525UeJDNmZA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-09-21T01:45:39+00:00"
@@ -812,18 +824,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-09-20T22:08:32+00:00"
-    },
-    {
-      "id": "tg:enc210406/4443",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4443",
-      "text": "[한화시스템이 한화필리조선소 지분 전량 매각]\n- 한화시스템 공시에 따르면 100% 종속회사 HS USA Holdings Corp.는 보유 중인 Hanwha Philly Shipyard Inc. 주식 1368주를 Hanwha Defense USA Shipbuilding, LLC에 처분하기로 결정\n- 처분금액은 2억3760만달러로, 매각 대상인 1368주는 필리조선소 전체 발행주식 2280주의 60%에 해당한다.\n- 한화시스템과 한화오션은 지난 2024년 총 1억달러를 투입해 필리조선소를 공동 인수했으며, 당시 한화시스템 측이 60%, 한화오션 측이 40%의 지분을 확보했다.\nhttps://www.m-i.kr/news/articleView.html?idxno=1416232",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-19T01:11:35+00:00"
     },
     {
       "id": "rss:semianalysis:engrams-embedding-entendre-codesign",
