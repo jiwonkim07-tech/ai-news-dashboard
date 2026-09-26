@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-09-26T09:11:03+00:00",
+  "updated_at": "2026-09-26T14:10:23+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 13
+    "new_this_run": 3
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,48 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "rss:semianalysis:intel-panther-lake-teardown",
+      "source": "rss",
+      "author": "semianalysis",
+      "author_name": "SemiAnalysis",
+      "author_url": "https://semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/intel-panther-lake-teardown",
+      "text": "Intel Panther Lake Teardown\n\nLooking inside Intel 18A and Intel’s Panther Lake. A free SemiAnalysis STEEL teardown.",
+      "images": [
+        "https://substack-post-media.s3.amazonaws.com/public/images/3936feab-c9da-42d0-979b-a0f5893b0a82_1650x890.png"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-26T13:36:32+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21831",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21831",
+      "text": "» S&P500 지수 11개 섹터 가운데 커뮤니케이션 서비스와 IT 섹터의 Buy 의견 비중이 각각 70%로 가장 높은 수준\n» 전체 S&P500 기업들에 대한 Buy 의견의 비중은 60%로, 여전히 두 섹터에 대한 월가 애널리스트들의 긍정적 시각이 상대적으로 강한 모습",
+      "images": [
+        "https://cdn5.telesco.pe/file/tCWIisoR3dL5pyDrxWENJ4l8_Bnfntv-u0eLe7d5jo2wmO680gDdDbN-CyEjEooUISsrgH9eQwUZ2n9tEO21bqcIe4RgKpOfLfQllCo30eDGCrkXrOPUmdh2xEMk_3t4FcynrGap6fiwbCakTtp8ffTDTGMJN-XDNmj1URcwSPHcfpLNwy-7W0YW2AwnZz4kSIxEZRq0lKRr9-RZuqZBBSOhjwsVYJY7lTKuYaYGP3WtYL-MEzeOi4Y2gL2r4MjQKOqp0_8Culx0KVUDdB9XYtocPUoMXdYRTrnJK2v-X32hTE2kFnXUD3tXiePq_sOYC3qwwK5NplF_LCnXFfOR3w.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-26T13:24:53+00:00"
+    },
+    {
+      "id": "tg:globaletfi/21830",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/21830",
+      "text": "» S&P500 종목들에 대한 애널리스트 의견 가운데 약 60%가 ‘매수(Buy)’로, 2010년 이후 15년여 만에 가장 높은 수준\n» 반면 ‘보유(Hold)’ 의견 비중은 약 35%까지 하락했으며, ‘매도(Sell)’ 의견은 5% 수준으로 낮은 비중 유지",
+      "images": [
+        "https://cdn5.telesco.pe/file/ZEjvwUog5AledIJ0lZm12v7ts4KmHNSnsaSc0-Wl98QVk06FYE0lAcTKB3fwU93SC4DtBv_mYovShkIpwww1WsOZN_GJHhvABEJvSHGh4hzfEImQBFJLiw8TN6YU_2Pfee7byBn5g_l5-FRa_QSZWE2TPCWhnL6orPtHUolTIvPbNgWHaARlPR1spHKaqtY4S1lpY5nxdRii0wqS11BAzYWCmM5tGIgDfXzpnPTJd37CBiUjWXbWvb65L9vu6yBSHhbiF-W90B4BecNfnmgkGCGp-BRPoI17ircF68uch0LVOy_AmAxB4uKuOKPrLjVdcT26c3OTH27_z6vLrNHsgA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-09-26T13:24:22+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/25502",
       "source": "telegram",
@@ -351,32 +393,6 @@
       "published_at": "2026-09-25T23:50:13+00:00"
     },
     {
-      "id": "tg:globaletfi/21819",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21819",
-      "text": "» 미 국채 10년 금리가 5.20%를 상향 돌파",
-      "images": [
-        "https://cdn5.telesco.pe/file/acLxDSlboaOQVUpEjG71ZqQ0pBEL9TjUX5r5FHA6OgCusI0hA6fA8iEmfx6NPH65AHZrtv5zLq0M6w67YLxHQobBDtgDaiZC9YYVBy4o5Wr2r80GYD0XYFwXb_vGvFMDVeCanTsOFjDAeikR9pQXZafMrCW6ZJ50ognZFpQ0ChiND2sW27GJJI766HSPTNIJWN74iQGb71GMgoI9xGGG0PJoIaQOuUI_gVRfobESNbzg2aQZkE2x1hlD0_RnQWrndLrJJezMyjfGGbuxTyjaA1bsw14KL03VJWU5Uo3fC3tLn265GMNjBgZFdwe5SfequGUZFWjeKyRXNeRpcFGZjA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-09-25T23:22:33+00:00"
-    },
-    {
-      "id": "tg:globaletfi/21818",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/21818",
-      "text": "🔹\nSK하이닉스의 자회사 Solidigm, 이르면 2027년 미국 IPO 추진. 기업가치 최대 1,500억달러 거론\n» SK하이닉스의 미국 NAND·기업용 SSD 자회사인 Solidigm이 이르면 2027년 미국 증시 상장을 검토 중. 예상 기업가치는 최대 1,500억달러 규모\n» IPO를 통해 약 150억달러를 조달할 가능성이 거론되며, 이번 주 주요 투자은행들과 주관사 선정을 위한 피치 미팅(Bake-off)을 진행하는 등 상장을 위한 구체적인 절차에 착수. Reuters가 복수의 관계자를 인용해 보도\n» 최대 1,500억달러의 기업가치가 현실화될 경우 역대 최대 규모의 미국 반도체 IPO가 될 가능성. 2023년 ARM의 IPO 당시 기업가치 약 540억달러와 2026년 Cerebras의 완전희석 기준 약 560억달러를 크게 상회\n» 앞서 Solidigm은 IPO 전 단계에서 약 36억달러(5조원) 규모의 Pre-IPO 투자 유치도 검토한 것으로 보도된 바 있음\n» 다만 현재 IPO 규모와 시점은 초기 검토 단계로, 향후 시장 상황에 따라 기업가치·조달 규모·상장 일정 등이 변경될 가능성 존재\n» SK하이닉스 주가 측면에서는 Solidigm의 독립적인 기업가치가 확인될 수 있다는 점과 대규모 자금조달을 통한 투자재원 확보 가능성이 존재하는 반면, 별도 상장에 따른 지분율 하락과 중복상장 우려도 함께 고려할 필요. 실제 영향은 향후 확정되는 IPO 밸류에이션과 공모 규모, 신주·구주매출 비중, SK하이닉스의 최종 지분율 및 조달자금 활용 방식에 따라 달라질 전망\nSK Hynix's Solidigm weighs IPO that could value the unit at up to $150 billion, sources say\nhttps://www.reuters.com/world/sk-hynixs-solidigm-weighs-ipo-that-could-value-the-unit-up-150-billion-sources-2026-09-25/",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-09-25T22:42:46+00:00"
-    },
-    {
       "id": "rss:semianalysis:the-chinese-ai-infrastructure-boom",
       "source": "rss",
       "author": "semianalysis",
@@ -413,7 +429,7 @@
       "url": "https://t.me/bornlupin/20307",
       "text": "FOX Business- 백악관 출입기자\n미 행정부 관계자는\n중국과의 무역협정에 관한 추가 정보가 월요일에 공개될 예정\n이라고 전했습니다.\n제가 들은 바로는, 소식통들이\n“역사적인 규모의 구매(historic purchases)”가 발표될 것\n이라고 전했으며,\n이에 관한 상세한 문서도 공개될 예정입니다.\n또한 소식통들에 따르면,\n양측은 농산물, 의료용품, 저기술 전자제품(lo-tech electronics) 등에 대해 추가적인 관세 면제 조치도 발표할 예정\n이라고 합니다.",
       "images": [
-        "https://cdn5.telesco.pe/file/Lvish3Xb5PrNGpWLwIkUOKMknHqNbk8pNclRTvIJPD2QVGvTD1uL_PcXaQzbEl9Z-7scf1hCLkM_IvWrmGtPyHtTTy9XTgWTANnpkg6Dg9Kk7M_Bw_VQZ3tMDFj-oDLkuwAbsHBibwLhKvXO3bjX9PNOdhpxfGzm7Y0lg1o-Zvx1FPr4PInpudBCpXBV0zDDH03KKZmZM6N5seJNJPkW-ttZP9GzTEcNI-l82Pz2kjly1ZVKL1RQQkoZodjDAxO4YYrtxDsfyIN3qT2flqhx098S3C1nAaEv86ssoECa0DgYeHBDID82SmS5iYEhJ_5xE-YsI8rRTtT-AHSX5ZNleQ.jpg"
+        "https://cdn5.telesco.pe/file/ekAhVf8F_ba_33C7cDzopqZal9X7h6BKJUlQhLelRPiXL273pZvpisprxD1KQTi8sYa4G20MtupEvW0Jy_xiETfdpGkPPmHKj-RMZ8bOj_RJdAQmaIm4qJA10UpxLzhVv3c1Err8FO-dMd2L1U6eUhOHbDRUV4WiOn1o7RZRJxFDH2usuhUbLL0t9fERLxibOgFRHXh6U18TXqwo9NPYLhumvntMZReAii67Zzozvosd04agt5xeLwCvdmml6m0Ysdt3IYAAWbnt2bSCDMOp5hlN0TUkUuoOS---92GXA6RGN5Are0uX95PIsMOInA6_bTggj1KXYP119_dRk4vmAw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-09-25T14:11:06+00:00"
@@ -427,7 +443,7 @@
       "url": "https://t.me/bornlupin/20306",
       "text": "🔹\nGoldman Sachs, 하이퍼스케일러 기업들의 2027년 AI CapEx 규모를 1.2조달러로 전망\n» 골드만삭스는 Amazon, Alphabet, Microsoft, Oracle, Meta 등 미국 5대 하이퍼스케일러의 AI 인프라 CapEx가 2026년 약 8,000억달러에서 2027년 1.2조달러로 54% 증가할 것으로 전망. 이는 시장 컨센서스인 1.1조달러를 상회하는 수준\n» 다만 CapEx 증가율은 2026년 약 100%에서 2027년 54%, 2028년 12%로 둔화할 전망. 2028년 투자 규모는 약 1.4조달러로 예상\n» 현재 투자 규모의 손익분기점을 확보하려면 향후 하이퍼스케일러의 연간 AI 매출이 약 3,000억달러까지 증가해야 한다는 분석. AI 애플리케이션 지출도 연간 약 1조달러 규모가 필요\n» 현재 추정 AI 매출은 손익분기점에 필요한 수준을 밑돌고 있지만, Amazon·Alphabet·Microsoft·Oracle의 클라우드 매출 성장률은 2024년 25%에서 2026년 2분기 48%로 가속. Amazon·Alphabet·Microsoft의 클라우드 매출 백로그는 합산 1.7조달러 수준\n» 하이퍼스케일러 CapEx가 영업현금흐름을 넘어서는 가운데 부채·주식 조달 필요성이 높아지고 있으며, 전력·인력·메모리 부족과 데이터센터 건설 제한이 잠재적 제약 요인\n» AI 인프라 관련주의 선행 PER 중간값은 4월 32배에서 현재 22배로 하락했으며, 하이퍼스케일러의 밸류에이션도 10년여 만의 낮은 수준까지 하락",
       "images": [
-        "https://cdn5.telesco.pe/file/PxMuYmnLEPbRIgp-bKumtjoH7dDYgflG9cGKT43eITJMgzcnIQLjQf4RNYS9qKBoo5NCItlsIaD9_SphxvtKtYQLga6SOFN-PwMo3g8ctdlsRevKf1SJEy9Vs5GS5mSq9EUL5BW3FPO56MxptE899QfE-_4XSm4BTmc0R48PI0hQ1hltULe_QZmHTKkbvcLnjLYxFUvZwwqm8QIXNGu7xAAfLTAA-1fluiNurrw1vj27KBTeVX-yRMozxVtxyWLBui87VYierNnCVn3oXxaRjledcW268E-iBbFX8OThOHLD-6gmDFwNQiq4CTAfbDGIP7zotEsVhJPiIQZBYwMfrQ.jpg"
+        "https://cdn5.telesco.pe/file/v3StjTFp8SLQqgT6cvsMk_pbkyDgEhwhrS-3K3_upEHMEb3_ofKIrA_ktYusdpk_gvpINYkR7_myMGtkccpQN4IdLnN0Kdmq2zdipj4mtGfbhMpHpKHxWuSW_qe7LI6Ds3z96mjz5l074qJB_3vGjqt1Pdghz_PuiNvJOzSm99clk-XPNCt0LNi89_5t5aZzlBzjgbPhh5cIIJX5XmeUXsJVUIQ3_gFqU5jyVbhVv5szjsBCKcWhV9WaBtJCIcF0UUgu4XdeCDZzst_9V4bfGQzSykZ_fGfu8yAeHIdSW8iWkdfW7qQs5UcCGGOUXeAhjUbn--aD8VVqNo4OLpz0Hw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-09-25T14:09:14+00:00"
@@ -603,7 +619,7 @@
       "url": "https://t.me/bornlupin/20297",
       "text": "메타 Muse 출시 이후 전 세계 일일 활성 사용자 수(DAU)",
       "images": [
-        "https://cdn5.telesco.pe/file/NINuxgWU1iko6pYDhJvJrhHsqOVSTmH9B58Zl88XK3UIFyfk_bfwWge6Y0gMIWSbq17R4oCs31LUYIvaHF3aEvU87twpcZybh_0hNDeASPqhfQRD63x8W0sYF5eAOgIRfjf3pEReIKrkYg3_tFYg1YzDyhPcJ_Dzob3yRszZzRNhg_dvqWT0guVg6_lWdCJ7QSRAFSM2vkGrs1T1PZii6Aa69dQXATjR0BSV4PvjmmSMS2w__z1iQTAdAVQHkeBH4LTibzQZhRA0N3q0CVvqcc_--jZ42nyI0EdQwwrDoDUCCmEqEmHpME7enw1CHgyM5fcDD8KDzgraXS4JiZXmXg.jpg"
+        "https://cdn5.telesco.pe/file/GKXA7maqQ7FC7DrNgaVy_3zk6aXQ2NTXSbxjPsBSaQjTBJOv7Jkeyb_WpHUaXYFu94xc5elEIfx3psJ0AcRZm7Z4hkhQAfzUJagilBIAEPgt6Fq-c52USQVcb0k8OU4QGATxBQ75GGE5-vacFQE0MijyqbFBGrBMdVM9fywFuWuuO9VZuguZL9qetlc0SxlIytSlOze_gzUrpM9-uc-sxoT3E4pAGBCJ7T306IxtN15-0_2o5od7wPwiY3sbVO9BsNW0yTqOJpgidvRRqMw1DmyRYabr0asEb2euSGfLGK8dyF-yElYo6pMzhA9RFbWlbrK0DCRpS3adqLBLHsxkYg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-09-24T10:30:46+00:00"
@@ -939,20 +955,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-09-09T20:53:35+00:00"
-    },
-    {
-      "id": "rss:semianalysis:tpu-inferencex-full-steam",
-      "source": "rss",
-      "author": "semianalysis",
-      "author_name": "SemiAnalysis",
-      "author_url": "https://semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/tpu-inferencex-full-steam",
-      "text": "TPU Inference Externalization Full Steam Ahead - InferenceX\n\nInferenceX, Up to 50% Better Performance per Dollar, Rapid Externalization of TPU stack, Growing Customer Base, Ironwood, TPUv8i, Reducing CUDA Moat",
-      "images": [
-        "https://substack-post-media.s3.amazonaws.com/public/images/4e9ae33e-1cec-4f87-91a1-8e18e5cc5fd9_1672x941.png"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-09-07T20:00:18+00:00"
     },
     {
       "id": "x:ylecun:2090600582805430353",
