@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-03T07:40:33+00:00",
+  "updated_at": "2026-10-03T13:05:27+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 4
+    "new_this_run": 6
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,83 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/25624",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25624",
+      "text": "Citi) HDD 공급은 계속 제약될 전망, 주가 조정을 매수 기회로 활용\n씨티의 견해\n오늘 앞서 보도된 토시바(Toshiba)의 생산능력 확대 계획 관련 뉴스(TrendForce, 2026/10/2)에 대한 후속 코멘트로서, 저희는 현재 HDD 업계가 제약 없는 수요 대비 출하량이 크게 부족한 상태이며, 저희의 점검에 따르면 향후 수년간 공급 부족 규모가 300+ TB 이상으로 확대될 것으로 예상된다는 점에 주목합니다. 설령 토시바가 기존 생산능력을 두 배로 늘리는 데 성공하더라도, 저희는 업계가 여전히 공급 부족 상태에 머물 것으로 예상합니다. 해당 뉴스로 인한 오늘의 주가 조정 국면에서도 저희는 STX와 WDC에 대한 매수 의견을 유지합니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-03T12:54:52+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25623",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25623",
+      "text": "인공지능\n씨티의 Inference Ahead - 대규모 지능을 위한 기반(레일) 구축\n씨티의 견해\n제미나이 4 아르곤(Gemini 4 Argon, 9/30)은 AA에서 53점을 기록하며 페이블 5.1(Fable 5.1) 및 GPT-6 아스트라(GPT-6 Astra)와 같은 수준에 도달했습니다. 이 모델의 설계는 점점 더 커지는 소프트웨어 프로젝트 전반에서 다단계 작업을 수행하는 에이전트를 위한 모델을 구축하는 프론티어 추세를 확장한 것입니다. 또한 광범위한 출시가 지연된 것은, 수익화 이전에 공급자들이 안전장치를 강화하고 효율성을 개선할 시간을 더 확보할 수 있도록 하는 단계적 출시로의 업계 전반의 전환을 따르는 것입니다. 상위 10개 공급자 가운데 이전 모델 대비 지능을 향상시키면서 작업 비용을 낮춘 모델은 독점(proprietary) 모델뿐이었으며, 이는 독점 모델 공급자들 사이에서 가격 대비 성능에 대한 관심이 다시 높아지고 있음을 보여줍니다(그림 13). 공급자들의 다음 단계이자 다음 주 World Summit AI에서 주요 초점이 될 가능성이 높은 것은(그림 3) 더 긴 추론을 완료된 워크플로당 더 낮은 비용으로 전환하는 것입니다.\n소비자. 상시 작동(always-on) 어시스턴트는 소비자 시장에서 보다 자율적인 AI를 빠르게 배포하는 수단이 되고 있습니다. 메타의 뮤즈(Muse)는 출시 22일 만에 미국 내 다운로드 500만 건을 달성했으며(TechCrunch, 9/21), 이는 ChatGPT의 초기 모바일 채택 곡선을 웃도는 속도였습니다. 채택이 가속화되고 있다는 점은 AI 제품이 세대를 거듭할수록 소비자 채널을 통해 더 빠르게 확산되고 있음을 시사합니다. 저희가 데카곤 다이얼로그스(Decagon Dialogues)에 참석했을 때, 기조연설에서는 델타(Delta)와 버라이즌(Verizon) 같은 고객사들이 탐색, 구매, 온보딩, 지원, 성장 전반에 걸친 AI 컨시어지에 강한 관심을 보이고 있다는 점이 공개되었습니다. 다만 기업들이 에이전트에게 어느 정도의 자율성을 부여할지 검토하고 있어 거버넌스는 여전히 주요 장애물로 남아 있습니다. 그 결과, 배포 일정이 근본적인 수요에 뒤처지더라도 기업용 에이전틱 시스템에는 상당한 장기적 기회가 존재합니다.\n보안. 강화된 안전 및 증류 방지(anti-distillation) 조치(OpenAI, 9/30)는 사전학습 주기 사이의 과정을 계속 길어지게 할 수 있으며, 이로 인해 독점 모델 공급자들이 현재 오픈 모델 대비 보유한 12포인트의 지능 우위를 유지하기가 더 어려워질 수 있습니다(그림 8). 엔비디아의 런타임 및 DPU 제어 기능(9/28)은 기업들이 점점 더 모델 외부에서 신원, 권한, 격리, 감사를 시행하게 될 것임을 시사합니다. 구글의 페어윈드 프로그램(Fairwind Program)은 프론티어 연구소들이 제한적 접근 모델을 검증된 방어자들과 짝지어 운영하는 방식을 보여주며, 이는 통제된 접근을 경쟁 우위로 만들 가능성이 있습니다.\n활용률. H100과 B200의 임대 가격은 전주 대비 각각 2.2%, 2.8% 상승한 반면 B300은 6.5% 하락하여, B200 대비 B300의 프리미엄이 56% 축소되었습니다(그림 20). 이러한 전주 대비 수렴은 활용률 측면에서 긍정적입니다. H100과 B200의 견조한 가격은 설치된 용량에 대한 수요가 지속되고 있음을 시사하며, B300 프리미엄 하락은 배포가 따라잡음에 따라 차세대 제품 채택을 가속화할 것입니다. 한편 컨텍스트 언어 모델(Context Language Models, 그림 2)은 모델이 자체 컨텍스트를 능동적으로 관리하고 업데이트할 수 있게 함으로써 아키텍처 발전이 소프트웨어 효율성을 어떻게 개선할 수 있는지 보여주며, FLOPs를 59% 줄이면서도 12시간 에이전트 점수를 5% 높였습니다. 또한 메타의 Suffix Cache Reuse(접미사 캐시 재사용)는 성능에 영향을 주지 않으면서 서버 측 연산을 35% 절감하여, 새로운 에이전틱 워크로드를 실현 가능하게 하는 데 기여하고 있습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/rNpzI2YsmlZdMdTwUgNYGxcYANKYCeF-uWrVfyIrdtKFnrjE3R5Q1eoMEa1VvhtffyIsHtU6KArCJkbcziiaKl-dcpZdsGepYkNHqG2BxQ7uqkvI9yMko9hfsDXWMrLI9p3GwAgc1WvWdGe-Ik1Dn6fIgQ8M21Cyr56JhYTdBSBQZJOHAetnQX_0EE5aFB2hage6gDPjm0pGgUrshTzq3P8Yahog7eKBcSTkv1Rarhdz7fUHLhd7tt3ekHgnzi_Yd-3B9Bo4zBj5lfUW77Q_CDkF15qcArDsH7QR4YWo-G-0tcRCGmw0H0Ka5JhIIOmk6u0rz9JK4BBJ1WHK5l3CSw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-03T12:54:06+00:00"
+    },
+    {
+      "id": "tg:HI_GS/7168",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/7168",
+      "text": "✈️\nFA-50GF weszły do dyżuru bojowego. „Nowi obrońcy” wschodniej granicy\n✈️\nFA-50GF 전투 임무 투입, 동부 국경의 '새로운 수호자'\n출처:\nKresy.pl\n링크:\nhttps://kresy.pl/wydarzenia/fa-50gf-weszly-do-dyzuru-bojowego-nowi-obroncy-wschodniej-granicy/\n• 폴란드 공군 경전투기 FA-50GF 기종의 전투 초계 임무(dyżur bojowy) 공식 개시 발표\n• 브와디스와프 코시니아크-카미시 폴란드 국방장관, 무장 없이 도입되었던 기체에 필요한 무장을 확보해 국가 방위 임무 투입이 가능해졌다고 설명\n• 민스크 마조비에츠키 기지에 배치된 FA-50GF 12대는 우크라이나로 이전된 MiG-29의 공백을 대체\n• 폴란드는 KAI와 총 48대의 FA-50 도입 계약을 체결했으며 2023년 인도된 12대의 초기형(GF)에 이어 개량형 FA-50PL 36대를 2025~2028년 순차 인수 예정\n• F-16 및 F-35 대비 제한적 성능이나 조종사 훈련 및 국경 방공 임무를 동시 수행하며 동부 전선 억제력 강화 전망\n───────\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n🎴\n머찌다",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-03T12:20:15+00:00"
+    },
+    {
+      "id": "tg:HI_GS/7167",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/7167",
+      "text": "[K조선, 美 전투함 수주 길 열렸다…실질적 성과 내기 위한 조건은]\n• 미국이 수상전투함 해외건조를 검토하면서 한국 조선업에 기회가 생김\n• 초기 물량 본국 건조와 후속함 미국 건조 계획을 하나의 제안으로 연계해야 함\n• 현지 투자, 인력 훈련, 보안 및 품질 요건을 사전 검증하고 비용을 산정해야 함\n❗️\n미국 수상전투함 수주를 위해 초기 건조와 미국 현지 투자·고용을 묶은 구체적 실행 방안 마련 필요\n출처: [중앙일보]\nURL:\nhttps://v.daum.net/v/W1L6a1LxyO\n─────────────────────\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-03T11:29:40+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25622",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25622",
+      "text": "JP모건 크로스에셋 전략; 맙소사! 금리 인상의 고통: 반도체는 날고, 경기민감주는 덜컹\n[매크로 및 연준 전망]\n9월 미국 비농업 고용은 +2.9만 명(민간 +4.6만 명)에 그쳤고, 실업률은 4.14%에서 4.18%로 소폭 상승했습니다. 예상보다 약한 고용 지표로 10월 인상 위험이 줄어들었으며, 시장의 10월 긴축 프라이싱은 주초 약 17bp에서 약 4bp로 낮아졌습니다. JP모건은 9월에 시작된 금리 인상 사이클이 점진적으로 진행되어 12월에 두 번째이자 마지막 25bp 인상이 있을 것으로 전망합니다. 다만 성장이 강하고 인플레이션이 견조할 경우 2027년 세 번째 인상 위험이 있으며, 실제로 점도표상 FOMC 위원 18명 중 8명이 2027년 추가 인상을 예상하고 있습니다. JP모건은 연준의 인내심을 크로스에셋 낙관론의 핵심 전제로 보고 있으며, 더 빠르고 공격적인 인상 사이클이 전개될 경우 매크로 및 금융시장 우려가 커질 것이라고 판단합니다.\n이번 주 쿡, 바, 윌리엄스, 제퍼슨, 로건 등 FOMC 위원 5명은 AI 투자 확대가 단기 인플레이션 압력을 높이고 있다는 점을 공통적으로 언급했습니다(로건 제외). 통화정책 측면에서 바 이사와 로건 총재는 추가 인상 필요성을 명시적으로 밝혔고, 특히 로건 총재는 50bp 이상의 추가 인상이 필요하다고 언급했습니다. 반면 윌리엄스 총재는 서두를 필요가 없으며 연내 한 차례 추가 인상이 적절할 수 있다고 밝혀 JP모건의 기본 시나리오와 부합했습니다. 8월 근원 PCE는 전년 대비 3.0%(전월 대비 +0.25%)로 JP모건 예상치 3.3%를 하회했습니다. 3개월 연율 속도는 2%로 둔화되었으나, 전년 대비 상승률이 7개월 연속 3% 이상을 유지하고 있어 FOMC의 매파적 기조는 유지될 것으로 판단합니다. 한편 브렌트유 적정가치는 배럴당 90달러로 추정되며, 현재 약 100달러 수준과의 차이는 추가 공급 차질 위험을 반영한 리스크 프리미엄으로 해석됩니다.\n[미국 채권시장]\n주초에는 미국 단기자금시장 커브에서 고금리 장기화 내러티브가 강화되며 중기 구간(2~5년, 2Yx2Y)이 약세를 보였으나, 수요일 이후 되돌림이 나타났습니다. 같은 기간 유로 금리는 주 내내 하락하며 미국 대비 강세를 보였습니다. JP모건은 미국 중기 구간(약 5년)의 부진이 인상 사이클의 지속 가능성에 베팅했던 포지션의 청산과 고평가 수준에서의 평균 회귀를 반영하며, 상당 부분 기술적 손절매에 따른 것이라고 분석합니다. 현재 선도 커브에는 JP모건의 기본 시나리오(총 2회 인상)와 리스크 시나리오(총 3회 인상)를 모두 웃도는 긴축이 반영되어 있습니다. JP모건은 두 가지 경로 모두 결국 중기 금리 하락으로 이어질 것으로 봅니다. 인플레이션이 목표치로 수렴하면 선반영된 긴축이 되돌려질 것이고, 반대로 인플레이션 억제가 어려워지면 연준의 추가 인상과 성장 하방 위험이 커지면서 시장 관점이 \"추가 인상\"에서 \"조기 인하\"로 전환될 것이라는 판단입니다. 따라서 포지션 정리가 마무리된 이후 중기 구간(5년 또는 2Yx2Y) 금리 하락에 무게를 두고 있습니다.\n전략 측면에서는 미국 10s/20s/30s 벨리 약세 버터플라이를 유지하고, 독일 국채 대비 미국 국채 언더퍼폼 전망에 따라 Dec26 분트 콜 매수와 Dec26 미국채 콜 매도를 제시했습니다. SOFR는 현재 3.87%에서 2026년 12월부터 2027년 9월까지 4.15%를, 미국 10년물 금리는 현재 5.25%에서 2026년 12월 5.05%, 2027년 9월 5.00%를 전망합니다. 크레딧에서는 미국 하이그레이드 스프레드가 96bp에서 연말 95bp로, 하이일드 스프레드가 353bp에서 315bp로 축소될 것으로 예상합니다. 하이그레이드 내에서는 은행(미국 및 양키본드), 금융회사, 헬스케어를 비중확대하고 자동차, 소비재, 미디어, 리테일을 비중축소합니다. 연초 대비 수익률은 미국 국채 -2%, 미국 하이그레이드 크레딧 -3%, 하이일드 0% 수준입니다.\n[미국 주식시장]\nJP모건은 견조한 실적에 기반한 매크로 펀더멘털을 근거로 위험자산에 대한 긍정적 시각을 유지하며, 주식 선호도는 기술/AI 섹터에 크게 집중되어 있습니다. 2025년 초 이후 글로벌 경기민감주는 51% 상승하여 방어주(23%)와 내수 경기민감주(5%)를 크게 앞섰습니다. 이 아웃퍼폼은 글로벌 경기민감 바스켓의 약 75%를 차지하는 IT 섹터가 주도했으며, 커뮤니케이션 서비스(방어주 바스켓의 약 39%)도 AI 노출을 통해 방어주 성과를 뒷받침했습니다. 2026년 8월 이후에도 성장 전망 개선 폭은 크지 않았지만 글로벌 경기민감주는 +5.9%를 기록한 반면, 내수 경기민감주는 -7.7%, 방어주는 -0.4%에 그쳤습니다. 회귀분석 결과 성장 전망 수정에 대한 베타는 글로벌 경기민감주 13.8, 방어주 9.0, 내수 경기민감주 4.0으로 나타났습니다. 시장을 기술/AI와 나머지 섹터로 구분한 분석에서도 2025년 1월 이후 기술/AI 지수는 약 53% 상승하여 나머지 섹터(15%)를 38%p 앞섰고, 베타 역시 14.5 대 6.5로 두 배 이상 높았습니다. 내수 경기민감주의 부진은 에너지 비용 상승에 따른 소비자 압박을 반영한 것으로 해석됩니다.\n이에 따라 JP모건은 미국 주식 내 기술/AI 선호를 유지하며, 단기 전술적으로는 AI 설비투자 주도 국면에 맞춰 소프트웨어보다 반도체 및 하드웨어를 선호합니다. 핵심 리스크는 실적 성장과 AI 설비투자의 지속성이며, 다가오는 10월 실적 시즌이 현재 주도주의 지속 가능성을 판단하는 중요한 촉매가 될 것으로 봅니다. K자형 구도는 여전히 핵심 프레임워크로, 펀더멘털이 뒷받침되는 AI 및 퀄리티 성장주와 달리 내수 경기민감주는 단기 반등은 가능하지만 인상 사이클 중에는 지속되기 어렵다고 판단합니다. 리테일 자금은 매그7에 집중되어 있으며, 러셀2000에 대한 리테일 매도는 가속화되고 공매도 잔고는 극단적 수준에 도달했습니다. 퀄리티 성장주의 크라우딩은 77퍼센타일로 2025년 10월 고점보다 낮아 추가 확장 여지가 있다고 평가합니다.\n한 달여 앞으로 다가온 중간선거는 시장 국면 전환보다 섹터 간 차별화를 통해 영향을 미칠 것으로 예상됩니다. 과거 사례를 보면 레드월보다 그리드락(JPRGL26M)과 블루웨이브(JPRBW26M) 시나리오가 대체로 유리했으며, 결과와 무관한 수혜주(JPRAG26M)와 정부지출 노출 기업(JPRGSPEN)도 추천했습니다. 연방 차원의 포괄적 AI 법안은 단기적으로 가능성이 낮고, 실질적 제약은 인허가, 세제, 인프라 등 주 정부 차원에서 발생하고 있다고 분석합니다. S&P500은 현재 7,738에서 연말 8,000을 전망합니다. 미국 섹터 의견은 기술(연초 대비 +30.0%), 커뮤니케이션 서비스, 유틸리티 비중확대, 에너지, 소재, 부동산 비중축소이며, 미국 시장 전체는 비중확대(연초 대비 +12.9%)입니다.\n[한국 시장]\n리포트는 MSCI 한국(달러 기준)의 연초 대비 수익률이 99%로 원자재 수익률(33%)의 약 3배에 달한다고 밝혔으며, 이는 비교 대상 자산군 중 가장 높은 수치입니다. JP모건은 코스피가 현재 7,004에서 연말 9,000에 도달할 것으로 전망합니다. 국가 배분에서는 미국 제외 선진국 대비 신흥국 비중확대를 유지하며, 신흥국 기술 섹터는 연초 대비 +86.6%로 비중확대 의견입니다. 한국 경제성장률 전망은 2026년 4.0%, 2027년 3.5%로 모두 상향 조정되었으며, 3분기 성장률(전기 대비 연율)도 5.5%로 상향되었습니다. 소비자물가는 2026년 4분기 3.5%, 2027년 4분기 1.5%로 전망됩니다. 원/달러 환율은 현재 1,347원에서 연말 1,360원, 2027년 3월 1,320원, 2027년 6월과 9월 1,310원으로 전망합니다. 이번 리포트에는 한국 채권시장에 대한 별도의 의견은 포함되어 있지 않습니다.\n[일본 시장]\n일본 주식은 중립 의견이며, TOPIX는 연초 대비 23% 상승했습니다. JP모건은 TOPIX가 현재 4,091에서 연말 4,600에 도달할 것으로 전망합니다. 일본 섹터별로는 기술(연초 대비 +60.6%), 금융(+42.9%), 산업재(+20.2%), 커뮤니케이션 서비스(+16.1%)를 비중확대하고, 필수소비재, 헬스케어, 유틸리티를 비중축소합니다. 채권시장에서는 일본 국채 2s/10s 커브 스티프너 유지를 권고했으며, 연초 대비 일본 국채 수익률은 -5%로 주요 국채 중 프랑스 OAT와 함께 가장 부진합니다. 일본은행 정책금리(콜레이트)는 현재 1.25%에서 연말 1.50%, 2027년 6월 1.75%, 2027년 9월 2.00%로 인상될 것으로 전망하며, 10년물 금리는 현재 3.09%에서 연말 3.05%를 거쳐 2027년 9월 3.20%로 예상합니다. 외환에서는 달러/엔 콜 매도로 재원을 마련한 유로/달러 풋 스프레드 매수 전략을 제시했으며, 이는 달러/엔 상단을 제한하는 구조입니다. 달러/엔 환율은 현재 158엔에서 연말 이후 164엔 수준을 전망합니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-03T10:56:57+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25620",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25620",
+      "text": "JP모건) 미국: 서두르지 말고 천천히\n9월 고용보고서는 예상보다 다소 약했지만 크게 우려할 수준은 아니었습니다. 비농업 고용은 2만 9천 명 증가에 그쳤고 직전 두 달 수치도 합산 6만 명 하향 수정되면서 3개월 평균 증가폭은 5만 1천 명을 기록했는데, 이는 노동공급 추세 증가율, 즉 손익분기 고용 증가 수준에 가까운 수치입니다. 실업률은 4.1%에서 4.2%로 올랐으나 세부 수치로는 3bp 상승에 불과했으며, 경제활동참가율이 0.2%p 오른 61.8%를 기록하며 신규 및 재진입 실업자가 늘어난 영향이 컸습니다. 평균 주당 근로시간은 34.4시간으로 8월의 상승분을 유지해 노동수요 측면에서 긍정적인 신호를 보냈고, 평균 시간당 임금은 전월 대비 0.1%, 전년 대비 3.0% 오르며 둔화 흐름을 이어갔습니다. 이번 주 제퍼슨 연준 부의장과 윌리엄스 뉴욕 연은 총재가 10월 말 회의에서의 금리 인상에 소극적인 입장을 내비친 만큼, 10월 회의가 인상 가능성이 열린 회의가 되려면 매우 강한 CPI가 필요할 것으로 보입니다. 다만 9월과 10월 물가 지표에서 근원 인플레이션의 끈적한 흐름이 확인된다는 전제하에, 12월 FOMC에서의 추가 인상 전망은 유지합니다.\n사업체 조사 세부 내용을 보면 정부 고용은 연방, 주, 지방 정부에서 소폭씩 줄며 1만 7천 명 감소했고, 민간 고용은 4만 6천 명 증가해 3개월 평균 5만 4천 명을 기록했습니다. 업종별로 특이한 이상치는 없었으며, 헬스케어 고용이 2만 3천 명 늘어 민간 고용 증가의 절반을 차지했지만 최근 12개월 증가폭이 52만 명으로 2024년 초까지의 절반에도 못 미칠 만큼 추세는 뚜렷하게 둔화되고 있습니다. 업종별 고용 확산지수는 8포인트 넘게 급락한 49.0%를 기록했는데, 역사적으로 50 미만은 경기침체기 외에는 드물지만 추세적인 고용 증가 둔화 자체가 확산지수의 평균 수준을 낮추는 측면도 있습니다. 시간당 임금의 0.13% 증가는 달력 구성 요인으로 다소 낮게 나왔을 가능성이 있으나, 2분기와 3분기 모두 연율 2.6%에 그쳐 임금 둔화 추세는 분명하며, 생산직 및 비관리직 근로자의 임금은 전월 대비 0.2%, 전년 대비 3.3% 오르며 상대적으로 나은 모습을 보였습니다.\n가계 조사에서는 대체로 고무적인 내용이 많았습니다. 경제활동참가율은 작년 말부터 올여름까지의 하락분 중 3분의 1 이상을 회복했고, 특히 핵심 연령층(25~54세) 참가율이 0.3%p 뛴 83.7%로 고점에 0.3%p 차이까지 근접했습니다. 변동성이 큰 가계 조사 기준 고용은 40만 6천 명 증가했으며, 사업체 조사 개념으로 조정한 수치는 10만 7천 명이었습니다. 실업자는 7만 8천 명 늘었으나 이는 전적으로 신규 및 재진입자 증가에 따른 것이며, 비자발적 실직자와 자발적 이직자는 모두 감소했고 비자발적 실직자 수는 연초부터 하락 추세를 보이고 있습니다. 대졸자 실업률은 0.2%p 하락한 2.5%로 연초 고점 대비 0.5%p 낮아져 AI로 인한 일자리 감소 우려를 다소 완화할 수 있을 것으로 보입니다. U-6 실업률은 한계 구직자의 큰 폭 감소에 힘입어 7.6%로 0.1%p 내리며 2025년 초 이후 최저치를 기록했고, 실업 기간 중앙값은 11.5주로 소폭 늘었는데 이는 해고도 채용도 적은 노동시장 환경을 반영한 결과입니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/uhpEYsAOlS-MUqKY7g0XznzFjBJDS6XuH-FL4KydCWIeoxEL05D9HdIhGGvj52LtY1sGYxpF7D0JsR127pFPInvPCTfAxze6Eq1hwKcFFhK4jGLg1mOdouFvBMICUvqtYQiaFN8RDkKMnXKZjTTZbYlQxFvUQyGWESIOYaIPSQMN6WC4Q6_2sKBuvI2_AAzz8tRzU6sanOYT5lQRIYDG7BF8OuS0WHCGzFkeHIblA1rPJWNBKuO_grOrJNuXcI3w0UISA8FFyOM66dYFyejONoPZsKejbVfNpMcdIpaqOvDPkcmggQoWok-UkQR0Z-sUxgWrMe1UhPAi71vtR_qisQ.jpg",
+        "https://cdn5.telesco.pe/file/hEjcVcL6PFYqTerpjb4bRLkzd5Ze5vfk74oaUpVB3udSpFViapeil9vCWJ42mxQz0-tjvWgfus0XUVbjkBGLjIY8-vq82gEsWW9XaTcmaaOikT2U_iQpiKrT4H7Kd7W_Au_0QXKnKrKN9mRKC_fYZiv00czidI3He77I5ULmG5m2O4ZZlWnMj16wb6opQJGr9zQpBa9hOhjjXOU3TKQHF7yUggBb_U_Y66MQNpY6FxKkInp1skMRsYtmy5dMuDnAW9sNJlAEkHQkmPzaUpY4b2nxYnmUq5l1DG54rcKFBBeqhVuSnVfvwl3FlkK6DqqGrNzvPw84asbG2iYNaL_q7g.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-03T08:24:42+00:00"
+    },
     {
       "id": "tg:enc210406/4475",
       "source": "telegram",
@@ -244,7 +321,7 @@
       "url": "https://t.me/globaletfi/21954",
       "text": "🔹\n업종별 9월 고용자 수 증감 및 평가\n» 교육∙헬스케어 서비스: +2.0만명\n» 건설업: +1.1만명\n» 레저∙접객: +1.0만명\n» 제조업: +9천명\n» 운송∙창고업: +8천명\n» 기타 서비스: +6천명\n» 소매업: +6천명\n» 도매업: +5천명\n» 유틸리티: +1천명\n» 광업 및 벌목: -2천명\n» 금융: -7천명\n» 전문∙비즈니스 서비스: -9천명\n» IT: -1.0만명\n» 정부∙공공부문: -1.7만명\n» 9월 비농업 고용자 수는 +2.9만명으로 예상 +8.9만명을 크게 하회. 민간 고용도 +4.6만명으로 예상 +8.5만명에 미달한 가운데, 정부 부문은 -1.7만명으로 감소하며 전체 고용 증가폭 축소\n» 업종별로는 교육∙보건 서비스(+2.0만명), 건설업(+1.1만명), 레저∙접객(+1.0만명), 제조업(+9천명) 등이 증가했지만, 전월과 비교하면 전반적인 고용 창출 강도가 약화. 특히 정부 고용이 8월 +3.5만명에서 9월 -1.7만명으로 전환되며 헤드라인 고용 둔화에 크게 기여\n» 전문∙비즈니스 서비스(-9천명)와 IT(-1.0만명), 금융(-7천명)은 동반 감소. 상대적으로 고임금 사무직·화이트칼라 업종의 고용 부진이 이어지고 있다는 점이 특징",
       "images": [
-        "https://cdn5.telesco.pe/file/mAr2iepTpVqzb3SJJr0iTTFzT8G8L4VXZ8xhLH_izCQ51PzlRd9YeOu05BKMvSZMCpGn1yyPGtx79azXc90oMlmsynlAxORXuE7DmHxCPvCDK08l6AOxByFCpCYmCSA5YS-MKG-YRxZCSeeTl5Vf_ZifbpRVjXiHwteyU-gT2pzUVhTpfyL51YV776TMUGAXnlaG06ZvadBn0ymWCg0eyLCjfNfa0NSIk__4RQk0HudCT4eFaqUh0gPfZJV9nvjtSC1NKvd9YNnF8FWv1NdePKGZdzBipARWNKUxf59sR3_qnzHOZD02hIbEaoA6f4zkpZPEI3qQszuAqSoZ4BgmAw.jpg"
+        "https://cdn5.telesco.pe/file/p_fgMeq0AF4BrXd9BWi9BpWEKbPEaMS-C4CA22O5F-esTM2cYN1RSvTiZSVJ7WR61DcJY1iET3atOeZfIBhFdaOy3724QwSX5jfD6_aS2B3BGwUnGxqx6iCAwIK3JEeBVdWzM0ETV07Aha1wHCn8vmXpnXDRMF5d7K3HhJzDj9_4qhgl7lk6-G_EudgAkitjhcFsYDlYc0YPM743liLe2NVS1wuDvJ2obI1lJBIm7qtUvANIm2l4SSz_7IQyR6PeWKLy0g3G710hcuflTD3IdLwGIWHExFke-qBmAMnXLTvU28JcSQxkn9ijOSPa7leG4-KiSRHUlGP-U5PVcyPCbw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-02T13:19:57+00:00"
@@ -270,7 +347,7 @@
       "url": "https://t.me/globaletfi/21953",
       "text": "» 9월 월간 비농업 고용자 수는 8월의 +13.3만명에서 +2.9만명으로 급감",
       "images": [
-        "https://cdn5.telesco.pe/file/fRakqtoZQdwzrIw685CLGl_MTYy87vsRSD5uJSXGF8znUM4U3vUXN1tKapakGc3jpNlRudTVYv2cq-F9eVLfkHega5_aulr92gsuSpSUmv0HDfpRSz6R6B0ggq6od131SB-MnWd2_WbP7MVIdDubBfmFIbhm__4DBOFFksrlhzKNawqCT9-17Hb6wOjDYNZGFaPXzmzRSi5AhZbslcJ8PnWD_X3uYz7RJw8uNG3TACAGwGXMSJDK-Y06472W6tgqVJFwp5VH86aQOH8jpVegc8YaZ21vxzSQmN4kVisiU-nrfjXC0SUafa57o7vf8aOP9jD4-EcEIIohma8fD8q-Pg.jpg"
+        "https://cdn5.telesco.pe/file/NDzyV1pVNhWBxK3fuhDRLunRdh1TurkjrNe5Mm_gBocR1hL-juRkU8NuGy7IpkLpYQsWfDs-N-A8Zb4geW_xNNgt6AEJ0Y73hO4bIGfZYswBDapt_Yj_uBVWdcKvtxx2P0ed1Te2PiKAdZ8AMir2-w7JzU6OEsnz4CfrJNPTQNVTi1FR-6e8kkjBAIvtLJL1VcoNov42J516VjWINVPf9JGe1fC8ZLK9J3ipcTv-otrdqC3zWBf1D_CTP7b_qsOeB71CprfvEpE72tDrGvYSEd7C3tj3XPdHcVccFTWsyFYgHuB1rHifEyc2O4LQPHysGc5d28iI_dDxFjJmIMV8Tg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-02T13:13:40+00:00"
@@ -284,7 +361,7 @@
       "url": "https://t.me/bornlupin/20442",
       "text": "테슬라(\n$TSLA\n) 2026년 3분기 인도량\n발표\n총 인도량:\n486,532대 (예상치: 463,761대)\n총 생산량:\n464,391대\n모델 3/Y 생산량:\n457,387대 (예상치: 481,279대)\n모델 3/Y 인도량:\n478,237대\n기타 모델 생산량:\n7,004대 (예상치: 5,944대)\n기타 모델 인도량:\n8,295대\n에너지 저장장치 배치량:\n13.7 GWh\n운용리스 회계처리 대상 (인도량 기준):\n모델 3/Y 1%, 기타 모델 4%, 합계 1%",
       "images": [
-        "https://cdn5.telesco.pe/file/Rjay6abyAaMyIB5KVtgkysmiOA1dyVKaIf7JxmQyoFcwnwdKFH4Jy2vnOLBeAaFJSk-igys2c57wtwtd4wfEcx6Uscusf79VOs1wgFltGwG5ODKMtbjx8mYOBWwTSzHOnBVYPpWtelFoBbY8Uentq92xnVliz8ud0FiahTFsQEDiNU36MelpU-wTawUXsGI3bMWSMUOxe9o5QSXGc3qIjmoh1JxRLhgTsMarn57Jf3cfuy5wEMqrnYEPjNZzx6NzPTjeEJEZpxPe26J0dmQMKAkLym-HhS9aMnfFeqq9U7-Ry-m-QCFWwVsvjThCVqCbIOet_74-LZJx7R35mbAUsw.jpg"
+        "https://cdn5.telesco.pe/file/KxvC9TJ9Q5yWUVI4W6c2-Sdwq-o8IulUVwT37LWUJpar9c_3PzmqHxwDilIF2ftOeVy9qMbc1xF2voQhYb2CaqSAAvH7VpxGvZ2f6fz08XXYHF_-FZjGpU1I8rldwYdvs2DzX0PbLjC1aT871p99cFhQeb_sIdqJ-UUZOx-5DFM0sP1rfE5n-xSTEC-VPCYhVUcNHLB-VeUrqRsWuimpVXeQz7fTMp3bPbEGLGYJ9ihpZ3Ypp4vhPyZD8NIKKsLhdVSYCCRzH7pDLDeT4f93L_qyga6d8bU8uyOsadyOBRZs-6wSOQaWATvMyw50raSoteBqHKB-HOBrQVGbdVW2eQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-02T13:08:07+00:00"
@@ -298,7 +375,7 @@
       "url": "https://t.me/globaletfi/21952",
       "text": "» 미국 국채금리 하락. 10년물 금리가 5.20%를 하회 중",
       "images": [
-        "https://cdn5.telesco.pe/file/a9NG6xdEPbAXhuIBIwwhS3n9DPTQJIaOfktVUcTdyrz8p8ylqr0B4z0nkYJMAbE392No8SqhQID1gwSJBsRjXRMZvba-0Ztfxes489i-alh1NieLCFV17ZNr3bzcBOGersB-hofZ-RwBesr1VUTSaGOdfcm8zDmiauB0x94LoIvMRkL95clSHfGtdCYXaHuZB0w9Rl9sKL0eGbgvJJN-7V3QdAGtylg5VlYDPXH3iKZhzs-82Oa15QPwpAzFg6UvXPisjFEdD8DNvWm5e_uF5AN6zKK3_UDBReAJf9HpYby6A5gXLdlxynVVSITfc_tUsnvNNB5c8k70heK89DIaEA.jpg"
+        "https://cdn5.telesco.pe/file/WRHDxU7TB32iOm4wdKxZ-3UoPFLZB3AXJvyuaDdqpPiYj7UFJYa6RvCjMee4qUQiJqLa9WVSPmXV2mrIyJAlQFU52MUa2v91395m3dYcZuxB7GM6-zWa69h6nKKa_V_eRCcJj87Ex5qdfw7VYEmGMi2ZkkzjL_33EPuH6M6HYjCEf9nNWqfkLmeyLrgrBx0s4H-kw4iY82KL0dqCFa-fo6ws96Mhkln0rxHSJEY19Nn3qTPPuOiJ8HMLjoIh7mpEn6tv4ovi-yTGt5vbnlty3nyDb8txysH6iIi3wgRxH2hmzFQr_6XLXLLNkaRa6SPajOYPZPeVnnaEuFTAnRRx8g.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-02T12:57:21+00:00"
@@ -312,7 +389,7 @@
       "url": "https://t.me/bornlupin/20441",
       "text": "도널드 트럼프\n“대한민국과의 협상이 계속해서 더 좋아지고 있다는 소식을 기쁘게 발표합니다!\n향상된 석유 회수(EOR, Enhanced Oil Recovery) 프로젝트에 84억 달러가 투입됩니다.\n더 많은 석유와 가스를 생산한다는 것은 미국의 에너지 지배력(American Energy Dominance)을 강화하고, 미래를 위한 전 세계의 에너지 안보를 확보한다는 의미입니다!",
       "images": [
-        "https://cdn5.telesco.pe/file/Eks3dWKulIizmtYOR2ryzTz2pGEME_cpmPr3vVjvJ_Jzsid-5MpBMHP1FBlvrPNIq1tjaB_2o_JO9XaHpKtyg8CxqBNN4fiG-2aUpGWWUb27OsFCVuylfY8n8_oLGfL9Zw_ORDv6aP6qUA2aLqGvl5CEx9eoI5eOPp5n-yy-IrzW_ZomDyqr4d2mzPQqW2OC-GggCB1mqHmHQBI1EhZp9CH3ZucWEjNag37wLq1gzBv_WMZmza4M_Gxr8RZZrlOYOaMG4kWT1ATPnHIvHYMzazF7x4mlrfqoUP1-7Bdducme0U-7TwGm5d02-kvyP6FhMx4_8FqXBF0GIn34QJz0ww.jpg"
+        "https://cdn5.telesco.pe/file/OPbBJIt5WWDJkp5ZTa-S1IUETkY5Y8z37wUS6i14vJRXjOWO9G88RSQ38N4fntuPSEtJIzGlsmD8SX09Om8C3rgUWWLRDP9TgyT42dW6OqjaR8tofQwARpjhLahzKx1p9X0V0CH4zx1qrp3JlOvGCJ7kMDPTkO9zznz9pAwoM56X-ZClXqnmzPvxxnZfv5KTV4BB1iZDfPmA6S1jnPfWia86ueQFK6YVXF9GvXHT-Zivjqc4hQTsCGJ1i584aarbGMxLJTcwL1VFjOScQM7DRe_OL028WiTb5rlxQ2-DPk36nDT_RhXcp4iyA4GJ8CDBRCyxR9sYpV2dZThNaPk8Pg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-02T12:46:05+00:00"
@@ -326,7 +403,7 @@
       "url": "https://t.me/globaletfi/21951",
       "text": "🔹\n미국 9월 고용보고서 예상 하회: 신규 채용과 임금 상승세 동반 둔화\n» 9월 비농업 고용은 +2.9만명으로 예상 +8.9만명을 크게 하회. 특히 8월 고용도 당초 +16.2만명에서 +13.3만명으로 2.9만명 하향 조정됐으며, 7월과 8월을 합치면 기존 발표보다 6.0만명 하향 조정\n» 실업률은 4.1%에서 4.2%로 상승했지만, 경제활동참가율 역시 61.6%에서 61.8%로 상승. 노동시장으로 유입된 인구가 늘어난 가운데 이들을 충분히 흡수할 만큼 일자리가 증가하지 못하면서 실업률이 상승한 것으로 해석 가능. 따라서 대규모 해고보다는 노동공급 증가 대비 채용 수요가 약해진 모습\n» 임금상승률도 전월 대비 +0.1%, 전년대비 +3.0%로 각각 예상 +0.3%, +3.2%를 하회. 고용 증가 둔화와 임금 압력 완화가 동시에 확인되면서 8월과 달리 냉각 신호가 강화된 고용보고서로 평가",
       "images": [
-        "https://cdn5.telesco.pe/file/gEieIEFRe2G0vLBG6TmKCDXPrVW5IwhblhCSf0JcGhfXYRUs5Weh5Fk1Gp-mOsxDlYkQu0Fgw84zH7iABdCkv-FQfw0xqUEv5f5skgQCGC5uism4bYTiohF4IdLx6xpFcfAQzcnY-wMBb7lVI1mMN5BH_ATfB5TZ29GU30SE9sSUxz5-G6XYC8AyD8-BfufMnxDTBPgfb8HBs9yH_UNg4RIRq17NzDXy9NYNUjKCO0w-jpW5KT8UMd6rncXl4zHJUE1aKiTVLpcQyvgHlexNKziQy5cXmCBPWwKDrXR6Fo_NpoiM-wu3on9uzpfFhmP4QLdh48YBsqRACqgP2PkmCQ.jpg"
+        "https://cdn5.telesco.pe/file/dxBzCV_md_3F7ciuh1-xdUn7Od2jvoLrOQ_RDuIM2F7UVyMUr8ZIwUB2rkTe5DdMb6O7-QixhJSUsRNuhU8zouqpMaBFbec-ptRE7C4m41tAyqjv9KMUpqWNEOspOFt19X1qSYsCu24GOSrwQ96hZkwf9z8rbDXaa9s1sBVRrMv4P9wmx4tAe96jjqxeYUDvVCqKgL9jRiwlHX3SlXUVPwoLNVZ0RU99guzmNqMdxWlQ9_KDvjCW6Vs-LqQnh1yILWpajrmeSwi2T3yPw41CrzvZ2KGcM7wM10IIwfIFyxQclGor1rpiwNQlaYTSBzL_dqTd8yzpUV23SNxT-tq4iQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-02T12:45:01+00:00"
@@ -340,7 +417,7 @@
       "url": "https://t.me/aetherjapanresearch/25616",
       "text": "9월 미국 고용: 예상 하회했습니다",
       "images": [
-        "https://cdn5.telesco.pe/file/NCDxVrg1DtUEEF3HpFDUpK1erpYJ1XVwbFD15bflbJzpzNrE9bJjKIs1hrlVQbyV8ftHTchIJD2B62Ngrqv9bk0LwswYtyhyX7YC9m0os2WxtGMutkylzyYwimKzLxagQVnOU2lbE8xnl6nFxQeWAZW1FcQFyV_7U8rFAxHkqwCX21cE76CPT_5MZeeVCjw6lltjgGoU4FpyBumhc_94VzV4EyZutMlRvMOIDy6wHUthtKIHdkvLDHWBTxOG1dB88qTLX4KvySEUjnYn_j2pxK0h25wb7hL-DTm6V5I7BvvnIq_NTf-1eOxRHNi3MTRFa5pyTxuthVPFceou5QRfjg.jpg"
+        "https://cdn5.telesco.pe/file/IOvaiQWBXDCfFMemKooTcptvpvUD-rA-SQCdjH705N1_ij063d-z6BRxZalZ_lc_eVzrvUvgWPuekoemfQWSet0U1LhHxX3i3Aj_gzqZARHJoKS2YVTUtLeJivc0TFIbYtWDj0GqThrnl5um5Bl_sM23uWEDrG7I6YHuz2Szc5QA1_8LUA6y7wmqvdUq4juHyc6dBkM9ecZ0R8ZxfgPiUFQvAQ02JBbx5aIkluArlx6z78l2iJqCZD-vVQa6Iz6nw03Ex0hZqNjOfPAEiBuLeXbv_sphdsS_aVS6kY5hzhLTQ--6mU6Gq0FK_5W0rBP5q2v7kgQK-IDXi634lj6H4Q.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-02T12:42:05+00:00"
@@ -366,7 +443,7 @@
       "url": "https://t.me/bornlupin/20439",
       "text": "9월 미국 고용 보고서\n비농업 취업자 수:\n+2만 9천 명 (예상치: +9만 명)\n실업률:\n4.2% (예상치: 4.1%)\n시간당 평균 임금(전년 대비):\n3.0% (예상치: 3.1%)\n경제활동참가율:\n61.8% (예상치: 61.6%)\n민간 취업자 수:\n+4만 6천 명 (예상치: +8만 1천 명)\n주당 평균 근로시간:\n34.4시간 (예상치: 34.3시간)\n정부 취업자 수:\n-1만 7천 명 (이전치: +4만 4천 명)",
       "images": [
-        "https://cdn5.telesco.pe/file/hUTXkFidVLHsQlGLSbabTbkoAYdv5cNAZBuyTedSVXKk1bbqVS57E9-faeWqENugi0fSBuqxbGXsnfi46PxQcg79AY32NQstFs8GLGwZuccIGWe8HLizrSc01D14cMK5G5flx2ivULRWvrnUqbxkdr-V-Y2mb2BPZJswoAznRD0NWHccWtxq-8HasETKRX3RiiiAtqY0DRBC_RUg4ORp79BNHMGCwW3WhHcQW9mz5TxTe6l5rEsXiCNt0z8uzggLwj9IsQzrA8Et0Hq3QA9Ka_QGPZ5oUDTn4d5a4y67O3tq60do93gy5vGZko97rLBWeNArCXu4QwbgkqgjpaHqJA.jpg"
+        "https://cdn5.telesco.pe/file/OAVzE8yMgSfCtsPcuY4awmj5K4WchlR-eqXrsoObQKzaDkjOj7mz6YTcCzwfW2sxWgvh-sccx58yZS0czSB8qF1vJRO6v6bHIYPKRZbqqFy-nToy1mva8AlyMo9J2aBZYRNclQ9e4UOzSU40Oj3UpQ90qyJqT47iUFoJcbNKAu1CIwN1f8oLYX8ZdBQs8N96NiywpxKJyiqZG6o14xwqV24isjmGo3xZP6Vmnm5agg9bvcx23RFn6VKv4pTiVgc3W-kX0hLez0XjCWxEa4qbr6iAhC6ise3ezC1T0rd27JpLcXmJF3okdGTbxAMSJN9SfC1rs5FXSd6irQUX09r--w.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-02T12:33:21+00:00"
@@ -416,38 +493,10 @@
       "url": "https://t.me/aetherjapanresearch/25612",
       "text": "아마존, 80억 달러 규모 엔비디아 GPU 외부 투자자에 매각 후 재임차 추진\n: 아마존은 약 80억 달러 규모의 Nvidia Grace Blackwell GPU를 SPV로 이전한 뒤 다시 임차하는 거래를 투자자들과 논의 중\n: 대상은 미국 5개 주, 12개 이상의 데이터센터에 배치된 수천 개의 GPU로, 아마존은 GPU 사용을 유지하면서 자산 소유권을 외부로 이전하는 구조\n: SPV는 외부 투자자를 대상으로 부채를 발행해 GPU 인수자금을 조달하고, 최대 10%의 지분도 외부 투자자에게 제공할 계획\n: 아마존은 SPV 지분을 보유하지 않으며, 아마존의 AA급 신용도를 기반으로 SPV도 투자등급을 확보해 보험사·연기금 등 장기 기관자금을 유치할 수 있을 것으로 기대\n: 배경은 급증하는 AI 투자 부담. 아마존의 올해 예상 Capex는 2,200억 달러로 대부분 AWS의 첨단 GPU와 AI 데이터센터에 투입\n: 3월 회사채 조달 계획을 370억 달러에서 500억 달러로 확대했지만, 7월 250억 달러 회사채 발행에서는 장기물 수요가 약해지며 더 높은 금리를 지급\n: 빅테크는 대규모 AI Capex를 감당하면서 신용도를 유지하기 위해 SPV, 잔존 가치 보장 등 대체 금융구조를 확대하는 중\n: GPU 금융은 CoreWeave 등 네오클라우드에서 이미 활용되고 있으며, 엔비디아도 지난 8월 월가와 구축한 5,000억 달러 금융 플랫폼을 통해 최대 1,250억 달러의 GPU 담보부 부채를 지원하기로 제안\n: Grace Blackwell은 차세대 Vera Rubin 출시를 앞두고 있지만, 아마존은 각 반도체 세대를 최소 5년간 사용할 것으로 예상\n: 최신 GPU는 모델 훈련에 투입하고 이전 세대는 추론 등 애플리케이션 운영에 계속 활용할 수 있어, GPU를 장기간 현금흐름을 창출하는 금융자산으로 취급하려는 흐름과도 연결\nhttps://t.me/Samsung_Global_AI_SW",
       "images": [
-        "https://cdn5.telesco.pe/file/HU4_MRYxnYsz0TLFuoiG27wgtp2ZbucB8OLRwnzUoMo9uXchlunUnl9tXc3-3uiPOiZzxLLpujV6w-1d2-Fxo8XMzPR2HTEl45u4ceZdpqgGIDS8b6Xnk4fC2qIdBTnO5hVhwyFcR5EKfBePaYSeopytDvK58llmx5BrmABjQEPRsFXbE2cdyVufZFWynnzu2PJMuaCMD2QLbZAPcyqrl9O-hhOhXjlqj8mWq_iEL2tzLhTTPS3xNeiPE9YYrNq-vDl4eWXciQvAuNZMFC01TcWaZ6ci9xGKKs-RqyWn6nRwuXcZKb5Ka_Fry6K86W8DmfOVXA5GuLVooeQD1mb3Lg.jpg"
+        "https://cdn5.telesco.pe/file/GRItolU9wxF6KUPz-AEa1ibGuvIhajTyz7qeMNV0noSxpxO09EFo-W4PrUAlBARuIAH5A4OJLr5wogn0JHAyyfKo7Ln3XOs7uY-hFTLZNxsFsQKbBTNTgA2HcDZ-o_uNtotHy8KK78kzlTaivQicMJm7rzWADqJzJknoiZxhPPcsn-OATYTeMto--q7jfFk4sqDfXjMHK6yyEvL6IB2E1W0heQYDULQD6c37wVIp_3jLR-pR89-sGYBrHLFI7x-1XDD-EzMPMrqaQtCI16XiULo9PSK_Fp3DcXmnJt3qaYS4zfv9ZAsbDaScM0jtiC1i3JRj_LmocGA4YTaL7U6R6A.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-02T08:36:15+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25611",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25611",
-      "text": "컴퓨트 다이(compute die)의\n실리콘 면적(real estate)은 매우 비싸고 귀중\n합니다. 그런데 놀랍게도 그중 상당한 부분이 단순히\n메모리와 통신하기 위한 인터페이스\n에 사용되고 있습니다. 당사 추정에 따르면 NVIDIA Rubin 컴퓨트 다이에서 HBM4 컨트롤러와 PHY가 차지하는 면적은 약 16%에 달합니다. 즉, 최첨단 공정의 비싼 실리콘 중 상당 부분이 실제 연산을 수행하는 대신 메모리와 통신하는 데 쓰이고 있다는 의미입니다.\nCustom HBM은 바로 이 문제를 직접 해결합니다.\n첫째, 기존의 넓은 표준 PHY를\n더 작은 면적의 Die-to-Die(D2D) 인터페이스\n로 대체합니다. 삼성전자에 따르면 표준 HBM4 PHY의 면적은\n8mm × 4mm\n인 반면, Custom HBM에 사용하는 D2D 인터페이스는\n8.5mm × 1.5mm\n에 불과합니다. 면적으로 계산하면 약\n60%가량 감소\n하는 셈입니다.\n또한 개선된 D2D 인터페이스는\n인터페이스 면적당 더 높은 대역폭\n을 제공하며, 인터포저(interposer) 내부의 배선 설계도 단순화할 수 있습니다.\n둘째,\n메모리 컨트롤러를 컴퓨트 다이에서 완전히 제거해 HBM의 Base Die로 이동\n시킬 수 있습니다. PHY 면적 축소와 메모리 컨트롤러 이전을 함께 적용하면 컴퓨트 다이에서 상당한 면적을 확보할 수 있으며, 이 공간을 다시 연산 유닛(compute)이나 캐시(cache)에 사용할 수 있습니다.\n그리고 HBM의 Base Die가 첨단 로직 공정(advanced logic process)으로 제조되기 시작하면, 단순히 신호를 전달하는 역할을 넘어 훨씬 다양한 기능을 수행할 수 있습니다.\n삼성전자는 Custom HBM 컨트롤러를 통해\nSRAM 복구(repair) 리소스, 모니터링 기능, 외부 메모리와의 연결\n, 나아가\nDRAM 바로 아래에서 일부 연산을 수행하는 기능\n까지 구현할 수 있다고 설명합니다.\n즉,\nCustom HBM은 단순히 HBM의 대역폭을 높이는 기술이 아니라,\n컴퓨트 다이에서 메모리 인터페이스가 차지하던 면적을 줄이고 그 기능을 HBM Base Die로 이전함으로써 전체 AI 가속기의 구조 자체를 변화시키는 기술\n이라고 볼 수 있습니다.\nhttps://x.com/semianalysis_/status/2105771525605351710?s=46",
-      "images": [
-        "https://cdn5.telesco.pe/file/s6GWLWxyWaYvZPHuQ1xe39TeNqAgV41aUwEOHoZaseLH6A5iDGSNFOPrAvN5dWW_cOakiAcY_RxD877LPGN3LAGlEuPDfkdEgA3P017QbhubsAZ5CkCJrOEBJRT_lpvcvDl8xLU8dCAm5lHtafB9Ef-wz-Jyr-1DsqQWe3jk50_cmr0AOv1hUoe8NbErN76uU5GAu4uqy7XYZOb-YaJDfam6uAHr5cvyzs_z1EiiZBLCT_BQLf0krPgWk8MaOOUKPH32xTnt3ha8kui32oUT1ETNYX3pXK10rKRS1zzr6uBS8r31vPs0DYFY_CGmkXhAViCPdRndFfqMTJjG4bqFaw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-02T07:52:17+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25610",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25610",
-      "text": "SK하이닉스의 산업 인텔리전스 담당 시니어 디렉터인 Vis Valluri는 DRAM 공급이\n“비트 기준으로 대략 20% 수준의 성장률”\n을 보이고 있는 반면, 수요 증가율은\n“30%에 더 가깝다”\n고 밝혔습니다. 다만 두 수치 모두\n“매우 대략적인 숫자(very ballpark numbers)”\n라고 강조했습니다.\nValluri는 SK하이닉스에서 DRAM과 NAND의 모든 최종 수요 시장을 담당하고 있으며, 해당 발언은\nPassion Play Profit 팟캐스트\n에서 나왔습니다. 해당 에피소드는\n9월 30일 공개\n됐습니다.\nValluri가 공개적으로 밝힌 내용을 정리하면 다음과 같습니다.\n•\n공급:\n2027년까지 DRAM과 NAND 모두에서 “새롭게 추가되는 생산능력이 거의 없다”\n고 설명했습니다. NAND의 경우 중국 YMTC를 제외하면 메모리 업체들의 신규 생산능력은\n“2028년이 돼야 가동되기 시작할 것”\n이라고 밝혔습니다.\n•\n2028년:\n“2028년에 공급능력이 추가되더라도 고객 수요를 충족하기에는 여전히 충분하지 않을 것”\n이라고 전망했습니다.\n•\nHBM:\nHBM은 동일한 비트 생산량을 확보하기 위해\n일반 DRAM보다 훨씬 많은 웨이퍼가 필요\n하다고 설명했습니다. 이 같은\nHBM의 높은 웨이퍼 소모량이 2023~2024년부터 전체 메모리 시장의 수급을 타이트하게 만들기 시작한 원인\n이라고 설명했습니다.\n•\nNAND:\nNVIDIA가 CES에서 공개한\nContext Memory Storage 계층이 NAND를 컴퓨팅 영역으로 끌어들였으며\n, Valluri는 이를 NAND 시장에 있어\n“믿기 어려울 정도로 강력한 수요 동인”\n이라고 평가했습니다.\n•\n전력:\nAI 데이터센터의 전력 수요가\n올해 약 30GW에서 110GW를 조금 웃도는 수준까지 증가\n할 것으로 언급했습니다. 다만 해당 내용에서는 110GW에 도달하는 구체적인 기준 연도를 제시하지 않았습니다.\n•\n메모리 사이클:\nValluri는 2007~2008년 다운사이클 당시 메모리 업계의 매출총이익률이\n불과 두 분기 만에 50% 이상에서 마이너스로 추락\n하는 상황을 직접 경험했다고 밝혔습니다. 그러나 이번에는\n“과거와 같은 사이클이 반복될 것으로 예상하지 않는다”\n며, 향후 메모리 업황의 침체 국면은\n과거보다 저점이 얕아질 것\n으로 전망했습니다.\n또한 Valluri는 중국 메모리 반도체 업체들이 글로벌 선두 업체 대비\n“아마도 두 세대 정도 뒤처져 있다”\n고 평가했습니다. 현재 메모리를 충분히 확보하지 못하고 있는\nPC·스마트폰·자동차 업체들이 중국 DRAM 업체들이 우선적으로 공략하고 있는 시장\n이라고 설명했습니다.\nhttps://open.spotify.com/show/6pwMTvam0eCRfyiByHa6mX?si=X50EWJMHT-SQ3dgEmUhs7A\nhttps://x.com/carrioresearch/status/2105588627166449749?s=46",
-      "images": [
-        "https://cdn5.telesco.pe/file/jO-tMovfunIpICMSUTZmNwv_AWq7nzloT3LOithfJD8hNBqBZG1AsO45OhW2_5cLMD5zAYLdKw3LAXy8tZFtTHCb9HQeQLjdyDr9StgTtSIz4Q8kagTp5PZL123CUuAPWI0Fmlm7qrlGJabNMVGJrtbD2ETUxNmVaUspYvtM-f9isMTA0U0VED0bo2Ii5PDEapXboBpW-mi6nWQwEIRThxLGcIzlKXCAtIWO3pD5BjRaT4vkkfdYj6-KW7VExM-TXAWMBWFu40rI21Eg4kAviUFs_fZbxjSc05qvW9Nd1FV6upQCMjQFh3JV-HOWXc4RnrsXaEW-woJUjQyo4Kkx0g.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-02T07:52:16+00:00"
     },
     {
       "id": "tg:enc210406/4474",
@@ -462,18 +511,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-10-02T07:29:32+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25609",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25609",
-      "text": "[속보] 최태원, SK㈜ 지분 2.3% 매각 결정\n- 지분율 17.8% → 15.5%\n- 재산분할 소송 관련 대응\nhttps://www.hankyung.com/article/2026100206627",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-02T07:14:51+00:00"
     },
     {
       "id": "tg:HI_GS/7161",
@@ -614,20 +651,6 @@
       "published_at": "2026-10-01T23:38:01+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/25608",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25608",
-      "text": "JP모건) 메모리 시장 업데이트; MU 4QFY26 실적에서 얻은 시사점: 2031년까지의 주문 논의, 28년까지 이어지는 타이트한 수급\n1. 메모리 수급 전망: CY28까지 타이트한 수급 확인, 수급 균형 회복 시점에 대한 가시성 없음. MU는 메모리 수급이 CY26보다 CY27/28에 더욱 타이트해질 것이라고 가이던스를 제시했습니다. 이는 사이클 지속 기간의 연장이며 JPM 추정치와 부합합니다. 경영진은 CY27/28 산업 DRAM/NAND 비트 출하 증가율을 20% 초반/20% 중반으로 제시했으며, 산업이 계속 공급 제약 상태에 머물 것이라고 밝혔습니다. DRAM에 대해 경영진은 심각한 클린룸 부족 속에서 수요 증가가 공급 증가를 크게 앞지르고 있어, 수급이 언제 균형으로 돌아올지에 대한 가시성이 제한적이라고 부연했습니다. HBM에 대해서는 CY28까지 HBM 비트 출하가 범용 DRAM보다 빠르게 성장할 것이라고 가이던스를 제시했으며, 이는 JPM 추정치(HBM 비트 수요 증가율: +63% vs. 비HBM 서버: +37%)와 부합합니다.\n2. SCA 커버리지 2031년까지 연장. MU는 26건의 SCA를 체결했다고 공개했으며, 해당 계약은 1) 2030년까지 매출의 35% 이상을 커버하고(경영진에 따르면 보수적인 가격 가정 기준), 2) DRAM과 NAND를 모두 포함하며(경영진은 DRAM 비중이 NAND보다 약간 낮다고 언급), 3) AI 하이퍼스케일러, 모바일, PC, 자동차를 포함한 모든 고객에 걸쳐 있고, 4) 선수금은 320억 달러(5월 분기 220억 달러에서 증가), RPO는 1,500억 달러이며, 5) 추정 매출의 75%는 정해진 가격 프레임워크를 갖고 나머지 25%는 시장 가격을 기준으로 협상됩니다. SCA 기간 연장, RPO/선수금 비중 확대, 그리고 27E 비트 생산량의 75%가 계약으로 확보된 점을 감안할 때, 저희는 견조한 메모리 수요 프로파일에 대해 의심의 여지가 거의 없다고 봅니다. 한편, 저희는 MU의 2030년까지 35% 이상의 SCA 매출 커버리지가 LTA 커버리지가 메모리 생산능력의 50%를 훨씬 상회하는 아시아 메모리 업체들과 비교하면 보수적이라고 판단합니다. 이러한 차이는 전략적 결정(계약 기간, 수익성(즉, 가격), 선수금 비중, 조건부 조항 등에 대한 우선순위 차이)에서 비롯된 것일 수 있다고 생각합니다. 전반적으로 저희는 메모리 펀더멘털 관점에 대해 더 긍정적인 인상을 받았습니다.\n3. HBM: CY27 비트 공급, 상당한 가격 인상과 함께 완판; 범용 DRAM 대비 마진 격차 축소. MU는 CY27 HBM 비트 공급의 대부분이 상당한 전년 대비 가격 인상(JPM 추정치: HBM 블렌디드 ASP 전년 대비 +54%)과 함께 완판되었으며, 이로써 범용 DRAM 대비 매출총이익률 격차가 명시적으로 축소되고 있다고 밝혔습니다. 경영진은 CY28까지 HBM 비트 출하가 범용 DRAM보다 빠르게 성장할 것이라는 저희 견해(JPM 추정치: +63% vs. 비HBM 서버 DRAM: +37%)에 공감했으며, TAM 내 HBM 비중이 순차적으로 확대될 것이라고 밝혔습니다(JPM 추정치: HBM 생산능력 비중이 25A 19%에서 28E 31%로 확대). 경영진에 따르면 새로운 가격은 CY27 연초부터 반영될 예정입니다. NVHBM과 관련해 MU는 HBM4에 사용된 자체 베이스 다이 대신 HBM4E에서는 파운드리 베이스 다이(즉, TSMC)를 활용할 것이라고 언급했습니다(이는 모든 메모리 업체가 HBM4E 프로젝트에 참여하고 있으며 NVHBM 프로젝트의 베이스 다이 제조는 TSMC가 독점한다는 저희 견해와 부합합니다).\n4. 다수의 그린필드 팹 파이프라인, FY27E 설비투자 상향 조정. MU는 FY27 설비투자를 기존 계획 대비 상향한다고 발표했습니다. 이는 주로 CY28 후반 클린룸 가용성을 앞당기기 위한 건설 설비투자 증가(그림 12 참조)에 기인하며, 기존 클린룸의 생산량 최적화를 위한 일부 WFE 조기 집행도 포함됩니다. 설비투자가 상향되었지만, MU의 다수 그린필드 팹 프로젝트는 이미 저희 GMM 공급 방정식에 반영되어 있어 28E까지의 타이트한 수급 전망에는 변화가 제한적이라고 봅니다(JPM 추정치: CY27-28E +25% CAGR). 경영진은 역사적으로 낮은 자본집약도를 언급하며 과거의 30% 중반 프레임워크는 이제 구식이라고 밝히는 등 절제된 설비투자 기조를 유지했습니다(JPM 추정치: FY26-28E 기간 DRAM 자본집약도 10% 중반 미만, NAND 10% 미만). 기술 전환과 관련해 경영진은 1-감마 및 G9 DRAM 노드(278단 NAND)가 가장 높은 비중을 차지하고 있으며, 차세대 노드는 CY27 하반기에 양산을 시작한다고 밝혔습니다. 이는 중국 경쟁사보다 두 세대 앞선 노드입니다(저희 견해와 부합). 증분 설비투자당 비트 생산량 증가가 제한적이라는 점을 감안할 때, 저희는 MU의 설비투자 및 공급 관련 코멘트가 저희의 산업 전망과 부합한다고 판단합니다. 이러한 추세에 비추어 설비투자 확대가 현재의 시장 타이트함을 완화하는 데 미치는 영향은 제한적이라고 보며, 확대된 SCA 주문 가시성(2031년까지)이 설비투자 확대의 정당성이라는 점에서 긍정적인 입장을 유지합니다.\n5. 주주환원 업데이트. 아시아 메모리 업체들과 마찬가지로, 주주환원 정책 업데이트는 MU에 대한 투자자들의 또 다른 주요 질문이었다고 판단합니다. MU는 특히 2026년 12월 9일(CHIPS 협약 2주년) 이후 자사주 매입을 통해 초과 현금을 투자자에게 환원하겠다는 의향을 재확인했습니다. 경영진은 1QFY27 말까지 목표 현금 수준에 도달할 가능성이 높다고 명확히 했으며, 이는 현재 22억 달러인 자사주 매입 승인 한도를 상향한 후 2QFY27-4QFY27 동안 창출되는 추가 잉여현금흐름이 주주에게 환원될 수 있음을 시사합니다. 메모리 강세-약세 시장 논쟁 보고서에서 논의한 바와 같이, 저희는 적극적인 주주환원이 메모리 주식 리레이팅의 전제조건이자 더 오래 지속되는(higher for longer) 메모리 업사이클의 간접적인 증거라고 판단합니다. 아시아 메모리 업체들은 10월 말 실적 컨퍼런스에서 주주환원에 대한 업데이트를 제공할 것으로 예상합니다(즉, 삼성전자는 FCF 풀 확대를 통한 더 강력한 주주환원을 시사하거나, SK하이닉스는 8월 40조 원에 이은 추가 자사주 매입을 공개).\n6. 마이크론 4QFY26 실적 속보 및 1QFY27 전망. MU(비중확대, JPM의 할란 서 커버)는 강력한 8월 분기 실적을 발표했습니다. 매출은 542억 달러(컨센서스: 515억 달러), EPS는 33달러(컨센서스: 32달러)를 기록했습니다 - 할란의 보고서. DRAM 비트 출하는 전분기 대비 한 자릿수 중반% 증가해 아시아 메모리 업체들과 대체로 부합했으며(JPM 추정치: 삼성전자/SK하이닉스 +5%/+10%), DRAM ASP는 전분기 대비 10% 후반 상승했습니다(삼성전자/SK하이닉스 +17%/+20%와 대체로 부합). NAND 비트 출하는 약 10% 증가하고 ASP는 전분기 대비 30% 상승해 아시아 메모리 업체들을 상회했습니다(삼성전자/SK하이닉스 3Q26E 비트 성장률 +8%/+3%, ASP +12%/+12%). MU의 11월 분기 가이던스는 매출 약 615억 달러, GPM 86.25%, EPS 38.2달러로 더 강했습니다(컨센서스 560억 달러/87%/36달러 대비).\n주가 전망. 메모리 주가는 지난 1개월간 점진적으로 회복했으며(+10% vs. SOX: +12%), MU의 강력한 실적 발표 이후 긍정적으로 반응했다고 판단합니다(삼성전자/SK하이닉스/키옥시아/난야: +3%/+3%/+6%/보합). 아시아 업체들이 3Q26 실적 시즌에 들어서는 가운데, 저희는 MU의 견조한 펀더멘털 전망(즉, 27/28년 메모리 수급 타이트화, 2031년까지 연장된 주문 논의, 27E 비트 생산량의 75%가 계약으로 확보)이 메모리 업체들에 의해 대체로 재확인될 것으로 보며, 주주환원 업데이트가 핵심 모니터링 포인트가 될 것으로 판단합니다. 저희는 모든 아시아 메모리 업체 종목에 대해 긍정적이며, 단기적으로는 우월한 주주환원 정책과 더 높은 TSR 수익률을 근거로 삼성전자보다 SK하이닉스를 선호합니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/GyzC8Jbp2Z0Beizd-cyITK5L86zhidnyyPcbQ709HfudvkmFQAjOzNxj5La7-ngO7Jv_c46WW_qWMFwvxbQzdH5ODaQ8DwcI-alyjNqqz2AmAPXQK_mwuEc5572UcfN3oYJIIlSqBYgglFiUdo4qk30Aog4Y0L2fiMj58NZP1zMdYVfn4kvSZXdiWPuGxp4kqBrirZLakgUiM39S_CEa6Im6_58kxHkvmh-HPg7XvsNGgBRjtl1-iWon80qxpd41__poRDdT26ZturO0XW2ue0nbrPLgHuYVOP8USW0edGRdTROCb540stejrY942s8EDhJtQwxNaFrXeQZqz0Q7vQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-01T23:36:43+00:00"
-    },
-    {
       "id": "tg:HI_GS/7158",
       "source": "telegram",
       "author": "HI_GS",
@@ -676,30 +699,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-10-01T07:30:42+00:00"
-    },
-    {
-      "id": "tg:HI_GS/7156",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/7156",
-      "text": "[한화에어로스페이스 사우디 K9 15조 계약 임박]\n• 사우디 국가방위부와 K9A1 자주포 및 타이곤 차륜형 장갑차 등 총 1만대 수준 지상무기 공급 막바지 협상 진행\n• 계약 규모는 약 15조 원 수준으로 성사 시 국내 방산 수출 사상 최대 규모 중 하나\n• 사우디 비전 2030에 맞춘 현지 생산 및 기술 이전 조건 포함에 대비해 리야드 총괄법인과 한화디펜스아라비아 설립 완료\n❗️\n사우디 국가방위부와의 15조 원 규모 지상무기 현대화 사업 계약 체결 임박 관측\n출처: [자본시장뉴스]\nURL:\nhttps://www.jabon.co.kr/news/articleView.html?idxno=7296\n─────────────────────\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n🎴\n계속나오는이야기지만…그래도…언젠가는….",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-01T03:10:34+00:00"
-    },
-    {
-      "id": "tg:HI_GS/7155",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/7155",
-      "text": "[다올투자증권 조선/기계/방산 최광식]\n10/1(목) 데일리뉴스\n🛳\n조선\n[TradeWinds]\nCosco Shipping Specialized doubles down with 14 more heavylift ships\nShipowner John Su stacks container ship orders to feed regional trade growth\nX-Press Feeders returns to tankers with suezmax order\nFLNG offers ‘substantial’ opportunity for new entrants, WoodMac says\n[Upstream]\nNinth Buzios FPSO sets sail from Singapore to Brazil\nFPSO bound for Falkand Islands arrives in Singapore\nChinese yard wins multimillion-dollar FPSO work\nJack-up contract boosts drilling giant's order backlog to $4.8 billion\n🚢\n조선\nHD현대중공업 투자 결정에 인도 국영 조선소 '부지 양보'로 프로젝트 철회\nhttps://buly.kr/GkvBFgx\n\"도산안창호급 잠수함, 오커스 핵잠 대안\" 호주 외교 안보 전문지 K-잠수함 '주목'\nhttps://buly.kr/5UKgS7z\n조선 3사, 수주 400억달러 눈앞…목표 넘고 지난해 실적도 추월\nhttps://tinyurl.com/2yhsenny\nHD현대중공업 노사 임단협 잠정합의⋯조선 빅3 타결 막바지\nhttps://buly.kr/AwiAsnr\n\"백악관, 韓대미투자 발표에 '알래스카 LNG·원전 8기 포함' 확인\"\nhttps://buly.kr/BTSRpF3\n🚀\n방산\n[방위산업 특집]현대로템, ‘차세대 유도무기 엔진 개발’ 종합 방산기업으로 도약\nhttps://tinyurl.com/2c5ak78d\nLS에코, 非중국권 '최초' 방산용 희토류 생산···베트남에116억 투자\nhttps://buly.kr/BpHxmtb\nKAI, 2040년 항공우주 플랫폼 글로벌 4위권 목표\nhttps://tinyurl.com/2beacjy8\n한국형 사드 'L-SAM'… 중동·유럽 시장 뚫는다\nhttps://buly.kr/4FvNbpT\n* 위 내용은 보도된 사실의 단순요약으로 별도의 컴플라이언스 절차 없이 제공됩니다",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-01T00:04:35+00:00"
     },
     {
       "id": "tg:enc210406/4470",
