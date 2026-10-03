@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-03T13:05:27+00:00",
+  "updated_at": "2026-10-03T17:49:05+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 6
+    "new_this_run": 1
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,20 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/25625",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25625",
+      "text": "커스텀 HBM은 GPU 다이에서 연산(Compute)을 위한 공간을 더 확보해줍니다.\nRubin에서는 HBM 컨트롤러와 PHY가 GPU 다이 면적의 약 16%를 차지합니다. 반면 Feynman에서\nNVHBM\n이 적용되면, 이 비중이\n약 4%까지 낮아질 것\n으로 추정됩니다.\n어떻게 가능할까요?\n기존에는 GPU(XPU) 안에 있던\n메모리 컨트롤러를 HBM의 베이스 다이(Base Die) 쪽으로 옮기고\n, 면적을 많이 차지하는 기존의 표준 HBM PHY 대신\nNvidia의 소형 NV-HBI 다이투다이(Die-to-Die) 인터페이스\n를 사용하기 때문입니다.\n삼성전자의\n커스텀 HBM4 인터페이스는 표준 HBM PHY 대비 면적이 약 60% 더 작습니다.\nNVIDIA는 이러한 구조를 통해 표준 HBM4E 대비 다음과 같은 개선이 가능하다고 주장합니다.\n연산용 다이 면적 최대 25% 증가\n메모리 대역폭 최대 30% 증가\nHBM 전력 소비 15% 감소\nhttps://x.com/semianalysis_/status/2106217837643575607?s=46",
+      "images": [
+        "https://cdn5.telesco.pe/file/XBTZDoZco_UZOqBbFHY1-FzPH7vOh3JNPKLqMUxwK7tcIl8P--PLJOKF_uXQrV5uMgHfpEGXv33785b1dqD8qAAJfRqOOVSTSEszWDhO1NIweEU-VKJLZpthd0vgvoW9omJC8BIlOzT0o-60h2KnZMTxaBftvhtaZAOH9HD1Q1kKJ35Qn78RMRtscBpoZIOuk7YKFt1vM4UPXycb_wjptwQ22zcmp9UN2PMfSLNhwxPFdc50AZdaYafJ8PwouCrLj4wfxP0Uw-FDUAtMQlJ_E04uLPl1kzZouucVYh3Oin787Ni3ns0uPuNFMMfdHe8JqKwlD4asuiCVKKKpdIQFBA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-03T13:57:52+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/25624",
       "source": "telegram",
@@ -240,7 +254,7 @@
       "url": "https://t.me/globaletfi/21960",
       "text": "🔹\n미국 IT 업종 고용, 2020년 12월 이후 최저 수준까지 감소  » 미국 IT(Information) 업종 고용은 2022년 약 310만명으로 정점을 기록한 이후 감소세 지속  » 2026년 9월 274만명 수준까지 줄어들며 2020년 12월 이후 가장 낮은 수준 기록  » AI 및 자동화 확산과 기술기업들의 비용 효율화가 이어지는 가운데 IT 업종의 고용 수요 약화 흐름 지속",
       "images": [
-        "https://cdn5.telesco.pe/file/b2UUwukLlC6yBUat_aZaHaz6tqKJqIOa8mo-Zbq_HV30c8Mg9yFZRx9gYlGGooonDSjFjJc1crmG5RRVUWyiAwwWgMYGUyDUSZPDWQBxIDSeWtepwYJKOB7bjHknZP77p75fkhN-ietqA1YKjpvfIZVNmSPvga7sSNbHUCCY5RCI8-zZf1R5ESqo2mBe1imUU4UYjNxNgT7JhsUCz4HW73dUwKeicx9wXgkJRdlS27dT6Cqi-niRhT7nAgX_QCjOTWzvO6AodmqVTS3Yj_3wfUeWloNNuhVSYM1SOatgxLKiU-dt1b1yru1NNDxiONQhnMouZZ4-4kulp_R2jT88TA.jpg"
+        "https://cdn5.telesco.pe/file/B_fWgwdz4coRnlKCz9btRUU30Uui773ua98q3XZHY9u4J_hR0Z9-0IN3NvRO5kg7KgfjGXfI4L89TYg905BF5qvYSI5wKhIEwEyzLppQXdy7rOrEMW1wQ_Wjt-39KcuFNeB1ideuaBJGNdRryQ1cuL65O4qVlBBkssdX_zGJJ5mwjj9q3IIcpSH6DqTjJ5xaQ_Cd2R_PSBbiNceoc9iB-zPhIHKlEfxhBVB6KUpvIigPHsD051uh7FFcPesiN2mN08YaUobMeKGGN5KkOIGcTTkm4-57ySaNCSsl1eQE8LO_NDrpOLgYZ14tBWT3vdYrJDvviyEJjNob3xSu1oqwcg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-02T13:41:17+00:00"
@@ -254,7 +268,7 @@
       "url": "https://t.me/globaletfi/21959",
       "text": "🔹\n미국 IT 업종 고용, 2020년 12월 이후 최저 수준까지 감소\n» 미국 IT(Information) 업종 고용은 2022년 약 310만명으로 정점을 기록한 이후 감소세 지속\n» 2026년 9월 274만명 수준까지 줄어들며 2020년 12월 이후 가장 낮은 수준 기록\n» AI 및 자동화 확산과 기술기업들의 비용 효율화가 이어지는 가운데 IT 업종의 고용 수요 약화 흐름 지속",
       "images": [
-        "https://cdn5.telesco.pe/file/ei15Lk8mJKdYJdvi4UMKO9iudrlqfml21uf9JBWyhJL9LNBT3Iob4DUQJRXg8b6WzFUILPNniSSNN0HTq-x6Sp_iMlzve4GeU9N37sF2Fjd-XYS2hNnyJV8ZPB72sfkZhyg9ag1mHw4b3HXwP09_N1FgZDGCOrHz508jrWC4YwnREKeTPf3ByGM4kiWyencMrNTtMG3SeUhiLA0fHELcZGSq6YXfRqQLw5uhkzGzyOa7GG5BsVugOOmSq2VkcoBK8Nad41RjmKR9e3XHaetc8wY-5RSfPULFtxzVY3MslfEN31pWRs6eODau_7Mmc7zGdQpV8R2rRNR-GzOktTY7Xw.jpg"
+        "https://cdn5.telesco.pe/file/s-iAd1JY1WPeCZLx-HNvqYsd4Ql5E2Hy9VVRqWonYejT2kXGFkRpMNglSvH1eT_VnMbo0KdxhXF2wMR07-YgY1bwNbabWnRuzvUEXBcZCByxQG_JfAdQ5LQ4rN-pez5qDR2d97du9gHWC3if-LWQ1i5gR3vLfLOQ9og0Lb2GMwwLTBoT1BvMxJyUSMqad5rKe3WS6hcSj86VZSWviQ415YS8NtiQMYveLLsuwwo6lRcHv9yGqRRGLP7drsFKdg42Y2uSSRdi8TC9txi7PywPGIKwnjs8hKOiSruX246n46-STIOJ92eqqbsRuZWtRcSHx7dF7RJrmXnrk0T_PGqqpw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-02T13:36:59+00:00"
@@ -280,8 +294,8 @@
       "url": "https://t.me/globaletfi/21956",
       "text": "» 경제활동참가율은 성별, 연령과 무관하게 전반적인 반등 시현",
       "images": [
-        "https://cdn5.telesco.pe/file/AarxSH6yhPsJYYCUOaZD4pUogINkVeCS6cjQBRWRa8PnKuk5az-2y9QUMhyjmeF-r2El3TeGd_x4TtTjNMX43GT0Pq-fXa1NXvLBi2zniCjcumSM6i7gYbQhnhtLGsiIkQM04ideDK-cfqzlcGC1cuyOLC_-zRFnKH0-Cjj2c9g1Co160xbuIUEIqv1Nee18BIFRy5AM7dlYXN3CBwewJb-PX6gjfFILHtUCXlMwJGz21yCcowcluAjcbRia1niBftGHD7454SIVMzh2E2QfV3rVb3Nvbo0XCKtLbZql6LrktxfOUS6ApB1kd4g2OvqVrHglTv3EcRtm6BA4F8l7pg.jpg",
-        "https://cdn5.telesco.pe/file/nWB5zPohlm3D6_Kpf1cq019QWiGEfa_viGGzYkpEzvsQmgEcaydurw5Zqiqhlug7BG1YPbckd1id8tixhgJn9viZcIQjFAFIKfY9sveoBhLjzNar8ly6ym9iX2WleotFa_nCupViLlxNuD6nHmV0knVtqMWNKgKpGCKUaNJXhXpLMWy832oyps2uxtkUe9ioWb4GX2dtK8u9sg_5z6QGSWYkeJohQa8ZsbAOuVDnfOZyJlvBagfoDyI76oWMDZlW8JsY8dS0yMNasqKlkp7ri00SH4nJmQeBxarlEkqzFJwsp3LAZMZ_T0n927wfuThS4_bX98SxOENvACvdV-60kw.jpg"
+        "https://cdn5.telesco.pe/file/OmGHh4zt0FMYtZSdppW8EjPjJXb4Ca6Y10D3rlcYJjmcFJvMRPlRvEXzMI_nOyflRDiLFbYjYGDD5YtkOLIWXIoMGHI0p42DCOO29UMeKVz3WUtV5dgmGrx-Rzn7TcXMr5keACSpmQ-iFsov65ZSkflnMUtAz-EAq5QOwqlo9UkHfRuHUpIlhLpCrIk22h1mComZn-V6dxdy3NIlGOjvL1fF0Dfk3MuSsIsPpDPvr4vEO5QURgyjmYZWjYvpwnOsesTDgCkCmzn_oiUXZuxNubLzUpR51bGHtpinRATUTNHZhzJ0STIa8h7r1joYh33CR2vU4re5yK_N_xOKdNDJQw.jpg",
+        "https://cdn5.telesco.pe/file/S8ZuT8UC7VdEImmgwuwApX9pAAzmkUIp05QmOHId5AfF45QIt0zPxPnDLxjU66Q6_FEq_lXlq765fbRwJ9D1YTy7Qoy0pgR6Fe74RCa9Mn6RGyl-r3rypFfINYIJzaWXzYDq4EA0fPsZuh2iAFaxJtMxVULg04xUqC9aAjnuw5D9T6Ycp7fmvejaQALWoRpposCnJ261PgfvMEk4AQuk-6GYX_fSGweQ4T7zF0a0hsNeAIc-Y862Sn3soVohZCm7VvxJFp2KXHDSdWsE_gWNwnnvM5eBALYhjcl3gD9W6XP6RcqeVY8t8_NrcjHo11J-RENXPUww_QaKSCvZKJwY7g.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-02T13:34:08+00:00"
@@ -295,7 +309,7 @@
       "url": "https://t.me/globaletfi/21955",
       "text": "» 미국 실업률 추이",
       "images": [
-        "https://cdn5.telesco.pe/file/T8MZ9hFHcNDDoupOsEsPFNNvA6H7idb2auOHV6UR5tVS3RxrFQ7QK4vE8vpzklrUHR-KRQFK4tsFYvsR483GETk1L89n6lU5MrhjqJIMlMK6NgmCmCvk9VplJmOzrv8Y2ELs7pwi94uvu4_62s0v-BCCKX2ygzU_D9H2K2mxQoYy1gWh5z-4yA-u_NG1kok5jLA3vBhl6nv0icXRc7n0Gskf4-E1d20fO6t7eJoom-W_xb_D0ZdohG4T4tNCuu3onVtXLmwmPlpw27DkcPmjMab1oOR0hEYNl8Tp9wVihn0McJNo54q3cRNf17fwIIpAiZJ0U_12rbmBlQEdQ1PAuA.jpg"
+        "https://cdn5.telesco.pe/file/lSmIzL3S6dgjWiLhOaNDe7wLOeplEPR_GrZ1p8c-hSB3UVtaPDtz3AyeBsmK1CjjVm07RBFQJgkEfkos95UsA6o4_2mHEaY-GtgLXzdyb5ZtEazPEBLnx_4yGMp29AOEVTaVKw892QXUkhPBCyEII1iIhQiZH2w05ykIcMR9m9CQ-USMTqWJaIoQaCKD5ABVKUHNXXlvEhnVhq4kMZ1qgZgU3C_ZueFyr9p36F3hkikV_RtmKd8UZW1NJU0reau1C8O7A3Vpaz1dvBh-85TTvGbtxskJpz2scF3hfF7eGKOmoDiV8s9Jt0yS3kYy8cEm_i6lKBrM6dFuvcpFuQt-Qw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-02T13:33:17+00:00"
@@ -483,20 +497,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-10-02T09:05:47+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25612",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25612",
-      "text": "아마존, 80억 달러 규모 엔비디아 GPU 외부 투자자에 매각 후 재임차 추진\n: 아마존은 약 80억 달러 규모의 Nvidia Grace Blackwell GPU를 SPV로 이전한 뒤 다시 임차하는 거래를 투자자들과 논의 중\n: 대상은 미국 5개 주, 12개 이상의 데이터센터에 배치된 수천 개의 GPU로, 아마존은 GPU 사용을 유지하면서 자산 소유권을 외부로 이전하는 구조\n: SPV는 외부 투자자를 대상으로 부채를 발행해 GPU 인수자금을 조달하고, 최대 10%의 지분도 외부 투자자에게 제공할 계획\n: 아마존은 SPV 지분을 보유하지 않으며, 아마존의 AA급 신용도를 기반으로 SPV도 투자등급을 확보해 보험사·연기금 등 장기 기관자금을 유치할 수 있을 것으로 기대\n: 배경은 급증하는 AI 투자 부담. 아마존의 올해 예상 Capex는 2,200억 달러로 대부분 AWS의 첨단 GPU와 AI 데이터센터에 투입\n: 3월 회사채 조달 계획을 370억 달러에서 500억 달러로 확대했지만, 7월 250억 달러 회사채 발행에서는 장기물 수요가 약해지며 더 높은 금리를 지급\n: 빅테크는 대규모 AI Capex를 감당하면서 신용도를 유지하기 위해 SPV, 잔존 가치 보장 등 대체 금융구조를 확대하는 중\n: GPU 금융은 CoreWeave 등 네오클라우드에서 이미 활용되고 있으며, 엔비디아도 지난 8월 월가와 구축한 5,000억 달러 금융 플랫폼을 통해 최대 1,250억 달러의 GPU 담보부 부채를 지원하기로 제안\n: Grace Blackwell은 차세대 Vera Rubin 출시를 앞두고 있지만, 아마존은 각 반도체 세대를 최소 5년간 사용할 것으로 예상\n: 최신 GPU는 모델 훈련에 투입하고 이전 세대는 추론 등 애플리케이션 운영에 계속 활용할 수 있어, GPU를 장기간 현금흐름을 창출하는 금융자산으로 취급하려는 흐름과도 연결\nhttps://t.me/Samsung_Global_AI_SW",
-      "images": [
-        "https://cdn5.telesco.pe/file/GRItolU9wxF6KUPz-AEa1ibGuvIhajTyz7qeMNV0noSxpxO09EFo-W4PrUAlBARuIAH5A4OJLr5wogn0JHAyyfKo7Ln3XOs7uY-hFTLZNxsFsQKbBTNTgA2HcDZ-o_uNtotHy8KK78kzlTaivQicMJm7rzWADqJzJknoiZxhPPcsn-OATYTeMto--q7jfFk4sqDfXjMHK6yyEvL6IB2E1W0heQYDULQD6c37wVIp_3jLR-pR89-sGYBrHLFI7x-1XDD-EzMPMrqaQtCI16XiULo9PSK_Fp3DcXmnJt3qaYS4zfv9ZAsbDaScM0jtiC1i3JRj_LmocGA4YTaL7U6R6A.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-02T08:36:15+00:00"
     },
     {
       "id": "tg:enc210406/4474",
@@ -1339,7 +1339,7 @@
       "url": "https://t.me/emchina/2",
       "text": "🟡\nThis community is now protected by Collab.Land\nToken-gate your community and verify members automatically.\nClick below to verify your wallet and gain access.",
       "images": [
-        "https://cdn4.telesco.pe/file/Jnls4qXSVjJnNALvagxZVmmI1qNSuaRICFpUuHnMoco_xEFna0We4WZrjIb5iJRH2I8ndAZ3frB4Q11MeVC8jMh9IRO0n5m2dijRY2qY021Fgs2Dq-VnmOO-dFK_Jn_FnAilB5ysyMLrMlplJcYqb9jjUSemeyZ10DVLrFUqBqpf7oiMZl_iu0oP0CeYwmbXlEme5bvEOsV8MSZ7-TMmUkS-oAE2V4jJzE5eyp3w3Yf6pPmr87QvB9N-yhpy66_D73qhHiAeFHRdRTn7LCXOWgod5khmPICBbDe6QXkCFlLuP_KDWVln5DGURDTU3z1OCoTiul2n3tVdonN7G_dWaw.jpg"
+        "https://cdn4.telesco.pe/file/nRT2DIq5I2j5_igSJ1jOwXOTEHPGKBlWUpJbrSS0giqEm74bfty2SKMd6oEur2Cv4dMCYQAPZeF2dXGylyIa-OByruayy5qPVP5lEPkbcyJGRt3rAMC0CGDfswfsZ76ync_B54kfJ6okDUg17JgT35OqJEUY5uXhWrKuf4ccYDpW4TGIT8jY1vYSK5KhgRXIccJcX6wOcO8EzRQdMDgvv-_TrrU8Mwin4ItsisRM1Ngm2fUJMq-8t0azaY6rczzxziKHgL_2dnlkXXDRcbMbINPYIjVVX1XLxNrLOE0Sz43Kf-gIrehb0Zjg-Uo_7VeB1Nvo3UVPk2L8w8_FF9dkdw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-16T00:25:43+00:00"
