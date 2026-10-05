@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-04T22:47:59+00:00",
+  "updated_at": "2026-10-05T01:39:17+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 3
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,45 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/25638",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25638",
+      "text": "JP모건 글로벌 전기 장비; 싱가포르 미팅의 주요 시사점 - 다년간의 수요는 여전히 견조, 모듈화 및 하이브리드 LVDC 솔루션에 주목\nJP모건은 지난주 싱가포르에서 르그랑 CMD(자본시장의 날) 참석, Data Center World Asia 부스 투어와 경영진 미팅, ASEAN 데이터센터 전망 패널 참여, DC Byte와의 전문가 오찬, 케펠 리츠(Keppel REIT) 레벨 3 데이터센터 투어 등을 진행했습니다. 핵심 메시지는 다음과 같습니다. 데이터센터 성장세는 단기적으로 매우 강하고 2030년대까지 성장이 이어질 것으로 예상됩니다. 중국 내수 시장 규제 덕분에 중국 외 아시아태평양 지역의 구축이 크게 수혜를 받고 있습니다. 모듈형·컨테이너형 솔루션의 비중도 커지고 있는데, 히타치의 경우 데이터센터 매출 중 이 비중이 몇 년 전 약 10%에서 현재 약 25%로 늘었으며 약 30~35%에서 정점을 찍을 것으로 예상됩니다. 또한 하이브리드 AC/DC 아키텍처는 투자자들의 예상보다 2030년대까지 더 오래 유지될 가능성이 높고, 네이티브 800VDC 아키텍처 도입 시점은 다소 뒤로 밀리고 있습니다. 사이드카와 SST(반도체 변압기) 같은 제품의 경쟁 우위는 전기장비 업체들의 제품 개발 주기를 고려할 때 대체로 오래가지 않는다는 것이 JP모건의 판단입니다.\n르그랑 외에도 슈나이더 일렉트릭, 델타, 이튼, 버티브, JCI, 히타치, 지멘스, 알파라발, LS일렉트릭 등과 미팅을 가졌고 킹스팬, 메이디, 지멘스 에너지의 부스도 방문했습니다. JP모건은 행사에 참석하는 2·3차 공급업체가 갈수록 늘고 있다는 점에 주목했습니다. 아키텍처와 공급망이 복잡해지면서 수직계열화의 기회가 생길 수 있고, 여러 1·2차 장비업체가 단품이 아닌 솔루션 제공을 강조하고 있어 시공 병목과 EPC 실행 문제 해소에 도움이 될 수 있다고 봤습니다. 논의의 초점도 바뀌어 왔습니다. 2024년에는 학습에서 추론으로 넘어가는 과정에서 약 60~80GW의 전력 수요 전망이 현실적인지가 쟁점이었고, 2025년에는 2030년까지 80~100GW 수요를 전제로 한 액체 냉각 아키텍처가 주된 화두였습니다. 올해는 100GW를 넘는 수요를 충족하기 위한 병목 해소가 중심이었고, 그 수단으로 컨테이너형 솔루션(현장 시공 단축, EPC 부담 경감, 전기기술자 확보 용이)과 BTM(Behind the Meter) 솔루션이 거론됐습니다. 사이드카와 SST는 모든 부스에 전시되어 앞으로 대형사의 기본 요건이 될 것으로 보입니다. 대부분의 부스가 하드웨어 위주였던 가운데 히타치의 H-MAX 소프트웨어 발표와 슈나이더의 디지털 트윈 중심 전략이 인상적이었다고 평가했습니다.\nGW 증설 논쟁과 관련해 르그랑은 현재 약 80GW 수준에서 전 세계적으로 100GW가 추가 구축되는 것을 기본 시나리오로 제시했으며, 이는 연평균 약 18% 성장에 해당합니다. JP모건은 이 수치에 상방 여지가 있다고 보며, 여러 발표에서 그 상방 규모가 상당하다는 점에 주목했습니다. DC Byte 자료에 따르면 약 150GW의 추가 용량이 이미 건설 중이거나 확정된 상태로, 2030년 전후로 대부분 가동될 가능성이 높다는 것이 JP모건의 판단입니다. 이와 별도로 약 300GW가 초기 단계에 있으며, 이 중 통상 매년 10% 정도가 실제 프로젝트로 전환됩니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/FYIxtNvRHBs57CJEDcc165xTFHyVOuZTQ99rfvKPoNXhCUOFS5NYQTxLguCzhSooZKZo3-p43umY2teytyeaLU5yjXXzMUVn3X2Ib1ceO8AhDpkvpAGD3ncDk7KTcNWMPG7AxFbr6cyH7f-mYut6oL6ZmlP8h4N7IGNBCdIKGHjqwg7PqTvAhYQVRgvAsmJws_iGiUKhUknMTJpda8d_l4Kz5mbPMy3BVIx7msnRvDqYIZuiFvlvl6oje2lhy4PL0px4u54iii6GUM-TxXao3RVoAT2ZFYs66-PX4aosjYd8wJ3hPxnuYMgBp-mlZcGf3Sv0p_dqKxdroIjVqBAC3g.jpg",
+        "https://cdn5.telesco.pe/file/RbN79HKIM3j3I9uEEdgQIGFS6aTfLFKNrpMFI-MQYfc0mwaWis0GbtoE_NgA09P841Smdz-K1TnB0Nw0Er7PZ9KlnGEt3hpP9C4PpQoGiArS6yWFUIGI2aLlr0qvBiVTB4THZjqvmwUHLh18RQiZabZcQtiEMYHw2jUFz7bb5bBO6Pyh73DvG8ZKCXoB6yOV8c0THtVNm78kAjdeTmgs-MYCtR4zrnsn54IxbBw6qMF6DUW61YNlNCEojz0D9-tBG_g5znZ7XhCWqXGGo13hpd2uwcwrbwrPaRO6IZX9QKfs1vWX5jJEEKfTg5-SR6SYRSOiiNeR08C2Sn1Hm_0V5Q.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-05T00:40:18+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20453",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20453",
+      "text": "엔비디아-폭스콘 AI 협력, 로봇이 큰 도움… 관련 업체 수주 모멘텀 견인 기대\nAI 서버 제조 협력 및 로봇 투입 성과 최초 공개\n엔비디아와 대만 폭스콘이\nAI 서버 생산에 박차를 가하고 있는 가운데, 실제 생산 라인에 로봇을 투입해 거둔 작업 성과를 처음으로 공개\n했습니다.\n고난도 제조 공정 자동화 및 수율 대폭 향상\n로봇은 다수의 복잡한 제조 공정에서 뛰어난 작업 능력을 발휘하며 강력한 자동화 역량을 입증했습니다.\n이를 통해 생산 수율을 대폭 끌어올림으로써 폭스콘의 AI 서버 완제품 출하가 한층 더 원활해졌습니다.\n관련 공급망 기업의 수주 활력 기대\n양사의 제조 공정 혁신과 출하 가속화는\n향후 부품 및 장비 등 관련 협력사들의 수주 모멘텀을 크게 끌어올릴 것으로 전망됩니다.\nhttps://money.udn.com/money/story/5612/9794451?from=edn_subcatelist_cate",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-05T00:39:29+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20452",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20452",
+      "text": "모건스탠리, 스페이스X\n$SPCX\n, 투자의견 매수 목표 주가 $300\n스타십 15번째 시험 비행(Flight 15)을 앞둔 현시점은 이례적으로 저평가된 매수 기회\n1.\n기관 수급 공백과 높은 진입 장벽\n기관 보유율 전무:\n40여 명의 대형 기관 고객 대상 미팅에서 $SPCX를 보유한 투자자가 단 한 명도 없을 정도로 기관 포지셔닝이 비어 있는 상태\n입니다.\n원인:\n스타십 열차폐 시스템, 풀플로우 다단연소 로켓 엔진 등 고난도 항공우주 공학에 대한 이해 난이도와, 급변하는 AI 에이전트 컴퓨팅 수요·단가 예측의 불확실성이 복합적으로 작용했습니다.\n2. 밸류에이션 프레임워크\n단일 섹터 분석의 오류:\n시장은 SpaceX를 통신, 항공우주·방산, AI 중 단일 산업으로만 분리해 바라보며 고평가되었다고 판단하는 오류를 범하고 있습니다.\n복합 인프라 결합: SpaceX의 본질은 ‘통신 + 우주 + 방산 + AI + 컴퓨팅’이 결합된 독보적 복합기업입니다.\n복합적인 사업 구조와 진입 장벽 자체가 단일 기업으로 대체 불가능한 밸류에이션 프리미엄의 원천입니다.\n3. 컴퓨팅 사업의 핵심 변수: 와트당 가격($/W) 레버리지\n보수적인 시장 눈높이:\n현재 시장 컨센서스(Visible Alpha)는 컴퓨팅 사업에 대해 평균 4.1GW 용량과\n$17.6/W\n의 가격을 가정하고 있습니다.\n단가의 파급력:\n실제 구축 용량이 늘어나지 않더라도\n와트당 가격이 $10 상승할 때마다 발생하는 매출 증가분만으로도 FY2027 전체 컨센서스 매출의 3분의 1 이상\n을 차지할 정도로 실적 민감도가 절대적입니다.\n4. 네오클라우드 가격 및 추가 상방\n컨센서스를 크게 웃도는 실계약:\nSpaceX의 AI 포트폴리오 중 부가가치가\n가장 낮은 '단기 네오클라우드' 계약조차 이미 $30~$50/W 수준(컨센서스의 약 2배 이상)에서 체결되고 있습니다.\n수급 불균형 심화:\nAI 데이터센터 구축에 필요한 전력 및 칩 공급 병목이 지속되면서 연말로 갈수록 컴퓨팅 단가는 추가 상승할 가능성이 높습니다.\n5. 핵심 카탈리스트\n스타십 Flight 15 비행:\n우주 수송 및 궤도 배치 역량의 기술적 검증.\n인프라 병목 해결자로서의 재평가:\n전력 확보 지연과 반도체 제조 병목을 해결하는 핵심 인프라 기업으로 시장 인식이 전환되며 실적 상향과 밸류에이션 멀티플 확장이 동시에 나타날 국면\n입니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-05T00:32:06+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/25637",
       "source": "telegram",
@@ -333,18 +372,6 @@
       "published_at": "2026-10-04T04:33:07+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/25626",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25626",
-      "text": "격전지 간 트럼프 \"美에 공장 안 지으면 관세 300%까지 부과\"\nhttps://www.yna.co.kr/view/AKR20261004013900071?input=copy",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-04T04:15:14+00:00"
-    },
-    {
       "id": "tg:bornlupin/20450",
       "source": "telegram",
       "author": "bornlupin",
@@ -365,7 +392,7 @@
       "url": "https://t.me/bornlupin/20449",
       "text": "일론 머스크\n\"단지 논의 단계일 뿐이지만, 무언가 진전이 있을 수도 있습니다.\"\n(TSMC, 일론 머스크의 테라팝(Terafab)과 협력 계획 모색 중 기사 관련)",
       "images": [
-        "https://cdn5.telesco.pe/file/gCzJv1Sgm-o5n32XVco_CLkjZJoCIYrSydJ-l_WTcnsFb1XO3whKM4F569uD9_hJwZQBRd6h0Xs-riWAybv3kFxeL6uDUtOgeSXtV1W2IVF-9rSaf9YTZzaiIL1T3TpF5cwoDbVrCvEyICt0Sl4aHWUnvAlYoAeViXJD9r2W3upNOKY8Ykjv3s2zpohhfMiAtiupUioU9PQeVJqRieprcNR4Q1DoGpokqFRRaIgpY0_7MiAARAFnCLYeDYegDrC_FyjxCBQ5c7Xkl4yHn2JdRmAkzt98iD05X1iUXGns8bRFbb9tcdeSvLdbHEHFUlPfZm5qZ_8i6_9jpdmDJRVzgg.jpg"
+        "https://cdn5.telesco.pe/file/HMQ6nGge2J8gh1mKfndtlcOGr8ZyZPuXHWrLb7T4WLib2MgvU__Sxim6icolhl_q9bmEat3XzOgfxvxvZvJdKLhE4w1s-25_s4oOIOZLp37aiVmX6J548nOQiKgjVlPFBSSFOc2N4ECAv9rLAaPAOstLKl78JCBAuDdC7KNNN3CPhIkuaibEz3cWkTb9Y-YSTbwptK2KkR551o4L4UY3L_JG5W83t_WIWBBVHC2MsR95HfGByac3pVPsA1Chl0wUrrbD11S8P1FoCsqBeFAJt-clnBJ2JJJSV57XDlMe_64SIBJO3E8Aqa2NgyoCxbpwKPwWsq7TFRWivxIFrDkmWA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-04T01:53:41+00:00"
@@ -403,7 +430,7 @@
       "url": "https://t.me/bornlupin/20446",
       "text": "미국의 데이터센터 건설 지출이 8월 전년 동기 대비 +73% 급증하며, 연율 환산 기준 사상 최고치인 850억 달러를 기록\n이는\n6월의 +65% YoY 증가에 이어 상승세가 더욱 가속화된 것으로, 2025년 4월 이후 가장 큰 전년 대비 증가율\n입니다.\n2021년 초 이후 데이터센터 건설 지출은 760억 달러 증가했으며,\n증가율로는 무려 +823%에 달합니다.\n반면, 일반 오피스 건설 지출은 8월 전년 대비 -10% 감소한 460억 달러를 기록했습니다. 이는 2015년 12월 이후 다섯 번째로 낮은 수준입니다.\n2023년 초 이후 일반 오피스 건설 지출은 250억 달러, 약 -35% 감소했습니다.\n이에 따라 데이터센터와 일반 오피스 건설 지출의 격차는 사상 최대인 390억 달러까지 확대됐습니다.\nAI 투자 확대가 더욱 가속화되고 있습니다.\nhttps://x.com/KobeissiLetter/status/2106454781816340774?s=20",
       "images": [
-        "https://cdn5.telesco.pe/file/Tyq2Woni2nPivVXW9HLOPmLfE1PvefJIgAXyICHqeeqW8bi2rEixVFkbykRZlZgaH0oRGSoziPIY5nldzDIbWmJrT3wTWsuNOCX__1Xeb0bp0F3BfwFGzcreUFRXhsbzAcvN8V4NNDz3USAH6InJuVis4WfOEgGX8npZ7ioWqsjvsIeQX1yJG26rjbM6y3-feQSWSiITKxy0PQvesx9HA9MH2zd6Dg8uERi_PiAoVBtC36vP0_9RIZyEcTAcOQ121p8H4-nBVPRSVzMpphVmvFiuF5vxfChDFWEldXkD_hKe064Z99aindQyMbodHmJIG_P0e4RMZuKak8XCEwk73Q.jpg"
+        "https://cdn5.telesco.pe/file/JI2a4k57GCtOJ9-MuKdix0x3e7gpdgkz89nqteqPtLPJzo-zt3TPf5HOdFn3isw133Q_5Rph_-Vhz3NSkeUyz0anIGsu10_gHK7vzpbdNcDanmkmyahUIqzvlzdeAwKvfhyqMcmxXoTnFekGMEeNQJyMWA_-bh9ZbGZvxTpb4Hb42mfb9kFUBUnbJUhXxTW7arPX_eGac-GAJjUDLQEA5iHhORJHI-Q-Bt13vrtGZkOqitlbsA7AukymdxQMwz7MoUC85bgdBiRDLQRKh9B2MCCDfNWA6B1pYUZSqHeFiRygUkjhtx2tXrdWGy9xjZXcdmTdQPJTRvvCISh6XUNAcg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-04T01:26:02+00:00"
@@ -429,7 +456,7 @@
       "url": "https://t.me/bornlupin/20445",
       "text": "네비우스(Nebius,\n$NBIS\n) 업데이트: 인디애나 525MW+ 데이터센터\nDataOne이 제안한 데이터센터 캠퍼스는 전력망(Grid)에서 350MW를 공급받고,\nBloom Energy의 천연가스 연료전지를 통해 현장에서 175MW를 추가 생산할 계획\n입니다.\nDataOne과 Bloom Energy(\n$BE\n)는 $NBIS의 데이터센터 개발 및 전략적 전력 파트너 역할을 하고 있습니다\nVineland 프로젝트에서도 동일한 조합이 적용\nDataOne은 인디애나 Frankfort의 Logix Innovation Campus에 약 80만 sqft, 총 투자액 $7.5B 규모 AI Factory를 추진한다고 공식적으로 밝히고 있습니다.\n전력 구성:\n350MW: Indiana Municipal Power Agency(IMPA) 계통 전력\n175MW\n:\n현장 연료전지 발전\n합계 525MW\n350MW grid + 175MW Bloom Energy natural-gas fuel cells",
       "images": [
-        "https://cdn5.telesco.pe/file/g5mHVVQCMetwrS-OQ2uZsGmd843EI7R_gvQEP6_n9r11J4mnQ6guRUIwEV4qfmSWY9odRtDnJD3KmNpvnpGnUPERqlacDxXiGJibAFSYbd2PdkmVb9INZnPm8ibRjjEE6A2BvO6LAzqSRHxAELm23aQfwmsdsyG81ak19nwgt3CCtnitYTfSAVryarA_HQxmI53tavQoBhlOuluJ9O1aSZzg3rGyGFYibEffvaOtE22mzrsulWRCp52MlkizIUfFTt1ElK_BAf2a4uWmB0h4gi6Xx9_VJWn7v8rhNA5n-FLvbhEdGfKmPinaPJSoWTmoNgO44ZNaZa9GiGMaXKoyaQ.jpg"
+        "https://cdn5.telesco.pe/file/oLfHol18v-A6OOk5IiWMAjTtHRsI6x5sWPU0kBB8xXhEwW7ZhNfNtwGS57pOqmJSb4ggIVVxdPnsm54Baq5VZx3TrZMiXBR5qAGrv9k_zNSsNnPmWQQ-tq1ViqGiQpYVCkqd70IzXyF1qCqBwITsqK2OAqt8_GzERqw3htqnAei0AI52pJQNna6rcaZiKC3ZPet3miqvOrbaC-aZMXC1GXdAn27kz04ngzXvzdWrGxxncH3uTFBGMvuNv_ejVehQpbGUSQbXMdws8nD2MpyXQJaL_0mgCpyzM7g2uplOsB-Ce0o8g_pkuaznY-jw8Eadz4F6aU-kcLPGXHb4-WDFUA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-04T00:51:50+00:00"
@@ -515,7 +542,7 @@
       "url": "https://t.me/bornlupin/20444",
       "text": "다음주 일정\n5일: 한국, 중국 휴장, 미국 9월 ISM 서비스업 PMI, S&P글로벌 종합,서비스업 PMI\n6일:  미국 8월 무역수지, 중국 휴장, PENG 실적(장후), 마벨 Investor Day\n7일:\n9월 FOMC 의사록 공개\n,  중국 휴장,  APLD 실적(장후), BofA Technology Innovation Summit(Enterprise AI), Milken Institute Asia Summit(~9일),\nMS Windows·Surface 행사( 사티아 나델라, 젠슨 황 참석\n주제: local AI가 PC의 다음 장을 어떻게 바꿀 것인가 - Windows, 엔비디아 RTX Spark, Surface, PC 생태계의 최신 내용 )\n8일:\n삼성전자 3분기 잠정실적, TSMC 9월 매출\n,\nNeocloud Summit\n( AMD, 슈퍼마이크로, 시스코, 소프트뱅크)\n9일: 한국 휴장, 미국 10월 소비자심리지수, 기대인플레이션",
       "images": [
-        "https://cdn5.telesco.pe/file/rhVwKJ6f1VMwztggJR1F_ey-SGVrsW3Uc7ekZfbs_eIqsTVCT-bW_45CHqK8KUPQUklh01-GxayEXp5HOlr7z0fy3Q3WLSd7AcSVno8f4MAto-QWQ0fJZ31i5X89q6GLXhts4ouQ59fNGitSI6DzLk6pDXO-qH66atXDpKSUAh3YljPlSv4Uh72xirSnpEvibRGIyCtdjFiJW30z4S0u8YQN2KRKAKV3vkpjEvaH2kCzFCpswyv5mIX3PszfzMMY3tG-RpZV3e6pcKOAOw-clUiXssgHwz7S8211aTid2DOsSqH2VUK4ifEjbELDoLxowJ8xMFZUKdauQwSY7MJlpA.jpg"
+        "https://cdn5.telesco.pe/file/Yhi7lREF1aoZhk1soCRLRwiJLVHEkk5rSSBbXI6Meuelxw3y9pksBlai276g8SfPaV72k0GsyW8qvapNLOyQId-1Z_VbodHhdGBdEEM2hJN_14Nfmxd73NpozF8gPyrjSW3hRGAI8YmsUy_L8BkXCsRlnqsqk-oXb0cA0pvPyyXaBI2u8rX7R4bo335dl5IxSPAP3x7oEWLD9b_-u6Ykm15OY3rF_vnQd1exwB2CzelcoQBM3mCGB3zH-Oy_FaZfLuuojAqEuV8FwzVgvjbmj8wQ9n6pDKoulNuBAxPHBlOmjHd0IPDGXWMreCiLeO0PfC6iis0LUHsh1pEBmuDmAg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-03T00:48:55+00:00"
@@ -569,32 +596,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-10-02T13:08:07+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20441",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20441",
-      "text": "도널드 트럼프\n“대한민국과의 협상이 계속해서 더 좋아지고 있다는 소식을 기쁘게 발표합니다!\n향상된 석유 회수(EOR, Enhanced Oil Recovery) 프로젝트에 84억 달러가 투입됩니다.\n더 많은 석유와 가스를 생산한다는 것은 미국의 에너지 지배력(American Energy Dominance)을 강화하고, 미래를 위한 전 세계의 에너지 안보를 확보한다는 의미입니다!",
-      "images": [
-        "https://cdn5.telesco.pe/file/QTNBeITTHY6AWhF7YgJmknyUIrl7CedD5OVRHUaz5jzY9llxalfFiJ4TghDUL9EHKjUDRfT4FjCmR5bH05LSW6Vyp2hR7JNGRrRxqG8AERZVgra8alqcRO6HdIMm-s5pj9GiiGkG5XvV8Tp7xKRrMCb-zxdJ3Rs_1AVVSZyh_X86HA8kCLKumCGqouQnOUzLuAzSBKJfQTLXw6G9bPKSo863XE3a9KXJqhF4aDmxlp71I0PsJLfAEyg16u_pRuzipEPhY4TCV65AZ1vVUdyztekyz8yFAsanb-FkF5R5vyS4QsEGF5FPtQ45K731U85CkVfuTpTxkFKNyJBEtgRJHw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-02T12:46:05+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20440",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20440",
-      "text": "모건스탠리, 엔비디아(\n$NVDA\n)를 반도체 부문 탑픽으로 재지정\n부담 없는 밸류에이션을 바탕으로 유리한 입지를 다지고 있음\n조셉 무어 애널리스트는\n뉴욕과 보스턴에서 젠슨 황 CEO, 콜레트 크레스 CFO, 토시야 하리 IR 담당 임원과 투자자 미팅을 가진 후 \"우리는 엔비디아가 매우 부담 없는 밸류에이션 속에서 확실히 유리한 위치에 있다고 본다\"\n고 썼습니다.\n이 주식은 모\n건스탠리의 회계연도 2028년 예상 순이익 기준 15배에 거래\n되고 있습니다. 무어는 AI에 대한 열기가 되살아날 경우 멀티플이 확대될 여지가 있다고 말하면서도,\n추정치가 계속 상향 조정되고 있기 때문에 주가가 상승하기 위해 멀티플 확장이 반드시 필요한 것은 아니라고 덧붙였습니다.\nAI의 병목 현상이 칩 생산에서 새로운 데이터센터 공간을 건설하고 자금을 조달하는 속도로 이동\n하고 있으며, 이는 엔비디아의 강점에 부합한다고 밝혔습니다.\n엔비디아는 80개의 클라우드 파트너(그중 55개는 미국 외 지역)를 두고 있어 전력이 가용한 곳으로 진출할 수 있는 유연성을 확보\n하고 있습니다.\n무어는\n엔비디아 고객 기반의 폭넓음도 강조했습니다. \"투자자 대화의 90%가 최대형 하이퍼스케일러와 프런티어 모델 기업에 집중\n되어 있지만,\n사업의 절반(아마도 더 빠르게 성장하는 절반)은 더 광범위한 AI 모델 기업, 네오클라우드, 소버린 엔티티, ODM 및 OEM, 그리고 기업 고객들로 구성\n되어 있다\"고 무어는 적었습니다.\n그는 또한 기가와트당 매출을 끌어올리려는 엔비디아의 전략을 언급하며,\n2028년 파인만(Feynman) 아키텍처가 이 수치를 400억 달러에서 500억 달러 훨씬 상회하는 수준으로 끌어올릴 것으로 예상\n된다고 전했습니다.\nAI 에이전트와 관련해서는,\n에이전트가 CPU 수요를 촉진할 것이지만 GPU에 대한 지출은 그보다 훨씬 더 많이 이끌어낼 것\n이라고 무어는 언급했습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-02T12:40:37+00:00"
     },
     {
       "id": "tg:enc210406/4474",
@@ -657,7 +658,7 @@
       "url": "https://t.me/enc210406/4473",
       "text": "[삼성중공업 상선 수주 공시]\n@ 선종: LNG 운반선(174K cbm)\n@ 수량: 2척\n@ 선가: 247.2백만달러/척",
       "images": [
-        "https://cdn5.telesco.pe/file/uYIInTFO3AoMhbpyZ4BNxR5m5FWRrSIPUO6Lz9k2KyRRsFwLB5p4I3hkCyyHuMHwIMUffdOv5Sz5_FsFotkp0kXro2YmKme2pALjtLyRzBPza9kdMLFRFq2EHUisodAKDLSX-Q8DgQk6rMW4bGd_3I1N-yvgzmhNvD5FKjaEq8Do5PFrOQLAFzrP4H4RSO_Q4102LcN9_qUxNRmIfaUmfUDGfqmEp9rUlMYaVHXXdcePRrUFOJDUtTZbtIj7LCq4pt7NTbAlsqMWR4zSzTKGaFhMSzecqgYaWtDPj_tYheBiY_zTlWWg1q0SopBc6gGAVAzOUGGEx0poR9L7h2TuUw.jpg"
+        "https://cdn5.telesco.pe/file/a5jwjkToh7kar8yx58ksP3XDg7YfxqoBZSUUIQCZPILsuU7bLnwnT1mjXK4hbJjmC_SHVXF0OrzR8MhZKYAwy_7TYcQUZFZRtSyMe-tfc0h3Ttv8n-fqPbxo-xQcS-0w_a-opqqtkmwI0p6jUKh7DvzPxadxdI0UcR1kwsxf8qYJOBuYHp_0c42eqos-f64bXQak2YLKTf4BrXAm844V34U022bOwIb1A9NYsHo69sujZLZRWVnNjJgR5ug9I48ae4PR3icH06lNGkWX7GNCG9TQt5PNWydv2BGmzlHLoQT-4n8GIA4WjrZou2EsXNW4EGC6ex4CXLa0Q7Q4hzGYfw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-02T02:01:58+00:00"
@@ -735,7 +736,7 @@
       "url": "https://t.me/enc210406/4467",
       "text": "[HD현대중공업 해양 계약 변경 공시]\n@ 제품: FPU(Trion)\n@ 변경 사항\n1) 계약 금액\n- 기존: 1조 8,422억억\n- 신규: 1조 9,539억원\n- 변경: 1,117억원 증액\n2) 납기\n- 기존: 2027년 4월 1일\n- 신규: 2027년 6월 1일\n해양 change order 입니다.\n3분기 환 효과를 일부 상쇄할 수 있는\n긍정적인 이벤트입니다.",
       "images": [
-        "https://cdn5.telesco.pe/file/Wh7uJ3ISCuvfmyTFGDeB3KAS5Vs8EYZOGjtI4ERHJ_O0no88z0vJhfYMhQh-0cTdGYlfMismIJBsCdBpSrPJJ8PkbufiD3YsZcruTeMxksK5sO0jcuqQaNj4lQpH-zlOsVVHbjwMqPE1rFX1dZVeOhumF7XLnL3hPaCTaIIGyxiubHX8FtX1_iIrAzXMlktMLtpZ7pwjXJzQ11ApzzUvIXPnT9SAUDSBu9lLAJsrBljVGRlzlXyEQ6eByxMdFMAUYqyrwdjI4pCwSmOUuKgiTqhqrz1IRZCoVLETz5lPzia4Gp3XhXoN6oQU5Ncn9yi9_Qz2rWsltDu9N5SO2C4VUQ.jpg"
+        "https://cdn5.telesco.pe/file/eQNGvlsbFt79deKKWV7gZOlF15jw8hQonuypJzxHgqzh2OU0FZwovR9KZQA_mrjzZPFZ5Jlph8QtEMklee2jF2ZOBQwbrdNXHqqrsTo2m0pHFeHz-unhWqe0JI1Z4qlVGuKMTs5XFl9ZFEatcF0pdn8aZVl3AdyZjXiDMqs1CJF6iaXEXJArs03omOL8Bsm7px5ll8rNPKsq25jDAHTIQ8uwV23lGDMYIYjkE1mmC9rQgKH-E2jaRJxW8dL2buO64SwZ4jKWun0x00qDSJ3o2-IDby0KQ0PMc9wqtwSyGY6wd2vfgeLMY0ek7EyZb3ArIO4pKOHIm-j0XnB4Ff1DFA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-09-30T01:24:04+00:00"
@@ -749,7 +750,7 @@
       "url": "https://t.me/enc210406/4466",
       "text": "[조선사별 임금단체협상 내용]\n최근 4개년 간\n주요 조선사별\n임금단체협상 내용을\n기본급 인상(Base-up)\n격려금 위주로\n정리했습니다.",
       "images": [
-        "https://cdn5.telesco.pe/file/C78Vl43BBOHqHdTP0D6KobhSSbfXm2uz0osAZOJYkre1q4Jg9a-Uba7aBmUKnWDZJx5ZqgDlPvfaTImTOUzRE8TRzgCGNU6p-CCrp54mF4i3mWT4u7kZyEiLg2ro_EAR_ZiwjIBzm3_uzM8QUb9508QNCTxrGt_divi03NtmnbLclPXiNT5SlIcPF0GceMh_NqhbXcFZ5ECWS7aCQQJpbPEJqC2w5qy4-i1ixNx3OS45rcA52CD4wEHvk0Zsh54jyZtJj63NyZ2gaaHALImT2akD11u-mMmMG39RD-TP_pHlz5lE0zRSjZGEzM8QcU_40xz0B8UWNlbRZ0ST2spMPg.jpg"
+        "https://cdn5.telesco.pe/file/cKiu5r1bd8XsxJ64MRU6xiRLs5D_8oKB7GKim6Usjyj7wLKg4qZa6zinxGaCkDc-ZAyhtIxjVrmiCpncyyZE83_yO7FXFuUsUsI8K5tC6iaD8VnwwfnKX2SADW6R3X0qM5oXGTEu1Ggw1veyltD0HSs4SXJ7SS7JJY_u_3sOqmyZYpFp_Udz1iYTgxTIQpy16weXNuQ7gXmKI2Ey0KNn4hz9TzpG31jjY-JrTgeePREbmU4X76PWYNsFI3IDixlYg8Qsgy-P9lWqEB19jHIQg2nOtfftVY0XLU6jnIyF5VhLTpWzyWhBXFiLPigICVSA0eFmXSpfFGWuHRDPWlfl3Q.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-09-30T00:30:10+00:00"
