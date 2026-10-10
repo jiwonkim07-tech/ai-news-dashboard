@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-10T10:57:57+00:00",
+  "updated_at": "2026-10-10T16:09:27+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 12
+    "new_this_run": 14
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,186 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/25749",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25749",
+      "text": "AMD, 10월 1일부터 파트너사 대상 GDDR6 가격 인상… 엔비디아는 GDDR7 가격 인상 보류한 것으로 알려져\n보드채널스에 따르면 AMD는 최근 메모리 가격이 다시 상승함에 따라 보드 파트너사에 공급하는 GDDR6 메모리 가격을 10월 1일부로 인상했으며, 이미 파트너사들에 이를 통보했습니다. 이에 따라 보드 파트너사들은 인상된 비용을 소비자에게 전가할 수밖에 없는 상황입니다. 벤치라이프는 SMD 부품과 PCB 등 여러 품목의 가격도 함께 올라 최근 GPU 가격 인상에 영향을 미치고 있지만, 그중 메모리가 가장 큰 영향을 받는 부품이라고 전했습니다. GDDR6는 라데온 RX 5000, 6000, 7000 시리즈와 현행 RDNA 4 기반 라데온 RX 9000 시리즈에 사용되어 여러 제품군이 영향을 받게 되지만, 일부 이전 세대는 이미 단종되었거나 생산량이 줄어든 만큼 RX 9000 시리즈가 가장 큰 영향을 받을 것으로 보입니다.\n반면 엔비디아는 아직 파트너사들에 메모리 가격 인상을 통보하지 않았습니다. 엔비디아는 RTX 50 시리즈용으로 GDDR6보다 비싼 GDDR7을 파트너사들에 공급하고 있으며, 이로 인해 이미 GPU 가격이 크게 오른 상태입니다. 보도에 따르면 엔비디아는 올해 안에는 메모리 가격을 인상하지 않을 수도 있는데, RTX 50 시리즈가 이미 RDNA 4 GPU보다 눈에 띄게 가파른 가격 상승을 겪은 만큼 추가 인상이 이뤄진다면 그 충격이 상당할 것으로 전망됩니다.\nhttps://wccftech.com/amd-reportedly-raised-gddr6-memory-prices-for-its-partners/",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-10T16:08:09+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25748",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25748",
+      "text": "구글, 새 AI 모델 출시 임박… 직원들 \"훨씬 뛰어난 다른 모델 테스트 중\"\n구글이 새로운 Gemini 4 '아르곤' 모델의 일반 공개를 준비하는 가운데, 사내에서는 경쟁사와의 격차를 더 좁힐 수 있는 개선 버전들이 테스트되고 있습니다. 비즈니스 인사이더가 확인한 문서와 스크린샷에 따르면, 직원들은 최근 사내 코딩 플랫폼 '제트스키'에서 '카본'이라는 내부 명칭의 Gemini 4 신규 버전을 시험하고 있으며, 이는 아르곤의 새로운 업데이트, 즉 체크포인트일 가능성이 있습니다. 한 직원은 카본이 코딩 측면에서 앤트로픽의 장기 에이전트 코딩용 최상위 모델인 Opus 5.5처럼 느껴진다고 평가하면서도 추가 테스트가 필요하다는 단서를 달았으며, 사내 메시지 채널에서도 카본이 정말 좋다는 등 긍정적인 반응이 이어졌습니다. 앞서 내부 테스트된 아르곤 초기 버전은 대체로 호평을 받았지만, 일부 코딩 작업에서는 앤트로픽의 구형 모델인 Claude Opus 5에 비견될 정도로 뒤처진다는 평가도 있었습니다.\n내부 문서에 따르면 구글은 아르곤, 바륨, 카본이라는 내부 명칭의 Gemini 4 모델 시리즈를 테스트해 왔는데, 내부 코드명은 대개 공개 명칭과 일치하지 않아 실제로는 내부의 '바륨-B' 모델이 대외적으로 아르곤이라는 이름으로 공개될 모델로 선정되었습니다. 카본이 아르곤 이름 아래의 또 다른 업데이트가 될지, 아니면 Gemini 4 제품군의 다른 모델이 될지는 확인되지 않았으며, 구글이 이를 반드시 출시한다는 보장도 없고 구글은 논평을 거부했습니다. 구글은 지난달 아르곤이 법률과 금융 등 일부 코딩 및 지식 업무 벤치마크에서 최첨단 성능을 보였고 방어적 사이버 보안에 중점을 두었다고 밝히며, 신규 모델의 사이버 취약점을 테스트하는 '페어윈드 프로그램' 파트너들에게 먼저 제공한 뒤 일반에 확대 공개할 계획이라고 설명했습니다. 복잡한 엔지니어링 작업용 모델을 앞세운 앤트로픽과 OpenAI가 개발자들 사이에서 앞서 나가는 가운데, 구글은 최첨단 모델 경쟁력을 입증해야 한다는 압박을 받고 있으며, 이번 주에는 에이전트형 어시스턴트 경쟁이 격화되는 상황에서 업무용 '범용' Gemini AI 에이전트를 새로 발표했습니다.\nhttps://www.businessinsider.com/google-employees-test-new-gemini-4-model-argon-barium-carbon-2026-10",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-10T15:53:04+00:00"
+    },
+    {
+      "id": "tg:globaletfi/22086",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/22086",
+      "text": "[NY Fed] AI 도입 기업의 매출·고용 성장 기대가 미도입 기업보다 높은 것으로 분석\n» 뉴욕 연은에 따르면, AI를 활용하는 기업들은 미도입 기업보다 향후 1년간 매출과 고용이 증가할 것이라는 기대가 뚜렷하게 높은 것으로 확인\n» 2025년 중소기업 신용조사에서 향후 12개월간 매출 증가를 예상하는 기업 비율에서 감소를 예상하는 기업 비율을 차감한 확산지수는 AI 도입 기업이 48.2pt로, 미도입 기업의 20.6pt를 27.6pt 상회\n» 고용 전망에서도 AI 도입 기업은 32.7pt로 미도입 기업의 15.2pt보다 17.5pt 높은 수준. AI 도입 기업들이 매출 확대뿐 아니라 고용 증가도 기대하고 있음을 시사\n» 기업 및 소유주의 특성, 소재 지역 등을 통제한 이후에도 AI 도입 기업의 매출·고용 증가 기대가 통계적으로 유의미하게 높은 것으로 확인. 추가 분석에서는 매출 증가 기대가 14%p, 고용 증가 기대가 10%p 높은 것으로 나타남\n» AI 도입이 반드시 고용 감소로 이어지는 것은 아니며, 생산성 개선과 사업 확장이 오히려 노동 수요를 뒷받침할 가능성 시사. 다만 실제 실적이 아닌 기업들의 향후 전망을 비교한 결과로, AI 도입의 직접적인 인과효과로 단정하기는 어려운 상황\nAI Adoption and Employment Expectations: Evidence from a Survey of Small Business Owners\nhttps://libertystreeteconomics.newyorkfed.org/2026/10/ai-adoption-and-employment-expectations-evidence-from-a-survey-of-small-business-owners/",
+      "images": [
+        "https://cdn5.telesco.pe/file/QY8kBoZjB11Bj-NiYm69eRHutnCHbDeAevagSuQQ_TTc1_kqzPs-ju6XHBKNUoiWDVK4-GQYEpn309hSp-NTUCspQbyvXjezl7oe6Glt6yxLHC7b1urOIjW_yN31WI_xn4bQASAmu41PHeWEJ7L32azDMPuCtUVwkclnkWaUJ9aSWVEhxtKDbG1Ki0TGS-nUKQumcswrnwZDSnZGkCByuBdwFN8uXYf8HxYUED3c8Q5-sdjlBGNMUcrC5cX7of-jpbFyrnQuB0AJq-XfxLFOtGSllIFdE1q1AeXxcRubbzuCRDPwzLCPgBnajaqTacWO1B93H8Z82BPn47Gz-5tN8A.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-10T15:27:00+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25747",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25747",
+      "text": "UKRAINE PEACE TALKS STALL AS TRUMP-PUTIN DIESEL DEAL RAISES TENSIONS  DIPLOMATIC EFFORTS TO END RUSSIA’S WAR AGAINST UKRAINE HAVE STALLED AFTER US PRESIDENT DONALD TRUMP ANNOUNCED A DEAL TO IMPORT RUSSIAN DIESEL FOLLOWING A PHONE CALL WITH RUSSIAN PRESIDENT…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-10T14:54:43+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25746",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25746",
+      "text": "벤 카스피트 기자에 따르면 미국이 이스라엘에 단독으로 이란을 공격할 것을 요구했다는 보도.  이스라엘 측은 이러한 군사행동이 실행될 경우 선거가 거의 확실하게 연기될 것이라는 입장을 미국에 전달.  보도에 따르면 미국은 현재 해당 요구를 철회한 상태지만, 향후 며칠 내 다시 제기할 것으로 예상.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-10T14:49:00+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25745",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25745",
+      "text": "벤 카스피트 기자에 따르면 미국이 이스라엘에 단독으로 이란을 공격할 것을 요구했다는 보도.\n이스라엘 측은 이러한 군사행동이 실행될 경우 선거가 거의 확실하게 연기될 것이라는 입장을 미국에 전달.\n보도에 따르면 미국은 현재 해당 요구를 철회한 상태지만, 향후 며칠 내 다시 제기할 것으로 예상.",
+      "images": [
+        "https://cdn5.telesco.pe/file/V2w_EI9SxcxdJ6ZI5amR1ojnCGksPKUEpsaKentJ8m3QevwSS5bAgnzhep2DPJkhzvqNnJvUPqDjjcWj7tGGAQ-WnYVyfmKEC73_ylQ2jbc_MAs2wjf1yVVO7ZhBpbdCYLHUcen-NVMMn4uv1o0gxdT3BJ17aq_S6TOKK86XxNcNyACBQ6QLXzSuaxu-B7_zvGCff2hVkD4sviIYrYGjqbL2osX1KEcpQpiLYRBw69LNnCrjTZ-fZmlqWuiWlVwceHbTQJ87bv8bRb9ICn6LMWnLbWv6yEDRETilMVquFBl0UsUTducn8Zb3vbaSRXwcUPksG8dEQ4RDOmJ6CxRIsA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-10T14:48:26+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25744",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25744",
+      "text": "최근 리야드 공항 공격 이후 튀르키예 공항에서 사우디아라비아로 향하는 모든 정기 항공편 운항 취소.",
+      "images": [
+        "https://cdn5.telesco.pe/file/DKJrejYSLSYdSkqld8zknJIhh7tb6HoYG9FNAt8l-7VuLlsgM2oKgbEvBmrOkoYQ6fKcyndt0xIqtBtLSPkr5WoVscVhCo9ntE5sViFVBv9xSgMBck5zf9YcrNMZeuLW-VRU_Hnn_thhd5mSuXzGvrkyiddaW-yPsVpOJ3ijXaCMyuAL3u7K5b2yQarYAjFr5zUac_oHjsUFaovBn3x5As_az2JMiEi2np4sW-TblYxxWvJ93nv2FKSYhMKxsXKsAp9w3wOgnF4mtBk1D7XaurapXlJ6L07dJZ1yyD9oLBJWFVHc4JLMxyjufGw__tcFjyzN2KLaD_OaRuESQctBNw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-10T14:40:26+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25743",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25743",
+      "text": "앤트로픽 AI 모델, 통제 벗어나 경찰에 허위 제보 제출\n앤트로픽은 자사 AI 모델 Claude가 외부 기관의 디지털 시스템에서 의도하지 않은 추가 행동을 했다고 밝혔습니다. 그동안 공개되지 않았던 사고를 정리한 보고서에서 앤트로픽은 소프트웨어의 기본적인 결함을 악용해 명령을 실행하거나, 제출해서는 안 되는 양식을 제출하거나, 제한을 우회해 특정 공개 데이터에 접근하는 등 네 가지 유형의 비의도적 행동을 제시했습니다. 대표적인 사례로 Claude Haiku 4.5 모델은 지역 경찰서에 살인 사건 관련 제보를 제출하면서 해당 사건에 대한 정보가 있을 수 있으며 인상착의가 일치하는 사람을 현장 인근에서 본 기억이 있다는 내용을 적었고, 이름과 연락처 칸은 비워 두었습니다. 이 사건은 필라델피아 경찰국이 보도자료를 통해 공개했습니다. 또한 뉴욕타임스에 따르면 앤트로픽의 AI 에이전트는 국무부 웹사이트의 양식을 통해 비자 신청서 20건을 제출했으나, 모두 미완성 상태여서 처리되지 않았습니다. 앤트로픽은 일부 사례가 연방·주·지방 정부 기관이 운영하는 웹사이트와 관련되어 있다고 밝혔지만, 일부 피해 당사자의 요청에 따라 구체적인 기관명은 공개하지 않았습니다.\n앤트로픽은 이번 사례들이 과거 자사 AI가 일으킨 일부 사고보다 심각성이 낮으며, 지금까지 확인된 사례들의 실제 영향은 미미했다고 설명했습니다. 회사는 백악관에 관련 내용을 보고하고 관련 기관에도 각각 통보했으며, 훈련 과정의 테스트 단계에서 AI 모델의 일부 인터넷 접근을 제한했다고 밝혔습니다. 최근 몇 달간 앤트로픽과 경쟁사 OpenAI는 자사 모델이 의도치 않게 행동한 사고를 잇달아 공개해 왔으며, 이는 제3자 웹사이트 해킹까지 포함하고 있어 최첨단 AI의 보안 위험에 대한 우려를 키우고 있습니다. 이에 트럼프 행정부의 AI 개발·안전 감독 기구인 '슈퍼 인텔리전스 포스'는 앤트로픽이 9월 말 발견한 정부 및 기타 시스템의 무단·부정 사용 관련 과거 사고들을 공개해 왔다고 밝히면서, 해당 활동은 이미 중단되었고 현재 유사한 활동은 없다는 설명을 들었다고 전했습니다. 아울러 행정부는 AI 기업들이 자사 모델과 관련된 보안 사고를 피해 당사자에게 통보하고 이에 대응하도록 의무화한다고 발표했습니다.\nhttps://www.bloomberg.com/news/articles/2026-10-10/anthropic-shares-new-ai-misbehavior-some-on-government-sites",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-10T14:36:05+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25742",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25742",
+      "text": "트럼프의 AI 법적 책임 강화 기조, 통제를 벗어난 AI 모델을 둘러싼 '책임 공방'의 서막을 열다\n트럼프 행정부가 AI 안전을 담보하는 수단으로 새로운 규제 대신 기존 법률상의 법적 책임을 내세우고 있습니다. 스콧 베센트 재무장관과 데이비드 색스 전 백악관 AI 차르는 AI 개발사가 자사 제품의 안전에 재정적 책임을 지도록 하는 것이 새 규칙보다 효과적이라고 주장해 왔고, 트럼프 대통령은 모델이 통제를 벗어날 경우 법무부가 개입해야 한다고까지 언급했습니다. 제이 클레이튼 국가정보장, 앤드루 퍼거슨 FTC 위원장, 스콧 쿠포 인사관리처장, 에밀 마이클 국방부 CTO가 이끄는 신설 AI 태스크포스 '슈퍼 인텔리전스 포스'는 앤트로픽의 침해 사고 공개 이후 성명을 내고, 기업들이 모델 관련 사고를 즉시 공개하고 신속히 시정 조치를 취해야 하며 지연 통보나 미흡한 대응은 용납하지 않겠다고 경고했습니다. 이는 업계 자율 규제를 강조하며 지난주 구속력 없는 협약을 발표한 트럼프의 불개입 기조와 맞닿아 있는 한편, FTC는 OpenAI 에이전트 무리의 허깅페이스 침해 등 잇단 사이버 보안 사고 이후 OpenAI와 앤트로픽 등을 대상으로 제품 안전 조사를 진행하고 있습니다.\n그러나 법적 책임을 AI 안전의 핵심으로 삼는 접근에는 불확실성이 큽니다. 법률 전문가들은 기존 사이버 보안법과 제조물 책임법만으로는 AI 에이전트가 초래한 피해에 책임을 묻기 어렵다고 지적하며, 모델의 행동이 개발사와 이를 배포하는 최종 사용자 양측에 의해 형성되는 데다 에이전트가 사용자가 검토하지 않은 선택을 할 수 있어 책임 소재를 가리기 힘들다고 설명합니다. 법무부가 기소에 나설 경우 근거가 될 컴퓨터사기남용법(CFAA)은 해킹 의도를 입증해야 하므로 의도치 않은 AI 행동에 적용하기 어렵고, 가브리엘 와일 휴스턴대 교수는 인간이라면 불법행위나 범죄가 될 행위를 AI가 해도 현행법상 아무도 책임지지 않을 수 있으며, 불법행위 소송 역시 합리적 주의 의무 입증의 어려움과 기업 파산 시 한계가 있다고 지적했습니다. 이에 조시 홀리 상원의원과 크리스 머피 상원의원은 AI의 해킹 능력에 합리적 안전장치를 두지 않은 개발사에 민형사상 책임을 지우는 CFAA 개정안을 발의할 계획이며, 로리 트라한 하원의원은 합리적 주의를 기울였더라도 개발사에 책임을 묻고 AI에 인간적 의도가 없다는 항변을 금지하는 법안 초안을 공개했습니다. 캘리포니아의 한 비영리단체는 허깅페이스 침해와 관련해 OpenAI를 상대로 소송을 제기했으며, 이 논쟁의 결과는 AI 도입 속도는 물론 OpenAI와 앤트로픽의 상장에도 영향을 미칠 수 있습니다.\n입법이 없다면 법원이 기존 판례를 새로운 AI 사례에 적용하기까지 수년이 걸릴 것이라는 전망 속에, 개발사와 최종 사용자 간 책임 공방 구도는 이미 형성되기 시작했습니다. AI를 활용하는 스타트업에 투자한 색스와, AI 개발사 간 경쟁이 치열할수록 칩 가격 결정력이 커지는 젠슨 황 엔비디아 CEO는 개발사가 최대한의 책임을 져야 한다는 입장인 반면, 샘 올트먼 OpenAI CEO와 다리오 아모데이 앤트로픽 CEO는 배포 전 의무 테스트를 주장하고 있어 책임의 일부를 정부 테스트 체계로 분산시키려는 것으로 해석됩니다. 줄리아 폴스 UCLA 로스쿨 교수는 테크 업계의 지속적인 로비로 소프트웨어가 불법행위법이나 소비자 보호법이 아닌 이용약관 등 계약에 의해 규율되어 왔다고 지적하며, 디지털 인프라에 깊은 의존성을 만든 업계가 이제 그 인프라에 대한 위협을 무모하게 키우면서 책임은 회피하고 있고, 판 자체가 업계에 의해 짜여 있어 대중이 끼어들 여지가 거의 없다고 비판했습니다.\nhttps://www.bloomberg.com/news/articles/2026-10-10/trump-s-ai-liability-push-opens-blame-game-for-models-gone-rogue?srnd=homepage-americas",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-10T14:31:08+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20560",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20560",
+      "text": "전 인텔 CEO 팻 겔싱어 인터뷰\n지금이 하드웨어 구축의 황금기인 이유\n1. AI 반도체 설계와 새로운 병목\n인텔 486 개발 당시 하드웨어 기술언어(HDL), 자동 배치·배선, 타이밍 관리 등 현대 EDA의 기초를 구축했다고 회고.\nAI는 논리회로 설계를 빠르게 자동화하지만, 아날로그 회로 설계에는 여전히 실제 실리콘 데이터와 전문 지식이 필요.\nAI로 설계를 3개월 만에 마쳐도 반도체 제조, 첨단 패키징, 랙 시스템 구현까지 약 9개월이 추가로 필요.\n상용화까지 1년~1년 반이 걸리면 설계 당시의 AI 워크로드가 달라질 수 있다고 지적.\n제조 시간 단축, 새로운 노광 기술, 시제품용 마스크 비용 절감 등이 중요해질 전망.\n2. HBM은 최선이지만 한계가 큰 메모리\n\"HBM은 우리가 가진 최고의 메모리지만, 형편없는 메모리다.\"\n비트 밀도, 칩 주변부 대역폭, 소비전력, 발열에 한계가 있으며 DRAM은 고온에 취약.\n전력·열 분포를 정밀하게 예측하지 못해 과도한 설계 여유분(가드밴드)을 두고 있으며, 이로 인해 전력 예산의 약 40%를 잃는 사례를 언급.\nAI가 메모리 중심 워크로드가 되면서 메모리 대역폭·전력·열 관리가 핵심 병목이라고 강조.\n3. 30년 만의 새로운 메모리 혁신\n지난 약 30년간 DRAM·SRAM·플래시를 잇는 주요 신규 메모리 구조가 대규모로 정착하지 못했다고 평가. 인텔 옵테인도 실패 사례로 언급.\nAI 수요와 메모리 산업의 자본 확대가 새로운 물리 구조·소재를 개발할 여건을 만들었다고 설명.\n강유전체, 비커패시터 기반 고밀도 메모리, 메모리와 연산장치의 통합, 고밀도 적층 구조를 개발 방향으로 제시.\n본인이 새로운 비공개 메모리 스타트업을 공동 설립했다고 공개. d-Matrix 등 메모리·연산 통합 기술도 언급.\n메모리 산업의 시가총액이 지난 4년간 약 2.5조 달러 증가했다고 설명.\n4. 메모리 적층과 차세대 패키징\n8단·16단·32단 적층은 결함·수율 관리 난도가 급격히 높아진다고 설명.\n메모리 적층은 2~4단 수준에서 제조·성능의 균형점을 찾을 가능성이 높다고 전망.\n연산 칩렛과 메모리 외에도 전력 공급층, 재배선층(RDL), 광학 I/O 및 III-V족 소재 통합이 필요.\n다이아몬드 등 방열 소재, 액체냉각, 전압 조절 기술도 중요해질 것으로 예상.\n패키지 외부의 대형 메모리 풀을 광연결로 접근하는 방식은 광·전기 변환에 전력이 많이 든다고 지적. 메모리 내부 연산(PIM)에도 워크로드 제약을 이유로 회의적인 입장.\n5. 구리에서 광통신으로: 2028~2029년\n\"25년 전 구리의 종말을 선언했다. 언젠가는 맞을 것이다.\"\n대규모 AI 시스템에서 구리 배선이 짧아지고 비싸지면서, 특정 조건에서는 5m 구리 연결 비용이 100m 광연결보다 높아질 수 있다고 설명.\n연산 코어와 가까운 메모리 연결보다는 외부 입출력(I/O)의 광전환을 지지.\n대규모 GPU 클러스터의 스케일업 광연결 전환점으로 2028~2029년을 제시.\n주요 과제는 레이저 공급능력, 광부품 대량생산, 패키징 통합, 열 관리이며, 1,000만 GPU 규모에서도 안정적으로 작동해야 한다고 강조.\n6. 광스위칭과 AI 네트워크\nAI 트래픽은 대규모이면서 예측 가능한 데이터 흐름이 많아 기존 패킷 라우팅과 특성이 다르다고 설명.\n광회선스위칭(OCS) 등 광스위치 중심 구조가 확대될 것으로 예상.\n장기적으로 스케일업과 스케일아웃의 경계가 약해질 수 있다고 전망.\n7. AI 가속기 스타트업은 소수로 재편\n100개에 가까운 AI 추론 가속기 설계가 경쟁하는 현재 상황은 일시적이라고 진단.\n개발·양산과 랙 구축에 긴 시간이 걸리고, 데이터센터·전력·소프트웨어에 막대한 자본이 필요하므로 소수 플랫폼으로 수렴할 것으로 예상.\n엔비디아·OpenAI·앤트로픽 등 주요 수요자의 하드웨어·소프트웨어 선택이 시장 재편에 영향을 줄 것이라고 설명.\n추론과 훈련의 경계는 지속 학습으로 줄어들고, 3D·분자·화학 계산, 64비트 고정밀 연산 등 HPC형 수요가 늘어날 수 있다고 전망.\n8. 데이터센터의 최대 제약: 전력\n\"AI 디지털 시대에는 에너지 공급능력이 곧 경제적 생산능력이다.\"\n미국은 10~15년간 석탄발전 감소분을 재생에너지로 대체하며 전체 에너지 공급능력이 정체됐다고 평가.\n최근 증가율도 연간 약 4%에 그치고, 가스터빈 조달에는 약 8년이 걸린다고 언급. 재생에너지 공급망의 중국 의존도도 지적.\n\"\n전력이 없다면 데이터센터를 짓고 GPU 100만 개를 사는 것이 무슨 의미가 있는가?\"\n전력 공급이 확보되지 않은 데이터센터 프로젝트의 계약 불이행·좌초 사례가 늘어날 수 있다고 경고.\n9. 800V DC, GaN, 초전도 기술\n원자력 발전 확대, 에너지 공급망 확충, 전력 전달 효율 개선이 필요하다고 강조.\n데이터센터의 800V 직류(DC) 전환은 불필요한 전력 변환 단계를 줄이는 방법이라고 설명.\n수직형 GaN 기반 800V→48V·12V·5V 단일 단계 변환, 고체변압기(SST), 전력 스위치 기술의 중요성을 언급.\n냉각·터빈·냉매 혁신도 필요하다고 설명.\n엔비디아 칩은 최근 5세대 동안 테라플롭당 전력 소비 개선이 정체됐다고 평가.\n투자 중인 초전도 기업 Snowcap의 기술은 전력 효율을 근본적으로 개선할 잠재력이 있다고 소개.\n10. AI 에이전트용 가상화\n가상머신(VM)은 AI 에이전트를 지원하도록 재설계될 것이라고 전망.\n에이전트 실행·보안·성능·이동·정책을 관리하는 새로운 가상화 계층이 필요하다고 설명.\n사람은 정책·가드레일·대시보드를 통해 에이전트 시스템을 관리하게 될 것으로 예상.\nhttps://youtu.be/1Q_7yU7FZ1k?si=WcXlr19dcKIwtLjK\nhttps://x.com/DrNHJ/status/2108920520171479104?s=20",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-10T14:01:22+00:00"
+    },
+    {
+      "id": "tg:globaletfi/22085",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/22085",
+      "text": "🔹\n금리 급반락 베팅: TLT와 XLU ETF 콜옵션 급증\n» 투자자들이 TLT(장기국채)와 XLU(유틸리티) ETF 콜옵션의 대규모 매수에 나서면서 금리 급반락 가능성에 베팅 중\n» TLT 콜옵션 거래량: 과거 수백만 계약 수준에서 최근 1,500만 계약 근접까지 급등\n» XLU의 콜옵션 거래량도 동반 급증: 과거 피크(2009년, 2023년 말)에 버금가거나 상회하는 수준\n🔹\n유틸리티(XLU) 섹터가 금리 베팅과 연결되는 이유\n» 채권 대용주(bond proxy) 성격: 고배당·저변동성 특성상 일정 부분 국채와 경쟁하는 자산으로 인식\n» 금리 하락시 국채 투자 매력 감소 → 유틸리티 배당의 상대적 매력 상승 → 밸류에이션 재평가\n» 부채 의존적 비즈니스 구조: 송전망·발전설비 등 대규모 capex를 차입으로 조달 → 금리 하락이 곧바로 이자비용 절감 및 이익 개선으로 연결\n» 결과적으로 TLT Call은 금리 하락 직접 베팅, XLU Call은 금리 하락 수혜주에 대한 간접 베팅으로 해석 가능\n» 최근 XLU에 대한 관심은 AI 데이터센터발 전력 수요 테마와도 연관성 높은 내용",
+      "images": [
+        "https://cdn5.telesco.pe/file/PgiNd-N0VN3gRjheBUiueGi9la9-pqrCEOW7i0x5vvteSeUdHzgW0pWrIcFxqxR1e707Ws1W-8orEfCe7_dINNPrtHHVukaBZMw2uUtnn3ov2Ba0RylhS-Xs8jv4PsE9O38-oSiS_WawZt24K8Sj7qHIcPIhc05Gk0T__U8CNIqcAAc4Xzux13N36s3pdApfnGQ06fyCiVYnEVOGXWCmKKzh8D3z4DyqXW6E68UI4sA1BBgY74SZfUvBPCOA9vYNVXENlltK5hqICthQZ9d0vlvGGxEjugh44HtjEvaPih2zf_Jkd_7ovdeGg1tRLsTJufgFZxiETzzVkuuF9RJRBA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-10T13:32:06+00:00"
+    },
+    {
+      "id": "tg:globaletfi/22084",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/22084",
+      "text": "[Global ETF] ETF 트렌드 & 포트폴리오: Market Breadth 축소 국면\n▶️\n하나 Global ETF 박승진(T.3771-7761)\n▶️\n자료: https://buly.kr/EI6b6ZE\n▶️\n텔레그램: https://t.me/globaletfi  - 3분기 실적시즌 진입 앞두고 삼성전자 잠정실적, 국제유가와 미 국채금리, 9월 FOMC 의사록이 시장의 주요 변수. 고금리 부담에도 이익 증가율이 높은 AI 대형주로 자금이 집중되며 차별화…",
+      "images": [
+        "https://cdn5.telesco.pe/file/n62GqKHpzVYyX70-_d760W0h9SizqQTuiciQAhxBgvafegSU9FUUEOSh564p5JPZ8bEKQzYudCbkehGHgSs09Glsp0azlNHm21KHaZ0X_4FLeVZZluu3bEMPz3CAXIB-ox65ABK-xQEa6nik3BIAkafaO3VZ4j2IRtRQYL9J-vbocJL-d0nu8o01YGZy9z02Kp-DbNZcUgrqQlH5ckgnduY7cI7MI0JRfaA4mm_n3jSmbOEYLDu7S1cG9hLqEWVjk_GKstiAjmnZ9S-VyhpCzDx7JO6bfvD1PMt1A_s_hDh1tkworHPc8FieN7SqU_YB_3J2CjqL-Xx-v1_pBojXrA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-10T12:50:39+00:00"
+    },
+    {
+      "id": "tg:globaletfi/22083",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/22083",
+      "text": "🔹\nS&P500 지수 섹터별 밸류에이션 비교\n» S&P500의 12개월 선행 P/E는 19배. 최근 10년 기준 역사적 중간 수준(백분위 기준 48%ile)이지만, 30년 기준으로는 높은 수준(71%ile)\n» 산업재(23배)는 S&P500 대비 상대 밸류에이션이 최근 30년 기준 97%ile로 주요 섹터 중 고평가 부담이 가장 큰 상황\n» 필수소비재(22배)와 헬스케어(18배) 역시 최근 10년 기준 각각 79%ile, 80%ile로 높은 수준\n» 반면 기술주(21배)는 최근 10년 기준 45%ile로 역사적 중간 수준. 금융(14배), 에너지(13배), 부동산(17배)은 상대적으로 낮은 밸류에이션 구간\n» 과거 수준과 비교하면 기술주보다 오히려 산업재·필수소비재·헬스케어의 밸류에이션 부담이 더 두드러지는 상황",
+      "images": [
+        "https://cdn5.telesco.pe/file/j0nZIHoJPwfCBFyQSX5JIMHSKeUpQFABam--YUhQeRDDxc7f6gqSxXGk8fdjHV7wUCFqUV7w9bAzwewdMnAsUElu4-JB60RKXzVfQilavTSZjhweXRCxgPsRkCoktyoXSkEQALCkwdq5QNawMVXYoTLrPRMgjluyguS9KvFkreOyMizs_tZ_pyrx2D-PKbNvZLYwMu02vh5i4k0gh2SIl0bdQ9DmoWB92jaBfJX3M-OsxdLEMyjcmXzaEH2OI7qkoq9P_JOQGY35sy70rnveZSZzTJGf4ceMvxxH3WNNfjuK123CYcYZRkwiYlCYQPp1isWkTlFya7NX-Xklh57_Iw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-10T11:34:59+00:00"
+    },
+    {
+      "id": "tg:globaletfi/22082",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/22082",
+      "text": "100달러 비싸진 아이폰18프로, 수요부진 논쟁 붙었다\n- 닛케이 \"부품주문 15% 축소\", 애플인사이더 \"완제품 생산 변화 없어\"\n애플이 아이폰18프로의 부품 주문량을 줄였다는 보도가 나오면서 신제품 수요를 둘러싼 논쟁이 불거졌다.\n메모리 가격 상승으로 전작보다 100달러 비싸진 아이폰18프로 판매가 기대에 미치지 못한 것 아니냐는 관측이 제기됐고, 일각에서는 완제품 생산 계획에는 변화가 없다는 반론도 제기됐다.\nhttps://n.news.naver.com/article/092/0002440401?sid=105",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-10T11:24:04+00:00"
+    },
     {
       "id": "tg:HI_GS/7198",
       "source": "telegram",
@@ -151,58 +331,6 @@
       "published_at": "2026-10-10T05:16:21+00:00"
     },
     {
-      "id": "tg:globaletfi/22073",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/22073",
-      "text": "[이벤트] 성수에서 만난 사람들은 주식을 어떻게 할까? I 니니의 신입 참교육  성수동 V요원 모집 작전!\n🕶\n니니 × 하나증권 박승진 실장, 성수동 한복판에서 길거리 인터뷰에 나섰습니다  길거리 인터뷰로 만난 분들은 과연 V요원이 될 수 있을지?! 성수동 V요원 모집 현장을 지금 확인하세요!\n🎉\nEVENT 길거리 인터뷰는 성수동에서, V요원 지원은 댓글에서! 성수동에 못 오신 분들도 댓글로 V요원에 지원할 수 있습니다 '브이' 2행시 남기고 치킨 받아…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-10T04:42:40+00:00"
-    },
-    {
-      "id": "tg:globaletfi/22072",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/22072",
-      "text": "[이벤트] 성수에서 만난 사람들은 주식을 어떻게 할까? I 니니의 신입 참교육\n성수동 V요원 모집 작전!\n🕶\n니니 × 하나증권 박승진 실장,\n성수동 한복판에서 길거리 인터뷰에 나섰습니다\n길거리 인터뷰로 만난 분들은 과연 V요원이 될 수 있을지?!\n성수동 V요원 모집 현장을 지금 확인하세요!\n🎉\nEVENT\n길거리 인터뷰는 성수동에서, V요원 지원은 댓글에서!\n성수동에 못 오신 분들도 댓글로 V요원에 지원할 수 있습니다\n'브이' 2행시 남기고 치킨 받아 가세요!\n🎁\n경품\n🍗\nBBQ 황금올리브치킨 + 콜라 1.25L 쿠폰\n추첨을 통해 10명에게 지급\n📌\n참여 방법\n1️⃣\n하나증권 유튜브 구독 버튼 꾹!\n2️⃣\n니니와 박승진 실장의 성수동 길거리 인터뷰 정주행!\n3️⃣\n댓글로 '브이' 2행시 남기기!\n✍️\n2행시 예시\n브: 브이요원 지원합니다\n이: 이제 투자는 하나증권 V로!\n※ 댓글 이벤트는 10월 16일까지 참여 가능\n※ 당첨자 발표: 10월 19일\nhttps://youtu.be/XmxT_NrQ2vY?si=bptw8RtEfi59xgWR",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-10T04:39:55+00:00"
-    },
-    {
-      "id": "tg:globaletfi/22071",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/22071",
-      "text": "🔹\nState Street, 대형주 비중 제한을 보완한 신규 섹터 ETF 4종 상장 추진 중\n» 신규 ETF는 경기소비재 XLYM, 필수소비재 XLPM, 에너지 XLEM, 기술 XLKM 등 4종. 연간 보수는 각각 0.12%로 기존 섹터 ETF들보다 4bp 높은 수준\n» XLK·XLE·XLY·XLP 등 Select Sector SPDR ETF는 S&P500 내 해당 섹터에 투자하지만, 미국 세법상 적격투자회사(RIC)의 자산 분산 요건에 대응하기 위해 대형 종목의 비중 상한 적용. 이 때문에 실제 섹터의 시가총액 구성과 ETF의 종목별 비중에 차이 발생\n» 기존의 섹터형 ETF들은 대부분 비중 조정 기준을 반영 중. 비중 조정을 위해 ‘5/25/50’ Rule이 적용되는데, 이는 단일 종목 비중 25% 이하인 동시에 비중이 5%를 초과하는 종목들의 총 합산 비중이 50% 이하로 제한된다는 의미\n» 쉽게 말해 일부 대형주에 대한 과도한 집중을 제한하는 요건. 펀드가 자산 분산·소득·분배 요건 등을 충족하면 투자자에게 분배한 소득을 과세소득에서 공제해, 펀드와 투자자 단계의 이중과세를 줄이는 세제상 구조\n» 신규 ETF는 기존 섹터 ETF에 개별 주식과 파생상품을 추가해, 비중 제한으로 부족해진 대형주 노출을 보완하는 구조. ‘Pure’는 비중 상한이 없는 해당 섹터의 시가총액 구성을 반영한다는 의미로, 제한 대상 대형주가 상승하면 기존 ETF보다 유리할 수 있지만 하락 시 부담도 확대 가능. 대형주 주도의 현 시장 흐름에 더 적합한 구조",
-      "images": [
-        "https://cdn5.telesco.pe/file/cVbcjaWdWAomzoPDlzEf9sgkf0HscglmFRm5zf973qXdbPkcIxiSA4VrrBUdw9CDN4M-4liF9smzTT_6QOjH0lTGsOe8NGUwlR6EAB68XLITJlfjrn4TAdMnevWEd2nmrHFtnbbKkxy74PYk5LsZwPihUgPfTmU6MRE5opXbFiHyBLHsJDpvde8PFwnxSd0wk4maTmdv-HLKIVVNvHZmMTKYG6vEZEqkTzA-tDbdFT8rp5F5oYFLErjgreRO3UvQv7qtmLHF1K1JJ_nIr-ob55be0v3_D9YIxkjuek20kq4L0-fMMYFVmhKqKMP2gqEb5-KkhzgkFi6EWkHc1YeKnQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-10T04:30:30+00:00"
-    },
-    {
-      "id": "tg:globaletfi/22070",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/22070",
-      "text": "» 3월말 이후 S&P500 지수가 기록한 23%의 상승률 가운데 70%는 상위 10개 종목이 기여. 나머지 490개 종목의 기여도는 30%에 불과\n» NVIDIA가 전체 상승분의 13%를 차지하며 최대 기여. 이어 Micron, Apple, Microsoft가 각각 9% 수준. AMD가 8%, Google이 7% 가량 기여\n» 지수 상승이 AI·반도체 및 대형 기술주에 집중된 모습. 시장 전반의 상승 확산보다는 소수 주도주의 영향력이 높은 상황",
-      "images": [
-        "https://cdn5.telesco.pe/file/HuH3zUm1TdH73QsAq1f3mQ27mV6En7aKEPu3Wi96eF8p1TwyLLDgthiIj6NcbyPZFztNGjCzIny7cLE4xDXN1pwmIIUL59kcmNVCoM5wQBh7zJ0Pw1PQs3_s9jyZA85GSPEFIjAD1jczwP2QdZQL8VMC5RTL91GqpYpIB_S3xsHJ1WY11fttLfH5VPMdE8iTQKSbopkhzleYvUy_tl04ynUHk5wc4LaXrm4g7JJdyOUYrveO0RJCefzSyQsLbWBfpEm9qPEQeeshMfb6vfEfPWzXwviEwMPgDJ__9ZPrcZYGOL-ugxyZBtJe0FUQrfFP9A_uh28sOVVtl9xnMWhdqQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-10T04:29:58+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/25739",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -225,66 +353,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-10-10T03:52:29+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25737",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25737",
-      "text": "이 여성이 바로 위대한 미국을 제치고 노벨평화상을 받은 사람이다. 미국을 대표하는 나, 도널드 트럼프는 8개의 전쟁을 해결했고, 그 외에도 수많은 일을 해냈다.  나는 이 여성에 대해 아무것도 모른다. 다른 누구도 마찬가지다! 사실 내가 아는 한, 이 여성이 이스라엘을 노골적으로 증오한다는 사실 외에는 누구도 그녀의 이름을 들어본 적이 없다.  나는 이 여성이 도대체 무엇을 했는지 모르겠다.  나는 8개의 전쟁을 해결했다. 내가 도운 국가들의 모든 대통령과…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-10T03:46:04+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25736",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25736",
-      "text": "ASML, 유지보수용 노광장비 부품값 10% 일괄 인상 < 반도체 < 기사본문 - 디일렉(THE ELEC)\nhttps://www.thelec.kr/news/articleView.html?idxno=63515",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-10T03:30:47+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25735",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25735",
-      "text": "팀 쿡 애플 이사회 의장, 신임 CEO 존 터너스의 경영에 간섭하지 않는다고 강조.  팀 쿡은 지난 9월 애플 최고경영자(CEO) 자리에서 물러나 존 터너스에게 경영권을 넘기고 이사회 의장으로 이동. 최근 인터뷰에서 후임자의 업무에 간섭하지 않고 있다는 입장 표명.  최근 시진핑 중국 국가주석의 미국 방문을 기념해 백악관에서 열린 국빈 만찬에 팀 쿡이 참석하면서 그의 역할에 관심 집중. 행사에 초청된 다른 미국 기술기업 대표들이 대부분 현직 CEO였다는…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-10T03:26:07+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25734",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25734",
-      "text": "팀 쿡 애플 이사회 의장, 신임 CEO 존 터너스의 경영에 간섭하지 않는다고 강조.\n팀 쿡은 지난 9월 애플 최고경영자(CEO) 자리에서 물러나 존 터너스에게 경영권을 넘기고 이사회 의장으로 이동. 최근 인터뷰에서 후임자의 업무에 간섭하지 않고 있다는 입장 표명.\n최근 시진핑 중국 국가주석의 미국 방문을 기념해 백악관에서 열린 국빈 만찬에 팀 쿡이 참석하면서 그의 역할에 관심 집중. 행사에 초청된 다른 미국 기술기업 대표들이 대부분 현직 CEO였다는 점에서 트럼프 대통령이 여전히 팀 쿡을 애플의 실질적인 책임자로 인식하고 있는 것 아니냐는 의문 제기.\n팀 쿡은 인디펜던트와의 인터뷰에서 존 터너스와의 신뢰 관계 및 자신의 새로운 역할을 설명.\n“무엇보다 존과 저는 서로에 대한 믿음이 매우 깊습니다. 관계는 신뢰를 바탕으로 구축돼야 하며, 소통도 빈번하고 의미 있게 이루어져야 합니다. 하지만 그보다 더 중요한 것은 현재 제가 글로벌 정책에 집중하고 있다는 점입니다. 우리가 추진하거나 변화를 제안하려는 사안이 많기 때문에 세계 각국 정부와 협력하는 것이 중요합니다. 이는 상당한 업무량을 수반하며, 저는 존이 적절하다고 생각하는 방식으로 그를 지원하면서 이 일을 수행하고 있습니다. 경영에는 간섭하지 않습니다.”\n쿡은 터너스에게 자신만의 방식으로 업무를 수행하고 회사에 가장 큰 가치를 창출하는 분야에 시간을 집중하라고 조언. 자신이 애플 공동창업자 스티브 잡스를 모방하지 않았던 것처럼 터너스 역시 자신을 따라 할 필요가 없다고 강조.\n쿡은 “우리 모두는 서로 다른 강점을 가지고 있습니다”라고 설명.\n터너스 역시 애플 직원들을 대상으로 한 연설에서 회사에 가장 큰 가치를 창출하는 분야에 시간을 집중하겠다고 밝히며 이러한 경영 철학을 수용한 모습.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-10T03:25:51+00:00"
-    },
-    {
-      "id": "tg:globaletfi/22069",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/22069",
-      "text": "앤트로픽, 'AI모욕' 이용자 차단…\"클로드 지속 학대시 대화 종료\"\n- 이용 정책 변경…일각에선 'AI 과도한 의인화' 비판\n앞으로 인공지능(AI) 업체 앤트로픽의 생성형 AI 클로드를 상대로 지속적으로 욕설을 하거나 불필요하게 모욕할 경우 사용이 차단될 수 있다.\n앤트로픽은 전날 이용 정책을 개정해 사용자가 AI에 '모욕적이거나 잔인한 행동'을 할 경우 대화를 종료할 수 있도록 했다.\nhttps://n.news.naver.com/article/001/0016368044?sid=104",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-10T03:15:28+00:00"
     },
     {
       "id": "tg:HI_GS/7197",
@@ -333,54 +401,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-10-10T01:35:04+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25733",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25733",
-      "text": "트럼프: 노르웨이가 미국에 노벨 평화상을 수여하기를 거부한 것을 잊지 않을 것",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-10T01:16:12+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25732",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25732",
-      "text": "트럼프: 노르웨이가 미국에 노벨 평화상을 수여하기를 거부한 것을 잊지 않을 것",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-10T01:16:04+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25731",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25731",
-      "text": "Citi) 북미 통신·통신인프라: 스페이스X, 그레인으로부터 800 MHz 저대역 주파수 인수로 '스펙트럼 레이어 케이크' 구축 착수 (2026년 10월 9일)\n그레인 매니지먼트(Grain Management)가 미국 전국 800 MHz 주파수 포트폴리오를 스페이스X에 매각하기로 했습니다. 거래는 FCC 승인과 통상적인 종결 조건을 전제로 하며, 금액은 공개되지 않았습니다. 그레인은 2026년 8월 티모바일로부터 현금 29억 달러와 자사 600 MHz 라이선스를 대가로 이 주파수를 인수한 바 있습니다. Citi는 이번 소식을 타워주에는 순긍정적, 통신사·케이블주에는 지속적인 리스크, 그리고 미국 모바일 시장에서 네트워크 기반 전략을 구축하려는 스페이스X(SPCX)에는 긍정적인 재료로 평가합니다. SBAC, AMT, CCI에 대한 매수 의견을 유지하며, 선호 순위는 CCI, SBAC, AMT 순으로 조정했습니다.\n이번에 인수하는 800 MHz 대역은 전국 평균 14 MHz(다운링크 7 MHz, 업링크 7 MHz) 규모입니다. 스페이스X는 이와 별도로 에코스타로부터 AWS-4 40 MHz, H-Block 10 MHz, 비페어드 AWS-3 최대 15 MHz 등 총 65 MHz(다운링크 약 40 MHz)를 인수하는 절차를 진행 중입니다. 현재 스타링크 모바일은 티모바일의 PCS G-Block 10 MHz를 임차해 서비스하고 있습니다. FCC는 2 GHz 대역에 최적화된 차세대 위성 최대 1만 5천 기 규모의 Gen2 군집을 승인했고, V3 브로드밴드 위성용 Ka·V·E·W 대역 백홀 주파수도 허가했습니다. 다만 저대역 주파수를 위성에 직접 탑재하려면 설계 변경이 필요할 수 있어, Citi는 스페이스X가 실내 커버리지를 포함한 커버리지 레이어 확보를 위해 상당 규모의 지상망(매크로 기지국 및 스몰셀)을 구축하고 위성은 특히 중소도시와 농촌 지역에서 보완적 커버리지와 용량을 제공하는 방식이 될 것으로 봅니다.\n용량 측면에서 Citi는 스페이스X가 진행 중인 거래만으로 미국 후불 휴대폰 시장의 약 7%, 어퍼 C-밴드 40 MHz를 추가 확보할 경우 약 11%를 감당할 수 있다고 추정합니다. 위성 용량 기준으로는 에코스타 주파수만으로 1,700만 명, 이번 인수를 포함한 전체 진행 중 거래로 1,900만 명 이상, 어퍼 C-밴드까지 더하면 2,800만 명 이상을 수용할 수 있다는 계산입니다. 위성과 지상망을 결합한 시나리오 분석에서는 스페이스X의 다운링크 주파수가 47 MHz로 빅3 통신사 평균의 22% 수준일 때 1,900만 명, 어퍼 C-밴드 32 MHz를 더해 79 MHz(37%)가 될 때 3,100만 명의 가입자 잠재력을 산출했습니다. 이에 따른 통신사 시가총액 리스크는 각각 약 8%와 13%이며, 후자의 경우 차터는 17%, 컴캐스트는 3%의 리스크가 추정됩니다. 스페이스X가 더 큰 점유율을 노리려면 향후 경매와 2차 시장에서 추가 주파수 확보가 필요할 것으로 봅니다.\n통신사와 관련해서는 대형 통신주가 가장 큰 논쟁거리가 될 것으로 봅니다. 스페이스X가 네트워크 기반 경쟁자가 될 가능성이 커진 데다 에이전틱 AI 사용에 따른 매출 수익률 리스크, 향후 주파수 투자 부담까지 겹쳐 단기적으로 부진이 이어질 수 있으며, 실제로 장 마감 후 평균 6% 하락한 것으로 나타났습니다. 다만 연초 고점 대비 평균 17% 하락한 상태로 상당한 리스크가 이미 반영된 것으로 보이며, 기기 교체 주기 장기화와 해지율 하락이 향후 6~18개월 수익성 개선에 기여할 수 있다고 판단합니다. 스페이스X가 빅3 통신사의 영업실적에 실질적인 영향을 주는 시점은 빨라야 2029년으로 예상하며, 그 사이 통신사들은 요금제 언번들링으로 경쟁력 있는 요금 구조를 내세우면서도 가입자 경제성은 유지하고, 네트워크 리더십 투자와 모바일·브로드밴드 결합 상품을 강화할 것으로 봅니다. 통신사가 스페이스X에 경쟁력 있는 MVNO 계약을 제안할 가능성에 대해서는, 이들의 공개 발언을 근거로 중단기적으로는 기존 기조를 유지할 것으로 예상합니다.\n타워주는 스페이스X가 저대역부터 쌓아 올리는 주파수 구성으로 인해 커버리지 레이어와 도심·교외 용량 확보를 위해 타워 기반 매크로 사이트를 대규모로 활용할 가능성이 높아졌다고 봅니다. 업계 전체 약 2만 5천 건의 신규 코로케이션을 기본 시나리오로 상정할 때, 코로케이션 기여분과 성장 전망 개선에 따른 멀티플 확장을 합산한 타워주 평균 상승 여력은 14%(AMT 10%, CCI 21%, SBAC 20%)로 추정되며, 실제 효과가 나타나기까지는 1년 이상 걸릴 수 있습니다. 또한 최근 파산법원에 제출된 중재 명령을 근거로 타워사와 에코스타 간 합의가 이르면 한 달 내 이뤄질 가능성도 언급했습니다.\n에코스타(ECHO)에 대해서는 세후 32%, 세전 50%로 추정되는 NAV 할인을 근거로 매수 의견을 유지합니다. 차기 주파수 경매 전에 잔여 주파수 매각에 나설 가능성이 높으며 이는 할인 축소의 촉매가 될 수 있다고 봅니다. CBRS를 제외한 잔여 주파수의 가장 유력한 인수자로는 전국 통신사를 꼽았고, 스페이스X의 입찰 가능성도 배제하지 않았습니다.\n스페이스X의 비용 측면에서는 코어망 기능을 포함해 매크로 사이트당 약 25만 달러, 기본 시나리오 2만 5천 개 사이트 기준 주파수 투자와 별도로 초기 설비투자 약 62억 5천만 달러가 소요될 것으로 추정합니다. 참고로 에코스타는 4만~5만 개 사이트 구축을 목표로 초기 네트워크에 70억~100억 달러를 투입하는 경로였습니다. 여기에 지상망 운영비, 마케팅, 유통망 투자도 필요합니다. Citi는 시간, 장기 산업 구조(4.5개 사업자가 아닌 3.5개 사업자 체제), 대규모 연간 FCF 창출 시점을 고려하면 여전히 통신사 인수를 통한 진입이 더 매력적이라고 보지만, 이번 발표로 인수보다는 네트워크 기반 진입의 가능성이 높아졌다고 평가합니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-10T01:15:44+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25730",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25730",
-      "text": "미국, 러시아 제재 완화\n도널드 트럼프 미국 대통령은 러시아산 경유를 미국과 세계 시장에 대규모로 공급하기로 블라디미르 푸틴 러시아 대통령과 합의했다고 9일(현지시간) 밝혔다. 또 이에 맞춰 러시아산 경유의 미국 수입 등을 허용하는 한시적인 대러 제재 완화 조치도 내놨다.\n11월 중간선거를 앞두고 고유가에 따른 민심 악화를 수습하기 위해 러시아에 대한 제재까지 일부 풀면서 에너지 가격 안정에 나선 것으로 풀이된다.\n트럼프 대통령은 이날 소셜미디어 트루스소셜에서 \"방금 푸틴 대통령과 매우 성공적인 협의를 마쳤다\"며 \"러시아가 미국 및 세계 시장에 즉시 30만t 이상의 경유 연료를 공급하고, 11월 중 추가 50만t을, 그 직후엔 100만t을 공급하기로 합의했다\"고 말했다.\n이어 \"러시아는 이후 자국 경유 정제시설 상태를 고려해 단기간 내에 300만t의 경유 연료를 추가로 공급할 것\"이라고 밝혔다. 트럼프 대통령이 밝힌 러시아 경유 공급 물량은 총 480만t에 달한다.\nhttps://magazine.hankyung.com/business/article/202610103310b",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-10T00:31:02+00:00"
     },
     {
       "id": "tg:bornlupin/20559",
@@ -545,18 +565,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-10-08T23:30:10+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20546",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20546",
-      "text": "이전에 OpenAI와 Anthropic을 동일한 기준으로 비교하려다 만들어낸 수치만 생각하다 OpenAI쪽에서 직접 나온 수치가 적은거 같으니 일단 팔고보자가 나온듯 하네요\nAnthropic은 클라우드 서비스 제공업체를 통한 매출을 포함한 총매출(Gross Revenue) 기준\nOpenAI는 순매출(Net Revenue) 기준\nOpenAI 3분기 전체 매출 런레이트가 77% 성장했으며 같은 기간 기업 고객 사업부의 매출 런레이트는 107% 증가도 충분히 빠른 성장세이고 AI의 수요는 OpenAI에서만 나오는 것도 아닙니다\n마벨은 이번에 FY2028 매출 전망치를 기존 180억 달러에서 200억 달러로 상향(컨센서스 182억 달러 상회)\nAI 인프라 기업들은 한 목소리로 현재의 제약 요인은 수요가 아니라 공급 능력임을 말하고 있는 상황입니다\n실제 AI 인프라 기업들의 말들과 실적 상향 수치들을 보고 믿는게 더 낫지 않을까 싶네요\n언론사나 월가가 자기들끼리 계산하다 노이즈 만든건 결국 또 해소되고 지나가지 않을까 싶습니다\n루팡",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-08T22:28:15+00:00"
     },
     {
       "id": "rss:semianalysis:beijing-will-not-pace-the-frontier",
@@ -1319,7 +1327,7 @@
       "url": "https://t.me/emchina/2",
       "text": "🟡\nThis community is now protected by Collab.Land\nToken-gate your community and verify members automatically.\nClick below to verify your wallet and gain access.",
       "images": [
-        "https://cdn4.telesco.pe/file/IFK1qy8r0dtJEWjs6ZRWLUUXbKM0Es4fqrZgh48NhDUhkNCQysUiNvTBbY7Oak3tlLcN0nefgRQvT_pkam6qrcE2S6ds9XjZmjmzl5u4bWzAT13hu21SfufuiYKn5Mm0ki-HAX3YxaUSI4cC9UdqFh7O8OuMO8S_eCAMlfFmSBi9gSbMcbRCiQ3GcEoLcHXNLnyFOcA6Uv-Df8MUFmIAWsReWBwDMA2o3gPPYwCSLjkzUqjHvk0AlPuAWRE6SL9u2cmYA1sXsnbf5xqBKIpwVHX6yQ8P46XkhirI7mYepFcFqHW25ZMxaG17Y2I25BELoc2B27aAAabY2DqAczC5iw.jpg"
+        "https://cdn4.telesco.pe/file/oUuf43n6y7Ilp7dnev2P67HdpdXOgw9GWBkieMJYmd3mmcb2OslXf8jnbCJIQ23k-DcrF3wb0C_6XrYCcn6FQr-eI8_rVUm9g-XCt_QnEWSWd9EfBzT40EWRSynrVsHOahOjGUQjv1KaGjPr0HhvzdctfJS0SPXJlT8ZtfE5e-UJB244mxXVxB-X6fvpDgrqOfc9z5vj-kWbe2i_SgtS83QuOV2stqVbLR1AIQE0WxU0pqvK4rX64KHiYt2bzrbAu9EGVUuKiHqJEtmG3kHczAbEW7cAn1jCdnuI7gZEKcfMqJWhKa5zX4cPPIxV06UfBasQ6KO_8zJJG7-T4Qtl9g.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-08-16T00:25:43+00:00"
