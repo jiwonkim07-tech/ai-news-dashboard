@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-13T02:25:53+00:00",
+  "updated_at": "2026-10-13T10:09:25+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 23
+    "new_this_run": 19
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,256 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:aetherjapanresearch/25808",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25808",
+      "text": "중국 AI는 이제 급격히 발전속도가 줄어들듯...",
+      "images": [
+        "https://cdn5.telesco.pe/file/Ze6BgMZ3NCQHdkNRnLnFeDawjH8wvyO8_kQ9_AaVZyiG5Scq3r6JqPZwQEBXEK9gia75Tdue2rVWh36bSqw3G33VxIXRI851kqWxm3LDPwTq-OEVhE50w-P_tu8GQmRkgL_0d3oib8VovP-oB29BVXEZFRDkkBnM3hwOnc-viYG1nqpdnvSbFBg3gD9VIRHplkN_SS5EErfmGM9s51AXJpyAlg5_AgevOj5YtLHngV7gLQAZWn_3L2gKYWovVDQW8tXkGwSDEiXqwvrZUoo0GX4Gx3JB4tOESydFN79jGAwwzmDYpIh4G8ssHcGyuVkBO7Cfu-9xh2J8uiS5SzQqsA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-13T09:09:18+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25806",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25806",
+      "text": ">>Anthropic, 모델 증류 공격 방어 성과 공개…데이터 추출량 90~99% 감소, 공격 계정 수만 개 차단\n•Anthropic이 처음으로 모델 증류 공격에 대한 방어 체계와 성과를 공개함. 3단계 방어 체계를 통해 공격자가 추출할 수 있는 추론 데이터를 기존의 1~10% 수준으로 줄였으며, 관련 공격 계정 수만 개를 차단함. 이를 위해 수조 개 토큰에 해당하는 상당한 수익을 자발적으로 포기했다고 밝힘\n>摘要：Anthropic首次公开其反蒸馏防御体系：通过三层防护架构，将攻击者可提取的推理数据压缩至原来的1%至10%，并已封禁数万个相关账号。为此，公司主动放弃了涉及数万亿token的\"有实质意义的收入\"。",
+      "images": [
+        "https://cdn5.telesco.pe/file/FhD-VaCZFyEL93OZ7rYpkVbTnByfpCGGI-xATdetKrnoH-WXO2iii4RJdnDOoj2PA9VL2jPXvBN2mH-GOqfoYESGOigPnnmi7DwG9zZIWdDqFEDYBGJwDWfEPVP6ZlVExmtFmv924E0NfnR9h8swFsqOf2sDKY_iZWQertB6j8QzhNFKXz9FxdwKHts9GkVH-WP0vbBSUjOumhkM7l4xR2W4DGf6Ld48Bq4A0z-BBIpj6J2YvfcBtH-aaROJ1_Tjq4NP1ngE3mCS25ZiGl23V0iB3972iFzO3OfDOkrzZ3Pv_v_Cyq8PoyZxv8YX7PLcWcX6HgVQf97WYOMfcuDlew.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-13T09:08:53+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25807",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25807",
+      "text": "중국 AI는 이제 급격히 발전속도가 줄어들듯...",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-13T09:08:53+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25805",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25805",
+      "text": "TD Cowen) MU의 자사주 매입 및 HDD에 대한 생각 - 토시바의 TDK 사업부 인수 가능성\nTD 코웬 인사이트\nMU의 330억 달러 추가 자사주 매입은 저희의 200억 달러 초반대 전망을 상회했으며(기대치가 다소 공격적이었습니다), MU의 규모가 더 작음에도 불구하고 하이닉스의 자사주 매입보다 크다는 점에서 저희의 리레이팅 견해를 뒷받침합니다. HDD의 경우, 저희는 TDK/토시바 리스크를 공급 측면보다는 내러티브 측면의 문제로 봅니다. 토시바의 계획조차 현재 부족분의 약 30%만을 충당할 뿐이며, 가격 결정력은 여전히 유지되고 있습니다. 저희는 WDC/STX가 ASP 인상에 있어 더 공격적이 될 수 있다고 생각합니다.\n마이크론은 지난주 후반 10-K를 제출했으며, 2018년 프로그램에서 남아 있던 약 20억 달러에 더해 330억 달러의 추가 자사주 매입을 승인하여 총 승인 규모를 350억 달러로 늘렸습니다. 이는 CHIPS 제한이 해제되는 12월 9일부터 유효합니다. 저희는 SK하이닉스의 약 290억 달러 프로그램을 마이크론의 시장 점유율에 맞춰 환산한 200억 달러 초반대의 승인 규모를 추정하고 있었습니다(셀사이드와 바이사이드의 기대치는 순수 FCF 역학에 기반해 다소 공격적이었습니다). 그런데 마이크론의 330억 달러 추가 승인 규모는 마이크론이 더 작은 메모리 공급업체임에도 불구하고 하이닉스보다 큽니다. 저희는 이것이 더 많은 자본을 유치하고, 장기적인 자본 배분에 신중하면서도 마이크론이 하이닉스보다 더 주주 친화적일 수 있음을 보여주기 위한 것이라고 생각합니다. 저희는 이를 첫 번째 승인으로 보며, 앞서 논의한 바와 같이 시간이 지나면서 추가 승인이 있을 것으로 예상합니다.\n참고로, 2018년 5월 마이크론은 분기 매출총이익 약 48억 달러, 즉 대략 2개 분기 매출총이익에 해당하는 100억 달러를 승인했습니다. 현재 약 350억 달러의 승인 규모는 FQ4 한 분기만의 매출총이익 약 470억 달러와 비교되며, 이는 1개 분기에도 못 미치는 수준입니다. 요점은 현재 마이크론이 자사주 매입 규모 대비 실질적으로 훨씬 더 큰 이익 창출력을 갖고 있으며, 가시성 또한 훨씬 좋다는 것입니다. 저희는 이로 인해 시간이 지나면서 추가 승인의 여지가 있다고 생각합니다. 저희는 가격이 전분기 대비 하락하기 시작하는 가장 이른 시점을 CQ3:27로 봅니다. 그때까지는 가시성 개선과 자본 환원이 점진적인 P/E 확대를 뒷받침할 것으로 예상합니다.\n흥미롭게도, 엔비디아는 더 이상 매출 비중 10% 이상의 고객이 아닙니다. 마이크론의 공시를 바탕으로, 저희는 엔비디아가 FQ2:26까지 6개 분기 연속으로 매출의 10% 이상(주로 HBM)을 차지했다가 FQ3:26과 FQ4:26E에 약 7%로 하락한 것으로 추정합니다. 저희는 이것이 엔비디아의 규모가 작아지고 있다는 의미라고 생각하지 않습니다. 오히려 다른 고객들이 더 빠르게 성장하고 있는 것(HBM + DDR)으로, 저희는 FQ4에 NVDA로부터의 매출이 전년 대비 70% 증가한 것으로 추정하며(NVDA 제외 시 전년 대비 400% 증가), 이는 HBM 가격이 올해분에 대해 2025년에 고정되었기 때문일 가능성이 가장 높습니다.\nSTX/WDC: 블룸버그에 따르면, 시게이트와 토시바가 TDK의 HDD 헤드 사업 인수에 관심을 보이고 있으며, 이로 인해 추가적인 헤드 생산능력이 업계 공급 증가를 가속화할 수 있다는 우려가 제기되고 있습니다. 토시바의 TDK 인수에 대한 견해는 전체 보고서에 수록되어 있습니다. 앞서 강조한 바와 같이, 토시바가 현실적인 2년 기간 내에 목표를 달성하더라도 현재 약 300EB 부족분의 약 30%만을 충당하는 것으로 추정됩니다. 따라서 공급 영향 자체는 여전히 관리 가능한 수준으로 보입니다. 달라진 것은 내러티브입니다. HDD 종목에 대한 단기 심리는 덜 합리적인 산업 구조에는 더 낮은 P/E 멀티플이 적합하다는 시각과 함께 더 부정적으로 바뀌었습니다. 저희는 그 반대 상황이 일어날 수 있다고 생각합니다. STX와 WDC는 가격 책정에 더 공격적이 될 수 있으며, 이는 저희의 점검 결과와도 일치하고, 저희는 이들의 가격 인상 여력이 여전히 상당히 높다고 생각합니다. 저희는 2027년까지 SSD가 TB당 HDD보다 약 25배 비싸질 것으로 추정하며, 이는 2025년의 약 5배에 불과했던 것과 대비됩니다. 저희는 바이사이드 컨센서스 모델이 가정하는 것으로 보이는 약 22달러/TB ASP를 1달러/TB 상회할 때마다 EPS가 대략 6~7% 증가하는 것으로 추정합니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/bwJW25ukMUeKcKQBsF_ukjXyY8L5dkFrAx-9tShB3GjPGBzwC2TZlOyXy1J4WSUgyd7zsw1djvPewVdHQKTnTnZEFf9MQckCX93DxstCktM6V2nROBdVW5MSIVpVV-WRRr2Xu32uZqZecKROSN8yI6gJPp7zoKPrnIk3vBP3fx-wN1gX3e4GhFkYO9mJF2rIDd06GhVEnY3Jgs7CVl2zE8Q7a9b9rkIfUzAetcA4D6lGqK2CZzSsrIOHMvto5mpuMC06HH0MGtE6V7b7MvR9bLbkPTcL5MwLDU20rcf9ogog6SRJqwQR8TIr-k2xDzzWYbbAP0BWr3ABFwg0dCcMkg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-13T08:38:49+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25804",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25804",
+      "text": "ARK의 캐시우드, '악랄한' 사이클 리스크로 메모리 반도체 섹터 기피\nARK 인베스트먼트 매니지먼트의 캐시 우드에 따르면, 메모리 반도체 섹터는 '악랄한' 호황과 불황의 사이클에 취약하며, 중국 기업들이 생산능력을 확대함에 따라 이 문제는 더욱 악화될 수 있습니다.\n파괴적 혁신에 베팅하며 널리 알려진 인물이 된 우드는 홍콩의 투자자들에게 공급이 수요를 초과하면 가격이 빠르게 하락할 수 있기 때문에 ARK는 전통적인 메모리 반도체 기업들을 피하고 있다고 말했습니다.\n고대역폭 메모리(HBM)는 현재로서는 여전히 공급이 타이트하지만, 추가적인 중국 생산업체들의 진입이 가격을 교란하고 섹터 전반의 가격 변동성을 증폭시킬 위험이 있다고 그녀는 말했습니다.\n\"추세는 상승이지만, 사이클은 악랄합니다.\" 우드는 이렇게 말했습니다. \"특히 중국에서 추가적인 경쟁자가 몇 곳 더 나타나면, 변동성은 커질 것입니다.\"\n한국의 SK하이닉스와 삼성전자, 그리고 미국의 마이크론 테크놀로지가 최상위 메모리 공급과 HBM 패키징을 장악하고 있는 가운데, CXMT와 같은 중국 국가 지원 기업들은 시장 점유율을 확보하기 위해 D램 생산량을 빠르게 늘려왔습니다. SK하이닉스와 삼성전자의 주가는 올해 고점 대비 각각 51%, 36% 하락했습니다.\n이와 별도로, 우드는 ARK가 중국의 테크 분야에 다른 지역만큼 매력을 느끼지 않는다고 말했는데, 이는 부분적으로 반(反)내권(anti-involution) 조치가 디플레이션 문제를 해결하지 못하고 경제를 심각한 부동산 침체로부터 보호하지도 못하기 때문입니다.\n우드는 또한 인공지능 트레이드가 투기적으로 변했다는 브로드컴의 혹 탄 CEO의 경고에 반박했습니다. 그녀는 시장 버블에 대한 우려를 일축하며, AI가 생산성을 대폭 향상시킬 것으로 기대한다고 말했습니다.\nhttps://www.bloomberg.com/news/articles/2026-10-13/ark-s-wood-shuns-memory-chip-sector-on-vicious-cycle-risk?utm_source=website&utm_medium=share&utm_campaign=copy",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-13T08:32:30+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25803",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25803",
+      "text": "메모리 랙 시대가 오나 봅니다\n- SK하이닉스가 OCP(Open Compute Project) 서밋에서 '메모리 중심 AI 랙 시스템(MARS)'를 소개. 김호식 SK하이닉스 부사장은 \"지금이 메모리 중심 랙을 이야기할 적기\"라며 \"분리형 메모리·SSD 시스템을 중심으로 AI 컴퓨팅 랙이 재설계돼야 한다\"고 말함. 이는 CPU와 GPU에 연결된 메모리를 분리해 대규모 〈메모리 풀〉을 만드는 방식\n메모리 랙에 필수 부품은 CXL\nhttps://m.sedaily.com/amparticle/20100964",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-13T07:38:04+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25802",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25802",
+      "text": "SKH ADR 락업 만료",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-13T07:37:56+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25801",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25801",
+      "text": "외인들이 전닉에 갖는 의문점을 취합해보면\n- SK하이닉스의 솔리다임 IPO 추진 명분 부족\n- SKH ADR 락업 만료에 따른 추가 발행 가능성\n- SKH의 무분별한 CAPEX 계획(호남, 미국, 일본)\n…\nSK하이닉스의 문제가 유독 부각되는 느낌이 강한데 이번 3Q 어닝 콜을 통해 자본 배분 정책에 대해 투명하고 가시성 있는 전망을 내놓아야 하지 않을까 생각합니다\n이외 ASP 둔화 등 여러 전망이 있긴 합니다..",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-13T07:37:30+00:00"
+    },
+    {
+      "id": "tg:enc210406/4498",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4498",
+      "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 10월 13일 종가 기준",
+      "images": [
+        "https://cdn5.telesco.pe/file/K1u-Fxcot5AqPxcKjHzDYRfBJ6lzY5VwzvUDbY61vEYoWy953gyupMToiOUNrvf1GvzCjp1UhPeiPs2crB-M8IXkcF8SXQUrMaX-1g9TQ77fQxVnqzGJkGZNgDqBBTy8HyemlVBLFtSBX3Pm7fVCafo3My3S1dsAgTTb72KBaPn8r6ObZcaaWPYbMbImKkuom-bpJ52CYm_F18Ay_GjItt5VW4RsAuIkYXsx2nUioeGa1N1KeZh8aJ0h5DSSuW5hUlmX8ZxwE-E_jZ-0qBv4YBidclGV3T5vlPaeoIzu3Ni4K5uHnks60HJVKtX-VOAIoHQw8HBnh2uZ8-xqxNt5Ng.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-13T07:32:55+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20596",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20596",
+      "text": "2026년 9월 Claude 웹사이트 트래픽 성과\n→ 월간 방문 횟수 최초 10억 회 돌파\n→ 8월 대비 6.57% 증가, 5월 이후 가장 높은 월간 증가율 기록\n→ 전년 동기 대비 542% 성장",
+      "images": [
+        "https://cdn5.telesco.pe/file/l5qdblr3CT885wh-tSUXgt_4H200mzARrHHpDSqdnw_DB3E5JB5E0IetiBrHu9ZqyoVk-PcWUuLUisXFejlzGfKkFDNJpI53xWCfvNMlm6K1HOaFVMUHswuenysoaC7aZbNxA-0EUKIGf3cX5Xf3x8lpFzXG023j6dEAbaUBFM54o3ndtMUTov1zukfnyZxipudngga0Du8lpCGZqYpUcWx4V0y4u9t3thNZj-e9VCVhZmt23j7g1nVHez_kRHnD5fIaQSSuUpxEFmkVhHDnSQ79i4JmrDX5j8bEOq6mfSDwDGfa5qdIFQpTC3PZpI7AUHyESBhWOGocJVl1mZTa6A.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-13T07:24:10+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25800",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25800",
+      "text": "중국 CXMT, 삼성·하이닉스보다 앞서 메모리 기술 돌파 주장\n요약\n중국 메모리 선두업체 CXMT(창신메모리)의 차오칸위 총재는 주말 상하이에서 열린 업계 콘퍼런스에서 4F² 설계를 적용한 데이터센터 서버용 신규 D램을 연내 출시하겠다고 밝혔습니다. 이는 삼성전자와 SK하이닉스가 수년간 추진해 온 기술로, 업계 표준인 6F²를 4F²로 줄이면 같은 셀을 더 작은 면적에 집적해 효율을 높일 수 있습니다. CXMT는 트랜지스터를 적층하는 수직 게이트(Vertical Surrounding Gate) 방식으로 배치 구조를 바꿔, 대형 경쟁사들이 미세화 과정에서 겪어온 누설 전류 문제를 줄였다고 설명했습니다. 미국 제재로 ASML의 최첨단 장비를 사용할 수 없는 상황에서 이를 달성했다면 화웨이나 딥시크처럼 중국 기업들이 제재를 우회하는 혁신의 최신 사례가 될 것입니다. 다만 구체적인 근거는 제시되지 않았으며, 모닝스타의 애널리스트는 성공 시 CXMT의 경쟁력이 크게 높아지겠지만 업계 전반이 이 전환의 어려움을 지적해 온 만큼 상업적 수율 확보까지는 상당한 시간이 걸릴 것으로 내다봤습니다.\n이 발언은 글로벌 반도체주 매도를 촉발해, 전날 마이크론이 4% 하락한 데 이어 화요일 삼성전자와 SK하이닉스 주가가 7% 이상 급락하며 코스피 전체를 끌어내렸습니다. 유니온 방케르 프리베의 베이선 링 전무는 투자자들이 불안한 상태에서 올해 강세를 보인 AI 관련주, 특히 메모리주의 차익 실현 명분을 찾고 있다고 분석했습니다. CXMT는 올여름 대형 IPO 이후 한때 중국 시가총액 1위 기업에 오르기도 했으며, AI 수요 급증에 대응해 첨단 메모리 생산을 빠르게 확대하고 있습니다. HBM 분야에서는 여전히 뒤처져 있지만, 카운터포인트 리서치에 따르면 D램 시장 점유율은 1년 전 4%에서 올해 2분기 10%로 확대되는 등 꾸준한 진전을 보이고 있습니다.\nhttps://www.bloomberg.com/news/articles/2026-10-13/china-s-cxmt-claims-memory-breakthrough-ahead-of-samsung-hynix?utm_source=website&utm_medium=share&utm_campaign=copy",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-13T07:18:46+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20595",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20595",
+      "text": "비자(Visa), 중국 내 국내 사업 준비 승인 획득\n미국의 결제 서비스 기업 비자(Visa)가 중국 중앙은행으로부터 중국 내 국내 은행카드 청산 기관 설립을 위한 준비 단계의 승인을 획득했습니다.\n중국 시장 진출의 교두보 마련:\n비자는 중국 중앙은행으로부터 국내 카드 청산 기구 설립을 위한 '준비 신청(Application to Prepare)' 승인을 받았다고 밝혔습니다.\n정상회담 및 외교적 배경: 이번 승인은 올해 초 도널드 트럼프 미국 대통령과 시진핑 중국 국가주석의 정상회담 이후 이루어졌습니다\n. 당시 회담에는 비자와 마스터카드 등 주요 미국 결제 기업의 최고경영자(CEO)들이 동행했습니다.\n트럼프 대통령의 압박:\n트럼프 대통령은 지난 5월 폭스뉴스와의 인터뷰에서 중국 당국에 비자가 중국 신용카드 시장에 더 쉽게 접근할 수 있도록 압박했다고 언급한 바 있습니다.\n시장 진입 조건:\n중국은 2016년 외국계 금융사에 시장을 개방했으나, 현지에 기술 및 데이터 인프라와 백업 시스템을 구축하도록 요구하고 있습니다. 경쟁사인 마스터카드는 2023년 넷유니온(NetsUnion)과의 합작법인을 통해 중국 내 위안화 표시 국내 은행카드 거래 청산 승인을 받은 바 있습니다. 비자 역시 마스터카드 및 아메리칸익스프레스(Amex)처럼 합작법인 지분 100% 확보를 희망해 왔습니다.\n비자 CEO 입장:\n라이언 맥이너니(Ryan McInerney) 비자 CEO는 \"이번 준비 신청 승인은 중국 시장에 대한 비자의 오랜 약속에 있어 중요한 진전\"이라고 평가했습니다.\nhttps://www.reuters.com/world/china/visa-gets-approval-prepare-domestic-business-china-2026-10-13/?taid=6acdd4a455857300018953ca&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-13T06:54:47+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20594",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20594",
+      "text": "AMD-  OCP 글로벌 서밋 2026\nAI 수요 증가세는 계속 가속화\n지난 2년 동안 월간 AI 토큰 소비량이 95배 증가했습니다.\n- 분석 기간: 2024~2026년\n- 월간 토큰 소비량: 2년간 95배 증가\n- 2026년 그래프의 최근 값은 월간 약 35~40 quadrillion(약 3.5~4경) 토큰 수준\n- 2025년부터 증가 속도가 가팔라졌으며 2026년 들어 더욱 급격하게 확대",
+      "images": [
+        "https://cdn5.telesco.pe/file/DeKCiv6By03nRaVXpaTHNd6ZNS0-gbHq7YBQ-lPNV_7YSkm2E63PbHi8P1CHhqrt5qN5P7laGhdAvuR6T-nkbwLYXklj7uWN2gzaiKruANuqSbDdE4qqp8ITsWq5BVSfSRdIv82rlKD6-8jWovgIB2l6v5OVoQz-su8bBXdhZIdgccGVCYCe_wejJjTzDGo7ZS7mB3p8VvHJKXyFyiMDmArQJTPQmPpRlMM42T6l9NJhWIKLA0YuiwTEKcbkuzY5N66oXyUqGSAd4joTUF1Hbg6yMiS8Yw3UA--bhdfdWsEogwJYGZXTp-0Oj6oiSDIeGNo8acnrIXxFl0N9vWqZ7w.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-13T06:46:35+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20593",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20593",
+      "text": "AMD-  OCP 글로벌 서밋 2026\n학습은 계속 확대되지만, 이제 추론이 AI의 최대 워크로드\n① AI 학습 컴퓨팅 수요\n2020년 이후 AI 모델 학습에 투입되는 연산량(FLOPs)이 매년 약 5배씩 증가\nAI 모델 규모와\n학습에 필요한 컴퓨팅이 지속적으로 확대\n이러한 추세가\n2030년까지 이어질 가능성을 제시\n② AI 추론 수요\n이제 추론이 AI의 최대 워크로드가 되었으며, 이러한 변화는 에이전틱 AI의 빠른 도입이 주도하고 있습니다.\n2026년 1월~8월 토큰 사용량 변화:\n- Agentic(에이전틱 AI): 연초 대비 14배 이상 증가\n- Human(인간 주도): 완만한 증가세\n- Mixed(인간·AI 혼합): 완만한 증가세\n- 에이전틱 AI의 토큰 사용량이 다른 두 유형보다 훨씬 빠르게 증가",
+      "images": [
+        "https://cdn5.telesco.pe/file/cVBg9LtxO1Fo-2_6rMG8TliQON3GXnU7gG4f0H34zteL6VVyS9fh4Gne4hcXJ0FhnO7yhLowH4ZEcHvyz76RJKtKgMFRYYBiJX0iKh3K2U0dOrb0_uM9w32MZ276dVLdHGC0tB1IpTzpVLN6RLPBGJW69oYvwShLsyggc82o7HhTIbIDt5edyMDZ1mL8dqIHzBTTtW3l7YWO0JtUiPeD4yGF1gqJm-4V0YfUrtpW-MnfDIf20gi5CcDJH5cbHwXcFH2GaBT_33vaKfg2_TJPAndBi6G-DRET0Lvn0-KR0p60Xazf7gZ1OQfffaeefhzgH7wubwhsexj5YYMw6V-GZQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-13T06:39:03+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20592",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20592",
+      "text": "AMD CEO 리사 수 기조연설 - OCP 글로벌 서밋 2026\n1. 2030년 CPU TAM(시장 규모) 전망치 2,000억 달러 이상으로 상향\n급증하는 CPU 수요: 에이전틱 AI(Agentic AI) 워크로드가 새로운 CPU 수요를 견인하면서, CPU 시장 성장 전망이 대폭 상향\n되었습니다.\n성장 규모: 향후 4~5년 동안 연평균 성장률(CAGR) 약 50%를 기록하여, 2030년까지 2,000억 달러(약 2,000억 불+) 규모의 TAM을 형성할 것\n으로 예상됩니다.\n(지난 9개월간 시장 전망치가 3차례 상향 조정됨)\n참고:\n데이터센터 AI 가속기 전체 시장은 2030년까지 약\n1조 5,000억 달러\n에 달할 것으로 전망됩니다.\n2. 2026년을 \"추론(Inference)의 해\"로 선언\n추론 중심의 시장 재편:\n2026년은 본격적인 '추론의 해'가 될 것이며, 앞으로 전체 시장의 약 60%를 추론이 차지할 것으로 예상\n됩니다.\n에이전틱 AI 부상:\n단순한 추론을 넘어 에이전틱 AI 워크로드가 폭발적으로 성장하고 있음을 강조했습니다.\n3. '헬리오스(Helios)' 생산 개시 및 주요 고객사 공급\n선적 및 설치:\nAMD는 지난 9월부터 생산 선적을 시작했으며, OpenAI, 메타(Meta), 마이크로소프트(Microsoft), 오라클(Oracle), 앤스로픽(Anthropic) 등 주요 고객사에 첫 시스템 설치를 완료했습니다.\n향후 계획:\n4분기를 거쳐 내년 상반기까지 생산량이 지속적으로 확대될 예정입니다.\n4. OCP 표준 에이전틱 AI 랙 '헬리온(Helion)' 공개\n헬리오스의 자매격 제품:\n헬리오스의 '사촌' 격인\n에이전틱 AI 맞춤형 랙인 AMD 헬리온이 새롭게 소개되었습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/OT3JjAHIHMnijc_pgaQy8WfxKVAxwzvkiYvp444y2uXGOASnJaQwmehwowQWyMsZffdFxK6cU0LiWi_CsAiLt34qnTZMXWB9yoT402FeOEswtZ_MbyXlC1Zkr7wNo1lKNcSYJpIduifR3AQn-NE2_wSkDiZBCVy1BSK5p9T55rU95czusJIELPYS6R4SQ72I5y8-4zzWwaBwMr94Xh4QQLqqpHjy17hsHFamY_oN2FgH92PIZpzwIXUIJmRL7_LUdNWZ7vvA64s_s5UsMCeEEpCAKQ8GAOptG_WF0MqiO9lqhtJygj3Xrcq0ZykWLL9BxoZzuVKu39oq8ZJ9hfcy2Q.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-13T06:35:25+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25797",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25797",
+      "text": "아무도 관심이 없는 카카오AI 이벤트\n우리도 오픈클로, 뮤즈처럼 자체 AI에이전트 만들었어요~\n그리고 우리는 모든 일을 똑똑하고 비싼 프론티어AI가 처리하는게 아니라 시킨 일 수준에 맞는 지능의 AI를 불러서 써요! 그래서 돈 적게 들어요~\n우리 카나나2.6도 많이 똑똑해졌어요~ 인듯.",
+      "images": [
+        "https://cdn5.telesco.pe/file/Kq5WRPklFb-ujfX4yygtIeikq1jc5n0CtMO2jgkI236elLeK_p_4ONSCmeSJdn717u2toW7mJUNUjmevjjYvbrCdXo34fTi1aL9KkgLW2P-g7F2hbkgIPKLLyHzJoBf0YT684KYsjIRhdEk-wa1QigfaRX86RGYkgY4gz7OVohzRDCRoD8B6EzW9YRR1QsGrtguxgdfwdpfX-LZULtkEiaUoByA2OqaFIuAKon4RGA3mr5xD-9zjplj26GeEeC8IZ4whHJXlb0Jjp0QoileAA2TVzGSSkCFxNGchQfRkee6vHGCRLry5-Jl8DeiZaJ1_SpWpjvVLX6IVBPDSTy1Skg.jpg",
+        "https://cdn5.telesco.pe/file/TrfUY3VCLSnLmBBlnypGsq_Aa9UbDeB9PP7SrM3UHUHzPcQDbk8cFUpRKvnXDBd3lY5A950Nh5crSNmQt0Cykt0Jm30JcqD4uK4dI-8gvDZgBVY7y3CrtE5aSP2JcnrYrwbKzAo1gl6gKC_mFOSybwGl-Y0jXYG79YSBjl5Myi3oAKVIzudAqA52JbdRpcMyq37Z825fM-_A1qenkfBLOUXBGl4k6vZVeVnPapfXb-Piv_6RoqIqHoCjbKwq5Jin_HCSt-khAezu3Q5jTz3slyVq1UXwNV4IRXSs6S7xAgpA5LOYlAKkNwcy2ojFIpeI8V2qovw0XDMq0lEgnzKSxg.jpg",
+        "https://cdn5.telesco.pe/file/PPtKqzn8JWsbyicdc90zhwHVf5ELdN3qO5XchlIlK-QZ64IvyqIfkbTCR9qNWI-HABlFeFoIAQrqyh2DxEl1j2HgrhVkXZXGvDoPTRZw-xRnu4ubtJu28B5cB6HwYIYF70UFaWHnn0PWBOaP_mraviVmoEvaPktIhXvDY3iGIb9Rryi6F-iNuSg7CNspYiCld9zXDCQZN7iZKvOeY5bE7JU-5IfOXP9GF0MKFvhLFoOEtELdJXnUYbBrjwYgpV_sk1RK5epi5CRB30ncMFJjPzr0n6BrAf_JOZmRnYQSWo9YrrG0VNUxgo5TofJpkwyoI8CPt_CZjlHg67wQ0aH4rw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-13T05:36:20+00:00"
+    },
+    {
+      "id": "tg:enc210406/4497",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4497",
+      "text": "[HD현대중공업 해양 계약 변경 공시]\n@ 제품: FPU(Trion)\n@ 변경 사항\n1) 계약 금액\n- 기존: 1조 9,539억억\n- 신규: 1조 9,648억원\n- 변경: 109억원 증액\nTrion FPU에서\n두번째 change order가 발생합니다.\n직전 C/O 1,117억과 합해\n총 1,226억원 증액되었습니다.",
+      "images": [
+        "https://cdn5.telesco.pe/file/KmSxmgY4Z4uvYV9haMlyPz72yoVERB5s1wWVGOjU3YLvB2Xs2RjfedSKbHpZ5FXc0z5z5jc3s9tlT81-YyvubDlSyIvnZMQNbS70jBvkEjWDUiMRpbWXA55XxZ4dcJq1lToRSYoySMTOcd4Y1SRNhQE15qy4ieVUDGViZHbcgLv4Mwz0sDalXCOJV-8fDFFdjzGaHa7zBhDSfJf8rsrMJPCDNn0xYuFnPL5ZHNNN7E81t3vRtX7V8PnZNcVq8-rYAMka3GzCkravVdwE0nWTALmBMbxeb9t8TTENne8BcuNzBNzfj9e2PiW4uHXbRJ_I9-oyZzBZrOZRcWv6XJeVCA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-13T05:01:43+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25796",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25796",
+      "text": "JP모건) 마이크로소프트 — Maia 제품군이 주력 추론 역할을 맡고, Maia 300은 상당한 성능 향상을 제공하며 강력한 램프업 계획을 뒷받침할 것으로 예상\n요약\n마이크로소프트는 10월 12일 Azure Maia 가속기 제품군을 2027년부터 멀티 기가와트 규모로 확대하고, Maia를 마이크로소프트 제품과 서비스 전반의 주력 추론 시스템으로 삼겠다고 발표했습니다. 이와 함께 3세대 Maia 300 시스템을 공개했으며, 2027년부터 양산 배치에 들어갈 예정입니다. Maia 300은 선도적인 GPU 기반 시스템 대비 메가와트당 토큰 처리량이 40% 많고, 96개 가속기 풀 구성 시 Maia 200 대비 랙 단위 토큰 처리량이 최대 7배에 달할 것으로 예상됩니다. Maia 200은 이미 마이크로소프트 코파일럿 등 실제 워크로드를 처리하고 있으며 연말까지 깃허브 코파일럿과 마이크로소프트 파운드리로 확대될 예정입니다. 회사는 OpenAI 모델, 자체 MAI 모델, 주요 오픈소스 모델을 지원해 온 경험을 바탕으로 Maia를 점진적으로 주력 추론 플랫폼으로 키워갈 계획입니다.\nMaia 300의 성능 향상은 보다 효율적인 소프트웨어 정의 데이터플로우와 칩렛 아키텍처 등 하드웨어 혁신이 결합된 결과로, 이를 통해 와트당 HBM 대역폭과 데이터센터 규모의 스케일업 네트워킹이 개선될 것으로 보입니다. 로이터는 마이크로소프트가 내부 AI 서비스를 위해 내년에 100만 개 이상의 Maia 300 칩을 배치할 수 있다고 보도했습니다. 이번 발표는 2032년까지 글로벌 데이터센터 용량을 3배 이상으로 늘리겠다는 계획에 대한 앞선 보도에 뒤이은 것으로, Maia 칩의 대규모 배치와 맞물려 인프라 비용 효율이 개선될 것으로 보입니다. 보고서는 마이크로소프트의 데이터센터 용량이 2030년까지 30GW 이상으로 증가할 것으로 추정하며, FY27 설비투자 가이던스가 2026년의 1,750억 달러 대비 2,100억 달러 수준으로 제시되면서 이러한 로드맵이 더욱 구체화될 것으로 예상했습니다.\n보고서는 Maia의 확대가 외부 컴퓨팅 매출보다는 내부 용도에 집중될 것으로 보며, 따라서 투자자들이 그 효과를 가장 직접적으로 확인할 수 있는 지점은 설비투자 집약도와 클라우드 소프트웨어의 매출원가가 될 것이라고 설명했습니다. Maia가 주력 추론 시스템으로 자리 잡으면 높은 토큰 처리량을 통해 코파일럿의 성능이 개선되는 동시에 연산 단위당 비용이 낮아져, 현재 60% 중후반대를 기록하고 있는 마이크로소프트 클라우드의 매출총이익률이 개선될 여지가 있다는 평가입니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-13T04:15:34+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25795",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25795",
+      "text": "JP모건) 메타 — 뮤즈 원더 모델이 개인 에이전트 및 엔터프라이즈 서비스를 뒷받침, 비중확대 및 목표주가 920달러 유지\n요약\n메타가 큰 기대를 모았던 뮤즈 원더(코드명 워터멜론) 모델 시리즈를 공개했습니다. 이는 메타의 역대 가장 뛰어난 모델로, 개인 및 업무용 에이전트 작업 전반에서 프런티어 수준의 성능을 보이며 에이전트, 코딩, 일반 지식 업무 벤치마크와 가격 측면에서 높은 경쟁력을 갖추고 있습니다. 뮤즈 원더는 메타 모델 API와 뮤즈 코드를 통해 이용 가능하며 곧 뮤즈 구독자 대상 에이전트 경험에도 적용될 예정입니다. 보고서는 에이전트 간 상호작용 증가에 기반한 수수료·성과 기반 수익화가 2027년 하반기 이후에나 본격화될 것으로 보면서도, 단기적으로는 메타 모델 API와 뮤즈 코드 등 엔터프라이즈 부문에서 더 큰 수익화 기회가 생길 수 있다고 평가했습니다. 이에 2028년 GAAP EPS 추정치 35.44달러에 26배를 적용한 목표주가 920달러와 비중확대 의견을 유지했으며, 이는 보수적인 수준일 수 있다고 덧붙였습니다.\n성능 측면에서 메타는 14개월 전 MSL 팀을 재편한 이후 모델 성능을 꾸준히 개선해 왔습니다. Artificial Analysis 기준으로 뮤즈 원더는 GPT-6 Astra와 앤트로픽의 두 번째 상위 모델인 Claude Fable 5.1을 앞섰지만 최상위 모델인 Claude Opus 5.5에는 소폭 못 미쳤습니다. 특히 프런티어 코딩 부문에서는 경쟁 모델들을 앞서, 에이전트 용도에 더 최적화된 모델임에도 모델 API와 뮤즈 코드에 긍정적인 신호로 해석됩니다. 뮤즈 원더는 건강·법률·금융 등 분야별 전문성, 대화 간 사용자 맥락을 유지하고 필요 시 능동적으로 불러오는 액티브 메모리, 어려운 작업에서 대안을 시도하며 끝까지 수행하는 액티브 포커스, 그리고 소규모 앱부터 장기 소프트웨어 엔지니어링까지 지원하는 코딩 역량을 갖추고 있습니다. 다만 새로운 프런티어 모델인 만큼 초기 벤치마크를 넘어 다양한 워크로드에서 실제 성능을 입증해야 한다고 보고서는 지적했습니다.\n가격 면에서 뮤즈 원더는 메타 모델 API 기준 입력 토큰 100만 개당 4달러, 출력 토큰 100만 개당 20달러로 책정되었습니다. 이는 뮤즈 스파크 1.3(입력 1.25달러, 출력 4.25달러)보다 비싸지만, 동일한 가격의 Gemini 4 Argon 및 Claude Opus 5.5와 비교해 경쟁력이 있으며 GPT-6 Astra(입력 10달러, 출력 50달러)보다는 저렴합니다. 또한 뮤즈 원더 풀 버전은 월 5달러부터 200달러까지의 요금제로 제공되는 뮤즈 코드 구독자에게 현재 바로 제공되고 있습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-13T04:11:05+00:00"
+    },
     {
       "id": "tg:bornlupin/20591",
       "source": "telegram",
@@ -53,18 +303,6 @@
       "published_at": "2026-10-13T01:18:16+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/25792",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25792",
-      "text": "메타, 차세대 AI 에이전트 '뮤즈 원더·뮤즈 원더 풀' 공개…장기 기억·지속 추론으로 복잡한 업무 수행\n이번 모델은 메타가 앞서 공개한 ‘뮤즈 스파크(Muse Spark)’를 기반으로 사전학습과 강화학습을 고도화한 결과물이다. 메타는 자사의 기가와트급 데이터센터인 프로메테우스(Prometheus)에서 모델을 학습했으며, 개인화된 AI 에이전트를 향한 확장 전략의 다음 단계라고 밝혔다.\n출처 :\nhttps://www.aitimes.kr/news/articleView.html?idxno=42272",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-13T01:01:52+00:00"
-    },
-    {
       "id": "tg:bornlupin/20589",
       "source": "telegram",
       "author": "bornlupin",
@@ -79,20 +317,6 @@
       "published_at": "2026-10-13T00:21:11+00:00"
     },
     {
-      "id": "tg:aetherjapanresearch/25791",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25791",
-      "text": "슬슬 다시 봐야겠지...?",
-      "images": [
-        "https://cdn5.telesco.pe/file/FS4TkiyEVz6ZDdodHozg9xf6oscHGqCoMPVpKTV7sjh2sTnMqpO_8xzkv4e2FsFm40GfBxYeYPYvlzFjeFTLPc3qTnDIuupZeJ8wxZ66Q0iGaGgdBCPrmfg4tT2Z5CVPcpC6EonrjCNMSzotP_rpItxVr5yTrKV-k1lmQVhS0krBmo1bhPffiW6LlVK9RUF5KcmFroqy7LK6CXAOn2v0e3yc2Q4yxV47gJdpj0pPZJVG2kvC_3zT6jJu6JSZYiyEZ3c4ybvjGWuQmPcAFBTLJNHCDP3nJoUYk3_4U-ZgemsYUM9rLv3E0lYiQ7T5k0CLkZDBBcesfrLe6PK9-jppew.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-13T00:13:10+00:00"
-    },
-    {
       "id": "tg:bornlupin/20588",
       "source": "telegram",
       "author": "bornlupin",
@@ -105,54 +329,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-10-13T00:10:56+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25790",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25790",
-      "text": "JP모건) APAC 테크 - 현장 피드백 해외 투자자들은 현재 아시아 테크에 대해 어떻게 생각하고 있을까요? 당사의 애널리스트 고쿨은 지난 2주간 영국과 미국에서 100명의 투자자를 만났습니다. 그의 피드백에 따르면 AI 트레이드에 대한 투자자 심리는 여전히 엇갈리고 있으며, 주요 우려 사항은 (i) 오픈소스 LLM의 비중 확대가 독점 모델의 ARR을 위협하고 있다는 점, (ii) 모델 레이어에서 향후 몇 년간 ROIC 상황이 어떻게 전개될지, (iii)…",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-12T23:55:24+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25789",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25789",
-      "text": "JP모건) APAC 테크 - 현장 피드백\n해외 투자자들은 현재 아시아 테크에 대해 어떻게 생각하고 있을까요? 당사의 애널리스트 고쿨은 지난 2주간 영국과 미국에서 100명의 투자자를 만났습니다. 그의 피드백에 따르면 AI 트레이드에 대한 투자자 심리는 여전히 엇갈리고 있으며, 주요 우려 사항은 (i) 오픈소스 LLM의 비중 확대가 독점 모델의 ARR을 위협하고 있다는 점, (ii) 모델 레이어에서 향후 몇 년간 ROIC 상황이 어떻게 전개될지, (iii) 하이퍼스케일러와 네오클라우드에 대한 자금 조달의 지속 가능성입니다. 저희는 코딩 이외의 새로운 워크로드에 대한 증거가 더 많이 나오는 것이 AI 인프라 종목의 주요 촉매가 될 가능성이 높다고 봅니다.\n병목이 전력으로 이동한다는 우려는 시기상조입니다(저희 견해). 투자자들은 AI 병목이 AI 실리콘 및 하드웨어에서 전력(데이터센터 구축, 전력 및 인허가)으로 언제 이동할지에 점점 더 주목하고 있는 것으로 보입니다. 특히 데이터센터 구축 활동의 한계로 인해 2027년 이후 칩 성장에 대한 우려가 커지고 있습니다. 전반적으로 고쿨은 미국 외 신규 시장(동남아시아, 유럽 등)에서 최근 진행된 데이터센터 용량 구축이 공급을 크게 확장할 것이기 때문에, 칩이 향후 18개월간(최소한) 병목으로 남을 것이라고 판단합니다. 고쿨은 병목이 전력으로 이동하는 초기 지표로서 하이퍼스케일러나 네오클라우드에서의 GPU 교체 징후를 살펴볼 것을 권고하며(전력 제약이 있는 환경에서는 A100/H100을 GB300/VR200으로 교체하는 것이 훨씬 높은 토큰 매출을 창출할 것이기 때문입니다), 현재까지 이러한 움직임은 나타나지 않았습니다.\n투자자들은 메모리 공급망 대비 기판/패키징에 긍정적입니다. 가장 긍정적인 심리를 보인 종목은 유니마이크론, 이비덴, ASE, TSMC, VIS, 위스트론 및 일부 SPE 업체였습니다. 피드백이 보다 중립적이었던 종목은 아시아 메모리, 대만 ODM, 미디어텍, 델타, PCB 업체 및 ASPEED였습니다. 투자자들이 보다 신중한 태도를 보인 종목은 UMC와 HBM 관련 밸류체인(한미, ASMPT, BESI)이었습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-12T23:52:41+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25788",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25788",
-      "text": "블룸버그) 어플라이드 머티리얼즈, AI 덕분에 매출은 두 배로 늘리되 인력은 두 배로 늘리지 않을 것\n요약\n어플라이드 머티리얼즈의 게리 디커슨 CEO는 인터뷰에서 향후 수년간 회사 매출을 두 배로 키우겠지만 인력은 그만큼 늘리지 않을 것이라고 밝혔습니다. 제품 개발과 품질 관리 등에 AI 도구를 적극 활용하고 있기 때문이며, 고객사 현장에서도 AI를 이용해 웨이퍼당 양품 칩 수와 일일 웨이퍼 처리량을 끌어올리고 있다고 설명했습니다. 일부 부문에서는 AI로 생산성이 약 50% 향상된 사례도 있다고 언급했습니다. 다만 향후 인력 전망치는 공개하지 않았으며, 회사의 직원 수는 7월 말 기준 약 3만 8,900명입니다.\n이번 발언은 50억 달러를 투자해 캘리포니아 서니베일에 세운 EPIC 센터 공개 행사를 앞두고 나왔습니다. 이 시설은 TSMC, 인텔, 삼성전자, 마이크론, SK하이닉스 등 고객사와 협력해 구축됐으며, 약 60만 제곱피트 규모에 약 4에이커의 첨단 클린룸을 갖추고 칩 제조사와 연구진, 장비 파트너가 함께 개발 속도를 높이도록 설계됐습니다. 디커슨 CEO는 자금 조달, 공급, 에너지, 생산능력 부족 등 단기적으로 AI 인프라 구축을 늦출 수 있는 요인이 있다고 인정하면서도, 어떤 시나리오에서든 성장은 상당할 것이며 장기적으로는 변혁적인 수준이 될 것이라고 전망했습니다.\nhttps://www.bloomberg.com/news/articles/2026-10-12/applied-materials-will-double-sales-not-headcount-thanks-to-ai?taid=6acd4de09334400001312239&utm_campaign=trueanthem&utm_content=business&utm_medium=social&utm_source=twitter",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-12T23:42:05+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25787",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25787",
-      "text": "계좌 피크아웃 중 ㅋㅋㅋㅋㅋ",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-12T23:39:17+00:00"
     },
     {
       "id": "tg:bornlupin/20587",
@@ -280,46 +456,6 @@
       "published_at": "2026-10-12T22:08:31+00:00"
     },
     {
-      "id": "tg:bornlupin/20584",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20584",
-      "text": "일론 머스크\n중국이 어떤 제품의 제조 방법을 알아내면, 생산 규모를 확대하는 능력은 종종 전 세계 나머지 국가를 모두 합친 것보다 뛰어납니다. 예를 들어, 리튬 배터리와 태양광 산업에서 이러한 현상을 확인할 수 있었습니다.\n스페이스X는 드문 반례입니다. 스페이스X가 궤도로 운송하는 화물의 총질량은 전 세계 나머지 국가를 합친 것보다 대략 10배나 많습니다. 하지만 현재 중국은 스페이스X를 제외한 전 세계 궤도 운송 물량의 대부분을 차지하고 있습니다. 스페이스X는 이러한 구도에서 나타나는 이례적인 존재입니다.\nRAM은 다를 수도 있습니다. 하지만 불과 약 3년 전만 해도 RAM은 이익률이 낮은 범용 제품이었습니다. LPDDR5와 LPDDR6는 공통 표준에 따라 설계되며, 중국은 이와 관련된 기술적 과제들을 빠르게 해결하고 있는 것으로 보입니다.\n차세대 HBM 아키텍처와 로직 반도체 아래에 SRAM 계층을 배치하는 기술, 그리고 로직 반도체의 냉각 문제를 해결하면서 그 위에 RAM을 3차원으로 적층하는 기술 등은 해결하기가 더 어려울 것입니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/CdNumiu2DilUg3pnOzQY66hSedz2ieFR2s9Tp-nUcCWkSV7aZ30xz0VZ6JRV6kzhX_qVPXnRPZz8GO7yrPjTRkjgDSbi5bueyCtwgiv35PE0IHpkaza7m7-OhOvUyLrCz6PNCjy7QdbiKuPFlM9Xcoz5qrecwLlIfWjKXIa8VTdgez9L9SuA_KFt24ujrp9HZfLTHIdbZxaSt68JMq1C3CDlomXAM_NV2Vdeo7eJcBiFh-37BU5hSUeC3HLNHsFEOruKJNeS4CmcjihEnMwRsOEeGgzBkn7ShHTnQvx0lXkFGfpabxUE7bMh74iqQHJgpzi9z_3W2i-_PWZjMqMt4g.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-12T22:02:36+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20583",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20583",
-      "text": "Evercore ISI, 루멘텀(\n$LITE\n),   목표주가 1,100달러에서  1,500달러로 상향\n9월 분기 실적 발표를 앞두고 LITE를 TAP OP(Outperform) 추천 리스트에 추가\n1. 11월 5일 실적 발표 — 강력한 실적 예상\n루멘텀(LITE)은 11월 5일 발표하는 2027 회계연도 1분기(2026년 9월 분기) 실적에서 강력한 성과를 기록할 것으로 예상한다.\n지속적인 광학 부품 수요, 생산능력 확대, 광회선 스위치(OCS) 출하 증가가 실적 상향을 뒷받침할 전망이다.\n현재 월가 컨센서스는 다음과 같다.\n* 매출: 12억 5,000만 달러\n* 주당순이익(EPS): 4.21달러\n* 회사 매출 가이던스: 12억 2,500만~12억 7,500만 달러\n* 회사 EPS 가이던스: 4.05~4.35달러\n우리는\n이번 실적 발표에서 장기 재무 전망과 관련된 경영진의 추가 발언에 시장의 관심이 집중될 것으로 판단\n한다.\n지난 3월 OFC에서 제시했던 재무 전망은 루멘텀이 경험하고 있는 폭발적인 수요를 고려하면 이미 오래된 것으로 보인다.\n특히 루멘텀 CEO는\n최근 콘퍼런스에서 2028 회계연도까지 EPS 40달러를 달성할 수 있는 이익 창출 잠재력을 언급\n했다.\n2. EML 및 OCS 수요 급증 — 실적 상향 가능성\n9월 분기의 강력한 실적은\nEML 레이저 및 트랜시버 수요 지속과 OCS 사업 성장에 의해 주도될 것으로 예상한다.\n경영진은 지난 6월 OCS 출하량이 전분기 대비 두 배 증가했다고 밝혔으며,\n이에 따라 OCS 사업에서 최초로 분기 매출 1억 달러를 돌파할 것으로 전망했다\n.\n루멘텀은\n최근 실적 발표 이후 OCS 수요가 더욱 가속화됐다고 언급\n했다.\n이는 해당 사업 부문에서 상당한 실적 상향 가능성이 존재한다는 의미다.\n3. EML 출하량 50% 이상 증가, 200G 제품 전환 본격화\n광학 부품 사업에서도 긍정적인 흐름이 이어지고 있다.\n*\n루멘텀은 12월까지 EML 출하량을 50% 이상 확대한다는 목표를 순조롭게 진행 중이다.\n* 200G/lane 제품으로의 전환은 고부가가치 제품 비중 확대에 따른 긍정적인 효과를 가져올 전망이다.\n* 2027년 중반까지 200G/lane 제품이 전체 EML 출하량의 과반을 차지할 것으로 예상한다.\n향후 핵심적으로 확인해야 할 사항은 다음과 같다.\n* 생산능력 확대 및 고객사 제품 인증 일정\n* 현재 가격 수준의 지속 가능성\n* OCS 고객 수요와 고객 기반의 다변화\n* 고부가가치 제품 출하 확대에 따른 지속적인 이익률 개선\n4. 12월 분기 실적 전망 및 OCS 성장 잠재력\n현재 월가가 예상하는 12월 분기 실적은 다음과 같다.\n* 예상 매출: 14억 7,000만 달러\n* 예상 EPS: 5.04달러\n우리는 회사가 제시할 12월 분기 가이던스가 향후 성장 궤적을 판단하는 데 중요한 지표가 될 것으로 예상한다.\nOCS는 여전히 추가적인 실적 성장을 이끌 핵심 동력이다\n.\n지난 9월 경영진은 최대 고객사의 주문량 증가를 반영해 2028 회계연도 EPS 잠재력을 40달러로 제시했다.\n이는 지난 3월 OFC에서 제시했던 약 30달러의 EPS 전망에서 크게 상향된 수치다.\n5. CPO/NPO — 2027년부터 UHP 레이저 수요 본격 확대\n우리는 CPO(공동 패키징 광학) 및 NPO(근접 패키징 광학)를 장기적인 성장 기회로 계속 평가하고 있다.\n특히\nUHP(초고출력) 레이저 수요는 2027년부터 본격적으로 증가하고, 2028년 대규모 구축이 확대될 것으로 예상\n한다.\n다만 CPO/NPO의 성장은 단기 실적 상향을 위해 반드시 필요한 조건은 아니다.\n즉, 기존 EML 및 OCS 사업만으로도 단기적인 실적 개선 여력이 충분하며,\nCPO/NPO는 장기적인 추가 성장 동력으로 작용할 전망이다.\n6. 최종 결론 — 목표주가 1,500달러로 상향\n우리는 9월 분기 실적 발표를 앞두고 루멘텀을 TAP OP 추천 리스트에 추가한다.\n루멘텀은 EML, OCS, CPO/NPO 등 여러 성장 동력의 수혜를 지속적으로 받을 것으로 예상한다.\n기존 Outperform(시장수익률 상회) 투자의견을 유지하며, 목표주가를 1,500달러로 상향 조정한다.\n이번\n목표주가 상향의 핵심 근거는 루멘텀 경영진이 언급한 2029 회계연도까지 확보된 주문에 따른 수요 가시성 개선\n이다.\n우리는 루멘텀이 다음과 같은 실적을 달성할 가능성이 높다고 판단한다.\n* FY2028 EPS: 40달러 초과\n* FY2029 EPS: 60달러 초과\n* 목표주가: 1,500달러\n* 밸류에이션: FY2029 예상 EPS 기준 약 22배\n이러한 이익 성장과 밸류에이션을 고려하면 루멘텀의 주가는 1,500달러에 도달할 수 있는 경로를 확보했다고 판단한다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-12T21:11:46+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25786",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25786",
-      "text": "BofA) TSMC 3Q26 실적 프리뷰: 가파른 2nm 램프업으로 매출 상방, 마진은 견조 (2026년 10월 12일)\nBofA는 TSMC에 대해 매수 의견을 유지하고 목표주가를 NT$3,100에서 NT$3,260으로(ADR은 590달러에서 620달러로) 올렸습니다. 목표주가는 2027년 예상 P/E 20배를 적용한 것입니다. 2026~28년 EPS 추정치는 2~9% 상향한 NT$112, 161, 203이며, 이는 컨센서스보다 5~15% 높은 수준입니다. 현재 주가(NT$2,550)는 2027년 예상 P/E 16배로, 장기 밴드(11~21배)에 비춰 부담스럽지 않다고 평가했습니다. 10월 15일 발표될 3분기 실적의 점검 포인트로는 금리 인상과 FCF 부담 속 클라우드 AI 투자에 대한 회사의 시각, 성장과 설비투자 계획, 경쟁·협력 구도와 미국 투자 업데이트를 꼽았습니다.\n3분기 매출은 NT$ 기준 전분기 대비 18% 늘어 BofA 추정(+14%)과 시장 기대(+13%)를 모두 웃돌았고, 달러 기준으로는 467억 달러로 가이던스(446억~458억 달러) 상단을 넘었습니다. 성장은 애플 신제품용 칩과 AMD 베니스 서버 CPU 수요에 힘입은 2nm 램프업이 이끌었으며, 2nm 매출 비중은 2분기 3%에서 3분기 11%로 뛴 것으로 추정됩니다. 미디어텍과 퀄컴의 플래그십 SoC 재고 축적도 보탬이 되었지만, 안드로이드 수요 부진으로 기여는 크지 않았습니다. 5nm와 3nm 가동률은 엔비디아 루빈, AMD MI400, AWS 트레이니엄3, 구글 TPUv8t/i 등 가속기와 서버 CPU, 네트워킹 스위치 수요로 100%를 넘는 수준이 유지될 전망입니다. 다만 매출총이익률은 시장 기대(67~68%)보다 낮은 67.0%로, 가이던스(65~67%) 상단에 그칠 것으로 봤습니다. 2nm 램프업에 따른 3~4%p의 희석 효과를 반영한 것입니다.\n4분기 매출은 전분기 대비 10~15%(BofA 추정 +11%) 늘어 10년 평균 계절성(7%)을 웃돌 것으로 예상했습니다. 성장 동력은 평균판매단가 상승(+11%)이며, 5nm 이하 공정 매출 비중은 75%, 2nm는 18%까지 높아질 전망입니다. 4분기 매출총이익률은 약 67.8%로, 시장 기대(68~69%)보다 낮게 제시했습니다. 해외 팹과 2nm 증설로 하반기 감가상각비가 상반기 대비 25~30% 늘고, 2nm 수율 개선이 아직 진행 중이라는 점을 반영했습니다. 연간 달러 매출 성장률은 2026년 42%, 2027년 40%로 소폭 올려 잡았습니다. 공급 부족이 이어지는 가운데 2027년 초 첨단 공정과 패키징 가격을 5~10%, 성숙 공정 가격을 3~5% 인상할 것으로 보고, 매출총이익률 전망을 2026년 67%, 2027년 69%로 상향했습니다.\n설비투자는 2026년 630억 달러로 가이던스(600억~640억 달러) 범위 안에 들고, 2027년 830억 달러, 2028년 900억 달러로 연평균 20% 늘어날 것으로 추정했습니다. 장비업체들이 2027년부터 전공정 장비 가격을 10~15%, 후공정 장비 가격을 5~10% 올릴 계획이지만, TSMC는 강한 협상력을 바탕으로 2027년 하반기 파운드리 가격 인상을 통해 이를 고객에게 전가할 수 있다고 봤습니다. 감가상각비는 2026~28년 연평균 21% 늘어 매출 성장률(32%)을 밑돌고, 이에 따라 2028년 매출총이익률은 68~69%까지 확대될 전망입니다. 생산능력 측면에서는 7nm 이하 캐파가 2023년 월 32만 장에서 2028년 약 70만 장으로 늘고, 3nm는 2026년 4분기 19만 장, 2027년 4분기 23만 장, N2는 2026~28년 연평균 70% 증가할 것으로 추정했습니다. 업계 CoWoS 공급도 같은 기간 연평균 52% 늘어야 하며, TSMC의 CoWoS 캐파는 2026년 4분기 12만 장에서 2027년 4분기 21만 장으로 확대되고 ASE의 점유율은 18%에서 29%로 높아질 것으로 봤습니다.\n경쟁 구도에 대해서는 TSMC의 우위가 오히려 확대되고 있다고 평가했습니다. 인텔 18A는 2027년 1분기에야 수율이 안정되고 14A는 2029년 상용화가 목표입니다. 삼성 SF2의 수율은 아직 50~60% 수준이며, SF1.4 양산은 2029년으로 미뤄졌습니다. TSMC의 트랜지스터 밀도는 인텔 대비 약 30% 높고, A16과 A12 세대에서는 그 격차가 50~60%로 벌어질 것으로 추정했습니다. 일론 머스크의 테라팹에 대한 우려는 과도하다고 봤습니다. 테라팹은 아직 장비를 평가하는 단계에 머물러 있고, 1,190억 달러 투자 계획으로도 2036년까지 확보 가능한 캐파가 월 9만 6천 장에 그치기 때문입니다. 오히려 스페이스X가 2029년 궤도 AI 100GW 목표를 추진하면 TSMC 첨단 공정 캐파의 약 20%를 쓰는 최대 고객 중 하나가 될 수 있다고 분석했습니다. 다만 TSMC가 기술을 라이선스하거나 지분을 공유하는 합작 팹을 운영할 가능성은 낮다고 봤습니다.\n밸류에이션 측면에서 TSMC 주가 상승은 그동안 멀티플 확장이 아니라 이익 상향이 주도해 왔다고 짚었습니다. 주요 고객사의 P/E 프리미엄은 장기 평균 22% 대비 현재 45%까지 벌어졌고, HPC 고객사 기준으로는 평균 53% 대비 100~150%에 달합니다. BofA는 이를 근거로 TSMC가 12개월 선행 P/E 최소 20배(ADR 기준 24배)로 재평가될 여지가 있다고 봤습니다. 하방 리스크로는 스마트폰과 소비자 전자기기 수요 둔화, 인텔의 파운드리 사업 확대, 첨단 공정 실행 리스크, 예상보다 높은 관세를 제시했습니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/kO7pN7saR1bAM86hYq4ZkaWuGgpKrSJn9Nx0OlruxvoKKwVeaK-DZ1fT47iyA3jIcEDVBLi5AygAnz4KFs1iKg7vNelDRhbDKqgg3O-NfLgkj242_LAZMNF9Xbzyg9ZYIylCsIjpDQSiG6yZLn4L7lYr0oxwMvRXhcWCu7ZoputNkT9OTe4GEKrkIGcK5q3FEglu7bPnyH2vyKoYTtWVGrP5qXpFd8_ZOY8y5JIdiLxRTtbM-RMLXg4tYivzzVImmYv-wxgN3j84HuTn8Lsq3iVOXDxELvjm7_2dWypqRdLr1qO9QDQN2K3kR4e-gWYc5vlf1x2YMwxcv8rqUqrSxA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-12T15:43:19+00:00"
-    },
-    {
       "id": "tg:globaletfi/22116",
       "source": "telegram",
       "author": "globaletfi",
@@ -380,110 +516,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-10-12T14:53:49+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25785",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25785",
-      "text": "마소도 시총 4T넘었네요",
-      "images": [
-        "https://cdn5.telesco.pe/file/rSU_Orzq92D-kBaxyhbFs94YSw_cHbjQAs96j1SJFt_dqIrVhuNpYqQnQXJn3D9KkCrCh2uFz-OJyL0sK0WZ4Xwc70tBp1v9mZ7H9DWCUKx42xB_HH3hh3kohzxqRwYPdNwZcjItiAJ2enON1g2lzlH5qNbq5rwAGzmEN3ENiYrRGVfqgjm9mWF81ZYxBtTpjXvejMKMQTFRZQJEWQHLOSae0xpUmC7qp0u3qUg-4_gYsr71dK0cMZe7K3ZBTs6oT-HNOtWUkRdGRoBK4OJFLMEFQ8Ke5gR4VMWpxn-HAWHiIY2pY1Mjccc5-9gEXREY_athF1M85HMVVxehEHCrPQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-12T14:39:07+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25784",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25784",
-      "text": "JP모건) 난야 테크놀로지; 3분기 예상 부합: 단기적으로 레거시 DRAM 수급 타이트; 2030년까지 AI 매출 비중 40~50% 및 LTA 커버리지 50% 이상 목표; 비중확대(OW)\n난야 테크놀로지는 컨센서스에 부합하는 3Q26 실적을 발표했으며, 매출은 4~5%의 비트 출하량 감소 속에 가격 상승률이 60%대 중후반으로 JP모건 추정치(70% 이상)를 다소 밑돌아 예상보다 약간 낮았지만, 매출총이익률은 85%로 예상에 부합했고 영업이익률은 80%로 메모리 업체 중 최고 수준을 경신했습니다. 4Q26에는 출하량이 5% 미만 감소할 것으로 가이던스를 제시했으며, 경영진이 두 자릿수 ASP 상승 가능성을 언급한 점을 감안하면 매출은 고정환율 기준 한 자릿수 중반에서 두 자릿수 이상 증가할 것으로 보이고(JP모건 추정 +13% q-q), 3분기 ASP 상승분의 절반 이상은 신규 LTA 가격 협상에서 비롯되었습니다. HBM 웨이퍼 배정 확대로 DRAM 업계의 비트 생산 계획이 하향 조정되고 있는 만큼 4Q26과 내년에도 우호적인 가격 환경이 지속될 것으로 예상합니다.\n경영진은 DDR4가 전체 DRAM 수요의 12~14%를 차지하는 반면 난야의 DRAM 비트 점유율은 한 자릿수 초반에 불과해 상당한 수급 격차가 2027년까지 이어질 것이라는 JP모건의 견해에 동의했으며, 3분기 60% 이상의 가격 상승에 이어 두 자릿수 ASP 상승과 80% 이상의 영업이익률 지속 가능성을 시사했습니다. 사양 하향(de-spec) 우려에 대해서는 고급 제품은 높은 가격을 유지하는 반면 저가 제품은 사양 하향이나 재활용 부품 사용에 직면하는 양극화를 예상했습니다. 또한 난야는 3Q26 기준 20% 이상인 AI 인프라·서버 매출 비중을 2029년과 2030년까지 각각 40%, 50%로 확대한다는 목표를 제시했으며, 4Q27부터 가동되는 증설 생산능력(2028년 말 월 3만 장, 2030년 월 5만 장)을 CSP 고객에 배정해 B2C 중심에서 B2B 중심으로 고객 구성을 전환할 계획입니다. 서버용 제품은 PC·모바일 DRAM 대비 50% 이상의 프리미엄이 붙기 때문에, JP모건은 난야가 간접 수혜주에서 직접 수혜주로 전환하며 이익의 질이 개선되고 AI 사이클이 2030년까지 지속될 경우 가장 큰 이익 베타를 보일 것으로 평가했습니다.\n전체 주문의 50~70%는 분기 단위부터 다년 계약까지의 LTA로 구성되어 있으며, 최장 3년 계약은 전체 웨이퍼 공급의 약 20%로 경쟁사들의 35~60%보다 낮은 수준이지만 향후 그 비중이 늘어나 중장기적으로 절반 이상에 이를 수 있다고 봅니다. 2027년에는 단기 계약 비중이 높은 주문 구성이 수급 부족 국면에서 가격 결정력을 높여 LTA 비중이 큰 경쟁사 대비 더 강한 이익 성장을 이끌 수 있다는 판단입니다. 난야 주가는 LTA 갱신에 따른 ASP 상향 기대로 최근 1개월과 3개월간 각각 7%, 21% 상승해 메모리 업체들(-3%, -17%)을 크게 웃돌았으며, 높은 기저로 인해 연말과 1H27의 성장률은 둔화되겠지만 JP모건은 비중확대 의견을 유지하고 투자자들에게 비중 확대를 권고했습니다. 향후 월별 매출 추이와 함께 DDR4/DDR5 현물 가격, 웨이퍼 온 웨이퍼(WoW) 첨단 패키징 사업 진척, 아시아 메모리 대기업들의 2027년 수급 전망 업데이트를 주요 촉매로 제시했습니다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-12T14:36:42+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25783",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25783",
-      "text": "Microsoft, Azure Maia 시스템을 멀티 GW 규모로 확대\n1. Maia 200 상용화 및 Maia 300 출시\nMicrosoft는\n2027년부터 Azure Maia 제품군을 멀티 기가와트(GW) 규모로 확대 배치하고, 자체 제품과 서비스의 주력 AI 추론 시스템으로 활용할 계획\n입니다.\n현재 Maia 200은 Microsoft Copilot을 비롯한 상용 서비스에 적용되고 있으며, OpenAI 모델, 자체 MAI 모델, 주요 오픈소스 모델을 구동하고 있습니다. GitHub Copilot과 Microsoft Foundry도 연말까지 도입할 예정입니다.\n미국·유럽·호주에 배치 중인\nMaia 200은 주요 GPU 인프라 대비 와트당 토큰 처리량을 최대 1.7배 향상\n시키고 있습니다.\n2. Maia 300 성능 및 특징\nMaia 300은\n롱컨텍스트 추론, 메모리 집약적 작업, 디코딩 중심의 AI 추론, 다단계 에이전틱 AI\n에 최적화된 3세대 자체 가속기입니다.\n시스템 전반의 효율성 개선을 통해\n주요 GPU 기반 시스템 대비 메가와트당 토큰 처리량이 40% 높을 것으로 예상\n됩니다. 또한 96개 가속기로 구성된 랙에서는 Maia 200 대비 최대 7배의 토큰 처리량을 제공합니다.\n핵심 기술은 다음과 같습니다.\n(1)\n데이터 이동 최소화:\nAI 추론의 주요 병목이 연산 능력보다 데이터 이동 효율로 변화하고 있습니다. 소프트웨어 정의 데이터플로와 AI 기반 커널 최적화로 메모리 접근 및 데이터 이동량을 줄입니다.\n(2)\nHBM4 대역폭 확대:\nHBM4 8스택을 탑재해\n18TB/s의 메모리 대역폭과 950W TDP\n를 구현합니다. 온칩 SRAM을 스크래치패드 메모리로 활용해 HBM 접근 부담을 낮춥니다.\n(3)\n칩렛 아키텍처:\n연산, 메모리 컨트롤러, I/O 기능을 분리해 효율성과 확장성을 개선합니다. 연산 칩렛은\nTSMC N2P 공정\n을 사용합니다.\n(4)\nKV Cache 최적화:\n개선된 MXFP4 등 저정밀도 데이터 형식을 활용해 연산 및 KV Cache 저장에 필요한 메모리 용량과 대역폭을 줄입니다. 이를 통해 더 긴 컨텍스트와 높은 처리량을 지원합니다.\n(5)\nScale-up 네트워킹:\n이더넷 기반 맞춤형 AI 통신 기술을 적용합니다. 가속기 간 고대역폭 연결을 텐서 병렬화에 최적화하고, 단일 랙부터 데이터센터 규모까지 확장할 수 있도록 설계했습니다.\n3. Maia 300 핵심 사양\n(1)\n출시 예정:\n2027년\n(2)\n반도체 공정:\nTSMC N2P\n(3)\nHBM:\nHBM4 8스택, 가속기당 약 288GB 용량 및 18TB/s 대역폭\n(4)\n가속기 전력:\nTDP 950W\n(5)\n랙 구성:\n가속기 96개, 총 HBM 용량 27.6TB, 총 HBM 대역폭 1.7PB/s\n(6)\n랙 전력:\n167kW\n(7)\nGPU 대비 효율:\n주요 GPU 기반 시스템 대비 MW당 토큰 처리량 40% 향상 예상\n(8)\nMaia 200 대비 성능:\n랙당 토큰 처리량 최대 7배 향상\nMicrosoft는 이러한 시스템 집적도와\n메모리 대역폭 확대를 통해\n랙당 동시 AI 처리량을 높이고, 대규모 AI 서비스 운영의 전력 효율과 비용 경쟁력을 개선할 계획\n입니다.\nhttps://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
-      "images": [
-        "https://cdn5.telesco.pe/file/BBPoV57J_cE9Bw4bWZ-wwwfE2I_-KqWEFG0I3DN8b-cwJE_rVfXP56UuXdj_A2EGgOt8Fr7qQGOmfvnO3IAQD3ih5a9kUSoKfCQG_dV-cGk_-63Vkl9FApE8xnCXGygxCdDS0opYletwDVT8Ee4Ymhk78RN8tCMsTdn4ClAbXflyrFeq9QDIwb5l7l91kISNsZ8igo0gh393C5vbU3SBmduEU0SKvAak5EHVXv2Wnz-glWizwRY-TBxCiA--EfWZuREH1ke3XwVYmJfdqy84OulivG2C8QGvz7OfT1DqZdy-_lOaWYZDDfLlqbiB3fxUx10DYdFikMlzQVhogn3m_g.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-12T13:46:44+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25782",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25782",
-      "text": "마소 CEO 사티아 나델라: 오늘 저희는 자체 실리콘에 대한 지금까지 가장 큰 베팅을 발표합니다.\n내년(역년 기준)부터 저희는 Maia 제품군을 멀티 기가와트 규모로 확대 배치하여, 이를 저희 자체 제품과 서비스를 위한 주력 추론 시스템으로 삼을 것입니다.\n그리고 선도적인 GPU 기반 시스템 대비 와트당 토큰 처리량이 40% 더 높은 Maia 300을 선보입니다.\n저희는 이미 미국, 유럽, 호주 전역에 Maia 200을 배치하고 있으며, Teams와 Copilot 전반의 경험에서 와트당 최대 1.7배 더 많은 토큰을 제공하고 있습니다.\n저희의 목표는 이미 확인한 풀스택 효율성 향상을 기반으로 삼아 발전시키는 동시에, 생태계 전반의 최신 혁신을 저희 인프라에 계속 도입해 나가는 것입니다.\nhttps://blogs.microsoft.com/blog/2026/10/12/microsoft-to-expand-azure-maia-system-to-multi-gigawatt-deployments/",
-      "images": [
-        "https://cdn5.telesco.pe/file/jZ9XO34xTumSA8zXQDjLfkN7zfwtvLP3Gzr8Ynicr61G2yxdlCTyJBVk079_T9G1kwr2yAt1beLPq_tDlW78zlInLpukb1GbpH-L3BqRBCKgUjEP_DgyFxpJmF6coLPdtyBzP0oHL62eur58KShvFiKZ0MeusOdmue8rcFvsEfOqH82vjhi0Nk_ePLQ-BxWLkhNuSibLWMhRY7XpBElbCH6twcDbxUnPdpxfHcnqpXRuKc-ImrQ2ihgkZQl1QSwU2GcRCTfyT0g0NmJuwVTOGybUb8kGyvm6oO4VxMTDNjP-I34Lu5WKD8llgb0tHUodKn8YaxFN2c-ewm77Eh26mw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-12T13:33:33+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25781",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25781",
-      "text": "암호화폐 채굴 악성코드 PoeLLM이 깃허브에 게시된 시(詩)를 이용해 제어 서버 주소를 숨기면서 3,400대 이상의 서버를 공격했습니다.\n루멘의 보안 연구팀 블랙 로터스 랩스는 2026년 4월부터 진행된 칸토 인코그니토 공격 캠페인을 분석했습니다. PoeLLM은 깃허브에 게시된 시에서 특정 단어 4개를 추출해 명령 및 제어(C2) 서버의 IPv4 주소로 변환합니다. 공격자는 시를 11차례 수정해 감염된 서버가 새로운 제어 서버에 연결되도록 했습니다.\n\"연결의 본질에 대하여\"라는 제목의 이 시는 지난 4월에 처음 유포되었으며, 새 버전이 나올 때마다 새로운 C2 서버를 가리킵니다. 악성코드는 특정 단어를 추출하여 IPv4 주소로 변환하는 방식으로 새 주소를 해독할 수 있습니다. 루멘은 보고 시점 기준으로 \"악성코드 제작자가 시를 해독하는 데 사용한 패턴은 변경하지 않았다\"고 밝혔습니다. 연구원들은 시를 활용한 것은 \"중요한 메시지를 숨기는 데 완벽한 수단\"이기 때문에 난독화에 도움이 되었을 가능성이 높습니다.\n주요 공격 대상은 LiteLLM과 Gotenberg였으며, Ollama와 Gitea도 포함됐습니다. 인터넷에 노출된 서비스의 취약점을 악용하는 방식으로, LiteLLM에서는 인증 권한 검사 없이 서버에서 명령을 실행할 수 있는 CVE-2026-42271 취약점이 유력한 침입 경로로 분석됐습니다. 해당 취약점은 4월에 수정됐으며, LiteLLM 1.83.7 이상에서 해결됐습니다.\n감염된 서버에는 XMRig와 Iron 채굴 프로그램이 설치되며, 다른 서버를 탐색하고 공격하는 용도로도 사용됩니다. 초기 피해 서버 900대에서는 러시아 암호화폐 채굴 서비스에 접속한 흔적이 발견됐습니다. 루멘의 보고서 발표 당시 제어 서버 12대 중 3대가 여전히 활성 상태였으며, 루멘은 PoeLLM 제어 서버로 향하는 트래픽을 차단했습니다.\n출처) 암호화폐 채굴 악성코드 PoeLLM, 시를 이용해 서버 3,400대 이상 공격 - 웹 / 앱 / AI - 기글하드웨어 :\nhttps://gigglehd.com/gg/?mid=soft&document_srl=19288494",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-12T13:11:11+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20582",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20582",
-      "text": "마이크로소프트 CEO 사티아 나델라\n“오늘 우리는 자체 반도체에 대한 역대 최대 규모의 투자를 발표합니다.”\n내년(2027년)부터\nMaia 제품군의 배포 규모를 수 기가와트(GW) 수준으로 확대하여, 마이크로소프트 자체 제품과 서비스의 핵심 AI 추론 시스템으로 만들 계획\n입니다.\n또한\n새로운 Maia 300을 공개합니다.\n이 칩은 주요 GPU 기반 시스템과 비교해 전력 1와트당 40% 더 많은 토큰을 생성할 수 있습니다.\n우리는\n이미 미국, 유럽, 호주 전역에 Maia 200을 배포하고 있습니다.\nMaia 200은\nTeams와 Copilot 등 다양한 서비스에서 전력 1와트당 최대 1.7배 많은 토큰을 처리하는 성능을 제공\n합니다.\n우리의 목표는 이미 확보한 전체 기술 스택(Full-stack)의 효율성 향상을 더욱 발전시키는 동시에, AI 생태계 전반의 최신 혁신 기술을 지속적으로 데이터센터 인프라에 도입하는 것입니다.",
-      "images": [
-        "https://cdn5.telesco.pe/file/i9lEkrU2BVo4Bu2Chmk1m_kyc0DCXvJFPVbEZU2BhjeF1GOwpA0fz-aeMpcAxmx-5ZcObkGomc1oapJZqC-f5H9Ts4C10CUttYqxxcOyWLp7tP6rBR0js916ZeHFyXo3NPF4AcDSlWIgCA_TgW5Jil1r17m2xlex2Psg-2OBVMop3O4vOhMd8fzf6kCmaXJxkQt3j8DTotZLCaszVepwTwuz4VTVWTNqZyJfNtzUxXTiHB7HBxkty_MLGLaIpsPUKB7-hiNiU-l6ca4Q_7yCPRcAjPnwl409yaAxnBTYMDQeoxaiVus0NMJUDR3m_y6SWpltxVXwx-pSZvW1A7faiw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-12T13:10:25+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20581",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20581",
-      "text": "AI 컴퓨팅 인프라 구축이 가속화되면서 광통신 산업의 수요가 급증\n중국의 광통신 테스트 장비 업체인 롄쉰인스트루먼트의 실적도 폭발적인 성장세를 보일 전망\n롄쉰인스트루먼트, 2026년 1~3분기 순이익 전년 대비 최대 2,073% 증가 전망\n1. 2026년 1~3분기 순이익 최대 2,073% 급증 전망\n- 지배주주 귀속 순이익: 19억~21억 위안으로, 전년 동기 대비 1,866~2,073% 증가 예상\n- 비경상적 손익을 제외한 순이익: 18억~20억 위안으로, 전년 동기 대비 1,837~2,052% 증가 예상\n2. 주요 실적 견인 요인\nAI 인프라 확대 및 고속 광모듈 수요 증가\n대규모 언어 모델(LLM) 학습 및 추론 수요가 늘면서\n데이터센터 내 고속 상호 연결(Interconnect) 수요가 급증하고 있습니다.\n800G 및 1.6T 고속 광모듈의 연구개발과 양산이 본격화되면서, 광모듈 및 광 칩 제조사의 설비 증설\n이 이어지고 있습니다.\n이에 따라 R&D 검증, 성능 테스트, 품질 관리(QC) 전반에 걸친 계측·검사 장비 수요가 크게 확대되었습니다.\n핵심 공정 수혜 및 영업 레버리지 효과\n롄쉰인스트루먼트의 통신 테스트 계측기 및\n광전자 소자 테스트 장비는 고속 광통신 밸류체인의 핵심 검측 공정에 자리 잡고 있습니다.\n장비 업체 특성상 초기 연구개발 및 고정 생산비 비중이 큽니다.\n이번 분기처럼 매출 성장 속도가 고정비 증가 속도를 크게 웃돌면서 강력한 영업 레버리지(Operating Leverage) 효과가 발생해 순이익이 폭발적으로 증가\n했습니다.\nhttps://wallstreetcn.com/articles/3783452#from=ios",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-12T13:03:03+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20580",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20580",
-      "text": "Baird, 팔란티어(Palantir,\n$PLTR\n), 투자의견 아웃퍼폼을 유지, 목표주가를 200달러에서 250달러로 상향\n베어드는\n'오픈 웨이트(Open-weight) AI 모델'이 기술 도입에 미칠 잠재적 영향을 목표가 상향의 배경\n으로 꼽으며,\n이러한 전환이 인공지능 분야의 중대한 발전\n이라고 평가했습니다.\n베어드는\n\"지각 변동(Tectonic shifts)은 드물지만 판도를 완전히 바꿀 잠재력을 지닌 사건\n이며, 어떤 기술 혁명은 다른 혁명들보다도 훨씬 독보적\"이라고 밝혔습니다. 그러면서\n현 상황을 1990년대 후반 인터넷 시대, 2007년 아이폰 출시, 코로나19 팬데믹으로 촉발된 디지털 전환, 그리고 2022년 챗GPT(ChatGPT) 출시 순간에 비유\n했습니다.\n이어 \"\n오픈 웨이트 모델로의 전환은 AI 도입의 거대한 새 장을 열 수 있으며, 팔란티어는 이를 가능케 하는 최전선에 서 있다\n\"고 덧붙였습니다",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-12T12:50:31+00:00"
     },
     {
       "id": "tg:globaletfi/22111",
@@ -556,7 +588,7 @@
       "url": "https://t.me/enc210406/4494",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 10월 12일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/O5dHv7CL5fiXLtm3E4HHq2-N-TCcm0bmihJ0pHhTRMp9rpZ9kRLOyRxs0sziowE-wWvfDizvqqZcQrAu7l7mG84i7T14c3odrVftWPui1UzoGcWJWz6UNl1RG7GNV0VGJVJyzv7sYJQzCn3dVxwKHSBGkEJtYlY330CqQjxK9KBKc-w61H2Zo06lAh1gA6DzCojUkM7MHUao3LOCJDbSq_lPns4aYh5XsQHSlRRyy8MNgsuJmHS_MPr1nTtfEl6AH02kNzxhKmRUp24tzD8SuarPYx13Cvj6mIA0RdpPHu1O9mPcV_8v0BwVbRwpfC9Y9dM4ar2ZFHyaA8gf2hEOyA.jpg"
+        "https://cdn5.telesco.pe/file/KVMC_lAFWgH5n1-FpstsLjNGcmXHTef3htAOqZ05-OuA6TUkNNltpo-HfJVNGYxpFtmvPh7cFJPsx3tbOjdHjOFzY9fUXVyZfRMPllDkCgwT5_w231PTEouJbNOs4bWbqx6_4a7ibPcMq0dcuGg8mrD9jW-0I7GGl8PaFgFAtqzrWkf2Gby86FPByo5id0kWdOyplYG07PL4_83uBskJhsXdsI79emPcaFcCdk4dEXjc8CTvjRB14NEv_1ZVcQC4FEEgGwCPC8O-Md39Cqh9WpwU26DvuvRvtZulBy92lIqZC3QK3kY_nAs8n3jLee1ci_le1OJGGDeCAzCzNECpvA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-12T07:34:27+00:00"
@@ -709,7 +741,7 @@
       "url": "https://t.me/HI_GS/7201",
       "text": "🛳\n탱커 스팟운임 신고가 경신, Karpowership의 FSRU 개조\n☞\nhttp://bit.ly/DOS843\n⚓️\n주시 뉴스\n💲\n선가, 실적, 캐파\n△ 울트라막스 컨선 5주 연속 하락, 중고선가지수는 또 1P 상승\n▲ 24년 선령 VLCC 73백만달러 매각. 2025년 초 대비 3배 상승\n🌏\n그린쉽\n▲ HD현대중공업, SMR 추진 사용화 위해 11개 기관과 사업 착수\n🌪\nLNG\n△ 2026년 1~9월 LNG선 발주 73척 달성\n△ QatarEnergy의 NFE 1번 train 곧 가동\n△ 호르무즈 해협 LNG선 21건으로, 전쟁 이후 최고치\n△ BW LNG와 Marubeni, 스팀터빈 LNG선 폐선\n💨\n가스선\n△ 말련 Petronas CEO, 중동과 에너지 위기는 2027년까지 혼란 지속 전망\n🚢\n컨테이너\n△ Premier Alliance 수에즈 운하 및 홍해 항로 복귀를 결정\n🛳\n탱커\n△ 그리스 Carlova, 일본 이마바리에 아프라막스 탱커 2척 발주\n▲ VLCC TEC가 937,767달러/일로 사상 최고치 경신\n▲ VLCC 운임 급등으로, 중소형 탱커 수요 증가\n🌉\n해양/디펜스/바람\n△ Golar LNG, 4번째 FLNG 개조할 LNG선 인수\n△ Seatrium은 Excelerate Energy로부터 LNG-FSRU 개조 2건 수주\n▽ 싱가포르 Seatrium이 Karpowership의 FSRU 개조 수주. 9척 LOI 중 2번째 계약\n📌\n기타\n△ HD현대, 이상균 HD현대중공업 부회장을 조선 총괄 부회장으로 선임\n------------------------------------------------------\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n✅\n컴플라이언스 승인을 득한 보고서입니다.\n------------------------------------------------------\n⚓️\n코멘터리: 보고서 참고",
       "images": [
-        "https://cdn5.telesco.pe/file/cyfXfjNPncaTPHMA30ladrttAIx890qdt1LZKg8tJ-ih8uQvBHRJj2liWne8QyLppHa1yjgSECGSppc1NDpkDkOXNvJecldlyWsbXZOKDwRlV_px3O9TsNbRsNs7v8c46yZqN6-EXWQBAp_mglJP98X0DC0-NvAy17fk6uLxc_3CTUYNkfAZ3MCPpO6tLTAYAur4D9bJPabti3dmMUzzpPjaxsRZX8WcRCgLil1C0g2zJsMxzBsvN17fJKKUXL3CTje6r2k0IGfVFIoDf4gdXjHX3LBMvMkRJd_t3sgNDBVRc4gB52l7jevOiFUhle4dQhhC_mCfMVyy0EPKOjMzuA.jpg"
+        "https://cdn5.telesco.pe/file/eb_PS-96dYcWxOAYl0SEgSczaPxgnQLFKnQDxTuSWG_I94depTZXCNhc31ko4oPtORNrJs5M_nwHhfK-D8BAN6XzEfuEsOJb99-7puMcviBq8NjEDGX9MgWXBHMugTg8IlhKOL5YRr90g-IUp2c6TMua7i9G16cIjsQMuCK80kSOgxk41LZediTBMoafQviD25XbQCPRfqpBzKkYX1fkpNMoD1N8saqH9a6SKRnVvKwnhq4mE0eXGvzQj0C7lD3gl1rU4IkAxcC7xkegnT49TRpd12wMuuQZqg9lqirfkRQOg0PbDxoZPu7hRMXpKvQf-45C1NR6E2pDrmc2g5WgmA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-11T08:04:32+00:00"
@@ -749,7 +781,7 @@
       "url": "https://t.me/enc210406/4488",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 10월 8일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/s7_ynRty1-P4TaEhXuuHoPSmSHV4Gs6oosZQnJaibN-P4q4ztcIxi32vWOkBgxo5C4jgjCaOiMJDJrSu6DBoaEK27kIhLPC586CigIZzyzzb4Bi1-oj_voUFDjAknVVD_iYals86qYSy9k5bJij7RIXjBmJKocZZixiMWBg1O9fbwR2y23sKtCC-rwIOhYmRPIdSo0mBM6PAfRfcpG1u5fgabK-Zl7R2RBC0YI9cDgMXP1mQClL5d_G06_n8Zp51IgcwUg6ITmQStRGlxVT_JeakhBvnSx8IRpsbE8c87Cjk5Ef3hwdYROu_O1Ydgrc0oTVlDyUArObOsDgsZ7uW6Q.jpg"
+        "https://cdn5.telesco.pe/file/V1-WmF4WiOU-EYfu6-ult4yFehgyU4x7KRUmcVbjRd_u237JBzW28nN9x8h6IiQyC4v4XBHxTeYbTX3g5G6ECvbuF0jUKARh4mxgxXbDFcZfFNAMxpqrdIw9gr9_nIIWJLQ6gl-JjyZ-q8dyuk-URLbyyd0e1LzLE-3lBXFuoNFBpRiw-p4QGtjewS3Sp0NLCcOcxIWgUvv8bSWAQiSMtCD3kxgv1JzGRdOYTznY2yXm-lC7THKuYaSBF2EQhCn6-6J0EbqpDSdj30nuDTaOOkQdCtujFB_IsYFN5cAjgRmAjmzTrlqodfisad3C8NkZJ5GYT7QDp7Xhd2fdq2URGA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-08T09:07:37+00:00"
@@ -765,32 +797,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-10-08T08:04:49+00:00"
-    },
-    {
-      "id": "tg:enc210406/4486",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4486",
-      "text": "[HD현대마린솔루션 타법인 인수 공시]  @ 회사명:  1) Goltens New York 2) Goltens Oslo  @ 인수 회사 본업 : 선박 및 육상 엔진기계설비의 유지보수  @ 양수금액: 3,315억원",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-08T07:15:17+00:00"
-    },
-    {
-      "id": "tg:enc210406/4485",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4485",
-      "text": "[HD현대마린솔루션 타법인 인수 공시]\n@ 회사명:\n1) Goltens New York\n2) Goltens Oslo\n@ 인수 회사 본업\n: 선박 및 육상 엔진기계설비의 유지보수\n@ 양수금액: 3,315억원",
-      "images": [
-        "https://cdn5.telesco.pe/file/sbXvxP2fdRHyfBshSJPNa-TWk28IKnsNytb1R-y7d3xIddgUukBBt9BPDuEVO4J9fOYU9wn09YELmLMlGsZUYkcrOmiUFHYk4cXvfNvLg3qv0TOOUXHmnYeF1Z90ZbpXqSKuxzGzRvjzwbZCGbkbMDpYqMUtC8gw0JijNsrJok2rAUSXGrieOr_DZDUIR5du-D5qzMH0j6lN5V3eAAuVD4v1Vra_1fISbOOJt84lz8NiAoIBlxuqp2yQGslY_iqFqkx6ji_b7v_GfMMBCkYMIQhJ9vMi9mmcWcvJF7f2x57QiXJSFjarghPxh4bd6scE_ZFHa0CkYOyi7gdeNiCXmQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-08T07:12:30+00:00"
     },
     {
       "id": "rss:semianalysis:anthropic-subscriptions-offer-5x",
