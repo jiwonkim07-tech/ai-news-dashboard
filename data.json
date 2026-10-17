@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-17T06:37:43+00:00",
+  "updated_at": "2026-10-17T11:24:50+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 1
+    "new_this_run": 10
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,132 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:HI_GS/7233",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/7233",
+      "text": "[K조선, 그리스 잠수함 수주전… 유럽 경쟁력 시험대] • 그리스 해군 차세대 잠수함 4척 도입 사업에 한화오션(KSS-III)과 HD현대중공업(HDS-2300급) 제안서 제출 • 캐나다 수주전에 이어 독일 티센크루프마린시스템스(TKMS, 212CD급)와 유럽 시장에서 재격돌 전망 • 한화오션은 그리스 현지 조선사 오넥스와 협력 추진 및 국회 차원의 세일즈 외교 등 지원 병행\n❗️\n기존 독일산 잠수함을 운용해 온 그리스 해군 특성에 맞춘 현지 운용 전략…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-17T11:04:19+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20679",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20679",
+      "text": "앤디 재시(아마존 CEO)의 증언: 녹음 전날 호로위츠가 앤디 재시와 통화하며 \"2028년까지 용량이 다 동났다던데 맞냐\"고 묻자, 재시는 \"2028년 이후까지도 물량이 없다. 빨라야 2028년 말에나 숨통이 트일 것\"이라고 답했습니다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-17T10:35:11+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20678",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20678",
+      "text": "AI 버블 붕괴가 아닌 단순 변동성인 이유\n벤 호로위츠 & 데이비드 색스 & 차마스-\nAll-In Podcast\n1. 닷컴 버블과의 결정적 차이: \"수요 부족 vs 극심한 공급 부족\" (벤 호로위츠)\n1999년 '라우드클라우드(LoudCloud)'의 트라우마:\n호로위츠와 마크 안드레센은 사실상 네오클라우드의 원조 격인 라우드클라우드를 1999년에 창업했습니다. 당시에는 인터넷 인프라와 브로드밴드, 브라우저가 막 보급되던 시기라, 막대한 빚을 내어 깔아놓은 광케이블 대역폭을 소비할 '최종 소비자 수요'가 턱없이 부족했습니다.\n현재 AI 시장의 정반대 역학:\n하지만 지금 AI 시장은 수요 부족이 아니라 '절대적인 공급 부족' 상태입니다.\n앤디 재시(아마존 CEO)의 증언:\n녹음 전날 호로위츠가\n앤디 재시와 통화하며 \"2028년까지 용량이 다 동났다던데 맞냐\"고 묻자, 재시는 \"2028년 이후까지도 물량이 없다. 빨라야 2028년 말에나 숨통이 트일 것\"\n이라고 답했습니다.\n공급망 가격의 상승:\n토큰당 가격은 내려가고 있지만,\n충분한 전력과 냉각 시설이 갖춰진 GPU 가격과 데이터센터 공간 임대료는 오히려 오르고 있습니다\n. 건설 인력 부족과 지역 사회의 정치적·규제적 반발로 데이터센터 신축이 극도로 어렵기 때문이며,\n이는 이미 공급망을 확보한 CoreWeave에게 엄청난 순풍(Tailwind)으로 작용합니다.\n2. GPU 수명 연장과 '강제된 희소성' (데이비드 색스)\n단순 변동성인 이유:\n수조 달러 규모의 미래 가치를 지수적(Exponential) 성장률에 기반해 평가할 때는\n현재의 작은 데이터 하나에도 시장이 과민 반응하며 큰 변동성을 보입니다. 하지만 펀더멘털은 전혀 흔들리지 않았습니다.\nGPU 경제적 수명의 깜짝 연장 (3~5년 ➔ 6~8년):\n과거에는 GPU의 유효 수명을 3~5년으로 잡고 감가상각을 계산했으나, 추론(Inference) 수요가 폭발하면서 수명이 6~8년으로 늘어났습니다\n.\n실제로 이미 감가상각이 끝났어야 할\n구형 칩(A100, H100)조차 현재 프리미엄 가격에 임대되고 있어, 장비 소유주들에게 예상치 못한 추가 수익(Upside surprise)을 안겨주고 있습니다\n. 심지어 VC들과 액셀러레이터들이 스타트업을 유치하기 위해 직접 남는 컴퓨팅 파워를 사들여 미끼로 쓸 정도로 구하기 힘든 상태입니다.\n공급 과잉(Glut)이 불가능한 이유:\n물리적 세계(Atoms)에서 기가와트(GW)급 전력과 데이터센터를 세우는 것은 일론 머스크의 로켓 과학자들조차 혀를 내두를 만큼 어렵습니다.\n여기에 지역 커뮤니티의 인허가 지연 등 규제 역풍까지 겹쳐, 공급 과잉은커녕 '강제된 희소성(Enforced scarcity)'이 시장을 지배\n하고 있습니다.\n3. 신용 리스크의 실체와 OpCo-PropCo 구조 (데이비드 색스)\n폴리마켓 파산 확률(27년 말 15%, 28년 말 23%)의 오류:\n차마스와 색스는 CoreWeave가 본사(OpCo)와 개별 프로젝트 자산 법인(PropCo, 이른바 '박스')을 완벽히 분리해 두었기 때문에 본사가 파산할 일은 없다고 일축했습니다. 설령 특정 데이터센터 프로젝트가 부실해져도 해당 특수목적법인(박스)만 법정관리(Receivership)에 들어가 담보로 잡힌 GPU를 매각해 정리하면 끝납니다.\n무담보 채권 vs 자산유동화(ABS) 조달:\n이번 주 유통시장(Secondary market)에서 20% 할인되어 수익률이 15%로 치솟은 채권은 CoreWeave 본사의 '무담보 회사채'입니다.\n첫째,\n유통시장 금리가 올랐다고 해서 CoreWeave가 기존 채권에 대해 내는 이자(9.6% 쿠폰)가 당장 늘어나는 것이 아닙니다.\n둘째, 신규 데이터센터('박스')를 짓기 위한 350억 달러의 추가 자금 조달은 본사의 무담보 신용으로 빌리는 것이 아닙니다. 박스에 담긴\n①투자적격등급(Investment-grade) 우량 고객사(MS, 구글 등 매출의 75% 차지)의 5년 장기 계약서\n와\n②가치가 유지되고 있는 GPU 실물 자산\n을 담보로 한 자산유동화금융(Asset-backed financing)으로 조달합니다.\n따라서\n대출 기관 입장에서는 CoreWeave가 아니라 마이크로소프트의 신용도를 보고 돈을 빌려주는 셈이므로 프로젝트 파이낸싱에는 문제가 없습니다.\n4. 북극성 지표: '투자 회수 기간(Payback Period)' (데이비드 색스)\nCoreWeave(2.5년) vs SpaceX/xAI(1년):\n색스는 데이터센터 비즈니스에서 가장 주시해야 할 단 하나의 지표로 '투자 회수 기간'을 꼽았습니다.\nCoreWeave:\n5년 장기 고정가 계약을 맺는 대신\n2.5년\n만에 모든 투자 원리금을 회수합니다(GW당 약 200억 달러 수준으로 수익화).\nSpaceX(일론 머스크):\n양측이 90일 내에 해지할 수 있는 조건(사실상 현물 Spot 가격)으로 계약하기 때문에 GW당 약 500억 달러 수준으로 수익화하며, 투자 회수 기간이 불과\n1년\n입니다.\n결론:\n마치 파리의 알짜배기 에어비앤비를 소유한 것처럼,\n막대한 설비투자(CapEx)를 하더라도 1년~2.5년 만에 원금을 다 뽑아내고 부채를 빠르게 롤오버할 수 있다면 극도로 무능하지 않은 이상 망하는 것이 불가능합니다\n. 단, 향후 수요가 줄거나 시공 지연(지체상금 발생 등)으로 이 회수 기간이 길어지기 시작한다면 그때가 진짜 위험 신호입니다.\n5. 궁극의 해자는 '전력(Power)'과 인프라 직접 소유 (차마스 & 호로위츠)\n미국의 심각한 전력 적자(Electron Deficit):\n차마스는 계획된 발전소가 모두 제때 지어진다는\n비현실적 가정을 하더라도, 미국은 2050년까지 1.4테라와트시(TWh) — 캘리포니아주 6개 분량 — 의 전력이 부족할 것이라고 지적했습니다\n. 여기에 차세대 AI가 유발할 폭발적인 전력 부하(Load growth)는 아직 반영조차 되지 않았습니다.\n하이퍼스케일러 병목 현상:\n향후 JP모건이나 씨티은행 같은 거대 금융사, 혹은 혁신적인 제품을 만든 스타트업이 클라우드(AWS, Azure 등)에 가더라도\n\"전력 용량이 없어서 서비스를 못 띄워준다\"며 거절당하는 초유의 사태가 벌어질 것입니다.\n따라서\n이제는 하이퍼스케일러에만 의존할 수 없으며, 토지, 전력, 인프라를 직접 소유하는 것이 AI 시대 궁극의 해자(Moat)가 됩니다.\n중동의 기회 상실과 엔비디아의 독점력:\n원래 사우디, UAE, 카타르 등 중동 산유국들이 풍부한 에너지와 하향식(Top-down) 의사결정을 바탕으로 AI 데이터센터의 메카가 될 절호의 기회를 잡았으나, 최근 전쟁과 드론 공습 리스크로 그 기회를 완전히 날렸습니다(단 한 대의 드론만 방공망을 뚫어도 데이터센터가 전소되기 때문).\n한편,\n엔비디아는 칩뿐만 아니라 후공정 패키징과 고대역폭메모리(HBM) 물량까지 싹쓸이해(구글조차 자체 메모리 모듈을 설계해야 할 정도) 공급망을 완벽히 통제하고 있어, 컴퓨팅 현물 가격은 당분간 매우 높게 유지될 전망입니다.\nhttps://x.com/DrNHJ/status/2111400813994361318?s=20\nhttps://youtu.be/_b3LfMflIGs?si=pt7BnvN46lLpf5DV",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-17T10:18:10+00:00"
+    },
+    {
+      "id": "tg:HI_GS/7232",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/7232",
+      "text": "[K조선, 그리스 잠수함 수주전… 유럽 경쟁력 시험대]\n• 그리스 해군 차세대 잠수함 4척 도입 사업에 한화오션(KSS-III)과 HD현대중공업(HDS-2300급) 제안서 제출\n• 캐나다 수주전에 이어 독일 티센크루프마린시스템스(TKMS, 212CD급)와 유럽 시장에서 재격돌 전망\n• 한화오션은 그리스 현지 조선사 오넥스와 협력 추진 및 국회 차원의 세일즈 외교 등 지원 병행\n❗️\n기존 독일산 잠수함을 운용해 온 그리스 해군 특성에 맞춘 현지 운용 전략 및 수출 포트폴리오 다변화가 핵심 과제로 부각\n출처: [뉴스토마토]\nURL: [\nhttps://www.newstomato.com/readnews.aspx?no=1317004\n]\n─────────────────────\n📈\n텔레그램 공개 채널 [\nhttps://t.me/HI_GS\n]\n🎴\n이번엔 이기자! 근데 원팀.코리아 아니구나...",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-17T09:39:34+00:00"
+    },
+    {
+      "id": "tg:globaletfi/22189",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/22189",
+      "text": "🔹\n테슬라와 SpaceX가 협업한 로드스터의 공개 후 양사 합병 기대감 재조명\n» Polymarket에서는 2026년 연말까지의 합병 공식 발표 가능성을 24% 확률로 반영. 2027년 6월까지가 54%, 2027년 연말까지는 67%로, 단기보다 중기 성사 가능성을 예상하고 있는 투자자들\n» 합병 시 양사의 합산 시가총액은 약 3.6조달러 수준으로 추정. 프리미엄 없는 전액 주식 교환을 가정하면 SpaceX 주주 60%, 테슬라 주주 40% 수준의 지분 구조 예상\n» 합병 시너지 기대와 함께 머스크에게 이익이 집중될 수 있다는 지배구조 우려, 교환 비율에 따른 테슬라 기존 주주의 지분 희석 부담도 공존\n» 오는 10월 21일 테슬라의 3분기 실적 발표에서 관련 언급 여부에 관심. 실제 절차 개시 여부는 발언보다 이사회 특별위원회 구성과 합병 관련 공식 공시를 통해 판단할 필요",
+      "images": [
+        "https://cdn5.telesco.pe/file/ttkrchXXe9RwBgDc0w2EhtOVH3n95DFn3OkSUA7Play5FQt4H9BvPuCdv3PlS-v4U8Dcxn5WCTg92HSvcSD83xwfnQTwfANgVr-qM0ouHTu71eEzBidZ9KQVxtXHW_FKAHfRMIAX_RIbAro0zl-yV-XQyIUbrclI5d1BQg9zsbKdoz8RZaN3OuBbvHXnOeo6E_mjN59K8grSryqufEqKqDKV51TKy5WKTYUQNTbq3ex2X32k4hfgHSE8YegRuh9-zDVGKdkWOMXmJl2eQ-VPtBoO9hVRVIjEDmUa0P16Q7wgFFK38-mZItsDLnDuQfzzN_88c-W5_4dFWObwg1LdBA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-17T08:58:36+00:00"
+    },
+    {
+      "id": "tg:globaletfi/22188",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/22188",
+      "text": "[미 재무부, 장기물 국채 발행 축소 신호 안 줘…장기금리 반등]\n*재무부, 장기물 입찰 축소 가능성 명확히 언급하지 않아\n-미 재무부가 11월 4일 분기 리펀딩 발표를 앞두고 프라이머리 딜러를 대상으로 향후 국채 입찰 규모 조정에 대한 의견을 요청\n-재무부는 예상 차입수요와 투자자 수요를 고려해 향후 입찰 규모를 어떻게 조정할지 질문했지만 장기물 발행 규모를 줄일 가능성을 직접적으로 시사하지는 않음\n*발행 축소 기대 약화에 장기금리 상승\n-시장 일부에서는 트럼프 행정부가 장기금리를 낮추기 위해 장기물 국채 입찰 규모 축소 가능성을 내비칠 것으로 기대\n-하지만 이번 설문에서 관련 신호가 나오지 않으면서 장기물 공급 축소 기대가 약화됐고 미 장기 국채금리가 상승\n*11월 4일 분기 리펀딩 발표가 다음 확인 시점\n-이번 자료는 실제 국채 발행계획 발표가 아니라 분기 리펀딩을 앞두고 딜러 의견을 수렴하기 위한 설문\n-구체적인 향후 국채 발행 규모와 만기별 구성 변화는 11월 4일 예정된 재무부 분기 리펀딩 발표에서 확인될 예정\n*유가 상승도 금리 반등에 영향\n-딜러 설문 공개 직전 국제유가도 상승하기 시작하면서 인플레이션 우려를 자극해 국채금리 상승에 추가로 영향을 미침\nhttps://www.wsj.com/livecoverage/stock-market-today-dow-sp-500-nasdaq-10-16-2026/card/bond-yields-tick-higher-after-treasury-doesn-t-signal-cuts-to-auction-sizes-9QMMJ7DtYC5k7iPbewn9?utm_source=chatgpt.com",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-17T08:00:16+00:00"
+    },
+    {
+      "id": "tg:globaletfi/22187",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/22187",
+      "text": "» 하반기에 말씀드리던 리스크 내용들과 최근 상황에 대한 이야기들입니다. 보시면 아시겠지만 하우스 뷰 외에 제가 따로 고민하고 있는 부분들도 포함되어 있습니다.   [위폴/WePoll] 금리, 환율, 미국, 한국, 선거 지구촌 여행   » 하나증권 박승진 실장 » 슈카친구들/위폴 박종훈팀장  - 물가 지표와 다른 금리 움직임 - AI 투자 의존과 실질 구매력 - 금리 상승의 이유와 고금리 전망 - 실적 기대와 반도체의 변동성 - 환율·ETF로 보는 외국인…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-17T07:55:00+00:00"
+    },
+    {
+      "id": "tg:globaletfi/22186",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/22186",
+      "text": "» 하반기에 말씀드리던 리스크 내용들과 최근 상황에 대한 이야기들입니다. 보시면 아시겠지만 하우스 뷰 외에 제가 따로 고민하고 있는 부분들도 포함되어 있습니다.\n[위폴/WePoll] 금리, 환율, 미국, 한국, 선거 지구촌 여행\n» 하나증권 박승진 실장\n» 슈카친구들/위폴 박종훈팀장\n- 물가 지표와 다른 금리 움직임\n- AI 투자 의존과 실질 구매력\n- 금리 상승의 이유와 고금리 전망\n- 실적 기대와 반도체의 변동성\n- 환율·ETF로 보는 외국인 자금\n- AI 수익성·CDS와 자금 조달 부담\n- 지수형 포트폴리오\nhttps://youtu.be/aXEJGkUci_c?si=9QbETIAZqmRCTbpJ",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-17T07:54:37+00:00"
+    },
+    {
+      "id": "tg:globaletfi/22185",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/22185",
+      "text": "» 현재까지 3분기 실적을 발표한 S&P500 기업의 84%가 주당순이익(EPS) 예상치 상회. 최근 5년 평균 78%와 10년 평균 77%를 각각 6%p, 7%p 웃도는 수준 [FactSet]\n» 업종별 EPS 예상치 상회 비율은 필수소비재·헬스케어·IT·부동산 100%, 금융 81%, 산업재 80%, 경기소비재 67% 기록",
+      "images": [
+        "https://cdn5.telesco.pe/file/muULglxEBvVVqWCYkdvHHOmfjeY6KCLkhrojdonRNXGZuj_wTzleJOxi03eQa3H9AZFe1ghQpjwXXS6Y7V3-t6JOyct6L2pxwUMavgrKyflAQb8E956ZV0VxaGtMP_gaVImrfH_BqWLBE6tpRvg7OOrVEU3bqpDZhhPrRZ5yteqac8RdFQ5FUAlN7CM-s6cY2FZOG7fbGIdhkDOJUEcobm6G1_9xJ2dKjQYm2xY4qzcY-bz409OB4vRueXU4yy9WehA8Dj4jDj0PUY33tvtLY1XFyMpz_PSAeTiGdm_HR98LAcRC4k-Tg51ZKh-iCjEvs9bFhATiwU3eGsmjtg-xZQ.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-17T07:46:59+00:00"
+    },
+    {
+      "id": "tg:globaletfi/22184",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/22184",
+      "text": "🔹\nCoreWeave, 빠른 증설로 자금조달 부담 지속. JP Morgan은 2030년 잉여현금흐름 흑자 전환 전망\n» JP Morgan은 CoreWeave의 잉여현금흐름이 흑자로 전환되려면 연초 가동 중인 데이터센터 전력 용량이 연간 신규 증설 용량의 약 4~5배에 도달해야 하며, 해당 조건이 충족되는 시점을 2030년으로 전망. 현재의 현금 부족은 개별 데이터센터의 수익성보다는 기존 시설에서 창출하는 현금을 웃도는 빠른 증설 속도에서 비롯된다는 분석\n» 모델상 데이터센터 1GW 구축에는 건설 연도에 약 350억달러의 설비투자 필요. 가동 안정화 이후 연간 매출은 100억~150억달러이며, 매출 중간값에 약 75%의 마진을 적용한 연간 현금 EBITDA는 약 94억달러로 추정. 기존 시설이 충분히 누적돼야 여기에서 발생하는 현금으로 신규 시설 투자를 감당할 수 있는 구조\n» 2026년 초 가동 용량은 0.85GW인 반면 연간 신규 증설은 1.0GW로 예상돼, 연초 가동 용량을 연간 증설 용량으로 나눈 배율은 약 0.9배에 불과. 해당 배율은 2027년 1.2배, 2028년 2.1배, 2029년 3.1배를 거쳐 2030년 4.5배까지 상승 전망. 2026년 말 1.85GW에서 2030년 말 약 8GW로 용량을 확대하는 과정에서는 외부 자금조달 의존 지속 예상\n» 핵심 위험은 전력 확보와 데이터센터 준공 지연. 투자 지출이 선행된 상태에서 가동과 매출 발생이 늦어지면 차입 의존 기간이 길어지고 이자 부담도 확대 가능. 연간 신규 가동 용량의 계획 달성 여부와 차입금리 및 이자비용 확인 필요. 2030년 흑자 전환 전망 역시 예정된 가동 일정과 시설별 수익성 유지 가정에 기반",
+      "images": [
+        "https://cdn5.telesco.pe/file/oPA7OlhzDyJEjj7TPH3pto8TjNNaPTCC_wGWKelPWWorINNReM25zH3q9fnPX-rQaV_aJYonkqUiUbnIqNPvq76Cz9djwieNnaKmy5tcVzgEzeGLFwqiAC2dyXupaIrvS5ZA-b-4y-nEA6yp-Mfgd42xNyKXkA9bCTEwgiID7Bf9OeW-onVNUKMMOOyVHaHNvRYomOswKw7e7JqJZXjEh8O5Ra95GV_40CKUwPboH407Ilg489WlGTtcks2qNhPsRJ6d-J5p6pbq_Q6Wzwk__M6PbyWd3V1jG49edqsPo9QBezalOTdQt-jaCmEAZrZrwGO9kuV5zaelkKi4v2Q0OA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-17T07:41:50+00:00"
+    },
     {
       "id": "tg:enc210406/4510",
       "source": "telegram",
@@ -253,7 +379,7 @@
       "url": "https://t.me/globaletfi/22180",
       "text": "» CoreWeave, Pre-Market 거래에서 전일 반등분을 대부분 되돌리고 있는 모습",
       "images": [
-        "https://cdn5.telesco.pe/file/M3Y_Vkt5MYlC9Wy8zErVN3wGRxGk_wu4JDb_HC_-fbO8bW1LSoUpOEdU-Nhoy63TDlNiS67vdqi60N8c6DyoRUCYQPvjq9bxt7_lNEyKvYnqiUPiOjWXo7NAxBoBJvNHncf9uOSe53htvp9dVZgXhnc3wp_Ld6ij30S27Q8NHiW9Xjkm06mcFdWepnjv7p4MYunZ1-zqt-_fGyTGkf_D76xGyG4UqZvuichaGb2N_UTF4IgLZy-T7p2JtcDQc5XvMLCtbGtsplYwBYsQXZ8WvgCBGlcooO8Z4DXALTBg0qNdJozott7SSUDJMoJSyrH2Zbb5oKJZOosuzw_Y8-liPA.jpg"
+        "https://cdn5.telesco.pe/file/trX95bwOnp6g1zLfpUG-o_XBI62F27mv6E4-j53laRY8qX6OuxF8LWrSdS_tAxv6h2Bh2Mc3mZovv9rQgp2-vCAnfHAB8jcwQfY7cNpL5-l9YlUyQQLVPSiXpkLdB_SjcZes2A0l7ktq1QvnmPQPGL_Q2d4-lkk1f0tQmfv9ZzaPzM0GXcZmbQZ0EInNYFJS_xY-eeqAoQ0dE6Un3zLfMegE4DdOGSeC_C3KGV1pyybwCdow0_5LKbtT9wyng4Sbq6q4ytkj5IfcoY3axeOHxr-UBLIFu2OOsFZjNefXSvTR4uD1E0XP5KJZqCYKH6pesIkdunaz8UG_iQMdPbdHcg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-16T11:36:22+00:00"
@@ -267,7 +393,7 @@
       "url": "https://t.me/aetherjapanresearch/25901",
       "text": "JP모건) 코어위브(CRWV), 부채 우려는 펀더멘털이 아닌 현금흐름 시점에 대한 심리를 반영한 것입니다 (비중확대, 2026.10.16)\n코어위브 주가는 이번 주 약 20% 하락했습니다. 채권 금리 상승 우려가 하락을 이끌었고, 이번 주 발표된 가트너 전망이 여기에 더해진 것으로 보입니다. 가트너는 네오클라우드가 건전한 수익을 내는 데 필요한 AI 매출 규모에 의문을 제기했고, 이 두 요인이 맞물리며 과잉설비와 부채 조달의 지속가능성에 대한 투자자 우려가 커졌습니다. JP모건은 코어위브의 밸류에이션 멀티플이 회사 자체 펀더멘털뿐 아니라 데이터센터 부채 전반에 대한 투자자 수요에도 좌우된다는 점을 인정합니다. 다만 현재의 우려는 사업 펀더멘털에 비해 과도하다고 판단하며, 그 근거로 다섯 가지를 제시합니다. 데이터센터 수요가 최근 오히려 개선되고 있다는 점, 계약 용량을 실가동 용량으로 전환하는 일이 생각보다 훨씬 어려우며 이 부분에서 코어위브의 실행력이 두드러진다는 점, 프로젝트 단위 경제성이 건전하다는 점, 5년 계약 종료 후 GPU 재계약이라는 추가 수익화 수단이 있다는 점, 그리고 프로젝트 비레버리지 IRR이 자본비용을 웃돈다는 점입니다. 자본비용 상승으로 수익 여력이 줄어들 수는 있지만, 우호적인 컴퓨팅 수요 환경 덕분에 비용을 고객에게 전가할 가격 결정력이 있다고 보고 있습니다.\n가트너는 AI 데이터센터 사업자들이 투하자본이익률 12%를 달성하려면 2030년까지 누적 8.5조 달러의 매출이 필요하다고 추정했습니다. 반면 같은 기간 AI 매출 전망치는 3.6조 달러 이하로 제시했습니다. JP모건은 이 격차가 수요를 예상하고 선제적으로 짓는 설비에 해당하는 리스크라고 봅니다. 코어위브는 장기 테이크오어페이 계약으로 미리 판매된 용량만 가동하기 때문에 해당되지 않는다는 설명입니다. 최근 수개월간 컴퓨팅 수요는 둔화가 아니라 가속되었습니다. 설령 수요 지속성이 우려되더라도 일반적인 데이터센터 설비투자의 3분의 2 이상이 데이터센터 건물 외피가 아닌 기술·단기 자산이어서, 설비투자를 빠르게 조절할 수 있고 장기 현금유출 리스크도 제한적입니다. 또한 업계 발표 계획을 근거로 용량을 선형적으로 추정하기 쉽지만, 실제로 용량을 가동하는 일은 계약을 따내는 것보다 훨씬 어렵습니다. 고객 대화에서 코어위브는 계획 이행과 일정 준수 면에서 선두를 지키고 있습니다. 코어위브는 2026년 2분기에만 약 500MW를 추가해 가동 전력 1.5GW에 도달했고, 8월 11일 기준 계약 전력은 4.2GW로 2030년 최소 8GW 목표를 향하고 있습니다.\n회사가 제시한 예시에 따르면 5년 계약에서 설비투자는 총계약가치의 약 51%이며, 그중 약 80%를 자산 단위 부채로 조달합니다. 부채를 전액 상환한 뒤에도 계약가치의 약 16%가 모회사 잔여 현금흐름으로 남습니다. 이는 재계약이 없더라도 약 5년간의 데이터센터 임차·전력 비용을 충당할 수 있는 규모입니다. JP모건은 이 예시가 보수적이라고 평가합니다. GPU 실사용 수명이 6년 감가상각 기간과 계약 기간을 모두 넘어서고 있기 때문입니다. 실제로 V100은 약 8년, T4는 약 7년간 시장에서 사용되고 있으며, 2020년 출시된 A100은 2029년까지 계약이 체결된 사례가 있습니다. 자산 단위 부채를 상환한 뒤에는 임차료와 전력비만 부담하면서 계약 기간 이후에도 현금흐름을 창출할 수 있다는 의미입니다. JP모건의 예시 계산상 비레버리지 계약 IRR은 10%대 중반(연중 기준 16.0%, 연말 기준 14.4%, 회수기간 3.4년)입니다. 이는 모회사 부채와 자산담보부 부채를 혼합한 자본비용 9~11%를 웃돌며, 재계약을 감안하면 IRR은 더 높아집니다. 자본비용이 오르더라도 신규 용량의 컴퓨팅 가격에 반영되어 수익 구조는 유지될 것으로 전망합니다.\n단기 자금 수요가 큰 것은 사실이지만, 그 원인은 가파른 용량 확대 속도에 있습니다. 가동 용량은 올해 말 1.85GW에서 2030년 8GW로 4년간 4배 늘어날 계획이며, 이는 매년 약 1.5GW를 추가해야 하는 수준입니다. 2025년 추가분은 500MW, 2026년 예상 추가분은 1GW였습니다. GW당 경제성을 단순화하면, 완전 가동된 프로젝트는 연 100억~150억 달러의 매출(중간값 기준 현금 EBITDA 약 94억 달러, 마진 약 75%)을 내고, 가동 첫해에는 350억 달러 이상의 설비투자가 필요합니다. 따라서 신규 용량 투자를 충당하고 현금을 창출하려면 안정화된 설치 기반이 연간 추가 용량의 4~5배가 되어야 합니다. 현재 이 비율은 약 1:1 수준입니다(2026년 초 가동 전력 약 0.85GW 대비 연중 추가 약 1GW). 비율은 2027년 1.2배, 2028년 2.1배, 2029년 3.1배를 거쳐 2030년에야 4.5배에 도달할 전망입니다. JP모건은 현재의 현금 소진이 프로젝트 경제성이 나빠서가 아니라 설치 기반 대비 용량 확대 속도에 따른 결과라고 보고 있으며, 잉여현금흐름 창출 시점 문제는 코어위브가 규모를 키우면서 대부분 해소될 것으로 판단합니다.",
       "images": [
-        "https://cdn5.telesco.pe/file/ZEP-qZm10A9Swws8Jn1xmDSeU5Q4ivf-Rle4qOIFy3IJpZkhlvwbzAbtE4bEUXW7R2YBpcanEFTkuHzg4MORLufpBxdR0LDy6nGJvCriu_lvcNMnrgXk82EqgEKbb-4Y3ZgZIFJJQIfD7zUvQXti8f5XRsj1llXv-KAB7wX6F9qOIWJ6pHuXAUwmN9n8cJi_dpnb5ZtCSUm1a4tDMZWuLmCH220fbdYNo56ss__HlfGh7oD6Nr749NHoyPf4OkB86JbOtu-8vZdMsvp8nPkirNYCS8sTMdUsKAoaFs0GNJil3ckkQ_GSF4nPexyF2PNbAAmusPxQItHMf2ECA0BAig.jpg"
+        "https://cdn5.telesco.pe/file/OyqN_6lofo8EbFFoNee6yzv03-iYXjX2C9kdiyg2YY0CRAaUNwXivK8NgFBWrLW1BYsrLNA3QrSDHSoWmuTHmVS65dLxzXARyQCNYLdVd0N6JK5NK_gZkr7o8R6o7jcxWnvckncC75oovOy2XCMcDrQy_J8KQPhu8MdGQ2up18rH3gyz1oCI1yLsH7yXi4zsXT5ChaEhyG-F25PI5AU7BDpoaTBUyluRqxBSVmmxhpVKjA5ciXyAfraGoQYiNohrDTjk0p-bTOZDxtuv_jG08Ml8V6c-rS_xuBW1ZF1kiNHHSPOqJZd0qOKwWJSfh5UOJsV6kXUR8fz7Qch3QBjkYg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-16T11:11:44+00:00"
@@ -341,46 +467,10 @@
       "url": "https://t.me/enc210406/4509",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 10월 16일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/oAVyM9ivaGuh8CHuq2_RqbEJsynjA9q55Atn_2gZTn1DrWD9eyGaoKp18cHGPZv9CBdltHhPlcd2WKZnPWwWA3EjDOVPqPqtCEbOR8q2QaU26cbPpQmEAtUw0d9fbIoz8UKwAL9rdTfUctQLJdO7CaspWr4LefZBtFK_POQPT4EpgePrUK_rTdF0YZNWrxiHqIvKwveP7wEQjpCrq6lwzcS8--_E5AHeTU86USOk5Tv0UI-vW4y76e7DfHED_W_ETbpCsEElxD8tk7a6Grxa1vZmsM1gL9V61gma-9WNlHHHZeUvOOLrbZ6o9VNC2LludIKZc4qElhPYZ2xZdO6OtA.jpg"
+        "https://cdn5.telesco.pe/file/niJ68sRC6hPlwirL3zRM4Od6dNluyZFkSKh8QBv31kuwX6csiysr3bF6On2K1Nl3ZopQK4z1HkOC6518IAvtcmluuGIT8UzKL_or2w_PQgcJ2Enn9ajw5NfPiEV-9vUuRqy6QU3AmJv2emy0YGfbZRT3H2IBWi6sY67bhSmgYvE_lNNOnEsYtndWiLsv3dGC6lAb2Ucw4YVUuqaxMUgO9Ph2R5PVTuQAFvxdtvvuBfEUxoBcojHSsrFZeiebqd21rRtfxt5PdQbUwBMKtkuvvV3yvYsarB0nYgDVcCvIVE4rYUS7PROKIi8zcLeJetKUWz9aCbPsPwC_g5eDAqzBqw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-16T07:31:01+00:00"
-    },
-    {
-      "id": "tg:globaletfi/22177",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/22177",
-      "text": "◈하나증권 해외주식분석◈\n미국/선진국 기업분석 김재임(T.02-3771-7793), 김시현(7513), 송종원(7261)\n*텔레그램 채널:\nhttps://t.me/hanaglobalbottomup\n◆\nTech & Stock Weekly:\nAI 투자 수요 이상무\n▶\n자료:\nhttps://buly.kr/6MuYvTT\n▶\n주요 이슈 업데이트\n- ASML(\nASML.US\n): 수요 가시성 2028년까지 확대\n- TSMC(\nTSM.US\n): 미국 데이터센터 수요 이상무\n- 스페이스X (\nSPCX.US\n): 독자 이동 통신 사업 기반 강화\n- 앤트로픽(비상장): 앤트로픽, 3분기 성장 둔화와 수익성 개선의 시사점\n- AI/플랫폼\n- 글로벌 전력기기/에너지\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-16T07:16:48+00:00"
-    },
-    {
-      "id": "tg:globaletfi/22176",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/22176",
-      "text": "하나증권 중국기업분석 백승혜(T.02-3771-7521)\n*텔레그램 채널:\nhttps://t.me/hanaglobalbottomup\n[Hana China Weekly] 차세대 DRAM 기술 도입이 불가피한 CXMT\n▶\n자료:\nhttps://buly.kr/31WAD1r\n◆업데이트 산업&기업: CXMT, 알리바바, 반도체/AI 인프라, AI 소프트웨어, 소비/로보틱스, 전기차/자율주행\n◆주요 기업 이슈\n- CXMT(\n688825.CH\n): 4F² 구조 서버용 D램 제품 연말 출시 계획 발표\n- 전기차: 27년 4월부터 수출 부가가치세 환급률 4%p 인하\n- 광통신: 미국 FCC, 중국산 광트랜시버 규제 우려 가능성 확대\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-16T07:16:32+00:00"
-    },
-    {
-      "id": "tg:globaletfi/22175",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/22175",
-      "text": "» 변동성이 큰 시장에서는 ETF의 괴리율도 잘 체크하면서 거래하셔야 합니다. 유동성 관리자가 있지만 변동성이 큰 시장에서는 불가피하게 적정 가격을 벗어나는 상황이 벌어질 수 밖에 없습니다.\n» 실시간 순자산가치인 iNAV와 현재가를 비교하며 괴리가 크게 벌어질 경우, 매수/메도에 주의할 필요가 있습니다.\n폭락장에 ETF 가격도 '삐끗'…괴리 벌어진 종목 평소의 5배\n- 괴리율 초과 공시 52건…관리 강화 후 세 번째로 많아\n- 52개 중 48개 NAV보다 할인…인버스도 2% 관리범위 이탈\nhttps://news.einfomax.co.kr/news/articleView.html?idxno=4439587",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-16T06:56:51+00:00"
     },
     {
       "id": "tg:bornlupin/20668",
@@ -395,34 +485,6 @@
       "published_at": "2026-10-16T06:40:13+00:00"
     },
     {
-      "id": "tg:globaletfi/22174",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/22174",
-      "text": "» 10월 금리동결 가능성이 높다고 예상 중이지만, 여전히 연내 추가 인상 확률도 확정적으로 보고 있는 시장. 12월 금리인상 가능성을 98%까지 반영 중 [CME FedWatch]",
-      "images": [
-        "https://cdn5.telesco.pe/file/fupI3eqX24bqXi3tEPapazBYsQOSjcfSvk3Fx8xYiEVhcx_SbBFAI17YqFYKKqR1YhXdbB86gnLYHNDDe4i-AJFmeSxtdtMKeOahUc6EnW1fEmTMiv4PytDbkM1gh-uz_BNIdO4eV44Khs0EUWvgYFe-BDduaHl8PlI3bwAhXUvAxaH0zLj-mOPYFFNex3KRPgheOtLUuBaGcMi52hKdyjT-6mV8SjSrzsMO7n06kcT5GsqCZ_p_Dfz2-Pi9_cLdCzOP4B61EKwhIVmrNv7Z-u8N2vqIn-vGDYImHo5P9S6pOOIT-e9-ArRBKUAe5QPniTbBpFshy_smjRJkz-UpkA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-16T06:29:26+00:00"
-    },
-    {
-      "id": "tg:globaletfi/22173",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/22173",
-      "text": "» 10월 FOMC의 금리동결 확률은 72% 수준에 머무르고 있었으나, 케빈 워시 의장의 발언 내용을 반영하며 85% 수준까지 상승 [CME FedWatch]\n» 10월 FOMC는 10/27~28 진행. 결과는 한국 기준 29일(목) 새벽에 확인",
-      "images": [
-        "https://cdn5.telesco.pe/file/jt-rI529ChUiVJHD53mjNCeV7iRN3cmXDv2GPTvx5vpN6LwvcEBMxnBjPc4tltt_Z_heZdfd0LxuMPl6xdTtyKne_NvXJyiexY-3pG1gHlLzYEh6EkmP6sRHKEtkfL1chSO3GBQ8F8UwM_LpISQIAEEJ62wRS0xn68eWxKbJuarVGEYhHvW6MgRzarq4xs1wm3yk0sr4P_eSn5GRorS5J_jpealO8F29sM7orznqAUIoa6SQAZsVF0MBW06lpmUNQ2_-WMJA92CXjr5OGUzXGq2GGFsOKvLI4UIHzPG3hEf8obq9dlybTt0czOopBo5uwH2QymY_V_Q_kLyd_wzqPg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-16T06:26:24+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/25896",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -435,42 +497,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-10-16T06:25:01+00:00"
-    },
-    {
-      "id": "tg:globaletfi/22172",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/22172",
-      "text": "🔹\n케빈 워시 연준 의장의 발언 이후 10월 금리동결 기대 증가\n» 케빈 워시 의장은 방콕 IMF 연차총회에서 물가 안정 의지를 재확인하면서도 구체적인 통화정책 방향과 경제 전망에 대한 발언은 자제\n» 지난달 금리 인상으로 완화 정도를 일부 축소했다고 설명하고, 남은 회의의 결정을 미리 예단하지 않겠다는 입장 표명. 시장에서는 최근 급격하게 상승했던 10월 FOMC의 금리인상 경계가 완화\n» 워시 의장은 AI가 중기적인 생산성 개선 효과에 앞서 단기적으로 투자와 총수요를 확대하고 있다고 평가. AI를 자신의 생애에서 가장 중요한 경제 혁신으로 평가하면서도, 공급능력 확충보다 수요 증가가 먼저 나타나고 있다는 점에 주목\n» AI가 중기적으로는 긍정적인 공급 충격이지만, 당장은 경기 과열과 물가 압력을 유발할 가능성을 경계. 고용에 미치는 영향도 불확실하다는 판단. 일부 연준 인사들 역시 AI 인프라 투자 급증에 따른 경기 과열 가능성에 우려 제기\n» AI의 생산성·고용 영향을 검토하는 연준 TF는 오는 11월 16일 샌프란시스코 베이 지역에서 청문회 개최 예정. 워시가 구성한 5개의 TF는 올해 말 또는 2027년 초 FOMC에 권고안을 제출할 계획",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-16T06:23:10+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20667",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20667",
-      "text": "케빈 워시 연준 의장 주요 발언\n1. 글로벌 금융위기가 자신을 지나치게 위험에 민감하고 두려워하도록 만들었는지 되돌아보고 있다.\n2. 9월 FOMC 회의 이후의 경제 상황은 대체로 연준의 전망에 부합하는 방향으로 전개됐다.\n3. 올해 남은 통화정책 회의들을 통해 향후 정책 방향이 더욱 명확해질 것이다.\n4. 미국에서는 이제 인공지능(AI)을 'SI'라고 부른다고 농담했다.\n5. AI는 경제의 공급 측면보다 수요 측면에 먼저 영향을 미칠 것이다.\n6. 인공지능은 중앙은행들이 데이터를 기반으로 더욱 확신을 가지고 정책적 결정을 내리는 데 도움을 줄 것이다.\n7. AI가 경제에 미치는 영향은 상당할 것이지만, 단기적으로 고용에 어떤 영향을 미칠지는 불확실하다.\n8. AI로 전환하는 경제 과정에서 일부 혼란과 어려움이 발생하겠지만, 궁극적으로 AI는 생산성 향상과 부의 증가를 이끌 것이다.\n9. 연준은 11월 16일 샌프란시스코 베이 지역에서 인공지능(AI) 관련 청문회를 개최할 예정이다.\n10. 2026년 말까지 예정된 통화정책 회의에서 정책이 어느 방향으로 움직일지에 대한 신호를 주지 않겠다.\n11. 물가 안정은 여전히 연준의 확고한 책무이지만, 각 통화정책 회의는 당시의 상황과 여건에 따라 개별적으로 평가해야 한다.\n12. 세계 경제에서 가장 긍정적인 변화는 투자 활동이 가속화되고 있다는 점이다.\n13. 긍정적인 정책 결정들이 투자 증가세를 촉진하는 데 기여했다.\n14. 미국의 정책이 세계 다른 국가들에 영향을 미치는 것처럼, 해외의 경제 및 정책 변화 역시 미국 경제에 영향을 미친다.\n15. 10월과 12월 통화정책 회의는 경제 상황을 평가하고 적절한 정책 방향을 결정할 기회가 될 것이다.\n16. 현재 구조적인 경제 확장과 투자 확대가 미국 경제성장을 뒷받침하고 있다.\n17. 연준의 태스크포스(TF)는 연방공개시장위원회(FOMC)의 의사결정을 지원하기 위한 새로운 통찰력을 도출하는 것을 목표로 한다.\n18. 미국의 기술 투자는 민간 시장을 통해 이루어지고 있으며, 연준은 어느 쪽이 옳고 그른지에 대해 편을 들지 않는다.\n19. 금융 안정성에 대한 위험을 평가할 필요가 있다고 강조했다.\n20. 정책 결정자들은 하방 꼬리 위험(Tail Risk), 즉 발생 가능성은 낮지만 충격이 매우 큰 위험을 완화할 수 있는지 검토해야 한다.\n21. 과거 연준에서 근무한 경험이 없었다면 새로운 아이디어를 도입하는 데 신중했을 것이다.\n22. 연준이 보유한 인재들의 역량을 최대한 활용하려면 올바른 조직문화를 구축하는 것이 중요하다.\n23. 연준 직원 중 통화정책 업무를 담당하는 인력은 전체의 25%에 불과하다.\n24. 연준 의장은 중앙은행의 모든 부문에 대해 책임을 져야 한다.\n25. 연준의 영향력을 유지하려면 기관의 신뢰성을 유지하고 더욱 강화하는 것이 필수적이다.\n26. 개인적인 업적이나 역사적 평가에는 관심이 없다. 올바른 정책적 결정을 내리는 데 집중하고 있다.\n27. 볼커, 그린스펀, 버냉키 전 연준 의장들이 중앙은행의 신뢰성을 높이는 데 기여했다고 평가했다.\n28. 세계가 전례 없는 속도로 변화하고 있는 만큼, 이러한 변화가 미국에 미칠 영향을 미리 예측해야 한다.\n29. 세계 경제는 5개월 전 자신이 예상했던 것보다 훨씬 강한 회복력을 보여주었다.\n30. G20 회원국 가운데 상당수가 경제적 충격에도 불구하고 강한 회복력을 입증했다.\n31. 인플레이션은 미국에만 국한된 문제가 아니라 전 세계적으로 광범위하게 나타나는 현상이다.\n32. 세계 상당수 국가에서 통화정책 긴축이 동시에 진행되고 있으며, 어느 국가 경제도 그 영향에서 벗어날 수 없다.\n33. 전 세계 중앙은행 관계자들로부터 물가 안정에 대한 강력한 의지를 확인했다.\n34. 물가 안정은 전 세계가 공유하는 공동의 목표이며, 기업과 가계에 신뢰를 제공함으로써 지속적인 경제성장을 뒷받침한다.\nhttps://x.com/DrNHJ/status/2110947930651652233?s=20",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-16T04:16:49+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20666",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20666",
-      "text": "[속보] 코스닥 장중 4.9% 급등에 '매수 사이드카' 발동\nhttps://n.news.naver.com/mnews/article/001/0016381267?rc=N&ntype=RANKING&sid=001",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-16T04:02:09+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/25892",
@@ -641,7 +667,7 @@
       "url": "https://t.me/HI_GS/7224",
       "text": "「한화엔진, 선박용 엔진 1,323억원 수주」\n💲\n2028년 11월 납기 (최근 매출액 대비 9.6%)\n☞\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261015800682\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n❗\n오오",
       "images": [
-        "https://cdn5.telesco.pe/file/ANlYfO_EZr_e1KcMvNi1IMBm5J-eYBvC-A6K3LNBu1drFm7X6DD6Vro-xGstlS76_G9dLI-Hg_AIVDYOKDlF9hbPfD0Ui8eLsNrbI2sLYmbQdBFASPauroffFprY9WLPHE64s9zVAn_d8945ggLvSAMg3wPW31WLlyw9H4TBhR4rBrHZkqfyLZiQZtdgPaT9sYzF3xUtqP_CVGReCkcoezqYakWiG6jw-LSQyXjYSMWsMa4biks9rXWQv-2Miazzt8jQgIVgHAwqUmqXcyDWcNhr8QMiSoHH3MD1QGTL366B7Le-GYZAXa4wN2JRUYM4v7JORe9x9jgsblBwU7dmYw.jpg"
+        "https://cdn5.telesco.pe/file/FJQ7juBMZ2171vkdiwve6cN9Tzn0bMKEcI4TGZRmz0RD3wM6H8Zt-ttIrFGQIX43VPW54CPs8BC4bo6Ty1jxKGucPo-3RaR3qVbAudyvgVR2wzHymL9AXTDpIha9j8dKZkg3pHUvwQ6WfyC2xEM08go5I7qrYdk6r3hlgaB0vBu4Ur6Mg5N9_p61p98qH72qbhiJ_91fhyXvzoBugtC1yZBlG4Jwlm3nlBjLUERh-mODAAQrKO1sgDt6i4c67m28jIw46p2znpUsBfCrWMp7tdDmB5a9ht6Kw92NOrC91Ownh6L2SMtjvCXUfK7MkYwwDgRnE5dXs69gX5L4rRIICA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-15T11:08:28+00:00"
@@ -655,7 +681,7 @@
       "url": "https://t.me/enc210406/4506",
       "text": "[한화엔진 선박용 엔진 수주 공시]\n@ 제품: 선박용 엔진\n@ 발주: 삼성중공업\n@ 금액: 1,323억원\n@ 납기: 2028년 11월(마지막 엔진)",
       "images": [
-        "https://cdn5.telesco.pe/file/KynsY0kIwoXNLfKVDZBsAWDrV5Qdkm5k_PGF3IUXPxsImc72VtFx3jrm_OwUq27Cq61vaPDmy1L4FG1ZAtiMKX-jyM6h2E07doP3slIf1LUQwRcVAVStpzIOYz3UDYp6lUoDsQbFZ3s9jHKQDSclOlj8SKb_rYh5gnjro0GLf_6edjNMWemea9h2XfZ1f3XWC0-kiqAvB0AcWtyqis2bDBMts2amx0osWqwd0CcZ7szambUAyGtWkbq0RYMkNB18K6f-UGb6idzl1G-Npcxv5U0yQl6R_ccPiUtAcAo1hnXj88OK4j-9fezweKkYmxsmt5h3_LOW61JOoHBAk-YBFQ.jpg"
+        "https://cdn5.telesco.pe/file/iEpPwgIP5J89dmvgRf4k2PxehJ2A0TXtCI7aMOY2AYk07bBR9WQ1GYjm7eNiNZd_xl8l4mZK-ko5ADrI9XEHsiA15ZQbwAR-vet0prFDN7clx4DqaU2YYaWXoOIWCLt-Nn_c5W2Aq3N5R5qptJtNBrSEnAvfe7IzZ0vMebIT5jWai0KjhVUROLS7abvQWq3IcTOJvumrjOjyunnJpwZ3AlmJb2ypSu9vJIg8hA_TVpco6ZQCTQIWg6_QB_eXSt305HW9PrthaFciNgw9CNNX7s9IpVCR8Hg-q8tIkqSGQL_c_9tVClwbSVficwVH9H4uBjcBlyoM8xK5KicwGXXoKg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-15T08:17:55+00:00"
@@ -669,7 +695,7 @@
       "url": "https://t.me/enc210406/4505",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 10월 15일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/RZCQF5o0rjKyRNZFPQJxYG3BIbkplZ0me7TGkY7UPvA5yDdWr0OKglrQgqiJ4Y7FH0IuI8Eq49t_1ax7gmMEcY7vHz11XSQhBBgqz5Qt1bR4UNnYgjBEw5l3mQqxhf7mBw5-QsKZqJp7zseV4XVbcsWT9JZqtyQCYk6HrRwXL_5ky412uYgx2qbPLTnPs9iWb_BUJ4ZcWKGGEpjd4lzE1UG5fznDFyc6_uiOW4ivtzzNU2piDfTRp6Mp51I_ByqzDpjpp0ih9uZLHhKnepa3-4_CLFdjH1iFtBCKpHrFLSZqCu37uCumWd4k_-vQfo8UUE9xavD4Za2QGuNiMyYGGg.jpg"
+        "https://cdn5.telesco.pe/file/KOeL80d5Aym_qu-CRQHExDIUkpM7I_iB4dhfq62QHosraQFF3b2n4BOgvvovSXddZkMCIPOMNjWcI-YawWXtgbAK0RdelMDuwHhsImmmbMV0uGAsD29gGViOT50DgSKLJyg_KavtTrhVYdh9TWH2Rdap4K7fBgaF2IoboXGuetSr0Pguj54sksTuZV2UA6fHiWVYRXNkxwfkBWHXhJlPbymWqMI5K243pGUyi_rTYTSr6fSGO8UMnvXpPW_YkRRaW0prQhwiadAmyzEVa2ej1s1Oi_BsxSrihQzrjuJGalwGtDoaosV7GLwuzsf2P82SZXYWz3M1hNsrKlvx7oOwqQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-15T07:30:12+00:00"
@@ -739,32 +765,6 @@
       "published_at": "2026-10-14T23:14:31+00:00"
     },
     {
-      "id": "tg:HI_GS/7221",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/7221",
-      "text": "🛫\n#한국항공우주\n「강력해진 FA-50, 강력해질 KF-21 블록3」\n☞\nhttps://bit.ly/KAI3Q26PRE\n▶️\nIssue: 3Q26 프리뷰. 적정주가 하향. 강화되는 플랫폼 경쟁력에 대한 업데이트\n▶️\nPitch:\n> 원화 강세의 수혜를 보는 유일한 방산 종목.\n- KF-21이 인도가 3Q 2대로 계획보다 많고, 4Q에도 6대로 늘고, 환효과는 4Q에도 계속되며, 하반기 증익\n> 2027~2028년에도 완제기수출과 KF-21 20대 양산으로 계속 증익\n> FA-50과 KF-21은 AIM-9X, 암람, 장공지(천룡), 장거리공대공 통합 → 상품성 강화로 이어짐\n> 수주는 목표10.4조원의 19%에 그치지만, 연내 인니 KF-21 첫 수출계약을 기다려봄. 현지화율 15%에 맞춘 투자 중이기에\n▶️\nRationale: 보고서 참조\n---------------------------------------------------------------\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n✅\n컴플라이언스 승인을 득한 보고서입니다.\n---------------------------------------------------------------",
-      "images": [
-        "https://cdn5.telesco.pe/file/Iuv_cZpHKy2hGATNdAZMMyvaL-mft3hgkrycrKK6If0iwWF6_NcXh5rLVwJmq_8SP2FdT7jljLptovMwP7nL1ECmPlVIoRwz8n-som9SSOIF6i4NJLlYcdrx91m4EcVcwosSbW4xMHv71A6FpWzBEXQsJBASesOOC1C58P3GAwo-SM4J1KKcSFi8lMjNkIuYcRgRu528A7RTpOUPFxsjW7G_ptMChHvkt2rlB2EOHopWKrqdfJTTQqqNLFkuzkbkHyvuXtpmPcFYvcDblGp3TWp-C3XSYenOnIgIKzMcmAp-4nNmBUZvZXg2F3-Yn7trK0M_u519flL5e_3ZwAljug.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-14T22:29:38+00:00"
-    },
-    {
-      "id": "tg:HI_GS/7220",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/7220",
-      "text": "[2시간이면 장착 끝, L3해리스 뱀파이어 美 육군 첫 인도]\n• L3해리스가 최대 1억600만 달러 규모 미 육군 주문 후 2달 만에 팔레트형 대드론 체계 뱀파이어(VAMPIRE) 초도 물량 인도 개시\n• 인원 2명이 상용 트럭이나 전술 차량에 약 2시간 만에 설치 가능하며 70mm 레이저 유도로켓(APKWS) 4발로 저가 드론 정밀 요격\n• FAADC2 호환 소프트웨어를 통해 외부 레이더망과 연동되어 분산 방어 및 고가 요격탄 보존을 위한 탄약 경제성 확보\n❗️\n저비용 유도로켓 기반의 신속 배치형 대드론 체계로 고가 방공 미사일을 아끼는 탄약 경제학 실현\n출처: [데일리방산]\nURL:\nhttps://www.dailydefense.co.kr/news/articleView.html?idxno=2490\n─────────────────────\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n🎴\n대드론.대드론",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-14T22:12:19+00:00"
-    },
-    {
       "id": "tg:enc210406/4501",
       "source": "telegram",
       "author": "enc210406",
@@ -785,7 +785,7 @@
       "url": "https://t.me/enc210406/4500",
       "text": "[조선 및 건설 업종 커버리지 밸류에이션]\n2026년 10월 14일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/P6xZNSsuUBl2YXtTHX5z7ywEkz8iifTX_Fb7oskcK6ux7eVBIPTiBP8bbXNiLVXG7Bm8WmWTszAmNa6QecjELwRtXW5eCG8Shf6UT1X3-Pe83Q6Wd67ysowgFK3c-GAkdWSTFo1uHH6evi4fgiKL8EyMe0izI6yQRkpHN6FYWrwzaPWsXwXnNKtBmauz9atUCI_OZ0681yLoC7xRXGiJ12y2mzH3iBA-S9HB05MjGWlwKndA-BXHjXiGE3KG-T-hpTAf_nTI0sFQeDBGID5gN7oYenDMokNBU-FTwEXrv-lYF0FxxrjAwr9oO050uoaIPI-RncqHPszWBjvUM_aO7A.jpg"
+        "https://cdn5.telesco.pe/file/u0XdcjQRFL6YSQ6Ki1SZSKz42AtTXqQI6E2aYGEfZ08bww0a54qc98t88g67vjqMraOmo5o-MqNddFZatFeREIYUe_xJPTInOLp9t9OJdrbgdaaFa0ecCpL0L3oEXiepOUGdr6DY75edkBemGoLCmJdk4HAfRdnuHTJmyMFWf-lQqNeEuNMse6vs471Va4DHqk9HNv6xkSXrUyF0gDSI0vpKeSTiaRYwfQQYHdK7TXacpKMVrKJyM1Tr9sGB0bOUJSzw8DMtP77aAGzvv2ZZjPnXag5HCvyloUDs0goYKjElxlkHd_stmXPeBha7gZgx0lYeq4Wol9dDEKG_t2oEcQ.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-14T07:56:45+00:00"
