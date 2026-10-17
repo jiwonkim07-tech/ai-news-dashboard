@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-17T15:03:47+00:00",
+  "updated_at": "2026-10-17T18:12:09+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 7
+    "new_this_run": 2
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,30 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/20681",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20681",
+      "text": "AI 버블 붕괴가 아닌 단순 변동성인 이유\n벤 호로위츠·데이비드 색스·차마스 All-In Podcast\n■ 1. 닷컴은 수요 부족, 지금은 공급 부족 (호로위츠)",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-17T15:10:56+00:00"
+    },
+    {
+      "id": "tg:aetherjapanresearch/25908",
+      "source": "telegram",
+      "author": "aetherjapanresearch",
+      "author_name": "에테르의 일본&미국 리서치",
+      "author_url": "https://t.me/aetherjapanresearch",
+      "url": "https://t.me/aetherjapanresearch/25908",
+      "text": "엔비디아, RTX 5090 단종설 부인… 공급망 생산능력 제약은 인정\n소식에 따르면, 엔비디아 개인용 컴퓨팅 사업 수석 부사장 제프 피셔(Jeff Fisher)는 어제 타이베이에서 열린 RTX Spark 관련 행사에 참석해 RTX 5090 단종 관련 소문에 대해 답하며, 해당 소식은 사실이 아니라고 분명히 밝혔습니다.\n그는 이 그래픽카드가 여전히 엔비디아의 매우 중요한 핵심 제품이며, 앞으로도 계속 공급될 것이라고 강조했습니다. 다만 그는 현재 공급망 생산능력이 실제로 제약을 받고 있으며, 엔비디아가 제품을 시장에 공급하기 위해 노력하고 있다는 점도 동시에 인정했습니다.\nhttps://www.ithome.com/1/014/407.htm",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-17T15:04:15+00:00"
+    },
     {
       "id": "tg:globaletfi/22193",
       "source": "telegram",
@@ -419,18 +443,6 @@
       "published_at": "2026-10-16T13:07:00+00:00"
     },
     {
-      "id": "tg:bornlupin/20669",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20669",
-      "text": "NVIDIA RTX Spark PC 오늘 출시 — Windows PC의 새로운 시작\n하드웨어 (슈퍼칩 탑재):\nNVIDIA Blackwell RTX GPU와 Grace CPU(미디어텍 협력 설계)를 하나로 합친 단일 슈퍼칩을 탑재했습니다.\n최대 128GB 통합 메모리와 1페타플롭(FP4) AI 성능을 얇고 가벼운 Windows 노트북에서 구현합니다.\n로컬 AI 에이전트:\n클라우드 연결이나 복잡한 명령어 없이도\n기기 자체에서 740억 파라미터 모델(Nemotron 3.5 Bolt)과 다양한 AI 에이전트(GitHub Copilot, Perplexity, Hermes 등)를 즉시 구동하고, 홈 네트워크의 다른 PC에 AI 연산을 공유\n(NVIDIA PAIR)할 수 있습니다.\n크리에이티브 (창작):\n배터리 상태에서도\n8K 영상 편집과 90GB급 대규모 3D 렌더링이 가능합니다. 어도비 포토샵·프리미어 네이티브 가속을 지원\n하며, AI 영상을 60fps HDR로 변환하는 기능 등을 로컬에서 무료로 처리합니다.\n개발 환경:\nWindows on Arm 최초로\n네이티브 PyTorch-CUDA 및 Python을 기본 지원(주요 패키지 97% 호환)하여, 클라우드 없이 노트북 한 대로 AI 코딩·테스트·배포가 모두 가능\n합니다.\n게이밍:\nNVIDIA DLSS 5(3D 가이드 뉴럴 렌더링 탑재)를 통해 AAA급 최신 게임(\n기어스 오브 워: E-Day\n,\nNBA 2K27\n등)을 1440p 해상도, 100 FPS 이상으로 구동합니다.\n출시 및 가격:\n오늘(10월 16일) 전 세계 동시 출시되었으며, 시작가는 $2,599입니다. ASUS, Dell, HP, Lenovo, Microsoft, MSI의 주요 프리미엄 노트북 라인업으로 구매\n할 수 있습니다.\nhttps://nvidianews.nvidia.com/news/nvidia-rtx-spark-pcs-available-today-a-new-beginning-for-windows-pcs",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-16T12:23:13+00:00"
-    },
-    {
       "id": "tg:aetherjapanresearch/25902",
       "source": "telegram",
       "author": "aetherjapanresearch",
@@ -537,20 +549,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-10-16T02:48:16+00:00"
-    },
-    {
-      "id": "tg:aetherjapanresearch/25891",
-      "source": "telegram",
-      "author": "aetherjapanresearch",
-      "author_name": "에테르의 일본&미국 리서치",
-      "author_url": "https://t.me/aetherjapanresearch",
-      "url": "https://t.me/aetherjapanresearch/25891",
-      "text": "💡\n💡\n💡\n블룸버그에 따르면 대만이 엔비디아를 비롯한 AI 하드웨어 제조업체들의 미국 현지 공급망 구축을 지원하기 위해 미국 내 산업단지에 수십억 달러를 투자할 계획.\n첫 번째 프로젝트는 최대 40억 달러가 투입되는 텍사스 산업단지로, 해당 시설을 통해 TSMC의 중소 협력업체와 폭스콘 등 AI 서버 제조업체의 공급업체들이 미국 현지에 사업 기반을 구축할 수 있도록 지원할 예정.",
-      "images": [
-        "https://cdn5.telesco.pe/file/TISqlHEKNyVHJh1699tFn3FUjVV9q6zJAGRUlRQ37ihobLVBtcHdKnd0ofR3SjJzJEhs0YZFaNk1WyISWqPTShy7JrSddU_pBci76ZdV2hmVN7EiNyArg_AXmBPWDbxNMOfJpC8hIOCXm5dL3n-IPVMZZFfef9wg6fdoUnke-lq0hqGFKMXLbjnB5NY7ivaVT9gxdFuj5Yzrltu-9fglYOpCEkN-GMCjebggBBHo3kZ5oRoQk_MNAYeMZiOhKSGT11djd8ST3Me1gZEds3J9hPZsFgzsX51YpPaM5k6Sf2LMDMigxLPtHGFf_vlmFyHfsgPtlVYyX8Mymx6MvxmQKw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-16T02:38:50+00:00"
     },
     {
       "id": "tg:enc210406/4508",
