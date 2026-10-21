@@ -1,5 +1,20 @@
 {
+  "rss:semianalysis": [
+    "rss:semianalysis:huawei-deepseek",
+    "rss:semianalysis:datacenters-2027-the-year-of-acceleration",
+    "rss:semianalysis:asml-is-building-a-hybrid-bonding",
+    "rss:semianalysis:beijing-will-not-pace-the-frontier",
+    "rss:semianalysis:anthropic-subscriptions-offer-5x",
+    "rss:semianalysis:sparse-savings-persistent-demand-inside-glm53",
+    "rss:semianalysis:intel-panther-lake-teardown",
+    "rss:semianalysis:the-chinese-ai-infrastructure-boom",
+    "rss:semianalysis:clustermax-30-the-industry-standard",
+    "rss:semianalysis:computation-and-data-movement-for",
+    "rss:semianalysis:engrams-embedding-entendre-codesign",
+    "rss:semianalysis:everyone-says-datacenter-moratoriums"
+  ],
   "telegram:globaletfi": [
+    "tg:globaletfi/22273",
     "tg:globaletfi/22272",
     "tg:globaletfi/22271",
     "tg:globaletfi/22270",
@@ -11,14 +26,13 @@
     "tg:globaletfi/22264",
     "tg:globaletfi/22263",
     "tg:globaletfi/22262",
-    "tg:globaletfi/22261",
-    "tg:globaletfi/22260",
-    "tg:globaletfi/22259",
-    "tg:globaletfi/22258",
-    "tg:globaletfi/22257",
-    "tg:globaletfi/22256"
+    "tg:globaletfi/22261"
   ],
   "telegram:bornlupin": [
+    "tg:bornlupin/20758",
+    "tg:bornlupin/20757",
+    "tg:bornlupin/20756",
+    "tg:bornlupin/20755",
     "tg:bornlupin/20754",
     "tg:bornlupin/20753",
     "tg:bornlupin/20752",
@@ -33,6 +47,7 @@
     "tg:bornlupin/20742"
   ],
   "telegram:aetherjapanresearch": [
+    "tg:aetherjapanresearch/25968",
     "tg:aetherjapanresearch/25967",
     "tg:aetherjapanresearch/25966",
     "tg:aetherjapanresearch/25965",
@@ -73,21 +88,6 @@
     "tg:enc210406/4512",
     "tg:enc210406/4511",
     "tg:enc210406/4510"
-  ],
-  "rss:semianalysis": [
-    "rss:semianalysis:huawei-deepseek",
-    "rss:semianalysis:datacenters-2027-the-year-of-acceleration",
-    "rss:semianalysis:asml-is-building-a-hybrid-bonding",
-    "rss:semianalysis:beijing-will-not-pace-the-frontier",
-    "rss:semianalysis:anthropic-subscriptions-offer-5x",
-    "rss:semianalysis:sparse-savings-persistent-demand-inside-glm53",
-    "rss:semianalysis:intel-panther-lake-teardown",
-    "rss:semianalysis:the-chinese-ai-infrastructure-boom",
-    "rss:semianalysis:clustermax-30-the-industry-standard",
-    "rss:semianalysis:computation-and-data-movement-for",
-    "rss:semianalysis:engrams-embedding-entendre-codesign",
-    "rss:semianalysis:everyone-says-datacenter-moratoriums",
-    "rss:semianalysis:vera-rubin-nvl72-agentic-inference"
   ],
   "x:ylecun": [
     "x:ylecun:2090600582805430353",
@@ -230,6 +230,6 @@
     "x:karpathy:2061110056293106118"
   ],
   "_meta": {
-    "last_x_fetch": "2026-10-21T18:25:35+00:00"
+    "last_x_fetch": "2026-10-21T22:08:25+00:00"
   }
 }
