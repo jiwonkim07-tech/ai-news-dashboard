@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-23T18:07:06+00:00",
+  "updated_at": "2026-10-23T21:52:33+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 3
+    "new_this_run": 1
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,20 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "rss:semianalysis:amazons-trainium-takes-a-strike-at",
+      "source": "rss",
+      "author": "semianalysis",
+      "author_name": "SemiAnalysis",
+      "author_url": "https://semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/amazons-trainium-takes-a-strike-at",
+      "text": "Amazon’s Trainium Takes a Strike at the Training King\n\nTrainium Best for Inference? But now good for Training too, Native Trainium PyTorch, High Quality CI, TorchTitan, GPU Impossible Profiler",
+      "images": [
+        "https://substack-post-media.s3.amazonaws.com/public/images/4a31a8c0-6bad-49ff-87c9-6e4e280f1ecf_1735x906.png"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-23T19:06:44+00:00"
+    },
     {
       "id": "tg:aetherjapanresearch/26015",
       "source": "telegram",
@@ -619,7 +633,7 @@
       "url": "https://t.me/globaletfi/22292",
       "text": "» 미국 국채금리는 AI 트레이드에 쏠려있던 자금들이 안전자산 쪽으로 유입되면서 큰 폭 하락\n» 지난주 CPI, PPI 등을 확인하는 시기에도 나타났던 현상. 물가안정 기대, 자금조달 환경 개선과는 다른 방향의 해석 필요\n» 10년물은 5.0% 선을, 30년물은 5.3% 선을 하향 돌파",
       "images": [
-        "https://cdn5.telesco.pe/file/IEuLXBn5j4NGsKo0GpYZ0cdpJMVoM6YrerjzP0FKHh1UNk3CF-0MACbH2up6OtAfvz3XJp7X_ETRJopSzO7TvR8ZJjGqGaSFSXKWVgYEJOnkLpdorUjOR2GhIP-LDd_pRTpz5qRDncHodDZEz_4n8xOmxk-PDyK_e9POAarAjjFwSKwKnzBiEf_NcCRZ50rrrkd1g-f_I_1grUL6iqlSOjuAeCNOkt2Ynk7zBAcqSHknf3NzeVlYb6OTJeaIoG1rqRXonKWO6n7lXbl-Sk-Fy0Zy3hA4VVObyYyxjFKGBkIodSdZhVSUutBnXGnNINCty9rMCVgnfRlGLRw2P7g6jA.jpg"
+        "https://cdn5.telesco.pe/file/c_kJ8Z1ptfpPvsRwduO5zjqU113C6Crz0Z4itmyfB7k__S70BOt4Eg5KS9zNJotDYAqn4bwXses5adN-Z-PHHQzT_24CMoHZvbCanAHGyppxMOyN2_pzbxQOlpWtikRYaneF9KoOHJfqW15FVHDs8_mZ9ndjb0L9m_BcwXcMctnM4qvCdZdPHbbJjSS-0VcDZ1FG199O12gZbM-hYKICiTxGYj400sbJl5RJD3dEc9Q95vjRO14TL75ltHGfEZjl1cDL1WL-7H1sKWPLemRcb33V_bcD6rKheS3HkYu-CFFQeM72f0EybEQqw3FU7v3eUGuGZ2zBfsa_tnrl9Kd3uA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-22T22:03:28+00:00"
@@ -936,20 +950,6 @@
       ],
       "summary_ko": "Engrams Embedding Entendre: 효율적인 DRAM/SSD 오프로딩을 위한 공동 설계\n\nDRAM/NVMe의 TAM, DeepSeek V4.1 플래시, AgentX, InferenceX, NVMe 실험에 대한 새로운 모델 아키텍처의 의미",
       "published_at": "2026-09-18T14:34:20+00:00"
-    },
-    {
-      "id": "rss:semianalysis:everyone-says-datacenter-moratoriums",
-      "source": "rss",
-      "author": "semianalysis",
-      "author_name": "SemiAnalysis",
-      "author_url": "https://semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/everyone-says-datacenter-moratoriums",
-      "text": "Everyone Says Datacenter Moratoriums Are Killing the US Buildout. We disagree\n\n20GW sits inside a restricted local boundary, 1,525MW actually slips, 2.3GW nationwide including New York",
-      "images": [
-        "https://substack-post-media.s3.amazonaws.com/public/images/9d6604d8-7a37-43db-9426-d899d049b747_1536x1024.png"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-09-15T20:54:41+00:00"
     },
     {
       "id": "x:ylecun:2090600582805430353",
