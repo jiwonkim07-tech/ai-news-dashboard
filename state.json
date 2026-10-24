@@ -1,5 +1,8 @@
 {
   "telegram:aetherjapanresearch": [
+    "tg:aetherjapanresearch/26021",
+    "tg:aetherjapanresearch/26020",
+    "tg:aetherjapanresearch/26019",
     "tg:aetherjapanresearch/26018",
     "tg:aetherjapanresearch/26017",
     "tg:aetherjapanresearch/26016",
@@ -11,9 +14,37 @@
     "tg:aetherjapanresearch/26009",
     "tg:aetherjapanresearch/26007",
     "tg:aetherjapanresearch/26006",
-    "tg:aetherjapanresearch/26005",
-    "tg:aetherjapanresearch/26004",
-    "tg:aetherjapanresearch/26003"
+    "tg:aetherjapanresearch/26005"
+  ],
+  "telegram:HI_GS": [
+    "tg:HI_GS/7273",
+    "tg:HI_GS/7272",
+    "tg:HI_GS/7270",
+    "tg:HI_GS/7269",
+    "tg:HI_GS/7268",
+    "tg:HI_GS/7267",
+    "tg:HI_GS/7266",
+    "tg:HI_GS/7265",
+    "tg:HI_GS/7263",
+    "tg:HI_GS/7262",
+    "tg:HI_GS/7260",
+    "tg:HI_GS/7258"
+  ],
+  "telegram:bornlupin": [
+    "tg:bornlupin/20795",
+    "tg:bornlupin/20794",
+    "tg:bornlupin/20793",
+    "tg:bornlupin/20792",
+    "tg:bornlupin/20791",
+    "tg:bornlupin/20790",
+    "tg:bornlupin/20789",
+    "tg:bornlupin/20788",
+    "tg:bornlupin/20787",
+    "tg:bornlupin/20786",
+    "tg:bornlupin/20785",
+    "tg:bornlupin/20784",
+    "tg:bornlupin/20783",
+    "tg:bornlupin/20782"
   ],
   "telegram:globaletfi": [
     "tg:globaletfi/22306",
@@ -28,21 +59,6 @@
     "tg:globaletfi/22295",
     "tg:globaletfi/22294",
     "tg:globaletfi/22293"
-  ],
-  "telegram:bornlupin": [
-    "tg:bornlupin/20793",
-    "tg:bornlupin/20792",
-    "tg:bornlupin/20791",
-    "tg:bornlupin/20790",
-    "tg:bornlupin/20789",
-    "tg:bornlupin/20788",
-    "tg:bornlupin/20787",
-    "tg:bornlupin/20786",
-    "tg:bornlupin/20785",
-    "tg:bornlupin/20784",
-    "tg:bornlupin/20783",
-    "tg:bornlupin/20782",
-    "tg:bornlupin/20781"
   ],
   "telegram:enc210406": [
     "tg:enc210406/4531",
@@ -71,22 +87,6 @@
     "rss:semianalysis:clustermax-30-the-industry-standard",
     "rss:semianalysis:computation-and-data-movement-for",
     "rss:semianalysis:engrams-embedding-entendre-codesign"
-  ],
-  "telegram:HI_GS": [
-    "tg:HI_GS/7273",
-    "tg:HI_GS/7272",
-    "tg:HI_GS/7270",
-    "tg:HI_GS/7269",
-    "tg:HI_GS/7268",
-    "tg:HI_GS/7267",
-    "tg:HI_GS/7266",
-    "tg:HI_GS/7265",
-    "tg:HI_GS/7263",
-    "tg:HI_GS/7262",
-    "tg:HI_GS/7260",
-    "tg:HI_GS/7258",
-    "tg:HI_GS/7257",
-    "tg:HI_GS/7256"
   ],
   "x:ylecun": [
     "x:ylecun:2090600582805430353",
@@ -229,6 +229,6 @@
     "x:karpathy:2061110056293106118"
   ],
   "_meta": {
-    "last_x_fetch": "2026-10-24T10:23:24+00:00"
+    "last_x_fetch": "2026-10-24T14:16:51+00:00"
   }
 }
