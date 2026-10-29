@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-28T22:15:38+00:00",
+  "updated_at": "2026-10-29T02:08:44+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 8
+    "new_this_run": 18
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,232 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/20882",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20882",
+      "text": "[미래에셋 김철중] 삼성SDI 3Q26 실적 컨콜 요약\nt.me/cjdbj\n■ 핵심 3줄\n- 영업이익 4,078억원으로 컨센(1,913억원)의 2배 이상. ESS·BBU 판매 확대에 고객 보상 반영이 더해진 결과(보상 금액은 미공개)\n- 4Q 전사 흑자 기조 유지 전망. 연말까지 10월 누계(60GWh+)를 넘는 규모의 미국 ESS 추가 수주 목표\n- 8월 GM 보유 Synergy Cells 지분 전량 인수, ESS 전환 양산 시점(28년 하반기~29년 초) 첫 제시. SPE LFP 추가 2개 라인은 1H27 가동, 수주 확보 완료\n■ 실적 Review\n3Q26 매출액 46,856억원(+20.9% QoQ, +52.6% YoY, AMPC 포함),\n영업이익 4,078억원(+100.1% QoQ, 흑자전환 YoY), OPM 8.7%\n컨센 대비: 매출 +16.0%, 영업이익 +113.2% → 상회\n배터리: 매출 44,099억원, OP 3,619억원(OPM 8.2%). AI 데이터센터향 ESS·BBU 판매가 크게 늘었고, EV 볼륨 모델 신규 프로젝트용 각형과 고출력·고용량 원형 판매도 증가. 고객 보상 반영이 실적 개선에 기여\n전자재료: 매출 2,757억원, OP 459억원(OPM 16.6%). 반도체 패터닝 소재, 폴더블 스마트폰용 필름 판매 증가\n■ 주요 코멘트 (4Q 시장 전망)\n[EV] 유럽은 OEM들이 역내산 배터리 조달 확대 검토. 하이니켈·LFP·미드니켈 포트폴리오로 신규 수주 지속, 헝가리 라인 준비와 소재·부품 공급망 구축은 계획대로 진행. 미국은 내연차 규제 완화와 OEM 전동화 전략 조정으로 수요 둔화 지속\n[소형] BBU는 고출력·고용량 요구와 LFP 수요가 함께 늘며 고객 니즈 다변화. 기존 CSP 고객 물량 확대와 신규 고객 확보 병행, 폼팩터는 18파이에서 21파이로, 소재는 하이니켈에서 LFP까지 확대. IT용은 반도체 가격 급등으로 세트 수요가 둔화되나 플래그십은 견조하며, 주요 고객 신규 플래그십에 파우치 초도 물량 공급\n[전자재료] 반도체 소재는 AI 서버 중심으로 웨이퍼 투입량 증가, 패터닝 소재 위주로 판매 확대. OLED 소재는 주요 고객 신규 플랫폼 진입 추진\n■ Q&A\nQ) 4Q 사업별 손익 전망\nA)\n- ESS·소형 성장으로 전사 흑자 기조 유지 전망\n- ESS: 전력용 ESS와 데이터센터 UPS 판매 큰 폭 증가. 미국 생산 확대로 AMPC 수혜가 늘어 수익성 개선 기대\n- 소형: 미주 고객향 EV용 원형 판매 재개, 신규 스마트폰용 파우치 초도 공급으로 개선세 지속\n- EV: 유럽 볼륨 모델 판매는 증가하나 기존 프로젝트 물량 감소가 부담\n- 전자재료: 디스플레이 소재는 연말 비수기, 반도체 소재는 패터닝 중심으로 견조\nQ) 미국 LFP ESS 양산 현황 및 추가 라인 전환\nA) SPE LFP 라인은 계획대로 10월 초 양산에 들어가 정상 가동 중. 10월 중순부터 셀 출하, 모듈·박스 공정을 거쳐 12월부터 SBB 완제품 인도 예정. 27년 LFP 캐파 확대를 위해 2개 라인을 추가로 전환 중이며 1H27부터 단계적 가동. 신규 라인 물량은 수주 확보 완료\nQ) 미국 ESS 수주 현황 및 추가 수주 전망\nA) 각형의 안전성을 바탕으로 10월까지 미국 전력용 중심 60GWh 이상 수주. SPE·울산 라인은 28년까지 풀가동 가능한 물량 확보. 현재는 29년 이후 SPE·울산 물량과 Synergy Cells 물량 확보에 집중하며, 연말까지 10월 누계를 넘는 추가 수주 목표. 앞으로는 수주한 물량을 일정대로 안정적으로 생산·납품하는 것이 핵심 과제이며, LFP 양산 확대와 차세대 SBB 개발·출시도 계획대로 추진\nQ) 유럽 EV 수요 및 수주 분위기\nA) 고유가와 주요국 보조금 확대로 점진적 회복, 볼륨 모델 중심 판매 급증. 주요 고객 볼륨 모델향 공급을 2Q부터 시작했으며 4Q 큰 폭 성장 전망. OEM 전동화 전략도 다시 강화되는 분위기. 3Q 주요 고객의 차세대 LFP·미드니켈 프로젝트 수주. 하이니켈 각형·46시리즈 원형 신규 프로젝트도 여러 고객과 논의 중\nQ) BBU 시장 전망 및 제품 전략\nA) AI 데이터센터 투자와 서버당 전력 수요 증가로 30년까지 연평균 약 30% 성장 전망. BBU를 서버 랙에서 분리해 별도 랙으로 구성하는 사이드카 구조가 확산되며, 18650보다 용량이 큰 21700 셀 채용 증가 예상. 고용량·고출력 탭리스 21700과 초기 수요가 생기는 LFP 셀로 포트폴리오 확대. 글로벌 CSP 외 신규 고객 확보 중이며 BBU를 중장기 성장 축으로 육성\nQ) Synergy Cells 활용 계획 및 양산 시점\nA) ESS용 고용량 차세대 LFP 제품 양산 준비. 원래 EV용으로 설계된 공장을 전환하기 위한 최적화 설계 진행 중. 주요 고객과 중장기 공급 물량 논의 중이며, 투자 진행에 따라 달라질 수 있으나 28년 하반기~29년 초 양산 개시 전망. 이후 단계적으로 라인 증설\nQ) AMPC 축소(30년~) 이후 ESS 수익성 확보 방안\nA) 30년 이후 공급 물량도 주요 고객과 논의 중이며, AMPC 축소를 반영한 가격 협의 진행. 시장 가격은 합리적 수준에서 형성될 것으로 전망. 고용량 각형 셀과 에너지 밀도 향상으로 원가를 낮추고, 공급망 최적화·생산성 향상·운영 효율화로 경비 절감\nQ) 휴머노이드·우주항공 실적 기여 시점\nA) 고출력·장수명 원형 배터리를 바탕으로 글로벌 선도 업체를 거래선으로 확보. 27년부터 공급 물량이 점진적으로 늘어 28년 원형 매출 내 비중 10% 이상으로 확대 전망. 초경량·저온 성능 강화 제품 등 특화 셀로 사업 확대\nQ) AI 반도체용 고부가 소재\nA) 업계 최초로 고방열 EMC 개발, 주요 반도체 업체 양산 승인을 받아 D램·모바일 AP용으로 공급 중. 열전도 성능 지속 개선. 차세대 대면적 패키징·유리기판 소재와 EUV 등 고부가 패터닝 소재 개발로 포트폴리오 확대\nQ) 삼성디스플레이 지분 매각 대금 활용\nA) Synergy Cells, 헝가리 공장, 국내 주요 시설 투자 재원으로 활용 예정. 투자 계획에 따라 순차 집행하며, 일부는 3Q 중 차입금 상환으로 재무구조 개선\nQ) 휴머노이드용 전고체 배터리 상용화 (사전 질문)\nA) 27년 하반기 상용화 목표로 복수 고객과 휴머노이드 프로젝트 진행. 9월부터 셀·팩 샘플을 공급해 고객 성능 평가 중이며, 양산용 제품 사양을 구체화하는 단계. 양극재·고체전해질 공급망 구축도 준비 중. 휴머노이드가 산업용에서 가정용으로 확대되며 안전성이 핵심이 되고 있어 전고체 수요 증가 예상",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-29T02:03:57+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20881",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20881",
+      "text": "[속보] 삼성전자 \"내년 HBM 공급협상 완료…완판속 추가 요청\"\nhttps://n.news.naver.com/mnews/article/015/0005347939?rc=N&ntype=RANKING&sid=001",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-29T02:00:01+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20880",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20880",
+      "text": "[DS증권 반도체 이수림] 삼성전자 3Q26 Key Takeaways\n3분기\n- B/G DRAM은 한자릿수 초중반, NAND는 한자릿수 중반 증가\n- ASP DRAM 20% 수준 상승, NAND 10% 후반 상승\n4분기\n- B/G DRAM 10% 중후반, NAND 10% 중반 증가할 것\n- 신규 출시될 GPU, CPU와 맞물린 제품 위주로 메모리 수요 추가 확대, NAND 측면에서도 SSD 수요 증가하면서 QLC 수요 대량으로 접수중\n2027년\n- DS부문 강력한 성장모멘텀 힘입어 2026년을 뛰어넘는 실적 달성 기대. 견조한 AI 투자로 인해 메모리 수요가 공급을 크게 상회할 것으로 예상, 파운드리 성장도 가속화. 상반기 HBM4E 양산 개시, 하반기 물량 본격화\n- DX부문은 원가 상승 등으로 수익성 부담이 이어질 것. 스마트폰 시장은 역성장 전망, 중저가 모델 축소 흐름 계속될 것",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-29T01:31:07+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20879",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20879",
+      "text": "[컨콜] 삼성전자 \"주주환원 최대 110조…우선주 자사주 매입 확대 검토\"\n3분기 30조 현금배당 결의…잔여 55조~75조 환원 추진\n주주평등 강화…자사주 매입 시 우선주 비중 확대 조율\n삼성전자가 올 3분기 보통주와 우선주에 주당 4061원의 현금배당을 결의하고,\n올해 최대 110조 원 규모에 달하는 주주환원 정책을 차질 없이 추진한다는 방침이다.\n29일 진행된 3분기 실적 발표 콘퍼런스콜에서 삼성전자는 정규배당(주당 3076원)을 포함해 총 30조 원 규모의 3분기 현금배당을 결정했으며 오는 11월 중 지급할 예정이라고 밝혔다.\n이로써 기집행액을 포함해 총 35조 원의 주주환원이 확정됐으며, 올해 목표치(90조~110조 원) 중 남은 55조~75조 원의 잔여 재원은 현금배당과 자사주 매입·소각을 통해 주주들에게 환원할 방침이다.\n특히 회사 측은 보통주와 우선주 간 가격 격차를 인지하고 있다며, 기업가치 제고와 주주평등 차원에서 자사주 매입·소각 시 우선주 비중을 적극 확대 조율하겠다고 약속했다.\n삼성전자는 지속 가능한 성장을 위한 2026년 이후 차기 주주환원 정책을 논의 중이며, 2027년 1월 말 이사회에서 차기 정책과 올해 잔여 재원의 최종 집행 방안을 확정해 발표할 계획이다\nhttps://www.sentv.co.kr/article/view/sentv202610290085",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-29T01:30:23+00:00"
+    },
+    {
+      "id": "tg:globaletfi/22376",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/22376",
+      "text": "» KOSPI 지수의 20일 이평선은 6,100pt 초반 영역에 자리",
+      "images": [
+        "https://cdn5.telesco.pe/file/RdKqFVDgVNDEfqCVqlqokzyj0grvi9yjwNxbbouTtwN4ItfIbuPkyfipLFY1lQ7UQKN3sbkf2aYXVYoycLHFVg_PuQEl5QC7lW-qneiNjDHZekNYL2Ps4Tr_70FCBGNX7df_SzVT8Lmjcz96BQM6dLBvNxtx40dyCKIQn4fMBCiuXcWcdd-9MtyaXFvSAuH_ssRBn8mC1aoiKppLW8zUzE9Tf3joOFxryyJqc4wsBYsTlG-crsibkB-T17omyuh9DZfRsA-wq-4Bexpjdk1wnDsWqpJyrZNcNeYp3_4zehChb7f4oc5mvnzPdNnZpEpNUKG_vxg6s0cZf1rsaYgELw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-29T00:47:33+00:00"
+    },
+    {
+      "id": "tg:HI_GS/7317",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/7317",
+      "text": "[다올투자증권 조선/기계/방산 최광식]\n10/29(목) 데일리뉴스\n🛳\n조선\n[TradeWinds]\nOffshore drives HD Hyundai profit rebound\nWallenius Wilhelmsen orders up to 12 giant car carriers for delivery through to 2032\nSouth Korean liner player tied to $356m order for its biggest container ships yet\nContainer ship orderbook nears 16m teu as LNG tightens grip on newbuilding market\nUS-China port fees truce should stay focused on charter length, says broker\n[Upstream]\nEquinor and Shell on schedule for Bay du Nord FID\nBaker Hughes wins subsea contract for Eni‘s Cronos gas project\nAker Solutions ’taking action‘ as lower activity and revenue slump expected in 2027\nQatarEnergy further extends force majeure until end December for key customer\nEni restarts operations at giant Venezuela oilfield\n🚢\n조선\nHD한국조선해양, 3분기 영업익 1조4천472억원…작년보다 37%↑\nhttps://buly.kr/DlMSj3W\nHD현대, 美•사우디 조선사업 ‘정조준’… 현지 수주 경쟁력이 성패 가른다\nhttps://tinyurl.com/28pl3fns\nHD한국조선해양, 中 저가공세에도 자신감… ”내년 발주 줄어도 호황“\nhttps://tinyurl.com/29mldxwq\n”LNG선 가격마저 꺾였다“•••中 추격에 K-조선 ’고수익 시대‘ 시험대\nhttps://tinyurl.com/2a3c38da\n실적 개선세에 노사 갈등도 봉합 국면…K조선, 호황 이어갈까(종합)\nhttps://tinyurl.com/2yj4m5x8\n이스라엘 찾은 페루 해군, 호위함 탑재 바라크 미사일 검수…HD현대중공업 건조 가속\nhttps://buly.kr/450mm9F\n🚀\n방산\n루마니아 달구는 K9 자주포…한화에어로, 1조 2000억 계약 본궤도 올렸다\nhttps://tinyurl.com/2xl92tjb\n韓핵추진잠수함 개발 본격화…HD현대, 정부에 참여 방안 건의키로\nhttps://tinyurl.com/234ja8ye\n한화시스템, 수익성 부담에도 개발비 최대 4배 늘린 이유\nhttps://buly.kr/DPWwlRT\nKAI, 해병대 상륙공격헬기 체계개발 성료\nhttps://tinyurl.com/26tyl8o2\n* 위 내용은 보도된 사실의 단순요약으로 별도의 컴플라이언스 절차 없이 제공됩니다",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-29T00:10:44+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20877",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20877",
+      "text": "삼성 SDI\n3분기 경영 하이라이트\n4분기 시장 전망",
+      "images": [
+        "https://cdn5.telesco.pe/file/sa2ANbGqj1yLQF9nkCI6-o4SS0m4jRMo6UAFVbEwL4GXRpED7S4LnHtFQpg076Kic_afoey5yoifAHOlm0EGjCyg5qsW4CEaCbKyKnB_y6iCNU_SuACzUFg3UyaMM2Ns5dOQ6cIaZZ5yDtqUq9IiVFkOCeMMzWcE3adM4hkykEr1fdVHeqmZBRK6E0v6kFsFhscUu5DqHl6cuuiBtf8hLMYr4hKwkxIy_IIrOGp8utDaaARfULpshNzYQ6-c2LuhwRYtd9lDdp7rMQ1FJ9_rVVVwgDK_bBF5zlFjkhAH3cSZTTErPHNR-hoAjv2-qThiVvdA2nKGbYMxfyoTW8HNAA.jpg",
+        "https://cdn5.telesco.pe/file/bAMnp4rX3fiAiodGe6g-0bBx2zNfW8sNr2R8_7nyMqGc2XPBkA4w4CvCAESiU7ewPEzR2hsM5hrXnigBSuEHSnFVJPi1cQU13nYAy-H9e17ZkL8Dfi38UQ2Ixo_m0eiYV8uMUooRFG6ods6mCa9L0k0GBCRLBqaIk-z_30X_PvbQR4SfpVNTNVsASLy6Sg7dswhaoaW14cHBhvtdeRjB5lZalyO9XaxOCCZ582g8ilJ1g_LOJ6m30NNTAPaJcrWTPGWXSSXzhWQNqNsr3ELZxUk97uoMkzxWlZJ7bIqAUemwdR4MBdjIEE1tu7nZK5rwWpX8onBa44IhX3mVj1cn0Q.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-29T00:08:27+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20876",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20876",
+      "text": "2026.10.29 08:55:07\n기업명: 삼성SDI(시가총액: 43조 327억) A006400\n보고서명: 연결재무제표기준영업(잠정)실적(공정공시)\n매출액 : 46,856억(예상치 : 40,145억+/ 17%)\n영업익 : 4,078억(예상치 : 1,901억/ +115%)\n순이익 : 2,946억(예상치 : 7,825억/ -62%)\n**최근 실적 추이**\n2026.3Q 46,856억/ 4,078억/ 2,946억\n2026.2Q 37,688억/ 2,038억/ 4,716억\n2026.1Q 35,764억/ -1,556억/ 561억\n2025.4Q 38,587억/ -2,992억/ -2,078억\n2025.3Q 30,518억/ -5,913억/ 57억\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261029800053\n종목공시 :\nhttps://www.awakeplus.co.kr/disclosure/006400",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-29T00:00:46+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20875",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20875",
+      "text": "[SK증권 반도체 한동희, 손 건]\n안녕하세요, 한동희입니다.\nSK하이닉스의 목표주가 400만원을 유지합니다.\n수요 강세 속 공급 부족 장기화, 실적 안정성 제고,\n이에 기반한 주주환원 강화, 지속성 제고가 핵심입니다.\nLTA는 5년을 넘어 장기화 논의 시작, 29년까지 HBM, DRAM은 완판되었습니다.\n과도한 우려의 되돌림과 메모리 밸류의 재논의 국면 진입을 전망합니다.과거와 다르다는 것을 계속 증명할 것입니다.\nSK하이닉스 (000660): 여전히 강력하다\n3Q26 OP 83조원 예상 상회\n공급 부족 심화, HBM4 반영 시작에 따른 가격 강세\n(B/G) DRAM +10%, NAND -1%\n(ASP) DRAM +28% (HBM +37%), NAND +24%\n(OPM) DRAM 82%, NAND 72%\n4Q26 분기 OP 100조원 시대 진입 전망\n1c 출하 가속화, M15X 램프업 본격화로 출하 상승\nHBM4 Cross-over 시작, 수율 안정화\n27년 OP 488조원으로 12% 상향 조정\nHBM4/3e 가격 인상, 수율 예상 상회\n1Q27 모바일 DRAM 가격 인상 반영\nLTA 가격 역시 우상향 지속. 업황 강세\n높은 환원의지, 가시성/안정성 제고, 지나친 저평가\nLTA 장기화: 5년에서 그 이상으로\n2029년까지 HBM, DRAM 완판\nHBM 수요 공급 가능 물량의 2배 이상\n26년 환원 100조원 수준. 26년 FCF의 66% 수준\n매분기 매입, 소각 지속 추진 계획\n실적 Duration 장기화, 높은 환원 의지에도 불구하고 12MF P/E 3.4X 수준에 불과\n과한 우려의 되돌림, 메모리 밸류 재논의 국면 진입 전망\n▶️\nURL:\nhttps://buly.kr/7mEhN9G\n* SK증권 리서치 IT팀 채널 :\nhttps://t.me/skitteam",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-28T23:45:04+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20874",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20874",
+      "text": "알파벳(GOOGL) 2026년 3분기 어닝콜 — CapEx·AI 인프라 관련\n1. CapEx 규모 및 2027년 전망 — CFO 아나트 아슈케나지\n• 3분기 CapEx는 514억 달러. 대부분 AI 투자를 지원하기 위한 기술 인프라에 사용.\n• 3분기 기술 인프라 투자 중 약 65%는 서버·네트워킹 장비(통상 내용연수 6년), 나머지 35%는 데이터센터(내용연수 7~40년).\n•\n2026년 연간 CapEx 가이던스 1,950억~2,050억 달러 유지.\n•\n2027년 CapEx는 크게 증가할 것으로 계속 예상.\n구체적인 내용은 4분기 어닝콜에서 공개 예정.\n• 기술 인프라 투자 확대에 따라 감가상각비와 에너지 비용 등 데이터센터 운영비도 증가할 전망.\n2. 현금흐름·장기 인프라 계약 — CFO\n• 3분기 영업현금흐름 423억 달러, 최근 12개월 1,796억 달러.\n• 3분기 잉여현금흐름(FCF) -91억 달러. CapEx 투자, TPU 시스템 판매를 위한 재고 확충, EU 집행위 과징금 52억 달러 지급의 영향.\n• 최근 12개월 FCF 197억 달러.\n• 분기 말 현금·유가증권 2,651억 달러(지분증권 904억 달러 포함), 장기부채 1,251억 달러.\n• 기술 인프라 용량·재고·리스·에너지 확보를 위한 다년 계약 체결.\n•\n분기 말 향후 구매약정 9,240억 달러, 개시 전 리스 및 기타 의무 1,520억 달러.\n• 해당 금액은 계약상 최대 의무액이며, 일부 계약에는 변동가격과 물량 조정 유연성이 있어 실제 지출은 더 적을 수 있음.\n3. AI 컴퓨팅 공급과 외부 용량 — 피차이·CFO\n• AI 인프라와 솔루션이 클라우드 성장의 주요 동력이며 수요가 매우 강함. 장기 수요 충족을 위해 추가 용량을 가동하는 데 집중.\n• 컴퓨팅 자원 배분은 단기 결정이 아닌 장기 계획의 일부. 각 사업부의 장기 계획과 투자자본수익률(ROIC) 기준에 따라 추진.\n• AI 모델은 검색·유튜브·클라우드·웨이모 등 모든 사업의 기반.\n• 이전에 언급한 외부 제3자 보완용 컴퓨팅 용량은 3분기 말에야 가동돼 3분기 클라우드 마진에 미친 부정적 영향은 제한적.\n•\n4분기에는 제3자 컴퓨팅 용량 사용을 확대하며 단기적으로 클라우드 마진에 부담 예상.\n• 현재 용량이 더 많다면 훨씬 많은 고객 수요를 충족할 수 있다고 설명.\n4. TPU 시스템·AI 인프라 — 클라우드 CEO 토머스 쿠리안\n• AI 인프라는 TPU 시스템, Axion CPU, 최신 NVIDIA GPU, AI 에이전트 전용 컴퓨팅 엔진으로 구성.\n• TPU 시스템은 칩만이 아니라 하드웨어·컴퓨팅·스토리지·네트워킹·소프트웨어를 결합한 AI 학습·추론용 통합 시스템. 광 네트워킹도 포함.\n• 학습용 TPU 8, 추론용 8I는 이전 세대 대비 각각 학습 성능 최대 2.7배, 추론 가격 대비 성능 80% 개선.\n• Meta와 협력해 PyTorch 모델을 TPU에서 학습·서빙·배포할 수 있도록 하는 Torch TPU 제공.\n• 100곳 이상의 주요 TPU 고객이 있으며 AI 연구소·금융기관·기업 등에서 수요 확대.\n• Anthropic(직접 및 Broadcom 경유), Apple 등의 활용을 언급. Oracle 및 Crux AI와 TPU 시스템 공급 파트너십 체결.\n• TPU를 구글 클라우드뿐 아니라 고객 데이터센터 및 다른 공급업체를 통해서도 제공.\n5. TPU 판매와 CapEx 관계 — CFO 및 경영진 Q&A\n• TPU 시스템 판매 계약 체결 후 수주잔고에 반영하고, 이후 재고를 구축. 시스템 인도 및 청구 시 현금이 유입됨.\n• 시스템 판매를 위한 재고 확보는 전통적인 데이터센터 CapEx와는 다른 현금흐름 사이클에 해당.\n• TPU 시스템용 부품 조달은 계약 체결 후에만 진행하며, 관련 재고는 모두 확약된 계약과 연계.\n• 현재 일부 TPU 시스템 판매 매출을 인식했으며, 4분기에 판매 규모가 확대되고 2027년에 의미 있는 매출 증가 예상.\n• 고객 및 제3자 데이터센터에 TPU 시스템을 설치하면 구글이 해당 시스템을 수용할 시설을 직접 미리 건설해야 할 필요도 줄어듦.\n• TPU 시스템의 개별 마진은 공개하지 않으며, 사업 확대와 함께 마진 개선에 집중.\n• 자사 데이터센터와 외부 데이터센터 모두에 TPU를 공급해 생산 규모를 확대하면 경제성 개선으로 이어진다고 설명.\n6. 구글 클라우드 실적·AI 인프라 매출 — CFO·쿠리안\n• 3분기 클라우드 매출 307억 달러(+103% YoY). AI 인프라·AI 솔루션·핵심 GCP가 성장 견인. TPU 시스템 판매도 의미 있게 기여.\n• TPU 판매 효과를 제외해도 클라우드 매출 성장률은 매우 강했다고 설명.\n• 클라우드 영업이익 111억 달러(전년 대비 3배 이상), 영업이익률 36.2%(전년 23.7%).\n•\n클라우드 수주잔고 5,610억 달러. 전체 잔고의 55%를 약간 넘는 규모가 향후 24개월 내 매출로 인식될 전망.\n• 2026년 연초 이후 구글 클라우드의 AI 관련 매출은 수백억 달러 규모.\n• AI 투자에 대해 자본비용을 의미 있게 웃도는 매력적인 ROIC를 예상.\n• 강력한 영업현금흐름 창출을 예상하지만, 대규모 기술 인프라 투자와 TPU 시스템 판매 확대에 따른 재고 증가는 FCF에 부담을 줄 것이라고 설명.\nhttps://x.com/DrNHJ/status/2115586112773406821?a=j1YTOSFPAJklkneHbAA&s=20",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-28T23:27:17+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20873",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20873",
+      "text": "마이크로소프트(MSFT) FY27 1분기 어닝콜 중 CapEx 및 AI 인프라 관련\n1. 1분기 설비투자(CapEx)\nCapEx 452억 달러. 1분기에 예상했던 일부 외부 업체(3P)의 컴퓨팅 용량 공급이 지연되면서 당초 예상보다 낮게 집행.\n전체 CapEx의 약 75%는 내용연수가 짧은 자산에 투자\n. 주로\nCPU·GPU이며, 상승한 메모리 및 스토리지 비용도 포함.\n나머지 약 25%는 내용연수가 긴 자산에 투자.\n금융리스 74억 달러. 금융리스는 계약 개시 시점에 리스 원금 전체를 CapEx에 반영.\n유형자산 취득에 실제 지급한 현금은 394억 달러.\n2. 2분기 및 2026년 연간 CapEx 전망\nFY27 2분기(2026년 10~12월) CapEx는 500억 달러 초과 예상.\n외부 업체의 컴퓨팅 용량 공급 지연으로 2026년 연간 CapEx는 약 1,700억 달러 전망.\nFY27 하반기(2027년 1~6월)에는 CapEx 지출이 가속화될 것으로 예상.\n주요 증가 요인은 CPU, GPU, 메모리 및 스토리지 비용 상승, FY27 하반기로 이월된 외부 업체의 컴퓨팅 용량 공급.\n인프라 효율성 개선을 통해\nCapEx 1달러당 더 많은 매출과 높은 수익을 창출할 수 있을 것\n으로 기대.\n3. 외부 GPU 공급 지연 및 Azure 영향\n1분기 예상했던 일부 외부 업체의 컴퓨팅 용량 인도가 지연.\n2분기로 예정됐던 일부 외부 업체의 GPU-as-a-Service 계약에 따른 용량 공급도 FY27 하반기로 연기.\n그럼에도 Azure 1분기 매출은 전년 대비 48% 증가.\nFY27 2분기 Azure 매출 성장률은 고정환율 기준 49~50% 예상.\n고객 수요는 여전히 공급 가능한 컴퓨팅 용량을 초과.\nCPU·GPU 인프라의 효율성 개선을 통해 공급 지연 영향을 일부 상쇄할 계획.\n4. 기존 GPU·CPU 인프라 효율성 개선\n1분기 GPU 인프라 효율성 개선으로 추가 컴퓨팅 용량을 확보해 Foundry 고객에게 배분.\n기존 CPU 인프라에서 활용되지 않던 용량을 찾아내 추가로 수익화.\n애플리케이션, Foundry, Azure 플랫폼 전반에서 인프라 활용 효율성 개선.\n2분기에도 효율성 개선이 지속될 것으로 예상하며, 지연된 공급을 상쇄하기 위한 추가 개선도 필요.\n1분기에는 예상보다 높은 토큰 가격과 고품질 AI 모델 구성이 매출에 긍정적으로 기여.\nGPU 리스 인도 시점, 자체 데이터센터 증설 시점, 엔지니어링 효율성 개선 및 모델 구성에 따른 ARPU 변화가 분기별 Azure 성장률에 영향을 줄 수 있음.\n5. 데이터센터 증설 및 AI 반도체 도입 — 사티아 나델라 CEO\n이번 분기 5개 대륙에 걸쳐 신규 데이터센터 24개 추가.\n주요 지역에서 NVIDIA GB300 시스템의 도착부터 실제 가동까지 걸리는 시간을 전 분기 대비 약 20% 단축.\nCopilot 워크로드 처리량은 전 분기 대비 50% 이상 개선.\nNVIDIA·AMD 최신 시스템과 자체 개발 Maia 시스템을 활용해 인프라 확장 지속.\nNVIDIA Vera Rubin GPU를 최초로 인도받음.\nMaia 200은 Teams와 Copilot AI 서비스에서 와트당 토큰 처리량을 최대 1.7배로 개선.\nMaia 300은 주요 GPU 기반 시스템 대비 와트당 토큰 처리량을 40% 높일 것으로 기대.\n자체 Cobalt CPU 도입도 지속 확대.\n6. 현금흐름 및 추가 자금조달\n1분기 영업현금흐름 580억 달러, 전년 대비 29% 증가.\n잉여현금흐름(FCF) 186억 달러.\n배당 및 자사주 매입을 통해 주주에게 102억 달러 환원.\nFY27 전체적으로 잉여현금흐름 흑자를 유지할 것으로 예상.\n영업현금흐름을 보완하고 재무적 유연성을 확보하기 위해 매력적인 조건이 형성되면 추가 자금조달 수단 활용 가능.\n이미 금융리스를 자금조달 수단으로 사용 중.\n높은 신용등급을 바탕으로 채권시장에 접근할 수 있으며, 추가 자금조달 여력도 충분하다고 설명.\n경영진은 설비투자 1달러당 창출되는 투자수익에 자신감을 표명.\n7. CapEx 관련 수익성 전망\nMicrosoft Cloud 1분기 매출총이익률 66%.\n2분기 클라우드 매출총이익률은 약 65% 전망.\nAzure 자체의 제품 단위 수익성은 개선되고 있지만, 전체 매출에서 Azure 비중이 증가하면서 클라우드 매출총이익률 하락 예상.\nCFO는 매출 성장과 플랫폼 효율성 개선이 수익성 유지에 중요한 요인이라고 설명\n.\nhttps://x.com/DrNHJ/status/2115584281942835458?a=PcJoyF8pmJyjlbuO0L0&s=20",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-28T23:19:57+00:00"
+    },
+    {
+      "id": "tg:globaletfi/22374",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/22374",
+      "text": "[하나 Global ETF Daily (10/29)]\n▶️\n하나 Global ETF 박승진(T.3771-7761)\n▶️\nRA 신민건(T.3771-3269)\n▶️\n텔레그램:\nhttps://t.me/globaletfi\n🔹\n주요 ETF Daily 수익률\n(2026.10.28 종가 기준)\n» 주요 시장 ETF\nSPY 0.34%\nQQQ 0.60%\nDIA 0.27%\nIWM 0.40%\n» 주요 국채 ETF\nSHY 0.02%\nIEF -0.27%\nTLT -0.78%\n» 주요 섹터/테마 ETF\n바이오테크(ARKG) 6.14%\n원자력(URA) 1.92%\n반도체(SMH) 1.74%\n🔹\nETF News\n[ETFdb] 연준의 불확실성에 지쳤는가?: S&P 500 하방 완충(버퍼) 장치를 갖춘 3대 ETF 비교\n-\nhttps://buly.kr/8pjFFGM\n- 미 연방준비제도가 9월 25bp 금리 인상에 이어 10월 28일 기준금리를 동결했으나, 통화정책 경로를 둘러싼 시장 변동성과 과민 반응은 여전히 상존\n- 이에 따라 금리 방향성을 예측하기보다는 내장된 완충 장치를 통해 하방 손실을 제한하면서 S&P 500의 상승 여력을 공유하는 확정수익(Defined Outcome) 버퍼 ETF가 주목\n- 이들 상품은 시장 충격 국면에서 변동성을 완충하며 포트폴리오를 유지할 수 있는 실질적인 방어형 익스포저를 제공\n- 아래 제시될 3대 버퍼 ETF는 손실 방어율과 성과 기간 구조에서 뚜렷한 차별점을 나타냄\n- Innovator Equity Defined Protection ETF – 2 Yr To July 2027(TJUL)은 2년 보장 기간 동안 상단 캡 범위 내에서 SPY의 수익률을 추종하며 100% 원금 보호 버퍼를 제공\n- 반면 Innovator U.S. Equity Buffer ETF – January(BJAN)는 매년 1월 재설정되는 연간 주기로 첫 9%까지의 초기 하락 손실을 방어하는 완충 구조를 취함\n- 한편 Calamos Laddered S&P 500 Structured Alt Protection ETF(CPSL)는 월별 성과 기간이 분산된 100% 보호형 ETF들을 래더드 방식으로 편입하는 펀드 오브 펀드로, 리셋 시점의 분산 효과를 도모\n- 이러한 버퍼 펀드들은 상승 상한선(Cap)이 존재한다는 구조적 한계가 있으나, 극단적인 하락 장세에서 자본 보존력을 발휘한다는 점에서 명확한 유용성을 지님\n- 통화정책 변곡점에서 주식 비중을 전면 축소하지 않고도 심리적 안정성과 체계적 위험 관리를 동시에 확보할 수 있는 대안으로 기능\n- 따라서 투자자는 자신의 투자 시계와 요구되는 손실 방어 수준(부분 완충 vs 100% 원금 보호)을 점검하여 버퍼 ETF를 주식 포트폴리오의 안전판으로 선별 배분하는 전략이 바람직할 것\n[24/7 Wall St] ETF 매수·매도 호가 스프레드 0.00%의 진실: 공시된 중위수 통계가 감추고 있는 실질 거래 비용 분석\n-\nhttps://buly.kr/3YGVorf\n- SPDR S&P 500 ETF Trust(SPY) 등 주요 초대형 펀드들이 최근 30일 매수·매도 호가 스프레드 중위수를 '0.00%'로 공시하고 있으나, 이는 과거 통계적 중간값일 뿐 실제 매매 체결 가격을 보장하지 않음\n- 중위수(Median) 산출 방식은 정규 거래 시간 동안 수집된 스프레드를 정렬해 한가운데 값을 취하므로 시장 변동성 확대나 유동성 공백으로 스프레드가 급격히 벌어진 이상치(Outlier) 순간들을 배제\n- iShares 20+ Year Treasury Bond ETF(TLT)가 0.01%의 극히 낮은 수치를 보고하는 것도 풍부한 거래량에 기반한 평상시 중간값을 반영한 결과이며, 투자자가 마주하는 실질 거래 비용은 주문 집행 시점의 실시간 스프레드와 호가 잔량(Depth)에 의해 좌우\n- 또한 초대형 펀드라 할지라도 순자산가치(NAV) 대비 프리미엄과 디스카운트를 오가며 거래되는 구조적 가격 괴리가 상존\n- 2026년 10월 26일 기준 SPY의 프리미엄/디스카운트는 0.01%, TLT는 10월 23일 기준 0.07%를 기록했으며, 2025년 SPY 거래일 중 프리미엄 123일, 디스카운트 127일로 마감될 만큼 미세한 가치 이탈이 일상적으로 발생\n- 게다가 호가창에 제시된 최우선 가격은 제한된 수량에만 유효하므로 대규모 주문이나 시장 급변기에는 가격 밀림(슬리피지) 현상이 발생하기 쉬움\n- 따라서 공시 수치만으로 거래 비용이 전무하다고 오판할 경우 예상치 못한 체결 손실을 입을 수 있음\n- 대규모 자금 집행 시 숨은 거래 비용을 방어하기 위해서는 주문 직전의 실시간 호가를 확인하고, 시장가 주문 대신 매수·매도 한도를 지정할 수 있는 지정가 주문(Limit Order)을 원칙으로 삼아야 함\n- 아울러 호가창의 깊이를 사전에 파악하여 주문 규모에 따른 가격 충격을 완화하는 정밀한 실행 관리가 요구\n- 결론적으로 공시된 0.00% 안팎의 스프레드는 평상시 유동성을 가늠하는 참고 지표로 삼되, 실제 거래 시에는 실시간 호가 확인과 지정가 주문 활용을 통해 체결 비용을 적극적으로 통제하는 실행 전략이 필수적",
+      "images": [
+        "https://cdn5.telesco.pe/file/izjRMU4ZOH7PCtRtHHQc88obIO0ZMwr_rSJ_AP8iBoN8_C9yO6DVNRHM7WBam0N2kJ_UQV11IHFLIpPtXS65v861t8_uadClJGD2Jh6WgrwsyakVLeVWhHOyrTsmuxOhLTzUJDeQyZmQhF4b-0P3v1bD6vOm5bcHR56KnMF7IyTVnc6CN_IvGZaXzUbA1U1KLZKU-gq7wS_nScgUaww_6rddthKo62VgyuZ1fbGhv4EUE0WY2uUB65T1Qn2oWX2fmHSVC1zvVfHV9zwCf4AIimzSqziYYZ6k2gsSp9WCVJArJXTp9gGlbd705-FUltfGNyiLlL0qWfWip_k18mvlSg.jpg",
+        "https://cdn5.telesco.pe/file/nGyyXT0Ezbi4HFCz8IARTztOvcxcfP8Is-Y_aJJYbhm6zwg9hQbwGdIGNu1oB3kOAQRkXxAH4rsI878v4ze8RxIdZFGrPPPRSmjuEAZ7N2zpfA63CG_aaQuOUmjbjlsmiKnChs2xrugDWmf7RuS06A0I3ZzQYSPhiQ59tUJxKaylkOw33a-kXLfaIEcj0vDwCYHlDj7xAO7r-K-4C7VB6Rim8s7HyYYk90budZ4PPnXemuA_jtRLnhCWEKMNnRhjBHju3cq_dDCANW3q5i5PxmDvl46TcWBthbAe6AzyVD5nyvPWibwjtpcKMJHVKifgu3b1Sg-qPdLUy6MnTEQl2g.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-28T23:07:40+00:00"
+    },
+    {
+      "id": "tg:globaletfi/22373",
+      "source": "telegram",
+      "author": "globaletfi",
+      "author_name": "[하나 Global ETF] 박승진",
+      "author_url": "https://t.me/globaletfi",
+      "url": "https://t.me/globaletfi/22373",
+      "text": "[하나 글로벌 기업분석 데일리 뉴스]\n10/29 하나증권 김재임/송종원\nMicrosoft 투자 축소 전망에 네오클라우드주 하락\n-예상보다 낮은 Microsoft 자본지출이 발표된 뒤 CoreWeave·Nebius·IREN 주가가 동반 하락했음\n-인프라 협력사들의 데이터센터 용량 공급이 당초 예상보다 늦어지고 있다는 우려가 커졌음\n-대규모 AI 인프라 투자에 의존하는 네오클라우드 기업들의 성장 기대가 약화됐음\nhttps://da.gd/GMsVE\nGoogle, Gemini·검색 서비스에 외부 앱 연동 확대\n-기업이 자사 서비스를 Google의 AI 환경에 연결할 수 있는 개발자 플랫폼을 마련했음\n-Gemini와 검색에서 이용할 수 있는 외부 앱의 범위가 넓어짐\n-소비자가 앱을 발견하고 이용하는 방식에 변화가 예상됨\nhttps://da.gd/BJp7e\nGoogle, Gmail 연동형 Chrome AI 자동완성 도입\n-사용자 허가를 받은 경우 Gmail에서 필요한 정보를 찾아 웹 양식에 입력함\n-항공편 확인 정보와 배송 추적 정보를 불러올 수 있음\n-주문 세부 정보 등 받은편지함의 다양한 데이터도 활용함\nhttps://da.gd/AzvHLr\nGoogle, 사이버 보안 강화한 Gemini 4 Carbon 출시\n-코딩과 에이전트 작업 및 사이버 보안 성능을 개선했음\n-Artificial Analysis Intelligence Index 5.0 벤치마크에서 1위를 기록했음\n-해당 평가에서 Claude Opus 5.5와 GPT-6 Astra를 앞섰음\nhttps://da.gd/Q1mJC\n미국 정부, 데이터센터 전력용 원전에 50억 달러 대출\n-Constellation Energy가 원자로 현대화를 위한 정부 대출을 받게 됐음\n-증설되는 발전 용량의 대부분은 이미 Google·Amazon·Meta에 배정됐음\n-AI 데이터센터의 급증하는 전력 수요를 원자력 발전으로 충당하는 사업임\nhttps://da.gd/L7POQ\nOracle, 장기 성장·현금흐름 전망에 주가 11% 상승\n-2030회계연도 매출 전망치로 2,250억 달러를 제시했음\n-해당 기간 추가 자금 조달 규모를 200억 달러 이내로 제한하겠다고 밝혔음\n-2029회계연도 잉여현금흐름이 300억 달러로 개선될 것으로 전망했음\nhttps://da.gd/OWWUo\nCharles Schwab, 자문 플랫폼에 Claude 도입\n-Claude for Financial Advisors를 Schwab Advisor Center에 직접 통합하고 있음\n-독립 자문사에 Anthropic의 자문 특화 AI를 제공하는 최초의 RIA 수탁사를 표방했음\n-AI를 재무설계와 금융 자문 업무에 확대 적용할 계획임\nhttps://da.gd/5JvbCp\nPalantir 국방 책임자, AI 발전에 따른 대만 위험 경고\n-AI 역량의 발전이 중국의 대만 장악 유인을 키웠다고 주장했음\n-대만이 세계 AI 산업을 뒷받침하는 핵심 반도체 생산 거점이라는 점을 강조했음\n-중국 지도부의 대만 관련 판단에 기술 경쟁이 영향을 줄 수 있다고 경고했음\nhttps://da.gd/cojeRs\nStellantis, 비용 절감 진전에 주가 13% 상승\n-3분기에 40억 유로 규모의 현금 부족을 기록했음\n-경영 정상화 계획과 비용 절감 조치가 진전을 보였음\n-투자자들이 회복 가능성에 반응하면서 주가가 급등했음\nhttps://da.gd/xoIc2K\nFord, 3분기 실적 예상 상회와 연간 전망 상향\n-원자재 가격 상승이 올해 25억 달러 규모의 부담으로 작용할 수 있다고 전망했음\n-3분기 이익이 시장 예상치를 웃돌았음\n-연간 이익 전망 범위의 하단을 상향했음\nhttps://da.gd/URmy9f\nServiceNow, AI 우려 해소 실패에 주가 급락\n-다음 분기 구독 매출 전망이 시장 예상치에 부합했음\n-예상 수준의 전망에도 AI가 소프트웨어 사업을 잠식할 수 있다는 불안이 이어졌음\n-투자자 우려가 해소되지 않으면서 주가가 큰 폭으로 하락했음\nhttps://da.gd/BTsX5O\nMarvell, Lumentum 인수 협상 막바지\n-데이터센터 광학 장비 업체 Lumentum을 인수하기 위한 협상을 진행 중임\n-거래가 성사되면 AI 인프라 분야의 대형 인수합병이 될 전망임\n-데이터센터 확장 경쟁에 대응해 광통신 역량을 강화하려는 움직임임\nhttps://da.gd/wzS9T\nReddit, 개인화 ‘For You’ 피드 도입\n-사용자가 가입한 커뮤니티의 게시물을 하나의 피드에 모음\n-이용자 관심사에 맞춘 추천 게시물도 함께 제공함\n-기존 커뮤니티 구독과 알고리즘 추천을 결합했음\nhttps://da.gd/Mqm6h\nAnthropic, 공익법인 구조에 따른 IPO 투자 위험 부각\n-공익법인 구조상 AI 사명이 주주 수익보다 우선될 수 있음\n-300쪽이 넘는 투자설명서에도 기업 지배구조와 관련한 미해결 질문이 남았음\n-상장을 앞둔 투자자가 일반 기업과 다른 이해관계 충돌 가능성을 고려해야 하는 구조임\nhttps://da.gd/9OIbO\nAnthropic 연계 텍사스 데이터센터 채권 매각 연기\n-은행들이 해당 데이터센터용 150억 달러 대출의 일부를 채권으로 매각하려던 계획을 미뤘음\n-텍사스주가 전력망 위험을 평가하며 신규 프로젝트를 보류한 것이 배경임\n-전력 공급 불확실성이 AI 데이터센터 금융에도 영향을 미쳤음\nhttps://da.gd/dwfcH\nAnthropic, 기업용 AI 지출 분석 도구 출시\n-기업이 모델 사용에 투입한 비용의 효과를 파악할 수 있도록 지원함\n-사용자가 Anthropic 모델에 비용을 쓰는 방식을 더 투명하게 보여줌\n-계획 중인 IPO를 앞두고 기업 고객의 투자 성과 측정을 강화했음\nhttps://da.gd/PFDSwx",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-28T23:06:14+00:00"
+    },
+    {
+      "id": "tg:HI_GS/7316",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/7316",
+      "text": "[너무나 사람같아 ‘섬뜩’…축대 기어 오르고 사다리 타는 휴머노이드]\n• 스위스 ETH 취리히 연구진, 라이다 정보와 AI 및 실제 인간 동작 데이터를 결합한 신기술 ACP 개발\n• 중국 유니트리 키 1.3m 휴머노이드 G1 개조 적용해 축대·사다리·계단 등 복잡 장애물 돌파 시연\n• 시뮬레이션 환경 내 장애물 돌파 성공률 92.5% 달성해 기존 기술 58.8% 대비 대폭 향상\n❗️\n시뮬레이션 장애물 돌파 성공률 92.5% 기록하며 공사장 및 재난 구조 현장 활용 기대 출처: [경향신문] URL:\nhttps://www.khan.co.kr/article/202610281240001\n─────────────────────\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n🎴\n사람 쇼티지가 아니라, 도크 자체가 더 필요한 미래가 올런지도. 엔지니어를 키우자",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-28T22:45:41+00:00"
+    },
+    {
+      "id": "tg:HI_GS/7315",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/7315",
+      "text": "🛡\nUS Costs of Iran War Rise to Over $47 Billion, According to Pentagon Estimate\n🛡\n미 국방부 추정 이란 전쟁 비용 470억 달러 돌파\n출처: Stars and Stripes\n링크: [\nhttps://www.stripes.com/theaters/middle_east/2026-10-28/pentagon-estimate-iran-war-cost-47b-23289282.html\n]\n* 미 중부사령부(CENTCOM) 및 국방부 집계 결과 10월 중순 기준 대(對)이란 전쟁 누적 비용 최소 471억 달러 기록\n* 지난 7월 피트 헤그세스 국방장관이 의회에 보고한 375억 달러 대비 25% 이상 증가\n* 소모된\n탄약·유도무기 재비축 및 조달 비용만 약 290억~300억 달러 비중 차지\n* 비행 작전, 사이버 지원 등 작전 유지비가 포함된 수치이나 이란의 미사일·드론 공격으로 파손된 미군 기지 복구 비용은 이번 추산치에서 제외\n* 11월 의회 중간선거를 앞두고 전비 급증에 따른 정치적 논란 가열 전망\n───────\n📈\n텔레그램 공개 채널 [\nhttps://t.me/HI_GS\n](https://t.me/HI_GS)\n🎴\n탄 40조원 소진",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-28T22:38:41+00:00"
+    },
+    {
+      "id": "tg:enc210406/4572",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4572",
+      "text": "[한투증권 강경태] HD현대중공업(329180)\n텔레그램:\nhttp://t.me/enc210406\n보고서 링크:\nhttps://buly.kr/H6krLKw\n3Q26 Review: 증설 효과 발현되기 일보 직전\n■ 영업이익은 컨센서스를 9% 하회, 인건비 선반영액 감안한 경상치는 시장 기대 부합\n- 3분기 연결 매출액은 5조 7,536억원(+30.2% YoY, -9.1% QoQ), 영업이익은 8,992억원(+61.4% YoY, -13.5% QoQ, OPM +15.6%)을 기록. 컨센서스 대비 매출액은 8.7% 하회, 영업이익은 9.4% 하회하는 수준\n- 하지만 임단협 타결 관련 인건비 선반영액(약 338억원)을 환입한 경상 영업이익은 9,330억원으로, 사실상 컨센서스에 부합하는 양호한 성적\n- 실적 세부 사항의 핵심은 두 가지. 첫째, 상선 OPM(14.7%)은 전분기 대비 3.1%p 하락했으나 이는 조업일수 감소(1.2%p), 평균 환율 하락(1.1%p), 인건비 선반영(0.8%p)에 기인.\n- 둘째, 해양 OPM(33.3%)은 카타르 Ruya FP 매출 기여 및 Trion FPU C/O 효과(약 180억원)로 큰 폭 상승\n■ 대출력 발전엔진 잔고 1.1년치 확보, 2029년 시설 가동률 75%로 상승하며 핵심 투자포인트 숙성 중\n- 육상용 발전 엔진 잔고를 꾸준히 확보해 온 결과, 비공시 일감을 포함한 현재 잔고는 총 4.5GW(1.1년치)에 달함\n- 이 중 3.0GW를 2029년에 인도할 계획이며, 이는 2029년 생산 Capa의 75%를 이미 확보한 것으로 향후 실적 추정의 신뢰도를 높이는 요인\n- 대출력 발전엔진 Capa 증설에 따른 외형 및 이익 성장 효과가 향후 기업가치에 점진적으로 반영될 전망\n■ 실적 불확실성 해소 및 발전엔진 가동률 상승 추이 감안해 업종 Top-pick 유지\n- 조선 업종 Top-pick 의견과 목표주가 520,000원을 유지하며 적극 매수 권장\n- 목표주가는 적정 기업가치 53조 9,905억원에 2028년 지배주주지분순이익 추정치 4조 3,192억원 및 목표 P/E 12.5배를 적용하여 산출",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-28T22:34:17+00:00"
+    },
+    {
+      "id": "tg:HI_GS/7314",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/7314",
+      "text": "🚢\n#HD현대중공업\n「2026-2030 힘센 증익 기울기 보임」\n☞\nhttps://bit.ly/HHI3Q26RE\n▶️\nIssue: 3Q26 리뷰. 적정주가 하향.\n그러나 2028~2030년 증익 단초들 준비\n그래서 선호주 견지\n▶️\nPitch:\n> 조선업 공통 PER 15배로 낮춰 적정주가 내리지만,\n백로그너머 2028년 PER이 7배를 하회하는 저평가 기회,\n> 피크아웃을 물리칠 가능성 높음\n1) AI DC향 잔고 쌓으면서 2028-2030 실적을 상향할 수 있고,\n2) FDC 개시 및\n3) HD현대-키윗 사업에 따라 또 피크아웃을 물리치는 이익의 성장도 가능한 구조\n- HD한국조선해양 보고서 참조\n▶️\nRationale: 보고서 참조\n—————————————————————\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n✅\n컴플라이언스 승인을 득한 보고서입니다.\n—————————————————————",
+      "images": [
+        "https://cdn5.telesco.pe/file/uFo5_DP-MClw81cQCJaq1A2fHRIkQOWlGUh-rqrLC4b7i9ZWx8MycZ4QoVO0enlZnWBcTelFjJlrcFwkd5UGjpNZyVzXRQreE6ES4_aiKAr41yg-pKNxLiOFXGzUIH5RQnjafd5V5zIX25Jw29BMYDm3F-n56Cr69uK08fNPNd6-JexlBcKm8o8gLTDO7XzkiZ1PbySn93q4HSg844UkV8X5ZUIynkQ7_Ilxpr5508iwQDDvPuENsIEaM7jZQDr2nCA-qL4s2qEn_3dXjAELAoKXktZRqAflQGKlJJwt3dVyVXvg86roUAdTjawk3iYLDSjDUgtK5CmqlSl0VIdXCw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-10-28T22:30:58+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20872",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20872",
+      "text": "구글 CapEx\n연간 설비투자(CapEx) 전망\n: 올해 연간 설비투자 가이던스는\n기존의 1,950억~2,050억 달러 수준으로 유지\n​아슈케나지 CFO 어닝콜 발언:\n2027년 설비투자가 상당히 증가할 것으로 계속 예상\n하고 있으며, 구체적인 내용은 4분기 실적 발표 때 공유하겠다(\"We continue to expect our capex to increase significantly in 2027, and will provide further details on our Q4 call\").\n​\nCNBC 전망치:\n연간 설비투자가 올해 2,000억 달러를 넘긴 뒤, 2027년에는 3,000억 달러를 초과할 것으로 예상",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-10-28T22:23:15+00:00"
+    },
     {
       "id": "tg:enc210406/4571",
       "source": "telegram",
@@ -95,30 +321,6 @@
       "published_at": "2026-10-28T21:07:43+00:00"
     },
     {
-      "id": "tg:bornlupin/20869",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20869",
-      "text": "알파벳(GOOGL) 2026년 3분기 실적\n(시간외 -7.7%)\n주당순이익(EPS): 2.12달러\n매출: 1,276억 달러 (예상 1,282.2억 달러 하회), 전년 대비 25% 증가\n구글 클라우드 매출: 307억 달러 (예상 291.5억 달러 상회)\n구글 검색 및 기타 매출: 634억 달러 (예상 649.9억 달러 하회)\n유튜브 광고 매출: 112억 달러 (예상 114억 달러 하회)\n설비투자(CapEx): 514억 달러 (예상 552억 달러 하회)\n매출 대비 설비투자 비중: 약 40.3%\n주요 업데이트\n지분증권: 순미실현손실 87억 달러 발생. 주당순이익(EPS)에 0.55달러의 감소 영향.\n구글 서비스(Google Services)\n매출: 963억 달러 (예상 984.2억 달러 하회)\n영업이익: 392억 달러 (예상 408억 달러 하회)\n영업이익률: 약 40.7%\n구글 광고 매출: 820억 달러 (예상 836억 달러 하회)\n구글 네트워크 매출: 75억 달러 (예상 72억 달러 상회)\n구독·플랫폼·디바이스 매출: 143억 달러 (예상 148.5억 달러 하회)\n구글 클라우드(Google Cloud)\n영업이익: 111억 달러 (예상 97.5억 달러 상회)\n영업이익률: 약 36.2%\n기타 신사업(Other Bets)\n매출: 3억 7,200만 달러\n영업손실: 20억 달러\n알파벳 본사 차원 활동\n영업손실: 77억 달러\n공통 AI 연구개발 비용 포함.\n기타 주요 지표\n총영업이익: 406억 달러 (예상 432.3억 달러 하회)\n총 트래픽 획득 비용(TAC): 164억 달러\n트래픽 획득 비용 제외 매출: 약 1,112억 달러\n직원 수: 20만 4,757명\n유료 구독자 수: 1억 5,000만 명 이상\n자체 AI 모델 API 처리량: 분당 약 320억 토큰\n지역별 매출\n미국: 677억 달러, 전년 대비 39% 증가\n유럽·중동·아프리카(EMEA): 327억 달러, 전년 대비 9% 증가\n아시아태평양(APAC): 199억 달러, 전년 대비 12% 증가\n기타 미주 지역: 71억 달러, 전년 대비 17% 증가\n재무 실적\n영업이익률: 31.8%\n순이익: 265억 달러\n기타 순손익: -82억 달러\n지분증권 순손익: -87억 달러\n영업현금흐름: 423억 달러 (예상 527.2억 달러 하회)\n잉여현금흐름(FCF): -91억 달러 (예상 -27억 달러 하회)\n최근 12개월(TTM) 잉여현금흐름: 197억 달러\n현금 및 유가증권: 2,651억 달러\n장기부채: 1,251억 달러\n주주환원\n배당금: 주당 0.22달러\n자사주 매입: 0달러\n순다르 피차이 CEO 발언\n구글 클라우드 및 AI 인프라\n\"\n구글 클라우드 매출은 103% 성장했습니다.\n이는 AI 인프라와 AI 솔루션에 대한 막대한 수요에 힘입은 것입니다. 또한 다양한 고객층에서 당사의 TPU 시스템에 대한 강력한 수요가 나타나고 있습니다.\"\n자체 AI 모델 API 처리량\n\"전반적으로 당사의 자체 AI 모델 API는 현재 분당 약 320억 개의 토큰을 처리하고 있으며,\n이는 1년 전 처리량의 4배 이상입니다.\"\n제미나이 및 유튜브 구독자\n\"이와 더불어\n제미나이 앱 이용자 수가 10억 명에 도달했습니다. 이는 구글 역사상 가장 빠르게 성장한 제품이 되었다는 의미\n입니다. 또한 무료 체험 이용자를 포함해 전 세계 유튜브 뮤직 및 유튜브 프리미엄 구독자 수가 1억 5,000만 명을 넘어섰습니다.\"",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-28T20:18:38+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20868",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20868",
-      "text": "마이크로소프트(MSFT) 2027 회계연도 1분기 실적 (시간외 +4.6%)\n1. 주요 실적: 시장 예상치 상회\n매출 923억 달러(예상 906.9억 달러), 전년 대비 19% 증가.\n조정 EPS 4.89달러(예상 4.73달러), 전년 대비 18% 증가.\n영업이익 459억 달러(예상 440.6억 달러), 전년 대비 21% 증가.\n조정 순이익 364억 달러(예상 351.3억 달러).\n2. Azure 및 클라우드 사업\nAzure 매출 332억 달러(예상 323.2억 달러), 전년 대비 48% 증가.\nAzure 환율 영향을 제외한 성장률 48%(예상 45.2%)로 시장 예상 상회.\nAzure 매출 성장률 48%(예상 44.7%)로 시장 예상 상회.\n마이크로소프트 클라우드 매출 639억 달러, 전년 대비 30% 증가.\n상업용 잔여계약이행의무(RPO) 6,770억 달러(예상 7,056억 달러)로 시장 예상 하회.\n3. 에이전트 및 인프라 사업\n매출 768억 달러(예상 756억 달러)로 시장 예상 상회.\n영업이익 406억 달러.\n산업별 솔루션 매출 53억 달러(예상 54억 달러)로 예상 하회.\n4. 디바이스 및 소비자 사업\n매출 155억 달러(예상 150억 달러)로 예상 상회.\n영업이익 54억 달러.\n검색 및 광고 매출 66억 달러(예상 64억 달러).\nXbox 매출 54억 달러(예상 50억 달러), 전년 대비 2% 감소.\nWindows OEM 및 디바이스 매출 36억 달러(예상 35억 달러).\n5. 설비투자 및 재무 현황\n설비투자(CapEx) 394억 달러(예상 465.9억 달러)로 시장 예상 하회.\n매출 대비 설비투자 비율 약 42.7%.\nOpenAI 관련 영향으로 순이익 2억 700만 달러 증가, EPS에 0.03달러 긍정적 기여.\n6. 주주환원\n배당금 및 자사주 매입을 통해 총 102억 달러를 주주에게 환원.\n7. 경영진 발언\n사티아 나델라 CEO\n\"기업들이 자체적인 인공지능 역량을 구축하고 소유할 수 있도록 지원하고, AI 에이전트의 안전성과 보안을 통해 신뢰를 확보함으로써 우리의 혁신을 다양한 산업에서 AI 도입 확대와 실질적인 성과로 연결하고 있습니다.\"\n에이미 후드 CFO\n\"매출, 영업이익, 주당순이익 모두 시장 기대치를 뛰어넘는 실적을 기록했습니다.\"",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-28T20:10:02+00:00"
-    },
-    {
       "id": "tg:globaletfi/22367",
       "source": "telegram",
       "author": "globaletfi",
@@ -183,30 +385,6 @@
       "published_at": "2026-10-28T14:00:14+00:00"
     },
     {
-      "id": "tg:bornlupin/20867",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20867",
-      "text": "씨티(Citi), SK하이닉스, 투자의견 매수(Buy), 목표주가 300만원\n1. 3분기 실적: 메모리 가격 상승과 고부가 제품 확대\n영업이익 83.3조원(+38% QoQ, +632% YoY)\n영업이익률 80%\nDRAM 출하량 +10% QoQ\n서버 DDR5 출하량 +40% 이상 QoQ\nDRAM ASP 20% 후반 상승\nNAND ASP 20% 중반 상승\n환율 역풍에도 범용 DRAM 가격 상승, HBM4 비중 확대, 321단 TLC 및 기업용 SSD 판매 증가가 실적 개선 견인.\n2. 4분기 및 2027년 전망\n4분기 DRAM 출하량 20% 중반 증가 전망\n1c 공정 증설 및 M15X HBM4 생산 확대\nNAND 출하량 5% 안팎 증가 전망\n2027년 출하량 전망\nDRAM 전년 대비 20% 중반 증가\nNAND 전년 대비 10% 후반 증가\n2027~2028년 생산능력의 50% 이상이 장기공급계약(LTA)으로 확보.\n고객과 협의 중인 물량까지 포함하면 DRAM과 HBM은 사실상 2029년까지 판매 물량이 확보된 것으로 평가.\n현재 고객 주문 요청량은 공급 가능 물량의 2배 이상.\n일부 HBM 규격 관련 문제는 다이당 용량 확대를 통해 상당 부분 상쇄 가능.\n3. 2026년 약 100조원 규모 주주환원 계획\n현금배당 약 30조원\n자사주 매입·소각 약 60조원(기존 40조원 포함)\n3분기 배당 약 14조원, 주당 2만원\n키옥시아 투자이익 활용 특별배당 주당 1만원 포함\n추가 자사주 매입 20조원 발표.\n10조원 소각 예정\n10조원 임직원 보상 활용(주주환원 제외)\n경영진은 현재 주가가 이익 창출력과 현금흐름 대비 저평가되어 있다고 판단하며 분기별 자사주 매입 지속 계획.\n4. 씨티, 이익 전망 대폭 상향\n4분기 영업이익 전망 89.8조원 → 107조원(+19%)\n2026년 연간 영업이익 추정치 +7% 상향\n2027년 연간 영업이익 추정치 +12% 상향\n4분기 추가 주주환원 약 35조원 예상.\n자사주 매입 약 15조원\n현금배당 약 20조원\n5. 2026~2028년 실적 및 밸류에이션\n2026년\n순이익 256.1조원\nEPS 351,844원\nPER 3.8배 / ROE 106%\n2027년\n순이익 344.1조원(+34.4%)\nEPS 472,729원\nPER 2.8배 / ROE 64.2%\n2028년\n순이익 395.8조원(+15.0%)\nEPS 543,672원\nPER 2.5배 / ROE 44.2%\n고객 주문량이 가용 공급의 2배를 초과하고, DRAM·HBM 물량이 사실상 2029년까지 확보된 상황. 강력한 실적 성장과 약 100조원 규모 주주환원에도 2027년 예상 PER은 2.8배 수준.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-28T13:08:25+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20866",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20866",
-      "text": "버티브(\n$VRT\n) 2026년 3분기 실적\n(장전 +15.3%)\n1. 3분기 실적: 시장 예상 대폭 상회\n매출 43.13억 달러, 전년 대비 61% 증가(예상 37.6억 달러).\n조정 EPS 2.21달러, 전년 대비 78% 증가(예상 1.83달러).\n조정 영업이익 10.87억 달러, 전년 대비 83% 증가.\n조정 영업이익률 25.2%, 전년 대비 2.9%p 상승.\n유기적 매출 성장률 55%.\n유기적 신규 수주 전년 대비 100% 이상 증가.\n지역별 매출 성장률은 미주 75%, 아시아태평양 50%, 유럽·중동·아프리카 23%. 전 지역에서 성장세 지속.\n2. 2026년 연간 가이던스 대폭 상향\n매출 144.5억~148.5억 달러, 중간값 기준 전년 대비 43% 증가.\n조정 EPS 7.10~7.20달러, 중간값 기준 전년 대비 70% 증가.\n조정 영업이익 34.75억~35.55억 달러, 전년 대비 약 68% 증가.\n조정 영업이익률 23.5~24.5%, 전년 대비 약 3.6%p 상승.\n조정 잉여현금흐름 26억~28억 달러, 전년 대비 약 43% 증가.\n기존 전망 대비 매출 6.5억 달러, EPS 0.45달러, 영업이익 1.9억 달러, 잉여현금흐름 2억 달러 상향.\n2026년 유기적 매출 성장률 약 38% 전망.\n3. 4분기 가이던스\n매출 43.13억~45.13억 달러, 중간값 기준 전년 대비 53% 증가.\n조정 EPS 2.22~2.28달러, 전년 대비 65% 증가.\n조정 영업이익률 25.3~26.3%.\n4분기 유기적 매출 성장률 약 50% 전망.\n4. 현금흐름 및 AI 인프라 사업\n3분기 영업현금흐름 7.94억 달러, 전년 대비 64% 증가.\n조정 잉여현금흐름 6.52억 달러, 전년 대비 50% 증가.\n순현금 상태로 재무건전성 양호.\n엔비디아 DSX 기반 AI 팩토리 구축 협업 확대.\n디지털 트윈과 사전 제작 방식으로 설계·구축 기간을 단축하고, 첫 12개월 누적 AI 토큰 생산량을 최대 30% 늘리는 것을 목표로 제시(모델 기반 추정).\nSGC에너지·KT클라우드와 군산 AI 데이터센터 구축 협력.\nUtilityInnovation Group 인수로 마이크로그리드·전력 제어 역량 강화. 유럽 유체 관리·부하 시험 사업도 확대.\n5. 2027년 전망\n경영진은 글로벌 다년간 GW급 AI 데이터센터 건설 확대와 AI 연산 수요 가속을 예상.\n2027년에도 시장 평균을 웃도는 유기적 매출 성장과 영업이익률 추가 개선을 전망.\n전 지역에서 수주 파이프라인이 증가하면서 2027년 이후 매출 가시성 확대.\n생산시설 증설, 공급망 확대, 차세대 전력·냉각 기술 투자를 지속할 계획.\n-신규 수주 100% 이상 증가, 유기적 매출 55% 성장, 영업이익 83% 증가, 연간 가이던스 전면 상향.\n-AI 데이터센터 전력·냉각 인프라 수요가 폭발적으로 증가하면서 매출 성장과 수익성 개선이 동시에 진행되고 있으며, 회사는 이러한 성장 모멘텀이 2027년 이후에도 지속될 것으로 전망.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-28T12:41:53+00:00"
-    },
-    {
       "id": "tg:HI_GS/7313",
       "source": "telegram",
       "author": "HI_GS",
@@ -221,18 +399,6 @@
       "published_at": "2026-10-28T12:34:10+00:00"
     },
     {
-      "id": "tg:bornlupin/20865",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20865",
-      "text": "JP모건, SK하이닉스, 투자의견 비중확대(Overweight), 목표주가 275만원\n3Q26 실적 분석\n1. 3분기 실적: 시장 예상 상회\n• 매출 104.6조원(+32% QoQ, +328% YoY). 컨센서스 7% 상회, JP모건 추정치 11% 상회.\n• 영업이익 83.3조원(+38% QoQ, +632% YoY). 컨센서스 9% 상회, JP모건 추정치 16% 상회.\n• 영업이익률 79.7%.\n• 세전이익 50.7조원(컨센서스 33% 하회), 순이익 39.5조원(35% 하회).\n• 순이익 부진은 환율 관련 손실 11.6조원과 키옥시아 투자자산 평가손실 추정 22.9조원 영향.\n2. DRAM·NAND 가격 상승과 4분기 출하 확대\n• 3분기 DRAM ASP 전분기 대비 20%대 후반 상승(JP모건 예상 +20%).\n• NAND ASP 20%대 중반 상승(예상 +12%).\n• DRAM 출하량 약 10% 증가, NAND 출하량 소폭 감소.\n• 4분기 DRAM 비트 출하량 20%대 중반 증가 전망(JP모건 예상 +4%).\n• NAND 비트 출하량 한 자릿수 중반 증가 전망.\n• 1cnm 공정 확대, M15X 생산능력 증설, 321단 기반 기업용 SSD 판매 증가가 성장 동력.\n3. HBM4 본격 확대 및 2030년까지 공급 부족\n• M15X 생산능력 확대를 가속화해 2026년 말까지 최대 생산능력 도달 목표.\n• 4분기 HBM4가 HBM3E를 비트 출하량과 매출 비중 모두에서 넘어설 전망.\n• 2027년 HBM 공급 가격 협상 완료. 기존 범용 DRAM과 HBM 간 수익성 격차가 상당히 축소될 것으로 예상.\n• 서버용 1cnm DDR5 및 LPDDR5 SOCAMM 판매 확대.\n• 4분기 국내 NAND 생산능력 중 321단 비중 50% 이상으로 확대 전망.\n• SK하이닉스는 메모리 수요가 2030년까지 공급을 초과할 것이라는 기존 전망을 재확인.\n4. 총 100조원 규모 주주환원 발표\n• 2026년 예상 주주환원 규모 100조원. 시장 예상 약 40조원을 크게 상회.\n• 자사주 매입 60조원, 배당 40조원으로 구성.\n• 예상 잉여현금흐름 대비 주주환원율 65% 이상.\n• 3분기 주당 배당금(DPS) 2만원. 본업 관련 1만원과 키옥시아 지분 매각 관련 1만원으로 구성.\n• 키옥시아 지분 매각 이익 대부분을 연말 특별배당에 활용할 계획.\n• 이날 별도로 20조원 자사주 매입 발표. 주주환원용 10조원, 성과연동 주식보상(PSU)용 10조원.\n5. 장기 공급계약 및 설비투자\n• 글로벌 주요 클라우드 사업자(CSP)를 포함한 핵심 고객 14곳과 장기공급계약(LTA) 체결.\n• 2027년과 2028년 전체 생산능력의 50% 이상에 해당하는 물량을 장기계약으로 확보.\n• 3분기 설비투자 12.7조원, 1~3분기 누적 31조원.\n• 2026년 연간 설비투자 예상 47조원. 주요 투자처는 용인 클러스터 인프라와 M15X 증설.\n• 경영진은 2027년 설비투자가 2026년 대비 상당히 증가할 것으로 예상.\n• 순차입금/자기자본 비율은 2분기 -26%에서 3분기 -32%로 개선.\n6.  JP모건 전망 및 예상 주가 반응\n• 향후 12~24개월 메모리 수급 환경이 우호적으로 유지될 것으로 전망.\n• 3분기 실적 서프라이즈를 반영해 시장의 실적 추정치가 상향 조정될 것으로 예상.\n• 2027년 HBM 공급가격, 장기계약과 비장기계약의 매출 비중, 추가 가격 인상 폭이 향후 EPS 상향의 핵심 변수.\n• 실적 발표 전에는 환율 손실과 순이익 부진 우려로 투자심리가 부정적이었으나,\n영업이익 서프라이즈와 대규모 주주환원 발표가 투자심리를 다시 긍정적으로 전환시킬 것으로 예상.\n-\n메모리 가격 상승, 예상보다 강한 출하량, HBM4 확대, 장기공급계약 확보가 실적 상향을 뒷받침하고 있으며, 2030년까지 이어지는 구조적 공급 부족 전망과 대규모 주주환원이 긍정적인 투자 근거.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-28T12:28:03+00:00"
-    },
-    {
       "id": "tg:globaletfi/22362",
       "source": "telegram",
       "author": "globaletfi",
@@ -243,32 +409,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-10-28T11:33:40+00:00"
-    },
-    {
-      "id": "tg:globaletfi/22361",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/22361",
-      "text": "» 10월 FOMC의 금리동결 확률은 90.6% 수준으로 반영 중. 12월은 인상 확률이 84.3% [CME FedWatch]\n» 한국 시간 기준 29일(목) 새벽 3시에 금리결정과 성명서 내용을 확인하고, 3시30분부터 기자회견이 진행될 예정",
-      "images": [
-        "https://cdn5.telesco.pe/file/NsponBeAft37kgDujQDFYIWTNfYNWs8BYXO80XH5KC0if5_q7qUOm-zTZ8yQPg7A1V7QD68_OJUq42NQLg0b9ZNxJ3dc-S8SXMFLnY_5oOcIUYbyQAigp3mDaKmkrO9xMgbXP2XK9SFi3ltETMaXZbvAP-EXxNNAxH4s2ZSknoWGuV_uMpbF0S_4gcFLT3mNLyBRbJLroZOB08zofEQw1lAFtpGf3duZEviqwb8EZmENeSQSf9JK17ATT6aL4LnK-wSrawNq4eNxuVstnLMMnlfl3NDQMOPGkwrEYcY1lLlxoy2FceoeMQktlnvzFgh1ZhC5wMA6bqzOw8K6QiDzCQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-28T08:17:25+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20864",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20864",
-      "text": "협상 상황을 보고받은 관계자에 따르면, 카타르 중재단은 일요일 테헤란에서\n이란 측에 새로운 합의안 초안을 제시했다.\n이란은 현재 해당 제안을 검토 중이며, 이번 주말까지 이란 측의 답변이 나올 것으로 예상된다.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-28T08:15:12+00:00"
     },
     {
       "id": "tg:enc210406/4570",
@@ -333,32 +473,6 @@
       "published_at": "2026-10-28T07:58:28+00:00"
     },
     {
-      "id": "tg:globaletfi/22360",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/22360",
-      "text": "[Wedbush X HANA] 인텔(INTC): 경쟁력 회복에 대한 추가 검증 필요\n▶\n하나증권 Global ETF 장치영(T.3771-3669)\n▶\n자료:\nhttps://buly.kr/28wRj9w\n▶\n텔레그램:\nhttps://t.me/hana_globaletf\n★ 3분기 서버 CPU 중심의 실적 서프라이즈 기대\n» 서버 CPU 공급 여건 개선에 힘입어 가이던스 및 시장 컨센서스 상회 가능성. 다만 PC 출하량 감소와 부품 원가 상승으로 실적 상회 폭은 전분기 대비 축소될 전망\n★ 4분기 가이던스 및 2027년 사업 전망에 주목\n» 서버 CPU 매출 비중 확대에 따른 수익성 개선 여부와 2027년 설비투자 계획이 주요 관심사. 제조 공정 및 제품 설계 경쟁력 회복을 확인하기 위해서는 구조적인 매출총이익률 개선이 필요하다는 판단\n» 투자의견: NEUTRAL, 목표주가: $98\n(위 문자의 내용은 컴플라이언스의 승인을 득하였음)",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-28T07:47:43+00:00"
-    },
-    {
-      "id": "tg:globaletfi/22359",
-      "source": "telegram",
-      "author": "globaletfi",
-      "author_name": "[하나 Global ETF] 박승진",
-      "author_url": "https://t.me/globaletfi",
-      "url": "https://t.me/globaletfi/22359",
-      "text": "» 주요 네오클라우드 기업들의 회사채 스프레드 역시 일단 고점에서 반락 중",
-      "images": [
-        "https://cdn5.telesco.pe/file/RdX45_MoZFdPPzg0YoJjA5rnLJTk4lZnW-VOYuDs1y-Ootg8VNOQsHLAbKjNp9_5VAYJ99jCY2KGjRjgHAaTw01DX_I5fku-3uSsB3BdvlVYky8ULLNhB1RAnl566prkmI7dbFQODp0Z6Dk_JL_SQ0S95jHrj6fZ-mRgIWUmyFMT8eTFL3PZWzByXwqLJXO1dP62NeuG_Ve1jVyJFDGEkAVphQibBnU3XvtsA5wdfanM20P-w4-Ef6mKB69nufdvBD6yo_B9SfhBbni9_quViHdtJ7cjBt3E8-ymXvAn4vLcvObi-EF9bsGrhkJlahaHrYl3UCPNujXoqHPVEgiZJg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-28T07:30:53+00:00"
-    },
-    {
       "id": "tg:HI_GS/7311",
       "source": "telegram",
       "author": "HI_GS",
@@ -386,32 +500,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-10-28T06:43:28+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20863",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20863",
-      "text": "중국 CXMT, 낮은 수율에도 첨단 AI 메모리 생산 착수 예정 — 소식통\n1. CXMT, HBM3E 수율 20~30%에도 생산 추진\n- 중국 최대 DRAM 제조업체 CXMT(창신메모리)가 첨단 AI용 고대역폭메모리인 HBM3E 생산을 시작할 계획이라고 복수의 소식통이 밝힘.\n- 현재 CXMT의 HBM3E 수율은 20~30%에 불과하며, SK하이닉스의 약 70%와 큰 격차.\n- CXMT는 이미 중국 내 여러 AI 반도체 설계업체에 HBM3E 샘플을 공급했으며, 향후 2개월 내 제한적인 생산을 시작할 전망.\n- 중국의 심각한 AI 메모리 부족으로 낮은 수율과 높은 제조원가를 감수하면서도 생산을 추진하는 상황.\n2. HBM3E 성능은 SK하이닉스의 이전 세대 HBM3 수준\n- 소식통에 따르면 CXMT의 HBM3E는 테스트에서 SK하이닉스 HBM3E보다 이전 세대인 HBM3에 가까운 성능을 보임.\n- CXMT는 고객사에 두 종류의 HBM3E 샘플을 공급.\n- 표준 설계 제품\n- 수율 개선을 위해 설계를 변경한 제품\n- CXMT는 2024년부터 HBM3E 기술을 자체 개발해 온 것으로 알려짐.\n- CXMT의 HBM3E 제조원가는 해외 경쟁사 제품보다 높을 것으로 예상.\n3. 중국 AI 반도체 업체들의 심각한 HBM 부족\n- 미국은 2024년 12월 중국으로 향하는 일부 첨단 HBM 제품에 대한 수출 규제를 강화.\n- 중국 반도체 업체들은 비공식 유통망을 통해 HBM을 확보하고 있으며, 이 과정에서 정상 가격의 몇 배에 달하는 비용을 지불하는 사례도 발생.\n-\n화웨이, 캠브리콘, MetaX, Iluvatar CoreX 등 중국 AI 반도체 업체들은 메모리 비용 상승과 생산 확대의 어려움으로 현세대 및 차세대 AI 반도체 가격을 20~50% 인상한 것으로 지난달 보도됨.\n- 중국 정부가 엔비디아 AI 반도체를 대체할 국산 제품 개발을 추진하면서 첨단 HBM 확보가 핵심 과제로 부상.\n4. 글로벌 HBM 시장은 SK하이닉스·삼성전자·마이크론이 장악\n카운터포인트리서치에 따르면 2026년 2분기 글로벌 HBM 매출 점유율은 다음과 같음.\n- SK하이닉스: 50%\n- 삼성전자: 33%\n- 마이크론: 18%\n대부분의 HBM 매출은 HBM3E 제품에서 발생.\n반면 CXMT는 글로벌 일반 DRAM 시장에서 매출 기준 점유율 10%를 확보해 세계 4위 업체로 성장했지만,\n첨단 HBM에서는 여전히 상당한 기술 격차가 존재.\n미국의 첨단 반도체 제조장비 수출 규제 역시 CXMT의 기술 추격을 어렵게 만드는 요인.\n5. 삼성전자는 이미 HBM4E 샘플 공급 단계\n- 삼성전자는 지난 7월 HBM4 판매를 확대하고 주요 고객사에 HBM4E 샘플을 공급했다고 발표.\n- 반면 CXMT는 아직 HBM3E의 제한적인 생산을 준비하는 단계.\n-\nCXMT는 상용 HBM 생산에서 삼성전자 등 글로벌 선두 업체보다 최소 한 세대 뒤처진 상황.\nhttps://www.reuters.com/world/china/chinas-cxmt-start-advanced-ai-memory-production-despite-poor-yields-sources-say-2026-10-28/?taid=6ae18abaf24b6b00016cedbd&utm_campaign=trueAnthem:+Trending+Content&utm_medium=trueAnthem&utm_source=twitter",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-28T06:18:40+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20862",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20862",
-      "text": "실제 GPU 임대 가격 동향: 온디맨드 계약은 장기 계약 대비 상당한 프리미엄 형성\n전문가 의견에 따르면,\nB200/B300 GPU 임대 가격은 2026년 2분기 대비 최소 20%, 약 25% 상승한 것으로 추정된다.\n- B200/B300: 2026년 2분기 대비 임대 가격 최소 20%, 최대 약 25% 상승 추정.\n- H100/H200: 시간당 GPU 1개 기준 임대 가격은 2달러에서 3달러 이상.\n-\n온디맨드(현물·수시 이용) 계약: 장기 계약 고객에게 적용되는 가격보다 상당히 높은 프리미엄이 형성됨.\nhttps://x.com/pequityresearch/status/2115298232465035348?a=2DwHfctOMopXar7XbBE&s=20",
-      "images": [
-        "https://cdn5.telesco.pe/file/kMprpLlSfdJdyWMDIYJriXXOucvxvqicr99eBX4iqfc_2_UhN5AOnWRTXiPJ87oaOHnb0ido0WbPS0TlKN4sDoEb3q6gcIT8_eW68dHKE95xmAHQF3fVii8Kx0ML-pjcKewKY6tAx0Ig3bRX1X_qvIUQ82eUxlkkgL5EKV8B5Gl0qUFjdn71rHwh8dc6GrJmNzFk8qF9ab2kO3n2YaW1V5atr_2jaUQTsmZmldciux4nxqbA7tmB97g95M_7FL09fjfDx0Q1bSiHXc0IPMmJd1Yh41jBSQnCs9h3I-CNUFdXL1OLC7vP6NNjvrZCPjC2GzWu0zcfQoImPGE0DK6NlQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-28T06:12:28+00:00"
     },
     {
       "id": "tg:enc210406/4565",
@@ -537,97 +625,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-10-28T04:21:00+00:00"
-    },
-    {
-      "id": "tg:enc210406/4556",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "건설/조선/리츠 | 강경태 | 한국투자증권",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4556",
-      "text": "[HD현대중공업 3Q26 잠정 실적 공시]\n컨센서스 대비\n@ 매출액: 8.7% 하회\n@ 영업이익: 9.4% 하회",
-      "images": [
-        "https://cdn5.telesco.pe/file/t38MWLaY_-kL_zAVDkbWEVpk69eck7SEXoTGXNaffMOioJeyOdlORB5nIPsV2m5FWF3-XXq8Llk3VJrszsFvfm0RTz3g09U3RKJxBTzeaQ4NYBsWy2hM_Xwp7l84gYYkpjzSravJM4ngnB6qKWqQ4ubkETAK7vKg-QYopeY2_6EcOTmRPQdTIyqY4nR8QRs5ohDl2exYhifuugqDTJLZlcOQnVhWoKwLO3_emPK0R81KMn7wxjx8NchcpwLZo8xgoU3foFq_qVs8aPlpB5BiuYtuXcBITtueniRfEeE0r03F96cn1sWsMgm69pe0Oz04Ef81b7LvBWKgSHq0xTCAwQ.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-28T04:19:02+00:00"
-    },
-    {
-      "id": "tg:HI_GS/7304",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/7304",
-      "text": "2026.10.28 13:15:12\n기업명: HD현대마린엔진(시가총액: 1조 2,415억) A071970\n보고서명: 연결재무제표기준영업(잠정)실적(공정공시)\n매출액 : 2,114억(예상치 : 1,634억+/ 29%)\n영업익 : 603억(예상치 : 404억/ +49%)\n순이익 : 465억(예상치 : 291억+/ 60%)\n**최근 실적 추이**\n2026.3Q 2,114억/ 603억/ 465억\n2026.2Q 1,281억/ 313억/ 319억\n2026.1Q 1,335억/ 326억/ 281억\n2025.4Q 1,110억/ 279억/ 1,121억\n2025.3Q 1,092억/ 203억/ 226억\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800200\n종목공시 :\nhttps://www.awakeplus.co.kr/disclosure/071970",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-28T04:18:44+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20861",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20861",
-      "text": "GF Securities - SK하이닉스(SK Hynix) 2026년 3분기 실적\n1. 3분기 실적 예상 상회\n매출액: 104.62조 원\nQoQ +32%, YoY +328%\n시장 예상치 98.96조 원 상회\n영업이익: 83.33조 원\nQoQ +38%, YoY +632%\n바이사이드 예상치 80조 원 상회\n매출총이익률(GPM): 85.7%\nQoQ +2.5%p\n영업이익률(OPM): 79.7%\nQoQ +3.4%p\n우호적인 메모리 가격 환경에 힘입어 두 수익성 지표 모두 예상치 상회\n순이익: 39.78조 원\n환율 및 투자수익 영향 32.63조 원 반영\n2. 제품별 실적 및 전망\n① DRAM\n매출 78.5조 원, 전체 매출의 75%\n비트 출하량 QoQ +10%\n평균판매가격(ASP) QoQ 20%대 후반 상승\n4분기 비트 출하량 가이던스: QoQ 20%대 중반 증가\n② NAND\n매출 25.1조 원, 전체 매출의 24%\n비트 출하량 소폭 감소\nASP QoQ 20%대 중반 상승\n4분기 비트 출하량 가이던스: QoQ 한 자릿수 중반 증가\n③ HBM\n4분기 HBM4 출하량과 매출이 HBM3E를 모두 추월할 전망\nHBM4가 주력 출하 제품으로 전환\n2027년 주요 고객사와 HBM 공급 물량 및 가격 계약 체결 완료\n2027년 HBM 계약가격은 전년 대비 큰 폭으로 인상\nHBM과 일반 DRAM 간 매출총이익률 격차 축소\nHBM3E와 HBM4 모두 수율이 예상치를 상회\n3. 대규모 주주환원 정책\n2026 회계연도 기준 약 100조 원 규모의 주주환원 추진\n① 주주환원 구성\n현금배당 30조 원 이상\n자사주 매입 및 소각 총 60조 원 이상\n지난 8월 발표한 40조 원 규모의 자사주 매입도 포함\n8월 발표된 자사주 40조 원 매입은 지난주 완료됐으며 조만간 소각 예정\n② 3분기 주주환원\n현금배당 14조 원\n자사주 매입 20조 원\n10조 원: 자사주 매입 및 소각\n10조 원: 임직원 성과보상용으로 주주환원 규모에서 제외\n③ 주당 배당금 20,000원\n실적 개선에 따른 배당금 10,000원\n키옥시아 투자 관련 특별배당 10,000원\n올해 키옥시아 투자로 실현한 이익 대부분을 주주에게 환원하기로 결정\n④ 향후 주주환원 원칙\n배당 규모는 실적에 따라 결정\n대규모 투자수익은 특별배당을 통해 주주에게 환원\n자사주 매입은 매 분기 시행\n4. 메모리 수급 및 장기계약\n① 메모리 공급 부족 장기화\n글로벌 메모리 수급 불균형은 2030년까지 지속될 전망\nDRAM과 HBM 생산능력은 2029년까지 이미 완판\n2027년 공급 가능한 DRAM 비트 수요 증가율: YoY 20%대 중반\n2027년 공급 가능한 NAND 비트 수요 증가율: YoY 10%대 후반\n② 장기공급계약(LTA)\n현재까지 누적 14건의 장기공급계약 체결\n주요 클라우드 서비스 제공업체(CSP) 포함\n2027~2028년 생산능력의 50% 이상을 장기계약으로 확보\n표준 계약기간은 5년\n현재 계약기간 연장 논의 진행 중\n5. 설비투자(CapEx) 전망\n2027년 설비투자는 2026년 대비 뚜렷하게 증가할 전망\n주요 투자 대상은 첨단 공정과 Y1 생산시설의 생산 확대에 필요한 장비\n차세대 공정 전환과 생산능력 확충을 위한 설비투자가 중심\n6. GF Securities (Hong Kong) 평가\n실적 발표 이후 시간외 주가 +8% 상승\n주요 상승 요인은 예상치를 웃도는 3분기 실적과 적극적인 주주환원 정책.\nGF Securities는\n메모리 산업의 장기적인 상승 사이클에 투자하는 듀레이션 트레이드(Duration Trade)를 여전히 긍정적으로 평가.\n실적 발표 이후 메모리 섹터로의 자금 유입이 개선되고, 시장의 비관적인 투자심리도 완화될 것으로 전망.\nhttps://x.com/sssjeffpu/status/2115275833510359229?a=tiGUEhPCn689Vd2U2aM&s=20",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-28T03:16:41+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20860",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20860",
-      "text": "2026.10.28 11:58:27\n기업명: 삼성전기(시가총액: 98조 2,969억) A009150\n보고서명: 연결재무제표기준영업(잠정)실적(공정공시)\n매출액 : 37,633억(예상치 : 38,072억/ -1%)\n영업익 : 6,910억(예상치 : 6,420억/ +8%)\n순이익 : 4,687억(예상치 : 5,242억/ -11%)\n**최근 실적 추이**\n2026.3Q 37,633억/ 6,910억/ 4,687억\n2026.2Q 34,572억/ 4,404억/ 3,283억\n2026.1Q 32,091억/ 2,806억/ 2,527억\n2025.4Q 29,021억/ 2,395억/ 2,273억\n2025.3Q 28,890억/ 2,603억/ 2,249억\n공시링크:\nhttps://dart.fss.or.kr/dsaf001/main.do?rcpNo=20261028800169\n종목공시 :\nhttps://www.awakeplus.co.kr/disclosure/009150",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-28T02:58:54+00:00"
-    },
-    {
-      "id": "tg:HI_GS/7302",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/7302",
-      "text": "[GS\n🎴\n조선·방산·건기] 수급 브리핑 10/28(수) 11:33\n외국인·기관 순매수 · 21종목 · 5일 합산 억원 · 오늘 잠정(가집계 11:20) 포함\n📈\n사는 쪽 · 시총 대비 5일\n· LIG D&A +0.5% · 외인 +960 · 기관 -432 · 외인 6일째 순매수\n· 한국카본 +0.4% · 외인 +38 · 기관 -6 · 외인 6일째 순매수 · 기관 9일째 순매도\n· 태광 +0.3% · 외인 +1 · 기관 +20 · 기관 12일째 순매수\n📉\n파는 쪽 · 시총 대비 5일\n· HD건설기계 -0.5% · 외인 -45 · 기관 -141\n· 한화오션 -0.1% · 외인 +187 · 기관 -308\n· HD현대중공업 -0.1% · 외인 -102 · 기관 -70\n오늘(잠정): 한화오션 외인 -202 · HD현대중공업 외인 -92 · HD현대마린솔루션 외인 +64\n⚙️\n기계적 수급 (ETF/패시브)\n· 대한조선 패시브 순매도 미미 · ADV -2.4%\n· 삼성중공업 패시브 순매도 미미 · ADV -1.2%\nhttps://gs-research-desk.github.io/coverage_flow_report.html",
-      "images": [
-        "https://cdn5.telesco.pe/file/HII7B3fuk9K1LUC1YQmJBFp-eR9XT1tp-l-gfE01j2grrZ1lRYVGQ8VIVjD0UgQq91tCD7Pruk9Cu9rli8mgzBne-g49vR_svWaT-aE0bgoCBPeFzQXECEjFAK5q_Qtecxy-ShRvJdukcCgOqVygeIQ43BG0IE15coMm1kUTthFi3WIy1dptIIRsz9YatEqCej56FmJ_DTrNAG6QiTJ4oJeS9bPY4EpNczyMBRWSABB9bPwworl1pI4l3u2vI7Bqnc78HnOaJq54UdabuoRPx6wKUbxAyxTDlRs2I4m0B9sNdnw5I2breUSOdJuRC-TGyZGiDtkE0swxhiqdCEYQbA.jpg",
-        "https://cdn5.telesco.pe/file/Aktxzw3cyH3OYIWlHS8FslNTRpAnmqP4LXl_DT2-PrdRa-AtEMzM7Q4Ct93lHW0enJkDk1bxzZZwlGyD3lUoeRq6v-cvxX1xklRf5tdrjkkGMyCZ6nnLDTCkKihXpA6m2VQS5-12Q8xhjTxHIml2dctbhO5AQ2pyTEG8S1T0MMmpiC4OJ6bK0L8dpQ0QYjU09FVh2V6kHn3vFUzLxW9WJRYx2vN_R39tthTGNvM2xYPe3A-h-F2uV6AifcaJ4rj3LyDPpj2lfSMkd0Wepm-AmpwkFWc7NRLfgL67phrfwcesoQX5RZaoj8HM1tVAtiUQcBek0VqahWICovTw-DTS-A.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-28T02:37:24+00:00"
-    },
-    {
-      "id": "tg:HI_GS/7301",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/7301",
-      "text": "[다올투자증권 조선/기계/방산 최광식]\n10/28(수) 데일리뉴스\n🛳\n조선\n[TradeWinds]\nSouth Korean liner player tied to $356m order for its biggest container ships yet\nHanwha Ocean expects key orders will flip to VLCC and container ships\nAustal gives Hanwha more time to table binding bid for US yard\nKorean shipbuilders face a costly catch in Western naval rearmament\n[Upstream]\nSeatrium and Karpowership eye joint venture for floating solutions\nMiddle East contractor confirms $763 million Saudi Aramco offshore awards\nChinese contractor lands another SBM job\nNoble to offload sixth-generation drillship for $38 million\n🚢\n조선\n양대 조선 노사, 임단협 마무리 수순… HD현대중 타결, 한화오션 합의안 도출\nhttps://tinyurl.com/287kbmxn\n한화오션, 3분기 영업익 4857억원…고선가 선박 효과에 68% 증가\nhttps://tinyurl.com/2akgd6su\n한화오션 ”거제서 초도선•美서 후속선…브리지 전략 활용“\nhttps://tinyurl.com/295fuuek\nHD현대, SDV센터 신설… ’스마트 선박‘ 띄운다\nhttps://buly.kr/2qbTYBG\n🚀\n방산\n한화시스템, 방산 수출 힘입어 3분기 영업이익 61% 증가(종합)\nhttps://tinyurl.com/2azblvgg\n조선 덜어낸 한화시스템, 우주에 23조 투자 ’올인‘\nhttps://buly.kr/5qAME3u\n한화, 美 상원 군사보좌관 출신 로비스트 기용\nhttps://buly.kr/FhQn9kh\n방사청•지재처, 방산 수출부터 국방R&D까지 지식재산 협력 강화\nhttps://tinyurl.com/26qtauqs\n[르포] KF-21 날개 아래 국산 소재의 꿈…KAI, ‘K-방산 자립’ 승부수\nhttps://tinyurl.com/2d5323zf\n* 위 내용은 보도된 사실의 단순요약으로 별도의 컴플라이언스 절차 없이 제공됩니다",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-28T00:05:39+00:00"
-    },
-    {
-      "id": "tg:HI_GS/7300",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/7300",
-      "text": "📡\n#한화시스템\n「조선 투자 회수가, 위성 투자의 시작」\n☞\nhttps://bit.ly/HS3Q26RE\n▶️\nIssue: 3Q26 리뷰, 적정주가 하향\n▶️\nPitch:\n> 3Q26 서프라이즈이지만 감익,\n> 4Q는 개발비에 따라 또 방산 감익 가능성\n- 개발비는 작년 300억원, 올해 3배 안팎 증가. 3분기까지 누적 380억원 지출. 산수 필요\n> 단기 주가는 UAE 통합대공망 체계종합 수주에 달려있고,\n> 중장기 기회이자 리스크가 위성사업 투자(20조원)\n- 수익화 vs. 자본조달 지켜보자는 판단\n> 적정주가 73,000원: 기존 11.8만원에서 한화오션 지분가치, 필리 적정가치 제외한 수준\n▶️\nRationale: 보고서 참조\n—————————————————————\n🎴\n조선/기계/방산 | 최광식 | DAOL투자증권\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n✅\n컴플라이언스 승인을 득한 보고서입니다.\n—————————————————————",
-      "images": [
-        "https://cdn5.telesco.pe/file/M4MH2kkZeg2WAqCBEfe7ss7bw461O39dnr7MC0HAMgq9JHAu3ofiGfaESfOXCU-JNOvwFRinPSvT_unqYuy_ox4_Z6oeuNUgoW3Y9yr8UqchQAPfcnSSYRMblxni2-EbywSoHWXsKGUPrE4xiPIIsuqGHORYh8Meik5OQ4yVjH2QkwpcC8x8E3KdU8ervx68RPtheacpJ9fFCUAM_tJCFXvAJ2sfyTkdrW4yOj3JycUEgBlX-LE1wigNLLeOV6qTDWvssePY9Z-LGJst5qGWyXhV1xfEtu5agd6RkTcVOa1avZpms5ZUPOJE9qrSkQnGm71lEpzcfZ8E9i4cfkonEw.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-27T22:33:06+00:00"
     },
     {
       "id": "tg:aetherjapanresearch/26057",
