@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-01T15:48:43+00:00",
+  "updated_at": "2026-11-01T20:15:34+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 9
+    "new_this_run": 1
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,20 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "rss:semianalysis:the-datacenter-backlash-goes-bipartisan",
+      "source": "rss",
+      "author": "semianalysis",
+      "author_name": "SemiAnalysis",
+      "author_url": "https://semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/the-datacenter-backlash-goes-bipartisan",
+      "text": "The Datacenter Backlash Goes Bipartisan: Next Week's Midterms and the 2028 Buildout\n\n2027 is largely locked in. 2028 is less secure: a prolonged Texas permit freeze is now the biggest single risk to the US buildout, and both parties are running on tighter rules",
+      "images": [
+        "https://substack-post-media.s3.amazonaws.com/public/images/09f1af6b-128e-41d1-b506-04c922785f9e_2752x1536.jpeg"
+      ],
+      "summary_ko": "데이터 센터 반발이 초당적으로 진행됨: 다음 주의 중간고사 및 2028년 구축\n\n2027년은 대체로 고정되어 있습니다. 2028년은 덜 안전합니다. 장기간의 텍사스 허가 동결은 이제 미국 건설에 대한 가장 큰 단일 위험이며 양 당사자는 더 엄격한 규칙을 적용하고 있습니다.",
+      "published_at": "2026-11-01T18:40:45+00:00"
+    },
     {
       "id": "tg:HI_GS/7335",
       "source": "telegram",
@@ -945,20 +959,6 @@
       ],
       "summary_ko": "",
       "published_at": "2026-09-21T18:14:15+00:00"
-    },
-    {
-      "id": "rss:semianalysis:engrams-embedding-entendre-codesign",
-      "source": "rss",
-      "author": "semianalysis",
-      "author_name": "SemiAnalysis",
-      "author_url": "https://semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/engrams-embedding-entendre-codesign",
-      "text": "Engrams Embedding Entendre: Codesign for Efficient DRAM/SSD Offloading\n\nNew Model Architecture Implications for TAM of DRAM/NVMe, DeepSeek V4.1 Flash, AgentX, InferenceX, NVMe experiments",
-      "images": [
-        "https://substack-post-media.s3.amazonaws.com/public/images/32927bec-0019-418f-9d4b-2d34e397f805_1536x1024.png"
-      ],
-      "summary_ko": "Engrams Embedding Entendre: 효율적인 DRAM/SSD 오프로딩을 위한 공동 설계\n\nDRAM/NVMe의 TAM, DeepSeek V4.1 플래시, AgentX, InferenceX, NVMe 실험에 대한 새로운 모델 아키텍처의 의미",
-      "published_at": "2026-09-18T14:34:20+00:00"
     },
     {
       "id": "x:ylecun:2090600582805430353",
