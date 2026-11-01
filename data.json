@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-10-31T22:14:25+00:00",
+  "updated_at": "2026-11-01T01:53:57+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 0
+    "new_this_run": 4
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,69 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "tg:bornlupin/20924",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20924",
+      "text": "한국의 반도체 주도 수출 가속화, 연간 1조 달러 목표에 한 걸음 더 근접 - WSJ\n한국의 반도체 주도 수출 성장세가 10월 들어 예상보다 훨씬 빠른 속도로 가속화되면서, 사상 초유의 연간 수출 1조 달러 목표 달성에 한층 더 가까워졌습니다.\n1. 한국 수출, 예상보다 강한 성장세\n- 10월 수출액 1,152억 8,000만 달러, 전년 대비 93.7% 증가.\n- 9월 증가율 83.7%보다 성장세 가속.\n- WSJ가 조사한 경제학자 11명의 예상치인 86.7%를 상회.\n- 2026년 1~10월 누적 수출액은 9,300억 달러로, 사상 첫 연간 수출 1조 달러 목표에 근접.\n2. 반도체 수출이 성장 주도\n- 10월 반도체 수출액 564억 4,000만 달러, 전년 대비 3배 이상 증가.\n- AI 인프라 투자 확대가 고성능 컴퓨팅 반도체 수요를 전례 없는 수준으로 끌어올림.\n- 삼성전자와 SK하이닉스는 강력한 메모리 수요와 공급 부족에 힘입어 최근 연속으로 분기 사상 최대 실적을 발표.\n- 양사는 반도체 공급 부족이 향후 수년간 지속될 것이라는 전망을 재확인.\n- AI 중심의 반도체 수요 강세가 한국 경제 전반의 성장 전망에도 긍정적인 영향을 줄 것으로 예상.\n3. 자동차·석유화학 수출도 증가\n- 자동차 수출: 전년 대비 18% 증가. 현대자동차 노사 갈등이 해결되면서 생산 정상화.\n- 석유제품 수출: 80% 증가.\n- 석유화학제품 수출: 28% 증가.\n지역별 수출 동향\n- 미국: 전년 대비 약 3배 증가.\n- 중국: 전년 대비 2배 이상 증가.\n- 중동: 장기화된 지역 분쟁에도 11% 증가.\n4. 무역수지 흑자 지속\n- 10월 수입액: 727억 8,000만 달러, 전년 대비 36% 증가.\n- 무역수지 흑자: 425억 달러.\n- 시장 예상치 382억 8,000만 달러를 상회.\n- 다만 9월 수정치인 사상 최대 흑자 499억 7,000만 달러보다는 감소.\n-\n삼성전자와 SK하이닉스가 향후 수년간 공급 부족이 지속될 것이라고 전망한 점을 강조하면서, 이러한 반도체 호황이 한국의 수출과 경제성장을 계속 뒷받침할 가능성에 주목\nhttps://www.wsj.com/world/asia/south-koreas-chip-led-exports-accelerate-bringing-1-trln-annual-target-closer-5180b539?eafs_enabled=false",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-11-01T01:31:24+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20921",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20921",
+      "text": "일론 머스크\n1. Colossus 2 구축 현황\nMacrohard와 Minihard는 각각 GB300 GPU 22만 개를 보유하고 있으며\n, 800Gbps NIC(네트워크 인터페이스 카드)를 사용해 학습용으로 구성되어 있습니다.\nGun Range도 동일한 구성을 갖추게 될 것입니다.\n과거 호멜(Hormel) 제품을 보관하던 시설인 Spam에는 약 20만 개의 GB300이 설치될 예정입니다.\n다만 추론용으로 구성되기 때문에 네트워크 구조가 훨씬 단순하며, 광섬유 사용량도 절반 미만입니다.\n저는 자정 무렵과 오늘 아침에 Colossus 2 부지 전체를 직접 둘러봤습니다.\nSpaceX 팀과 계약업체들이 훌륭하게 진전을 이루고 있습니다.\nGun Range는 11월 말까지, Spam은 12월 중 가동을 시작할 수 있을 것으로 예상됩니다.\n2. Colossus 2 연말 GPU 규모\n올해 말까지 Colossus 2에는 총 약 120만 개의 블랙웰(Blackwell) GPU가 구축될 예정\n입니다.\n3. Macrohard GPU 구성\nMacrohard에는 GB200 GPU 11만 개와 GB300 GPU 22만 개가 구축됩니다\n.",
+      "images": [
+        "https://cdn5.telesco.pe/file/Ubx4wajPFmeWnPey8c9K9u8icupPdXS9jEfg7DGFgHHh1Os1Qp9YXt9DcYyEsi-1DDd2lL9OL2LsMUhlqM2jVa60_zbN_1mkVI4-Y2P4NWG1swANeBsn7if0Y86x6qkOxqmW3cPKUiW5LDV0hs3uc6Yfwy3vxK-ooJajbQwNFpCQSPx3lb1mLU8SYo2gd65RuaN96hH67d43JKgVE0cSfW82ntAbuTP7rU3FuRTqh8ps9X412m6dH-G7Fa_UW-VdR26nXgAY5wb0cCAY1ty8zY90kNjrFA2-itbYAFU-CPjI9iJtbZqojmxNCaOcJLG6jgeSJ2KYQyRGuLK9ws4NnQ.jpg",
+        "https://cdn5.telesco.pe/file/Mj-7ucxMc4UuoiFAAvR2Tb_3oPyGgJtdIl6hiAnIHslZYPUJ0i3aswkkw1oLhb3ecC3qpENgxrkkm3J3f09R_tHXgkLienh3JVlpslbuoAatrGC5zST55EfbMrs4R3WFDSk8iJSSFfmLH44-ykG_I1apJKfRG0cNKKZwyzswYpM23pJo5gOeWwsMm5x4Ow_-ehT9rR9-pxYVk8gwm1r6o0CmpU5LTzWGWDo9LvattGAKBxRNH3kN6nPRLdsXjg3_socScPghoFj1O3Vdo0OhZ3n5V44mKfRZZwFhFurZJslNMm_A-hONRecuB4hFWLeuMFQphdjUc-rWRgUzZY5bGg.jpg",
+        "https://cdn5.telesco.pe/file/S0eh6MHbvv_lbrcLKyDPSRo7XU2fsYZ5kSDF_fjAGTfrHJO7rC01QwMnRN5kSArHJNLp_10BqEEnM7TNgEraGAkqu8JlnY3o_422relS2uN-fD09Lld3SdVu1NU1wLV3GhzNsDfhPuobaWUX3KcIFCE6oOKVvyL-Zg80H7zdF-VaPuHBvkdlJ8rCeagND6NHStePSXtoC3ynwKMg9OY0vsTrh6kclHtjXb1Mi93uzAZ8M-yzqyj93P1barQBn9j-cBKD12ej6J4dbvl3uctTqtEykOuxdevbB8lFNXrkpQ-bXeTsquFm9HoxX9rCDRVlKFDHDF01tNKMgORjsAifjg.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-11-01T01:18:54+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20911",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20911",
+      "text": "(TRASS-BF) 잠정 수출 | 2026년 10월 31일\n※ 주요 품목별 수출 성장률\n- 디램: +595% Y/Y, +2% M/M (*ATH*)\n- 낸드: +342% Y/Y, -10% M/M\n- SSD: +584% Y/Y, -17% M/M\n- MCP(HBM): +158% Y/Y, -18% M/M\n- 반도체장비: +89% Y/Y, -10% M/M\n- MLCC: +37% Y/Y, +4% M/M (*ATH*)\n- PCB: +25% Y/Y, +8% M/M\n- 대형변압기(10,000KVA 이상): +135% Y/Y, 15% M/M (*ATH*)\n- 화장품: +58% Y/Y, -3% M/M\n- 라면: +33% Y/Y, +2% M/M",
+      "images": [
+        "https://cdn5.telesco.pe/file/Tbb5fADanzkFNLIiw3dy-FOlvnT5QyQ8Glk-_1w6ql_es5ANlzTGnZae2H-b6ZAanwI9wp99nG-6HlJ1s7TYz72OtIvlnL2AD0qeBx6vrS8Yh0k0hjDFzEa19V1SKYI_W8z4mL8rXUw_NqiiFF2VUhKUlw1oLxuesRIL2nq9QulspfcIYdESr4X230AVl51D-kYOMcAOx0KyPZgQE2X-eV9fz7wNNeeXi8G3yEsFs-QQu9gCjOcSrpD_4zQYhRSulgu6XBZYjp-AU3CSLINYGzVt2oF-9K3UEoS535jAQOu1MrYrxKWEUNzFaVbm0LO3ykZGvJmqeqkoyUbvN6Ludg.jpg",
+        "https://cdn5.telesco.pe/file/OUCCP80WGewHxxJA-XYfxBTtauLpYD-rd7-78IH0wQkLiKNua7deW-xxxyFMqWm8c32LMDChmOQNj3V8uDziAWmjenxmCmGp2ei1ziaHDPaupl8x9hZSy0sJxyRgFEq29J6f7l1cgowkChaIWEGkhl_xUuWtYWnIRLLjnxrA9qCpZWURxj5_eDpbI9MelTS_RfCcjhM57uoTQbPhbkYOyZJ-45PYGk2S-aBf960T3W5_PbTF0zx1rXWk9aUkZnKuEqCu5BbLsHmfyEgDqKmnfub3b_T536WnlKTq6nE6fz75Ul17SHZb-e-C0MjjJISKmsFpoKho9XGJsrXIQRCR1w.jpg",
+        "https://cdn5.telesco.pe/file/PeFsnY31tG7-IZ1FAfI1PtfuMon1DepDRooJvOfSO-SWPXcBeIsPBzJkybkOtNhKQ0Gyvy7L0zOwmyAvNyt1a5jRQgYWR_d-0J6NCZIOe9C-y8NZYd_D15MXieZhzJhTzup73f5J1Iawufh2qbnL3Hw-lZxyuxFO33YeR-Hgt2OQEKLGtOHcXTP2DM6HQLeYIkw_pcg2XCmg3Jgtvz3xZezb4dJX-f16nuX_vZORo8TVTJxHxBn8JuFzBwgeS97SfMQmeVR1gBYPA5FeU88ee3B-cQ0urYjvcbzyzRReFZRHYILHbsnX6zxb52CaR4L-v47ZZzvsxNZEjqzH9qc_Rw.jpg",
+        "https://cdn5.telesco.pe/file/ocQZcKp87jvJUtb0DcLOd7wFfLSz-GwByWANWR7YTEtBv19-SPW50v42u_hjZ3s2vN4BghHVJWcHR3wS8nHqDkH4RKbiYDTKZa37e62vpjSG0vYwrZxRSzCKBAGlE7CM-HKHO44Sn84fia1LLVlnHuTrRLqgn0PKmamhStdv8gI-grTBw4LSRmVVrFKKHFnda1agi2SfjIQ9r8jNgaQzo_2jGDH3oEhwpQjHFLWZ_bUNClFNiBqc84jrC_XOK7ixmn2RmfPXP27H8IjyL0MdHIUgLFFtILJzm2G6NKdZkkcmV23eyMvpBA7rwjK6XDcC6KdwTpoO6h2xg4CIaT2Y5A.jpg",
+        "https://cdn5.telesco.pe/file/jOLhATqJ4K6cNev7RkwTXwyDTgyurnLtigkThKt_WGpTzFWlrcRSrQYsNZA5ighj26hXcS_ZdyopUcGIPYt7pY_1zXfeLYC2N45wwnek99Vx4BC9djGMLxxUOILi8cX4_ak67o_gQB9jtdZHGQWAgc2KMN24QepJWlChrfN27zRv8AN3vxDeV-6utc51AEoNHvoCUSHGf54r4X4mTBXXZAn8q2E_oemnJBTcBCUkUKbRukbMIys38PD2iL0-Uza7B31ZE62oLcz1NvT6u-T1h5xknKiCcb8Bb_Kj7-V_cfDAMNfI5IESM3Xs62vTAHhzkS9YhjcYkK6h5IBtAPkGnQ.jpg",
+        "https://cdn5.telesco.pe/file/JAZ0ZrD3LEmtRMR56xmfIKIcHnTnQHbw_9TxKhvVn20-Qw_yIakj56EU1WwpRnpIfHrValR0GY5VYjcYJfwm0VfLSnHwI4ocDsGEDr6JsK2hLK1M2I3UhzVvnZ76qQVYGEvVTw9hpDevBn9b_8izE174lUTVeibpX_7181GCXEfUCMEMVxO1G3XFOpOmNVcPnILBalLw0UNcsVJGJr0gTSDIOjLtz6hwz3ftVp5Ap4tVQlmCuywR1Vj98Og6kpchzvt_RWnQz3yeb5YCU0yxHJ_giPeWG1aBUiJSAQy8yjVVHer9nRRNnt34ydbTFFbu1QozE-H-Xz-KPcuKdebOnQ.jpg",
+        "https://cdn5.telesco.pe/file/ZWZLA3uWGrDG0qafpP-fK2V3DKlBKWPHgS7JTxhDa9nMxG8afFw4t5jbwSsZVX4tiVWvX0GZg_WGdHbtAChdbBnbJpMMgq_sP1wPsQycTL8A996eNMAvV_vOES03HB9wWDARlrOUjn5TNjqQkva9FLBa-JgbQ0NOtJY_tWZy13rjKWbsnorFFoxpddEWbOaDat2F9sseP-v_D5CZx7_yrtm7Hnsva88cP4crA2Spz_LeKGXKP91VtCZJJLekFhA-M6YHW2C0VsQdQD7eR_8uajsgD0f4jrfEUv-j8Fqno-waY--IHouoMZbUTC6sIhdsuHfjObDh6mOXXo1YReYOGQ.jpg",
+        "https://cdn5.telesco.pe/file/pbnhV4Tf5KY0JEdVBDjVU7FUZhUm6rAK5zB7KOY4jSM38dYAW25afJCXHR-cYdlOi7ML1SnthUyl_X2ta5VkArrGM0HWzzOSAPx_GXf8U-twCCWAqKwvi1Dusjvak2PFovHH76rrE6_EV5QsH5lblgId0hy_YMROOMZiF255AfSCyfz4R8t2kGd7WArB2G_Th-cAfucA6B_X3uSrpPo0DAnArxqT1eKWHqUKhB5Zw3Vn83rDHiDKYOULRlrR45gWM_fciEPAk4WZfla1FBrdzqc2RH0R6iPaMgYXPqHZOT2n6tA0zfcx3Zj0d5Ut_shjkIt6y8HsMovcYlhEglqzUQ.jpg",
+        "https://cdn5.telesco.pe/file/EIa9xtPNWw1xp8Ti403y2T7hg5lyjHHLVm-WR4YuXJp6taBGcgisa-RdXnXgCZmGwEosOWuxm-s_tZKaOZ4ZQBm2CxCbrimKEc6ypZ-KW4GwdyVVaSn6vtGux0qWNize_teTixSN8kWu03yOUK2rVHvvRH_hs9kh44-7_qyjnR5K-_Z06GD5HnYjP67t2NKoI1Ce4AHUKsRnMW_rPXlhuoGQBNgGZaspR_C-GD0bRho7Rk6o8AQoKgWEsbPZE5RGb-bOpFLLkvxEUTnB6AZdOF2G-OT6TtSUah8JY5GSmaFHSV6lA2F3VKgCkAGk16rTxj6-23maCtMQwr9vQvDIXg.jpg",
+        "https://cdn5.telesco.pe/file/R_Hv-3Uod5lukUhKJetteRVdAOebdrxxOYvm-7nQxbNNYtE_WuaQy3VfMU716iLR6jDRP58G8_e0giBAlG_4tYowJ52im49bZd2jbCwfwOBQt2bKx-gs2GwWuVDnp3h6GTy__MNDSdbY3bp6czKCyyOw9d6eLJB_-VhYx35kiFxn1Yv2t5j6q3UDCxrSMZs0u3cdYhBVfTo72noFch5tSjjNKxihOYLCDlgi6rrE5fTdQ7GWfcngTiHRM7nMG2OA6nJ6XyZH1Owz4EjwaWW3Dkbwexxc6njUcIkTPg1kYxMNJX6AgzEDSYEnG5QZJht_DSKQVcbN-pI1cQj0xjw6RA.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-11-01T01:12:37+00:00"
+    },
+    {
+      "id": "tg:bornlupin/20910",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/20910",
+      "text": "[속보] 10월 수출 1153억불 93.7%↑⋯반도체 259% 급증\nhttps://m.etoday.co.kr/news/view/2642589\n[속보]반도체 10월 수출 564억달러…2개월 연속 500억달러대\nhttps://www.hankyung.com/article/2026110180217",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-11-01T00:09:13+00:00"
+    },
     {
       "id": "tg:globaletfi/22406",
       "source": "telegram",
@@ -243,44 +306,6 @@
       "published_at": "2026-10-30T23:30:17+00:00"
     },
     {
-      "id": "tg:bornlupin/20901",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20901",
-      "text": "일론 머스크\n“일라이 릴리(Eli Lilly)에서 엄청난 신약들이 나올 것 같군요!”",
-      "images": [
-        "https://cdn5.telesco.pe/file/LzNdDCYUR3ka9jCscqpu25ODfWwVxJXCvYOOVSO2rSMxbbFRfoG_Ca4YF5OUz1F5v2peP1_ySyM4O_WgdZHstRoYrD8u7qwq_ftInPNgfGMnMxx0_wy_7BVbKpLywirxoDoxb0LGNA91aOvGjdavkeFXNmEyoSF5XCka7V7q7Og-lyKbFvkniO4oUmJt-LFuBKj-fSsqFtiHDvQYMkWPkFwIE9ZI7BvK1yxXVM6akaq6HDH-rw4cdYDOrniimwUrJgkI4gM8PesFZz5CQrrNsACJBi2Hue_ulI3AyIoGwXIYF_DHWapGvP6j9X6bf0MyhubAFdandBONLqFAwCnjWg.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-30T23:15:35+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20900",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20900",
-      "text": "트럼프\n- 이란 전쟁은 어떤 방식으로든 매우 곧 끝날 것.\n- 이란은 반드시 합의해야 함.\n- 이란 지도자들이 상당수 사라져 누구와 협상해야 할지 모르겠음.\n- 이란이 결코 핵무기를 보유하지 않을 것이라는 보장이 필요함.",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-30T13:14:03+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20899",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20899",
-      "text": "메르츠 독일 총리\n:\n이란 전쟁을 가능한 한 빨리 끝내기 위해 노력하고 있음.\n전쟁이 유럽에 막대한 영향을 미치고 있다고 발언",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-30T13:13:47+00:00"
-    },
-    {
       "id": "tg:enc210406/4586",
       "source": "telegram",
       "author": "enc210406",
@@ -317,18 +342,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-10-30T07:35:07+00:00"
-    },
-    {
-      "id": "tg:bornlupin/20898",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/20898",
-      "text": "[SK증권 반도체 한동희, 손 건/해외주식 박제민]\nTrendForce, 2026년 10월 DRAM 고정가 업데이트\n▶️\n10월 가격 동향 핵심 요약\n- 4Q26 PC DRAM 고정가 QoQ +13~18% 확정 — 3Q26 +18~23% 대비 인상폭 둔화\n- 8GB DDR4 모듈 $170.0(QoQ +13~18%), 16GB DDR5 모듈 $275.0(QoQ +10~15%)\n- DDR5의 DDR4 대비 디스카운트 3Q26 6% → 10월 3%로 추가 축소\n- 협상 대부분 11월 완료 예정, 11월 가격은 10월 대비 소폭 추가 상승 전망\n▶️\n10월 DRAM 고정가 (Sep → Oct, ASP 기준)\n- DDR5 16GB SO/U-DIMM: $247.0 → $275.0 (+11.34%)\n- DDR5 8GB SO/U-DIMM: $133.0 → $165.0 (+24.06%)\n- DDR4 16GB SO/U-DIMM: $275.0 → $310.0 (+12.73%)\n- DDR4 8GB SO/U-DIMM: $148.0 → $170.0 (+14.86%)\n- DDR5 16Gb 칩(2Gx8): $48.0 → $50.0 (+4.17%)\n- DDR4 16Gb 칩(2Gx8): $52.0 → $54.0 (+3.85%)\n- DDR4 8Gb 칩(1Gx8): $26.0 → $27.5 (+5.77%) — 대만 공급사 서버향 캐파 전환으로 공급 추가 제약\n▶️\n수요·공급 구조 변화\n- NB 출하 3Q26 QoQ -14%, 4Q26 QoQ -9% 전망 → OEM DRAM 재고 3Q26 말 6~9주 → 4Q26 초 7~10주로 증가, 4Q26 내 추가 누적 예상\n- 아시아·유럽 기기 판매 부진 + 북미 채널 재고 증가 → Tier-2 OEM, 2027년 화이트라벨 모델 비중 15~40%로 확대 계획. 리볼 DDR4 + Raptor Lake·AMD Picasso 조합 채택 확대\n- 한국 공급사, 2027년 PC DRAM 출하 YoY -20% 이상 감소 계획. 미국 공급사 SCA 물량 잠금 → 한국 공급사 PC DRAM 공급 YoY -40% 이상 추가 축소 후 서버향 전환 가속\n▶️\n현물가 및 칩 고정가 동향\n- DDR5·DDR4 칩 현물가 모두 상승 지속 — 공급 제약 지속 반영\n- 16Gb DDR5, 1알파·1베타 공정 타이트 + 1c nm 전환 중 모듈하우스向 물량 미출시로 상승 지속\n- Tier-2 OEM의 화이트라벨 확대 → 리볼 DDR4 수요 중기 가시성 확보, 현물 DDR4 수요 지지\n- 8Gb DDR4 칩 MoM +3~8% 추가 상승 — 대만 공급사 서버·eSSD 전환 주도\n* SK증권 리서치 IT팀 채널 :\nhttps://t.me/skitteam",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-10-30T07:34:18+00:00"
     },
     {
       "id": "tg:HI_GS/7331",
@@ -417,7 +430,7 @@
       "url": "https://t.me/enc210406/4582",
       "text": "[한화오션 상선 수주 공시]\n@ 선종: 탱커(유조선, VLCC)\n@ 수량: 2척\n@ 선가: 133.5백만달러/척\n외화 기준 최고 선가에\nVLCC 2척을\n2030년 납기로 판매합니다.",
       "images": [
-        "https://cdn5.telesco.pe/file/I-_sXYNk_FtRgg_PWGTWYJ2PzqfQSWrRKfL8QX1CDA9HKaoVzjIWE0Z0WHzERu-qDh5-rHauXpSt-58M9-p5_SKxAxzD1mDBtIDgQOQWYDhZBuPtUJuvLuaBJ0_wtKOgeyhKg_7FhDST881qrGTLPKIS0f_Zd3pEqb3lOforCgJ6GQl7-JaXgOPr0kSuRsF8TdNvIQb_MWc5xfGRrMivVzPEKkwbZVMj4_Nt1kZIt_ZQM4TYyqvVKdgMXSrVvvDEylnEyKlk7vl_ojlmTLN5eRiDDx4D4HlkYgG15b9InDEVtLRLpme-iZuB2Nhd-MHl81b-Ee8BqKUPhc4bIpmAzg.jpg"
+        "https://cdn5.telesco.pe/file/BKH2U7hyZxExlY2d7m2oMwKvTwe7Mu4EiToSP5YSObKGxipSc1mbdt8OmvgDq47iwqidsxKMq_wjn5dWRprGFhekwjUon5o5Td9a-2NoXZxKQZbsc1IzINZ8X56tAX8ba1TAnXHVBbKGp2QB4DW7YFbtrHZOeLx8YpQ97vDx4MhbFQzQLbYN_XCJ25ru7E93YUpJ_V-Aq_7nc3iAE3jvwDDaovDR9Uzbi-ojpoymZpCDqF8rHJqlWJvaWecpSZ-mYX8AXsI7zI8OGB7IaQHPv7B3OmZXnculn4Ey7iopjoQGErp5-J2OamvJBHy2W8-vufEvMwYyOTUR6x9RZJq9Qw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-30T01:00:54+00:00"
@@ -443,8 +456,8 @@
       "url": "https://t.me/globaletfi/22394",
       "text": "[하나 Global ETF Daily (10/30)]\n▶️\n하나 Global ETF 박승진(T.3771-7761)\n▶️\nRA 신민건(T.3771-3269)\n▶️\n텔레그램:\nhttps://t.me/globaletfi\n🔹\n주요 ETF Daily 수익률\n(2026.10.29 종가 기준)\n» 주요 시장 ETF\nSPY -0.38%\nQQQ -1.42%\nDIA -0.37%\nIWM 0.97%\n» 주요 국채 ETF\nTLT 0.62%\nIEF 0.44%\nSHY 0.14%\n» 주요 섹터/테마 ETF\n부동산(IYR) 2.24%\n인프라(PAVE) 2.16%\n여행/레저(PEJ) 2.11%\n🔹\nETF News\n[ETFdb] Anthropic의 IPO 추진과 디렉시온Direxion의 단일 종목 레버리지·인버스 ETF 출시 계획\n-\nhttps://buly.kr/BeNNIlf\n- 인공지능(AI) 모델 '클로드(Claude)' 개발사인 앤트로픽(Anthropic)이 10월 26일 증권거래위원회(SEC)에 증권신고서(S-1)를 제출하고 나스닥 상장(티커: ANT) 절차에 공식 착수\n- 최대 2조 달러에 달하는 천문학적인 기업가치가 거론되는 가운데, 이번 상장은 지난여름 스페이스X(SpaceX)에 이어 초대형 자금 조달을 기록할 전망\n- 특히 기관 투자자들이 ANT 편입 재원을 마련하기 위해 기존 빅테크 주식을 매도하는 자본 재배분 과정에서 기술주 전반에 단기 공급 충격과 변동성이 유발될 수 있어 광범위한 테크 ETF 투자자들에게도 핵심 변수로 떠오름\n- 신규 상장에 따른 가격 변동성을 겨냥해 디렉시온(Direxion)은 상장일 직후 거래를 목표로 단일 종목 레버리지 상품 증권신고서를 발 빠르게 제출\n- 일간 수익률의 200%를 추종하는 Direxion Daily Anthropic Bull 2X ETF(ANTO)와 역방향 200%를 추종하는 Direxion Daily Anthropic Bear 2X ETF(ANTD)는 모두 연 0.99%의 운용보수를 책정\n- 이는 지난 8월 출시된 스페이스X 레버리지 페어(LOFF/LOFD)에 이은 라인업 확장으로, 상장 초기 극대화되는 유동성과 변동성을 단기 트레이딩에 활용하려는 투자자 수요를 공략\n- 다만 단일 종목 레버리지 및 인버스 ETF는 기초자산의 급격한 변동성과 일간 리셋에 따른 복리 효과(음의 복리)로 인해 장기 보유 시 원금 훼손 위험이 매우 큼\n- 특히 앤트로픽의 대규모 공모는 기술 섹터 전반의 수급 구도를 뒤흔들 수 있는 만큼, 포트폴리오 차원의 수급 리스크 점검이 선행되어야 함\n- 결론적으로 투자자는 앤트로픽 상장에 따른 빅테크 ETF의 수급 왜곡 영향을 면밀히 모니터링하되, 레버리지 상품은 엄격한 손절 기준을 동반한 단기 전술적 대응 수단으로만 제한적으로 접근하는 전략을 제안\n[The Motley Fool] iShares GLOF ETF: 고평가된 S&P 500에 맞설 글로벌 5대 팩터 분산 투자 전략\n-\nhttps://buly.kr/3jBHA7u\n- 고금리 장기화 기조와 S&P 500의 경기조정 주가수익비율(CAPE)이 40을 상회하는 밸류에이션 부담 속에서, 미국 대형주 쏠림을 탈피할 대안으로 iShares Global Equity Factor ETF(GLOF)가 부각\n- 이 펀드는 STOXX Global Equity Factor Index를 추종하며 모멘텀, 퀄리티, 밸류, 저변동성, 규모 등 5대 팩터 점수가 우수한 글로벌 대·중형주를 선별\n- 국가별로는 미국(61%)을 중심으로 일본(7%), 대만(약 3%), 영국(약 3%), 중국(약 3%) 등에 분산 배분하여, 탄탄한 펀더멘털과 가격 모멘텀을 겸비한 글로벌 우량주를 통해 하방 위험을 방어하면서 상승 탄력을 확보하도록 설계\n- 2026년 10월 29일 기준 GLOF는 운용자산 2억 581만 달러, 배당수익률 1.54%, 운용보수 0.20%를 기록하고 있으며, 총 684개 종목 중 엔비디아(4.83%), 애플(4.74%), 마이크로소프트(3.65%)를 상위로 편입\n- 장기 10년 연환산 수익률(12%)은 S&P 500(15.4%)에 미치지 못했으나, 최근 3년 연환산 24.1%(vs S&P 500 23.7%), 최근 1년 15.8%(vs 13.5%)를 기록하며 단기 성과 역전을 시현\n- 이는 고평가된 미국 시장 환경 속에서 해외 증시의 상대적 매력과 다중 팩터 스크리닝의 복합 효과가 유효하게 작용한 결과\n- AI 파급 효과가 글로벌 및 비기술 섹터로 확산되는 국면에서 단일 시장·단일 스타일에 대한 의존은 변동성 리스크를 가중시킬 수 있음\n- 글로벌 분산과 멀티팩터 결합은 거시경제 사이클 변화에 유연하게 적응하며 포트폴리오의 구조적 안정성을 높이는 장점을 지님\n- 결론적으로 GLOF는 미국 중심의 고밸류에이션 부담을 완화하고 검증된 5대 팩터 스크리닝을 통해 글로벌 분산 효과와 초과 알파를 동시에 추구할 수 있는 유효한 코어 분산 수단이 될 수 있을 것",
       "images": [
-        "https://cdn5.telesco.pe/file/JRUbVuYB0M_vtNN1fPru1GI0yH-o2FWcVpHzI2SSxY0cVzdAwRDMJe6a1Y-pZBaQ3UtplQmeKG213UVDQEoO9Ihtr5D-fpcdLV0-cxsqWwYK6Yr4Cekh3KUfojDw235A6HnDnoWHntH-sep6K915IncxzfaQznlvdugRNxMEIs3g7P1ixP7VDStfGmT2GKHYZf6AObt1JAFG6lu0RzeLnv7fA-6LIztN_y4Qt-SoKzjk0u89dmVddsVbva_MFatc01WPsmhABfPTTktm8cWmegNI7jgp93I_PvgzTUP7sV_VDpPZuKDflmKEXtz-d8zFtRDZzSRo2OwvD8alWruZCg.jpg",
-        "https://cdn5.telesco.pe/file/gKWgcywXvOaYVK22AUTQAevhZ4nuqmGx2cF-i6FIfT0iJMvSdFAtDi9iu6B6RE3cA3KSjAGLJVVYe42CdQP7ttXQPHkTvatuAtca8XVvTgMglgx5H013j8fmaiJc_bkyogw-d_i1OJMX3f4XNKKzUvkOyvjJ0HDcpOY0hFpodGU7xAbshmmfdyBVIMPD0P8iFwAn4TsTtLzZN1MZ2BqngkA0vh1z4gSfP7TFes72ccEB9DbfeBDi8OP4bLlQJd5IOobuCyWSC0Vzk2TnN69YwkVlM8O5YE3-0jhNKcJuvk_wjsuxMVV5FSc7ZsC2qalzmw45w-X6Gfu6txYnEBeL9A.jpg"
+        "https://cdn5.telesco.pe/file/RgrjCrndl1Y8au0ew4HR3G1Jo2lAYYZeY8Z-2Mv5_Ix95aZvGGdGhY37hRMHlKk27d2kZVi9qp5a-M76Chl2NSney7brSnXF-LNYN39JBAj_SqMRPHf82XfDPoESB0sdRhNf6PPhjoH5GCVIuu0xNcSQqqmsBssZ2eRZLcabg53ncRlP-XpFAc60zOxX6kbIiJx9juRkhh5Wv9R67JD8fRWyksFlTiO3NVDMRSWJuXlHlM-ueqJzZyceYMsb7bs1W9VXtOvZsp2Rhq_SRHNOxI0yIu3uZFIs1x6K09KAZmiSj8Ccsr-m0t_i9fT5ekwDdkqdU84Gs2FSij8b_Zcaog.jpg",
+        "https://cdn5.telesco.pe/file/ACGU4rUIASqWubPN8TAiGmpajtFMLpyiyOS3BdjZ2_YQsdyhgyUtNqfbC73mc7JipzRAOjUfPOmp8PLC558KjUfR77AOKk8W7AVbvxzmVgB0rNG9rX9_xL7cvgWytXYv4W2pM-SfabxedyhQwwh4_dYsD_96toLwbsr5kUJvMR_OBMbZH4GuAdconXsop8yu6er29X_9x66_RJ-aSM3DH-EtWhyI-jJ8SJPqf88c5lxbCbKKCG7i7KWqJQH0tVDytDyc_cOpx_VWOsVcG5xtxrQHrUHGZwEc4_gAxcmNPHG9-_scRAAlOIlaOJYZLRtaQF3M5Nekx23YlKDFaJNrdw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-10-30T00:11:40+00:00"
