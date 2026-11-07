@@ -1,23 +1,4 @@
 {
-  "telegram:globaletfi": [
-    "tg:globaletfi/22528",
-    "tg:globaletfi/22527",
-    "tg:globaletfi/22526",
-    "tg:globaletfi/22525",
-    "tg:globaletfi/22524",
-    "tg:globaletfi/22523",
-    "tg:globaletfi/22522",
-    "tg:globaletfi/22521",
-    "tg:globaletfi/22519",
-    "tg:globaletfi/22518",
-    "tg:globaletfi/22517",
-    "tg:globaletfi/22516",
-    "tg:globaletfi/22515",
-    "tg:globaletfi/22514",
-    "tg:globaletfi/22513",
-    "tg:globaletfi/22510",
-    "tg:globaletfi/22509"
-  ],
   "telegram:bornlupin": [
     "tg:bornlupin/21047",
     "tg:bornlupin/21046",
@@ -30,9 +11,21 @@
     "tg:bornlupin/21039",
     "tg:bornlupin/21038",
     "tg:bornlupin/21037",
-    "tg:bornlupin/21036",
-    "tg:bornlupin/21035",
-    "tg:bornlupin/21034"
+    "tg:bornlupin/21036"
+  ],
+  "telegram:globaletfi": [
+    "tg:globaletfi/22528",
+    "tg:globaletfi/22527",
+    "tg:globaletfi/22526",
+    "tg:globaletfi/22525",
+    "tg:globaletfi/22524",
+    "tg:globaletfi/22523",
+    "tg:globaletfi/22522",
+    "tg:globaletfi/22521",
+    "tg:globaletfi/22519",
+    "tg:globaletfi/22518",
+    "tg:globaletfi/22517",
+    "tg:globaletfi/22516"
   ],
   "telegram:enc210406": [
     "tg:enc210406/4623",
@@ -63,6 +56,7 @@
     "tg:HI_GS/7365"
   ],
   "rss:semianalysis": [
+    "rss:semianalysis:we-visited-chinas-stargate-in-inner",
     "rss:semianalysis:tpu-strikes-the-king",
     "rss:semianalysis:elon-is-doing-it-again-spacex-will",
     "rss:semianalysis:gdpx-measuring-frontier-model-capabilities",
@@ -231,6 +225,6 @@
     "x:karpathy:2061110056293106118"
   ],
   "_meta": {
-    "last_x_fetch": "2026-11-07T15:27:34+00:00"
+    "last_x_fetch": "2026-11-07T19:54:56+00:00"
   }
 }

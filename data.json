@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-07T15:27:34+00:00",
+  "updated_at": "2026-11-07T19:54:56+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 7
+    "new_this_run": 1
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,20 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "rss:semianalysis:we-visited-chinas-stargate-in-inner",
+      "source": "rss",
+      "author": "semianalysis",
+      "author_name": "SemiAnalysis",
+      "author_url": "https://semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/we-visited-chinas-stargate-in-inner",
+      "text": "We Visited China’s Stargate in Inner Mongolia\n\nA wind-powered 800MW campus, 120MW built within a year, a 5MW SST-native 800V DC pilot and a cooling design without central chillers",
+      "images": [
+        "https://substack-post-media.s3.amazonaws.com/public/images/a79ebb2d-df82-4349-81e5-d6f988dd41f5_1671x941.png"
+      ],
+      "summary_ko": "우리는 내몽골에 있는 중국의 스타게이트를 방문했습니다.\n\n풍력 발전 800MW 캠퍼스, 1년 내에 120MW 구축, 5MW SST 기반 800V DC 파일럿 및 중앙 냉각 장치가 없는 냉각 설계",
+      "published_at": "2026-11-07T19:01:39+00:00"
+    },
     {
       "id": "tg:bornlupin/21047",
       "source": "telegram",
@@ -944,20 +958,6 @@
       ],
       "summary_ko": "GLM5.3 Sparse Attention이 HBM 메모리 사용량에 미치는 영향\n\nGLM-5.3, KV 캐시 오프로딩, HiSparse, DeepSeek Sparse Attention, IndexShare, 단일 롤아웃 비동기 최적화, 사이버 보안",
       "published_at": "2026-09-28T19:26:41+00:00"
-    },
-    {
-      "id": "rss:semianalysis:intel-panther-lake-teardown",
-      "source": "rss",
-      "author": "semianalysis",
-      "author_name": "SemiAnalysis",
-      "author_url": "https://semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/intel-panther-lake-teardown",
-      "text": "Intel Panther Lake Teardown\n\nLooking inside Intel 18A and Intel’s Panther Lake. A free SemiAnalysis STEEL teardown.",
-      "images": [
-        "https://substack-post-media.s3.amazonaws.com/public/images/3936feab-c9da-42d0-979b-a0f5893b0a82_1650x890.png"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-09-26T13:36:32+00:00"
     },
     {
       "id": "x:ylecun:2090600582805430353",
