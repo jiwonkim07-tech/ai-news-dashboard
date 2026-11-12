@@ -1,5 +1,10 @@
 {
   "telegram:globaletfi": [
+    "tg:globaletfi/22655",
+    "tg:globaletfi/22654",
+    "tg:globaletfi/22653",
+    "tg:globaletfi/22651",
+    "tg:globaletfi/22650",
     "tg:globaletfi/22649",
     "tg:globaletfi/22648",
     "tg:globaletfi/22647",
@@ -11,33 +16,12 @@
     "tg:globaletfi/22640",
     "tg:globaletfi/22639",
     "tg:globaletfi/22638",
-    "tg:globaletfi/22637",
-    "tg:globaletfi/22636",
-    "tg:globaletfi/22635",
-    "tg:globaletfi/22633",
-    "tg:globaletfi/22632",
-    "tg:globaletfi/22631",
-    "tg:globaletfi/22630",
-    "tg:globaletfi/22629",
-    "tg:globaletfi/22628",
-    "tg:globaletfi/22627"
-  ],
-  "telegram:HI_GS": [
-    "tg:HI_GS/7417",
-    "tg:HI_GS/7416",
-    "tg:HI_GS/7415",
-    "tg:HI_GS/7413",
-    "tg:HI_GS/7412",
-    "tg:HI_GS/7411",
-    "tg:HI_GS/7410",
-    "tg:HI_GS/7409",
-    "tg:HI_GS/7407",
-    "tg:HI_GS/7406",
-    "tg:HI_GS/7405",
-    "tg:HI_GS/7403",
-    "tg:HI_GS/7402"
+    "tg:globaletfi/22637"
   ],
   "telegram:bornlupin": [
+    "tg:bornlupin/21140",
+    "tg:bornlupin/21139",
+    "tg:bornlupin/21138",
     "tg:bornlupin/21137",
     "tg:bornlupin/21136",
     "tg:bornlupin/21135",
@@ -49,19 +33,7 @@
     "tg:bornlupin/21129",
     "tg:bornlupin/21128",
     "tg:bornlupin/21127",
-    "tg:bornlupin/21126",
-    "tg:bornlupin/21125",
-    "tg:bornlupin/21124",
-    "tg:bornlupin/21123",
-    "tg:bornlupin/21122",
-    "tg:bornlupin/21121",
-    "tg:bornlupin/21120",
-    "tg:bornlupin/21119",
-    "tg:bornlupin/21118",
-    "tg:bornlupin/21117",
-    "tg:bornlupin/21116",
-    "tg:bornlupin/21115",
-    "tg:bornlupin/21114"
+    "tg:bornlupin/21126"
   ],
   "telegram:enc210406": [
     "tg:enc210406/4649",
@@ -75,13 +47,24 @@
     "tg:enc210406/4638",
     "tg:enc210406/4637",
     "tg:enc210406/4636",
-    "tg:enc210406/4635",
-    "tg:enc210406/4634",
-    "tg:enc210406/4633",
-    "tg:enc210406/4632",
-    "tg:enc210406/4631"
+    "tg:enc210406/4635"
+  ],
+  "telegram:HI_GS": [
+    "tg:HI_GS/7417",
+    "tg:HI_GS/7416",
+    "tg:HI_GS/7415",
+    "tg:HI_GS/7413",
+    "tg:HI_GS/7412",
+    "tg:HI_GS/7411",
+    "tg:HI_GS/7410",
+    "tg:HI_GS/7409",
+    "tg:HI_GS/7407",
+    "tg:HI_GS/7406",
+    "tg:HI_GS/7405",
+    "tg:HI_GS/7403"
   ],
   "rss:semianalysis": [
+    "rss:semianalysis:nvidia-and-the-world-without-jensen",
     "rss:semianalysis:we-visited-chinas-stargate-in-inner",
     "rss:semianalysis:tpu-strikes-the-king",
     "rss:semianalysis:elon-is-doing-it-again-spacex-will",
@@ -250,6 +233,6 @@
     "x:karpathy:2061110056293106118"
   ],
   "_meta": {
-    "last_x_fetch": "2026-11-12T14:58:34+00:00"
+    "last_x_fetch": "2026-11-12T21:48:26+00:00"
   }
 }
