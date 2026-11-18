@@ -1,5 +1,7 @@
 {
   "telegram:globaletfi": [
+    "tg:globaletfi/22736",
+    "tg:globaletfi/22735",
     "tg:globaletfi/22734",
     "tg:globaletfi/22732",
     "tg:globaletfi/22731",
@@ -11,58 +13,11 @@
     "tg:globaletfi/22725",
     "tg:globaletfi/22724",
     "tg:globaletfi/22723",
-    "tg:globaletfi/22722",
-    "tg:globaletfi/22721",
-    "tg:globaletfi/22720",
-    "tg:globaletfi/22718",
-    "tg:globaletfi/22717",
-    "tg:globaletfi/22715",
-    "tg:globaletfi/22714",
-    "tg:globaletfi/22713",
-    "tg:globaletfi/22712"
-  ],
-  "telegram:bornlupin": [
-    "tg:bornlupin/21185",
-    "tg:bornlupin/21184",
-    "tg:bornlupin/21183",
-    "tg:bornlupin/21182",
-    "tg:bornlupin/21181",
-    "tg:bornlupin/21180",
-    "tg:bornlupin/21179",
-    "tg:bornlupin/21178",
-    "tg:bornlupin/21177",
-    "tg:bornlupin/21176",
-    "tg:bornlupin/21175",
-    "tg:bornlupin/21174",
-    "tg:bornlupin/21172",
-    "tg:bornlupin/21171",
-    "tg:bornlupin/21170",
-    "tg:bornlupin/21169",
-    "tg:bornlupin/21168",
-    "tg:bornlupin/21167",
-    "tg:bornlupin/21166",
-    "tg:bornlupin/21165",
-    "tg:bornlupin/21164",
-    "tg:bornlupin/21160",
-    "tg:bornlupin/21159",
-    "tg:bornlupin/21158"
-  ],
-  "telegram:HI_GS": [
-    "tg:HI_GS/7458",
-    "tg:HI_GS/7457",
-    "tg:HI_GS/7455",
-    "tg:HI_GS/7453",
-    "tg:HI_GS/7452",
-    "tg:HI_GS/7451",
-    "tg:HI_GS/7450",
-    "tg:HI_GS/7448",
-    "tg:HI_GS/7447",
-    "tg:HI_GS/7446",
-    "tg:HI_GS/7444",
-    "tg:HI_GS/7443",
-    "tg:HI_GS/7442"
+    "tg:globaletfi/22722"
   ],
   "telegram:enc210406": [
+    "tg:enc210406/4670",
+    "tg:enc210406/4669",
     "tg:enc210406/4668",
     "tg:enc210406/4667",
     "tg:enc210406/4666",
@@ -74,9 +29,37 @@
     "tg:enc210406/4660",
     "tg:enc210406/4659",
     "tg:enc210406/4658",
-    "tg:enc210406/4657",
-    "tg:enc210406/4656",
-    "tg:enc210406/4655"
+    "tg:enc210406/4657"
+  ],
+  "telegram:HI_GS": [
+    "tg:HI_GS/7459",
+    "tg:HI_GS/7458",
+    "tg:HI_GS/7457",
+    "tg:HI_GS/7455",
+    "tg:HI_GS/7453",
+    "tg:HI_GS/7452",
+    "tg:HI_GS/7451",
+    "tg:HI_GS/7450",
+    "tg:HI_GS/7448",
+    "tg:HI_GS/7447",
+    "tg:HI_GS/7446",
+    "tg:HI_GS/7444",
+    "tg:HI_GS/7443"
+  ],
+  "telegram:bornlupin": [
+    "tg:bornlupin/21186",
+    "tg:bornlupin/21185",
+    "tg:bornlupin/21184",
+    "tg:bornlupin/21183",
+    "tg:bornlupin/21182",
+    "tg:bornlupin/21181",
+    "tg:bornlupin/21180",
+    "tg:bornlupin/21179",
+    "tg:bornlupin/21178",
+    "tg:bornlupin/21177",
+    "tg:bornlupin/21176",
+    "tg:bornlupin/21175",
+    "tg:bornlupin/21174"
   ],
   "rss:semianalysis": [
     "rss:semianalysis:nvidia-and-the-world-without-jensen",
@@ -247,6 +230,6 @@
     "x:karpathy:2061110056293106118"
   ],
   "_meta": {
-    "last_x_fetch": "2026-11-17T23:45:35+00:00"
+    "last_x_fetch": "2026-11-18T06:08:29+00:00"
   }
 }
