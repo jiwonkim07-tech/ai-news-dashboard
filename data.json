@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-11-27T06:58:48+00:00",
+  "updated_at": "2026-11-27T17:23:40+00:00",
   "counts": {
     "total": 192,
-    "new_this_run": 15
+    "new_this_run": 7
   },
   "briefing": {
     "headline": "샌디스크, 현금 환원 호재",
@@ -16,6 +16,98 @@
     "model": "groq"
   },
   "items": [
+    {
+      "id": "rss:semianalysis:trainium3-inferencex",
+      "source": "rss",
+      "author": "semianalysis",
+      "author_name": "SemiAnalysis",
+      "author_url": "https://semianalysis.com",
+      "url": "https://newsletter.semianalysis.com/p/trainium3-inferencex",
+      "text": "AWS Challenger: Trainium3 Inference and Microarchitecture Deep Dive\n\nBetter Perf TCO vs NVIDIA GB300, First Principles Physics-Based Architecture, High MFU and MBU, UBenchX, Low Latency, Alisa Liu vs Eileen Gu",
+      "images": [
+        "https://substack-post-media.s3.amazonaws.com/public/images/096299c0-abec-445e-ace3-994016882a17_1672x941.png"
+      ],
+      "summary_ko": "AWS Challenger: Trainium3 추론 및 마이크로아키텍처 심층 분석\n\n더 나은 성능 TCO 대 NVIDIA GB300, 첫 번째 원칙 물리 기반 아키텍처, 높은 MFU 및 MBU, UBenchX, 낮은 대기 시간, Alisa Liu 대 Eileen Gu",
+      "published_at": "2026-11-27T15:54:59+00:00"
+    },
+    {
+      "id": "tg:bornlupin/21320",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/21320",
+      "text": "이라크 석유장관: 우리는 OPEC과 이라크 생산 상한을 상향 조정하기 위해 협상 중\n이라크의 석유 생산 능력이 증가할 것",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-11-27T12:58:19+00:00"
+    },
+    {
+      "id": "tg:bornlupin/21319",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/21319",
+      "text": "어도비(Adobe) 보고서: 미국 추수감사절 온라인 소비액이 이미 71억 달러를 기록하며 전년 대비 10.4% 증가.\n( 당초 전망치인 69억 달러를 넘어선 수치)\n어도비(Adobe)는\n블랙프라이데이 온라인 소비액이 전년 대비 9.2% 증가한 129억 달러로, 역대 최고치를 기록할 것\n으로 전망",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-11-27T12:56:36+00:00"
+    },
+    {
+      "id": "tg:bornlupin/21318",
+      "source": "telegram",
+      "author": "bornlupin",
+      "author_name": "루팡",
+      "author_url": "https://t.me/bornlupin",
+      "url": "https://t.me/bornlupin/21318",
+      "text": "트럼프 “이란 전쟁 승리가 눈앞에 있다”\n도널드 트럼프 미국 대통령은 이란과의 전쟁에서 미국의 승리가 눈앞에 있다고 밝혔지만, 구체적인 전쟁 종료 시점에 대해서는 가능성을 열어뒀다.\n트럼프 대통령은 목요일 마러라고에서 기자들에게 다음과 같이 말했다.\n“승리는 이미 눈앞에 있으며, 내가 원하는 때에 전쟁을 끝낼 수 있다.”\n그는 미국이 이란에 “협상을 타결하고 많은 생명을 구할 수 있는 모든 기회를 제공하고 있다”고 덧붙였으나, 이란이 이를 받아들일지는 확신할 수 없다고 밝혔다.\n앞서 트럼프 대통령은 이란이 새해가 되기 전까지 평화협정을 체결해야 한다는 취지의 발언을 한 바 있으며, 이에 따라 향후 전쟁의 전개 방향에 관심이 쏠리고 있다.",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-11-27T12:30:59+00:00"
+    },
+    {
+      "id": "tg:enc210406/4705",
+      "source": "telegram",
+      "author": "enc210406",
+      "author_name": "[한투증권 강경태] 조선/기계(기자재)",
+      "author_url": "https://t.me/enc210406",
+      "url": "https://t.me/enc210406/4705",
+      "text": "[조선 및 기계(기자재) 업종 커버리지 밸류에이션]\n2026년 11월 27일 종가 기준",
+      "images": [
+        "https://cdn5.telesco.pe/file/SbAU452qDFSs7PaLSSpau6G6-w_wC_3HkysW99PiMor55NMwwLg6a0sZKaSV1j1xIburI9lUxoAiy_FMkN0_niREJCYaaEVazPZmg6j_6CMR7OgCbply4opGapiGSh8R_rZBZvG2sqYDIXFzqBxOj2nSbR1p8YEEdlTUW7xPtpYM3FNvAzwo9Lew7X8324NeeSlDRDkMG3zxePoXQmwCDF8Xwf1CPDY6m4v5RA3ZxPbonFMK8w5b9J40L-NJYmx_Z1qCGaH4Ui7v2OQ1dxSSJKl6LisljSiWUNKWp91hs8RdGsfvwIkqsXxDUGzdLm850J7OAolorg3ugE8blXszYw.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-11-27T07:31:43+00:00"
+    },
+    {
+      "id": "tg:HI_GS/7540",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/7540",
+      "text": "[GS\n🎴\n조선·방산·건기] 수급 브리핑 11/27(금) 16:02  외국인·기관 순매수 · 22종목 · 5일 합산 억원 · 오늘 잠정 포함\n📈\n사는 쪽 · 시총 대비 5일 · HD현대마린엔진 +0.4% · 외인 +36 · 기관 +13 · 동성화인텍 +0.3% · 외인 -5 · 기관 +17 · 기관 3일째 순매수 · 현대힘스 +0.3% · 외인 +8 · 기관 +2\n📉\n파는 쪽 · 시총 대비 5일 · 시총 대비 순매도 종목 없음 오늘(잠정): 한화시스템 기관…",
+      "images": [],
+      "summary_ko": "",
+      "published_at": "2026-11-27T07:07:19+00:00"
+    },
+    {
+      "id": "tg:HI_GS/7537",
+      "source": "telegram",
+      "author": "HI_GS",
+      "author_name": "DAOL 조선/기계/방산 | 최광식",
+      "author_url": "https://t.me/HI_GS",
+      "url": "https://t.me/HI_GS/7537",
+      "text": "[GS\n🎴\n조선·방산·건기] 수급 브리핑 11/27(금) 16:02\n외국인·기관 순매수 · 22종목 · 5일 합산 억원 · 오늘 잠정 포함\n📈\n사는 쪽 · 시총 대비 5일\n· HD현대마린엔진 +0.4% · 외인 +36 · 기관 +13\n· 동성화인텍 +0.3% · 외인 -5 · 기관 +17 · 기관 3일째 순매수\n· 현대힘스 +0.3% · 외인 +8 · 기관 +2\n📉\n파는 쪽 · 시총 대비 5일\n· 시총 대비 순매도 종목 없음\n오늘(잠정): 한화시스템 기관 +162 · 삼성중공업 외인 +111 · 한화에어로스페이스 기관 +97\n⚙️\n기계적 수급 (ETF/패시브)\n· 한국항공우주 패시브 순매도 · ADV -3.5%\n· 현대로템 패시브 순매도 미미 · ADV -2.3%\n· 한화시스템 패시브 순매도 미미 · ADV -1.7%\n· LIG D&A 패시브 순매도 미미 · ADV -1.4%\n· 한화오션 패시브 순매도 미미 · ADV -1.0%",
+      "images": [
+        "https://cdn5.telesco.pe/file/CySuwdZ9ZyrNNrg8q3NQsZ6mLQZcUONVaOC2ySexx8T_MJn4kf9BTGd2HRMYRYrfjFlOP7OqzEKKCAmCs30EhDuySaqxWGy_0Sx0dWFC93MWkqKeXd5miT5tVdKHLxRCk5sw4zQt1RLsZBEVxPhaM1-47k6vaNBJxlY0v4zImZxYqeVy6jiBTOWNB0SMdhNrb8-F1l2_wsGMpGEIPODqEOxjMD5uGrIoBoPGSwnM2ozEG-kwGIU_JCt4iaMMeQvhQmT0oRM7vO_t3_NbmWBzWJsGxmZubvNxWEW86s-6TEp9snLbrmpYk_UmRAjh_wWv0x8-Hf1TdbgRxOa6vVMM4A.jpg",
+        "https://cdn5.telesco.pe/file/kfhDQ9erMl8iNjMJI198iRmanfB7is3tObFp6_IrJctcl711PCJZxwiGdgzCwFEIZxCcVCxCzao5n8rL50vANfygc4C55GtcNFlWz4iZDPdW27b1Td3jEHG2_1-S1_CCwSc4yAlFnoYhAmW3e_NAkPAfa0PYGXvLsYRzPKFnaGNGp6cMR_N6jqCN7vFK6KpVXQ5idDITreV-jhhM4RCYXGbmlrxtW7VGWLzy0Ao3gmMNs-zVBBWbGyzIR7nOejpY9a4y1GyTzVkg9xRXb2xqElAKf8O7YHS40Y2wbwzkdI7wtD0RcBOoZbNvJVZ7bMBM6QR1wMPCWqz5ViGqmL9_MA.jpg",
+        "https://cdn5.telesco.pe/file/sSShkaT7wsqlSAg9USaXFrWimgZFx4hCzM2jfsxISc-e-sa7OR3AAFvcBFJAf95DwnLORNgPeRl6s7y-WPn8mS9S2lc71b-HY6NJA0qF-KDyTcZvIiEO5mtd6HjzCopwoaQdxfvS2ZYRldxIcogwZL7ctTATT4S0vVoFEYQMtnst3QYyPKikhSC228WPF1rakNIWpdMAR4bu6ozoUQp3pRvGIzXQYmsZhy8APlt6BXHMB2_jAt8mhwWsjv4UXqHqE9jOsZfRpul0kdHDdK10c9OvHBHrdlDevjFOIeidoGUWJdeF1KyKVtTdy0VC-K39SAIrTzlCY5-GCZk9nMnX_w.jpg"
+      ],
+      "summary_ko": "",
+      "published_at": "2026-11-27T07:06:41+00:00"
+    },
     {
       "id": "tg:bornlupin/21317",
       "source": "telegram",
@@ -179,42 +271,6 @@
       "published_at": "2026-11-26T23:43:24+00:00"
     },
     {
-      "id": "tg:bornlupin/21308",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/21308",
-      "text": "[에이피알(278470)/ BUY(유지)/ TP 50만원(유지)/ 다올 화장품 박종현]\n★ SPOT: 두 번째 영웅이 되어줘\n▶\n인수 내용\n11/26 닥터멜락신 운영사 브랜드501 지분 87.3%를 3,900억원에 인수 결정. 구주 74.35%(3,200억원)와 신주 12.95%(700억원) 취득, 12/31 거래종결 예정, 잔여지분 관련 옵션 계약 없음. 2025년 매출액 2,322억원(YoY +190%)까지 고성장했으나 미국 틱톡샵 GMV는 3Q26 기준 1Q26 대비 -32%로 3개 분기 연속 감소. 성장이 둔화된 국면에서 매체에 보도된 희망 기업가치(2~3조원)보다 낮은 가격에 인수\n▶\n실적 점검\n공시된 3Q26 누적 매출 4,772억원·순이익 403억원은 매출취소 263억원(B2B 계약 해제 후 직접 판매 전환, 4Q26 반영) 이전 기준이며 법인세도 미계상. 반영 시 2026E 매출액 6,308억원, 영업이익 330억원(OPM 5.2%), 순이익 240억원(NPM 3.8%) 추정. 동사 2026년 연결 손익 영향은 없음\n▶\n투자의견\n재성장 열쇠는 채널 확장. 미국 오프라인 매출은 온라인의 3.8%로 유사 업종(26%) 대비 낮아 동사 북미 오프라인 유통망 활용 여지가 크고, 유료 노출 의존도가 높은 틱톡샵은 동사 크리에이터 운영 노하우로 개선 기대. 판관비율 73%(동사 54%)로 비용 효율화 여지도 큼.\n공시 기준 PER 8.3배이나 매출취소·법인세 반영 시 15~19배 수준.\nPSR은 0.7배로 동사(3.1배) 대비 낮고, OPM 10% 달성 시 PER 9.5배, 15% 달성 시 6.3배. 동사 마케팅 역량 이식 시 기업가치 재평가 전망. 적정주가 50만원·투자의견 BUY 유지\n* 보고서 원문 및 컴플라이언스 <\nhttps://buly.kr/CM2ZMfN\n>\n* 텔레그램 채널 링크 <\nhttps://t.me/alexppark\n>",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-11-26T23:42:00+00:00"
-    },
-    {
-      "id": "tg:bornlupin/21307",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/21307",
-      "text": "일본 JERA, 데이터센터 구축 위해 앤트로픽·메타 등과 협상 돌입 (닛케이 보도)\n미국 빅테크와 데이터센터 구축 논의:\n일본 최대 발전사인 JERA가 도쿄 인근 발전소 부근에 데이터센터를 건설하기 위해\n앤트로픽(Anthropic), 메타(Meta) 등 미국 대형 기술기업들과 협상에 돌입했다고 닛케이신문이 금요일 보도했습니다.\n추가 협의 대상 기업:\n가니 유키오(Yukio Kani) JERA 글로벌 CEO 겸 회장은 최근 인터뷰에서\n아마존(Amazon), 마이크로소프트(Microsoft), 구글(Google)과도 논의를 진행 중이라고 밝혔습니다.\n기존 AI 인프라 파트너십:\nJERA는 앞서\n지난 10월 일본 내 AI 인프라 구축을 가속화하기 위해 델 테크놀로지스(Dell Technologies) 및 영국 AI 인프라 개발사 RHAELM과 파트너십을 발표\n한 바 있습니다.\n150억 달러 규모 프로젝트 착수:\n이들 기업은 전국 단위의 AI 인프라 구축을 위한 표준화 모델 개발 양해각서(MOU)를 체결했으며,\n첫 단계로 도쿄 인근 지바현에 150억 달러 규모의 하이퍼스케일 데이터센터를 건설할 계획입니다.\nhttps://www.reuters.com/world/asia-pacific/japans-jera-enters-talks-with-anthropic-meta-build-data-centres-nikkei-reports-2026-11-26/?utm",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-11-26T23:32:27+00:00"
-    },
-    {
-      "id": "tg:bornlupin/21306",
-      "source": "telegram",
-      "author": "bornlupin",
-      "author_name": "루팡",
-      "author_url": "https://t.me/bornlupin",
-      "url": "https://t.me/bornlupin/21306",
-      "text": "[심텍(222800) | BUY(유지) | TP 17만원(유지) | 다올투자증권 전기전자 김연미]\n★ 영구 CB·BW 3,000억원 발행 관련 Comment\n▶️\nSOCAMM·고다층 MSAP 증설에 3,000억원 조달\n- 11/26 영구 CB와 BW 각각 1,500억원 발행 결정. 최초 3년간 표면이자율은 연 3.0%\n- 조달액은 8월·11월 발표한 시설투자 합계 3,796억원의 79% 수준. 청주 SOCAMM 전용공장 구축과 고다층 MSAP 기판 증설·유지보수에 각각 약 1,500억원 투입할 전망\n▶️\n잠재 희석 7.1%, 초기 오버행은 최대 4.8%\n- 전환·행사가액은 주당 106,390원. 전액 전환·행사 시 신주는 282만 주로 기존 발행주식수의 7.1%\n- 과거 제4회 CB와 달리 시가하락 리픽싱 조항이 없어 주가 약세에 따른 추가 희석 부담은 제한적\n- 2027년 12월 전환·행사 개시 시점에 잠재 오버행 물량은 최대 193만 주(기존 주식수의 4.8%)\n- 나머지 89.4만 주는 심텍홀딩스의 콜옵션 대상으로 2028년 12월까지 전환·행사 제한\n▶️\n발행 효과 반영 시 부채비율 187% → 128%로 하락\n- 이번 사채는 투자자 풋옵션이 없고 심텍이 이자 지급 연기와 만기 연장을 결정할 수 있는 구조\n→ 회계상 자본으로 분류될 예정. 이를 반영하면 3Q26 말 기준 부채비율 187%에서 128%로 하락\n- 2029년 12월 4일부터 잔여 사채 금리는 연 7%로 상승\n→ 같은 날부터 일부 또는 전액 조기상환이 가능해 실제 이자 부담은 당시 주가 수준과 상환 여력에 따라 달라질 전망\n▶️\n희석 대비 증설 효과 우위, 적정주가 17만원 유지\n- 8월 증설 발표 당시부터 외부 조달 가능성이 알려져 있어 발행 결정 자체의 추가 부담은 제한적\n- 전환·행사도 2027년 12월부터 가능해 적정주가 산정 기준인 27E EPS에 미치는 주식수 희석 영향은 미미\n- 2028년부터 SOCAMM 생산능력 확대(연 3,000억원 → 5,000억원)와 고다층 MSAP 비중 상승으로 이익 개선 본격화 전망\n→ 기존 이익 성장 전망과 적정 P/E 15배를 적용해 투자의견 BUY, 적정주가 17만원 유지\n*보고서 원문 및 컴플라이언스: [\nhttps://buly.kr/FsLizXh\n]",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-11-26T23:25:09+00:00"
-    },
-    {
       "id": "tg:HI_GS/7530",
       "source": "telegram",
       "author": "HI_GS",
@@ -295,7 +351,7 @@
       "url": "https://t.me/globaletfi/22851",
       "text": "🔹\n2026년 미국 금융시장 휴장 및 조기 마감 일정\n» 금일(11/26, 목)은 미국의 연방 공휴일인 추수감사절(Thanksgiving Day)로 미국 주식시장과 채권시장 모두 휴장\n» 내일(11/27, 금)은 추수감사절 다음 날로 주식시장과 채권시장 모두 조기 마감 예정. 주식시장은 현지시간 오후 1시(한국시간 28일 오전 3시), 채권시장은 오후 2시(한국시간 28일 오전 4시)에 거래 종료 예정",
       "images": [
-        "https://cdn5.telesco.pe/file/owpQbvWLGYc8F4rYI2WPBch8FHoUgiUbRUN7HnAxa_mL7c5SEJVfrdC3qdU0iv0JRcLKpX5YrSLRARdOqbhD0wg3h7s7OZVaP6N0MtOWWW5dnLvnjt12yiCfDj6xSUsF4euFI-v0HRGZLrWyIAS5B801GDqYj1xlBtjYwNpucUpgkTcLFJpWvKcsn1ZSgFAQbrTtv3VPD8HGYgbm2UU0VxtW4y_bnwffVxxEnxwQFt-I6J3HDS_qYbY8QCtbvpCXOXmFaCIFgRA8WyM9v6NCXlodt-Ml1kruz8PTaYidZLVJUtERThAg1riw90_P3xcSt4WBhipHGwfCuxcRNgqZrw.jpg"
+        "https://cdn5.telesco.pe/file/gNYyFwRJ425wqpXyi5ErmKFxuKFKO2ejfADAtVkaLWEnpuXO97Bt3n-BxFFOt3nbhOqTRGpNApjUJIjJuDpt0xfELrWSPO0ltYxRmek6y8-6qeHHAkxyDWU0Za1ehij1JKw6gNx-EJRlmjK2ZT5DOsSmEUXA5mCxq3LVu46a4GyzQwXyQBVDt6Tf5G--u0OeCeg2drs0xZ5XjxTl2jG07JGmdioS0AFl0XSkkX5hYcBqkZRmq7fbLz-oVsBqm7y8Fz8hGfZFWQH2xdT-djnZX1tIjhd8bWOGtTfe7ti7hJxFQrAsW6K52q0GbCObSYfGXjfVN8DTcue9ox_KNN3tqg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-11-26T13:54:11+00:00"
@@ -309,7 +365,7 @@
       "url": "https://t.me/enc210406/4703",
       "text": "[조선 및 기계(기자재) 업종 커버리지 밸류에이션]\n2026년 11월 26일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/UPKUUUyBccLQ8Ci-dZbq-LsLkBo13GJpYQjdF77Y5Jy-Yrk-3BfJHd8Nwo5SUlXIn5S_5-lGVV-N4eRuz9RSuY3CfbhJs0ZUgMqRWlgH8dgPBVKB_QKC-Cf-DnDOB4EwucZqwdAw0hGUBJIHju7ttlhkL_89meDMc3hXtNLpmd1ztaHw5eOHp5Czev8oCZkXjWd7dZZzSlyK41_9qXs3v8QofzFHXujQM4keIuhk7qLJRnRphZdwPJCMFRGyiSeK9dcEu6jVmVwLYyc6mlcfAaIdoIxhMCNG9J0R1qaQNQNs01EOCWK_73C3HyjLNkbZws3AMUyDRAbBMrGXSZspyA.jpg"
+        "https://cdn5.telesco.pe/file/aS5tW_UUJcufYcij9rPpVgZeu92i6OFmQxxHVgixE1UQcCeJkHf-9opnNDb6rnesPRvHoD3XN-23ccCz9uX_WHqFzAwqAh_g0jhLtX5-AWiWtkDd7UQlsILRC_BfMnhmp1yHhm7CtQaKHDv9JwtTqbpOSvmw2h4lZj4nVXwneT-fMpjm0cLiYmVbteKJChQhhsH2OW9EDRIBT-sdE20DJLRVQ1avhdAxd-RC4jUdB-zW3JPfTC98k7Id0I5Uv4_pgSJJQfoutfreS2Ts8B4V9JVJfQqIx-xcMl-cZQgDaQa-Vu2erkoNytU8iKqy5sQaRUyvvkzv8f5rMIHo2li1VA.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-11-26T07:38:15+00:00"
@@ -385,18 +441,6 @@
       "published_at": "2026-11-26T01:29:20+00:00"
     },
     {
-      "id": "tg:HI_GS/7520",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/7520",
-      "text": "[필리핀 다연장로켓 도입 두고 한화에어로스페이스 천무와 인도 피나카 경쟁]\n• 필리핀군 장거리 화력 증강 사업을 둘러싸고 한국산 다연장로켓 천무(K239)와 인도 국방연구개발기구(DRDO) 개발 피나카가 도입 후보로 경합 중\n• 인도산 피나카는 개량형 기준 사거리 75㎞급으로 발사대 기준 천무·미국산 하이마스(HIMARS) 대비 약 30% 저렴한 가격 경쟁력 보유\n• 한화에어로스페이스 천무는 사거리 80㎞급 239㎜ 유도 로켓부터 최대 290㎞ 전술탄도미사일 및 대함 무장까지 단일 발사대 운용 가능\n• 인도는 2022년 3억 7,500만 달러 규모 브라모스 수출에 이어 7억~8억 달러 규모 미사일 추가 협상과 아카시 수출을 추진하며 필리핀 내 입지 확대\n❗️\n남중국해 영유권 분쟁에 따른 해상 표적 타격 수요에는 천무가 유리하나 인도와 필리핀의 밀착 관계 및 저가 공세가 핵심 변수\n출처: [서울경제]\nURL:\nhttps://m.sedaily.com/article/20119012\n─────────────────────\n📈\n텔레그램 공개 채널\nhttps://t.me/HI_GS\n🎴\n피곤해지는군여",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-11-26T01:17:13+00:00"
-    },
-    {
       "id": "rss:semianalysis:evaluating-recent-model-releases",
       "source": "rss",
       "author": "semianalysis",
@@ -450,18 +494,6 @@
       "published_at": "2026-11-25T23:30:01+00:00"
     },
     {
-      "id": "tg:HI_GS/7519",
-      "source": "telegram",
-      "author": "HI_GS",
-      "author_name": "DAOL 조선/기계/방산 | 최광식",
-      "author_url": "https://t.me/HI_GS",
-      "url": "https://t.me/HI_GS/7519",
-      "text": "[다올투자증권 조선/기계/방산 최광식]\n11/26(목) 데일리뉴스\n🛳\n조선\n[TradeWinds]\nHong Kong-flagged tanker comes under fire in Hormuz as Iran claims LNG carrier suffers explosion\nTwenty LNG ships chartered in for growing Middle East Gulf shuttle fleet\nGiant ship recycling facility to be built in Oman with Clarksons as exclusive broker\nCapesize spot rates tipped to run hot through the fourth quarter\nBureau Veritas dismisses $16bn sales talks with US private equity company\n[Upstream]\nSaipem secures $650 million Saudi Aramco offshore deals\nRace heats up for Woodside‘s massive FPSO jobs\nFPSO demand growth may drive more shared fabrication between yards\nNew competitors emerge for Adnoc offshore expansion prize\nSeven in race to revitalise ageing Petrobras platforms\n🚢\n조선\n한화오션, 태국 해군 호위함 사업 우선협상자 지위 상실\nhttps://tinyurl.com/2xpxyrcq\n튀르키예 야사홀딩, HD현대에 LPG운반선 2척 발주 추진\nhttps://tinyurl.com/23zx23bm\nHD현대중공업, 50년 함정 건조 기술로 글로벌 무인함정시장 공략\nhttps://tinyurl.com/2d7z5zm8\n[K조선 인도戰①] HD현대, 인도 32억달러 발주전에 ’조선소 신설‘로 승부수\nhttps://tinyurl.com/2ay8l838\n한화오션, 서남권 해상풍력 확산1단지 사업 불참\nhttps://tinyurl.com/2yfdhwa3\n삼성중공업, 임원인사 단행…부사장·상무 등 10명 대상\nhttps://tinyurl.com/22x55gkb\n🚀\n방산\n한화에어로, 자주도하장비 ’수룡‘ 수출길 열려…”軍전력화 성과“\nhttps://tinyurl.com/2yj8ckwv\nKAI, 달 착륙선 ’뼈대‘ 맡는다…달 탐사 2단계 참여\nhttps://tinyurl.com/295qa45w\nLIG D&A, 무인수상정에 유도로켓 탑재… 시험발사 모두 ’명중‘\nhttps://tinyurl.com/23boewep\n군용 다족보행로봇 수주전 2파전 전망, 이용배 현대로템 K2 전차 이어 무인무기 신사업에 강한 의지\nhttps://tinyurl.com/23b4ng4u\n”안티드론 역량 키운다“…한화, 전담 TF 신설\nhttps://tinyurl.com/28p2jtpf\n* 위 내용은 보도된 사실의 단순요약으로 별도의 컴플라이언스 절차 없이 제공됩니다",
-      "images": [],
-      "summary_ko": "",
-      "published_at": "2026-11-25T23:16:31+00:00"
-    },
-    {
       "id": "tg:enc210406/4702",
       "source": "telegram",
       "author": "enc210406",
@@ -494,7 +526,7 @@
       "url": "https://t.me/globaletfi/22844",
       "text": "» 미국의 10월 실질 가처분소득은 전월대비 +0.51% 증가하며 전월의 감소세에서 반등\n» 반면 물가 상승 효과를 제거한 실질 개인소비지출은 전월대비 -0.03% 감소하며 올해 1월 이후 가장 부진한 흐름 기록\n» 실질 구매력 개선에도 불구하고 실제 소비지출은 위축. 소득 증가가 소비 확대로 연결되지 못하는 모습. 인플레이션과 고금리 부담이 지속되는 가운데 가계의 소비 성향 약화",
       "images": [
-        "https://cdn5.telesco.pe/file/RlcW4VqKsuCv7QN87iLWpkZm49AGriu_WTHeG7ZYDaw6Qy1UQgrPeYzGT0XFIurla4r3oJPOFuPnZXJP0wPGp69XchJn6kmUvQLkQaC3T9q7-MseEvSZ1HxkClT1KL82j9rvDQPcaHf-r9TlkYTRJyqW-3R3eywlgPWKlshPwHpwkpAUKyM-V8ccuSMa4PvSAlyOakiKMzEHXEP1zbbwzz64PxZoGbyZWwXY4lYm51vQN1EbT86hWO45Y32fB7mCUrrErK-Z5f6mOVdFhJNwC0-5sNAK4-JgkdZIbHrAUU_V5NctRZ87iqSzA_GwuC1ySnd03OHphVNABULn6WwIQA.jpg"
+        "https://cdn5.telesco.pe/file/U-fSpAGvWRzXwCs1mlmwjKaOodepw5AKKl0xU1tal1_nAjY724B8c0XGHi2sp2CpF-mLXVUj4nKVK9YoG9mQxg6a5T8JHlc5-JDUlX3E65_kbOlTSK16TJlGB-Q4Wc1PoksongN9J0Tr2DKzYyzpL_zWmGe8sXwOU1W2y0qYEZbIqiCo-8CCS13FYSokvll5JXNnE6AQgdWlU5XSKhS-FhAZg9OWyHHMtlugql0T6_-Mn6f0GX0eisO22qKDOU36Zmt_ziAS3q82uVW-0-diW5sa5fnBvWDDQHh83WAab2HtIKcT2W4if74uERKmkYPKK_QYksnc4DrqVFEhbm7dLg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-11-25T14:45:42+00:00"
@@ -508,7 +540,7 @@
       "url": "https://t.me/globaletfi/22843",
       "text": "🔹\n미국 주간 실업수당 청구건수 추이\n» 미국 주간 신규 실업수당 청구건수는 18.9만건으로 시장 예상치(20.0만건)와 직전주 수치(20.2만건)를 모두 하회\n» 연속 실업수당 청구건수는 169.7만건으로 시장 예상치(174.0만건)와 직전주 수치(179.2만건)를 모두 하회\n» 실업수당 청구건수의 동반 감소세를 통해 미국 노동시장의 견조한 흐름 확인. 다만 실업수당 청구건수 감소가 신규 고용 확대를 의미하는 것은 아니라는 점에 유의\n» 예상치를 상회한 10월 Core PCE 물가 상승률과 더불어 연준의 12월 추가 금리인상 전망을 뒷받침하는 요인으로 작용할 가능성",
       "images": [
-        "https://cdn5.telesco.pe/file/XhuVZZwoczGf2qzFGHEHOXX6QQuslgV6upQ2KDsO8pcxdVdcgRV6tBF4Pce857INcE5fU8eSndFU6DCd2grWrAd2mrdoktub2Pp_R869Axa5KvoLA5vc9H_k7CH54f4FlVpkvFK7t09CT6MM32uhn8hrWYvOrhDuVLIQjdgpxXW5Ct8dUMZmZUqZkkRods_WweejfVvLk1-MDPxU74RM3JSnCJdAx6KKKRD22LBVgXZWoFXlMMU_U9dq3EzF4TPw6ksF3TPHDR03wzKq4JWhPQVbVBI6uktoV_DdXd6DusTQpmusPp0aVtiXAO0ITIUWZU7a6xO19bSuzHs8ccoxQQ.jpg"
+        "https://cdn5.telesco.pe/file/UPCLAVAVdxuTFB4mqfz3UQtNlA_HQq807XMn-lhBc4f6S0moq6NgO2bb4366SZmTkchiPNMGqijFHe0UIEVOvyR0YG_CnL5xLykrwg0r6DCiom2oqkxynIuh7OPSaLN5WfSu5xTxb35MoiV1KUqD_I0woHxNy5oV9aCA1yYDL4eciPhm5kojsj6f4hbXFO2RmjpKoEXHpyB4K47iNvVZ5FKtj6aV2b-C1Xr4GlvvGOZgTDChHCtXZkWwrar0jmKa7537MJFgU6EujmUpCtKb_U2WDYfbQ8g_YLUpU2GEKYxVH4dY_xec-4cJuVdws7XCoEbIoSD-ZaQ3J6w_NfHWYg.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-11-25T14:16:12+00:00"
@@ -522,7 +554,7 @@
       "url": "https://t.me/globaletfi/22842",
       "text": "» 개인소득의 전월대비 증가율은 +0.3%에서 +0.7%로 확대되며 시장 예상치(+0.4%) 상회\n» 반면 개인소비지출의 전월대비 증가율은 +0.6%에서 +0.3%로 둔화되며 시장 예상치(+0.4%)를 하회\n» PCE 물가지수의 전월대비 상승률이 +0.3%였다는 점을 고려하면, 물가 상승분을 제외한 실질 개인소비지출은 전월 수준에 머문 것으로 추정. 가계의 소비 성향 약화 가능성 시사",
       "images": [
-        "https://cdn5.telesco.pe/file/VMbyyMppKiI90bGVPr7qRLvdpXNlbdfTsYyd7ird3bbrGx_9OyvkOGTCm-fNMdWFeOsKPZ6xC3ah9BRlufhpIxYKBOmNll7wXJkLuz5wzBBP0wnr2aJt7bRCLBJhAccOQdXjN_k_BD-7Exq2mFy-SJ-gL5Cz1j4Eu2my9qktt4EeJIPZVtZSRoO6gtwTei0TgPnSadfXJtlRz2KlVxYWieMzY8hRWMXP56QT2-Xlc9265vq5Xbi-TGEySks219dXXm5uV_nnKjbZ2JX201hlNsI4JpTBXABaSADyU2H_8FQ7ATeaF3UYoAz0wKTF_u1aCmTWXjbPB7SXm462YPkSAg.jpg"
+        "https://cdn5.telesco.pe/file/gZ69KIiLhCXv0rqov4MsWnFpx2-8g3UfGMiB7fizJVtSDtpeMq9bJ0Lb7wfHABj750xAB0OPq2fh0kQ2tAW3UhOWyuRcpVa3hUV8kWg5a3UZPdgpvWwTPTruXl8DvL9eecPusyUAq0hdoETFYrMVAbmi3tRB9p9i2Al-6KZAjZZfYuB5NF-hiFbRg415Y_O78wnAr3N03k6f6WXDLGAPXrhG8AxQuYbKDsB73EbwDHNNJbOZWnft9xxChIz9m4tm77FhSH3qfxVHEBGxKZyndrDHSNcMeoSWbSfLQpsBzXs-l81Sa43hp2T0fxGe4lhMiTttGlyOcShQxkf-hI5HJw.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-11-25T13:58:26+00:00"
@@ -536,7 +568,7 @@
       "url": "https://t.me/enc210406/4701",
       "text": "[한화오션 군함 수주 관련 변경사항]\n@ 함종: 호위함\n@ 발주: 태국 해군\n@ 수량: 1척\n@ 금액: 6,833억원\n@ 변경사항: 우선협상대상자 지위 상실",
       "images": [
-        "https://cdn5.telesco.pe/file/fDHXLc9mw7E9jnoGIBL5jWLvyirTgynHshadS4fNQoSMYdz8jfEtOHuGkwY8eWfP15E223ePButCbbeg9iZ8sFUWMF9vWqgJJis8w2St-freWEtop76orrfbv09uXpC8zFbE2dG0hgsTORmpc0YpcZMsVCUOV0IvdvUz8oz2WovMt7teHNMTUiAkdevyRLL1nrZC-oyqAKTKcjLxcrD-jI-Bv1QGVmwhnhYYUQwj34teOJrpOL93HOWBaOXXmAoz_cnQl3pZUgIaWY6NaKcOYgc45vQj9xp-5hmI8SnQ-niV0aTqdCoL10VwKeNp7uMKy92UNtwbLkeIlv5G-v3CZA.jpg"
+        "https://cdn5.telesco.pe/file/mGerNTB41faD1-PlkV3exoTRaH5_UXpbCPQl7q1LbPQuv8Beb1AZbQ0SUuYJnCUnQlCN5q4Yy_7ZvUYq5qn0HnpYltYZwylcMFWj_7Txcd__F6Yv4VWV_H5uPGR4sVSPyhGMY0kxCsw4rTAcbUwQfUAFX4ZxU7doSuveV9DL27ZDE1gnwoGpHvJTba8luR9R12_okc7x4iMxOcPWM4scIjoDtLOleGQAbhirokT7kcma-Df4h0WGO31Q1TbcNbgMaAHr4vb7BrmNm0tGVoUb99VNxpXJ_Wmwj4wxpXIOdpoqPE2cz56UZmDsbIIL8YyAuczBqp3LofOXnHCaogtT9A.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-11-25T08:43:07+00:00"
@@ -562,7 +594,7 @@
       "url": "https://t.me/enc210406/4699",
       "text": "[STX엔진 선박엔진 수주 변경 공시]\n@ 발주: 뉴타임즈 조선(중국)\n@ 변경 사항\n1) 수주 금액\n- 기존: 786억원\n- 변경: 1,375억원\n- 증액: 589억원\n2) 납기(마지막 엔진 기준)\n- 기존: 2029년 7월 25일\n- 변경: 2030년 6월 16일",
       "images": [
-        "https://cdn5.telesco.pe/file/q5c9T4xw09BbikDJhjGrl9WoxM4a-TNK-UfF6trSWB37t0advTjK9hFVBf58lDrfAoUqF8YjgwNgmHZrqf50ZLVidvLqS2_QdHvhN_O6kaGXawU_rBeTv5yQ0VEG20pA67pE5iqqXYOEXAiG3PPGPN_8SW9wSenziX3Ou33ki7bS1UTxkfBNIq9_iOhBJYEvYXwj1C7MMTAq21Mp2vWKO8fHFIwWdGAfjkiy04JXbTHti6cPy6kzCm8YXaZnTDFj_U_PjO2C4BJ8r0uSX8SQ7EWCgSaPRXk12f47f3wF_uwOptRbSp8w3oW42LLB7HAPK9239hSJYI_Zz7aiK48NKg.jpg"
+        "https://cdn5.telesco.pe/file/VAi3kqOt-B4MQGdY3zASEd2KWJ-RMNebtIdVh7Cp6gI_YuGqNoOTtQXwZ2LyaDHmrwXO73SGxWvCVK6ihtP48d8IWlr0Z-vHsiCNfHSADLIUfJTlw6LnXOi5s0ZU3Li6JfB3N-wXx2p6VBtMxyFMh56Gl7MgyII71MitqjZe3af4kfddPO-2uh3NUh8_5aZpTHnqn-oVPusHPEqm73jgp_-pQ2VLqmXa1FuA8tVH1ShrLzSWglMoXzvjuTp6mm7YJSKe-CFXo_j92lC-1x2H6cq0r7ZjxgKaYcllNoXkSV4dGugddjUJZxTDv6F3CGyAajpSFFkVh7lOjAMYze3O5w.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-11-25T08:12:11+00:00"
@@ -576,7 +608,7 @@
       "url": "https://t.me/enc210406/4698",
       "text": "[조선 및 기계(기자재) 업종 커버리지 밸류에이션]\n2026년 11월 25일 종가 기준",
       "images": [
-        "https://cdn5.telesco.pe/file/DUuqj7Z10_gCFIxCt1qd7Ai22jLWEXN4zfPnPr9465_jzZnpflQffssbx0soDQH4AUxLEWeiND9ZWnhu-gvL6P3gX7JFj5-6LtMEfmzV4A7WhptN0cz9FKHo5luGStHKwI8YJITBfPnbHOmbjiKV9l7UmQNblJlpf0gX3BYH25YnuRXlk7AdhXyQRDQCfSxniUxC8-XyFbxKdoRSQ80-9R_S0P5GkMs7RFUIs9sXfKGgTcOHs2b_GQb0AEo0NP2XILJpwoHpP9E9hSIAXvMfZF5w6kxe4HuPMAwnyjCEO9IMuWYOji9ohGyJdV_On_uCGG6jIglT0YDKrI7im3Ggfw.jpg"
+        "https://cdn5.telesco.pe/file/NqCyIQ0o8oYYbgWImjI_X8pV0kS9-ZkmvHHKpcpFYPtSYir0vEqHXdwKJsXDIc3eR-LBwNfvTJHg5hbdhRK_zApzLY7sbUlaTMU3HQAjORusj706U2lM7bfp8tW2-pyuNOyDQ8jj5ZbFMmrt_MUW9U3pK7ZBmIu7XejNOjI__rISFh1CRkgExzI7R3vRQJIKxNb1P4y2WRWABdjT-zZMzbgTvOg7sNwUrXQk3gcGvF5N1UQBUv5-zUYE0NOVNoE_NQWrkeLyX-1tIszCr4fSlHQAYBE3uiB_v5pJd4jNS6kYmlOZpKJEKaHG9sEKLoAadMOQcioaL9SsOsg5BkzS4g.jpg"
       ],
       "summary_ko": "",
       "published_at": "2026-11-25T07:40:41+00:00"
@@ -630,20 +662,6 @@
       "images": [],
       "summary_ko": "",
       "published_at": "2026-11-24T09:07:18+00:00"
-    },
-    {
-      "id": "tg:enc210406/4693",
-      "source": "telegram",
-      "author": "enc210406",
-      "author_name": "[한투증권 강경태] 조선/기계(기자재)",
-      "author_url": "https://t.me/enc210406",
-      "url": "https://t.me/enc210406/4693",
-      "text": "[HD한국조선해양 2사\n2026년 10월 잠정 매출액]\n@ HD현대중공업 기준\n2026년 10월 매출액\n- 잠정치: 2,189십억원\n- 컨센서스: 2,029십억원\n- 컨센서스 대비 잠정치: 7.9% 상회\n* 참고\n10월 매출액 컨센서스는\n4분기 컨센서스 6,393십억원에\n10, 11, 12월 조업일수\n(20일, 21일, 22일)로\n가중치(31.7%)를 적용해서 계산",
-      "images": [
-        "https://cdn5.telesco.pe/file/U5JrleiyvPwSuMtKnUvGyUT7yWsOiAj8qTXv_NNk_ISGTR5AksU0mJkplwvLWZExrKBIPYBzNYcPnp2SCjifMiYRrRCLdJS4MUAklury0-53vndpJ63o1svrN22-1JmXlZCUicsg4lwtH_FN-EJH7cuaUM82gKVWK4jD8yPu-_iqOH7ssOSPSgb4PAb0JjFkLO2ubAihdH7fHm5Gm_xc_ptCxlHG8F_9zuTySRrvox9P_gDe-fFsJqID2o39NnfX-I7l1dknRL7DIvbXmFjkOrjtK4DcyIxrZ9yu62d7b9tNcEz10vExdBFV1ytlePydr4mm-7kFESTEyQJwzaffbA.jpg"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-11-24T07:56:45+00:00"
     },
     {
       "id": "rss:semianalysis:nvidia-and-the-world-without-jensen",
@@ -938,20 +956,6 @@
       ],
       "summary_ko": "ASML은 하이브리드 본딩 도구를 구축하고 있습니다!\n\nASML은 하이브리드 본딩 도구를 구축하고 있습니다! 회사는 아직 아무 것도 발표하지 않았지만 특허 출원, 뉴스 보도 및 자체 로드맵을 통해 이를 알 수 있습니다.",
       "published_at": "2026-10-15T19:27:20+00:00"
-    },
-    {
-      "id": "rss:semianalysis:beijing-will-not-pace-the-frontier",
-      "source": "rss",
-      "author": "semianalysis",
-      "author_name": "SemiAnalysis",
-      "author_url": "https://semianalysis.com",
-      "url": "https://newsletter.semianalysis.com/p/beijing-will-not-pace-the-frontier",
-      "text": "Beijing Will Not Pace the Frontier: China’s Speed-First AI Safety Regime\n\nAI safety is on fire.",
-      "images": [
-        "https://substack-post-media.s3.amazonaws.com/public/images/25cacc7e-0e09-48ed-b95e-a3a8fcca4cbc_1536x1024.png"
-      ],
-      "summary_ko": "",
-      "published_at": "2026-10-08T17:46:05+00:00"
     },
     {
       "id": "x:ylecun:2090600582805430353",
